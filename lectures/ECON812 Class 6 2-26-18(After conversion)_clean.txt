@@ -1,0 +1,2918 @@
+questions about the exam. Then I will take all questions about the materials for weeks one through six.
+This is not your only time to ask questions. It is a time to ask questions. And then if we have no time,
+then we will start with the week eight notes. Week eight will not be on the midterm, but time's a-wasting,
+and this is a graduate class, so don't end early. All right, so in the last class, we were going over the
+coordination game some more. Remember this is a classic case where you've got two strategies of left and right,
+and we've got two equilibria of either everyone doing left or everyone doing right. So you certainly don't want
+to have people driving on different sides of the road at the same time, because then you're going to get
+accidents, but it's possible that everyone driving the left is worse for society than everyone driving the right,
+for example, since most people are right-handed. Maybe it's actually safer to do it that way, so maybe the
+American way is better than the British way, or it could be the other way around. What is clear is that it is
+not good to combine the U.S. and British systems simultaneously on the same road, which is disastrous.
+And I've taken lots of applications, so you can think about this as a story of language. Like, why don't we
+all have our own language? Has anyone here ever invented a new language just for fun? I said, usually
+they do poorly. I kind of do. I've come up with a new system of simplified spelling, which has not caught on
+at all, even though it is obviously superior to what we do, which almost anything would be obviously superior
+to what we do in English. Let's say we do this for language, as I mentioned, so culture more generally,
+what is the correct distance for having a conversation? As long as you have the same idea about how close
+together you should be, then you can have conversations of comfort. If you have different views on how
+close you're supposed to be, then it can be very awkward. It of course could be clothing. How come no one
+here is wearing a kimono? Why not? Why is that what we wear for jobs generally instead of suits? That seems
+strange. Why do we wear suits at all? Isn't that an incredibly terrible kind of clothing for people to wear
+during the summer in the South? And yet that's still normal, and that's what you're supposed to do.
+So that could be there, say. And then it's been used for technology. Since there are many technologies
+where you want to be using the same technologies of the people, if someone came up with a totally great
+new operating system, you still might not want to use it because no one else is using it, and therefore
+there's no software written for it. Every now and then someone does come up with a new operating system
+and they try to get it going. Once in a while it takes off, but usually it falls flat. And then location.
+So Paul Krugman to this day is bitter that his work on location has not been adequately appreciated.
+You get to the point where you have a Nobel Prize and you sit around feeling like people adore you.
+That's a problem we should all have. But anyway, the point is, look, why in the world do we need to have
+the carpet production outside of Atlanta, Georgia? What is so special about that place that it needs
+to happen there? And the best answer seems to be that you want to be there because all the other
+carpet producers are there, and the costs are then going to be lower if you are in the same place
+where you have the suppliers and the train workers and so on. But if you can move it to a different location,
+if everyone can do a coordinated move, that might very well be a big improvement.
+Again, just think about the city of Manhattan and why in the world have it there.
+What a stupid place to have Manhattan. Why not go and put it in a better room with a better climate,
+on a place where you're not constrained by an island for your space? These seem like obvious ways
+of improving things, but not too likely to happen.
+And again, when you talk about coordination games in the context of technology, as I mentioned,
+usually we use this phrase of path dependence. There's nothing really new about this that's added on
+to coordination, it's just extra vocabulary. But the idea is that the technology we use today
+depends upon the technology that we're using yesterday, and the technology from yesterday
+and from the day before that. And why? Because we are trying to coordinate, and the natural way
+to coordinate is to just keep doing what we've been doing in the past.
+You can imagine a coordinating equilibrium where we alternate every day.
+Where, well, since we were speaking English yesterday, let's speak French today.
+That could be a rule. And occasionally you will see things like this.
+Like if you go to your friends, or you eat lunch with your friends a lot, a common rule would be,
+well, we don't eat there today because we ate there yesterday.
+So once in a while you do get this as a coordinating equilibrium.
+Don't do what you just did, but more normally the equilibrium is keep doing what you just did.
+And then probably the most famous example of path dependence in the whole history of technology
+has a name, and that name is QWERTY.
+And if you're wondering what that is, just visualize typing that on a keyboard,
+and you will picture your finger moving along the second row, one key at a time.
+Right? Anyone here use a non-standard keyboard?
+Once in a while?
+Yes, so I know German, so like...
+It's got to be for typing in English, yes.
+If you type in a totally different language, then...
+We have the same alphabet, it's just different.
+Yeah, yeah, yeah, so I have typed on a German keyboard, and yes.
+So yes, you can go to Germany and still type on it, but it's hard.
+Although now, you just press a key and then it switches it back to English.
+And then when you're typing...
+So the Z gets moved because Z is rare in English and common in German.
+So this is probably the most famous example in the whole history of technology, of path dependence.
+And again, the story about QWERTY anyway is that back in the old days,
+keyboards had physical keys, and you needed to be careful that the keys did not jam.
+How many people here have ever typed on an actual physical keyboard at some point?
+Alright, so you've seen it.
+So anyway, there's a row of keys, and if you do a key from the extreme left to the extreme right simultaneously,
+they can cross and mess you up.
+So the story is that the QWERTY keyboard was designed to actually prevent that.
+But now, of course, have you ever had keys cross on a computer keyboard
+where you press two simultaneously and the board jams?
+Has that ever occurred? No, that would not normally occur.
+That would be a very strange thing to happen.
+I mean, there might be a video game where you pretend you're on an old-fashioned keyboard
+and try to not cross the keys or something.
+But anyway, that'd be weird.
+And yet, we still use the same keyboard configuration that was established 100 years earlier
+when these keys were first around.
+And there are stories of people claiming that there's a better keyboard out there.
+Which now that we don't have to worry about crossing keys would actually be far superior.
+Now, important to remember, there's nothing about coordination games that tells us that we tend to go to the bad equilibrium.
+It just says that you could be there.
+What is a game that we've seen where you do tend to go to the bad equilibrium?
+Prisoner of Salaam, yes, that's one where you should expect to be at the bad equilibrium.
+This is not one where you should expect to be.
+It just says, keep an open mind.
+Maybe you're in the bad equilibrium and maybe there's something better.
+Very different.
+But anyway, if someone tells you that they're there and says,
+look, this is the QWERTY keyboard, this is the superior Dvorak keyboard.
+So, someone may tell you that and on the one hand it's reasonable to say,
+well, given that people just want to use the same thing other people are using, that seems plausible.
+On the other hand, you might want to go and say, well, who are you, person who says that this is the Dvorak keyboard?
+Are you a Dvorak keyboard salesman, perhaps?
+Or might you in fact be Admiral Dvorak himself?
+Yes, the very man who was responsible for doing the studies claiming this keyboard was so great,
+which were then apparently uncritically cited by people who wanted a good example of path dependence.
+I'm a little puzzled by how they could not bother to check the author of the study,
+so I'm not sure quite what's going on there.
+Maybe he did the work and then he had someone else put their name on it.
+I don't know what the story is.
+But anyway, you might want to go and double check that.
+So, in other words, it could very well be that when someone tells you that we're here and we ought to switch to here,
+that they are doing what's called special pleading,
+where they are trying to claim that what's good for them personally is actually good for society in general.
+Like, would it all be better if we switched to Esperanto, right?
+Usually this is going to be said by someone who is fluent in Esperanto.
+It doesn't mean they're wrong, but it seems kind of suspicious that you would be saying that.
+Yeah.
+Okay.
+And then there's another possibility, like plausible for language,
+that maybe if we go back in time and change things and re-run history, that would be better.
+But it could still be the case that it's so costly to do the switch that it's just not worth it.
+So, suppose that to go from here to here, we have to pay a trillion dollar transition cost.
+In that case, you might say, wow, it's going to take longer to recover that than the total cost savings,
+because the human race will be extinct by then.
+So, better off just sticking with the language that we have got.
+Now, this example has been suggesting, has been debunked extensively.
+So, there's two economists well known to GMU, Rodolfo Salibowicz,
+where they said that the supposed evidence for the superiority or equality is just made up.
+And it is striking.
+So, a lot of these papers were done in the early 90s.
+So, since then, you might think that if there were better keyboards out there, they would have happened,
+because it has gotten really easy to turn any keyboard into any other keyboard.
+I think that actually, if you right now, in five minutes, you could go to the Internet and download new drivers
+and instantly convert your keyboard.
+So, has anyone ever, anyone attempted to try this?
+Has anyone tried?
+They sell little mats.
+I used to have a little mat with a German, and I would put it on top of my keyboard.
+Right. Has any of you decided to do this?
+So, you're doing this now?
+No.
+I'm not a German.
+Oh, okay.
+When you're actually in another country, where, again,
+what would this model predict about what you're likely to do in another country?
+Do that.
+Yes.
+When in Germany, do as the Germans do,
+because then it's much easier just to conform to whatever they're doing.
+Right.
+Okay.
+So, yes, and one of their big points in debunking was to say that the alleged scientific proof of the superiority of the Dvorak keyboard
+came from the guy who invented it.
+So, it's kind of funny to take that seriously.
+I know. That sounds reasonable.
+So, does this have implications for, like, Monopoly,
+that maybe society wants a certain, like, they all want Windows, so that way you can all have Windows?
+Oh, yeah, yeah, yeah, great point.
+Yeah, actually, you're almost to, this is very close to the very next bullet point.
+Okay.
+Yes, but worth elaborating on.
+All right.
+So, when are these problems least likely?
+So, how about if there's a small number of players?
+Or Monopoly.
+Right.
+If there's a Monopoly, then you're unlikely to do that.
+Or it could be there's a lot of players, but there's a few focal firms.
+Like, there's a whole lot of Internet firms,
+but if Google, Microsoft, and Amazon all get together at a press conference and say,
+we are switching to some new system,
+it is pretty likely that the rest of the computer world will follow the line.
+Okay.
+So, it is worth thinking about an alternate universe where there were ten different operating systems,
+and imagine how many calls to regulation there would be saying that there's a cacophony of operating systems,
+and we need government to go and standardize things, and the market's totally failed.
+Right, so, you can visualize this world.
+And then, let's see, how many of you guys are old enough to even remember the antitrust case against Microsoft?
+Barely.
+All right, so, you guys are falling or paying attention to antitrust news from a young age, I guess.
+Or positive.
+Remember means you have to actually remember what was happening.
+It's not like you haven't heard about it later on.
+All right, so, I should specify what it truly means to remember something.
+You have to have been there.
+Do I remember World War II?
+No, I do not.
+I don't remember World War II, although I know a lot about it, which I've read in books.
+All right, anyway.
+So, there was a case where Microsoft was under years of antitrust scrutiny for the Windows operating system, right,
+and a lot of complaints about how they were monopolizing things.
+And the striking thing about it was that if there had been a bunch of different operating systems,
+then they would be suing Microsoft, but people might be complaining for totally different reasons.
+All right.
+Now, some of the most amusing remedies that were suggested for Microsoft.
+So, back then there was a big issue that Microsoft did something really bad,
+which is they built a browser to compete with the pre-existing monopoly browser, which anyone remember the name?
+Netscape.
+So, there was Netscape, which had a very dominant market share,
+and then Microsoft built into its existing Windows operating system the Internet Explorer browser to compete.
+Best browser.
+Yes. Yes.
+All right.
+So, Internet Explorer.
+And then one of the proposed remedies that was suggested, which I think Microsoft refused,
+is they said, look, we'll settle this case if you just agree to delete the icon, not the browser itself.
+They wanted them to delete the icon so that in order to get actually access Internet Explorer,
+you would have to go and fiddle with the preferences to recreate the icon.
+So, this is the idea of a way that we go and make things better for consumers is to require people like my parents to install an icon.
+So, again, it makes total sense that Netscape wanted to protect its monopoly, which, as you may have heard, it lost.
+How is Internet Explorer doing these days?
+Also not doing too well.
+And then there is another firm that Microsoft, Microsoft itself, which is Google, right?
+They did, you know, known for the search engine, but came along and offered a free browser.
+All right.
+So, by the way, one interesting thing to consider when you're ever thinking about predation is that there's almost no economic model that I've ever heard of
+for companies that just give away stuff for free forever.
+But this is a great deal of the Internet economy.
+So, in a way, if you ever wanted a clearer case of predation, you think it would be that.
+As to how in the world this is continuing, the obvious story is they're getting advertising revenue and that the customers are not, you know,
+the customers are just different people than you think they are.
+You're not the customer.
+The customers are the people that are going and paying Google for advertisements and things like that.
+Although, once you think about it that way, you say, rather than Google having a monopoly over search engines,
+it has a small share of the market for advertising.
+And then it's very unclear what the problem is supposed to be.
+All right.
+Okay.
+So, questions?
+Anyone wondering about this?
+Anyone happy?
+All right.
+One of my favorite stories of coordination is when Bill Clinton had one of his people on trial for perjury or, you know, perjury or obstruction of justice.
+He was an obstruction of justice.
+There was a juror who showed up every day in a storage ranking uniform, and this was news.
+This news was almost as big as the news about the trial itself.
+So, again, because it was not, of course, Clinton on trial.
+It was one of his underlings, a far underling, who went to jail for him.
+All right.
+Okay.
+So, people happy?
+All right.
+So, yes.
+I mean, I understand probably you're very sad you won't be seeing me for three weeks after this, but still, we'll try to enjoy our time together.
+What era of Star Trek uniform?
+I believe it was the 1960s original.
+Oh, the original one.
+Yeah, that's from the original.
+All right.
+So, moving on.
+All right.
+So, now let's go look at a model of bargaining.
+With bargaining, let's say that we've got two strategies here, hard and soft.
+Hard and soft.
+Obviously, we could have a continuum, but we can get most of the lessons just from thinking about there being just two bargaining strategies.
+Okay.
+And then, key point, if both players bargain hard, then there's no deal.
+Right?
+Like if both say, I want two-thirds of the surplus, then there's no deal.
+Right?
+On the other hand, if one bargains hard and one bargains soft, then the one who bargains hard gets a good deal, the one who bargains soft gets a bad deal.
+Right?
+And then, last of all, say they both bargain soft, but they reach a deal, and the sum payoffs are higher.
+And why would you think that the sum payoffs from everyone being nice would be higher than from one person being aggressive and one being wimpy?
+What might the intuition be?
+Well, can you think about people who you know and with whom you deal amicably versus not so amicably?
+You choose to deal with them more so.
+Yeah.
+This is not a repeated game.
+So, I think about the experience of dealing with one purchase where it's amicable versus our bargains.
+Getting a bad deal is better than proposing a good deal.
+Yeah.
+That's right.
+Why would the sum payoffs here be better than the sum payoffs there?
+Yeah.
+Is it just because the deal is more pleasant?
+Yeah, yeah, yes.
+You don't burn up resources fighting with each other.
+So, if there's a big dispute and someone makes a big deal about it, then you're suing them.
+You may just burn up time, for example.
+So, if everyone's soft, then it's like, oh, great.
+All right, fine.
+You were nice.
+Whereas if one person bargains hard and another person bargains soft, then Barbara's like, I want this, and I want this, and I want this.
+And the soft bargain's like, gee, really?
+You have to have all those things?
+Yes.
+Uh-huh.
+Uh-huh.
+Yes.
+All right.
+So, you burn up some resources that way.
+Okay.
+All right.
+Now, notice.
+So, here we've got our two-tier strategy in hash equilibrium, right?
+But we also have a mixed strategy in hash equilibrium.
+And, again, since I've set this up as a totally symmetric game, then a general good guess
+at everything symmetric is that there's two possibilities.
+It is that the mixed strategy in hash equilibrium will be?
+Yeah, 1-half, 1-half, or 0.5, 0.5, 0.5.
+All right, so 0.5, 0.5.
+All right.
+And so, this is a very interesting one.
+So, one thing is that if you plug in some numbers, you notice that it's stable.
+What does it mean?
+Well, you'll see that if you go up to 51% hard, then there's a higher expected payoff for playing soft.
+If you go down to 49% hard, then there's a higher payoff to playing hard.
+All right.
+So, it's stable in that if you deviate a little bit from the equilibrium, then people want to switch to the opposite.
+And that drives you back to this mixed strategy
+and Nash equilibrium.
+A lot of people like a physical metaphor.
+So suppose that we've got a bunch of mountains here,
+and we put a ball perfectly at the top.
+It's exactly balanced at the top.
+Is that an equilibrium?
+Yes.
+Sure.
+Is it a stable equilibrium?
+No, because if the ball goes a little to the left,
+a little bit right, you fall down to the valley.
+On the other hand, suppose we've got a ball down there.
+Is that an equilibrium?
+Yes.
+Is that a stable equilibrium?
+Yes.
+Because if you happen to get blown a little bit left
+or right, you tend to go right back to where you started.
+Of course, this doesn't mean that a really big gust
+couldn't blow you to something totally different.
+But stability is about local stability.
+If you just move a little bit either way,
+you tend to go back or not.
+This is a physical metaphor for equilibrium,
+which is of some use.
+If you're used to thinking about physical objects,
+then that's a useful metaphor.
+On the other hand, if you just don't like doing that,
+then it's just going to confuse you more.
+Now, the intuition about this mixed strategy
+and extra equilibrium is that in equilibrium,
+both strategies are equally good.
+So the hard strategy is better if you
+happen to bump into a soft bargainer,
+but it's worse if you happen to bump into a hard bargainer.
+The soft bargaining strategy is better
+if you happen to bump into another soft bargainer.
+You bump into a hard bargainer, then you've got a problem.
+But still, it's better than bumping
+into the hard bargainer with a hard strategy,
+where you get nothing at all.
+Selenberg had a line where he says,
+don't mistake a hard bargainer for a good bargainer.
+Again, in the model, hard bargainers are, in fact,
+not worse.
+They're just mediocre.
+It's nothing special.
+And again, sort of the Donald Trump style
+art of the deal, where there's a whole lot of advice saying,
+be a hard bargainer.
+This is not, in fact, if it were as easy as that,
+then everybody would do it.
+And of course, if it is, and if that's
+what everybody were like, then there'd be no deal.
+So how can that be great?
+You might say, well, you want everyone to think
+of you as a hard bargainer.
+Even that is not clear, as long as people have other options.
+So if you're the only possible partner in the world,
+then you might want the reputation as a hard bargainer.
+Then people will just commission it to you without a fight
+because they know it's helpless.
+But if they can just say, hey, I don't
+want to deal with a person that would write a book like this.
+Of course, the marketing of the book itself is contradictory.
+If you really believed in the strategy of art of the deal,
+you'd be selling the book for $100,000 a copy.
+And just saying, hey, this is what you have to pay for
+by great advice.
+There's no better advice than this than any other book.
+So if you don't want it, too bad.
+You've got to pay if you want it.
+So and yet, the book, of course, is price to sell.
+Yes?
+You could build a reputation as a hard bargainer
+and just give people good deals.
+And they'll think that they got one wrong
+and they want to make the deal.
+There is that possibility as well.
+Yet, of course, if they really think
+they're not going to get a good deal for you,
+they won't even want to listen to your sales pitch.
+So you don't want it to be too extreme.
+So we're not doing any psychology yet.
+My personal view is that probably hard bargaining
+is overused in general.
+And we're not actually at the mixed strategy
+in Nash equilibrium.
+And I've just seen too many people fighting
+for no good reason.
+Where it's like, well, gee, why don't you just
+go and cooperate with people?
+Wouldn't that be easier?
+So I know a lot more cases of people
+who have ruined relationships while sticking
+to some stupid principle no one else ever heard of.
+On the theory that other people are trying to exploit them.
+And it's like, look, don't they understand this is the rule?
+I've never heard of this rule before.
+Probably the people you're mad at haven't heard of it either.
+So that's just my personal view of things
+that I've got.
+We're not presenting any evidence here of this.
+But in general, part of my general view
+is that we have a bunch of emotions which perhaps
+were functional when we were cavemen,
+but are now highly dysfunctional, such as rage.
+It's like, look, in general, if you just turn your rage down
+to one on a scale from 0 to 10, you
+would have a more successful life overall.
+And yet most people are up at a three or a four.
+How often has rage actually accomplished anything for you?
+Maybe you can come up.
+So no doubt you can come up with some example or other.
+But just think about all the times
+that your rage has actually caused trouble for you
+and achieved nothing.
+Or it could be counterproductive.
+You've made enemies.
+So you lost a deal and you also lost this deal
+and you also destroyed the relationship on top of it.
+But that's nothing to worry about right now.
+Now, this mixed strategy Nash equilibrium is not first best.
+First best would be to always be there.
+That's first best.
+Always be at the outcome that maximizes the sum of payoffs.
+But the mixed strategy Nash equilibrium
+only gives you that outcome 25% of the time.
+So it's not terrible.
+And as that outcome gets worse and worse,
+if we're talking about we both starved to death,
+then the probability of that happening
+gets smaller and smaller.
+And remember, since you only get there
+if both people have played the hard strategy,
+then if that outcome is really bad,
+then it's going to be extremely unlikely that would ever occur.
+That's balanced by the fact that when it happens,
+it's a disaster.
+So keep that in mind.
+But again, so people like you to think
+they're going to play hard.
+But again, the problem is precisely
+because this perception is value,
+it's very common for people to not really
+be as aggressive in bargaining as they say they'll be.
+So I remember a couple of times my wife told someone,
+I'll pay that not a penny more.
+And then generally, so she says that.
+But it's her, maybe you should believe her actually.
+But other people don't know that.
+And so this is not really all the, so people, oh my god,
+she said wouldn't pay a penny more.
+So well, then let's give her that exact deal.
+Or there's no point.
+I end up further and further into the discussion.
+All right, now what's kind of nice about this model
+is that when you do see two people failing to reach a deal
+and it's clear that it's mutually beneficial,
+it's tempting just to say they're both stupid, which
+is a theory we should never dismiss.
+You can spend a lot of time in economics,
+but don't lose the basic juvenile theory
+that people that screw up are idiots.
+That's not always wrong.
+But it does open up another possibility,
+which is that there was something that was socially
+unpleasant that, rare and nevertheless,
+result from each person just trying
+to advance their own interests in a reasonable way.
+So that is a possibility.
+So anyway, good enough.
+And what is the possibility?
+Really just bad luck.
+So everyone's randomizing.
+And then we happen to get in a situation
+where both people randomly chose the outcomes which,
+in combination, are bad for both of them.
+All right.
+OK, questions, questions.
+I'm happy.
+All right, so remember, our energy
+is at a very high level despite all biology,
+despite the time of day, despite whatever other work we have
+done, because if we are here in this room,
+there could only be one possible explanation.
+No one studies economics for the money.
+They study it for the love of the subject.
+And therefore, it follows that we are delighted to be here
+and are full of enthusiasm because this is the high point
+of our week, correct?
+Right, OK, good.
+All right, now, this bargaining game
+is better known as another game, better
+known as the chicken game or also named
+after two other birds, hock and dub, hock out game.
+All right, now, the main change when people represent that game
+is they'll usually go and instead of making it zero,
+which sounds like the payoffs from just not getting
+to a bargain, you'll go and do something like negative 10,
+negative 10, showing that when everyone is belligerent
+or when everyone is uncooperative,
+then you get total and you get a disaster.
+All right, so that, we also have slight variation.
+But this is only in the interpretation.
+This is not changing anything about the actual game.
+All right, so again, but kind of then common to go and relabel.
+Instead of Harkins off, we can go and relabel this
+as war and peace, war and peace.
+And then there's a new interpretation
+of the same basic payoff structure, right?
+Like, isn't the best world one where all countries are
+at peace with each other?
+Sounds good, right?
+And isn't it a total disaster when countries
+go to war with each other?
+Yes?
+So anyone read All Quiet in the Western Front?
+Yes.
+So now, geez, that's not a sight in high school anymore?
+Terrible.
+All right, it's one of the few good things
+to cite in high school.
+The graphic descriptions of World War I hospitals, right?
+And the list of all the places a man can receive a wound.
+All right?
+It's almost a quote.
+Almost a quote.
+Yeah, so terrible.
+All right, yes.
+So it remains a line.
+The hospital alone shows what war is.
+Any case, so when there's a war, then there
+is total devastation.
+But if you are warlike and the other side abuses you,
+then the usual story is that they give you great stuff,
+and you don't actually have to fight them.
+And then they're better off than if they had fought.
+Although still, they are unhappy with getting ripped off.
+But too bad.
+Too bad.
+So we have intuition.
+So universal peace is usually beneficial,
+but maybe it's not an equilibrium.
+So maybe it's not an equilibrium.
+And in fact, as drawn here, it's clearly not, right?
+So the equilibrium there are war, peace, and peace, war.
+Although that still gives us the optimistic story
+that actual full-blown war never happens, right?
+Because world war isn't in equilibrium either.
+So the classic line in foreign policy is,
+who will blink first?
+Who will blink first?
+And blinking is what?
+War or peace?
+Blinking is peace.
+Blinking is like, OK, OK, OK, sorry.
+Sorry.
+Stop your Berlin airlift.
+It's my mistake.
+What Berlin airlift?
+No, no, no.
+What are you talking about?
+That's just capitalist propaganda
+that we were stopping your planes in the middle of that.
+Never happened.
+I don't know what you're talking about.
+Of course.
+Fly the planes you want.
+Whatever.
+So anyway, so all countries are peace loving.
+Then there's incentive for one country
+to become the aggressive one, and then
+bully the other ones.
+Now again, as I was saying, the more extremely bad
+those world war payoffs are, the less likely
+you are to get war.
+And if an individual country's probability of playing war
+falls like 1 in 1,000, then what is the probability
+that you get two war plays simultaneously?
+1 in a million, right?
+So this means if that payoff gets bad enough,
+the mixed strategy falls to a very low amount.
+But it's still stable because each country
+is deterred by this small but terrible possibility.
+All right.
+Now, you may actually be familiar with a theory
+of foreign policy, according to which the reason why we've
+had more or less little peace since 1945
+is because those war war payoffs became totally terrible.
+And there's even a special name for this theory,
+which is a funny three letter name.
+Mad.
+Mad, yes.
+Mad, which stands for mutually assured destruction.
+So if those payoffs are negative trillion,
+then the odds that there will ever be a nuclear war
+is very low, which is a pretty comforting theory.
+It says, look, all we need to go and make
+sure the world stays at peace is that both sides have
+weapons such that if both sides use them,
+it would destroy mankind.
+And of course, if you took this really seriously,
+then you might have the view that you
+should start going around giving nukes to your enemies.
+So it's OK.
+So at least 15 years ago, Tyler said
+he'd be glad if Iran got nuclear weapons.
+It would be great.
+Sure.
+He might even have said, I'd give them to him if I had them.
+So this is no violation.
+But he didn't do anything, obviously.
+He just had the nuclear weapons.
+I thought this was a bit odd.
+And he did actually bite the bullet.
+It was a good thing when Stalin got nuclear weapons.
+And I'm like, crazy.
+He's like, well, it all worked out.
+Yeah.
+So a lot of things that are really risky still work out,
+like the time I blew up a mailbox with my friend
+in eighth grade.
+But nevertheless, I could have lost the,
+not only could I have lost my fingers,
+my friend became a famous concert pianist.
+He lit gunpowder with a match.
+All right, so look.
+Isn't that also a federal offense?
+It is a federal offense.
+That's statute of limitations.
+All right.
+All right.
+I'm going to get out of here.
+All right, so anyway, that's the intuition behind that.
+And it does give us an alternative interpretation
+about why wars would occur.
+And he just says, look, wars occur because of bad luck,
+and not stupidity.
+So in a normal history of World War I,
+will be something along the lines of, God,
+what a bunch of idiots they all were.
+But this does say there's another story.
+And the story just says, look, it was bad luck.
+And they're like, yeah, I didn't say it.
+How is it bad luck?
+Well, there were a whole bunch of other very similar
+conflicts to what happened before World War I.
+And none of those led to World War.
+Instead, in all of those, somebody blinked.
+But if both sides are sitting there waiting for somebody
+to blink, and then, well, we're going
+to declare war in five minutes unless you give in.
+Oh, we're declaring war in five minutes unless you give in.
+OK, then.
+Well, let's just let the clock tick.
+Both sides say, when is he going to blink?
+And then the alarm rings.
+Oh my god!
+Well, I guess we're going to war.
+And we're killing each other.
+So that's the story.
+So anyway, just both sides happen
+to be playing aggressively rather than sheer stupidity.
+All right, now, again, of course,
+the more you know about these wars,
+the more you can actually say about this.
+So if you have a lot of details about it,
+now, I'd say the more details I know,
+the less inclined I am to just say it was just bad luck.
+And the more inclined to, thank god, what idiots they were.
+And so much idiocy to go around.
+In particular, just think about how many monarchs
+lost their thrones or their lives over this.
+It's like, look, I can't just back down here.
+Yeah, I think you can.
+Just back down.
+It's not going to be that bad.
+It's like, I'll be overthrown.
+I don't think so.
+Why don't you just go and try a different strategy?
+So if I were the czar, for example,
+rather than fight World War I, I would have just
+got my most trusted men, the secret police.
+And so here's a list of all the hawks.
+Arrest them and kill them tonight.
+And then the next day you wake up.
+You say, we've made peace with Germany.
+And there's a whole bunch of traitors
+who are trying, who are conspiring with our enemies
+to destroy our country.
+This type of thing has been done before.
+It's worked very nicely several times.
+Doesn't get a lot of attention.
+Of course, I'm not in this position.
+But I was like, you just go and kill all the war mongers
+in your country?
+Not all of them, just the ones that are actually
+in a position to do something about it.
+So now, all of this is just based upon a single-shot game.
+What about repeated play?
+Well, pretty obviously, with repeated play,
+can we make peace work?
+Is it possible, at least?
+Totally possible.
+And what is the key parameter for whether or not
+repeated play will be enough to give you cooperation?
+It's got a nice Greek name.
+What do we call it?
+Not alpha.
+Beta.
+Yes, beta, the discount factor.
+All right, so I don't know why it's beta.
+But anyway, it's beta.
+So yeah, if you've got beta equals 1,
+then you can always sustain cooperation, right?
+Because then you could do a trigger strategy where you say,
+look, we always play peace.
+But if someone ever plays war, then for the rest of time,
+the person that played war plays peace,
+and the other side plays war.
+And then you just need to work out,
+what happens if we both betray?
+And then, let's see.
+Then maybe you alternate forevermore, something like that.
+Anyway, you can work that all out.
+And you remember, so basically what you're doing
+is you're going to be comparing the infinite sum of t
+equals 0 to infinity of 4 raised to the beta times t.
+And seeing whether that's going to be greater than or equal
+to the payoff that you get from betrayal,
+from playing war, which would be 5,
+and then plus infinite sum of t equals 1
+to infinity of whatever the punishment is.
+So my proposed one, say, would be 1 raised to the beta.
+You can work through that.
+You can see that it would be very easy for peace
+to be in equilibrium there.
+It's like, look, I feel like we have a nice peace here.
+But if you ever betray me, then there's
+going to be war forever.
+And it's going to be war that is disadvantageous to you.
+We were going to be the enemy.
+And you will be treated as the enemy.
+You will be ostracized or what have you.
+All right, but there is the possibility
+countries just try to build up a reputation for aggressiveness.
+Remember what I was telling you about that TELEC experiment
+where you can change your partner
+to the prisoner of Suleiman?
+So again, there's also the possibility,
+what about a world where you are glued to your partner?
+Or imagine a world where first of all,
+there's like five people who are hand-picked.
+And they get to go and write down their strategies
+for the next 100 turns in advance.
+And then they get paired up with other people
+who have to move second.
+And then maybe those people who are hand-picked
+will just say, war, war, war for 100 turns.
+And then when that period ends, people are like, man,
+the guy's played war for 100 turns.
+So I think that he's probably going to keep playing war.
+So you might want to do that.
+So remember I told you at Genghis Khan,
+if a city doesn't immediately surrender,
+does it kill everyone in the city and destroy the city?
+All right, and then the next time you show up in a city
+and say, we demand your immediate surrender,
+people don't laugh at you.
+Right, they say, oh.
+Wait, well, what happens if we do surrender?
+We've seen examples of that occurring.
+So you don't want to go and massacre everyone when they do
+surrender, because then that's bad for business.
+But kill everyone when they don't surrender,
+and spare everyone when they do.
+That one's pretty good.
+All right, and now we get to turn
+to one of the greatest abuses of game theory
+in the history of philosophy, the case of Thomas Hobbes'
+Leviathan.
+All right, so you guys have all heard of Thomas Hobbes?
+All right, yes, so in Leviathan, Hobbes
+describes the state of nature in very bleak terms.
+And he says that this is not a caricature.
+This is, well, there's only a few pages
+where he talks about it.
+So you can read all the pages and see I am not unfairly
+describing what he says.
+And so what he says is, look, if two strangers meet
+in the forest, they will try to kill each other.
+Will.
+Right, why?
+It says, well, look, first of all, because each one is going to see that the other one
+has some stuff they want to take, and so you want to kill them for that.
+And then furthermore, even if they don't have any stuff that you want, you'll kill them
+preemptively.
+It's like, hey, I don't know whether you're going to try to kill me, so I'll immediately
+try to kill you.
+And the other side says, hey, I had exactly the same idea.
+All right.
+So now, this is very strange in that most people read Hobbes there, and rather than
+saying, who is this lunatic, they normally say, wow, he's a precursor of modern game
+theory, and who understood the prisoner's dilemma.
+All right.
+Now, it's true that the game that he applies to strangers meeting in the forest does sound
+like a prisoner's dilemma, because he says they will always turn to violence.
+But does that sound like a remotely plausible description of two strangers meeting in a
+forest as like automatic violence?
+Right.
+And we need to look, is there any downside of immediately attacking a stranger?
+Can you think of one?
+Like getting arrested.
+No, no, no.
+This is the state of nature.
+There's no government.
+It's just like, I'm all by myself, and I meet you, you're all by yourself.
+Is it clearly prudent to try to murder you on sight?
+Yes, back there.
+Yeah, so maybe this weapon, so how does that help you, though?
+So yeah, well, maybe the next person might be even worse than me.
+Still seems maybe I should kill you.
+But you're on the right track.
+Has anyone here ever fought another human being?
+All right.
+So what can go wrong?
+You can lose.
+You can lose.
+But, well, therefore, they're just going to kill you anyway, so what was the problem?
+So what do you have to lose?
+Even if there's a low probability of them cooperating, you attacking them makes that
+probability.
+Yeah, how about that?
+Even if they're likely to find you, you don't need to move that probability to a certainty.
+That's dumb.
+It's like, why not give it a chance and see whether they want to kill you?
+So you're like, are you going to kill me?
+Just keep an eye on them.
+It's one thing to say trust to verify, but for murder on sight, it's a very reasonable
+strategy to deal with other people.
+Totally salvagely speaking.
+So would another possibility be like, I'll cooperate with you or do whatever you want
+as long as you don't kill me?
+Yeah, that's a very soft one.
+Yeah, you could try that.
+So have you ever won a fight?
+So imagine you've won a fight.
+Now, what's the probability of that?
+Usually not, usually you come away injured.
+So imagine that you kill another person, but you break your pinky finger doing it.
+Even that, it's like, well, wait a second.
+If we could just work this out, I wouldn't have a broken finger.
+You could be really bad to have a broken finger or a broken hand.
+Imagine that.
+Think about how vulnerable you are against that.
+I just realized, Tom was describing a world where all other kinds of violent crime are
+completely impossible because everybody's willing to go to the death.
+Yeah, well, not impossible, just like why would you ever stop short?
+Right, because as I mentioned, you can't rob somebody, leave and rob them again tomorrow.
+You have to kill them now.
+Yeah, yeah.
+Well, you don't have to, but there's no reason not to.
+Once they got you beat, then put you down.
+Right?
+So you can't just go to the death.
+You have to kill them now.
+Yeah, yeah.
+So you can't just go to the death.
+You have to kill them now.
+Yeah, yeah.
+So there's, well, you don't have to, but there's no reason not to.
+So Hobbes' logic, quote unquote, is the logic of prisoner's
+lemma, where whether you're peaceful or violent,
+it's in my interest to be violent,
+and therefore both sides be violent,
+and therefore violence will automatically occur.
+But this seems like an incredibly obtuse description
+of what happens when two people meet in a forest.
+I think Hobbes was also talking about, though,
+it's like people are very prone to,
+like at least in his thought experiment,
+that people are very prone to jealousy.
+So to some extent, you can expect
+people to be violent with you.
+Probably, yeah, but how about also they're prone to cowardice?
+Oh, yeah.
+Yeah, so it's, again, like there's another thing in Hobbes
+is he'll note one human emotion and then
+deduce how everyone acts all the time.
+He's like, you know what?
+There are multiple human emotions.
+Have you ever heard of any of these other ones?
+Let me just, let's give a list.
+Yes, there's jealousy.
+There's also fear and love, and there's loneliness.
+And like we could just go on and on.
+So I think there is a popular theory that Hobbes
+was a severe Asperger's case, which, well, can you read it?
+Maybe.
+Yeah, now, what would be a much more reasonable game
+to invoke when describing Hobbes' situation?
+So not to make his conclusion justified,
+the prisoner's dilemma is something
+like that is what you need to get to his conclusion.
+But what seems like a much more reasonable description
+of the situation?
+It seems a lot more like that one, right?
+Like two people meet in the forest.
+Like the best thing for both, like the best thing on balance
+is for them to just keep the peace.
+It's true that if you can scare the other person,
+then maybe you can go and make them give you some stuff
+and then without a fight.
+But if you both fight, then that's
+going to be a really bad outcome for both sides.
+I mean, even if one person is a lot bigger and stronger
+than the other one, in the process of murdering
+the weaker person, maybe they'll scratch you on your face
+and that will hurt.
+Whereas if you could just scare them
+so that they give you half their food,
+wouldn't that be better than having a giant scratch
+in there on your face as you throttle the life out
+of this person?
+Maybe I'm just selfishly speaking.
+It doesn't seem the case.
+Now, I mean, I like this Hobbes thought experiment.
+It's interesting because most people read it to claim
+that he's obviously right.
+And I say, what are you talking about?
+This is crazy.
+But then here's something else.
+So how would you want to alter the thought experiment
+to make hot and cold be plausible?
+So imagine that you are on a desert island.
+You're all by yourself.
+And then another human being washes up.
+The person, as they wash up, they are coughing up water.
+They're totally vulnerable for the first five minutes.
+So does it seem like a reasonable forecast
+that every human being in the situation
+will go and murder the person who is coughing up water
+before they can get to their feet?
+Does that sound like human beings
+that you've ever heard of?
+It's like, well, again, Hobbes might say, look,
+how do you know this person isn't going to try to murder you
+as soon as they get to their feet?
+OK, I'm not sure, but it doesn't seem all that likely.
+And what are some reasons why you might not
+want to murder other people?
+It's totally selfish reasons, sort.
+Maybe they can help you with something you don't know.
+Yeah, maybe they can help me.
+I'm just incredibly lonely.
+I'm almost suicidal with loneliness.
+Aren't you comparing these human beings that
+are in the state of nature according to Hobbes
+to human beings that you know that are not in the state of nature?
+What's more state of nature than you're
+all alone in a desert island for the rest of your life
+and one more person shows up?
+Well, you're assuming that the person alone on the desert
+island is acting as you think.
+You're referring to the people you know,
+how the person alone on the desert island would act.
+Well, of course, that's what Hobbes has to do, too.
+So you could say that if people were in a state of nature,
+they'd have totally different emotions
+than all the human beings we know have.
+That's not very persuasive, although I guess it's possible.
+Again, of course, when you put a little more into it,
+then you realize, well, human babies can't even
+arise that way.
+You have to.
+A baby cannot do it.
+So everyone is raised by a parent or a guardian at first.
+And so everyone at least has that kind of social connection.
+There's no such thing as someone that raises themselves
+from infancy, which tells you something
+deep about human beings.
+We're social on a very fundamental level.
+So anyway, it seems highly unlikely
+that you would go and try to murder the person when
+they showed up.
+And obviously, suppose that these were
+two people of opposite genders.
+Then can you even conceive of this murder occurring?
+Seems absurd.
+It's like, no.
+A man's not going to murder the first woman who
+shows up on the island.
+And a woman's not going to murder the first man who
+shows up on the island.
+It's ridiculous.
+So then you'll say, well, how extreme
+is the alteration you have to insert into this thought
+experiment before the preemptive murder would make sense?
+So how about it's World War II, and you're
+an American soldier, and a Japanese soldier washes up.
+Do you murder him then?
+Probably not.
+Maybe for some reason.
+Yeah.
+I say it depends on how long you've been on the island.
+You've been on the island for a week.
+I think you probably murder him, especially
+if you've seen combat already and you've already
+killed some people.
+If you're completely green, you're a paratrooper.
+You've never done anything.
+You're a soldier.
+Just like you're a paratrooper, you've never killed anyone,
+and you landed on the island.
+Then, even then, I don't know what you do.
+Yeah.
+So we're assuming that he's on the island.
+That American soldier, he's on the island by himself, right?
+Yeah, exactly.
+Yes, although that suggests another alteration.
+If it's 20 American soldiers on the island
+and a Japanese soldier washes up, do they kill him then?
+Yes.
+Well, probably.
+Yeah.
+You know what I mean?
+Although, even there, it's like, look, if there's three,
+I think they kill him.
+If there's 100, then they might say,
+we're not worried about this guy.
+So he's going to say, hey, look, all right, you're here.
+And you know what?
+You've got a new job as the latrine digger.
+You don't like it, then maybe we'll kill you.
+So yeah.
+If it's a Japanese soldier, though,
+he'll pull the pen on the grenade
+and you have it in his pocket all the time, though?
+Yeah.
+Yeah.
+So there's that possible concern, of course.
+Sorry, let's go check him.
+Again, someone might say, well, he doesn't have a grenade now.
+Maybe you'll build one.
+Or maybe you'll start shoving people off the island
+to sleep, or try to kill as many stab people in their sleep.
+And how many people do you have to have on the island
+before you start saying, eh, sounds far-fetched.
+If there's three, then maybe you would go and kill all three
+of them in your sleep.
+And that sounds like a pretty good argument for killing him,
+right?
+At least persuasive.
+I'm not saying good persuasive.
+Anyway, it's persuasive argument for killing him.
+It's like, well, how do we know what this guy's like?
+Say, well, maybe he's nice.
+Yeah, maybe.
+You're like, there's only three of us.
+We can't watch him all the time, so there's a problem.
+Yeah.
+The example of a Japanese soldier and an American soldier
+washing their feet together, we know they're trying to kill him,
+because that's the exact setup to King Kong's skull.
+Ah, of course, of course.
+We have proof.
+Yes, we have cinematographic proof.
+Yeah, there's that.
+Anyway, you'll say, well, if you were writing the script,
+if the guy's been on the island for very long,
+that's when people start saying, he's not going to kill him.
+I just don't believe it.
+He's going to end me like, well, he's like,
+well, maybe he'll kill me.
+I'm so lonely.
+I'm so bored.
+I hate this so much.
+I'd rather that he kill me than I
+have to be here alone the rest of my life.
+So anyway, Hobbes, not psychologically perceptive
+at all, is a recursive game theory,
+but misapplying one game to a totally applicable situation.
+But still, again, why are people so eager to give him
+credit for this?
+It is just the idea of early famous philosophers
+must be right about stuff, which is a very silly assumption,
+given that they generally contradict each other anyway.
+So I guess there is the real fan will just say, oh, that's
+just what you think.
+You think they contradict each other,
+but if you would spend 30 years reading them and desperately
+try to reconcile everything they said,
+you'd realize they all agree with each other.
+Yeah, that sounds more like just reading them a couple times
+for literal content would be better than spending 30 years
+trying to convince yourself that it's all fundamentally
+the same idea.
+Right now, while we can further think about this,
+we've also got a good story about why things are not worse.
+So in the world of not only human societies,
+but also animals, we have what we
+call territory or property, which
+is an important determinant of whether people will fight
+or not fight in situations of conflict.
+So for example, suppose people are more likely to play war
+on their own territory, and this is generally known.
+In this case, if you stumble on someone else's territory,
+then you're going to run away, probably,
+because you expected a fight.
+And the net effect of this is that you
+don't want to go and invade other people's territory,
+because you expected a fight, so you're not
+going to get much out of it.
+So this is a general idea about how property or territory
+works.
+So you can see, for example, that changes in national
+borders are very unusual.
+And again, you might say, well, why can't the US just
+go to Canada and say, look, Canada,
+we want an extra three feet across the entire length
+of the border, and it's nuclear war unless you give it to us.
+So the US could try that tactic, but what
+seems like a likely reaction from Canada
+if they were given this strange ultimatum?
+They would say they're sorry.
+Yes, sorry, fella.
+I don't know what this is all about,
+but we're not giving you the three feet.
+And precisely because you know that they're not
+that likely to give in, even to a modest demand,
+like, oh, we just want three feet.
+You're three feet, 2,000 miles long, what's the big deal?
+You don't even need it.
+You don't use it.
+And yet, there is a general perception
+that if you went and asked a country for this,
+they would fight.
+And that is a reason not to even bother asking.
+And the same thing in so many other situations,
+like you just go up to your neighbor here and say,
+give me some minor possession you have.
+Give me your water thing.
+And on the one hand, it's like, gee,
+I don't want trouble with this person.
+But on the other hand, you expect that a person will say,
+hey, no, that's mine.
+And if that is the focal point that people
+will fight for their own stuff, then
+it is reasonable for someone to not even try in the first place.
+All right, so anyway, so this expectation
+makes the threat to fight if attacked
+more credible than the threat to fight if you resist it.
+So of course, if there's an overwhelming amount of power,
+then you just expect that the other side will give in.
+But on the other hand, if it's only a modest difference,
+then there is a concern the other side will fight back.
+So I have a paper with Eric Hammer.
+We go over a lot of different kinds of evidence
+along these lines.
+There's a really fun paper involving preschoolers.
+And the deal with preschoolers is first,
+they've got a rank for how tough the preschoolers are,
+just like how physically big and strong the preschoolers are.
+And in preschoolers, there are big differences.
+There's the biggest preschooler, maybe a whole head taller
+than the smallest one.
+And then they go and have a list of the good toys
+versus the bad toys.
+And basically, what they show is that if you just hand out
+the toys at random, there is a tendency for big, tough kids
+to get the better toys.
+But there's also a big predictive value
+just doing who started with the good toy.
+So on average, if you go and give the good toys
+to the wimpy kids, to a high degree, they keep them.
+And the big, tough kids don't actually successfully take
+them, even though these kids are, you know,
+big kids tend to be bullies, as we all know.
+Never having been a big kid, I can
+attest this is an absolute scientific fact.
+So anyway, and the story there is
+that even a big kid, when they see a little kid has it,
+are likely to encounter resistance.
+You know, like one of the surest ways to make a little kid cry
+is to say, this is your candy bar now.
+It's your candy bar.
+Do whatever you want with it.
+And then they're like, mine?
+Then wait two minutes and say, give it.
+I want it back.
+And very likely, the child will cry.
+Whereas, you could have told the child, look,
+this is a candy bar.
+You may hold it, but you may not eat it,
+because it is my candy bar.
+Absolutely.
+Now, when you ask for it back, the kid may still complain,
+but he's probably not going to burst into tears,
+because the sense of violation of his territory,
+of his property, is not there.
+And of course, there are many other examples of this
+that you can apply.
+And this has nothing to do with any big philosophy of property.
+So in our society, can you own another human being legally?
+No.
+And yet, one good way to provoke a fight with another person
+is to go at a party and find out that someone
+is there with someone else, and then ignore that fact.
+Very blatant.
+And someone says, oh, yeah, so that is Brian's wife.
+You're like, I don't see his name written on her.
+And then you go, and then go, and then go.
+And then just like, say, hey, baby.
+All right, so that is very likely to provoke a fight.
+In our society, it's like, well, that's
+because there's a legal marriage contract.
+No, it's not.
+It's like, it could just be a girlfriend.
+There's no legal status of girlfriend.
+And yet, if you act like that is this relation that
+doesn't exist, you could be beaten.
+That is a good way to provoke a fight.
+And of course, not limited to men fighting over this.
+So keep your hands off my man.
+Wait a second.
+You're a man.
+Are you an advocate of slavery?
+Or are you like, what is this system here?
+Shut up.
+That's not what we're about.
+Hands off my man.
+Stay away.
+All right, so stay away from my sister.
+That's my sister.
+I decide whether people talk to my sister.
+You do?
+Again, this is, of course, not recognized by the legal system.
+And yet, if you were to pretend white people don't
+have these feelings, this could end pretty badly for you.
+I'm only a messenger.
+I'm not responsible for this.
+I've never threatened anyone with any of these accounts.
+And this brings us to the heart of the Vichy-Liric-Hammer,
+which is black markets.
+So there are, so let's see, what's the,
+so there's a book by Cass Sunstein and co-author Stephen
+Holmes, where they say that all property comes from government.
+And when I met him, I said, how about black market property?
+That, first of all, is not recognized by the government.
+In fact, governments usually say it's illegal.
+And yet, what is a really good way
+to get a drug dealer to try to kill you?
+Take his stash.
+Take his stash.
+That's right.
+It's like, so that's interesting.
+So you were saying, look, the law
+doesn't recognize your stash, so I can take it if I want.
+Well, I recognize it.
+And now I'm going to kill you.
+This is the time for you to be saying, oh my god, oh my god,
+I'm so sorry.
+It was totally your stash, not to be having a dispute
+and to be being difficult.
+Now again, so obviously, if government
+were the sole source of property rights,
+this whole thing would not make sense.
+It would be very hard to have black markets.
+And yet, black markets have been known to thrive.
+So one of my undergraduate teachers
+was a guy named Gregory Grossman,
+who was the big expert on black markets in the Eastern Bloc.
+By his estimate, the underground economy
+added a full third to the Soviet economy.
+And so yet, this is in a state where
+private property and the means of production
+is virtually illegal.
+And yet, there's a massive economy going on.
+And how is this possible?
+It's because these notions of territory and property
+are not just legal.
+They're also very psychologically rooted.
+And because of the psychology, it creates focal points.
+And those focal points lead to changes in behavior.
+Because again, if there wasn't anything like this going on,
+then consider these two scenarios.
+One is you go and accidentally destroy $100,000
+worth of a drug dealer's cocaine.
+And then he says, you owe me $100,000.
+You better get me, you better find me, you better pay me back.
+There's that.
+Or there could be a scenario where he just comes up to a total stranger and says, hey,
+give me $100,000 or I'll kill you.
+In terms of the incentives, those seem very similar.
+But in terms of the focal points, they're very dissimilar.
+The first one, there's a common understanding.
+Oh my God, I went and destroyed his property and so now he and I both understand that I
+owe him.
+Whereas if someone just comes and tries to extort money out of you for no reason, that's
+one where you're probably a lot more likely to go to the police.
+Or of course there you can say, well, I can go and explain the situation, but look at
+what we're just, I accidentally destroyed his cocaine.
+Look, I'm not a drug dealer.
+I've got nothing to do with this.
+I just happen to be running my hose when it hit his cocaine.
+I don't know.
+So even there, it's probably going to lead to two very different scenarios.
+Anyway, so interesting.
+And again, in terms of how socially disruptive this is, remember there's a paper on preschoolers.
+Is it normal to go to preschoolers and sit around telling them, if anyone tries to take
+your stuff, you hit them?
+Is that a normal thing we tell small children?
+What do we actually propagandize kids to do with their stuff?
+Share.
+So why do we give propaganda to tell them to do stuff that is, what is human nature?
+You don't normally do propaganda for human nature.
+Things that come naturally.
+You do propaganda for things that don't come naturally.
+Because the thing that comes naturally is having a developed sense of territory and
+property.
+The main thing you might say that little kids don't have is the social intelligence to realize
+that other people have the same feelings that they do.
+Although again, they usually learn that pretty quickly because you try to take another kid's
+stuff and then they cry or get mad or hit you.
+So questions about that?
+Everyone happy?
+How did Susskind reply to your point about...
+He immediately conceded the point.
+Then I talked to another law professor who said, yeah, but the next day he'll forget
+that he ever made the concession.
+But it was still pretty good.
+Better than what usually happens.
+Most of the law professors especially are highly disputatious.
+And so getting them to concede anything is pretty hard.
+So questions about this?
+Everybody happy?
+All right.
+Good.
+All right.
+So last topic for the exam.
+Then seeking and lobbying.
+All right.
+So remember we already went and talked about two kinds of inefficiency in markets.
+And then we first started talking about...
+First started talking about a case where say, firm two here goes and charges a price above
+its own marginal cost, which leads to this allocated inefficiency.
+All right.
+And then we talked about the second kind of inefficiency caused by a situation where it's
+illegal for the low-cost firm to produce, most obviously.
+So it's illegal for the more efficient firm to produce, in which case we also get, besides
+the triangle, we get this trapezoid of productive inefficiency.
+Now we're ready to go for a third kind of inefficiency, the least discussed of all.
+We weren't totally sure.
+So productive inefficiency has so fallen out of discussion that maybe actually the outcome
+is actually close.
+All right.
+I need to get a rubber.
+It hasn't fallen out because the estimates are small.
+It falls out because economists, like most human beings, are subject to fads.
+And they want to talk about what other people are talking about, even if what other people
+are talking about isn't very important.
+And it's a sad, empathetic commentary on academia that people are like this, even the numerate.
+It's one thing for innumerate people to get focused on things that aren't very important,
+but for supposedly numerate people to get focused on things that are important is particularly
+ridiculous.
+So of course, you have to be the change you want to see in the world and work on the topics
+that are quantitatively important.
+At the same time, in order to do that, you need to get a job.
+So it's a tough balancing act, but that's what tenure is for.
+Tenure is the time to finally become supernumerate in what problems you actually focus on.
+Anyway.
+Okay.
+So a last form of inefficiency has a bunch of different names.
+So sometimes it's called lobbying inefficiency or probably most commonly rent-seeking.
+And there's about five other names that I won't bother you with directly on productive
+activities.
+A bunch of others.
+So anyway, this stuff arises when people use resources to transfer resources.
+When you use resources to transfer resources.
+All right.
+Such as in lobbying, where when you lobby, you go and hire a team of lobbyists.
+And what are you trying to get for yourselves?
+Stuff.
+Give me stuff because I hired a team of lobbyists.
+Rent-seeking is the same idea.
+Anything, anytime that you are trying to change the distribution of resources by spending
+some resources, you are engaged in this.
+Now a great example of this would be trying to lobby for monopoly privilege.
+So suppose you are fighting to be the only company in a city allowed to sell cable television.
+All right.
+So you would go and hire your team of experts and lawyers and consultants and political
+analysts and former and friends of people in power.
+You assemble your dream team there.
+And of course you pay them.
+And their job is to get you that piece of paper saying that you're the only firm that
+can do it.
+Right.
+Of course, you're payers.
+You're likely to be doing the same thing.
+All right.
+So firms pressure the government to become the sole leader producer.
+And the more that you spend, normally of course, the better your chances of getting your way
+are.
+All right.
+So the nice metaphor of this comes from the game of tug of war.
+Anyone ever play this game where there's a rope and there's mud in the center and two
+teams try to pull the other side in?
+All right.
+So if there's people here.
+There's a person one here.
+There's a person two.
+See why I'm nodding our heads.
+And then there's a rope and then there's like another person over here on the other side.
+And then there's a mud pile in there.
+All right.
+And if it's two versus two people against one, this guy's probably going to lose.
+So he's going to get pulled in the mud.
+But he might go and hire a helper.
+And then maybe this side will hire a few more helpers.
+And this side will hire a few more helpers.
+All right.
+And in the end, you can wind up burning a ton of resources in this contest, which is
+like tug of war.
+All right.
+Only in the real world, normally, if you win, then you get the policy you want.
+You get the favorite policy.
+On the other side, winds up having wasted all this lobbying efforts trying to influence
+policy even though the government did not listen.
+Yes.
+I remember only a week or two ago, someone was talking to me about how for all the money
+the Koch family spent on politics, it's not that clear what policy changes they've been
+able to affect, which might lead you to say that their policy is ineffective, or rather
+the lobbying is ineffective.
+Another story you could have is you should see what would have happened if we hadn't
+done it.
+So who knows what that would be.
+So there's a whole lot of people who have their hands on the rope, all trying to go
+and do it.
+OK.
+So anyway.
+So and of course, if instead of mud, that was a molten lava pit, and people's hands
+are tied to the rope so you can't just drop the rope and run away, then people would be
+willing to put a lot more resources into hiring people for their team because it's a lot worse
+to be pulled into molten lava than to just be pulled into some mud, right?
+So and again, similarly, if there's a bigger prize handed out to whoever commits to the
+government to get on their side, then naturally, people are going to put more resources in
+to try and lobby the government to get on that side.
+All right.
+So this all makes sense.
+Familiar?
+Maybe.
+Or edified, anyway.
+You might be delighted at the intellectual understanding and yet horrified at the strategic
+situation.
+Horrified to know this is going on.
+All right.
+Now, Gordon Tullock, who did not actually use this phrase when I was speaking, so that
+was Ann Krueger.
+But anyway, so but Gordon Tullock actually had the idea before her.
+So no, no, I don't think there's any evidence that she actually just stole the idea from
+me, it's like she just came up with it independently, because Tullock's great article was published
+in the Western Economic Journal.
+Does that even exist anymore?
+So, well, the answer is that it was used to name these economic inquiries.
+Eventually, they realized, wait, Western Economic Journal sounds lame.
+So let me call it Economic Inquiry, and that sounds cool.
+All right, so just re-branding, but anyway.
+So Tullock had this article, and probably, you know, Krueger never read it.
+But the deep insight that Tullock had was this.
+So you can think about this lobbying or rent-seeking as being an industry, a competitive industry
+like any other.
+You could invest in putting in more factories into your building, or more or better air
+conditioning, or hiring a team of lobbyists, right?
+And there's a standard logic about how firms allocate their investment, which is if you've
+got one investment earning 5% and the other one earning 7%, what do you do with your resources?
+Yes, you reallocate.
+You reallocate until you've achieved a quality of the rate of return of the marginal dollar spent.
+All right, and that is Tullock's story.
+So he says, lobbying is earning 10%, everything else is earning 5%.
+Then resources will flow into the lobbying industry until you reach the usual break-even point.
+And everyone remembers how when we say zero profits in economics, why is it that this
+doesn't mean that it's stupid to start a business if you're earning zero profits?
+Yes?
+Because economic profits include your opportunity cost.
+Yes, yes.
+Everyone remember this?
+Economic profits are not the same as accounting profits.
+Easily forgotten.
+It's also one of the things that probably leads economists to think, or leads business
+people to think economists are idiots.
+Because we say profits are driven to zero.
+It's like, we need profits that are driven to zero.
+Why would anyone do anything if profits are zero?
+Well, we're including the opportunity cost of interest as that.
+Yes.
+All right.
+So anyway, so you expect new entry as long as you're earning any kind of special profit
+in lobbying.
+And this is actually very similar to this mixed strategy reasoning, which is if there's
+any one thing that's, any one kind of investment that's doing better than others, then people
+switch over to the one that's doing better or the one that's doing worse until we reestablish
+a quality payoffs.
+All right.
+Now, so if firms keep going into this tug of war, or someone's going to arms race, well
+once economic profits are zero, the same as net profits are zero, and if this is what
+government is giving away, so this is the freebie that government is giving away, then
+how much, what does lobbying have to equal in order to wipe out those profits?
+The size of that rectangle.
+Yes, it's got to be the whole rectangle.
+If government is giving away a million dollar piece of paper, then you'd expect that people
+keep fighting over it until on average they're breaking even.
+And the way you break even is if the total expense that people are putting in equals
+the total value.
+All right.
+So then this thing, which until now almost everyone's been calling producer surplus,
+gets transformed into yet another kind of inefficiency.
+It's turned into another dreaded inefficient geometric figure, and this one is called
+a tallic rectangle.
+A tallic rectangle looks exactly like a monopoly profit rectangle, but it's not monopoly profit.
+It's waste.
+It is waste.
+All right.
+And so we get this gruesome story of destruction from three different forms of inefficiency.
+We've got the allocated inefficiency caused by price being greater than marginal cost.
+We've got the productive inefficiency caused by having inefficiently high cost producers
+produce.
+And then we got the rent-seeking or lobbying inefficiency caused by competition to get
+monopoly privilege.
+All right.
+So notice we start off with a situation where all of that is social surplus, and we end
+up with that little tiny residual triangle.
+Yes.
+So it seems the lobbying inefficiency is also kind of like a negative inefficiency because
+it's transferred to somebody else.
+Well, yeah.
+So of course, we could just say it's all inefficiency and not draw the distinction, but conventionally
+we just go and distinguish these three different sources because we're seeing, so this inefficiency,
+this is not caused by price being greater than marginal cost.
+Right?
+That's inefficiency, price being greater than marginal cost.
+This is caused by a different route.
+It's caused by people competing to affect the distribution of resources, burning resources
+to do that.
+Whereas here you're not burning resources to do it.
+You just raise the price.
+There's no actual expenditure of resources to go and achieve that waste.
+Okay?
+And if that ever happens, that is called full reticipation.
+Full reticipation when there is so much fighting caused by the effort to control the distribution
+of resources that it winds up burning up the whole thing.
+Now notice, suppose there's 10 firms that all compete.
+So is it every individual firm needs to spend that much or is it all the firms put together
+need to spend that much to reach the zero profit condition?
+All firms put together.
+Right?
+Because if every firm spent that, then actually you'd be spending the total value of the gain
+for a 10% chance of getting it, which would be stupid.
+Right?
+So what this means is that the winner generally still is going to have a net profit, but then
+there's going to be a bunch of losers that would have been better off if they hadn't
+even tried.
+And then the total social loss to all the lobbying is that triangle, or rather rectangle.
+All right.
+Now, so let's go a couple minutes over the break and then you'll still get your full
+rate just for cohesion.
+Okay.
+Right, now, very commonly pointed out, the government could instead of awarding these
+prizes through lobbying, they could just do it, hand it out to the highest bidder.
+Right?
+So why not just go and take bids to be the monopoly provider of cable television?
+And then that rectangle will go to the treasury of the local government instead of just be
+burned up, right?
+It's a fight.
+But Tullock was very clever in this paper.
+And he said, look, suppose the government can go and make money just by creating, handing
+out pieces of paper and then saying, let's have an auction on this piece of paper.
+Well, this may lead, firms then may very well just bid to get this piece of paper.
+But this activates a great slogan from a Mel Brooks movie, which is, it's good to be the
+king.
+It's very good to be the king.
+So, and if the king can go and make tons of money just by putting his name on a piece
+of paper and saying the king authorizes you to be the sole producer of X, then this gives
+incentives for people to try to get which job?
+Which job do you want in a world where the king can go and make money out of his back
+pocket?
+You want to be the king.
+To be the king, right?
+And let's see, does anyone have a history that people have fought over who's going to be
+the king?
+Yes.
+Happens all the time, right?
+Why?
+Well, if you're the king, then you can go and, you know, like, you don't, earlier you
+didn't literally have a license for anybody, but darn close.
+Anyone who's a king, like, if you're the dictator, even a really dirt poor country, as long as
+there's a million people in it, you're rich.
+You just go and rob everyone in the country for a few bucks a year and then you have a
+great life.
+All right, so, like, standard thing.
+Okay.
+So, yeah, so anyway, so basically people get rich in politics, then they're going to pay
+more in order to try to get control of it.
+So this could mean that you fight, there's actual violence to get control of the government.
+Could mean that there is lobbying for political office, so people pour resources into trying
+to become a successful politician.
+Right, Talek, who's a big student of classical China, likes talking about the classical Chinese
+examination system, where to become a civil servant you have to pass it and get a good
+score on a standardized test.
+And the story tells us this.
+Villages all over China looking around for kids that could go and get a great score on
+the test.
+And if they find that kid, the village pools money to go and hire him a great tutor.
+And what subjects do you need to know to do well on these classical tests?
+Confucius, the works of Confucius.
+All right, so you hire a great Confucian scholar to go and train your village genius for a
+decade.
+And then, and of course, villages all over China are also hiring their Confucian scholars.
+Right, and then you get a whole bunch of kids who are, have been training their whole life
+for this examination.
+And then they go to whatever the testing center is and they take the test.
+And then what does every village expect if their kid wins?
+What is that kid supposed to do for his own village if he wins?
+Kickbacks.
+Yeah, bring home all the pork.
+Right, or whatever you call it in Chinese politics.
+Whatever good stuff you're supposed to bring back, you bring back.
+All right, and again, so there have been many people who have said, well, this is a great
+system.
+And Tao Leung's like, I don't think this is such a great system.
+Basically, to take the smartest people in the country and have them devote their lives
+to going and reading an ignorant dead man from thousands of years earlier.
+Right, what do you really know exactly?
+It's like, these are the right number of footsteps to take.
+Right, that's science.
+Science is footsteps.
+So you get all the best minds in the country going and reading ancient books that are not
+about science, not anything else.
+Right, and then what do they do when they get the jobs?
+Redistribution to their buddies.
+So it doesn't seem like that could have assisted.
+So anyway, so even in a dictatorship or a monarchy, the dictator can get rich by awarding
+monopoly privileges, strengthens the incentive of upstarts or new entrants to stage a coup,
+do a violent revolution, so on.
+And again, so most cynics will note that it's very hard to find the revolution where the
+revolutionaries don't then go and give themselves all the nice stuff the previous people had.
+Right, so when the Tsar was overthrown, were the dachas distributed to the people of Russia?
+No, they go to the high-ranking Communist Party members, who of course do have a whole
+theory about why it's very important for all Russia for them to have dachas.
+Right, and if you've read Orwell's Animal Farm, you know the theory.
+Look, we need our rest if we're going to do our tough job.
+If you've read Animal Farm, even if you haven't read it, reread it, it's so good.
+So, one of the pigs says, we pigs are brain workers, comrades.
+Surely you do not want to deny the farm the benefits of well-rested brain workers.
+No, of course not.
+Now, could repeat play fix this?
+Theoretically, yes.
+What can repeat play not solve in principle?
+Principal repeat play can solve any problem.
+It's possible.
+It depends upon what the discount rates are.
+In principle, imagine that we all live forever.
+And every human being lives forever.
+And then we have a system where if we ever
+catch another human being doing anything uncooperative,
+then that person is ostracized by the rest of society
+for eternity.
+That's one where repeat can go and get us
+to a cooperative outcome if we've
+got all the other information and everything else.
+That's what we need.
+So yeah, it's possible that repeat play could solve this.
+But again, remember that repeat play doesn't have to do it.
+So maybe firms are just bargaining really hard
+to get a reputation for toughness.
+Maybe every, so you can actually get greater than 100%
+rent dissipation.
+Every firm could go and spend 10 times as much on getting it
+as it's worth to scare off other firms and say, look,
+when we set our mind on getting a privilege,
+we don't back down.
+So you better back down next time.
+So you can actually get really extreme equilibrium
+where you burn up more than exists.
+Anyway, the key thing to remember
+is we've actually got three different kinds of inefficiency.
+The triangle that gets so emphasized
+for undergraduates especially, empirically,
+is the least important.
+The other stuff, certainly the productive inefficiency
+trapezoid, almost never discussed.
+And again, probably just because people have some a priori idea
+of there's no way that productively inefficient firms
+can stay in business.
+How about if the government doesn't allow other people
+to compete with them?
+Can they stay in business?
+How about if it is illegal to go and build a building
+with more than two stories?
+Will it then be the case that firms, that builders will go
+and build buildings with 10 stories
+because that's more productively efficient?
+Of course not.
+You just get your building torn down by the government
+if you do it the way that is technologically better.
+What good does that do you if the government just
+knocks your building down?
+So Alex Tabarrok has this great story of in India,
+there is a building that has been built and knocked down
+repeatedly.
+Why?
+Well, because the people on the land cannot get the permits
+no matter what they do.
+And the rent is so high in this area
+that you can actually recoup all the building costs
+if you can just legally stall the demolition for a few years.
+So basically, they have a team of lawyers
+and they've got a team of builders.
+And every time it gets knocked down, basically the next day,
+they've got the builders there to clear the rubble
+and start building the building again.
+And then in order to demolish it,
+there's a three to five year process.
+And while that's going on, the building
+gets built and rented to people.
+And they make back the costs of production.
+And then it gets knocked over again.
+And then it resumes.
+So great system, right?
+OK.
+All right, so this is everything that we
+need to know for the midterm.
+Now we will go and take a 10 minute break.
+And then we will turn to items three or two through four.
+OK.
+All right, so we finished week six.
+And now we'll talk about the exam.
+I'll tell you a bunch of bureaucratic things about it.
+And then I'll take other questions
+just about the bureaucratic parts.
+And then we'll have another section
+where I take actual substantive questions about what we learned.
+So the exam.
+First of all, general content.
+So something like 50% from lecture, 30% from homework,
+about 20% for readings.
+Remember how there are readings for this class?
+This is where we see whether you've in fact read
+and understood them.
+Very important point.
+The exam is totally open book and note.
+So you are free to bring any non-electronic materials
+you want.
+However, you may not use an electronic device of any kind,
+even a calculator, because of the internet and the possibility
+that someone is actually feeding you the answers.
+So I realize that is pretty unlikely.
+But nevertheless, it's just too hard.
+When I first started teaching this,
+it was just a theoretical possibility.
+Now someone really could.
+You could photograph the exam.
+Someone could do it and then photograph it back.
+And you could be transcribing it pretty quickly.
+But if you were stuck on one or two questions,
+it would be really easy.
+You just move on and wait for your accomplice
+to send you the correct answer.
+So anyway, it's fully open book and note.
+But this means that you are free to print off
+your entire hard drive if you want.
+You can bring a dictionary if you want.
+So all this is perfectly fine.
+So remember, you're only going to have 100 minutes
+to do the exam.
+So this is plenty of time for you
+to double check something that you have forgotten in a panic.
+It's not enough time for you to learn the material,
+not enough time for you to read the papers.
+That's just my guess.
+Maybe you want to write one.
+That's fine.
+Let's see.
+Now, other advice.
+So what's the best way to study?
+So there are now something like 17 old midterms
+on the class web page.
+So the best thing to do would be to take those old midterms
+under time pressure.
+That's the best way to practice is by doing.
+So I have thought this for a long time.
+But then I started reading Educational Psychology
+and found out I was correct, namely
+that merely rereading notes to yourself
+does not actually teach you very much.
+You need to actually do problems, working problems.
+Because if you're reading notes, it's very easy to say, yes, yes,
+of course, I understand.
+Of course, it's also obvious, of course.
+And then you're given a problem asking
+you to apply it to the notes.
+And that's where many people will flounder and say,
+realize, wow, I don't think I know where to start.
+So working problems is the best approach.
+And the time pressure is important, too.
+The fact that you can work problems successfully
+given unlimited time doesn't mean you can actually
+do it under test pressure.
+So that's very good to do as well.
+Let's see.
+More general principles.
+This is one that goes beyond this class,
+but it's a great principle.
+And it's called answer the question.
+This might seem really obvious, especially given
+how far you've gotten.
+But I was just grading some homeworks today
+from another class.
+And, wow, most of them just didn't answer the question.
+So for example, if there is a question that
+says give an original example of a coordination game
+and discuss how you could move from a worse
+equilibrium to a better one, should you
+begin by saying a coordination game
+is a game with the following properties, blah, blah, blah,
+blah, blah, blah, blah, blah?
+No.
+No.
+Because the question did not ask you
+to explain what a coordination game is.
+It asked you for an example.
+So if the question says give a novel example of a coordination
+game, what would be a great first sentence
+for that question, for your response?
+A novel example of a coordination game is?
+Yes.
+That's a wonderful, wonderful first sentence for your answer.
+I know you're under test pressure.
+You don't need to be eloquent.
+But if you just get to the point immediately, this is great.
+Now, I try to read every word students write.
+But if you go and spend half your time not answering
+the question, what are the odds that your answers
+are going to be competitive with those of people
+who got to the point?
+It's just hard.
+If you spend most of your energy giving me back story,
+you're like, economics is a subject which we can.
+With the sped scholastics.
+And then, page after page, and then finally, oh, yeah,
+what was the question again?
+So don't do that.
+And I'll even add in, how about answer the literal question?
+The exact words, even better.
+So once in a long while, someone answers a question
+even more literally than I intended,
+and I always give them credit.
+Because I say, wow, they were even more literal
+than I had expected.
+But usually, the problem is people
+don't answer a literal question.
+Instead, they try to say, well, what
+is the general spirit of this question?
+And then they talk about the spirit.
+And again, not good.
+Because if someone answers the spirit of a question
+while they've not answered the question,
+this leaves me wondering, did the person
+know the answer to the actual literal question?
+So I do try to figure out whether you do or not.
+But again, the easiest thing is just to remove all doubt.
+Don't give me any room to wonder whether you
+know, because you immediately did answer
+an exactly literal question.
+So if it says, discuss the reason for x
+and give two examples.
+So here's the reason for this.
+Here's example one.
+Here's example two.
+Literally answered.
+Done.
+Great.
+OK.
+So that's very useful.
+And then there's one other thing.
+This is a intellectual failing that people generally
+acquire in economics.
+Almost no one has it until they come to economics.
+And then many people never lose it.
+So it's bad.
+So again, I was just raising hallmarks
+where there's some experienced economists, more advanced
+than you, who still seem to not understand
+questions that involve the real world.
+So there's a question that says, give a real world
+example of rent seeking.
+That's kind of easy, but anyway.
+So would a good answer then be saying,
+assume that there is a widget company which produces
+and it is seeking a monopoly privilege for widget
+production.
+Is that a good example of a real world example of rent seeking?
+No.
+Exactly.
+So if you just make up something, or you invent numbers,
+or you start saying, talk about the real world,
+and then you say, well, assume zero transactions costs.
+It's very hard to give people a rich credit
+for answers like this, because again, what
+could be a good real world example of rent seeking?
+Just remember, just a few minutes ago before the break.
+Comcast.
+Comcast.
+Yes.
+All right, yes.
+So Comcast, trying to do that.
+Or the Chinese examination system.
+Or just anything like that.
+Of course, again, in general, if you give an original example,
+that's a bit more convincing.
+Usually, I will actually say, give an original example.
+Because if you just spit back my own example to me,
+then I do have to wonder, does the person actually
+know how to apply the concept?
+Or are they simply using what I taught them?
+Now, on the other hand, this is one kind of phrasing.
+There's another kind of phrasing that says,
+in a Bertrand model, then would it
+be relevant to say that real firms don't
+do marginal cost pricing?
+No.
+So if it mentions a model, talk about what
+happens in the model.
+Talks about the real world, talk about the real world.
+And yeah, so normally, they'll say,
+as a general rule, if it doesn't say,
+talk about this particular model,
+or a particular assumption in a model,
+then the question is actually about the real world.
+On the other hand, if I go and give you a payoff matrix
+like this, then of course, you're
+supposed to work with a payoff matrix.
+So in general, on the true-false explained questions,
+you're more likely to have models,
+and on the essays, you're more likely to be
+about the real world.
+But that's not a hard and fast rule.
+It could go either way.
+Let's see, so I think those are new things now.
+And again, like I said, so if you are in any way troubled,
+there are hundreds and hundreds of old exam questions
+that you can access.
+Once in a long while, I recycle one,
+although normally, I change a few words.
+Sometimes changing the words changes the answer.
+Other times, it does not change the answer.
+You are totally entitled to print off every old exam
+and then bring it to the exam and desperately
+try to fumble through them.
+But once in a while, that works.
+Once many years ago, I had two undergraduates
+who I thought had cheated off of each other.
+And then they pointed out that I had, in fact, directly
+recycled an old exam question.
+And they had both simply copied it,
+which is totally within the rules.
+And I thought, oh, so sorry to have accused you of something.
+I was puzzled as to how they were opposite ends of the room.
+So I was a little puzzled.
+I thought a cheating had occurred.
+But what are the odds that they would both
+use exactly these sentences?
+At the time, I refrained from directly accusing them
+and just said, can you explain this?
+Afterwards, I are even more cautious in my accusations.
+So I say, look, I'm just quickly explaining.
+I'm just trying to be very gentle because I realized,
+wow, even when I thought it was a clear-cut case of cheating,
+I was wrong.
+So that's my general thing to say.
+Oh, yeah, the other thing is that when I go and select
+questions, I am playing mixed strategy and Nash equilibrium.
+So I am trying.
+I am not.
+There is no predictability.
+Or I am trying to avoid predictability
+in what I will ask you about.
+I am trying to be unpredictable to give you incentives
+to learn all the material.
+Perhaps I am not as good at randomizing as I think.
+And you can discern a pattern in old exams.
+And then you can exploit this to not learn the subject
+that you were trying to become a doctor of.
+And that's up to you.
+All right, so other purely bureaucratic questions.
+Yes, please.
+I just want to make sure.
+So you said no calculators.
+Correct, because a calculator now can have internet access.
+Oh.
+And then a normal scientific?
+Yes.
+And then a master, will you assume?
+So some scientific ones have them.
+And again, it's too hard to verify which ones do
+and don't at this point.
+The world is just too confusing now.
+So yeah.
+So this does mean that you weren't expected
+to actually use a calculator.
+So that's nice.
+Yes, back there, please.
+Like, are we having class after the exam?
+What's that?
+Do we have class after this exam?
+Oh, so you mean next week after the exam?
+No, no, no.
+So I'm not that psychotic.
+No, I've done the exam.
+Now I'm going to learn more.
+Shut up.
+Did you just call Dr. White psychotic?
+Yeah.
+So no.
+So the class will end, and you will go home and begin
+spring break, or I guess if you have some other midterms,
+then spring break will have to wait.
+Oh, yeah.
+So one other thing, and one that I forgot to mention.
+So the exam will be proctored by my teaching assistant, Anthony
+Good.
+Sometimes students are upset by the fact
+that I'm not there, because they want to ask me
+questions about the exam.
+All I can say is if I were here, I
+would be just as useless as Anthony will be.
+Because part of what I'll tell you either way
+is that a lot of what the exam is testing
+is whether you understand the question.
+So if you ask me what the question means,
+my answer will generally just be that's
+part of what we're testing.
+So I'm not going to give further explanation of the question.
+So anyway, so don't be mad.
+Certainly don't be mad at Tony for my not being here.
+But anyway, just know that however frustrating it is,
+it will be just as frustrating.
+Perhaps more so if I were here stonewalling you.
+So anyway, so just expect that.
+OK, now, any other totally bureaucratic questions
+just about the structure of the test, how the test will work,
+anything like that?
+Yes, please.
+Do I need a blue book?
+No, you should.
+Yes, you must not have a blue book.
+No blue books allowed.
+You must write directly on the exam.
+There's a certain amount of space allocated
+for each answer on the exam.
+And the amount of space you are given is all you need.
+And if you think you need more, you are incorrect.
+Don't have any more than that.
+So it is a sign that you are talking too much if you
+think you need more space.
+You include no scratch paper?
+So there's, again, there is all the scratch paper
+you would ever need right on the exam.
+So you're fine.
+So again, normally there'd be no lengthy calculations.
+There is a blank page on the back
+in case you decide an answer is completely wrong.
+And then you do the full scratch out and then say,
+see back for real answer.
+This happens usually like once or twice per class, actually,
+as someone goes full, like, complete error.
+I can't believe how wrong I was.
+But now I've got it right.
+Other bureaucratic questions?
+Purely bureaucratic.
+So everyone, so going once, going twice,
+going three times for that.
+Good.
+And oh, yeah, I guess just one other thing is,
+like you'll notice this if you look at old exams,
+given that it's open book and open notes,
+there are very few row memorization questions,
+especially since it's a graduate level class.
+A lot of questions.
+Testing comprehension.
+What is comprehension?
+It's being able to apply an idea to at least a slightly new
+situation.
+So it shows that you understand something.
+So now, part three.
+Now I am opening up the doors to any question
+about anything we've covered in this class so far.
+This is not your only opportunity.
+So you're welcome to go and come to my office hours,
+come to my office during non-office hours, email me,
+call me, Skype me.
+These are all different options for how
+you can go and communicate questions to me.
+But if you have a question you'd like to ask now, yes.
+Could we go over Bayes' rule again?
+Yeah, we'll go over Bayes' rule.
+Now it's eerie because it feels to me like it was last week,
+but I know it was five weeks ago.
+We're actually going to four weeks ago
+because we didn't do it until the beginning of the next class.
+Right.
+OK, yes.
+All right.
+Bayes' rule.
+So it is a rule for relating the probability of A given B
+to the probability of B given A. And this
+says that the probability of A given B
+is going to be equal to the probability of B given
+A times the probability of A. Let's see.
+But I originally did it.
+Did I do it as A given B or B given A?
+OK.
+So it would still be valid either way,
+but I don't want to confuse you by flipping the page.
+So probability of A give you B is equal
+to probability of B given A times probability of A
+plus the probability of B given not A
+times the probability of not A, which all of this of said
+let's see why.
+I feel like I'm losing my board 
+Yes, yes, yes.
+So that's just time mover.
+Probability of B given A times the probability of A
+plus the probability of B given not A
+times the probability of not A.
+to be able to specify.
+All right.
+Now, so this just looks like a lot of math at first,
+but it actually has a lot of great applications.
+So anytime someone is trying to infer
+what's going on in the world, A, given some information B,
+Bayes' rule applies.
+Let's say you could use it for scientific hypothesis testing.
+So you have an hypothesis about the minimum wage,
+and then you're trying to figure out, well,
+given that we're going to have a minimum wage,
+Once study came along, what should I conclude?
+Yeah, so this is a totally new example.
+So after my education book came out,
+there was a new paper out about what
+happens in one university in Columbia
+when they reduce the graduation requirements for economics
+and business.
+And I can't tell you how many people,
+as soon as this paper came out, were waving it around virtually
+on Twitter saying, see, Brian's whole book is wrong.
+Because of one paper about Columbia,
+about one school, about two majors in one school in Columbia
+shows that everything else is wrong.
+And then my reply to this was, well,
+if it came out the other way, would you
+have been saying this is the paper that proves me right?
+I don't think so.
+Then you'd be saying the common sense thing,
+which is it's just one paper about one school
+with two majors in Columbia.
+So how should we think about this in terms of basic rules?
+So we have probability that Brian is right about education.
+So Brian is right, given the Columbia paper.
+I did learn how to spell Columbia across this board.
+I had forgotten.
+I used to know it.
+All right, so and that's going to be equal to.
+So the probability of the paper.
+So the paper's finding.
+So Columbia paper, given if I'm right.
+That's right, say.
+Right times the probability that I'm right.
+All over, same thing.
+Probability that you get the Columbia paper,
+given that Brian is right, times the probability
+that Brian is right, plus.
+Now here's the fun part.
+Yes.
+Plus the probability that you get the Columbia paper
+if I am not right.
+If I'm not right.
+Well, I mean, you can do either one, of course.
+So yeah, I mean, there's nothing wrong with what I've done.
+I've just been reversing it.
+So the probability that I'm right, given this paper.
+That's fine.
+That's probably, yeah, no, no, no, actually, wait.
+No, this is fine.
+Probably, yeah.
+Yes, the probability of Columbia paper, if I'm right,
+times the probability that I'm right.
+Yeah, so over the over, probably,
+you have the probability of the paper,
+if I'm right, times the probability that I'm right.
+Plus the probability that you'll get the Columbia paper
+if I am wrong.
+And then times the probability that I am wrong.
+All right, OK, so here.
+OK, so this.
+All right, now, of course, there are
+a bunch of these probabilities which
+are just subjective probabilities.
+You can have whichever ones you want.
+But Bayesian rule still does control
+how we're supposed to update.
+Right?
+Yes.
+So just to clarify, is B's finding
+supposed to reinforce A?
+Well, the point is it can reinforce or undermine.
+Yes.
+So in this particular case, this was a paper finding
+that when they cut graduation requirements
+in economics and business, that the wages went down.
+And in particular, the paper was very good and careful
+in that it went and said, well, there
+hasn't been any change in the selection.
+So it doesn't make sense to say signal is worse.
+So you don't need to know the details
+to understand the general points.
+All right, so anyway, so then there
+are a couple probabilities here that are necessarily
+related to each other.
+Probability of them right and probability of them wrong,
+that is the sum to what?
+That is the sum to what?
+All right, but the other stuff actually
+is something where people can come up with anything they want
+initially.
+But still, there is a logic to it.
+So again, so suppose that we start off with the view
+that there's a modest and a sedible.
+So I suppose I'm right generally that, oh, so I guess I,
+just to do a quick, real quick version.
+The reason my book is that the main reason why education pays
+is not that you're learning useful skills in school,
+but rather that you are jumping your hoops to impress employers.
+So that's the backstory.
+OK, now, if I'm right, what are the odds
+that you would get this result?
+And so I would say, well, so just
+slightly, again, for any random curriculum reform,
+that is usually at least less likely to have.
+Although since I said, look, there
+is plenty of useful education out there,
+it's in no way to be unexpected.
+And on top of it, of course, as we
+discussed in the beginning of week two,
+if you just think that econometric methods are just
+not that good and you're the best ones,
+then there's another reason to think
+that even if a theory is true, the results may not
+fit your theory.
+So again, so we start off filling this in.
+So suppose we think that that first probability is, say,
+1.3.
+And then we think that the probability that I'm actually
+right, well, that should be 1.
+What do we think about that?
+Well, let's see.
+Since they're throwing it at my face,
+we'll throw the paper at my face.
+So it's just that I should be drastically changing my mind.
+So in that case, I think there's a 90% chance
+a writer would write a book if I thought it was 51%.
+And then we go and look what's there.
+Times 0.9.
+And so then those things are the same.
+And then the probability that you get it if I'm wrong.
+So then we'll go and come up with something like, say,
+maybe 0.6.
+And then this one here has to actually be 1 minus 0.9, right?
+Times 0.1.
+And we get this.
+And what do we get?
+Let's see.
+So someone here does have calculators.
+So 0.27 over 0.27 plus, what is that?
+0.06.
+So what does that reduce us to?
+Let's see.
+0.27 over 0.33, which is roughly what?
+80% or something?
+No, excuse me.
+Where is that?
+Let's see.
+So that's 88.
+OK, so 88%.
+All right, so given all this, I need to adjust.
+Given these numbers are right, then I
+have to move from 90% right, then
+a 90% chance of them right to 88% chance of them right.
+So totally devastating, right?
+And there'd be an even smaller update, of course,
+if I thought that the methods were by far less convincing.
+And so when I was discussing this on Twitter
+with the author, her story was like,
+I don't see how you could possibly say that there could
+be a, let's see, what was her thing?
+Oh, yeah.
+So I was saying, look, she said, how can you
+say this doesn't generalize?
+And I said, look, you're looking at a form that
+reduced statistics requirements for people
+that go and work in the major financial institutions.
+That sounds like a case that is unusually like job training.
+And then it's like, oh, yeah.
+So not so surprising.
+All right, let's see.
+Now, so was there some more you wanted to base this rule?
+I guess it was just like, because you
+said we didn't have to memorize formulas or anything.
+Is the Brian is right, the Columbia paper,
+would that be a problem that looks like a possible exam
+question?
+Yeah, so any problem where you're trying to figure out,
+what probability should you shift true from one to another?
+Start off with this probability.
+If I just give you those numbers, then it's really easy.
+If I could make it a little bit harder and say,
+what is the maximum prior probability
+consistent with something?
+Or, again, this is one where it also
+lent itself very naturally to a short essay
+and to say, all right, so what would
+be a non-Bayesian reaction to this?
+And let me contrast this with a Bayesian one.
+So I know this sounds like a strong bet,
+but the impression that I very much got on Twitter
+is that even very smart people often
+think that your beliefs should be based entirely
+upon the last published natural experiment.
+And whatever that is, you should believe that is
+the way the law works, which is not only a strange view,
+but it also means that your view has to oscillate a lot,
+because the last natural experiment often
+gives a different result than the previous one.
+And then to be convinced of something,
+even though the historical record tells you
+that a new study will come along and require
+you to change your mind, it's pretty silly.
+And again, it's just intuitively just the question of, well,
+what would you have included if the study came out
+the other way?
+And I think what a lot of people want to do is to say, well,
+if it comes out my way, it shows you're wrong.
+If it comes out the other way, then everything's possible,
+and therefore, I don't need to change my mind.
+What Bayes' rule said is that does not make any sense.
+There's no such thing as a heads-high-wind,
+tails-hard-break, even bet in Bayes' rule.
+Instead, anything that could raise your probability
+to something, if it comes out one way,
+must lower your probability if it comes out the other way.
+It's absolutely required.
+Otherwise, the math doesn't work.
+So again, people often want to have this argument of, look,
+if the experiment comes out this way,
+then my opponents are wrong.
+But otherwise, we just have to do more research.
+We can't say anything.
+It's like, no, we can say something.
+You're a little bit less likely to be right
+than you initially thought.
+Other questions about anything we've done?
+Yeah, Tucker?
+Could you review the proof that core no firms
+want to split for all n?
+Ah, OK.
+So that, let's see.
+So this was on the latest homework, right?
+OK.
+So, hmm.
+So one where I wished I had brought the answer key.
+So I think I've got it locked until I have to go and unlock
+it.
+Let's see.
+So, I don't know.
+Maybe not, actually.
+Let's see.
+It's not as bad as it seems, though.
+Let's see.
+All right, let's see.
+So we don't want to re-derive it.
+Let's see.
+So does anyone have the Cornell profit formula?
+You can give me that, and then I can do it.
+All right, you got it.
+Cornell profit formula.
+Yeah, no cost.
+No cost.
+All right, that's fine.
+So profit under Cornell.
+Let's see.
+This is for duopoly, right?
+So I think that 9 becomes n plus 1 squared.
+OK, great.
+All right, so Cornell profits are given by, so then let's see.
+And then c is the cost, right?
+So, yeah, c is the cost.
+So that's 0.
+So yeah, so then it's just going to be a squared over n
+plus 1 squared.
+So that is, that's just for one firm.
+So that's just going to be pi of n.
+And then all we need to do to show the firms who
+want to split is to show that pi of n, so 2 pi of n plus 1
+is greater than pi of n.
+So that's what we're trying to show.
+So pi of n, that's showing the profits
+for an individual Cornell firm.
+So what do we need to do?
+So over here, we've got the easy part.
+So we've got a squared over n plus 1 squared.
+And then over here, we have 2.
+So notice, so the numerator does not have n in it.
+So that's going to be the same, right?
+So we'll have 2a squared.
+And then what is the denominator going
+to be for n plus 1 instead of n?
+If n plus 1 is the denominator of n plus 1 squared, yes,
+then it will be n plus 2 squared there.
+All right.
+So all right, and then question mark over the greater than
+sign, because that's what we're trying to show.
+All right, so how can we start?
+Start by canceling the squareds.
+We don't need those, right?
+OK.
+And then we've got, so 2 over that.
+So n plus 2 squared.
+So n squared plus 4n plus 4 greater than 1
+over n squared plus 2n plus 1.
+And then you might remember that if you
+take reciprocals of things, if you take reciprocals
+of both sides, what does that do to the inequality sign?
+Flips it.
+Flips it, right.
+So then what we've got actually is
+we're seeing whether n squared plus 4n plus 4 all over 2.
+Is that less than n squared plus 2n plus 1?
+And then what have we got?
+So then we'll just go through.
+So we got 1 half n squared plus 2n plus 2.
+Is that less than n squared plus 2n plus 1?
+And you'll see that we can cancel, right?
+Cancel, that cancels.
+And also this is going, and then we
+can go and do a little more canceling here.
+So we can subtract 1 half n squared from both sides.
+And we subtract 1 from both sides, right?
+So we got this left, and we got that left, and that left.
+Everyone happy?
+So then what we're going to have is 1 half n squared.
+1 half n squared.
+And it's got to be, then again, greater than 1.
+And n squared, that is going to be greater than 2.
+All right.
+And so n, this is going to be true as long as n is
+greater than the square root of 2.
+And that n, so let's see, if there's only one firm,
+will you want to split that?
+No.
+How about two firms?
+Yes, because 2 is greater than the square root of 2.
+And we permit.
+Thank you.
+Sure.
+All right, so this is, so again, highly unlikely just
+to ask you to reprove this on an exam.
+So especially now.
+Actually, the exam's already printed.
+So if you just so happen to ask the right question,
+then maybe everyone will get this one right.
+But we shall see.
+OK.
+Other questions?
+Yes, please.
+A very specific question.
+What was that?
+A very specific question from the note.
+Sorry, I didn't understand the first thing you said.
+It's a very specific question.
+Specific.
+I see a very specific question.
+Sorry.
+Oh, a very specific question.
+Of course.
+Great.
+It's from week six.
+Week six.
+OK.
+Part two and three.
+There is a same equals n over n plus 1.
+Hold on.
+Let me go and call up those notes right here.
+Since week six, section two?
+Yeah, g.
+2p?
+g.
+2g?
+Yeah.
+Oh, OK.
+Same equals n over n plus 1.
+I don't know where it is from.
+OK.
+I know where is the same equals 0.5 from.
+OK.
+All right, yeah, so I can go and do that problem for you.
+Let's see.
+Where should I do it?
+Let's see.
+So this is the voluntary cooperation
+in a public good problem.
+So section two, or begins with 2f.
+So remember, in this problem, we've
+got every individual utility function
+is going to be equal to his own consumption times d.
+And d is going to be equal to the summation of all
+the individual donations.
+And remember, we have a budget constraint
+that ci plus di equals 1.
+So everyone starts off with one unit of a good.
+And then you go and divide your resources
+between a donation and your consumption.
+OK.
+All right.
+So this is going to look almost exactly like a Carnot problem
+here.
+Set it up.
+And it's going to be like this.
+All right, so for an individual person,
+ui is going to be equal to ci times.
+And then here we have, so it's the summation of this.
+But it's going to be, so your own di
+plus the summation of, let's see, so let's see,
+all j not equal to i.
+So in other words, so this here is just d.
+So that's your donation plus the donation
+of everybody but yourself.
+So we've got this.
+And then we've got ui is equal to ci times.
+And then remember, di is just going to be equal to 1 minus ci.
+That's di.
+So we put that in there.
+So 1 minus ci plus the summation of all those other people.
+So all j not equal to i.
+All right.
+Now, do you see how that looks almost exactly like Carnot?
+All right.
+OK.
+So then all we have to do is, all right,
+so here we've got a ci minus ci squared plus ci
+times that summation term.
+We won't bother writing that out.
+And we can then go and move the terms.
+So we've got minus ci squared plus,
+let me here have a good one, plus that thing times ci.
+Good.
+And then we want to go and take the partial derivative
+of utility with respect to ci.
+So that's going to give us minus 2 ci plus 1 plus that thing
+is equal to 0.
+Continue here.
+So that means that we've got ci is going
+to be equal to 1 plus that whole thing over 2.
+Actually, do we want to do that?
+We don't even actually have to do it.
+That's true, but we don't need to do it.
+And now, the last thing.
+So now we have a reaction function.
+So we know what we want to do.
+So we want to set this thing equal to 0.
+But then, since we're looking for a symmetric equilibrium,
+we have a symmetric equilibrium where
+everyone's doing the same thing.
+Then an equilibrium, all remember,
+how many people besides you are there?
+There's n minus 1.
+Yeah, there's n minus 1.
+And then we add in the 1, and it becomes n.
+So we're going to have an equilibrium is going to be
+minus 2c plus n.
+Oh, yeah, yeah, yeah, yeah.
+So, hold on just a minute. So, let me just make sure. So, yeah. So, I'm going to
+make a space over here. 2C. It's not going to get any of this. Yeah, it's fine.
+So, we've got 2C. Yeah, 2C plus. Let's see. Then we've got N. So, that's going to be 1
+plus N minus 1. Hold on just a minute. Let me just work it through. So, yeah. So, yes.
+We've got 2N plus. So, 2C. And then we've got. Oh, okay. Okay. I see what's going on.
+So, it's because that this is. Hold on. Let me just make sure. Yeah, yeah, yeah. Wait,
+wait. So, I think I messed one thing up earlier.
+The summation should be equal to N minus 1 times.
+Yeah, yeah, yeah. Yes. So, hold on. So, there's one problem back here. This was okay. Yes.
+So, that's going to be 1 minus that. So, that one's there. So, we've got a minus CI plus
+that. Let's see. So, hold on. So, we've got. Let's see. So, we've got a CI of that. And
+then plus that times. Let's see. Hold on. Ah. So, let's see. Everybody's summing those.
+So, let's see. So, let's see. So, you guys. Yeah. So, yeah. Summation of those. That's
+going to be N minus 1 of those. And then we've got another N. Yeah. So, that actually looks
+like should be N. Yeah. Looks good. Okay. So, N times. Let's see. So, wait, wait, wait.
+Hold on. There's another problem. So, let's see. Because that's summing the 1 minus CI's.
+Yes. Yes. I already got it. Yes. Oh, yeah. You already got it. So, everything's right.
+Yes. But nevertheless. We all know that the summation is N minus 1 times 1 minus CI. So,
+we go up. Okay. But given how far we go, we should finish this. See, he says I'm right.
+So, everything's good. But, let's see. So, it wasn't right. So, we got the 2CI. And then
+we've got. Let's see. So, we've got symmetric. So, 2CI or 2C. And then we have plus. Let's
+see. So, 1. And then that thing is going to give us N minus 1, 1 minus C's. Right. Plus
+N minus 1, 1 minus C. Yes. And let's see. Does that all work out? Yeah. Right. That's
+going to work out. That's going to all work out. Right. So, C equals 0. And so, then we
+have. Let's see. 2C plus. Hold on. And should. Now, is that. What is that? Should that be
+times anything? Or is that. That's fine the way it is. Is this all good? Yeah. Okay.
+So, plus. And 1. Yeah. 1 plus. And then. Yeah. So, N minus 1. And then minus N minus 1C.
+Okay. Right. And then we have. Yeah. We combine N. Yeah. 1 and N minus 1. And that thing comes
+to N. Yes. So, then we've got all that equals 0. So, then we've got. We're going to have.
+So, minus 2C. Hold on. I guess we can just go. Move this over to the other side. So,
+we've got 2C. Move that over to that side. It's going to be equal to N minus N minus
+1C. And then. Yeah. So, move that back over to that side. And then we have. Let's see.
+2 plus 1. 2C equals N. And C is equal to N over N plus 1. Alright. So, any other major
+derivations people want me to redo from memory? It's all fair. Let's see. Of course. Or any
+other easier question? Any other question where I have zero doubt that I can correctly
+answer it? Yes.
+Can you run this through a general idea of a mixed strategy Nash Equilibrium?
+Sure. Sure. The general idea of a mixed strategy Nash Equilibrium. So, good example of this.
+So, I'm saying if we've got. So, we have the game where you want to do the opposite of
+what your opponent is doing. So, like left, right, left, right. And then if. So, one person
+wants to do the same as the opponent. One wants to do the opposite. So, this is a classic
+case. Like if you're following someone. What do they want to do? Not be followed by you.
+What do you want to do? Follow them. Right. So, to follow them you want to do the same
+thing they're doing. But to not be followed they want to do the opposite of what you're
+doing. Right. So, you want to follow someone they turn left. You want to turn left. Right.
+But if you want to escape someone and they're turning left you want to turn right. Right.
+So, in this case we have player one who will go and play the player wheel. So, spade ten
+is the good result. So, player one doesn't want to be followed. So, let's say if they'll
+have payoffs like that. And then player one does want to follow. So, they'll pay off like
+this. Okay. Right. So, now this is a game where there's actually no pure strategy Nash
+Equilibrium at all. Right. Because no matter what you're doing or what's happening one
+person wants to change. Right. Because if you're ending up in the same place then who
+wants to change? The person who doesn't want to be followed. Right. And if you're ending
+up in different places who wants to change? The follower. Right. Okay. But we can go and
+find a mixed strategy Nash Equilibrium where they're both randomizing. Right. And if they're
+both randomizing then they can each be going and playing left or right with odds such that
+they don't want to change the odds. Right. And again the way that you do that is you
+in order to have an equilibrium each person must be making their opponent indifferent.
+Because if everyone is indifferent then everyone's happy to randomize. Right. Make sense? Okay.
+So, in this one mixed strategy Nash Equilibrium it's just going to be both players play left
+and right with probability.5 and then no one can actually benefit by changing. And
+that gives us the equilibrium. Now in terms of the intuition the best game I know of for
+teaching this is rock, paper, scissors. Right. So you all know rock, paper, scissors. You
+can either play rock or scissors or paper. Right. And you may notice the game is set
+up to be intransitive. Right. There isn't any one strategy that wins automatically.
+Alright. And then what do you want to do in order to win the game? Well everybody wants
+to be unpredictable. Right. And when everyone is trying to be as unpredictable as possible
+what is the predictable pattern? One third. Every strategy is played with probability
+of one third. So and again like the deeper intuition is there are a lot of games where
+you just don't where you if what you're doing is predictable then there's a very
+easy response to it and you will lose. Like if you are playing tennis and you always stand
+on one part of the court or then people will just go and hit the ball anywhere you are
+and they'll win easily. Or if you go and hit the or if you go and always hit the ball
+in the same place your opponent will just wait there and knock it back very easily.
+So the idea of mixed strategies is that you can avoid these situations by being unpredictable.
+Make sense? Alright. Other questions anyone might like to ask? Anything else that's
+at the time of 9.42 you feel is optimal to learn or re-learn or master or double check
+your understanding. Anything at all. Yes please. So there will only be. Sorry can you speak
+up it's hard to hear. I mean so there will only be mixed I'm as a national equilibrium
+only when there is no pure strategy national equilibrium or there will be two pure strategy
+national equilibrium that there will appear. Yes or more than one anyway. So yes so if
+there's only one pure strategy national equilibrium can there still be a mixed strategy one?
+Yes. So I can't remember if there's a theorem about that or not. So I mean like a good rule
+is to check. Let's just check for it. So I feel like I have seen examples where that's
+let's see so could that be true. We're saying it sounds plausible but I don't want to say
+that it's true because I'm not sure. Let's see so yes so if there's only one pure strategy
+national equilibrium can there still be a mixed strategy one? Maybe. If I don't know
+so I'm going to give you a metagaming test. If I don't know it's not likely to be on the
+test. But so that's something where intuitively what you're saying seems right but I would
+want to double check it. Yeah but in the exam if there is you will let us derive the mixed
+strategy national equilibrium but if you don't let us derive maybe we don't need to consider
+whether it's. There's only one way to say it. If it says name all the equilibria then
+we need to name all the mixed strategy pure strategy and mixed strategy. If it says find
+the mixed strategy national equilibrium you need to do it. If it just says like how many
+are there then again for the games that we covered so you know like so in the prisoner's
+lemma how many pure strategy national equilibria are there in the prisoner's lemma? One. How
+many mixed strategy national equilibria are there in the prisoner's lemma? Zero. Zero.
+Prisoner's lemma does not have a mixed strategy national equilibrium. Right so in the prisoner's
+lemma you don't want to randomize between cooperate and not cooperate. How about in
+the coordination game? So you like simple coordination game with only two options so
+how many how many equilibria will there be then? Two. And how many mixed strategy national
+equilibria will there be? One. Right and then how about in like those bargaining or hawk
+dove or war peace games? How many pure strategy national equilibria will you only have if
+there's two strategies? Two. And then a mixed strategy national equilibrium on top of that?
+One. Yeah so one more. So this should be obvious now although I will tell you by the time you
+take the comprehensive exam at the end of the summer a lot of students will mess up
+those questions. So that's super. It's a little depressing for me but I think it would
+be very depressing for the students that are missing those questions because they're would
+have taken them three minutes to have reviewed the table of how many equilibria each game
+has. Yes. So in the homework there was a question where we were supposed to use trigger strategies
+but the deviation strategy that was proposed it was not a communion strategy. It was something
+like a seller would cheat or not cheat and the buyer would decide to buy or not buy and
+for some reason this buyer would buy with a 50% probability. So in that case I think
+the equation was wrong because in trigger strategies you cannot deviate to something
+that is not national equilibrium. Let's see. So did it say it was a trigger strategy or
+just said it was punishment? So I'm pretty sure I remember the question that you're asking
+and I think that the answer key, many years ago I think the answer was actually wrong
+in the answer key. I think now it got corrected and it should be okay. So when I unlock the
+key tomorrow morning I'll try to double check that or if there's a question you can email
+me. Yes, so of course if you're not punishing maximally then it's not really a trigger strategy
+but it could still be punishment. But it could be that it's just an ineffective punishment
+and then you just say this would not actually be an effective punishment for any beta.
+Yeah, which we want. Yes, then that should be fine. Let's see. Other questions? Anything
+else? Everyone happy? Everything happy is weeks one through six. That's all I'm going
+to be happy with at this point. Let's see. So just to repeat. So this is not your only
+chance to ask. So I am going to be around almost all the time until the midterm.
+I was going to ask before we jump into week eight. Understanding the welfare theorems,
+what kind of questions can we expect from that?
+So in principle anything is fair game. I'm highly unlikely to ask you just to reprove
+it or something like that. So if you look at old exams the kinds of questions I like
+about the proofs are ones where I ask you if one of the assumptions is violated, what
+could go wrong or what will go wrong. So again, which to my mind shows whether you really
+understand the proof is knowing why the assumption is actually necessary. So again, anyone can
+just memorize the proof and copy it. But to say it's important that you have no discontinuities,
+why does that change, why would that matter? But again, the best standard of what kinds
+of questions likely to appear is old questions, which again now there's a lot of them. I think
+I did actually combine all the old exams into one giant file. So can you see this?
+It's more of a general question. Do you have a combined file that doesn't have the answers
+in it also?
+No. So, yeah, so I don't have that one. Yeah, so I guess there is the issue of can you pretend
+you don't know the answer if you haven't seen it. Can you just cover it up I guess?
+Let's see, other questions. So questions for weeks one through six are going once, going
+twice, going three times. Alright, so you can still ask, but now we move on to our next
+topic. So this is not going to be on the mid-term. The topic is symmetric information, not asymmetric
+information, symmetric information. How many people ever had a lecture on asymmetric information?
+Yes. How many people ever had a lecture on symmetric information? Very unusual. But of
+course, symmetric information comes first and then you think you would go and add on
+asymmetric information. There are a bunch of models of symmetric information, it's just
+normally they aren't packaged that way. So, just starting with expected utility theory.
+So this is a long-standing model that tries to answer the question, how do people choose
+between gambles? Like how do people choose between gambles? So, and what's the relationship
+between the value that you put on having X with certainty versus having X with probability
+less than one? So, either you can go and have X with probability equals one, or you can
+have X with probability less than one, and how much worse is that, is this the ideal,
+than that deal? Now, we can start off with a really simple theory. It's wrong, but it's
+simple. And the theory is expected value maximization. So just maximize whatever the expected value
+is. So this says that if you're choosing between two bundles, X1 and X2, then you'll go and
+choose one over two if the expected value of X1 is greater than X2. So like if this
+is a one in a thousand chance of a trillion dollars, and this is a hundred million for
+sure, then expected value maximization says that you will go and choose the one in a thousand
+chance of a trillion dollars. Because one in a thousand chance of a trillion dollars
+is what expected value? A billion, right? And which is a higher expected value than
+500 million for sure. Is there anyone here who would choose the one in a thousand chance
+of a trillion rather than getting 500 million for sure? So, one in a thousand chance of
+becoming the most important person in history. How important is that? If you already were
+a multi-millionaire, I can see why you might actually like that other one, because what
+else is going to change your life? But anyway, so you've got that. So you say people choose
+whatever option is the highest monetary value. Super tractable theory, but highly unsatisfactory
+because almost no one would do this. Almost no one would do this. So in general, if you
+make the amount large enough and the probability low enough, you can get people to say, I don't
+want that. That seems like a really bad bet and I'm not interested. And it's even harder
+to say, well, how about if I give you like a trillion raised to the power of a trillion
+with a one in a billion chance? That's an enormous expected value, but what would I
+do with all that money? No, I don't want that. So because of problems like this, there is
+another theory which is much more popular, which is expected utility theory. So instead
+of expected value maximization, you're maximizing expected utility. And this has a special Germanic
+name. It's also called von Neumann-Morgenstern expected utility. Von Neumann-Morgenstern,
+von Neumann was the inspiration for the character of Dr. Strangelove in the movie Dr. Strangelove.
+In case you're ever wondering, who is that guy? He's John von Neumann. So anyway, the
+intuition is people don't maximize expected wealth, they maximize expected utility. Now
+how could they do anything else? Well, first, let's figure out what's the algorithm. So
+there's a three-step procedure for applying expected utility theory. So first procedure,
+step one, you need to assign numerical weights to different outcomes, how good or how bad
+they are. Higher numbers, means they're better. Then, next step, you want to linearly weight
+outcomes by the probability. This is super important. So whatever the probability is,
+you just put that probability right in front of the value. Then you choose whatever gamble
+you want to apply to that. So you want to choose the highest linearly weighted outcome.
+So application. So I start off with a numerical weights of your outcomes given by this function,
+utilities equal to the square root of my wealth. Where does that come from? That could just
+be my preference. You're allowed to have any preferences that you want there. Although
+almost always expected utilities express the function of your wealth. So anyway, that's
+our function. And then suppose I got a 50-degree, I even thought it might be 50-degree, but
+I didn't get it.
+50% chance of 10,000 and a 50% chance of zero.
+So this is one ticket.
+That's one lottery ticket that I have.
+Gives me 50% chance of 10,000, 50% chance of zero.
+Or I could have a different ticket.
+I have another ticket that has 100% probability
+of giving me 2,000.
+Different ticket.
+All right, do you want to have this ticket or that ticket?
+Well, so inspecting utility theory says
+that you do or act as if you do,
+is that you go and take the probability
+of the first outcome, 50%, times the value of that.
+So that's going to be square root of 10,000,
+plus.5 times the square root of zero.
+And you're going to compare that to,
+so greater equal less than,
+to one times the square root of 2,000.
+So notice, we've got the value function,
+which comes in here, here, and here,
+where we just take the square root of the wealth.
+And again, this is just reflecting
+our attitude towards risk.
+But then when we go and put in the probabilities,
+we don't do anything special with those.
+We just put those in linearly.
+50% chance means we multiply it by.5.
+100% means we multiply it by one.
+One in 1,000, then we multiply it by.001.
+And then we just compare.
+And if we take a look, then we'll see
+that this has an expected utility of 50,
+for the first one, that's 50.
+This has an expected utility of 44.72.
+So we choose the higher one.
+The higher one is 50.
+So given these assumptions, we will choose this.
+So that is the procedure.
+That is the procedure.
+Now, there's something very important about this,
+which is easy to overlook.
+Namely, people first hear about this,
+and they say, of course, duh, everybody does this.
+There's a lot of evidence people don't do this either.
+How so?
+Well, suppose that you're moving from a 1% chance
+of a bad outcome happening to a 0%.
+In, with expected utility theory,
+this is just gonna be a,
+this'll have the same little change
+as moving from 2% to 1%.
+And yet, normal human beings seem to really like
+going from 1% chance of something bad to 0%,
+but don't seem to care very much
+about going from 2% to 1%.
+According to expected utility theory,
+moving from 2% to 1% is just as valuable
+as going from one to zero.
+According to normal human beings, not so.
+That 1% really bothers them.
+But you say, hey, I can reduce your risk
+of a really bad thing by one percentage point.
+It's like, well, how much is the risk?
+Like, well, what's the difference?
+It's like, well, if it goes from one to zero,
+then I can finally sleep easy,
+knowing there's a 0% chance of a bad thing happening.
+If it goes from two to one, who cares?
+Well, you should care,
+because it's a one percentage point reduction
+in a terrible thing happening to you.
+All right, so that is one of the most unrealistic things
+about expected utility theory.
+At the same time, it's one of the main things
+where if you take it seriously, you might repent and say,
+other human beings are crazy, but not me.
+I'm gonna start worrying about moving probabilities
+from one to 0% more than moving them from 2% to 1%.
+Now, if you think about the way that people deal
+with the kinds of very dramatic risks
+that you see in the news, there is some idea.
+If we just banned assault rifles,
+then it couldn't happen anymore.
+Right now, that's another error.
+It's like, well, yeah, it could happen.
+There's countries that do have them where it still happens.
+But again, the error expressed in there is like,
+well, even if we could only go and reduce it
+from a little, we'd have the risk, but it's still there.
+Isn't that a noticeable improvement?
+Right, but again, for a lot of people,
+it's like, ah, it could still happen, so who cares?
+It's like, well, we've reduced it,
+so that's a reason to care.
+Yes, the other question?
+Does the example mean that rich people
+have different purpose?
+Ah, so, well, it doesn't mean,
+so, I mean, if you look at that utility function,
+so, as we're gonna see,
+we don't have time to prove it tonight,
+but what we're going to see is that this does mean
+that as your wealth goes up,
+your risk aversion becomes less, normally,
+so, which, again, is not so surprising,
+although, as we're going to see after the midterm,
+this is also a little bit odd
+because when millionaires gamble
+at low-stakes slot machines,
+they seem to actually get upset
+when they lose a little bit of money,
+so there's something about just being called a loser.
+It seems to bother people,
+even if you're super rich,
+you're like a billionaire,
+what do you care if you lost five bucks?
+But an actual billionaire's like,
+that was my five bucks.
+It's like, you know,
+she's been pleasing some people.
+All right, so we continue with this
+three weeks from tonight, actually,
+because next week's the midterm,
+and then there's spring break,
+and only a week after that do we resume,
+so see you guys in three weeks.

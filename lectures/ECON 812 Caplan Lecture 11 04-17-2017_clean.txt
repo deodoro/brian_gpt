@@ -1,0 +1,3236 @@
+All right.
+All right.
+So last topic on behavioral economics part two,
+behavioral economics and rationality.
+All right.
+So I think I started on this a little bit,
+but I'm giving this feel so many times all at once together.
+Anyways, so as you may have noticed,
+when you took an economics class,
+it is likely that a professor tried to fix you.
+All right.
+So you showed up thinking some things about economics,
+and then you had a professor who said,
+you are a receptacle for economic garbage,
+and the garbage must be taken out,
+and you must be refilled with the light.
+All right.
+So at least that's kind of what happened to me,
+and those were always the classes that I liked the most
+and the books that I liked the most,
+the ones that said, you know,
+all the stuff that you were taught to believe
+for your entire childhood,
+and when they listed, I said, yes,
+I was taught all of those things.
+Well, most of them are completely wrong,
+or at least they are grotesque half-truths,
+which must be amplified or augmented
+in order to really understand what's going on,
+and when I would listen to those arguments,
+I would have this great sense of betrayal
+that all of the adults of my life
+had been withholding the truth,
+had been preaching stuff
+when they didn't know what they were talking about,
+and also a sense of salvation.
+Now I no longer am one of these people
+from whom I came who believed nonsense.
+Now I can be part of the special people
+who believe good stuff,
+and I will go forth into the world,
+and I will preach the good word.
+I'll settle on it.
+This does not sound familiar at all to you.
+Well, it's about time it did.
+Anyway, so it is very common
+in introductory econ classes
+to try to correct the preexisting
+systematically biased beliefs
+about economics that students begin with,
+the most famous one being
+a course in international trade.
+Normally, when economists teach international trade,
+we go over to comparative advantage
+and expect students to go,
+oh my God, I've been so wrong my whole life.
+And there's a good reason for that,
+which is that comparative advantage
+undermines almost the entire popular view
+about international trade.
+It really does.
+And of course, this is not a new thing.
+If you go back through the history of economics,
+it is very common for economists
+to spend time complaining about
+the ridiculous things the public believes about economics.
+So, Frederick Bastiat is the flag bearer
+with his book Economic Sophisms,
+which is all about, every chapter,
+here's another ridiculous thing
+most people think about economics.
+Here's why it's totally wrong.
+All right, never believe that again.
+Next chapter, another ridiculous thing
+people believe about economics,
+also totally wrong.
+Every chapter goes that way.
+And Bastiat actually has a whole political economy
+where he says, what's wrong with the world
+is that the stuff that I'm teaching you
+is known to hardly anybody,
+and therefore policy is based upon error.
+And not just random error,
+but a very particular kind of shared error.
+And if we could just go and wipe out the error,
+we could make the world fantastic.
+That's all it takes.
+It is changing what everybody thinks.
+That's all it is.
+All right, so anyway,
+many famous historical economists
+operate from the same perspective.
+You can read Adam Smith,
+so this is before there's any kind of
+public opinion research,
+but Smith seems very convinced
+that most people have populist views
+about economics, which Smith tries to refute.
+You can see this in, say,
+Eugene von Babur or Frank Knight
+or Milton Friedman or Paul Samuelson
+or Paul Krugman from the 90s, right?
+Or David Hume, right?
+Paul Krugman in the 90s says,
+the lessons that people need to learn
+about international trade
+aren't any of the fancy stuff I've been doing.
+They need to learn the basics of Hume and Ricardo.
+That's what he said.
+All right, so anyway,
+now, but what's weird
+is that when you go and read
+research papers on modern economics,
+they normally assume that everybody
+has rational expectations about economics.
+So even though as teachers
+we assume that our students are screwed up,
+when we try to analyze the world,
+we assume that people
+who never even had the benefits
+of our teachings are already okay.
+They're already fine, at least on average.
+So in other words,
+when we go and model, for example,
+public opinion about international trade,
+we usually make the standard
+rational expectations assumption,
+which is that errors are going to be
+normally or at least will be normally distributed,
+and there will be a mean of zero
+and a standard deviation of sigma squared.
+I'm gonna say that.
+So the error term will just be a normal,
+normally distributed variable with zero means.
+So on average, people's beliefs about trade
+are neither overly pessimistic
+nor overly optimistic.
+And then people try to figure out
+why we have protectionism
+if people have accurate views about trade.
+So of course, one answer would be
+maybe economists are really wrong about trade
+and trade is actually bad.
+And people who've never seen the subject
+somehow have figured it out.
+Who's better than the experts?
+So anyway, I have a series of empirical papers
+that essentially try to test that assumption.
+So I think I talked about it earlier in the semester,
+but I'll talk about it now in more detail
+since we have the right framework to think about it.
+So the data set is the Survey of Americans
+and Economists on the Economy, SAEE for short.
+The idea of the data set is that
+they ask exactly the same questions
+to the general American public, randomly sampled,
+and to PhD economists specializing in domestic policy.
+So not going and talking to pure theorists
+who don't know any facts,
+but talking to actual domestic policy specialists.
+Now, if we believe this rationalistic approach,
+as I said before,
+then if this is the true belief, P star,
+then the difference between experts and laymen
+should be something like this.
+The laymen should have a belief distribution like that,
+and the experts should have a belief distribution like that.
+But the mean of the two views should both be the same,
+and namely the mean should be the actual truth,
+the actual truth, what's really going on.
+And then what the rationalistic assumption says,
+in other words, is that if we go and test
+the coefficient on the econ variable,
+so the coefficient on an econ will be zero.
+It will be zero.
+So the, let's see,
+let's do it like beta sub econ,
+the beta in front of the econ dummy variable.
+So you have a dummy variable,
+which is equal to one if you're an economist,
+and zero if you're not.
+And then we can go and put that dummy variable
+into regression and see, on average,
+do economists and the public actually agree.
+Now for this to really work,
+you need to have questions that are descriptive.
+So rational explanations is not usually seen
+as a theory about what ought to be or what's good,
+but rather a theory about what actually is the case.
+Although, of course, for many questions,
+it's a little bit, you have to think about
+what the right meaning is.
+For example, someone said,
+is penicillin good for bacterial infections?
+Is it reasonable to think of that as a normative claim?
+Right, normally we take that as a descriptive claim,
+saying penicillin cures bacterial infections.
+It's not saying, I just feel that when someone has bacteria,
+it is good to give them penicillin.
+Why? I don't know.
+It just is. It seems that way.
+Right? The whole idea is that you're saying
+it is good for a purpose,
+and certainly you can empirically investigate
+whether something is good for a purpose.
+Though, if you wanted to say,
+is it good to go and be nice to people,
+then, well, that would normally be
+a purely normative question about the goodness of niceness.
+Common view is that it is good to be nice to people.
+Right? Anyway.
+Now, as I think I told you before,
+there is a question, maybe we need to add
+some control variables here
+before we actually accept the results of the test,
+because there are many people who think
+that economists are actually wrong.
+Economists are actually mistaken,
+and maybe the public is right.
+This is sort of the subtext of 2016.
+All of these out-of-touch elites
+didn't understand what regular people knew,
+and then regular people voted for what they knew,
+and now the experts are there going like,
+what happened? I don't understand.
+A common view of the world.
+A view that almost no one wants to articulate is,
+well, maybe what's going on is that the experts are well aware
+the public doesn't know what it's doing,
+and in particular, the public is systematically biased,
+and what happened in 2016 is the effort
+to keep them from actually harming things
+was reduced, and so the harm broke loose.
+So maybe that's the real story.
+Of course, in a democracy, it's very unpopular to say,
+well, here's the real story.
+There's a 1% cognitive elite that understands the world,
+99% of the benighted masses
+who just need to shut up and take my class
+and learn what's going on.
+It's not unpopular.
+Certainly no politician wants to say something like this.
+No politician wants to say,
+well, I know my views are out of touch,
+but they're still true.
+So truth is lying.
+And if you don't know some better way of selling
+what's true to these people,
+who haven't been able to figure it out yet, I'm open,
+but what, that I should listen to them?
+What do they know?
+Anyways, of course, that could be that the populist view is right,
+but at least there is a possibility, of course,
+that a simple story of the experts are right,
+the laymen are wrong, and if the laymen really think that they're right,
+that's just even worse.
+Also possible.
+Alright.
+So anyway, there are two main stories about why it is
+that economists in particular should not be trusted.
+The two main versions are, first of all, self-serving bias,
+which says that economists are biased by their own self-interest,
+so maybe they are rich,
+or have a lot of job security,
+and they imagine that whatever is good for them is good for the economy,
+when in fact it's just good for people like economists.
+And then another story is ideological bias.
+This just says that economics is a place where radical free marketeers
+hang out and talk to each other,
+reinforce each other, scaring off anyone who disagrees.
+And so of course economists have these horrific pro-free market views,
+because if you didn't agree with them, who would want to enter the field?
+Also a possibility.
+Alright.
+So, now, as I think I mentioned before,
+when you actually go and do the test,
+when you go and put these control variables in,
+so here we want to do something like estimate,
+belief is a function of a constant plus a vector of controls,
+plus then beta times C condemnable variable.
+So when you go and put in all these control variables,
+the general result is that the coefficient on economists barely changes.
+So if you put in a whole bunch of self-interested variables,
+then the absolute value of that coefficient falls by about 18% on average.
+So there's over 80% remains after you control for income,
+job security, past income growth, future income growth,
+because you expect a future income growth,
+race, gender, age, age squared, so we put all those measures in,
+and still we see very large gaps in beliefs between economists and the public.
+Then if you try the ideological bias story,
+where we put in, say, a measure of your party,
+measure of your conservatism,
+the usual view is that economists are far-right fanatics,
+put those things in, and actually,
+the coefficient in front of income gets a little bit bigger,
+because the premise is just false.
+It is totally untrue to say the typical economist is a conservative Republican.
+It's actually a liberal to moderate Democrat.
+So, I mean, actually, Paul Krugman is not that far from the typical economist.
+Maybe Paul Krugman of the 90s, let's say, that Paul Krugman.
+He's a very typical economist.
+And then you're wondering, like, how could that possibly be?
+Like, doesn't everybody know that economists are super right-wing?
+Well, you can go over to Dan Klein and get a good answer for this.
+Dan Klein has done more work on the political views of professors
+than maybe anyone else in the world.
+And the punchline is that for economists, within academic economics,
+there are about two or three Democrats for a Republican.
+You say, well, hey, that sounds not right-wing at all.
+But that is a larger number of Republicans,
+a larger Republican sphere than any other social science or humanity now,
+and by a lot.
+So in a field like sociology or anthropology,
+it would be more like 30 or 40 Democrats for every Republican.
+So there is a reason why sociologists would think of economists as very right-wing.
+Namely, wow, you only have double or triple the normal ratio,
+the normal number of Democrats, unlike a normal field like ours,
+which has 30 or 40 times as many.
+So relatively speaking, economics is actually a right-wing field.
+But compared to the general American public,
+it is still actually heavily Democratic and left-leaning.
+Now in terms of regression, what that means is that
+since normally left-leaning people would not actually believe
+that supply and demand explains the movement of the price of gasoline,
+if even liberal Democrats believe what it does,
+if even liberal Democrats reject the liberal view on supply and demand
+in the gasoline market, this means what about the true effect of economics training?
+So people who demographically would reject a view hold it anyway.
+What does that mean about the size of Ada?
+If you have a bunch of guys who really like watching romantic comedies,
+so what does that say about how different they are from typical guys,
+typical people who are in their demographic?
+More different.
+Yeah, they're more different. There's a bigger effect.
+So you can imagine that, let's see, and what would be a good example.
+Imagine that being randomly shown My Little Pony when you're five years old,
+when you're 25, so if you do this to boys,
+and when they're 25 they really like romantic comedies.
+You say, wow, given that they're boys,
+this is even a bigger effect than you would think
+because demographically you expect them to not like romantic comedies,
+but you gave them the statement when they're five
+and they are not only more in favor of romantic comedies on average,
+they're way more in favor of them than typical guys.
+Same thing here.
+So when you see the liberal Democrat economists and pro-market views,
+that's really weird for liberal Democrats, which is what they are,
+which means that the effect of economic training is actually even larger than it appears
+because they are normally inclined to disbelieve such things.
+Now, the main cluster of errors that I talked about,
+let's see, and I didn't get to this last class, did I?
+Okay, so I just did it for public choice, so I'm having deja vu here.
+This is the opposite of deja vu, right?
+Remembering things that didn't happen.
+Okay, all right.
+So anyway, or actually, where is that deja vu? I can't remember.
+Anyway, so in my book, The Myth of the Rational Voter, I try to come up with some general clusters of error,
+which I see in the data, which also economists have been complaining about for a very long time.
+So I talk about anti-market bias,
+general tendency of non-economists to underestimate the social benefits of the market mechanism.
+Of course, this doesn't mean that economists see no harm in markets, far from it,
+but the heuristic that economists are applying is almost the opposite of a normal person.
+A normal person looks at a market and says,
+someone getting rich off of this is so bad.
+For even very liberal economists, if they want to say that markets aren't working,
+do they say people are getting rich?
+No, they say there isn't any way to get rich.
+There isn't any way to get rich by solving global warming.
+There isn't any way to get rich by reducing discrimination.
+There isn't any way to get rich by coming up with new scientific theories or doing basic research.
+So the way that economists look at market failure is almost the opposite of a normal person's.
+Economists are thinking, even if they are very left-wing,
+well, if there's a way to make money solving a problem, the problem will get solved.
+We need to focus on the problems that you can't go and solve, that you can't get rich by solving.
+So, of course, with anti-market bias, if this is indeed real,
+what are the obvious policy effects of anti-market bias?
+People think markets are much worse than they really are.
+Then, when you ask people their opinions about policy, they will say,
+don't use markets, no, markets are bad, people are trying to rip us off.
+I've done many applications.
+Two of my favorite ones, one very controversial, but still,
+I'd say the case is so strong and so overwhelming, is the free market of human kidneys.
+So almost everyone has a kidney you don't need.
+There's a whole bunch of people who really need that kidney,
+and yet there is right now a price control fixing the price of those kidneys at zero.
+So the kidneys stay in the bodies of people that do not need them
+and are not given to the people, or are not received by the people who do need them.
+This is illegal to go and sell a kidney to someone.
+When people try to defend this, the arguments are so tortured, so odd.
+It's like, well, but if there were a free market, then poor people would go and sell kidneys.
+So sick people would get healthy, poor people would get rich, it's got to be stopped.
+Why?
+Poor people would sell their kidneys for no good reason.
+You don't think that your kids are hungry is a good reason to sell kidneys?
+Not like a great reason, but a better reason is to sell a kidney.
+I don't need it, it will save a life, and my kids are hungry.
+So clear to me.
+Right now, once I actually was at a dinner with a table of all Marxist economists.
+Right there was the Marxist professor, and then there were all the Marxist graduate students.
+This is actually the new school for social research.
+It is a department that has a six-foot poster of Karl Marx in the common room.
+Not just one weird professor has the poster in his office.
+Right there by the coffee, Karl Coffee and Karl Marx.
+Right there.
+So anyway, so what's the lifetime opportunity?
+Just had to ask a bunch of questions.
+So, all right, well, what do you guys think about free market human kidneys?
+And the students are like, well, you see the argument, but I'm worried about the poor.
+And the professor said, no, no, we've got to do this.
+It will save 10,000 lives a year.
+That's the range of perspective among Marxist economists.
+Which is way more pro-market human kidneys than, say, my dad, a conservative Republican.
+Way more pro than almost any normal economist.
+This is a case where the economics training overpowers the Marxism by a lot.
+To favor a market that almost no normal person in the country favors.
+Wow.
+So the power of economic reasoning is enough to stamp out this general hostility.
+All right, now a much more mundane example, whenever I am driving in rush hour traffic,
+I'm always thinking, look, here's a problem every economist in the entire country knows how to solve.
+It is so simple, so basic.
+All right, and of course it has raised the price of being on the road during peak times.
+Right?
+It's like, well, then I get to pay for the road twice.
+You're still paying twice.
+Right now you are paying an hourly wage of, it could be 20, 30, or 40 dollars in time.
+Right?
+If you believe the happiness research that commuting is the most miserable thing people do,
+you should actually value it at more than your hourly wage.
+Thanks, man.
+And yet, of course, this is a policy
+that is very hard to get adopted.
+People are drag kicking and screaming.
+Even in Singapore, where they've used this policy
+to keep roads running smoothly at all hours a day.
+Still, there's a YouTube video of people
+denouncing the horrors of electronic road pricing
+and how angry they are.
+Yes?
+They do something similar like that on the Beltway,
+don't they?
+Isn't there a very close?
+So now there are high occupancy toll lanes.
+Although the way they did it was they
+added lanes that people didn't have before to get over
+the status quo bias.
+And you can still go and drive in the regular lanes
+if you want to, but it's just these new lanes.
+These ones, either you have to pay a toll
+or you have to have a high occupancy vehicle.
+So understand, there is going to be something
+happening on Route 66.
+Although I'm not sure whether it's the same thing where
+you're just putting tolls on new lanes
+or whether they're actually going to start charging
+for existing lanes.
+Does anyone know the details?
+But in any case, the problem, again,
+even if in the next 30 years, every road in America
+gets congestion pricing, there's still the question,
+well, it took 100 years of traffic for this to happen.
+And if you ask normal people, the answer is pretty clear.
+They just really resent it.
+This is terrible.
+I shouldn't have to pay for this.
+This ought to be free.
+Look, either you're paying in time or money.
+And the value of the time seems so much greater than the money
+is.
+It's crazy.
+But it's a normal reaction.
+All right, another example, anti-foreign bias.
+So it's one thing to convince people
+that when one American buys something
+from another American, they're probably both better off.
+Like, fine, fine.
+But what if an American buys something from a Chinese?
+This is where people's spider sense starts tingling.
+No, wait a second here.
+Wait, you're telling me there's another country called China.
+They're selling us this stuff.
+Oh my god, what are they planning on doing?
+What's in it for them?
+This is a reaction you can see from even
+for the interactive economics students
+when you start talking about it.
+It's like, excuse me, professor.
+I think I know what's wrong here.
+You realize the Chinese are selling us all this cheap stuff
+and it's destroying American industry
+and getting very, very angry.
+It's like, look, I'm just trying to take a roll here.
+Talk about this.
+We'll get to that in a bit.
+But you don't understand, professor.
+There's a place called China, which
+is a different country from the United States.
+You get this.
+I get all of that.
+Doesn't really change.
+Maybe it doesn't matter.
+How could it not matter?
+Well, let me tell you a parable.
+It's called the parable of the Iowa corn crop.
+In this parable, a parable is a story
+that is a symbol for other things.
+Or an allegory.
+This is also an allegory.
+So in this story, there's a scientist
+who says I have found a new way to turn corn into cars.
+And everyone laughs at him.
+It's scientifically, molecularly impossible.
+But the scientist goes and builds his factory over
+by the abandoned docks.
+And amazing, corn goes in.
+Cars come out.
+Everyone's like, this guy's a genius.
+He has figured out a way to transmute corn into cars.
+He's developed some kind of incredible Star Trek
+Transformer array or something.
+Until finally, a journalist sneaks from the factory
+and finds out it's just a dock.
+And all that happens is Japanese cars come in,
+or ships come in with cars.
+And American trucks with corn go in.
+And they swap the corn in the cars.
+And they move out.
+And then the journalist writes a story, corn into cars a fraud,
+a lie.
+And the guy gets arrested for violating all the international
+trade laws.
+The end.
+And the moral of the story, of course, is the scientist.
+Did the scientist have a technology
+for turning corn into cars?
+Of course he did.
+Trade is the magical technology that
+can turn anything into anything.
+The fact that a country called Japan even
+exists with people in it is completely
+irrelevant from the American point of view.
+It might as just as well have been a big vat where
+you throw in corn and cars come out,
+as far as Americans are concerned.
+It's the same thing, where it's just a technology
+for taking stuff we have and turning it into something
+that we want more.
+And yet, very hard for people to accept
+this way of looking at it.
+And of course, from a human point of view,
+trade is better than just a technology.
+Because with trade, there's a whole other country of people
+who are benefiting also.
+Whereas just for a machine, where you pour in the corn,
+turn the switch, and we burn up the corn and get a car,
+it's good for us.
+But there's no one else benefiting.
+But this is actually where the corn goes someplace else.
+And someone else gets to enjoy the stuff
+that, if it were just a machine, would have been burned up
+in the process.
+And of course, when you're thinking
+about what kinds of policies would any foreign buyers
+explain, well, all the policies designed
+to keep out foreign products fit very nicely here.
+Every time someone complains about countries selling us
+cheap products, Bastiaan had a very simple thought experiment,
+which has never really been answered.
+And he said, look, suppose that countries gave us
+everything they made for free forever.
+Would that be bad for us?
+Suppose they just worked all day, and whatever they made,
+they gave us for free.
+Be great.
+Yes, wouldn't that be great?
+All right, well, cheap stuff is somewhere
+in between expensive stuff and free stuff.
+It's not as good as free, but it's
+better than charging the normal price we're used to.
+And the closer we get to free, the better.
+Of course, sometimes there is a back story of, for step one,
+we go and we destroy their industry.
+Then we jack up the price.
+All right, kind of like the story of, well,
+Starbucks is just about ready to engage in phase two,
+where now that they've destroyed all the other coffee,
+then they're going to start charging $50 a cup.
+And what choice will we have?
+We'll either have to pay it or die.
+Fall asleep at our desks anyway.
+All right, but so phase two does not seem to happen.
+I remember, actually, back before Amazon,
+when Borders and Barnes & Noble superstores
+were sweeping the book market, there
+were people saying, you naive fools who
+think that this is just a great thing for the consumer.
+Once all those other stores are gone,
+then you'll see what Borders and Barnes & Noble do.
+Right, yeah, they go out of business.
+But of course, these people imagine
+they're more sophisticated.
+And this is phase one of a plan to destroy all the competition
+and then jack up the price to astronomical levels
+when we have no other place to buy our books,
+rather than the obvious thing of, they're selling us cheap stuff
+and it's likely to continue or get better.
+All right, so and then, of course,
+immigration restrictions, one of my pet peeves,
+explained very well by a deformed bias.
+Probably the strangest argument against immigration
+that I've heard, and people, listen,
+there's one of the arguments people tell me,
+is they're like, Brian, you know what you don't understand?
+All right, you have my attention.
+What don't I understand?
+You don't understand, look, immigrants aren't just hands
+to do a job.
+They're human beings.
+Right, first of all, I knew that.
+Second of all, that seems to be an extra argument
+in favor of immigration.
+If it were just robots that we were letting in,
+that we were impoverishing ourselves by not letting in,
+I said, well, at least the robots don't feel pain.
+Or that's my theory, anyway.
+Robin might disagree.
+Robots don't have any feelings.
+They don't feel sad to see their kids hungry.
+So I guess it's not that bad.
+But in fact, it's a human being.
+And we seem to be an extra reason to want them here.
+Well, but you understand, human beings do bad things.
+Oh, that's the thing I didn't understand.
+Well, they also do good things.
+And on average, when we just look around the world,
+seems like human beings must, on balance, be a good thing.
+Because otherwise, the world would
+be worse with people in it.
+How does civilization exist if the average person
+is worse than nothing?
+That's my question, at least.
+Seems like normally a person would be a good thing.
+And then my kinds of questions are more like, well,
+if your janitor suddenly drops dead,
+do you celebrate that the average worker quality has
+risen?
+Is that your reaction when the janitor dies?
+No.
+And could it be that even someone
+who is not the smartest person in the world
+still is better than nothing?
+Maybe even he's a wonderful thing.
+He enjoys life.
+He contributes.
+What's the problem?
+So anyway, that is my reaction.
+All right, many others disagree.
+All right, I'm writing a comic book,
+which will change all their minds.
+All right, then, your next figure,
+talking about network bias.
+General tendency to evaluate economic performance
+based upon employment rather than production.
+Very easy to make, especially during recession.
+Bodygate, if you just think about it
+in terms of basic principles that say, well,
+was it bad that the tractor was developed?
+Was it bad that all the labor saving agriculture machinery
+came along, which did indeed destroy vast numbers of jobs?
+Sure seems like it was a good thing
+that this happened because it allowed
+one person to feed a vast number of people
+so we could go and do other things.
+Now, when this technology was coming along,
+if you had just said, look, this is wonderful, and don't worry.
+All the people being put out of work
+will just do something else.
+In 1840, if you had said, well, they'll just do something else,
+this would have sounded like the most naive, obtuse thing
+a human being has ever said.
+Because, look, agriculture is what 95% of human beings
+have done for the last 10,000 years.
+And you think that we can eliminate almost all
+this employment and people will just find something else.
+But you refuse to identify or give any specifics on,
+and that's what will happen.
+And yet, of course, that naive, obtuse thing
+was sensible advice.
+And there is a simple story.
+Why was it that in 1840, it's hard to give specifics
+about what all of the non-farmers
+are going to do with their lives?
+We've never been there before.
+Like, you're going to say, well, they'll
+invent an internet of some kind.
+Say, well, there'll be an Industrial Revolution.
+It's like, well, there's some industry.
+Oh, come on.
+Well, look, everyone's going to work with trains.
+Like, everyone's going to build trains all day.
+That can't be.
+What, steamships?
+There's only so many steamships we need, sir.
+All right, now, cotton gins?
+All right.
+And then, like, pretty soon, the well is going to dry.
+And it's hard to name any other specific things people will do.
+Say, look, labor's valuable.
+There's always unmet wants.
+We'll figure out something or other to do.
+Very dissatisfying, yet true.
+So a bit hard to convince people of.
+And there's always the this time it's different.
+So yes, this time, automation will, in fact,
+disemploy the workforce.
+If we're able to get rid of agriculture
+as a source of employment for virtually all purposes,
+but we can't get rid of the other stuff we've got
+and find something else to do, very hard to understand why.
+Like, if we get rid of the thing that almost everyone's done
+for almost all of history, why can't we
+get rid of the stuff that we're doing now
+and still find something else to do?
+Hard to understand what that would be.
+All right, and by the way, so if you
+know your history of the 1930s, it
+was extremely common in the 30s to say
+that this is technological unemployment.
+It was possibly the most popular view, actually.
+So Keynesianism made perfect sense by comparison.
+At least they were saying, look, there's
+no reason why we couldn't put everybody back to work.
+There's still plenty of stuff.
+There's plenty of unmet wants.
+And yet, plenty of people in the 30s were just saying, look,
+well, this is the end of the line here.
+There's nothing left to do.
+Let's think about how, if you went back in time,
+how ridiculous that would seem.
+There's nothing left to do.
+I could just think of tons of stuff.
+But we have the advantage of hindsight.
+We know what has been done since then.
+But you go and name stuff that is going to happen
+in the future, very not.
+And again, of course, make work bias
+is an obvious explanation for the many efforts
+to go and save jobs by law, efforts
+to prevent people from ever being fired or laid off,
+of course, efforts to go and try to make sure
+that we sell our countries as much as we possibly
+can for as few imports as we can possibly get.
+That way, we are able to conserve our jobs.
+So any time people think about trying to stamp out Uber
+because it's hurting taxi employment, well,
+that one's weird.
+It sure seems like there's just more people employed
+in driving as a result of that.
+Anyone actually know the numbers?
+It seems like there's so, like, demand elasticity for driving
+services is so high, it actually seems
+like there's a lot more people working as drivers now
+than there were 10 years ago.
+I could be wrong.
+That's my impression.
+And then the last big cluster of area
+there that I talk about, pessimistic bias.
+Compared to economists, non-economists
+tend to see an economy in decline, bad now,
+and going to get even worse in the future.
+This is the relative difference in views.
+This is also the one that seems more modern.
+There are some incident among 18th and 19th century economists
+complaining about the pessimism of the public.
+But there's actually also plenty of economists
+in those centuries talking about the ridiculous optimism
+of their opponents, especially making fun
+of the optimism of socialists.
+So like the iron law of wages, the view
+that wages are going to be suckers of subsistence
+for regular workers forever.
+Samathas and Ricardo.
+And they've got a story saying, well,
+once wages get above subsistence,
+the workers will just breed like rabbits
+and that will bring wages back down.
+Whereas it was actually some very,
+well, what's the right way?
+Socialists who sound like they're on drugs
+when you read them, who actually are
+accurate in predicting an amazing future
+of fantastic prosperity for the common man.
+They're wrong in how it would occur.
+But if you read someone like Fourier predicting
+oceans full of lemonade, that's more accurate
+than Malthus, just a planet perpetually
+at the level of starvation.
+We don't have, the ocean is not literally full of lemonades,
+but there are unlimited amounts of lemonade available
+dirt cheap.
+So for practical purposes, we do have oceans of lemonade.
+So Fourier was more right than Malthus on stuff like this.
+But once we get into the second half of the 20th century,
+then it does seem like economists
+are a voice for and hot for optimism
+compared to the general public, which
+is very inclined to think, we've run out of new ideas,
+or we're going to have permanent 30% unemployment.
+Or the environment is going to be destroyed,
+and we're going to run out of natural resources,
+we're going to starve.
+So probably more, let's see, maybe
+that a lot of this is connected to the environmentalist
+movements, but there's other stuff going on too.
+Now in terms of what kinds of bad policies
+you get as a result of this bias, if it is indeed,
+as I say, bias.
+So it's not as clear as for the other three.
+Someone just says, oh my god, everything's terrible
+and it's going to get worse.
+And therefore, what should we do?
+You might just say, we're doomed.
+No point.
+So it's not that clear logically why just being a pessimist
+would incline you to favor any bringing new policies.
+What I will say is based upon what
+I call correlational bumper sticker analysis.
+I'm just looking, what kinds of, like if you
+look at cars with pessimistic bumper stickers,
+what kinds of other bumper stickers do they usually have?
+And it does seem like in almost all countries
+that I've been in that there's a left wing pattern.
+So people who just say that the economy and prosperity
+and the future and the planet are doomed also
+tend to have left wing bumper stickers on them.
+Not entirely, but it seems like that is the pattern.
+When I was in Sweden, I asked them,
+so here when someone says everything
+is terrible here in Sweden, is that
+taken as a thinly veiled criticism
+of Swedish social democracy or as a thinly veiled criticism
+of free market capitalism?
+And the Swedish answer was it's a criticism
+of free market capitalism.
+So even in Sweden, when they have
+a whole ideology of the third way, the people's home,
+still anyone who complains, people
+think you're pointing a finger at free markets.
+So is there any place where being just a big complainer
+is, does seem to be a call for smaller governments?
+So I will say the Soviet Union in the 1980s.
+So there when people said this is living hell,
+this is a terrible country, that's
+the kind of thing that gets you thrown into Siberia.
+You don't want to be in the workers' paradise
+saying everything is terrible.
+And when people in the 1980s started saying this,
+it was taken as a thinly veiled call for free market reforms
+and just to say that socialism is a terrible rock system.
+But it's striking how socialist you have to be before being
+a miserable complainer is a call for free markets.
+Does seem like you actually need to be a communism or something
+close to that.
+So I think a lot more needs to be done on this.
+This is just my impression.
+But it could be wrong or there could be more to it.
+Yes?
+The result of higher time preference policies maybe?
+Is everything going to be terrible in the future
+if it's not worth saving for?
+Maybe, although remember there's an income and a substitution
+effect.
+So you might say if everything's going
+to be terrible in the future, we better start saving now
+so we're ready for doomsday.
+What does survivalists do?
+Survivalists are people who think
+the future is going to be terrible and so they go
+and they prepare.
+I'd be curious, are there people who
+were going to be survivalists and then they said,
+no, things are so terrible, there's no point.
+Might as well live it up.
+So when there's a really horrible war about to happen,
+then it does seem like you see this high time preference
+behavior.
+But then again, maybe that's what you see.
+There's also probably a bunch of other people
+that aren't in public going and buying a pint of champagne
+who are trying to go and hide some food for a tough time.
+So maybe there's just a visibility effect.
+Yeah, Nathan?
+So I want to comment on the question.
+So comment, it seems like in terms
+of right wing examples of pessimistic bias,
+make America great again implies that it's gotten worse.
+But that's also an anti-market form of right wing ideology.
+Right, right, yes.
+I mean, it's primarily anti-foreign rather than
+anti-market.
+It's not saying I hate American business.
+I'm saying American business would
+win if it weren't for these cheating foreigners who
+are ripping us off and gaming the system
+and manipulating their currencies and paying slave
+wages and putting lead in their products.
+So I guess you might say in recent years
+that there has been, to some degree, mainstreaming
+of racial pessimism and demographic pessimism,
+thinking that there's going to be
+some kind of top-terrible racial collapse or something
+like that.
+So I say that's still pretty fringe.
+It's a very loud, small number of very loud people.
+But it's not clear they really speak for any other people.
+Yes?
+So one of the recent, to refer to the make work bias,
+and one of the recent news things that came out
+was Bill Gates and the robot tax.
+Yeah, yeah, yeah, yes, yes.
+And I'm just, what do you think is the political economy
+of that?
+Do you think that, because how is someone
+as smart as Bill Gates going to put something
+as stupid as that forward?
+Yeah.
+But is there like a Boone-Lakers-Batkins?
+Albert Einstein was a socialist.
+What's that?
+Albert Einstein was a socialist.
+That was just the one thing.
+There's a whirlwind of intelligence
+and other things that I've seen.
+Yeah.
+So what I'd say is, so smarter people generally
+do have less bad views, as we're going to see in a minute.
+But still, they can be very bad.
+I'm just curious if there could be.
+a bootleggers and Baptists thing, maybe he's trying to put
+the excellence.
+Bill Gates is giving away,
+like incredibly giving away almost all his money.
+So to say this is part of some plot to like double the,
+step one, I'm going to make a massive huge fortune,
+step two, give almost all of it away,
+but then,
+I've got a new plan to go and get even more money
+than I started with.
+It could be.
+I guess.
+I mean in a way, my story there is I think the people
+who work in tech just have, a lot of their views
+come from science fiction.
+So there's like Kurt Vonnegut's novel,
+Play the Piano and they get a feeling of not only
+being smarter than other people,
+but also of having greater foresight
+by reading science fiction and then saying,
+which of these science fiction books
+will make the future?
+Will we be in a Star Trek world or a Star Wars world
+or which one, Terminator world?
+Maybe none of them.
+Maybe none of them.
+Sorry, what was that?
+A long time ago.
+Yes.
+Not a long time ago.
+Well, but to you, it's not a literal historical story,
+it's a depiction of the future.
+We're not there yet.
+As we battle Star Galactica, not to give things away,
+but also, it turns out it took place before
+the civilization.
+Why don't we have any relics of their time?
+Interesting question.
+It's resolved in the last terrible episode.
+All right.
+So, now other findings.
+The public is heterogeneous.
+So, neither income nor conservative ideology
+make people think like economists.
+Interesting, because these are the two main explanations
+that people actually like to give
+for what makes economists be so weird.
+So, you guys are rich and right-wing,
+and yet actually, economists and rich right-wingers
+do not tend to agree with each other on average.
+Sometimes they agree, sometimes they disagree.
+So, unbalanced, there's really no effect.
+The things that in the say, do predict
+to be a thinking more like an economist,
+or again, maybe a better way of putting it is,
+disagreeing less, because the disagreement is so vast,
+you can move a long part of the distance
+and still be very far away.
+You can move a full light year closer to Alpha Centauri,
+and you're still light years away from Alpha Centauri.
+All right, so, education.
+More educated people think more like economists.
+This is the main one where economists say,
+that's ridiculous, how could that possibly be?
+Those people in the sociology department
+are a bunch of socialists.
+This is where it's, you know,
+not we were more numerous than this.
+All right, well, first of all,
+before you go and say that the sociologists are socialists,
+step one is you might wanna go and find out
+what people with PhDs who don't have,
+or people who don't have PhDs think.
+Maybe they're even less,
+maybe they're even more anti-market than the sociologists,
+but in any case, are sociologists
+randomly selected high education people?
+Of course not.
+They are generally very left-wing people
+who decided they wanna stay at a university forever.
+And the same goes for PhDs in general.
+Right, do most PhDs teach in universities?
+Of course not.
+Right, there'd be no way to balance the books,
+it would just be a massively exponentially growing
+number of professors, if that were so.
+It is exponential, but at like 1% per year or something,
+not at like 100% per year,
+which is what we'd really need, right?
+So imagine if every single PhD for this department
+became a professor, and then you went,
+and all your students became professors,
+and all their students became professors,
+that would be a whole lot of professors, right?
+So anyway, so non-economist professors
+are not representative highly educated people.
+And in any case, when you're doing the comparison,
+you need to think about what a high school dropout
+should think about economics.
+The answer is they are extremely hostile to markets,
+extremely hostile to foreigners,
+very prone to make work bias, very pessimistic.
+Right, so all the things that elites
+are supposed to be out of touch with,
+it's also a theory, well maybe these are just
+amplified versions of the errors that even elites share.
+Right, and the problem is that even the so-called elites
+are actually scarcely better than the masses
+that they don't really represent.
+All right, then another one, being male.
+So here I'm only a messenger, it's not my fault.
+But in the data, men think quite a bit more
+like economists than women do.
+All right, I have an unpublished paper on this topic
+where I tried to use, well so there's another paper
+I'm responding to, but anyway, the main thing
+I'm building on is personality psychology.
+So in personality psychology, there is one big
+personality difference between men and women.
+Which again, I also have nothing to do with.
+Since it was there before I was born.
+But, so in the Myers-Briggs test,
+there is one dimension called thinking versus feeling.
+And on this dimension, there is a very large gender gap.
+With men being more thinking, women being more feeling.
+And again, if you just think about the way
+that economists frame their arguments,
+and the kinds of arguments they are,
+are they arguments that go and appeal
+to people's emotions usually?
+An economist criticized the minimum wage.
+Is this about, well the minimum wage
+makes me feel really bad, and it just doesn't feel good.
+Right, that's not normally the way economists
+argue against the minimum wage.
+Instead, they say, well, yes it all sounds
+very good and compassionate, but there's likely
+to be a disemployment effect.
+Here's how we would go and think
+about the disemployment effect.
+Right, there's even a book by Alan Blinder
+called Hardhead Soft Hearts, which is about
+how economists should go and take
+their hardheaded conclusions, combine them
+with human compassion to generate wise policy.
+Right now, but why go and bother calling your book this?
+Because.
+You want to sell books?
+Yes, well you want to sell books, but intellectually,
+like why is that an interesting title,
+compared to say Hardheads, Hard Hearts,
+or Softheads, Soft Hearts?
+People expect those?
+Yes, people expect the two things of the logical
+but cold person, and the emotional but illogical person.
+The caring but much-headed person.
+These are the two stereotypes, and what personality tests
+tell us is those stereotypes have a lot of truth.
+So you have people who are just the facts.
+You also don't probably, you probably don't
+want them watching your kids.
+Because they don't care.
+They're like, all right, I understand how to go
+and change a diaper, but why should I?
+What's in it for me?
+Right, whereas someone who is more caring,
+they say, oh, poor little guy, he's got a problem,
+how can I help him?
+Right, so that might be where you would want
+to have the really caring person.
+On the other hand, if you're trying to go and launch
+a rocket, probably you would want to have the person
+who is just the facts person, and who doesn't really care
+how the rocket feels, or anything else like that.
+So, then, there's two others which are kind of weird.
+So, even though the income level does not matter,
+job security and income growth do.
+So, the result is that being rich and just having
+a great life does not actually make you think
+more like an economist, but having a positive trajectory
+does, so sort of the way I like to think about this
+is, if you're a Kennedy, someone who's rich
+but getting poorer, you think less like an economist,
+whereas if you're like an immigrant taxi driver,
+you're poor but getting richer, you're now a Uber driver,
+then you think more like an economist.
+All right, and then I actually have a follow-up paper
+with Steve Miller where we got another data set
+where we had a measure of intelligence,
+and here the result was intelligence is the single
+best predictor of thinking like an economist.
+So, what's wrong with Bill Gates?
+The best predictor still isn't that good.
+So, even though, on average, really smart people
+do tend to think more like economists,
+and this is more predictive than any other trait,
+still you can max that out, and you're still
+probably gonna be very different from an economist.
+So, you say, there is one thing that's more predictive
+than intelligence, and that's actually being an economist.
+So, that does predict thinking more like an economist.
+Got it, absolutely.
+Right, and again, you're saying,
+so being smarter makes people think more like economists,
+what does this mean?
+Well, there's the obvious story of being smarter
+leads to being a writer.
+Right, it's a usual theory about almost everything else.
+Like, you know, someone does really well on a math test,
+that's probably smart, writes a really good essay, smart.
+You know, goes in the chemistry, like whatever.
+So, like, success in anything that seems cognitive,
+we generally attribute it to an underlying intelligence,
+not always correctly, but that's a good place to start.
+So, why wouldn't you do the same thing for economics?
+It's like, well, it makes sense, smart people
+see and understand things better, right?
+Especially when it's a complex issue, right?
+You know, like the minimum wage.
+How is it really that complex?
+Well, I like to think so, because I managed to live
+17 years without thinking coming up with a single
+counter-argument on my own, and if someone hadn't helped me,
+I'd probably still be just as lost as I was then.
+I mean, maybe if someone had said, actually told me,
+think up the best counter-argument
+to the minimum wage you can.
+Maybe I could have done it, maybe not.
+So, one thing I've been pushing for several years,
+something that I call the ideological Turing test,
+is the ability to accurately mimic
+the arguments of someone that disagrees with you.
+All right, so, let's see.
+Oh yeah, so, yes, actually, a philosopher, Jason Brennan,
+went and gave the ideological Turing test
+to his mother-in-law for the minimum wage,
+and said, well, why do you think that people
+who don't believe in the minimum wage
+oppose the minimum wage?
+And, you know, smart women, well-educated,
+but all she came up with,
+because they just love business so much?
+And that's all she came up with.
+And here, it seems like she had an incentive
+to come up with the best answer,
+so that she could go and not seem stupid
+in front of her son-in-law, who, according to,
+apparently, he does frequently insult her.
+No, I'm just kidding.
+No, I'm just kidding.
+No, I'm just kidding.
+Very, maybe subtly, maybe not so subtly.
+I mean, this is all his version.
+I don't know what's really going on,
+but it's like, wow, you gotta win a lot, man.
+All right, anyway.
+So, real-world implications of all these biases.
+All right, so, you'll call me biased,
+but I see very direct connections
+between these bias beliefs,
+systematically biased beliefs about economics,
+and so many bad policies that we see around the world.
+Right, if you go and read Alex Tabarrok
+blogging about his semester in India,
+and the most ludicrous regulations
+in this country that he's discovering,
+like, my God, you've got a regulation saying
+that in India, you've got a billion people,
+massive homelessness problem,
+and still, you're not allowed to go
+and have an average building height
+divided by land area greater than two.
+So, you've got 10,000 square feet of land.
+You can build a two-story building on that land,
+covering the whole thing,
+or you could use half the land and make it four stories,
+or a quarter of the land and make it eight stories.
+This is a country where there's massive homelessness,
+and yet, there is a law designed to keep people
+from building housing for people.
+All right, and I say, can you just bribe away at it?
+Not these laws, actually.
+Man, they need more corruption.
+You really need to figure out a way of doing it.
+Sorry, do you know more than I do about this?
+Or?
+Oh, actually, I would like to say,
+Moumita, you look like you had some extra information.
+Yes.
+Oh, yeah, then Ash?
+Yeah, so I was just gonna say
+that I've seen at least two urban planners,
+one of which was the chief urban planner of San Francisco,
+give a weird version of Say's Law
+that supply creates its own demand,
+that the more housing you build,
+that attracts more people,
+and then you're just gonna get
+either the same or higher rents.
+Right, right, yes, but how does it attract the people?
+I mean, you could have a really good version
+where when you get higher population density,
+it becomes a much more interesting place to live,
+and so within a range.
+So, you know, like, what would they,
+imagine living in Manhattan
+if there were only 10 people in Manhattan.
+You'd wanna leave.
+Like, I don't wanna live in this place.
+There's nothing to do here anymore.
+It's just like, what was the movie,
+the Will Smith movie?
+I Am Legend.
+I Am Legend, yes.
+I don't wanna live there anymore.
+Yeah.
+All right, so anyway, I have a story,
+which, if you believe it,
+is very, should be very motivating for you
+as a policy economist,
+and that is that the policies that we think are foolish
+are the explanation for,
+can be explained by the beliefs we think are foolish.
+So the errors that we try to fix in our students
+are the reason why the world is so messed up,
+and if we could just fix not only our students,
+but everybody, then these problems
+would be pretty easily solved.
+All right, so that's where I'll stop there.
+Now we move into, yes.
+Question about RE.
+Sorry, I didn't hear you.
+Does RE apply to annual belief?
+It could be on any belief,
+where you can go and define what the true belief would be,
+or what the sum of rocks is.
+Thank you.
+You could go and ask rational explanations.
+So does it allow for rational ignorance?
+Oh, sure, sure, we can.
+Rational ignorance would just,
+look at the two bell curves there.
+So rational explanations, rational ignorance
+would just be a really big variance,
+and that's actually the normal way
+that economists form a model of rational ignorance,
+is just to put a really big variance on it.
+But then actually you don't get the kinds of policies
+that we intuitively attribute to rational ignorance.
+So here's the thing, is that,
+intuitively, when you first hear about rational ignorance,
+it's like, okay, that's why people have
+these ridiculous views about trade.
+But really, just ignorance, people should just be agnostic.
+It's like, no opinion, right?
+And it seems like a lot of the problem
+with international trade is that people who know nothing
+still have very strong opinions.
+That productionism is awesome.
+Right, and actually, so like,
+with a lot of the beliefs in the state,
+what's very striking to me is that
+there are a bunch of beliefs where people
+who have never studied economics
+almost always think the same thing that seems wrong.
+And the more you study, the less likely you are to believe it.
+So, like, out of people who have never opened
+an economics textbook, I think it's fair to say
+90% are productionists.
+Right, and on the other hand,
+out of people who can correctly explain comparative advantage,
+which does not by itself imply agreement, right?
+Ideological Turing test, someone could go
+and perfectly explain it and then say it's all nonsense.
+But, out of people who can correctly explain
+comparative advantage, I think it's very fair to say
+90% of those people are free traders.
+Right, so what about a Pichetti economist like Peter Navarro?
+At least in his popular writings,
+he does not appear to understand comparative advantage.
+So, as to how he'd get that far,
+I bet that he knew it once and then
+just got so into hating China that he just forgot.
+I mean, we're just getting old, so maybe that could happen.
+I've forgotten a lot of stuff I used to know,
+so maybe he could forget that.
+If you always thought it was irrelevant, I don't know.
+All right, so moving on, so labor economics.
+All right, so starting, so human capital theory.
+So, I assume all of you guys remember
+calculating Presley's scan of values.
+PDVs, everyone remember Presley's scan of values?
+We try to figure out how much NASA will sell for today,
+if it's an income stream that pays in the future sometime.
+Right?
+That also called Necker's of value?
+Yes, I'm not getting the usual books of recognition.
+All right, so I offer you a dollar a year from now,
+will you pay a dollar for that?
+Of course not, right, because of
+the opportunity cost of interest.
+All right, so and remember,
+the lower interest rates, the future benefits count more.
+Right, so if you got 100% interest rate,
+then stuff happening a few years in the future
+counts for pretty much nothing.
+All right, now, PDVs are mostly used for businesses,
+but the idea is totally general,
+you can do the PDV of adding insulation to your house,
+for example, and of course,
+you can do the PDV of attending school,
+which I assume everyone did here
+before they bothered applying to grad school,
+is you put down your spreadsheet,
+looked at interest rate forecasts,
+and came up with comparative income stream analysis,
+and you get all this stuff.
+All right, so anyway, this idea that you can apply the PDV
+to educational decisions and to labor decisions in general
+is the heart of human capital theory.
+You can think about your labor market decisions
+like any other investment.
+So you get enough to go to school,
+then the obvious thing is to add up the PDV
+of your foregone earnings during school,
+and the extra income you expect to get after schooling,
+and then, of course, since when you're going to school,
+when do you lose the money?
+When do you lose money when you go to school?
+When you pay the tuition.
+When you're in school, you lose the money, the tuition,
+but also the foregone earnings.
+Oh, that too.
+Very important, right?
+And on the other hand, when do you generally get the money?
+After graduation.
+Yeah, after graduation.
+So in that case, by this reasoning,
+when interest rates are higher,
+it makes less sense to go to school
+because the costs are up front
+and the benefits happen later on.
+On the other hand, if people's working lives increase,
+does that mean that it makes more or less sense
+to go to school?
+More sense because you get to cash in on the benefits
+for a larger number of years, of course.
+All right.
+Okay.
+Now, there's lots of things you can do for a career,
+and how do you decide if they're good investments?
+So like co-writing a paper with a faculty member.
+Good investment?
+Yeah, fantastic investment.
+Well, of course, depending upon what your career goal is,
+whenever people ask me for career advice,
+I always start by saying,
+all right, so what is your career goal?
+What is it you even wanna do?
+Yeah, normally, they don't say,
+I was hoping you would tell me that.
+It would be reasonable,
+but normally people have an idea of where they wanna go
+and then say, well, I wanna go
+and work for the federal government or something,
+well, then you probably don't need any papers.
+Anyway, but if you want to be a professor,
+then co-writing a paper with a faculty member
+is a great way to do it.
+And if you look at George Mason students
+who get tenure track jobs as professors,
+I would say at least 75% have at least one published paper.
+Right, so, and on the other side,
+and since it is unusual for graduate students
+to have a published paper,
+this means that by getting one published paper,
+you are quickly, you are by that step alone
+putting yourself into a much better pool.
+Although, of course, there's no guarantees.
+Yes, all right.
+Now, something much more mundane
+about putting your CV on fancy paper when you mail it out.
+You go and you buy the fancy 25% cotton paper.
+Right, so that also seems like it's,
+you know, normally it's unlikely to go
+and get you a better job.
+No, but suppose that you get one extra interview
+because of that paper.
+That's a fantastic deal.
+Be worth it if you got 0.1 extra interviews,
+a one in 10 chance of extra interview
+because you've got 20 bucks.
+Because, you know, so if you get 10 interviews,
+10 versus 11, each one of those interviews
+is another throw of the dice.
+And throwing the dice,
+any one of those could be your big break.
+Right, so you wanna throw a lot.
+Are you getting a computer projector?
+This one may seem funny to you now
+because computer projectors are the standard,
+but back in around 1999,
+there was a recent University of Chicago PhD
+who showed up with his own projector.
+He spent 4,000 bucks on this thing.
+That was probably like several months income
+for him at the time.
+And this wowed many members of the audience.
+He's got a projector.
+Wow, that's slick.
+Wow, he had like little agent-based models,
+little animations.
+Wow, so he got the job, right?
+Possibly based on that projector.
+In the end, so he switched to accounting really soon,
+so it was unclear that it was a good investment in the end.
+But yeah, all right, so this is background.
+Now, I'll return to education.
+So this is a topic that I spent 18 months
+just doing spreadsheets on.
+So if I, you know, so now I really do know,
+I'll get a ridiculous amount
+about present discounted values, right?
+And, so.
+In some sense, I feel like I have a greater breadth of knowledge than any other economist on this,
+because normally when you're trying to publish a paper, you go and do one tweak and then you recalculate the present discounted value.
+Whereas I tried to take all the tweaks and put them together at the same time.
+Because I was trying to give people useful advice.
+If you want to give useful advice, you take all the complications that matter and put it all together and then give the people an answer.
+Whereas if you just want to publish a paper, what's the point of that?
+If you just want to publish a paper, you just do one very technically sophisticated tweak,
+and then you write another paper and just start from scratch and do a different tweak.
+So anyway, I tried to go and take all the research and make it relevant for both personal educational decisions as well as for public policy.
+Which almost no economist does.
+Sometimes people think tanks will go and do present discounted value of the sort,
+but normally they do a really crummy job where they'll do like three complications and then they're done.
+Why would you do a policy analysis with three complications and then declare victory when there's a thousand research papers on the topic?
+Well, what happens to a policy analysis with a thousand complications in it?
+No one wants to read that thing.
+And then, you know, part A, three, sub-circuit through alpha, delta, alright?
+That's pretty boring to most people. So people would rather get simple advice,
+which is actually not really taking into account a bunch of important factors.
+So I do try to go and narrow down the factors that really change the result a lot versus the ones that don't change very much.
+But I will say that my judgment is all the main think tank pieces published on the private and social returns to education ignore multiple huge problems.
+And the biggest one of all is just completion probability.
+Almost all policy analysis just figure out how much education pays by looking at the people who graduated.
+Which is a lot like figuring out whether loans are good by looking at loans that are repaid.
+No. If you're figuring out whether a loan is profitable, you must consider the loans that don't get repaid.
+In fact, that is probably the single most important predictor of profitability of lending money is figuring,
+is the share of bad loans.
+So remember, if you've got loans of 5% interest, but 5% of the loans are not repaid at all,
+then approximately you're making nothing on those loans on average.
+And then, say, well, is non-completion of school really a big deal?
+Let's see, well, for high school it's about 80% completion rate.
+That's not bad, is it?
+Well, if loans had an 80% repayment rate, you'd consider that pretty bad, right?
+That would be sub-junk. It would be terrible.
+And then for college, the completion rate is way lower than that.
+So the four-year completion rate for full-time students, like doing bachelor's degrees, is about 35%.
+So five-year completion rate for a four-year program goes up to 55%.
+But think about this, well, suppose that in reality you spend five years doing a four-year program,
+what does that, to a rough approximation, do to your rate of return?
+If you actually have to pay five years of investment to get a four-year pay-off?
+It decreases it.
+Yes. How much does it decrease it by?
+An additional year.
+Yeah, so you're dividing by five instead of four when you're looking at the costs.
+So yeah, so dividing by five rather than four, what does that do?
+Well, let's see.
+Well, I believe that reduces the rate of return by 20%, not 20 percentage points, but 20%.
+All right.
+So anyway, enormous literature.
+The underlying motivation of this literature.
+Many economists think that there are big credit market imperfections in the educational loan markets.
+So that's what's driving all of these estimates.
+So no economist bothers going and calculating the present-day standard value of investments in the steel industry.
+That's for the people in steel to do.
+And the background assumption is economists saying, look, if there were profitable investments for a steel mill,
+and the steel mill didn't have the cash to do it, what would the steel mill obviously do?
+Borrow.
+Go and borrow.
+And they would easily be able to get a loan because they've got what is collateral?
+The mill.
+All right.
+So there's no problem there.
+So for most businesses, economists are very cavalierly just saying the free market will take care of us.
+Right.
+But for education, economists have a sense of, no, no, no, no, it doesn't work that way in education.
+Because in education, if someone could very well have a great educational opportunity,
+but they don't have the money for it, and it would be very hard for them to get a loan in order to do it,
+because what collateral does a student got?
+Nothing.
+You can't do a debt-reserve-to-contracts.
+So you can go and take a big educational loan and then go and blow it all and then say,
+dude, I just don't have the money.
+And then lenders are not going to be very interested in lending you the money.
+Okay.
+All right.
+So now, of course, this is only a suspicion.
+So normally what education economists are doing is going and calculating the return to education.
+In other words, seeing what interest rate you would need to make the present discounted value of going
+and not going equal.
+Why is that?
+Well, so suppose that you've got an asset, let's see, you can either go and buy an asset at its present value,
+and so let's see, let's put the right word in.
+So suppose that you've got perfect capital markets, and you have an opportunity to buy an asset at its present value.
+Is that a good deal?
+Well, if you've got perfect capital markets, then if you go and you pay the present value,
+and then you go and get the amount that you paid times the interest rate a year later,
+and what's the net effect?
+Zero.
+So if, say, there's a 5% interest rate, and there's 5% interest, and then you go and you buy an asset,
+and there's a bond for $1,000.
+So with 5% interest, a bond today will sell for approximately what?
+$950, right?
+So it's approximately $950.
+So $950.
+And if you just took the $950 and put it in the bank at 5%, what would you have at the end of the year?
+$1,000.
+So here we go, and we say, well, we go and we pay $950, and then what do we get in exchange?
+We get $1,000 divided by 1.05, and that's basically equal to zero.
+There's a little rounding error there, so you have to do the math a little bit more precisely to get over it.
+All right, that's the idea.
+Okay, now how do you calculate return to education?
+Well, there are some big simplifications which are commonly used.
+There's nothing wrong with simplifications as long as you remember what you're doing
+and then correct for them before you give anyone some advice that actually would be a total disaster, unfortunately.
+It's very common for education economists, when they talk to journalists, to forget conveniently what the key qualifications are
+and then give a number that actually is not one that you should act upon.
+In any case, the standard simplifications are as follows.
+So first of all, we go and we assume that the only cost of education is foregone earnings.
+So it's very common that economists assume that the only thing you give up in school is full-time earnings
+that you would have had if you were working.
+So in other words, it is common to just ignore tuition, set it at zero.
+Okay, all right.
+Now then, if we ignore the fact that people eventually die, ignore the fact that people eventually die,
+actually this one is, in present value terms, is actually a pretty small simplification
+because if you think about what is the present value of all your income from 40 years in the future to infinity,
+it's actually a pretty small number because you've got 40 years worth of interest.
+Divide by the interest rate raised to the 40th power, then divide the next thing by the interest rate raised to the 41st power,
+and so on, that's a pretty small amount.
+In any case, if we go and ignore finite lifespan, then we can simply go and do a regression of log earnings on a constant
+and years of education, and then we can get our return of education.
+So we can do the log of earnings, which will equal a constant, plus beta times years of education,
+so that's education in years.
+And if we assume, counterfactually, that the only cost of education is foregone earnings,
+then this beta will be your return to education.
+Why? Well, suppose that beta is.1.
+This says that if we get a year of education, that will raise our earnings by what percent?
+Ten percent.
+And what does this mean? It means that you give up one year of earnings,
+and then for the rest of your life, you make ten percent more every year.
+That sounds a lot like a famous British financial instrument, the console.
+So remember the idea of a console is that it pays a dollar a year forever.
+So if you go and you pay ten dollars for your console, then you never get the money back.
+So ten dollars gone, and then you just get a dollar a year forever.
+That is an interest rate of approximately what?
+Ten percent.
+Yes, ten percent. Right.
+So that is an interest rate of ten percent.
+So basically you pay ten dollars, and every year you get ten percent of that.
+Similarly, this is saying you give up one year's worth of education,
+and then every year after that you are making ten percent extra.
+So just like a console.
+And of course, the Aveda were.05.
+This would be saying that every year of education raises your earnings by five percent.
+So you have no income for one year, and then after that you earn what you would have earned before,
+with a bonus of five percent on top, forever.
+Now, if you go and use the NLSY, the National Longitudinal Study of Youth,
+in some ways the most amazing data set on labor economics ever,
+divided whether the General Social Survey or the NLSY is the most amazing.
+The General Social Survey is more amazing for the diversity of the questions.
+The NLSY, for the determination of the researchers to hunt down the participants for the rest of their life,
+as well as their children, and their children's children.
+It is a multi-generational survey. If you were in it, they try to put your kids in it, and they can be in it too.
+So if you go and do this regression using the NLSY, you get a value of beta equal to something like.126.
+Now this is controlled for nothing at all.
+This is just for a really simple regression.
+That's what you get.
+Now this number is surely too high.
+I'm scrapping up my book, so I think I'm going to revise these notes.
+I always knew that there were a bunch of problems with these numbers.
+Now there are problems worse than I had ever thought.
+So by the end, I'm like, oh my god, there's so much mess just to clean up, just to get started.
+But anyway, so some of the problems.
+One of them is, in the real world, do you live forever?
+I can never remember.
+Of course not.
+Man, I wanted to live forever.
+So you don't live forever, and you work for even less time than forever.
+So it's the role of retire.
+So anyway, you don't reap the benefits of increased education forever.
+Now this is actually a very slight effect, because those lost years are far in the future.
+So if someone offers to pay you $1.40 a year from now, it's really not worth very much.
+And of course, if we have these high interest rates, then those years are worth almost nothing.
+So doing that, there's only an imperceptible drop in rate of return.
+It brings you down to like 12.56 from 12.6, so it's microscopic.
+All right, but then we start getting into the really big problems.
+Here's one.
+There is tuition.
+Tuition does exist.
+Now you might think, yeah, well, that's obvious, especially given that economists are kind of doing this stuff to argue for tuition subsidies.
+So there's something very strange about assuming that tuition doesn't exist, coming up with a really high number,
+and then using it to justify a tuition subsidy.
+But people do it.
+So very strange.
+So we need a cost-free service to educate people.
+And if you count these costs, then it does drastically reduce the rate of return.
+So like if you've got an annual tuition of $15,000, then that drops the return by about 50%,
+so from like 12.6 to about 6.5.
+So that makes an enormous dent in the result.
+All right, then another problem.
+So there's also return to experience.
+So your option is not actually go to school and get an increase in your earnings or work and get no increase in your earnings.
+Instead, there's a whole literature saying that working amazingly raises your earnings, too.
+So you want to go and actually make an adjustment for the lost experience that you are giving up when you're in school.
+So there's that, too.
+Another problem is that that 12.6% that we're looking at is, like all ordinary least squares regressions, an estimate of an average effect.
+But should you go and base your life decisions upon averages?
+No.
+No?
+You should base them on marginal things.
+Marginal.
+Right?
+And there is a standard argument about why we should expect that marginal people will benefit less than average people.
+Like imagine that you are the marginal person who's thinking about going to the next Star Wars movie.
+Are you likely to enjoy that movie as much as the people who know for sure they have to be there on opening day?
+No.
+No.
+Right?
+The people are like, eh, it's all right, I guess.
+Is there anything else that I can be doing that day?
+Those people are very likely to get less value for the product.
+Similarly, like the marginal person at a restaurant, the marginal person who goes on a trip, the marginal person who wants to show.
+All these people are normally getting less value than the average person.
+So it makes sense also to think that the marginal person that is going to school is going to be getting less value.
+Now this is particularly clear because, let's see, so, actually I'm going to get to the next one.
+So anyway, so that's one.
+So you can think about this.
+So the person who is just on the edge of going to college, what kinds of majors do they generally not pursue if they happen to go?
+Engineering, computer science.
+So people who do those degrees generally knew they were going to college.
+Whereas if you're like, eh, I don't know if college is for me, well be a computer scientist or electrical engineer.
+I don't think so.
+All right, so those are fields where you need to have really good math scores and people with really good math scores almost always go to college.
+Instead it's likely to be a weaker student who's going to go and do an easier major.
+And easier majors generally don't pay very well.
+Except for economics.
+Yes, economics is the great outlier barely behind intellectual engineering and computer science and earnings.
+But per hour of work, we crush those people.
+Like, they're suckers.
+I don't know what they're doing.
+When I tell this to undergraduates and I say, look, economics is the highest paid of all the easy majors, there's like a rumbling of discontent and insult.
+They're like, come on, people.
+You don't disappear into the depths of the earth for weeks at a time emerging with vitamin D deficiency.
+But that's what computer scientists do.
+That's their life.
+When I was an undergraduate at Berkeley, they actually did have an underground basement for the computer lab.
+They really would just disappear down there for days, not seeing the sun for days at a time.
+And come up blinking like owls.
+So no economist suffers like that.
+In Toronto, the engineers, let's say, go to something called the dungeon.
+They're killing themselves.
+If you become an undergrad, you still get to have the full college experience.
+Great deal.
+I don't need to convince you guys of that.
+You're already here.
+This is like preaching the need to attend church to people who are in church.
+I have no need.
+All right.
+So now another big problem with this, and actually this is one that is enormous, and I knew it was a problem, but I just didn't realize how big the problem was until I looked at the data, is that this tacitly assumes that school completion probability is 100%.
+That's the tacit assumption, because remember what you're doing is you're looking at the earnings of people who successfully completed the degree.
+That's what you do when you're pointing, that's what this does.
+It goes and says, all right, because the question actually specifically says what is the highest number of years that you successfully completed?
+That's the question warning.
+If they had done, what is the total number of years you attempted?
+That would be a different answer.
+Probably people would just be so embarrassed about all their failure that they might not even tell you, but we've got other data saying that this failure is rampant.
+So, and then you're like, oh, I'm not, you're finishing bachelor's degrees.
+Remember, this is for the full-time students.
+Full-time four-year students, 35% finish in four years, 55% by five years, 60 by six years, and then you're just crawling up at 1% or 2% a year after that.
+So if you don't finish in six years, you're pretty much never finishing.
+So that is a whole lot of people who are putting in a whole lot of years and then not making it, not finishing.
+All right.
+And actually, just to get a little bit ahead of myself, this is even worse than it seems, because one very well-established empirical fact about the course of education is that there is what is called a Sheepskin effect,
+or diploma effect, which says that much of the payoff for education comes from the last year, finishing the last year.
+Graduation years pay a lot more than regular years.
+So for my book, I actually tracked down every single paper I could find on this and then just took an average.
+So there are big ranges, but for high school, the payoff for senior year comes out on average, senior year pays about 3.5 times as much as a regular year.
+So in other words, about a little bit more than half of the payoff for high school comes from finishing senior year.
+For the bachelor's degree, it's like a ratio of 6.7 to 1.
+Graduation year pays about double what all the first three years pay combined.
+That means that failing to graduate is a really serious problem, because you can go and do the first three years and you get peanuts for those years.
+You get almost nothing for the first three years of college.
+And then, if you finish, then you go and you get a big bag of gold at the end.
+But if a whole lot of people actually never finish, never cross that line, then to go and take the wages of the people who succeeded and act as if that's going to happen to everybody who tries is not just wrong.
+It's worse than misleading. It's cruel.
+Because you're going and painting these amazing dreams of what will happen after you finish without ever mentioning, oh, by the way, people like you hardly ever finish.
+How predictable is college completion? Very predictable.
+What do you think predicts college completion?
+Besides intelligence?
+Yes. Well, that's the first one, yes, intelligence.
+Again, a lot of people never actually get an IQ test for them, but you just have your standard psychological learning.
+The best predictor of future performance is?
+So best predictor of success in college is success in?
+High school.
+And that works really well.
+So like out of people who are only about the bottom 25%
+of high school math test scorers,
+only about 5% finish college if they start.
+Of course, most of you like that don't even start.
+But if they do, they have almost no chance of finishing.
+So, shocking.
+All right, now last point, last point.
+Also a very serious omission.
+This number does not control for intelligence,
+which is highly correlated with education.
+And furthermore, is fairly stable from a young age.
+So the reverse causation story
+of the education made you smarter,
+while there is something to it,
+is not a very good objection, I guess.
+Have you looked at a sheepskin effect for PhDs?
+So, just to be clear, I'm not doing any of this research.
+I'm literally looking.
+I'm literally looking at what other people have done.
+So, yes, so PhDs specifically have not been studied very much,
+but there are several studies of just graduate
+to graduate and professional degrees.
+And yes, very standard defined,
+very large sheepskin effects for those.
+In fact, according to some estimates, the entire payoff
+for graduate degrees is a sheepskin effect.
+Even more extreme, where it's like 100% sheepskin possibly.
+So like working on a PhD for five years and then giving up,
+it's not clear the world rewards that at all.
+If you finish the master's along the way,
+then you get rewarded for the master's.
+But if you just flounder around for five years full time
+and you don't get any diploma of any kind,
+according to the much more limited data this round,
+it's totally possible that it's worthless in the labor market.
+Of course, it changes your life and makes you a better person.
+And every day you'll sit around saying, it's so great
+that I spent five years of my life and didn't get a degree,
+because at least I understand the world.
+That's the normal reaction of people who give
+up on their PhDs, not extreme bitterness and resentment
+of the field that they left.
+All right.
+So why don't we go and take our 10-minute break.
+Let's see.
+So you've got homework due today.
+Please pick up the answer key, as well as homework nine,
+which will be due in two weeks.
+And then I've got a few answer key,
+or I have one spare answer key for homework seven.
+You can also grab it if you want.
+All right.
+Moving on.
+Okay. Can we get the door back there, please?
+Anything you can get the door?
+All right.
+So a big potential problem with this return
+to education estimate is that it has no IQ measure.
+Right? And it sure seems like it should have an IQ measure.
+Because IQ, standard measure of intelligence,
+seems like intelligence would make people good
+at doing things, especially in a modern economy
+that isn't based upon physical strength.
+Right? Of course, you may say, I know a really smart guy
+who can't hold down a job.
+But still, on average, it seems
+like someone who is smart would be a better worker
+and would therefore make more money.
+And of course, there's a high correlation
+between education and IQ.
+Okay. So it seems like you'd want to control for this.
+Ideally, you'd want to get a measure of IQ
+that precedes the education measure.
+So in particular, if, say, the least educated person
+in your data set has an eighth grade education, you'd want
+to get the seventh grade measures of IQ
+if you can get them.
+Although you could supplement that by going
+and seeing how much does IQ actually change
+after seventh grade so it doesn't change much.
+Then the later measures could still be okay.
+All right.
+So on the one hand, this seems
+like a really obvious control variable.
+On the other hand, it gets you protested.
+Yes?
+That's also, that's another possibility too, right?
+But that would be a more advanced control variable.
+But just to start, you'd think you'd want to go
+and put both in.
+And then maybe you do an interaction.
+You could try that too.
+All right.
+So anyway, it seems like a really obvious control variable.
+In fact, if you're teaching econometrics, it's not clear
+to me there's any better example you could even give.
+It's one of the best in the world I can think of.
+At least seems to make sense to people.
+I suppose you could put in, say, amount of football practice
+and then raw football talent as your two things.
+So you don't want to go and just estimate success
+in football based purely upon practice.
+That would imply that if I were to go and practice a lot,
+I could have been a pro player.
+I mean, look at me.
+All right.
+So like if I had had all the heart in the world,
+is there anyone who looks like me in the NFL?
+Anyone?
+Is there anyone of like my height,
+my weight makes it in there?
+So like the shortest guy in the NBA,
+someone said was like 5 foot 10 or something.
+I'm like, I'm almost there.
+But anyway, so that's another,
+that would be a very similar one where you have education
+as analogous to the amount of time you spend practicing
+the sport.
+And then IQ you would think of as analogous to raw talent.
+So it could be your height or your weight or your strength
+or just your aggressiveness.
+How many people with my personality?
+I don't know.
+I don't know.
+Maybe. I guess there might be a few.
+But I don't want to crush everybody.
+I suppose there might be some people there.
+I really hate crushing people.
+But I'm earning to give.
+I'm a football player and I give the money to the orphans.
+Anyway. So it seems like a really obvious control variable.
+But it does make people extremely angry.
+Now of course the fact
+that it makes people extremely angry doesn't mean it's a bad
+control variable.
+It could just be that they're very touchy.
+But there are actually several complaints that have been,
+that have been put forward.
+And so let's think about them.
+But anyway, just for background.
+So we all have an intuitive notion of what it means
+to be intelligent.
+If someone calls someone intelligent,
+you don't normally say what does that word mean.
+I have no idea what that word is.
+It's a perfectly normal English word.
+Found also in Dungeons and Dragons.
+It's one of the six primary characteristics along
+with strength, wisdom, dexterity,
+constitution, and charisma.
+And so clearly it means something, right?
+Right?
+All right.
+Now empirical research on intelligence is one
+of the best developed areas of psychology.
+Or actually I'll go and say it is the best developed area
+of empirical psychology.
+There is a massive amount of research
+on this topic in empirical psychology.
+All right.
+Now in practical terms,
+researchers usually measure intelligence with an IQ test,
+which stands for intelligence quotient, or related tests.
+There are many different tests which are not called IQ tests,
+but which are for all practical purposes IQ tests.
+Why are there so many tests that are IQ tests
+that aren't called IQ tests?
+Well, I've already hinted at what the reason might be
+to relabel them.
+Why relabel a test?
+Less controversial.
+Yes, to make people less angry.
+All right.
+Now my favorite example of this relabeling is the SAT,
+which when I was in high school stood
+for Scholastic Aptitude Test.
+Now that sounds a lot like intelligence, doesn't it?
+It's like, hmm, the student is super high
+in Scholastic Aptitude, but he's a moron.
+Or ultimately the student has no Scholastic Aptitude at all,
+but he's a complete genius.
+Hmm, sounds like a hard thing to imagine.
+I suppose you could, but it sounds odd.
+But anyway, a few years later the SAT test was
+not renamed, was not, the abbreviations stayed the same,
+but what the abbreviation was for changed.
+So it changed from Scholastic Aptitude Test
+to Scholastic Achievement Test to avoid hinting
+that someone might have an aptitude in anything.
+All right, because the idea of an aptitude, my God,
+once you say there's Scholastic Aptitude,
+there could be basketball aptitude or, you know,
+you know, acting aptitude or scuba diving aptitude
+or running aptitude.
+You don't want to say that, right?
+And then finally after a few more years that started
+to upset people, and then they renamed it to what it is now.
+What does the SAT stand for now?
+Nothing.
+They renamed it to nothing.
+It's just a name like Bob.
+So it's tasting, taking Bob.
+What does Bob say?
+Well, Bob doesn't say it for anything.
+So that was the sweet spot of avoiding controversy is
+to say your test doesn't stand for anything at all.
+But in any case, have you ever done, you know,
+is there's the Wechsler Intelligence Test or the Weiss
+or the Wunderlich or the SAT?
+Yes, the SAT is actually, correlates so highly
+with other tests that are called intelligence tests,
+it is an intelligence test.
+But the ETS doesn't want to be called an intelligence test.
+It might even sue me if I went out saying that too loudly
+and blatantly for labeling them.
+I guess it would be slander if I said it.
+All right.
+So in any case, these tests have come under angry attacks
+for a number of grounds.
+And we're just going to briefly go over the three main ones.
+All right.
+So the first complaint, cultural bias.
+All right.
+The origin of this complaint.
+There are large group differences in IQ scores.
+So Ashkenazi Jews, Jews of Eastern European ancestry,
+average about one standard deviation higher than Gentiles.
+Blacks average about one standard deviation lower
+than white Americans.
+I have nothing to do with this.
+This all predates me.
+Long before I was born, these numbers were there.
+All right.
+And out of people who know the data,
+there is no dispute about these numbers.
+The only question is why.
+Question is why.
+Why are there these large differences?
+And a common complaint is
+that the tests are culturally biased.
+Tests are culturally biased,
+which means that they don't really measure intelligence.
+They measure familiarity with middle
+or upper middle class lifestyles.
+Okay. Now, this argument was most notion back in the 50s
+where there were actually a few notorious questions on IQ tests
+with things like yacht is too big gata.
+As chalet is too big gata.
+Right now, as to how it was that kids from, you know,
+the Jewish kids from working class families
+in New York were being advantaged
+by these highly aristocratic references, I don't know.
+But, you know, anyway, there were some questions
+which you can go and find from this period which do sound,
+at least on the surface, to be about living
+in a very wealthy lifestyle.
+And so maybe they're not fair questions.
+But since then, not only have questions like that been removed
+from the test, and there's a lot of effort.
+Well, let's see, is there any way this could sound kind
+of like an upper middle class-y thing?
+But more importantly, people have come
+up with a very creative way of testing for cultural bias.
+And it's been done on a massive scale by the US military,
+which actually is the main organization on earth that uses
+IQ tests for making decisions about especially what kind
+of job they're going to train you for.
+All right, so I will tell you the theory of how you might go
+about testing your cultural bias,
+and then I will tell you what the tests wind up saying.
+All right, and just to give you a hint, this is one
+where people's intuition is usually exactly the opposite
+of the truth, so I will first go and tell you what you think,
+and then unless you are really, if you've got rational
+innovations, then you'll believe exactly what I'm going
+to tell you, but otherwise I'll have to fix it.
+Any case, so the way that people came up with
+for testing cultural bias is this.
+Let's go and on the x-axis get your IQ score.
+It could be scored in any paper and pencil test.
+All right, but then over here we're going to have a test
+of your practical performance, so like practical test performance,
+which if you're in the military, could be something
+like not crashing a plane.
+All right, now I trust you'll agree
+that there's nothing cultural about whether you crashed a
+plane or not, right?
+It is just an obvious fact
+about whether a plane's been crashed or not.
+It could, of course, be something less drastic
+like how many cones do you knock over when you were driving your
+tank through an obstacle course?
+Of course, you want to knock over no cones.
+You want to drive your tank perfectly through the course.
+So this could be any test of your skills.
+So this could be a medical test where you are,
+where you have to perform CPR correctly.
+So anyway, on this y-axis you have any kind of task
+where you can measure it independently
+of the paper and pencil test.
+Logically, someone could have a fantastic IQ
+and they could crash the plane, right?
+Or you could have a really low IQ
+and you could be a fantastic pilot.
+These things are all possible.
+But empirically, what does it look like?
+Well, now empirically, as you might guess, when you go
+and do this, you see a pretty clear correlation.
+When people with higher IQ scores actually do better
+on practical tasks, especially
+after there's been some training.
+Right? And of course, the military,
+U.S. military is maybe the biggest single job trainer
+in the entire world economy.
+So a lot of what they do is take people who are unskilled
+and they train them to do a job.
+Right? Okay.
+All right.
+So and of course, that means that they need to decide how
+to allocate the training to people because training someone
+to be a pilot is really expensive and of course,
+could lead to loss of life and loss of millions
+of dollars in machinery and so on.
+So they want to be careful
+about who they will consider in the training.
+But in order to actually go and do this,
+you have to actually allow people with bad scores to go
+and try it on a sample basis, which the military can do.
+They can do all kinds of terrible things to people.
+Right? So and yeah, my friend's dad, when he was in the 50s,
+he was put in a room with poison gas
+and they were all ordered to take off their gas masks.
+They still do that.
+They still do it.
+That's part of basic training, yeah.
+All right.
+Well, in that case, I had a student in 2017 who, all right,
+so they do terrible things to you, so that means
+that they will actually go and put the keys to a plane
+in the hands of someone with low IQ after giving them the training
+and see, well, let's see what we can do.
+All right?
+We'll see what happens.
+So anyway, so first of all, of course,
+there is this general line and that's very well accepted.
+But now, here's the interesting question.
+So this is the usual line.
+Now, suppose you belong to a group against whom the test is
+culturally biased.
+Or suppose that the IQ test is culturally biased against you.
+Well, where will your performance line be?
+Yeah, so, so here we are.
+Yes, that is the correct answer.
+So rational explanations.
+Almost everyone thinks, no, no, no, no.
+If the test is biased against you, your performance will be low.
+Wrong. Because, yeah, so this is biased against.
+This means that if a test is unfairly hard for you,
+you will be better at doing stuff in the real world
+than the test would suggest.
+Just like imagine that the professor hates you.
+All right?
+Well, how are you going to do on the practical test
+for which you were trained if the professor hates you?
+The professor is going to go and give you a bad grade
+because he hates you, right?
+Not all professors.
+I would grade fairly even the students that I do hate,
+which is not a bad thing.
+But suppose that I'm one of the bad kinds of professors.
+I'm giving bad grades to the students that I hate just
+because I hate them.
+And then we go and someone else comes along and says, well,
+how good are they at actually doing the test
+that they learned?
+And they would turn out to be better, they would be better
+at doing the test than my grading indicated
+because I was unfairly marking them down.
+Same idea.
+So if a test is biased against you, then you should do better
+than your paper and pencil test indicates.
+Imagine that I gave you guys your final exam in Mandarin.
+All right.
+So who here is fluent in Mandarin?
+So you guys are fluent in Mandarin?
+Yeah, both of you.
+So now you guys may be the best economists in the room,
+but if I gave the final exam in Mandarin,
+you three would definitely be the best economists
+in the room according to the test.
+Everybody else would just be like, where do you start?
+I don't know, I'll like try copying a few of the characters.
+Maybe that'll get me points.
+Like you wouldn't even know where to begin, right?
+So that would be a good example of a test
+that is culturally biased against non-Mandarin speakers.
+And so that's one where if we were then going to use
+that those test scores to predict your performance on,
+you know, so as an economist say, it would turn
+out that greatly under-predicted performance
+because most of the people
+in this class would say you know nothing.
+And yet you actually know something.
+All right.
+So in general, the way the cultural bias works is
+that the performance line of people
+against whom the test is biased should be
+above the usual performance line.
+Shockingly enough, almost everyone wants
+to say it's below, but no.
+Below is if it's biased for you.
+That would be like if your loving father is the professor
+and gives you an A no matter what you do.
+And then they give you the keys to the plane and then you crash
+it because your dad was the flight instructor who said,
+he's the best pilot ever, my son, that's my boy.
+All right, but that's how you get your kid killed, right?
+Is you go, so you shouldn't do that.
+So for his own sake.
+But in any case, so this is what we should be theoretically
+looking for if IQ tests are culturally biased
+against groups that perform poorly on them.
+And the actual result is not that.
+So the general result is
+that actually there's just a single regression line.
+And people who belong to groups who do poorly
+on IQ tests do no better than you expect on practical tests.
+In fact, they may do a little bit worse.
+In other words, it may be the tests are actually biased
+against the groups that do well on them.
+But in any case, there's really no sign of cultural bias
+in these tests.
+Instead, everybody seems to be on this line as long
+as they are native speakers of the language
+that the test is in.
+So, you know, so which means, you know,
+like so cultural bias doesn't exist.
+It totally does exist.
+It just doesn't explain what people want to,
+what people think it does.
+It would explain, say, why if we went and gave people an IQ test
+in a foreign language, then it wouldn't predict the performance.
+So that's cultural bias.
+And it's totally real.
+But it's also not what people are complaining about.
+I've never heard anyone say, you know what's wrong
+with these IQ tests?
+If you give them to someone who doesn't speak a language,
+it doesn't predict very well.
+Well, who on earth would think that it would?
+Really dumb to test people in a language they don't speak.
+Okay. All right.
+So that is the big test of cultural bias.
+And again, this is something where as far as I can tell
+from my review of the literature,
+everyone who knows the data says that's basically right.
+Okay. All right.
+Now, another big complaint about intelligence can be called the
+multiple intelligences complaint,
+most associated with the Harvard psychologist Howard Gardner.
+All right.
+And also associated with the X for dummies book series.
+Right? You ever seen like golf for dummies, pool for dummies,
+politics for dummies?
+So the idea is we're all dummies.
+We sat down and read this book for dummies
+and then we're no longer dummies.
+Right? Or anyway, this is going to be something
+that says something like, look, there's no one thing
+that constitutes intelligence.
+Everyone's good at some things, bad at other things.
+It's the idea.
+All right.
+Now, trivially this is probably true.
+So you can probably find one area
+where Albert Einstein was cognitively uninformed.
+Like maybe he didn't know much about cooking or something
+like that.
+So he gave him a test of cooking.
+He'd give you a bunch of bad answers.
+But still, the fact that we see is that for a very wide range
+of problems that we think of as mental problems,
+people who do good at some of them usually do good
+at all of them.
+So there is a clear positive correlation between performance
+on almost every cognitive test that anyone's ever come up with.
+In fact, let's see, when I was having lunch
+with famed intelligence researcher Steve Ceci,
+I said is there any exception?
+And he couldn't think of one.
+Right? So he couldn't think of any exception
+of any cognitive skill which actually negatively correlates
+with other cognitive skills.
+Okay. So when you think about something like SAT verbal
+versus math scores, you've got a friend who says I'm great
+at verbal but terrible at math.
+Is that person actually normally terrible at math?
+No. It's more like they're at like 95th percentile of verbal
+and only 65th percentile of math.
+And that in their minds is terrible.
+Even though they're well above average on both things.
+Okay. All right.
+So that is a problem.
+So this is true but again, it doesn't really actually show
+that the tests don't mean anything
+or that you shouldn't use them.
+It just means well, yeah, so there isn't a perfect correlation
+but still cognitive abilities do generally go together.
+And even things that are weird like athletic ability,
+the standard result is there's a correlation of.1
+between IQ and athletic ability.
+.1 is really small but it's something.
+Right? And I guess the idea is that being smart allows people
+to go and play sports more intelligently.
+A little bit.
+Yeah. So I have heard people know football when I say,
+well, like quarterbacks generally test
+as the highest IQ members of the team.
+All right.
+So things like that.
+All right.
+Now third complaint.
+And this one is 100% totally true.
+Imperfection.
+The tests aren't perfect.
+They totally are.
+All right.
+Now there's several varieties of complaints
+about the imperfection.
+So one of them is the same person gets very different scores
+at different times and that's true.
+It's rare that the test scores are really different
+but it does happen.
+Usually it's things like the person was sick one time
+and so that can explain it.
+Let's say Robin Hanson had a son who was told
+that he would get a break during one of these tests
+and then they changed it on him and he didn't get a break
+and he got really upset and then his performance
+on the second part went way down.
+And then they said, all right, fine, let's just retest him
+and this time we don't tell him that.
+This time we tell him there will be no break.
+So get ready.
+Strap in. And then he did really well.
+All right.
+So there are different reasons and yes,
+so I think it's extremely likely
+that if you kept a person sleep deprived for 24 hours before a
+test, performance would be fine.
+Things like that.
+Another complaint is that some super smart guy
+that you've heard of got a low score once.
+So Richard Feynman supposedly got a low score
+in an IQ test once.
+I've heard this repeated many times as to what it means.
+So if it's a test where there's a penalty for guessing,
+then actually you'd have to be a genius
+to get the minimum score, right?
+So because, you know, it's a regular test
+where you get marked out for guessing.
+Now how could you get the wrong answer every time?
+Only if you knew the right answer
+and deliberately did the opposite.
+So it would take a very smart person to min
+out their score on a test like that.
+Of course, it doesn't take any intelligence at all
+to just leave the whole exam blank.
+The real genius is getting a negative score.
+Moderate negative score might not prove anything,
+but if you get a really negative score, that's a challenge.
+All right.
+So maybe that's what's going on.
+All right.
+Now once I was in the Johnson Center Library
+and I had like 20 minutes to kill,
+and I just randomly picked up a book off the shelf called
+The ETS's Rank of Error, which was an anti-testing,
+educational testing service book by Ralph Nader's organization.
+And I clicked on a random page and it said,
+do you know these tests perfectly predict GPA only 20%
+of the time?
+I'm like, they perfectly predict GPA 20% of the time?
+That's incredible.
+I mean, like how many decimal places?
+I mean, like it didn't say, but I was like, wow,
+what an incredible endorsement of the test.
+Way better than I would have thought.
+But of course, the complaint was like 80%
+of the time they give a wrong answer.
+Well, how wrong?
+This is statistics.
+It's not math where we expect the answer to be right
+to an infinite infinity of decimal places.
+It's a real world problem where to be right
+to even one decimal place is pretty good.
+All right.
+So anyway, so all this is true.
+Like all those, so many problems with IQ tests.
+I mean, it just goes on and on.
+Actually, there's a giant literature.
+Amazingly, people who are really interested
+in IQ spend a lot of time finding out all the problems
+and publishing them.
+Just like economists, really into markets.
+We are the people who have all these complaints about markets.
+We can make a career complaining about markets.
+All right.
+So anyway, important thing is that IQ tests are more reliable
+than anything else, especially if you want
+to predict someone's income or educational success
+or their occupational attainment when they're seven years old.
+And you only get one variable.
+IQ is the best variable to get.
+Does this mean that if you get a low score, you're doomed?
+Of course not.
+There's plenty of people who do badly
+and they just are having a bad day or had some bad luck
+and things still work out for them.
+And of course, you can get a great score
+and still become a total failure.
+It's also open to you.
+But nevertheless, once you apply the normal standards
+of statistics, which is don't expect too much, be grateful
+for what we can predict, then IQ tests look
+like they're looking pretty good.
+So IQ tests are more reliable than anything else.
+Very broadly useful.
+So there's an enormous number of things
+that you can predict with IQ.
+All right.
+And furthermore, if you test 100 geniuses,
+their average score would be very high.
+So there's a famous study called, it was done
+by a psychologist named Terman.
+And then the people in the study were called the Termites.
+All right.
+Anyway, so what happened was in the state of California
+in I think the 20s, there was a massive statewide test.
+And then he went and found 100 kids who scored highest
+on the test and he studied them for the rest of their lives.
+Now, funny thing, there was a Nobel Laureate named William
+Shockley who was notorious for his very vocal,
+vocally pro IQ views.
+And he was tested in this bunch and did not make the cut.
+So a Nobel Prize winner was not, did not make it
+into the Terman pool.
+And then I don't think any of the other 100 ever won
+a Nobel Prize.
+So stupid test, right?
+Well, Terman was like a number 110 in the state.
+So yes, he was not in the top 100, he was 110.
+But still, he wasn't like number 5 million kid.
+He was still near the top.
+He just was a little bit worse
+than the very best one in the state.
+So not so shocking.
+All right.
+So what can we say about intelligence?
+It's a lot like strength.
+There's some ambiguity because it's a word that's existed
+for thousands of years, like how could we do without it?
+It's not going to have mathematical precision.
+Right? So there's some ambiguity,
+but we do know what we mean.
+If you call someone strong, you have an idea what that means.
+And there's different observations you can have
+where you would say, no, he's not, or he clearly is.
+Right? And there's ways that you would try to measure it,
+which would make sense to almost anyone
+who understands the language.
+And since we know what we, so we basically know what we mean.
+We know there's real differences.
+So some people are stronger than me.
+Some people are smarter than me.
+Right? That's just a fact.
+Right? And also we know that people are strong
+by one measure, usually strong by other measures too.
+So someone can bench press a lot,
+and they probably also can do a lot in a high squat.
+They probably have a strong neck.
+They probably even have strong fingers.
+Now if there were a football player who turned
+out to have a really weak pinky or something like that,
+would we then say, well sure, he's great on 99 of the tests
+of strength, but he has a below average pinky.
+Like would you then say he's weak?
+I would say no, no, he's a super strong guy
+with like a, with a weak pinky.
+Yeah, but you know, like you, you know, you would go
+and say, all right, let's go and put a little bit of weight
+on that so we won't call him quite as strong as we would have
+if he also had great pinky strength,
+but still he's a strong guy.
+Okay. All right.
+Now there's a second debate which we are not going
+to talk about other than to mention that it exists.
+But that's the extent to which IQ is hereditary
+or environmental.
+You know, what is very well established is
+that IQ doesn't change much past a certain age.
+You can, it is totally possible
+to raise someone's IQ score on a particular test.
+But, but this is a, this is a special case,
+a more general rule, which is it's possible
+to raise anybody's score on any test whatsoever.
+How can you raise anybody's score
+on anything, on any test whatsoever?
+Teach to the test.
+Teach to the test.
+That's the simple rule.
+All right.
+So that's the, so like you just want, but,
+but there is one problem with teaching the test,
+which is if you then go and give them another test,
+which is supposed to test the same thing,
+but it's not the same kind of test, then you don't see,
+then you see very little gain.
+So if I go and I prep you for the SAT,
+I can raise your SAT score, but that's not going to go
+and make you do better on the Wexler test,
+or the Wunderlich test, or some other unrelated test.
+All right.
+So these are what researchers call hollow gains.
+We have made you look better just by going and drilling you
+on the superficial aspects of the test.
+You know, which again is functionally not so different
+from us giving you the answers, right?
+If someone went and gave you the answer key for a test,
+and you memorized it A, B, B, B, C, A, B, C, D,
+and you got a perfect score on the test, are you now a genius?
+No. It's like, well, why not?
+So you got a genius score on the test.
+Just doesn't that count?
+How would you know it doesn't count?
+Well, because those, the gains,
+once you've memorized the answer key, aren't going to lead
+to better performance on other tests that are supposed
+to test the same thing, but where you didn't make it
+to memorize in advance.
+So anyway, so there's no time to resolve the extent
+to which IQ is registered environmental.
+We can say it's stable beyond a certain age, but if you go
+and read carefully constructed twin adoption studies,
+they will say that variance in IQ is about 80% genetic,
+and that about 20% is just noise, where it's very hard
+to figure out what's going on, and then almost none
+of it is explained by the family you're raised by,
+at least within rich countries.
+These data sets all come from first world countries,
+so it's totally possible that if a kid, you take and adopt a kid
+from a third world country and bring him to the first world,
+he will get a much better score, but if you go and move a kid
+from a poor family in a rich country to a rich family
+in a rich country, it does not look
+like that will actually raise his adult IQ.
+Only a messenger.
+It will raise his childhood IQ.
+How can it, how can being, growing up with a rich family,
+raise your childhood IQ, but not your adult IQ?
+Well, there's a general, there's a general word
+that people use here, which is fade out, fade out.
+Remember how you learned a foreign language
+in high school, now you don't know it anymore?
+That's fade out.
+Similarly, if you are put into an advantaged environment
+when you're young, and then you don't stay
+in that advantaged environment, or of course,
+you acquire the ability to control your environment,
+then we see that, that, that, then the effect disappears.
+We even see fade out for things like religiosity,
+where if you are, if you are from atheist stock,
+your biological parents are atheists,
+but you're adopted by religious people,
+when you're 10 years old,
+your adopting family will have a big effect upon your
+Christian edits.
+If we go and look at you by the time you're 35,
+and this has been done, then we see very little effect.
+Right? What's the difference between a 10-year-old raised
+by religious people and a 35-year-old raised
+by religious people?
+Yeah, you can try, but it's harder.
+Yeah. So, people grow up, they do what they want to do,
+generally.
+All right.
+Just like you guys now do a bunch of things
+that your parents probably raised you not to do.
+Like, I was raised to be economically illiterate.
+But, you're breaking my parents' heart.
+All right.
+So, anyway, so why bring this all up?
+Many of you think I bring it all up just to upset people,
+which is not my goal at all.
+In fact, I would love to make everyone happy.
+That is my dream.
+I bring it up because when you go and add a measure of IQ
+to this list of control variables,
+it drastically alters the result.
+It drastically alters the result.
+So, if you go and just put in the NLSY measure of IQ
+into this regression, then beta goes from 12.6 down to 7.5%.
+So, the beta is.126, which is a 12.6% rate of return.
+Goes down to.075, which is a 7.5% rate of return.
+So, that is something like a 40% cut in the payoff,
+40% reduction in the effect.
+Okay. All right.
+Now, another way to think about it is an extra percentile
+of IQ bumps you up by about.7% in earnings.
+So, a year of education is worth about as much
+as 11 percentiles of IQ on average.
+All right.
+Now, what happens if we go and think about what happens
+to the estimated return of education?
+So, if we go and keep the tuition in,
+which we should of course, and then we just put
+in this IQ control, then we are down to 3% rate of return.
+3% is some amazing return that requires some big theory
+of credit market imperfections or anything.
+It's not.
+Now, notice, this is a real rate of return.
+So, this is already inflation adjusted automatically.
+So, it's important to remember that.
+So, it's not 3% nominal.
+It's 3% real.
+Right? And again, why is it 3% real?
+Because all of these log earnings,
+so these are log earnings for say one year.
+So, this is saying that at any given point
+in time you will earn 7.5% more.
+Right? So, if holding time constantly you earn 7.5% more,
+then there must actually be a 7.5% effect
+because we're not actually comparing what you're earning
+this year to what you're earning next year.
+We're saying how much more would you have made this year
+if you had one more year of education this very year?
+Okay. All right.
+So, that's a 3%.
+Let's see.
+And let's see.
+Yes. And if you go and flip towards the back,
+I have a whole bunch of spreadsheets where I actually go
+and show you what's going on here.
+Let me just go and take a look at just one just
+to give you an idea.
+So, here's this first one here.
+So, in column A we have your age.
+So, here I'm picturing someone making their educational
+decision at age 18 and then working
+until they're 68 years old.
+All right?
+And then period, that's just age minus 18 just
+to clean up the calculations.
+And then here we've got the initially,
+or here we have the net flow of, let's see here.
+So, ah. So, here we have the net flow if you do go to college.
+So, here we've got no payments for the four years
+you're in college.
+We're figuring you go for all four years.
+So, you give up four years of earnings in a row.
+But then starting that next year, you now have 1.1.
+So, 1.1. Let's see.
+1.1. You have what you would have earned times 1.126 raised
+to the fourth power because each year you're in school
+if that's raising your earnings by 12.6%, then just like
+if you leave your money in the bank for four years
+at 12.6% interest, at the end you'll have how much you put
+in times 1.126 raised to the fourth power.
+Right? Everyone happy with that?
+Right? 5% interest, 1.05 raised to the fourth power.
+So, 1.126 raised to the fourth power.
+So, that gives us, if your initial earnings would have
+been 15,000, we then multiply your earnings
+in all these other years by 15,000 times that number.
+Right? And then we can go over the present discounted value
+of that where each year we're going to take in that amount
+and then we are dividing it by an interest rate.
+What interest rate will that be?
+Well, over in column E, we actually are using Excel's
+goal sheet.
+Well, I'd rather go, rather goal seat to figure that out.
+So, we'll come back to that in a second.
+All right.
+Now, F, this is our income column.
+If we don't go to school, we just earn $15,000 a year forever.
+And then column G is the present discounted value
+of receiving that 15,000.
+And then, here, this column, the H, this column is the difference
+in the present values between the two columns.
+So, it's the difference between D and E,
+we're seeing D and G. All right.
+And then, where do we get this rate of return?
+Well, very simple.
+You'll notice back here, down here at the bottom,
+we have the total present discounted value
+of the two income streams.
+So, you'll notice that here, that both D and G have the same,
+have the same income stream.
+And what is E?
+E is the interest rate that makes these two present
+discounted values the same.
+In other words, so remember when I was doing this over here,
+what I was saying, if you go and buy an asset at the,
+at the market rate, and then you earn the market rate return,
+you wind up actually coming up with a net,
+a net return of zero.
+So, similarly, to find out what the present discounted value
+of a college education is, you figure
+out what is the interest rate that makes it just as good
+as not going to school.
+And the answer here turns out to be 12.6%.
+So, actually, this is a little bit less because,
+because here you only live, you only work
+at the age of 68 rather than 200.
+All right.
+So, that's what's going on here.
+And then, again, you're going to have to figure
+out what the interest rate is.
+All right, so that's what's going on here.
+And then, again, this column H, again, so notice,
+this H column sums to something almost zero.
+Why? Because when we're doing the goal seek,
+essentially what it's doing is trying to set the difference
+between these two income streams down to zero.
+Now, if you know your Excel,
+there's actually something else that you could do.
+There's something called the IRR function,
+internal rate of return function,
+which does exactly the same thing with more easily.
+So, essentially, when you're trying to figure
+out what is the rate of return of this investment,
+another way of thinking about it is, at what interest rate would
+the present discounted value of this investment be zero?
+All right.
+So, that's what's going on with the spreadsheets,
+and that's where numbers like this are coming from.
+If you go and take my economics
+of education seminar next semester,
+probably the least popular part is we are going
+to go over some spreadsheets.
+Because, you know, I did 18 months suffering with this stuff.
+I never want to do it again, but I will do it just to go
+and walk people through how I actually got the numbers
+that I did.
+All right.
+So, questions about return to education.
+So, really, it takes some very minor adjustments
+to get down to 3%.
+And notice, that 3% doesn't even include some
+of the really big ones.
+It doesn't include completion probability.
+We're still assuming 100% completion probability.
+We're still going and assuming that marginal
+and average are the same.
+So, these are, even then, that 3% is grossly optimistic.
+Right? As I should say.
+In the book, I actually have my real numbers,
+which are quite grim for marginal students,
+although still pretty good for excellent students.
+So, for people who were fantastic students
+in high school, college is a great deal for them.
+Because their completion probability isn't
+that much below 1.
+Right? And also, one other thing when you're thinking
+about calculating return calculations is,
+do you have to pay more tuition just
+because you're a better student?
+No. But do you get a larger gross payoff by, so,
+but suppose that you have a lot of natural talent.
+And then education raised your earnings by 10%.
+Do you get a larger gross payoff than someone
+who doesn't have that natural talent?
+Sure. Because, suppose that
+without education your earnings would be 100,000.
+And then you go and you raise your earnings by 20,000,
+or by 20%, that's a 20,000 gain.
+And against that, you can go and weigh that against the tuition,
+which is no higher for you than it was for someone
+that really had much less potential.
+So, education goes and raises your earnings by 20% or 40%.
+If your earnings were going to be a lot higher to begin with,
+then the fact that there's, then you're more and more likely
+to cover that flat tuition cost.
+Right? And of course, it's even stronger
+when you give that tutor to go out and send them to Jack
+and tell them better things.
+Eversome how does paying money have a negative effect
+on your performance compared to spending
+in a place full of tuition?
+Do you see any benefit there?
+And then I guess,
+of course you get an item to borrow.
+to remember that people with more ability are more likely
+to finish on time, so you're actually paying less tuition.
+Do you look for the puzzle, Nathan?
+Oh, no, not the puzzle.
+I was just thinking another thing that makes
+that effect even stronger is people with more ability
+or better performance in high school are also more likely
+to get scholarships.
+Yeah, yeah, that is right.
+So, yes, there are merit scholarships.
+On the other side, they're more likely to go to, they're more
+likely to overpay for their education by going
+to elite private schools.
+That's true.
+Which most of the research says are not really worth,
+are not worth what you're paying.
+You know, like you either go to an elite public school
+or an elite private school.
+It really doesn't seem like there's too much payoff according
+to almost all estimates.
+Really like the, so what I want to,
+so what I might be alluding is the best argument for going
+to a really fancy school is that it puts you
+into a richer dating pool.
+And then if, so if you plan on getting married,
+this means that you then, even if you don't have
+to meet the person there, it's just if you go to Harvard,
+you're then in the Harvard dating pool for life.
+You're then more likely to go and marry and then share
+in the good fortune of a rich person rather
+than an upper middle class person.
+So this sounds very mercenary.
+So, and now this is very much true for men as well.
+Right? So traditionally this was an argument for women,
+but now if you are a man and you go to a very wealthy school,
+this means that you're much more likely
+to marry a high earning woman.
+Also a woman who's more likely to have a job.
+Put all that together and it's a lot.
+So the way I like to think about it is
+that whatever school you go to, you will still be yourself.
+But if you go to an elite school, you will meet the elite.
+And so you get, which gives you the opportunity to go
+and get half of the earnings of an elite person.
+Right? Which of course you shouldn't do this purely
+for this reason, but still it's what you do.
+It's, there is the old saying
+that you can love a rich person just as well as a poor person.
+So, that's out there now.
+Okay. All right.
+So moving on.
+All right.
+Signaling the social return.
+All right.
+Now the main idea of credit market imperfections is to say
+that the social return exceeds the private return.
+It says that there's an educational investment
+that would pay society 20%,
+but because the student cannot get a loan, they don't do it.
+Something like that.
+Okay. So the social, so again,
+the private return that you can get might be very low
+because you know, so because actually
+like people won't even give you the money.
+Something like that.
+All right.
+But now the empirical case
+that we actually have these, actually the best way
+of putting it is, a little bit different, is that the,
+let's see, let's see, hold on.
+So, you know, like, better way of putting part A,
+actually now I wish I'd written something different.
+Better way of putting part A is
+that with credit market imperfections, the rate of return
+for going to school could be way greater
+than the market interest rate.
+And why would that, normally of course, you would not think
+that say investing in steel could be more lucrative
+than the market interest rate.
+And why is that?
+Why, so if the market interest rate is 5%
+and steel is only 10%, you would expect that not to last, right?
+Why not?
+Armature.
+Armature, yes.
+So people will go and borrow from the banks at 5%,
+put it into the steel at 10%, and tell the rates are equalized.
+But if there are these credit market imperfections,
+if banks don't want to go and lend you to get it
+to get it to the degree, even though there's 20% anyway
+to return, because there's no collateral,
+then there could be this permanent disparity.
+And again, as I said, the steel mill,
+the steel company could put up the mill as collateral,
+but what could you put up as collateral?
+Right? It's not that clear.
+All right.
+Now, the empirical case for credit market imperfections,
+it looks pretty flimsy once you make some obvious adjustments,
+like put in tuition, people.
+Adjust out control for IQ.
+And then, like, how about put in completion probabilities?
+Those small things are going to turn what seems
+to be this astronomical rate of return
+into something totally mediocre or worse.
+Right now, but there is a pretty clear comeback.
+You might say, well, sure, the rate of return
+of education is low now because government heavily subsidizes
+education.
+You might say, like, yeah, you know why we don't see a problem?
+Because government solved the problem.
+Pretty simple reaction.
+Now, the steel does throw cold water on anyone
+who says we need even more government money.
+So it's still not an ideal result for many people.
+But still, if you want to go and defend the status quo,
+an obvious thing is to say, look,
+the reason the rate of return is so low is
+because government has made education cheap.
+So, yes, of course, now we're in the equilibrium
+where the problem is credit market imperfections.
+Problem has been solved.
+But we still need government to keep the problem
+from coming back.
+If government got rid of the subsidies,
+then there would be a problem.
+All right.
+Now, all these calculations assume, though,
+that education actually increases productivity
+and thereby raises social output.
+But remember, from that weak asymmetric information,
+there's another hypothesis about how education raises income.
+And that hypothesis is signaling.
+This story says, no, it's not that you go to school in order
+to acquire useful job skills,
+making you a more productive worker.
+Rather, you go to school in order to get a stamp
+on your forehead saying grade A worker,
+which then raises your income without raising your productivity.
+Right? Why would employers go and pay you more
+when you're not better?
+Because they now know how good you are.
+Or at least they have a better idea of how good you are.
+And that's enough.
+So someone goes and inspects a house and says the house is good.
+Does this raise your demand for the house?
+Yes. Of course.
+I don't want to like, yes, well, now it's inspected.
+Now I actually know that it's as good as it appears to be.
+So now I'm interested in paying more for the house.
+Duh. All right.
+Does it, do you think that,
+does inspection actually improve houses?
+Just looking there and doing a checklist saying this house has
+insulated, does that solve insulation problems?
+No. No.
+All that it does is certify how good it is.
+All right?
+So if education is like that, if education is just
+like a certification process,
+then we've got a very different story.
+Because it's not actually increasing the wealth
+of mankind, rather it's, rather it is raising the income
+of the student without raising the actual productivity
+of the workforce.
+Right? And how, so if your productivity stays the same,
+your income goes up, how is this possible?
+So, and of course, if your education doesn't raise your
+productivity, it certainly doesn't raise anybody else's.
+So social productivity stays the same, your pay's gone up,
+how did this occur?
+If there's a fixed pie and I get a bigger slice, how could that be?
+Someone else got a smaller slice.
+So this is not saying that we should always think
+in fixed pie terms, but sometimes maybe we should.
+There are some fixed pie things in the world,
+maybe education is one of those things.
+Okay. Now, insofar as education signaling,
+that when one worker is more educated, his wages go up,
+but all the other workers look worse, their wages go down.
+So in an extreme scenario, in an extreme scenario,
+the actual effect of productivity
+of additional signaling is zero.
+Implication, these numbers we're calculating are only private
+rates of return, they're not social rates of return.
+And what is the standard thing that economists say
+about what will an efficiency-minded government
+focus on when it's trying to decide how to invest money?
+So is the efficiency-minded thing to focus
+on private rates of return?
+No, the efficiency-minded thing is to focus
+on salvage rates of return.
+Has anyone ever said there's no reason for government to go
+and fund mosquito nets because people,
+because it doesn't pay individuals or vaccinations?
+Look, vaccinations don't pay, so there's no reason for them.
+Well, they may not pay the individual,
+but they could still pay society.
+Can there be a difference?
+Negative externality.
+And in the signaling model,
+your education is a negative externality.
+You are making everybody else look bad
+by doing that signaling.
+Okay. So what happens?
+All right.
+Well, here, again, you can peruse the spreadsheets
+if you're curious.
+So if we just go through and make 50%
+of education return in signaling,
+so therefore only 50%
+of the private return is actually a social return,
+then the estimated return falls down to negative.3%.
+So we now have a negative rate of return for education.
+Let's see.
+Are there any well-known economists
+who advocate subsidies for things with negative rates
+of return, negative social rates of return?
+I've never heard of any.
+Right. Normally, economists push
+for government subsidies for things
+with high social rates of return,
+not negative social rates of return.
+A negative social rate of return is the kind of thing
+where you say, oh, my God, we have poured so much money
+into this thing that we'd be better off
+to stuffing it under a mattress.
+It's a total way, like it is actually what we call ruinous.
+This is where you go and you put money into something
+and you reliably get less out than you put in.
+It's like a very crummy incinerator where you put
+in $100 worth of stuff,
+and you get back $99.70.
+So great. This is a wonderful incinerator
+which takes perfectly good stuff and burns a little bit of it.
+All right.
+Now, if you go up to something like 90% signaling,
+then the estimated rate of social rate of return falls
+down to negative 5.5%.
+Now, notice, if you leave this investment in the incinerator
+for a few years, it will come down to be destroyed
+and be almost nothing.
+Right? Because if every year it shrinks by 5.5%, just imagine,
+it doesn't take that many years before you have just burned
+up a wonderful stock of time and effort and resources,
+and you've turned it into something that's really crummy.
+Now, intuitively, you might say, wait a second,
+how is it possible to have a negative rate of return?
+Is it possible to have a negative rate
+of return on a console?
+So remember, if there's something
+that pays a dollar every year forever,
+how can there be a negative rate of return on that?
+If you end up paying too much for it.
+No, no. Well, so suppose you pay a billion dollars for a console
+that pays a dollar every year.
+There you go.
+It still has a positive rate of return
+because every year you get one
+over a billion times 100% return.
+It's still positive.
+Inflation.
+Inflation.
+Well, no, these are real rates of return, actually,
+so it's not inflation either.
+How is it possible?
+The answer is finite lifespan finally kicks in.
+So if the console stopped paying in 100 years
+and you paid a billion for it and it paid a dollar a year,
+then you've got a negative rate of return.
+Then it's massive.
+It's like negative 99.999999% negative rate of return
+because you died before you actually could finally get
+your money back.
+So if you pay a billion and it pays a dollar a year,
+just live for a billion years
+and a billion years you've recouped your money.
+And the same would be true for education.
+As long as there's any actual effect of productivity
+and you live forever, it would have
+to have a positive real rate of return.
+However, we don't live forever.
+So and again, why does it matter here?
+Well, because once you start getting noticeable negative
+rates of return, then finally the fact that you only live
+for 40 years really kicks in in the calculations, right?
+Because once you have a substantially negative rate
+of return, then it might be that you have to be making money,
+that you have to benefit from it for 1,000 years.
+And if you need to benefit for 1,000 years
+and you only do it for 40, you're really out of luck.
+All right.
+Now, there is a simple policy governments could use
+to improve market efficiency.
+What do we normally recommend
+when there's a negative externality?
+That is not Mason economists,
+but a normal economist recommend
+when there's a negative externality.
+Tax it. Yes.
+So you could go and tax education.
+Right? And again, the signaling model,
+they're signaling waste real resources.
+And what does taxing education do?
+It preserves the relative ranking of everybody.
+So the most educated before the tax is still going
+to be the most educated after the tax and so on.
+But it reduces the waste of the real resources.
+It means that you could go
+and start your life one degree earlier.
+You could go and be a professor with a bachelor's degree.
+You could go and be a manager with a high school degree.
+You could go and get a government job
+as a high school dropout.
+Right? This is not how the real world works anymore.
+Yes. So in 1960, about a third
+of government employees were high school dropouts.
+Now it's down to like 3%.
+Did I mention this last week
+when I was doing conventional inflation?
+So anyway, this is the kind of thing that happens
+when the education you receive really has nothing,
+really has very little to do
+with actually learning how to do the job.
+And yet, the employer wants to go and have a standard
+of quality and say, all right, fine.
+You have to have education.
+You can't be in the bottom third of educational attainment.
+So now almost no government employees are high school
+dropouts.
+And the ones that are left are probably really old.
+They're the people grandfathered in.
+Because, you know, you wouldn't want your garbage collected
+by someone who didn't finish high school, would you?
+You know, that would be terrible.
+Right? Right?
+Lord only knows what would occur.
+Right. So. All right.
+Now, in the real world, how often do governments
+tax education?
+Never. Almost never.
+You know, they'll be taxed on certain kinds of education
+or prohibitions on certain kinds of education sometimes.
+But still, this really is extremely unusual
+to tax education.
+Instead, real world governments almost do, always do what
+with education?
+Subsidize it.
+Subsidize it.
+So it's like subsidizing pollution.
+It's like subsidizing not vaccinating your kids.
+Something like that.
+Right? Where you're giving people incentives to go
+and do something that is socially harmful
+that they were going to do anyway.
+But now, let's encourage them to do even more of it.
+Okay. Now, whenever people start thinking about things
+like taxing education or even just getting rid
+of the subsidies, there's a distinctive
+and very natural reaction of horror.
+Because in the modern economy, it is pretty close to true.
+You need a college degree to get a good job.
+And there's plenty of people that couldn't afford to go
+and pay an unsubsidized tuition for four years and give
+up the earnings for four years.
+It'd be very big financial burden on a lot
+of people who currently do it.
+The key signaling insight is to say, yes, it's true.
+If education were unsubsidized,
+a lot of us couldn't afford it.
+That's the bad news.
+But there's very important offsetting good news.
+You couldn't afford it.
+You also wouldn't need it anymore.
+You could go and get the job that you want
+with one fewer degree.
+Is that possible?
+Not only is it possible,
+it's what happened two generations ago.
+Two generations ago, the whole educational distribution was
+shifted downward about a full degree.
+So back in those days, people could get hired
+to be professors at top schools right
+out of undergraduate sometimes.
+Master's degree maybe.
+I'd say, like, to advance, you might need to get the PhD.
+But still, you know, like, you didn't really need it.
+So, like, even, like, a professor didn't really need the
+degree that much in order to go and be a professor.
+Right? And then, you know, like, it was very standard
+for someone who was a very successful manager,
+someone who was a job that you think of as requiring a lot
+of training and responsibility
+to just have a high school degree.
+Which was a big deal back in 1945.
+High school degrees still actually put you
+in the top 25%, right?
+So for the, like, for all workers.
+So that's already starting to get, be the place
+where young people are more commonly finishing.
+Right? And, of course, you go back another generation before
+then, back when there's plenty of people who didn't even finish
+in high school who were the most successful people
+in the United States.
+Right? Where do they learn how to do their jobs
+if they didn't learn how to do it in high school?
+Where do they, yes, on the job.
+Where does almost everybody today learn how
+to do their jobs, too?
+On the job.
+Right? So general, you know,
+general fact about the labor force.
+Most people, like, so, you know, so if you're going
+to be a professor, then you're going to use a lot
+of what you learned in school on the job.
+But for everybody else, people go and study a bunch
+of stuff that professors care about
+and is not actually very useful in the outside world.
+And then, if you do well enough,
+then someone in the real world will give you the opportunity
+to get your entry-level job in the real world.
+And then, for the first time, you get real job training.
+Is a cynical but not too far from the truth story
+about what's going on.
+Right? You know, there's these, you know, common feeling,
+like you finish college, like, well, what do I know how to do?
+Well, not that much more in the real world
+that I could do four years ago.
+But now, people will give me an interview
+who would never have talked to me before.
+And after I get the interview, they might hire me.
+And then, what do I do when I show up?
+I learn how to do what I've been hired to do
+because I didn't learn it before.
+All right.
+Yes?
+So, did people stick to one job before than now?
+Because they were more trained in the firms and on the job?
+So, you know, there's some research suggesting
+that there's more job switches now than there were in the past.
+Although, I think that research is also in question
+in a lot of ways.
+So, it's not clear that people actually did change more
+than in the past than they do right now.
+You know, it looks like, you know, it's fairly common
+to change jobs right now.
+What's less common is changing your whole occupation.
+Right now, sometimes people will start off
+as like a practicing engineer,
+and then they become a manager of engineering.
+So, that's one where, in a way, you're changing your occupation
+where you're moving along a pretty clear career path.
+So, it's not so surprising.
+There is this research on whether
+or not there's a return to just staying at the same firm.
+And the least, well, the most interesting thing
+that I read is that they say, you know,
+the real return is in staying in the same occupation.
+So, if you move from job to job fairly frequently,
+but you stay in the same industry,
+then basically you're acquiring more skills.
+Each job you're acquiring more skills
+that are relevant to the next job.
+But if you totally switch your field,
+that's where you have lost a lot of what you've learned.
+All right.
+So, what would happen in a world
+where there was much less formal education?
+Well, a lot of firms would switch to apprenticeships,
+right, and other ways of finding out your type.
+So, this is, of course,
+used in many other countries more frequently.
+So, Germany, Switzerland make a lot more,
+rely a lot more on apprenticeships.
+So, that's one obvious thing.
+And again, why would they do it in a world
+where formal educational credentials are so much lower?
+Well, if you can't sort people out by their credentials,
+you want to figure out some way of doing it.
+So, obvious thing is to do something like an apprenticeship.
+Or it might be that you would actually go
+and have people pay you to get an apprenticeship.
+Right now, we have something kind of like that
+where we have the unpaid apprenticeship.
+But you could actually go further
+and have the negatively paid apprenticeship.
+Many people regard this as so offensive and horrifying.
+Well, so, it's perfectly fine to go and pay tuition
+for four years. That's fine. Right?
+But it's not fine to go and pay that tuition to a place
+that actually would teach you some job skills
+during that time.
+That would be an offense against God if that occurred.
+Yes?
+Ah, thank you very much.
+Okay, so this is evaluation day.
+So at this point we will pass out the evaluation forms
+and please pass them back over here when you are done.
+So we're going to finish up with this next week and then move on.
+So we're basically on track.

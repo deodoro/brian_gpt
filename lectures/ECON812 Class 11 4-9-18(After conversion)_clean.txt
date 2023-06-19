@@ -1,0 +1,3033 @@
+All right, so, end of last class, we were about to do the LA paradox.
+All right, named after Nobel Prize winner Maurice L.A.
+I don't think he got it for this, but it's actually what he's best known for, despite the fact that he got the Nobel Prize for this.
+All right, so the LA paradox. So we've got a couple different gambles.
+So we got 27,500 probability 0.33, 24,000 probability 0.6, 0 with probability 0.01, and 24,000.
+So you've got that package, or you could have 24,000 for zero.
+That's the first choice of two bundles.
+Then you've got a second choice, 27,500 probability 0.33, 0 with probability 0.67, or 24,000 probability 0.34, or you know, the other one is 24,000 probability 0.34, or 0 probability 0.66.
+When asked, people usually choose what between the first pairs do you think?
+How do people feel about that 1% chance of 0?
+Ah! 1% chance of 0, oh no!
+All right, so people usually want 24,000 with certainty when they're given those choices.
+On the other hand, when you give them the second one, when it's a 67% chance of 0 versus a 66% chance of 0, then how do people feel about that 0?
+Hey, you're probably going to walk away with nothing either way, so why not go and get the one that has the really good option for just a teensy-weensy extra 1% chance of 0.
+Now, of course, you can go to the first one and say it's just a teensy-weensy 1% chance of 0, but the first one is like, no, because one option is sure, and the other one you have a 1% chance, but the other one is not sure.
+So in both cases, of course, the work is being done by the fact that there's only a 1% point change in the probability of 0.
+So if you satisfy the expect-utility axioms, then you will treat those as being a change of the same magnitude.
+All right, so anyway, expect-utility theory shows this is impossible, and you get a chance to prove it on Work 8.
+So I'll leave it there, but again, the intuition is just that people are putting this extra weight on moving from a 0% chance of the bad outcome to a 1%, which is terrible for most people.
+I mean, just imagine going from a 0% chance of decapitation to a 1% chance, and how stressed people would be, versus a 67% chance of decapitation versus a 66% chance of decapitation, and then how are people going to feel about that?
+Well, bad either way, but the 66-67, same difference, right?
+So no, in both cases, 1% point change in the bad outcome.
+Yes?
+Just a quick question on homework. I don't know, maybe you can answer this. We can use these particular numbers in this example.
+Yeah, exactly, but the key thing you have to show is that it doesn't depend on the expect-utility function.
+Right.
+So you don't have to assume risk aversion or anything.
+Right.
+Whatever your utility function is, it will show that expect-utility theory disallows this.
+Yeah.
+Which says expect-utility theory is not just a topology. It actually has some strong implications, which in fact contradict the data.
+Surprising.
+Sir, can you get the door back there, please?
+Thanks.
+All right, now moving on to loss aversion and prospect theory.
+All right.
+All right, now standard story of expect-utility theory is that in the real world people are risk averse.
+This is an idea that behavioral economists have objected to, and they say, no, that's wrong.
+People are actually something else that they call loss averse.
+Loss averse.
+All right.
+And what does this mean?
+It means people don't like losing what they have.
+All right, what's the difference between not liking risk and not liking loss?
+Well, so you know the old saying, it's better to have loved and lost than never to have loved at all.
+All right, that's actually a lot like risk aversion, where the fact that you had it once and then you lose it, it's like, well, easy come, easy go, no big deal.
+Right.
+But with loss aversion, it's not easy come, easy go.
+Then it's like, I had something really good and then they took it from me and I've never been the same since.
+It's like, well, you're no worse off than you were before you had it.
+You went and ripped my heart out and showed it to me.
+All right, bad idea.
+Okay, so anyway, in regular spec utility theory, there's no sense of losing things because there isn't any,
+because what you have does not actually change the way you feel about stuff.
+Okay, so because in regular utility theory, preferences and endowments are separate things.
+They've got nothing to do with each other.
+Whereas to talk about loss, you have to actually put your endowment somehow into the utility function.
+Right, make sense?
+Good.
+Okay, so anyway, so losing something you currently possess is worse than never having had it at all.
+Right, when you think about it, you cannot express in a normal utility theory where utility would just be a function of your stuff,
+not be a function of your past stuff that you don't have anymore.
+This is how you have to modify utility theory to make this work.
+All right, now one common critique of behavioral economics,
+all they do is poke holes in other people's stories and they don't come up with their own.
+So here is their big thing that is actually a positive contribution,
+at least tries to be a positive contribution.
+All right, it's called prospect theory.
+This is actual homo theory.
+And the idea here is they want to go and replace a usual spec utility function,
+which has a shape like this, like u is equal to w, square root of w.
+This is a normal risk-averse utility function.
+Right, you'll notice how we've got this nice convexity here.
+All right, let's see.
+Hold on, I'm just teaching convexity to KB, my son, so now I'm pretty darn good at it.
+Yeah, so.
+It's his next son, KB.
+Yeah, yeah, so when the line is below the function, then that is convex.
+Yes, convex, of course.
+Yes, convexity is when you want to mix things.
+Okay, that's right.
+All right, so in calculus they have like concave upwards and downwards,
+which is really messing me up.
+All right, anyway, so yeah, so we've got this nice function here where you risk-averse
+and therefore you would like, prefer a sure thing to the gamble,
+prefer a sure thing to the gamble, sure thing to the same expected value.
+Okay, now this is the usual thing.
+All right, so this is just regular.
+All right, so regular spec utility with risk-aversion.
+And prospect theory does something else.
+It says, now, here's what people are really like.
+What people are really like is they've got an S-shaped curve that kinks at the current reference point.
+All right, S-shaped curve that kinks at the current reference point.
+So you are actually, so you see how that's kind of like an S?
+It's not that S-like, but yes, and then it has this kink here, right?
+And that's normally thought of as, you know, that's your reference point.
+This is basically where your endowments start.
+So notice, so above that, then you've got a normal risk-averse utility function.
+So that means that when you're above this point, then you want,
+you prefer to get the sure thing with the same expected value as the gamble.
+But if you happen to be below the risk of point, then you become risk-seeking.
+Then you become risk-seeking, and then you're there to say,
+oh my God, it's not acceptable to go and lose anything.
+I'd rather take a risk of everything, but have a chance of getting back to where I originally started.
+So I really don't want to go and fall below my special magic point.
+So what exactly is determining the risk?
+Well, of course, in an experiment, it's just going to be a piece of paper says you start here, and that's it.
+Now in the real world, it's supposed to be some kind of psychological idea of where you're supposed to be.
+Now, is that like what you have today?
+Or is it like what you imagine your station in life entitles you to?
+That's kind of it, actually.
+So much of this stuff is clearly defined in experiments.
+And then when you try to apply it to the real world, then it gets kind of hazy, unfortunately.
+Yes?
+You said below the reference point, you're risk-seeking.
+Yes.
+Okay, so would this be like gamblers who go into the casino with $100, and they lose a little bit of that money,
+and they're like, oh, I've got to get back to the money.
+Yeah, exactly. I've got to get back to the money.
+I can't go home with losses.
+That would be so terrible.
+That would be so terrible.
+Okay.
+So your risk averse in games, like a normal person, but you're risk-seeking in losses.
+So you get a choice of an extra $1,000 or a gamble of the same value.
+They want what?
+So you can either have an extra $1,000 for sure, or you can have a gamble of the same expected value.
+What do these prospect theory people want?
+Extra $1,000 for sure or a gamble.
+Which one do they want?
+For sure.
+For sure.
+However, if it's a chance of losing $1,000 for sure or a gamble of the same expected value, which one do they want to do?
+Gamble.
+They want to gamble.
+Yes, that is the idea.
+All right. So this is the simple version of prospect theory, and this is a classic case of a new theory that is reverse engineered to solve some problems,
+but then it has a bunch of new problems, and in the end, like, gee, what do we do with all this work for?
+So here's one really bad thing about it.
+All right.
+So according to this model, when do people want to buy what kind of insurance policies do people want?
+Do people want to buy insurance policies for gains or losses, if this model is true?
+Gains.
+Gains. All right.
+Now, what are all the insurance industries based upon insuring gains?
+Hmm.
+Hmm. I can't think of any.
+That's bad.
+All right.
+What do all known insurance products, at least all the ones that normal people have heard of, insure against?
+Losses.
+Losses.
+And prospect theory is right.
+People no one would buy those policies.
+So no one would want fire insurance.
+No one would want health insurance.
+No one would want life insurance.
+So what kind of a theory is that?
+That's stupid.
+All right.
+So it predicts the existence of a bunch of insurance products that don't exist,
+and predicts the nonexistence of all the insurance products that do exist.
+All right.
+So it solves some experimental anomalies, but other than that, it doesn't seem too good.
+All right.
+And then it took a little while before behavioral economists realized, oh, wait, yeah, that devastating objection.
+Based upon the entire risk industry as we know it.
+All right.
+And then they said, all right, fine, fine.
+We're going to do the fourfold theory.
+All right.
+So if you ever heard of epicycles, right, where you keep adding extra parts of the theory to go
+and desperately try to avoid it anyway.
+So here is the advanced, the fourfold version of prospect theory,
+and it says that people are all of the four things, all the following four things.
+Risk averse and gains with high probabilities.
+All right, risk averse and gains with high probabilities.
+So that means that if you have like a 90% chance of getting a gain,
+then you would be interested in going insuring to make sure that it's not, to turn it into 100.
+All right.
+But then you're going to be risk seeking gains with low probabilities.
+You only have like a 1% chance of getting a gain, or you could go and have, or get the expected value,
+then you want the 1% chance.
+So like item two is designed to explain why people buy lottery tickets.
+Lottery tickets have what, high or low probability of paying off in the network?
+Remember.
+Yes, love.
+All right.
+So this is, that's why people buy lottery tickets.
+And then we got risk seeking and losses, risk averse and loss with low probabilities.
+And number three is the proviso that explains all known insurance products.
+And then finally you got risk seeking and losses with high probabilities.
+This is like, either it's like a 90% chance of a loss or 100%,
+and then you'd rather go and do the 90% one because then there's a chance you don't lose anything.
+All right.
+So anyway, if you think, you know, so in a lab you can go and set it up to try to make this work.
+But, you know, the problem is that this is a theory with so much wiggle room, meaning like,
+so notice just in those words, let's see, so the high and the low probabilities,
+so not only do we now have wiggle room for what counts as a gain or a loss,
+which is itself pretty vague, right?
+You know, like if you missed your lunch today, is that a loss or a failure of a gain?
+You know, again, you can set up an experiment where you say your loss is this, your gain is that,
+and then you can say, see, the model perfectly describes these very little behaviors.
+But you're trying to take it out into the world.
+It's ambiguous what counts as a gain or a loss, right?
+Because as you may know from small kids, a lot of it is just how they perceive it.
+So like I said, if you want to go and lend something to a child without having them explode at you when you take it back,
+you tell them, this is mine.
+I am lending it to you.
+In an hour you will give it back to me because it was never, ever yours.
+It was an act of kindness that I allowed you to use what is mine, right?
+And that reduced the chance the child would get really mad, right?
+But this means that whether or not the child saw it as his or not, all that depends upon his own perception, right?
+As well as how society tries to define what that perception is.
+So is losing a job, is that a loss or not?
+Well, in a society where people feel entitled to their jobs, you might say that's a loss.
+On the other hand, if people feel like it's just like a contract and easy come, easy go,
+then again, they totally vary from person to person as to how you feel about it, right?
+And then similarly, it also doesn't explain how we decide what counts as a low probability or high probability.
+Again, like an experiment you can like do 90 and 10 and then alright, fine, that's definitely what we do.
+90 is definitely high, 10 is definitely low.
+But again, the real world, what counts?
+It's like a 1% chance of getting guillotined, is that high or low?
+And which theory would apply?
+Alright, so questions about prospect theory?
+Alright, much beloved.
+And you'll see why because it is a time where the evil economist Dr. Exow tried to say how things really are
+rather than just pocket holes in other people's theories.
+Alright, then let's go and do intertemporal anomalies.
+Okay, alright, now let's see.
+So, alright, now we've got perfect capital markets,
+then basic microeconomics says that everyone will discount future payments by the rate of interest.
+Why?
+Well, suppose that you are more impatient than the rate of interest.
+What should you have already done with perfect capital markets?
+You've got perfect capital markets, right?
+And you have a discount rate of 5% but the market interest rate is 4%.
+What should have already happened?
+You should have already borrowed until you have actually equated the marginal values.
+Or similarly, suppose the market interest rate is 10% and your discount rate is 4%.
+You should have already lent out so that you have equated your marginal value with the market interest rate.
+Alright, now even with imperfect capital markets there are some definite predictions of interpersonal choice.
+So, and behavioral economists have uncovered a number of these.
+Alright, so here's one of the funnest ones which is borne out in real life right here in George Mason,
+as I'll shortly explain.
+And this is that sometimes people seem to have negative discount rates
+even though there are plenty of ways to lend money out at positive interest.
+Alright, and what would this be like?
+Well, this is like choosing to be paid over 12 months rather than 9.
+Alright, so someone says, would you rather be paid your whole annual salary in the next 12 months
+or should we spread it out over 12 months to make sure you have enough money?
+Well, what is that like?
+It's like turning down free interest.
+So, what can you do to make sure you have money in months 10 through 12?
+Save it.
+While you're saving it, what would happen in a normal capitalist economy?
+It would earn interest.
+So, the fact that someone says, oh no, no, no, no, don't give me that money yearly.
+Take a mixture, I don't get it until I'm ready for it.
+That seems to indicate a negative discount rate.
+And actually, when I came here to George Mason, faculty used to have the choice of being paid over 9 months or 12.
+And I chose 9, like all good economists.
+And then, the university eventually decided that they were going to get rid of that
+and they had to grandfather in all of the old timers who wanted to be paid over 9 months.
+So, I'm one of a dying breed of people being paid over 9 months.
+And I think it was Pete Bedke who went to some of the administration and said, why are you doing this?
+They said, well, because the only people on campus who are choosing to be paid over 9 months are you economists.
+So, we didn't see the point of having this system.
+And I was like, oh, well, geez, the other faculty here are dumber than we thought.
+But, of course, we're not dumb, we're just doing something that's hard to explain.
+Or, here's another one.
+People who persistently receive tax refunds.
+How many people are glad when they get a tax refund?
+Not seeming to realize there's something they could have done that would have been much better than getting a tax refund.
+What can you do instead of getting a tax refund?
+Save your money.
+Just not pay the taxes in the first place.
+And, Remy, what interest rate does the IRS pay on your overpayments again?
+Zero nominal.
+So, really what you want to do is, in fact, to be underpaid.
+Now, you don't want to underpay maximally because the IRS does have a method for crushing people to do that.
+Although, it is a pretty low, low borrow.
+So, I think it's if you're, let's see, so if the amount you owe exceeds 10% of your total tax bill, two years in a row, then there's a fine.
+So, basically, if you were high precision, you want to basically alternate between paying the bare minimum and then underpaying by 9%.
+And then just toggle that back and forth forever.
+So, that, and again, it's because otherwise you're giving the IRS interest-free loans with your money.
+So, who wants to do that?
+So, anyway, those are two cases that are rock solid.
+There's no way that you can get around.
+I can't explain those other than by other than people are just giving out free money.
+Yes?
+So, if you are aware of your self-compensatory problem.
+Yeah, yeah, we're getting to that.
+It could serve as a mean mandamus.
+Yes, yes.
+So, if somehow the money just spends itself, it's in your hand, you're like, no, don't buy it, no.
+Then you might want to have it.
+Now, there's also some evidence which is not as rock solid saying that consumers sometimes have discount rates far in excess of the market interest rate.
+So, at least there are some studies claiming that people buy appliances.
+They greatly underrate the cost savings.
+So, that's not as totally solid, but at least that is the claim.
+Anytime someone looks and says, oh, well, it saves a lot of energy, but I can't afford to buy this thing.
+It's like, do you not have a credit card or something?
+And if you've got a credit card and the interest rate is 10% on that, then if the energy savings would give you a better than 10% return, it would make sense to use the credit card.
+If you've got a home equity line of credit, then you should be willing to borrow against that.
+Or if you've got any kind of home equity, then normally you can borrow against that at exceedingly low rates.
+And then also there's some evidence that people have different discount rates for gains versus losses.
+So, in particular, there are some experiments that involve two hypotheticals.
+One is if you could have a kiss from your favorite movie star this week or next week, which one would you want it?
+And a lot of people say they want it next week because they want to spend the week going, oh, I'm going to get to kiss my favorite movie star.
+Oh, it's going to be so great.
+Whereas if it happens right now, then it's like, oh, well, then he'll look forward to it.
+And on the other hand, there's also...
+I think it's the same experiment like if you get a shot right now or in a week.
+A lot of people say give it to me in a week so I'm not sweating over this.
+This is the one that I relate to best because whenever I test scores I would be waving at
+the minute that they're available or now when my kids test scores are ready.
+Oh God, oh God, come on.
+All right, so that's that.
+All right, and then now we start getting into the really weird stuff.
+So there's also evidence that discount rates vary with the total amount of waiting time.
+All right, so people discount a year and a day versus a day or versus a year as virtually
+the same which is what normal theory predicts, right?
+366 days worth of interest, 365 days of interest, barely a difference.
+But the people discount tomorrow way more than today.
+All right, now notice what will happen if someone says hey do you want it in a year
+or a year and a day and he says I don't really care.
+All right, now 365 days pass.
+All right, now is the choice between today and tomorrow.
+And now a lot of people no longer say I don't care.
+But what is one thing we know about what will occur in 365 days?
+Something 366 days off will turn into something one day away, right?
+That's basic math of time.
+Okay, so if people have these preferences it means that there's actually not just an
+intransitivity, there's an irreflexivity.
+There's a predictable flipping of what you'll want.
+So you can imagine that someone say, today someone says hey do you want to have fish
+or steak for lunch?
+And you say fish.
+And the day happens and they say hey do you want to change your mind?
+Well of course.
+All right, steak.
+It's like well then why didn't you just anticipate what you were going to say?
+It's like well I didn't feel that way yesterday but, but of course it's just a random thing,
+no big deal.
+But if it happens reliably then there's something strange, right?
+It's like every time I ask what he's going to want tomorrow he says A. And whenever tomorrow
+arrives he says he doesn't want A anymore.
+This is typical of many small children.
+It's one of their more annoying features is changing their mind in a predictable way.
+Okay.
+All right and this implies what is called a dynamic inconsistency.
+So as time goes on people predictably regret whatever they chose initially.
+And people often see this as some sign of some kind of a self-control problem.
+A self-control problem.
+Okay.
+All right.
+So you know like class example.
+So you want to save for retirement in the abstract but every day you want to buy stuff,
+right?
+Or you want to be thin in the abstract but every day you want to eat tasty food.
+Baconators.
+Yes.
+Right?
+And so on.
+Right?
+So or like you want to be in the abstract you want to be physically fit but each day
+you want to watch TV and not go to the gym.
+Okay.
+All right.
+And then the idea is that a person might want to have their money taken from them, right?
+In order to overcome temptation.
+Or you might want to not have any tasty food in your house so you just have to stock with
+salad.
+And then great.
+Okay.
+So now like you don't feel like you don't feel a temptation because all I have in front
+of me is salad.
+Okay.
+All right.
+So this is one of the most popular products of behavioral economics and it resonates with
+a lot of people.
+But at the same time let me just suggest it's much more confusing and less clear than people
+would have you believe.
+All right.
+Like one thing to consider is why assume that the long run plan is the real plan and the
+short run plan is the fake plan.
+Right?
+Maybe it's the other way around.
+So maybe the real you is the person that doesn't like exercising and enjoys eating.
+And the fake you is the person writing New Year's resolutions.
+All right.
+Because like you know how many days of the year are you the short run person?
+364 days of the year.
+How many days of the year are you this long run person?
+31.
+Are you even the long run person the whole day on that New Year's day?
+Nope.
+So you might think hmm.
+And then furthermore there's also a frequent undertone of we all know that it's the long
+run plan that's better.
+Ever known anyone with really stupid long run plans?
+Like you know like my brother is a classic example.
+He's the kind of guy who would go and buy a lifetime gym membership before he ever even
+tried exercising.
+And then he'd do it for two days.
+Like I hate this.
+Oh wow I'm not going to go anymore.
+And I'm like you know what?
+I think you made a good choice there because you want to spend the rest of your life doing
+like an hour of something you hate every single day.
+Right.
+And how strong is the evidence that doing this exercise makes you live longer anyway?
+Right.
+Like is it really that solid?
+And you add up all the hours of misery.
+Is it really actually increasing your number of years of happy life to be doing this stuff?
+Right.
+Or you know someone who only eats what they consider super healthy food, consider that
+living.
+Is that really actually a worthwhile life?
+So you know I'll give an honest answer of how many extra years of healthy life would
+you have to have to never eat meat or sugar again?
+Yeah.
+It's like some of my, two of my very favorite things in life.
+Right.
+So it was like well like is there anything, like what substitutes are available?
+Let me try this.
+I was like ugh.
+No I don't want to do that.
+So there's that.
+All right now.
+There you go.
+Another point.
+So I do have an article on this called Preferences, Constraints, and Mental Illness.
+And that is that you know there is this language of self-control which is also closely linked
+to the language of addiction of saying look what I really want to do is be a good father
+but what I actually do is drink away the family money.
+What I really want is for my children to have food but what actually happens is the money
+somehow gets spent on alcohol.
+And this is sad and I feel terrible about it.
+Now there are of course behavioral economics has models like dynamic inconsistency where
+you take people at their word and when you see someone spending the family money on alcohol
+while crying about the hunger of their children you just say my god this poor, poor person
+here to have to keep spending the money on alcohol and drinking it while their children
+starve.
+Imagine how they feel about this.
+No wonder they drink.
+They're so miserable from looking at the suffering of their children.
+All right so anyway this is a model where you just assume that what addicts are saying
+is true.
+It's a correct description of their experience and then you come up with a model to explain
+that.
+Right now.
+Here is now one of my less popular insights but it's almost undeniable if I tone it down
+enough and it's this.
+So what is one reason why most alcoholics aren't even more severe alcoholics?
+Yes well because other people hassle them and nag them and get mad at them.
+The other people in their lives are there giving them grief for being alcoholics.
+All right.
+Now all right so pretty simple point.
+If you have a drinking problem the people in your life, friends and family generally
+are not that accepting of it as an alternative lifestyle.
+Instead they're not happy especially if your behavior impinges on them.
+Like if you smash your friend's car while drunk and then you start saying this is terrible
+and then your friend is like okay I understand that you have a disease but still you smashed
+my car and they're mad.
+All right now when you are in the situation of having people angry at you over your habits
+suppose you have two different rhetorical strategies that you could use to try to deal
+with the situation.
+One is look I love my favorite beverages more than I love my family and I want you to know
+it.
+That's one thing you could tell them.
+The other thing is you could say I'm an addict poor me I don't want to do this.
+Which one is likely to get harsher punishments from friends and family?
+The I prefer a beverage to you or I want to change, I want to change please help me.
+Okay yes right now if you're in a world where people are more forgiving of the person who
+says I can't help myself poor me what would you expect a lot of people to do regardless
+of the truth of the matter?
+I can't help myself poor me please help me I need help.
+Now notice I have not made any extreme claim here just saying that there is a tendency
+toward for people to exaggerate how little choice they have and how much they want to
+change.
+Right does that sound crazy, monstrous, unscientific?
+To me this is so common sense and I just can't imagine a person denying it.
+I haven't had people to say you don't know what you're talking about.
+It's like look I've toned this down to a point I don't think you could really disagree with
+it anymore and they go no I disagree.
+Every single alcoholic, every person with a drinking problem the reason why they say
+what they do is nothing to do with liking alcohol more than their family and everything
+to do with being unable to change.
+And then so in the paper I go over a bunch of different bodies of evidence that are relevant
+such as you know their literature they estimate the price elasticity of demand for addictive
+substances and what do you think it generally turns out to be?
+Elasticity demand for alcohol, heroin, cocaine, marijuana.
+I would assume that elastic demand.
+Yes well you know it's even simpler.
+What is the sign?
+What is the sign?
+Negative right?
+Apparently there's a whole bunch of users even of very hard substances who do change
+their behavior with response to price and if you change your behavior when the price
+changes this strongly suggests that you were capable of changing before the price changed.
+Right?
+What do prices do?
+Okay if someone said I'll pay you a million dollars to fly to the moon in the next five
+minutes would that get you on the moon?
+No because flying to the moon is outside your budget set.
+It's not physically possible for you.
+But on the other hand if it were to like get to the top floor of this building for a million
+dollars well you do it right because that is in your budget set.
+So and again note this is not saying that people are facing incentives it's just that
+if a very strong incentive would change your behavior it shows that you could have chosen
+something else and therefore it's not true that you were forced to do it or had no choice.
+Yes?
+I can make the argument that any increase in the price of heroin or alcohol or anything
+like that could be outside the budget set of the addict too right?
+Well again this is why we have to be empirical.
+This is why we have to look at the empirics and say actually they find that it does have
+a negative slope.
+But that's what I'm saying.
+So like maybe I mean so in some cases it would mean that it could have changed before the
+price changed but the price could go up so much that they just can't afford the substance
+anymore right?
+Yeah, yeah, yeah.
+So again we will like again it can't go up so much they can't afford to buy any right
+for example.
+Yeah meaning of course normally like all price elasticity studies this is looking at moderate
+changes right although in the paper I also do talk about psychiatric treatment programs
+where they just where they use incentives to change behavior and wow even on people
+that are diagnosed as being helpless somehow incentives change their behavior.
+And now this doesn't show that every single person will have their incentives change every
+single time but it nevertheless is quite different from a story of sheer helplessness of people
+right?
+Okay so then I've got a blog post called the Addiction of Social Desirability Bias where
+I point out so suppose you ask somebody to go to their party and they say oh I can't
+make it.
+How often is it literally true they can't make it to your party?
+Right I just can't help it.
+I just can't do it.
+Right now if they are in Asia and the party is in an hour then there may actually be no
+form of transportation will get them there.
+But normally in that case it would literally be true I can't come to your party it's outside
+the budget constraint.
+But normally when someone says I can't come this is a polite way of saying I don't want
+to come I have something better to do it's too much like the benefits of attendance are
+lower than the cost from my point of view.
+Right a bunch of things which again notice how do people respond if you invite them to
+a party and you say sorry the benefits are lower than the cost?
+Are you likely to ever get an invitation from this person again if you respond that way?
+So basically this is a case of people are lying to be polite and they are being polite
+so in order to get what they want.
+So what I suggest in this paper on Parkinson's and Transmental Illness is a lot of times
+people use the language of addiction or helplessness it is directly analogous to I can't come to
+your party.
+I can't stop drinking is like I can't come to your party.
+This is a case of both cases they are trying to avoid the social punishments for the truthful
+answer of I don't want to stop drinking I like drinking you and the kids are boring
+compared to whiskey.
+All right so now is this a complete story of everything?
+Maybe maybe not.
+So in the paper I actually propose some tests for how you would ever know the difference
+but does this explain a lot of what is going on in the world under the heading of addiction
+and mental illness and so on?
+It seems to me that it has got to.
+And then of course why is my story so rarely voiced?
+Because my story is also rude.
+It is a rude unpleasant but truthful story.
+So there was a while I tried to stop saying things like I can't come.
+It is too vulgar.
+It is just the way people have a talking but still.
+All right so questions about that?
+So I can't come to your party I can't stop using heroin.
+Perhaps those are not just grammatically the same but also substantively the same.
+It is reflecting preferences that are disapproved of and it is spread annually.
+Yes of course just acting on preferences that are socially disapproved of is bad enough
+and gets you in trouble but defending open loudly and openly and endorsing your socially
+disapproved preference this is what gets you in earlier centuries say burned at the stake
+or put in a mental hospital and lobotomized.
+So see the case of what is it Rose Kennedy the Kennedy sister that got lobotomized and
+why was she lobotomized?
+Well she was sleeping with men below her social class.
+Her brothers did that they were not lobotomized and that was it.
+They were sleeping with women below their social class.
+But anyway so there is a case where the family was very unhappy and she was defiant and so
+put her in a hospital and lobotomized her.
+Okay all right so there is a lot of striking examples of these things but what do they
+mean in the real world?
+So it doesn't seem like there is a lot of abundant opportunities to loan money to people
+in 100% interest.
+But now there is other things so anyone ever heard of a website started by a couple of
+economists I remember called sick.com?
+Yes one person has heard of it.
+It still exists.
+So this is a website where if you believe you have a self-control problem they have
+the solution.
+Namely this is a website where you can set up a contract and there are different ways
+of doing it to overcome your self-control problem.
+For example if you want to lose 100 pounds but you don't feel like you have a self-control
+then you can go and use the website to basically you can go and pre-pay them and then you commit
+to weigh in somewhere at the end of the year.
+And then so suppose you go and pay them $10,000 and then at the end of the year sick.com refunds
+$100 for every pound that you lost up to 100.
+So this is a way that you can go and change your incentives in order to try to overcome
+your self-control problems.
+There are I think some thousands of people on earth who have used the website.
+Now how does this compare as a percentage of people who claim to have a self-control
+problem what is a few thousand people?
+So how many people on earth claim to have self-control problems?
+Billions and then how many are using the website?
+Thousands.
+So maybe like one person in a million who actually claims to have a self-control problem
+and actually wants to do much about it.
+And again by the way you don't have to use this website I'm also happy to help you solve
+your self-control problems.
+So it just consists in you pre-paying me money and then if you fall short of your goals I
+keep your money and if you actually live up to these goals then I give you your money
+back.
+So I mean I'm available so to say like let the money flow in.
+Now notice if the simple self-control theory were true then like this would be a thriving
+industry people would love it.
+But in fact there's almost no demand which again to my mind is further confirmation that
+when people say they can't what they really mean is I don't want to.
+Why do you go and form these grandiose plans that you don't want to live up to?
+Like why do people go and have ridiculous New Year's resolutions like I'm going to lose
+200 pounds?
+Signaling.
+Yes.
+Well signaling but like that could be the sophisticated theory but like even simply
+simpler like you don't even need any economics like why does someone go around saying you
+know what I'm going to do?
+Like why does a five year old say I'm going to be an astronaut?
+It's easy to say.
+Yeah like you just feel good about yourself you go and brag.
+At least for a lot of people you know the good they feel about themselves when they're
+puffing up their peacock feathers seems to be much greater than the shame they feel when
+things don't work out.
+You know like how could that be?
+Well a lot of it is people don't remember what you said you were going to do.
+And you even forget.
+And then furthermore there's also it's very rude to point out that someone didn't live
+up to New Year's resolutions.
+Yes.
+So on New Year's are you at parties and somebody has a resolution you're like I bet you won't?
+I don't know anyone who does this anymore but yeah let's see.
+I mean you know it depends upon whether I even matter to me if the person was mad at
+me.
+Right and you know so actually so like you know people with a bad temper then I wouldn't
+want to deal with them because like if I did have someone that I thought was sincere and
+they're a reasonable person then I might say well here's the offer.
+I don't think it's too likely they would say yes but.
+So in general I don't help people who resent me for helping them.
+So it's a pretty good system.
+When I was young I tried helping everybody.
+But then I found out people hated it so I stopped doing it.
+All right so we're now ready to move on.
+All right so behavioral economics and rationality part two.
+All right so we've done choice theory now we're going to do belief formation.
+All right so in your basic micro in the first couple weeks of say Williams class belief
+formation against the law of extension by their standard assumption.
+So standard assumptions and most work relies on these assumptions.
+All right and if you're an economist especially if you got your PhD after the rational explanations
+revolution then you usually refer to the violations of these assumptions on the basis of the
+belief formation as irrationality.
+Irrationality.
+Alright?
+And no, irrationality is distinguished from mere ignorance.
+Ignorance is when you just happen not to know.
+Irrationality is when there's something fundamental
+going on, some violation of basic logic.
+Alright, and intuitively there's two different reasons
+why you might make a mistake.
+It's like lack of information,
+or there could be what you call irrationality or stupidity.
+So again, you could have a problem where logically
+all the information you need is there
+and you just fail to piece it together.
+Or, you could simply be beyond your experience
+and then you have no way of knowing it.
+Alright, now, this distinction is uncontroversial in theory.
+You know, like you could be ignorant
+or you could be irrational.
+But economists don't like calling people irrational.
+We're seeing the old movie A Fish Called Wanda
+where the Kevin Kline-based hitman
+who's very sensitive about his intelligence
+and he's really stupid, so people often call him stupid
+and then he's rather tempted to immediately murder them
+or take out his gun, don't call me stupid.
+Alright, so many economists have the mentality
+don't call anyone stupid.
+Who are you to claim that some other person is stupid?
+They're just ignorant.
+That's all that's going on.
+But, some claims about rationality are empirically testable.
+So remember back in week one when we did Bayes' Rule.
+When we did Bayes' Rule.
+Bayes' Rule, alright.
+So even if you don't put any restriction
+on prior probabilities, there's some testable implications.
+Like, the probability of A and B
+must be less than or equal to the probability of A alone.
+It's like, well, duh.
+And yet, as we're gonna see, there are experiments
+where they get people to not do that.
+Again, so there are experiments where you get people
+to violate even that really weak assumption.
+And then of course, you can get people
+to violate Bayes' Rule itself.
+Right, and that's something that almost everybody does
+until they memorize the theorem, right?
+So, you remember the example that I gave
+where there's a medical test
+that has a 1% false positive rate
+and it tests for disease that one person in 1,000 has.
+And it always works if the person has it.
+And then conditional upon testing positive,
+what are the odds that you have the disease?
+Right, and people wanna say 1%.
+And the actual answer in the scenario
+is usually really high, it's usually like 95%, right?
+Well, let's see, I guess it's got 1% false positive rate.
+Yeah, that'll be like 10%, okay?
+Right, so you remember those problems, and again, why?
+Well, there's 1,000 people that,
+there's supposed to be 999 people who are healthy.
+One is sick.
+When you go and test the one person,
+that person will test positive, right?
+The 999 people, though, who are healthy,
+if there's a 1% false positive rate,
+how many of those people are gonna test positive?
+Roughly 10, right?
+And then there's gonna be 10 false positives
+for every one true positive.
+And so, given that you test positive,
+what are the odds that you really got it?
+It's like one in 11, all right?
+And this is the kind of reasoning
+that is very baffling to almost everybody
+who is not trained in it.
+And even people who are trained in it,
+if you just take the problem outside the classroom
+and you don't make it about a false positive rate
+for a disease, instead, maybe you make it
+for false positives for gaydar identifications.
+Right?
+Right, and you don't use the word false positive
+just to cue people in, but it's like,
+well, conditional upon a guy wearing a pink shirt,
+what are the odds that he's gay?
+All right, so, yeah, so again, that's one where,
+right, like, you can easily,
+we have this way, you can easily imagine people
+failing to apply Bayes' rule
+when they answer that question, right?
+And instead, just saying, oh, well.
+Okay, now, a stronger rationality assumption
+would be rational expectations.
+Remember, how we did rational expectations recently?
+All right, key point, almost all modern economic models
+assume rational expectations.
+It's assumed so standardly that often when you read
+the paper, they won't even tell you why they're doing it.
+There won't be a part where they go and say,
+and imposing rational expectations.
+There'll just be a part of the math where somehow
+the fact that in the real world, the probability is A,
+somehow migrates into people's beliefs about the world.
+Like, how does a fact about the world migrate
+into people's minds without anyone explaining the process?
+It migrates via the rational expectations assumption.
+Rational expectations assumption,
+which is so taken for granted
+when you're doing this kind of modeling
+that you may not even need to say why you did it, okay?
+And rational expectations, as we've seen,
+has a pair of implications.
+So, no systematic errors.
+If there's a pattern to the mistakes,
+then you have violated it.
+And then, errors uncorrelated with the available information.
+And if you could predict errors using prior information.
+All right, now, earlier model, even earlier models
+almost always have something like
+rational expectations in mind.
+So, even before rational expectations,
+if you read Adam Smith, there's something like
+rational expectations even in Adam Smith
+and people like that, how so?
+All right, well, think about a standard story
+about price controls we've been telling for centuries.
+All right, so, we say,
+well, if you go and impose rent control,
+what's gonna happen is that landlords are going to go
+and pull housing off the market,
+and they're going to stop building.
+All right, but suppose that landlords
+were completely unaware of the real world.
+Suppose that they systematically underestimated
+the extent of price controls, or rent control.
+So, suppose that the fact that rent control exists
+did not migrate into the knowledge of landlords,
+and they kept acting as if there were no rent control.
+Then, is there any reason for rent control
+to affect the quantity of housing supplied?
+No, right?
+You know, so, even a story is like,
+if you take everybody's food away from them,
+people don't wanna grow food anymore.
+It's like, well, you're assuming that they're aware
+that you took their food away from them.
+You're assuming that they predict
+that the future will resemble the past.
+It's all just a bunch of assumptions.
+Prove it.
+And yet, of course, economists have been making arguments
+like this for a long time, and very recently so.
+People, usually, if you do something to people that big,
+they notice.
+But it's not a mathematical theorem
+that people are not oblivious.
+You know, just imagine a world where all the landlords are,
+they're like 105 years old,
+and then you impose rent control.
+Like, do you really think the 105 year olds
+are going to be saying,
+oh my God, the rent control!
+Well, I gotta get on top of this.
+Right, maybe 105 year olds will just be like, what?
+What does this say?
+And then maybe they go to the tenant,
+what does this say?
+Nothing, okay.
+All right, and maybe it's like that.
+All right, so anyway, so we got a big empirical literature
+that discovered deviations from rational expectations,
+elemental probability theory,
+and as we go through it, I'll be playing devil's advocate,
+but I'll give you some reservations as we go along.
+All right, let's see.
+So we're a little behind, so let's just skip section two.
+It's not integral to the narrative.
+Let's move on to section three.
+So belief, perseverance, and confirmatory biases.
+All right, so Bayesian framework's all about updating.
+Right, so what do Bayes rule?
+You start with a prior probability,
+and then what comes along to change
+prior to prior probability?
+Starts with an I.
+Information, and when you take a prior probability
+and adjust it for information,
+that yields a blank probability.
+Conditional.
+Yeah, a conditional or posterior probability.
+All right, so that is the whole idea of the Bayesian
+framework, but there are experiments showing
+what's called belief perseverance,
+where people start with a prior,
+and then you give them information,
+and they either ignore the information,
+or they may even respond perversely to the information.
+Right, so, right.
+Now, there are some experiments showing people
+can be more accurate with less information.
+So one famous experiment involves starting
+with a somewhat blurry image,
+and then you gradually clarify it
+until it's only kind of blurry.
+Right, so the key thing, you start off with it
+quite blurry, and then you make it clear
+to the point, but never totally clear.
+So go from very blurry to somewhat blurry.
+Right, and in the experiments, what they find
+is that if someone starts off with it very blurry,
+and then you gradually bring it into focus,
+they're actually less accurate than someone
+who only sees the final image.
+And this is odd because both sides see the final image,
+but the people that have more information,
+but there's people with more information
+who wind up being less accurate.
+And the usual story is you see something very blurry,
+and then you form a theory about what you're
+supposed to be seeing, and then when it comes
+into focus gradually, you tend to reinterpret
+the evidence in the light of your initial theory,
+which then actually leads to lower accuracy.
+So again, this would be like watching
+a whole detective show, and like at the beginning,
+you get your theory about who the culprit is,
+and then only five minutes before the end
+when all the evidence is accumulated,
+you have, there's actually evidence
+that you will be less accurate than a person
+that didn't see the whole progression of the show,
+and just five minutes before the end
+just saw a list of all the evidence,
+and then made up their minds based upon
+the totality of the evidence at once
+rather than it coming in bit by bit.
+Yes?
+So like what a similar phenomenon being on a test
+where like the professor gives like meaningless information
+and the students like try to take it.
+Yeah, yeah, yeah, that would actually,
+that would also be a good example.
+So yeah, give some extraneous information
+and then the student, again, like you just throw away,
+you know, like a theory just to throw away
+the extraneous information.
+Body of fact, again, like on a test you might say that,
+you know, this is one where you might actually
+be making an inference of the very fact
+that he bothered to tell you,
+show that it's of this importance.
+So it's not as good an example of one
+where you're actually trying to draw an inference
+about just the world.
+Well, the world presumably is not trying to trick you.
+Right, although when you think about it more,
+say wait a second, this is an experiment
+designed by a psychologist who probably
+wouldn't be able to publish it
+unless people came up with dumb answers.
+So then maybe it is more like a test when you think about it.
+So that's a reason to be a bit skeptical of this.
+All right, now, other experiments find
+an even stronger effect and this is the stuff
+that I find very interesting and also there have been,
+there have been multiple confirmations of this recently.
+So it's on pretty solid ground,
+which is that at least for some kinds of bipolar disease,
+once people believe them,
+they tend to grow increasingly confident.
+And why?
+Well, because they're very likely to notice
+anything confirming the initial evidence.
+And if you give them some ambiguous evidence,
+then they tend to misinterpret it as further support.
+And this is a special name,
+it is known as confirmatory bias.
+Or also confirmation bias.
+So you believe a theory and then you look around the world
+and say, my God, my theory is so confirmed.
+Everywhere I look, I see proof.
+Right, and the standard common sense reply to this
+is you say, look, I see so many pieces of evidence
+in favor of my theory, so it's gotta be true.
+It's like, well, did you look for evidence
+that your theory is wrong?
+And then you might find a whole lot of examples of that.
+Right, like if I reside a theory
+that all men have short hair.
+I just look around and say, my God,
+I see a whole bunch of theory,
+well, like confirmation everywhere.
+It's like, well, why don't you look for cases
+that are, where that's not true?
+A man with long hair.
+And then you know, oh, hmm, all right.
+But once you've got a theory, it's your theory,
+then you start looking around for, let's work with this.
+All right, so there is a great experiment
+involving the death penalty.
+Here's the design.
+Step one, we find out who favors the death penalty
+and who opposes it.
+All right, great, so now, so this begins with actual views,
+your actual position on the death penalty.
+All right, then we randomly assign people
+to two different rooms.
+In room one, you are shown cross-sectional studies
+that support the death penalty's deterrent effect
+and time series that deny the death penalty's deterrent effect
+In room two, you do the opposite.
+In room two, the time series supports the death penalty
+and the cross-section goes against it.
+And what do you find occurs
+to the confidence of all four groups?
+They stick with, worse, they all claim vindication.
+And how do you claim, how do the people
+in all the rooms claim vindication?
+Well, if the cross-sectional evidence is for you
+and the time series evidence is against you,
+it's just time for a little methodological reflection.
+What kind of evidence is the good evidence?
+The cross-sectional.
+Yeah, whatever supports you is the good evidence.
+What kind of evidence is totally meaningless,
+irrelevant, debatable?
+Yeah, government goes against you.
+Right now, of course, if this were not an experimental
+design, you could sit around debating
+which kind of evidence actually is better or worse.
+But since it's an experimental design,
+we can show is that people, in fact,
+will interpret whatever favors them to be the good method.
+So it's a case of abject intellectual corruption,
+where you pretend that you are applying
+methodological standards, whereas really,
+you are just finding out what gives the right answer
+and then you are inferring what the good method is
+and then using this inference as further support
+when in fact, all that you could really,
+the only honest thing you could say would be,
+look, since this is true, then studies that find it are good.
+But then, of course, if that's the way you're reasoning,
+it's not really additional evidence, is it?
+In order to be additional evidence,
+it would have to be an amazing framework.
+I'd like to link it by this way.
+Suppose that you believe, so you think
+the death penalty is great and you think
+empirical methods are good and then you go
+and get some empirical evidence saying
+that the death penalty works as expected.
+So when should that actually give you
+genuine extra confidence?
+If the study is even more supportive than you were expecting
+and similarly, when should you,
+wait, like suppose that the study comes out
+in support of your view, but you expected it
+to be supportive, so then you should actually
+become less confident if the study
+isn't quite as supportive as you're expecting.
+This is a lot like a company can announce profits
+and the stock goes down, why?
+Why would the price go down when profits are announced?
+Not lower than it is.
+Yes, because people were expecting better profits,
+even more.
+Similarly, if the evidence is less supportive
+than you were expecting, but still supportive,
+this is a reason to actually reduce your confidence.
+How many human beings do this for any juicy issue?
+Yeah, very, very, maybe not quite none,
+but yeah, very few.
+It's very rare indeed.
+All right, let's see.
+And there was a Yale psychologist, Dan Kahan,
+who came up and he was actually reporting
+on studies of ideologically driven overconfidence.
+And yeah, so this stuff is awesome.
+All right, so it's very easy to show
+that not only do people go and give the answers
+that their ideology tells them,
+even on things that are very technical,
+where you might say, how the hell can a philosophy
+tell you what elasticity of labor demand is?
+And in fact, when people learn
+about elasticity of labor demand,
+how many people are smart enough to immediately see
+whether high is good or bad for liberals or conservatives?
+Almost no one is like, oh my God, okay, so now,
+all right, reason it through.
+So as long as you're just teaching it as responsiveness
+of the quantity of labor hired, which is the wage,
+then people are like, okay, boring.
+Right, but then as soon as you say,
+now you realize this is implications for the minimum wage,
+it's like, oh my God, which way do I need to go
+to give the answer I want to believe?
+And it sure seems like it's easy to spot
+this kind of abject intellectual corruption
+in the way that people approach things.
+All right, so and again, you can try to think about cases
+where people on your own side believe in this, so yeah.
+I'm a big fan of drug legalization,
+and yet when fellow fans say,
+there's no evidence that punishing people
+for using drugs reduces demand
+and reduces quantity used at all.
+What?
+That's crazy, of course it delays,
+like this is at least the kind of thing
+where there have to be a mountain of evidence
+showing that it doesn't
+because all common sense says that it does, right?
+And again, if you think about it,
+essentially it's a case where if common sense
+supports your view, then common sense is true,
+whereas if common sense does not support your view,
+then it's like, look, I haven't seen a single scrap
+of evidence good enough to say anything about this ever.
+Shouldn't we just start with common sense
+and then if no evidence comes in,
+just stick with common sense?
+No, no, we assume whatever is most favorable
+to my world view until conclusive proof arrives otherwise.
+And you know how often that conclusive proof arrives?
+Never, never arrives.
+Unless of course it finally supports you, like wow.
+All right, okay, so anyway,
+so Dan Kahan had these experiments on,
+so not only do people just believe whatever's convenient,
+but also people express an extraordinary level of certainty
+for the issues you might think of
+as extremely technical and far beyond their experience.
+Then he has variations showing that
+if you start charging people for making mistakes,
+then the confidence starts going down.
+And then he has a bunch of different interventions
+and finally basically when he puts
+as much pressure on them as possible,
+he's able to get most of this bias away.
+First of all, they have to be given the option
+to admit they don't know.
+Because people, and people like,
+people don't use that option
+unless you combine it with incentives usually.
+So it's like, so is minimum wage,
+reduce employment or not, or you don't know.
+People usually don't use the don't know option
+unless there's actually a penalty for being wrong.
+So until you're wrong, everybody knows.
+Right, or rather until you're penalized for error,
+then everyone claims to have knowledge.
+And then that's enough to get people to say,
+all right, fine, I don't actually know.
+I wish, I don't really know.
+And then furthermore, if you start penalizing them for,
+you know, like for, like the further they are
+from the truth, then you can get confidence,
+then you can get, express confidence down more.
+All right, so on.
+All right.
+Okay, all right, so questions about death penalty
+and stuff like this, right?
+And to me, this is one of the most obvious,
+obviously blatant facts about the way people do,
+do the reasoning, especially the political reasoning.
+I mean, like I am at the point where like
+almost everything people say about politics
+just seems so horrible and corrupt to me
+and I just can't bear to listen to almost anybody.
+It's just like, this is so terrible.
+And including people who agree with me,
+I'm like, I don't even want you to agree with me anymore.
+I just want you to be quiet.
+Because you don't see, like you're talking,
+you don't know anything.
+I'm like, I don't want your support anymore.
+I just want, I just want like either be with me
+for the right reasons exactly or stay away.
+And I think I probably mentioned the work
+of Phil Tetlock, a political psychologist before.
+Yes, he's done a lot of work on trying to measure
+how good you are at actually predicting things, right?
+And there are many very common sense things
+you can do to improve your predictive abilities.
+One, get some sleep.
+One is to settle upon a metric of success in advance.
+Ooh, that's a really controversial one, right?
+Because what happens if you wait for events to occur
+before you announce the metric for success?
+What do you think normal, weak human beings do?
+Interpret whatever occurred as proof
+of what it was that they believed.
+And actually, people are even worse than this.
+Often people will, if they make a mistake in their prediction
+they will simply conveniently misremember
+being right all along.
+And that's where you'd want to have documentation
+saying this is what you said, signed by you.
+See, like, oh yeah, I guess I said
+apartheid would last forever.
+Well, all right.
+And so, you know, Ted Locke has one book,
+Expert Political Judgment, where he goes over
+the big tournament among political experts
+and shows not just how they did quite poorly,
+but what's really striking is how people cope
+with their own failures.
+Because, you know, essentially there's almost no
+intellectually honest coping that you can find in the data.
+So, an expert on South Africa says apartheid will
+last forever and then three years later it ends.
+All right, so what do the experts say?
+The first thing is he just misremembers his own prediction,
+so that he was right all along.
+And when you cut that away from him,
+then, you know, like next stage is to say,
+well, I was almost right.
+I was almost right, you know, like, you know, like, right.
+And then sometimes they'll say, well, you just can't
+predict these matters anyway.
+It's like, well, why didn't you say it was unpredictable
+when you made the prediction?
+Why do you wait until you have failed
+and then start saying that predictions aren't possible?
+Maybe they just aren't possible for you.
+Maybe that, isn't that a better story
+that you are a sore loser?
+Right, now, Tadlock is so nice to them.
+And also, he was all, it was all conditional on anonymity,
+so he never outed anyone as a giant fraud.
+You know, even though plainly, they're,
+now they're the only, there were a few people
+that were not in the tournament who just publicly
+said ridiculous stuff, like Henry Kissinger, right?
+A guy who, as far as I can tell, is wrong about
+almost everything he's ever said in his entire life,
+yet is considered a genius, a Machiavellian strategist
+of the highest order.
+It's like, you know, like, you were,
+the North Vietnamese crushed you, like, what else,
+what else, what's your other claim to fame here?
+It's like, well, I have a very progressive accent.
+You know, I sound really smart when I talk about things,
+and I talk about this and mumble a bit, and, right?
+So, anyway, Henry Kissinger, when he was asked
+about his failure to break the end of the Cold War,
+which he had many times given very strong predictions,
+like there's no hope, and then he just said,
+well, their crystal ball worked better than mine, ha ha.
+So, what you're saying is, what, you are like an astrologer,
+and the other astrologers got lucky,
+but we shouldn't judge you negatively
+because you're not worse than they are?
+What is the theory here, is like, say, like,
+that seems to be comparing himself to an astrologer,
+which suggests to me that he is scum,
+and should not be repeated by anyone,
+and just be driven out, tarred and feathered,
+and expelled from civilized discussion.
+But, of course, that did not happen, right?
+So, first of all, misremembering,
+and then, I was almost right, I was so close,
+or predictions are possible anyway, right?
+And then there's also, like this one is one of the sleaziest,
+say, look, sure I was wrong, but I made the right mistake.
+And what does that even mean?
+Basically, it means that you should be really risk averse,
+and so I'm like the boy who cries wolf,
+and that's good to be like the boy who cries wolf,
+because maybe a wolf will come one day.
+And that's what these people have,
+and it's like, what?
+That, you know, so, you know, like out of people
+who predicted that there would be a horrible,
+you know, like horrible terrorism, or a horrible war,
+or genocide, or whatever, and then it doesn't happen.
+Quite a few just say, look, fine, I was wrong,
+but we should always plan for the worst, right?
+So, basically, you're admitting that you were lying to us.
+And why?
+Because you think that if you tell the truth,
+then people will say, that's low probability,
+it's not worth many resources,
+which is, in fact, the reasonable thing to do, generally,
+is not to put a ton of resources into things
+that are really bad, but hardly ever happen.
+Certainly, if you've got things that are really bad,
+and happen a lot, and other things that are really bad,
+and hardly ever happen, which should get more resources,
+things that are really bad, and happen a lot.
+Yes, please.
+I just wanted to point out, and then, later in the book,
+one, experts who got things right,
+they never give people who got things wrong any of the,
+Oh, yes, yes, yes, yes, also good, yes.
+So, the people were right, you know,
+like they claim it's scale.
+So, if I'm right, it's scale, if I'm wrong, it's bad luck.
+So, again, suggesting even the ones who got it right,
+there's something very fishy about these people.
+All right, now, the main thing you can say
+in favor of Tetlock's experts is that there is that
+he only asked questions that were controversial
+in their experts, and so, it really wasn't possible
+for the average expert to do well in his study.
+So, and he explicitly said, like,
+I've never asked questions like,
+will there be a war between Norway and Sweden?
+So, when people summarize it saying,
+experts don't know more than regular people,
+no, they do, they know more about
+the uncontroversial stuff.
+But, of course, experts have a lot more fun
+arguing about the controversial stuff.
+That's more likely, probably more likely to be televised,
+but the debates are real.
+All right, and then Tetlock has his follow-up book,
+Superforecasting, where he runs huge tournaments
+trying to find people who are able to do
+what his experts were not able to do,
+which is accurately predict the future.
+And furthermore, he goes and does the obvious test
+to make sure those people didn't just get lucky
+by rerunning tournaments and seeing if the people
+that did really well the first time
+do above average the second time,
+and with many different experimental variations,
+and yes, there are actually people who can break the future,
+and they have a number of interesting traits,
+which we can all try to emulate.
+But basically, it starts with being the opposite
+of those experts I just described.
+All right, okay, so questions about this?
+Everyone ready to repent and live a totally new kind of life?
+Yeah, so, Tetlock himself is so modest
+and such a nice Canadian guy,
+and I'm kind of like the apostle,
+like just berating people for like,
+the prophet has told us how we must live,
+and you are sitting against the vain Tetlock, right?
+And Tetlock's like, oh, all right.
+But really, he just, after reading him,
+people are so disappointing.
+But this is inspirational.
+I don't wanna be like regular people anymore.
+I wanna be like, I wanna be a super forecaster,
+and how can I do it?
+All right, now, more general terms,
+there's some evidence of systematic overconfidence.
+So again, the simplest way of testing for overconfidence
+is just to graph, say,
+let's suppose this is a true-false question,
+so it only makes sense to go and show probability
+being 0% or 100% because you thought the probability
+you're right was less than 50%,
+you'd give the definite, you'd flip your answer, right?
+All right, and so this here is the probability
+that this is the actual percentage correct.
+So this is like actual likelihood that you're right,
+and this here is the perceived probability
+that you're correct, right?
+So if you're on the 45-degree line,
+then this means that you've got
+what's called perfect calibration,
+where if you say 90% chance,
+then you've got a 90% chance, okay?
+All right, now, in practice, as you might guess,
+people are quite a bit less likely
+to be correct than they perceive, right?
+So if, say, you say 60% chance of being right,
+then you are going, you know,
+then it's gonna be more like 55,
+if I say, let's say, 60,
+and, you know, like, if you say 100,
+then, again, like, usually you're probably
+only like 80% right if you say 100,
+so again, like, if the true line looks like that,
+so this is the 45-degree line,
+and this is, like, the actual line, all right?
+So in that case, this would indicate overconfidence, right,
+where you think that you are right
+with a greater probability than you, in fact,
+objectively are, right?
+Okay, all right, so, you know,
+this is pretty easy to find
+if you go and ask people question by question
+how well they're doing,
+although this is one of the results
+that is more sensitive to the way
+that you ask the question,
+so if you change the question around and say,
+like, how many questions total do you think
+are right in this exam?
+There's quite a bit less evidence
+that people are overconfident,
+so there's a German psychologist, Gerhard Gigerentzer,
+that has spent a lot of his time just saying
+that the results that behavioral economists
+get excited about are, in fact, overstated, right?
+But, you know, there are, you know,
+clear cases of overconfidence on things
+that are very close to people's self-image.
+For example, there's tests on, you know,
+asking professors, do you think that you're
+more productive in the media
+than the rest of your department?
+And, yeah, what do you think?
+Almost all professors say, yeah,
+they have, like, 90% claim to be more productive
+than the media in their department.
+Similarly, with, like, compared to driving ability
+of the media, overwhelming majority of people
+think that driving ability is better.
+If there's one study of high school kids
+that asked the 2,000 kids, like, you know,
+would you say that you are better, average,
+or worse than average at relating socially with others?
+And they got 2,000 kids surveyed,
+and zero said they were worse than the average kid.
+Which, you know, I think it means I was not in the survey.
+I'm pretty sure I would have said I was worse.
+But I don't know.
+But anyway, so there's that.
+Okay.
+All right, so, questions about this stuff?
+Happy?
+All right, so why don't we go and take a break now.
+Please, back to work, please.
+All right.
+All right.
+So now we will continue our journey
+through people's cognitive failings
+when we are ourselves somewhat tired.
+But does an economist care about being tired?
+No!
+We are not daunted by this.
+We are not subject to these normal constraints.
+And so we will proceed at the full height of our abilities
+as we look down upon the failures of others.
+All right.
+All right.
+So, availability and representative-ist biases,
+two of the ones that economists have talked about the most.
+All right.
+So, people often estimate probabilities
+based upon the ease of thinking of examples.
+And this is known as the availability heuristic.
+The availability heuristic.
+So, can I think of examples easily?
+How many examples can I think of?
+If you can't think of many, then you say,
+well, then I guess it must be unlikely.
+Right, on the other hand, you know,
+if you can think of a lot of examples really easily,
+then it must be likely.
+Okay.
+So, you know, like people with dogs.
+All right.
+Well, you can think of a lot of people with dogs,
+so probably high probability of people with dogs.
+People with chinchillas.
+Hmm.
+Can't think of anybody like that.
+So, probably the odds that the person has one is low.
+All right.
+Now, sometimes this is a useful heuristic.
+In fact, probably a lot of times it's a useful heuristic.
+Can I think of any time that it's ever occurred?
+No, well, then it probably hardly ever occurs.
+All right.
+So, but it does sometimes generate
+reliably biased estimates.
+In particular, if things are vivid or memorable,
+things are vivid or memorable,
+then we tend to overestimate probabilities.
+So, the main one that's been done experimentally
+is pretty dry, and it says, well,
+are there more words in the dictionary
+that start with the letters A
+or have the word, where the letter I
+is the third to last letter in the word?
+All right, so they still, so,
+probability that a randomly selected word in the dictionary
+starts with A, versus probability
+that a randomly selected word in the dictionary
+has I as the third to last letter.
+Can you think of a lot of words that start with A?
+Yes.
+Can you think of a bunch of words
+that have I as the third to last letter?
+Yes.
+Well, if you've got the trick, then it's easy.
+If you're like singing, dancing, running,
+if you remember that the ing suffix
+will give you an infinite number of words like that,
+at least a ton of words like that, you're fine,
+but if you don't notice that,
+if that doesn't dawn on you,
+then you might have trouble thinking of any words
+with I as the third to last letter.
+All right?
+Okay, so anyway, so,
+what you would do in an experiment
+would be something like,
+you take half the people in the room,
+and half the people just say,
+you say, all right, go and make a list
+as many words that you can think of
+that start with the letter A,
+as many words you can think of as words
+with the letter I in the third to last position,
+and then over in the second room,
+those people don't know anything about that.
+All that they're asked is,
+what fraction of the words in the dictionary
+do you think start with A or have I
+in the third to last position?
+And what you'll see is you can use
+the enumerated lists of the first people
+who were in the people experiment
+to predict the probabilities of the people
+in the second part of the experiment.
+All right.
+Now, again, the problem is that
+sometimes it's just easier for people
+to access certain kinds of examples,
+which then leads people to think
+that they are more or less likely,
+and human beings find a lot easier
+to rank words by the first letter
+than by the third to last letter,
+which is hard, right?
+Or, this has been used to explain
+that people have a fear of flying.
+When a plane crashes,
+they're like, how memorable is that?
+How vivid is it?
+It's like, oh my God, a plane crashed.
+How many newspaper headlines are there
+about car crashes?
+Very rarely.
+I mean, here's one of my favorite factoids.
+Roughly how many people have murdered
+on Earth on an average day?
+Roughly how many people are on Earth
+even have murdered on an average day?
+What do you think?
+You look like you've got a guess.
+Half.
+No, probably.
+I'm going to guess 10,000 murders.
+10,000 murders a day?
+What counts as a murder?
+Crimes of international crime statistics
+we're voting as a murder.
+It's really the main thing.
+We're not counting war deaths or anything?
+Normally those would get counted, actually.
+Anyway, so the actual answer is about 1,000 a day.
+So actually if you thought it was 10,000 a day,
+the world problem is way worse than you.
+It's only 10% as bad as you thought.
+Right?
+Yes?
+So can we say that even though I was wrong,
+I was pretty close, right?
+Yes.
+We were close.
+Closer than half the world population.
+Yeah, you're only closer than half the world population.
+You're going to the right questions.
+Now, how many headlines have you ever seen
+about the statistic in your entire life?
+Zero?
+All right.
+However, if there is a terrorist attack
+that kills 10 people in Japan,
+what are the odds that you'll hear about that?
+Very likely.
+Now, you could say, well, so you're blaming the media?
+Not exactly.
+Why does the media report the 10 deaths in Japan
+but not the 1,000 statistical murders?
+People don't care about the 1,000 statistical murders,
+they're like, what?
+Like, where were they killed?
+All over random locations.
+By random people for random reasons.
+It's like, that's not a story.
+I don't care.
+1,000 people murdered for a bunch of different reasons
+is of no interest to me.
+But if 10 people were murdered in Japan,
+then it's like, which group did it
+so I may now form my beliefs about the fundamental nature
+of the world based upon this incident?
+Yes, was there another?
+Yeah?
+I feel like just even four people were murdered in Japan
+in the space of a month.
+It was already a matter of what.
+Yeah, well, if it were like Yakuza,
+then I don't think Americans would care anymore.
+Maybe the Japanese would care.
+Do Americans even know how bad is organized crime in Japan?
+It's like, if you told Americans, do you know,
+just make it up, do you know that more people are killed
+by the Yakuza in Japan than by the mafia in Italy?
+And if you just say it with a very serious tone,
+everybody will be like, oh, yeah.
+I guess that makes sense, right?
+Because I mean, I saw some movies about Yakuza.
+All right.
+Now, if you want to think about the most egregious case of this
+in the modern world, I am obviously alluding to terrorism,
+where 20 people can be killed by a terrorist attack in France.
+And this is the news of the world for a month,
+during which time 30,000 people were statistically murdered.
+Right?
+But how many people would then go and say,
+well, 20 compared to 30,000, I guess the lesson is that
+terrorism is a problem that is microscopic in the big scheme of things,
+and only statistical literates would be all that worried about it.
+But not going to be a common inference, right?
+Right?
+I mean, of course, you could, of course, say,
+well, the real problem is murder.
+Murder is terrible, and there needs to be a war on murder.
+Murder the murderers.
+Murder, yes.
+Well, it's not murder if it's justified, right?
+Because unjustified homicide is the definition of murder,
+and it's in your statistics.
+If you were to imagine someone saying,
+we need to have a war on murder,
+and how people respond to this, like,
+what do you mean a war on murder?
+It's one thing to get caught up in crime in a city or something,
+but the whole planet needs to have a conference about how we're going to
+solve the world's murder problem.
+It doesn't seem very likely, right?
+And it would just seem odd.
+All right.
+Okay, right now there is a tree that halfway fell over in my backyard,
+and I was looking at it, and it's weighing on me.
+I don't want my kids to play around there sometimes.
+I'm going to be able to crush one of my kids.
+And I actually was going out there with a saw,
+and it seemed kind of rotten.
+Like, no, this is not coming down easily.
+And then the gardener wanted $100 to kind of chainsaw it down.
+Like, no.
+All right, but then finally I decided I should just live with it,
+and I said, all right, so it's only going to kill someone if someone happens
+to be right under it when it falls.
+Like, how much time could it spend falling?
+So basically you have to be right under it during maybe like a six to ten
+second period.
+And otherwise you're perfectly fine, right?
+And so, all right, so suppose that it's going to be under, you know,
+there's like ten, like I said, I know people are sure it would fall the next
+year sometimes, but like there's a random ten second danger period.
+But I said, well, I said, like how many seconds are in a year again?
+And it's a lot of seconds.
+And I said, my God, all right, so this is like way smaller than the odds of
+being killed in a car crash today.
+So, all right, fine, even though it looks really scary,
+there's nothing to worry about.
+Now notice, by the way, it's totally different if the tree were within
+striking distance of my house.
+Because in that case, suppose I knew for sure that the tree would fall over
+within the next year and it was going to hit my house.
+But when it fell over and hit the house, then this is not just a six to ten
+second danger zone per year.
+This is a certainty of the danger happening within a year.
+So, very different.
+But anyway, this was, you know, there I will say that I actually took out the
+saw before I took out my calculator to see how many seconds per year there are.
+But eventually I did that and then I said, okay, all right,
+so I'm done trying to chop this tree down.
+When I chop this tree down, I say, wait a second,
+is it likely that I will die from trying to chop this tree down?
+I was like, hmm, I'm a sawing.
+I'm actually, hmm, this seems pretty funny.
+Maybe I should stop sawing.
+Oh, it's almost gone.
+I've almost got it cut down now.
+Did you cut the tree down?
+No.
+So it's half falling over and now it's snapping.
+Yes.
+Well, I wasn't able to do it.
+I wasn't able to make that much progress, actually.
+So it snapped.
+So basically it went from being like 48% over to 49% over.
+That was 100%.
+Yeah, so.
+So I'm not sure.
+I'm not sure.
+I'm not sure.
+I'm not sure.
+I'm not sure.
+I'm not sure.
+I'm not sure.
+I'm not sure.
+I'm not sure.
+I'm not sure.
+I'm not sure.
+I'm not sure.
+I'm not sure.
+So basically, it goes from being like 47% over to 49% over.
+That was 100%.
+Yeah, so.
+Okay.
+But anyway, any time that there are vivid, memorable events that people are likely to
+overestimate, these are ones that, you know, that people are likely to over react to.
+And on the other end, of course, there are events that are just very boring and dry.
+So a tribute to Stalin.
+I don't think I've ever confirmed, but a tribute to Stalin is a million deaths.
+One death is a tragedy,
+a million deaths is a sadistic.
+So, anytime that there are things that are statistically very dangerous,
+but you can't imagine writing an interesting story about them,
+those are the risks that this says you will tend to underestimate.
+All right. Okay. Then there's
+another common way of estimating probabilities,
+and this is from comparing particular cases to stereotypes,
+and then using the better match.
+And this is known as the representative heuristic.
+So, this is a different one.
+So, a standard example of this is,
+suppose someone asks you which is more likely?
+Is a Chinese professor who teaches Chinese literature,
+or a Chinese professor who teaches psychology?
+All right. Well, what is
+your stereotypical nationality for a professor of Chinese literature?
+Chinese.
+What is your stereotypical nationality for a psychology professor?
+American. American. Maybe Austrian or something.
+Zinken-Freud. All right.
+Anyway. So, this one,
+certainly Chinese is not the nationality that you
+picture when you think of a psychology professor.
+So, you're probably going to think, say,
+all right, so, high likelihood that
+a Chinese professor is a professor of Chinese literature,
+low likelihood that he's a professor of psychology.
+Now, what's wrong with this?
+Well, sometimes there's nothing wrong with it.
+But the problem is that in the real world,
+people tend to ignore what are called base rates.
+So, here's the thing. How many professors of Chinese literature are there in America?
+Very, very few.
+I don't know if we have any in Mason.
+This is a big university.
+So, there might only be a few hundred professors of
+Chinese literature in the entire country.
+Yet, how many psychologists have we got in LA?
+How many psychology professors are there?
+So, thousands and thousands.
+Right. So, given this,
+even if only one percent of psychology professors were Chinese,
+and 100 percent of Chinese literature professors were Chinese,
+it could still easily be the case that the probability that
+a Chinese professor is a professor of psychology,
+be way greater. And this is the problem.
+Again, ignoring the fact that some things are just much more
+frequent than other things when you assess probabilities.
+So, representative heuristic is just using
+the match with stereotypes to estimate probabilities,
+which can be totally reasonable.
+But the bias is when you do it without adjusting for these base rates.
+And just remembering, some things are just more common to begin with.
+So, the fact that something is relatively likely,
+given something doesn't mean that it is absolutely likely.
+All right. So, there's a classic experiment along these lines,
+which asks you to begin with imagining something very odd.
+This is an engineering and psychology conference.
+So, it's a conference where the people there are,
+engineers and psychologists getting together to talk
+about whatever they would like to talk about.
+Okay. All right.
+And then here is the key part of the experiment.
+Some people are told that 70 percent of the attendees are engineers,
+others are told 30 percent of the attendees are engineers.
+All right. And then, you go and say,
+all right, so suppose you meet a person who has
+warm room glasses and a pocket protector,
+which is stereotypical wardrobe for what,
+an engineer or psychologist?
+Engineer.
+Yes. So, my dad was an engineer in the 80s,
+and he did have warm room glasses,
+and he did wear a pocket protector.
+All right. Now, the other like stereotypical clothes for
+a psychology professor would be like a tweed jacket and a pipe.
+Okay.
+Frazier Crane.
+Yes. And?
+Frazier Crane.
+Yeah. Frazier Crane.
+Yeah.
+Did he have a pipe?
+In some episodes, I think.
+Oh, he did. All right.
+Now, the striking thing is that in an experiment,
+you seem to get very similar answers
+regardless of whether you tell people the base rate is 70 and 30.
+Now, this would be okay if people were just
+saying 100 percent probability of an engineer,
+but people usually are sophisticated enough to realize
+that some engineers might dress better than the average engineer.
+So, they don't give the really extreme answers.
+Rather, they just give an answer that seems to be insensitive to
+the actual base rates. And again, that's odd.
+And again, like a classic example of using
+the representative heuristic or
+inappropriately or false positives in medicine,
+where because the stereotypical person who is sick will test positive,
+people then think people test positive as being sick.
+And in fact, if it's very rare to actually be sick,
+then this is highly unlikely.
+So, think about that horrible airport slogan,
+if you see something, say something.
+All right. So, out of all the times the people who see something,
+say something, how often do they actually uncover a terrorist?
+Almost never, right?
+Now, out of terrorists, what are the odds that terrorists are acting strangely?
+That seems pretty likely, right?
+That, you know, I mean, how about they want to go to flight school,
+but they don't want to learn how to land?
+Seems pretty weird. That's odd.
+All right. But anyway, the problem is not adjusting for these base rates.
+So, one of my favorite trivia questions is,
+how many knives does TSA confiscate per year?
+And way higher.
+Half.
+Half of all knives.
+Yeah, not that many. I think it's like 800,000 knives confiscated per year.
+Now, I think this probably includes a lot of really crummy knives,
+but anyway, I mean, and then you really,
+because like at first you're thinking like,
+who's going to be dumb enough to try to smuggle a knife onto a plane for a terrorist attack?
+And you say, oh, there's a lot of other reasons you might have a knife.
+In fact, motives that are much more common than the desire for suicidal terrorism.
+Like what are some other reasons you might have a knife on a plane?
+I just really want to butter my roll.
+Yeah, that's a very common motive.
+Right? Or how about people who forget they have a knife?
+How could you forget you're carrying a knife?
+What is a very easy way to forget you're carrying a knife?
+Yes, you just always carry a knife and then you're,
+and then you're like, yes, you have like Swiss Army knife keychain.
+And then you don't even think of yourself as a knife armed individual.
+Just think of yourself as you,
+with your usual possessions.
+Like, oh yeah, it's a knife. And now I have to lose my knife.
+How many times have you gone through security and then lost your water again?
+Because, like, like, yeah.
+Yes, so as a comedian Jeremy Clown says, well, that water could be a bomb.
+So throw it right in the trash can over there with all the people around.
+Full of lots of other possible bomb water.
+All right.
+So, yes, so these are other cases of this problem.
+And I was mentioning gaydar.
+So this is another great example of the representative misbias where,
+so, like, you may think of pink as a gay color.
+And yet how many, but you know, like, but you start with the base rate.
+So according to standard estimates, what percentage of American males are straight?
+Higher? Like 98? 98.
+All right. And so if, you know,
+if even if 100% of all gay men only wear pink all the time
+and only one straight man out of 25 were wearing pink on a given day still,
+this is going to give you, most of the men in pink will actually be straight.
+All right. So, you know, in general, anything that is rare is likely to get overestimated
+based upon some very superficial indicators which might be, which even could be correlated.
+And yet if the thing is rare to begin with, it doesn't really mean very much.
+All right. So questions about that?
+Yeah. So, you know, so just consulting base rates is a good way of getting an idea about what's going on.
+Now, again, like, people often get resentful of this because base rates often
+will lead people to not believe in themselves anymore.
+And that's terrible, right?
+It would be terrible if people believed, the average person believed they were average.
+Wouldn't that be a disaster?
+Or maybe it would be, so, because nothing ever comes wrong from believing in yourself too much, right?
+Like, if you believe that you'll never die in an accident, that couldn't leave anything bad, could it?
+Or could it? Yeah.
+Of course, it would be terrible, right? You could die, you could kill people, right?
+So you believe that, or you're believing that you're sure to go and finish graduate school.
+You might want to look at the base rates. Well, what fraction of the people?
+And then, you know, so, now, of course, if you can get additional information,
+you might want to go and look at more sophisticated base rates.
+So you might say, well, how about the graduation rate of the people at the school where I met?
+Or the base rate of people at my GRE school at that?
+So, you know, like, there's no reason not to go get additional information.
+But still, it's always good to start with what normally happens and then adjust up or down
+based on your personal characteristics, rather than just ignore base rates.
+Which, again, of course, a lot of people do on the theory that they're an individual, not a statistic.
+But, let's see, where do we even get statistics from, again?
+Collecting data from individuals.
+So, you know, the fact that you're an individual does not mean the statistics don't apply to you.
+All right. So, questions about availability or representativeness biases?
+In the experiment with the engineer psychologist convention,
+you said people give the same answer regardless of the base rates.
+Will they give answers larger than 30 in the case where it's 30% engineers?
+Let's see. I'm trying to remember if there are any. I don't think so.
+So, yeah, I mean, I think that, you know, again, like, this is not one of these experiments where the results are really weird.
+But, yeah. Okay.
+I mean, actually, it wouldn't be that weird to say that, you know, like, that, you know, like,
+if 30% are engineers, then it's more than 30% likely that someone wearing arm-rimmed glasses and a pocket protector is an engineer, right?
+That would actually be, if you said 30, then that would mean, that would basically be saying there's no correlation.
+So, yeah. You definitely expect them to give something higher than that.
+But, again, it's more like saying the odds are 80% regardless of whether 30% of the people are engineers or 70% are engineers.
+That's the odd part. All right.
+All right. And, yeah. And there's so, let's see.
+Let's see. All right.
+Yeah, yeah. So, yeah. And, by the way, so on the violation of that one, there the classic experiment involves giving people two scenarios.
+One of them is you say, you know, Sally has a lifelong interest in the environment.
+She loves hiking and animals and donates to environmental causes.
+So, people in both experimental treatments get that same prompt.
+And then group A is asked, what is the probability that she will be a banker?
+And then, of course, people give a really low number.
+And then group two is said, what is the probability that she's a banker active in the active environmental causes?
+And they actually give a higher number to a banker active environmental causes than to being a banker.
+Which makes very little sense in terms of math.
+Because, look, either she'll be a banker active environmental causes or she'll be a banker non-environmental,
+not of active environmental causes. And the second thing is going to be a little bit above zero anyway.
+So, there's no way that the second probability should be higher than the first probability.
+And yet, it seems like people are doing some kind of representativeness heuristic where they're saying,
+well, none of that, none of the story fits a banker.
+But the story does fit a banker active environmental causes.
+And then sort of matching, yeah, I can sort of see how that person could evolve into a banker active environmental causes.
+Because there's not that much money in environmentalism. It's hard to get a paying job.
+So, there's a lot of people who are bankers. So, you might want to be a banker.
+But you'll still stay true to your ideals, of course.
+And then you've got a whole little biography of this woman.
+Whereas the other story, you don't have a biography. And it's also like, hmm.
+All right. So, questions, questions. All right. Let us then move on.
+All right. So, risk misperceptions.
+All right. The basic rational expectations assumption is that actors' risk estimates are on average correct.
+There is a large empirical literature that checks to see whether risk estimates are on average correct.
+And finds that this is not true.
+All right. In particular, low probability events seem poorly estimated by people.
+Poorly estimated. Although in a strange way.
+Right. Because when you give people events that are objectively low probability,
+they tend to do one of two things.
+Either set the probability equal to zero, or make it too big by a lot. Too big by a lot. Okay.
+So, like for example, what is the probability that a randomly selected American is Jewish?
+Well, of course, you know. So, if you just go and ask regular Americans, it's like 20%.
+Right. And what's the probability that a randomly selected American is black,
+according to the average American? Probably something like 30%.
+And then you go, how about Italian? Well, like another 15%. And Greek? Seven. All right.
+And pretty soon you've given away the entire 100% probability.
+And we haven't even gotten to the Irish, or English, or any of the groups that historically
+are actually the largest ethnic groups in the US.
+All right. So, that's the case of assigning probabilities that are too big to low probability events.
+Yes.
+It's going to be Italian and Irish at the same time, so you can overlap.
+Yes. So, yes. There is that. So, again, like, you know, so, let's see.
+In the case of Jewish, normally, let's see. Would you actually bother phrasing it as Jewish and not another thing?
+You probably wouldn't bother. Again, like, so, in practice, when you go and ask people,
+the reason why they're giving the numbers is not that they think there's a lot of overlap.
+The reason, rather, is that they just, or they don't get, like, overlap is something that, oh,
+I mean, you could actually probably make the result even more extreme if you said,
+oh, probably somebody's Irish. How about Irish and black?
+And then they'll give you another view probability for that.
+And so you probably actually get up to 100% even sooner.
+Because when they were thinking of the Irish, they were not thinking of mixed groups or blends.
+They were thinking of guys with restylepricon outfits.
+And that was what they had in their minds.
+All right. So, anyway, so a lot of times people assign probabilities that are too big.
+And let's see, probability you'll die in a terrorist attack.
+Yeah, that's probably a too big one. All right.
+Now, on the other hand, there are things where it does seem like a lot of people round down to zero.
+They round down to zero. And, again, these are for things where, in fact, the odds are probably pretty good.
+Like, how about the odds that you die because your doctor didn't wash his hands?
+How do you worry about that risk at all?
+Yes. Yeah, you start worrying. Yes.
+There was an awkward thing. Last time my kids were at the doctor, the doctor did try to shake my hand.
+And he tried again. I'm like, sorry. And he's like, all right.
+And then I actually, so, you know, like, he does wash his hands actually twice in front of us, which was good.
+But not using soap. What did he use?
+Purell.
+Yes. He used Purell.
+The bacteria, the bio-defense pressure that I know says that if you use that stuff a lot,
+it actually loses all its effectiveness, mostly because the bacteria in your hand then become resistant bacteria.
+And I'm like, hey, isn't the same with soap?
+He said, no, soap physically removes germs, and it's very hard for the bacteria to get resistance to being physically wiped off your hands.
+But if it's just a chemical treatment, then you just wind up getting really strong bacteria on your hands.
+So I don't care. I'll shake your hand.
+Yeah.
+In medical settings, you're supposed to use hand sanitizer or some like-wise substance every three times and wash your hands a fourth time.
+And do that in a cycle.
+Right. I don't feel like the guy's doing it. I'm suspicious.
+That's what you're supposed to do.
+Yeah, that's what I'm supposed to do.
+And I get quality control. There are a lot of people who do that.
+Yes. I've also heard stories of people who tried enforcing quality control who were fired.
+Yeah. Because like, oh, he's hassling the doctors for no reason at all.
+All right. So again, this is the kind of thing where it seems like people are rounding it down to zero.
+Or when my dad was, like his doctor said, he might have a problem with his prostate.
+I said, do not go and let him do any surgery on you without talking to me.
+There's a lot of evidence on this that most of the surgery is unnecessary and will ruin the rest of your life.
+And even my dad, who is normally a very untrustworthy person, says, I just have to trust my doctor.
+No, you don't have to trust your doctor. Bad things can happen.
+And it's not something where you just have to do it.
+There's always getting a second opinion, third opinion.
+All right. So anyway, so there's empirical evidence on both these things.
+As for what the logic is, when you set it to zero and when you make it too big,
+it does seem like it has something to do with the vivid emotions of some things,
+where the things that people tend to overestimate are things where it's very vivid or memorable.
+So now there may also be an issue when you're doing demographics that people just don't seem to really understand that there's only 100 percent to hand out.
+So this was another weird result that Tetlock found, was that if you go and ask people to go and rate,
+to assign probabilities to all logically possible events, they generally assign way more possibility.
+And especially the more you subdivide the events into more detailed events, the more likely each scenario becomes.
+And again, of course, logically, if you say, what are the odds that there's a terror attack carried out on a Monday by a guy named Fred
+wearing a jumpsuit with tie-dye on it, right, you'd have to, like logically, that would have to be an astronomically low probability, right?
+But again, a lot of people want to say, eh, I don't know, like one in a thousand,
+never realizing that when you split it up into that many scenarios, you could have hundreds of thousands of scenarios.
+And then if you have 100,000 scenarios, a one in a thousand chance each,
+pretty soon you've got a massive abundance of live scenarios.
+By the way, this was the one way in which Tetlock found out that really dogmatic, single-theory,
+explain-everything people are more accurate than open-minded people,
+because open-minded people hand out probability like it's candy.
+Oh yeah, that can happen, that can happen.
+Yeah, I mean really everything's possible.
+I mean, we already know they handed out 300% probability
+for mutually exclusive jointly exhaustive events.
+Whereas the dogmatic people only hand out like 150% probability,
+so they're more reasonable.
+Even there, right there.
+There is this ability to trick people
+by giving too many detailed scenarios.
+All right.
+Like any time that you've ever watched a TV show
+and then said like, what are the odds that something just like that will ever happen?
+Just like that?
+Like one in a hundred trillion?
+That it would go just the way that went down?
+That's just so unlikely that it would all fit together like that.
+Okay.
+All right.
+Now, this evidence is often, you know,
+so like a myriad of evidence on risk misperceptions
+is often used to justify safety regulation.
+Right?
+Now, which of these two, right,
+plausibly has anything to do with actual safety regulation?
+Yes.
+So people rounding risk down to zero.
+Then you might say, well, I mean,
+people are not going to go and make their doctors wash their hands
+if they think doctors are always doing good jobs.
+We need to have regulation to protect people,
+given these idiotic views they have.
+Right?
+So this at least fits in with the usual kind of regulation
+because almost all risk and safety regulation
+tries to do what to the amount of risk that people face?
+Raise it or reduce it?
+Reduce.
+Reduce it.
+Tries to prevent people from doing risky things.
+Right?
+And to require additional safety.
+Okay.
+So, yeah, so things like that,
+then risk regulation seems like it's got some connection.
+But on the other hand, right,
+if people, for all the cases where people overstate risks,
+for all those,
+then what is the connection between risk regulation and that stuff?
+Yeah, it makes it all worse.
+It takes the problem people are already ridiculously paranoid about
+and then makes them take even more precautions than they want to.
+So see the TSA.
+So if government did nothing,
+would people still be worried about terrorism?
+Probably.
+These are shocking and horrifying stories.
+So the natural market response would already be
+to be overly worried about it.
+But then when you have a pile of regulation
+saying that you have to do all these extra things,
+it probably means that you get even more paranoia.
+So one guy once failed to do something with his shoes,
+so now everyone has to take off their shoes for the rest of all time.
+Or it's possible that a liquid is gasoline,
+and so no liquids can ever be on a plane again.
+And so on.
+And then you may have noticed all kinds of odd rules
+where there's some rationale,
+but is it based on any kind of actual risk assessment,
+or is it just the people that are in charge
+just take for granted that whatever would happen isn't enough
+and there needs to always be more and more and more.
+And in fact, if you really scratch your head and say,
+what are any examples of government trying to pressure people to take extra risk
+or to prevent them from getting safety?
+I know of a few examples.
+So Ralph Nader wants to ban any sunblock with SPF over 15
+on the theory that nobody needs any more than that
+and that's just companies ripping you off.
+Now this is one of someone whose native skin tone is that.
+I'd say this is just wrong.
+Like, I have been burned with SPF 15.
+So, and also it's the case where maybe if you didn't sweat at all
+or you never got wet, then SPF 15 would be sufficient.
+But if any of these things are going to happen to you,
+maybe the SPF 70 is worth it
+because after it's lost 80% of its effectiveness, it's still as good as 15.
+But anyway, so there is one consumer advocate
+who's generally known for trying to make people be more safe,
+trying to take away some needless safety from them.
+There's also some regulation forbidding airlines from advertising their safety record.
+The underlying theory is people are already paranoid about airline safety
+and are driving when it would be safer to fly
+and if they could advertise it, the result would just be
+that people are getting even more worried about microscopic risk.
+So there's that.
+Of course, then there's things like inscription,
+which just make people do something super risky that they don't want to do.
+So yeah, a really dangerous job.
+But OSHA regulates the military, right?
+Before you tell guys to charge a machine,
+you got OSHA to study to see if you make sure that's safe for them?
+No.
+Or before you go and spray charge on guys,
+there has to be animal testing, right?
+No.
+So not the case.
+So anyway, if you really were designing paternalistic safety regulation
+in light of the evidence, it would look very different from what we have.
+And basically the boring risks,
+there might very well be a bunch of regulation
+that is trying to make people take them more seriously
+or at least force the providers to give you more safety than what they demand
+because the demanders are in a fog about the risks.
+But on the other hand, there would be a bunch of other risks
+that government would be trying to soothe people's minds about.
+Let's see.
+So a few weeks after 9-11, President Bush very loudly
+had a big meal at Morton's Restaurant
+to encourage the nation to start eating out again
+because a lot of people felt they shouldn't eat out during the morning period.
+That's not really about safety, though.
+It wasn't like people were staying home because they were worried
+that their favorite restaurant could be attacked,
+but rather that it just wasn't appropriate.
+So not really quite on point there.
+All right.
+So questions, questions?
+All right.
+Okay.
+By the way, so to me what's very striking is that
+there's almost no statistical education in schools, right?
+Almost no effort to go and tell kids what are high and low probability events
+that are bad and things that are likely to happen
+and things to not worry about.
+I mean, just to go and give them a list of
+these are things to worry more about, these are things to worry less about.
+Something is that I've never heard of for sex education.
+Has anyone ever had a sex education class
+where they actually just give you a table of main contraceptive methods
+and their failure rate?
+It's right on Wikipedia, right?
+There's some very popular methods that do not work very well.
+It's like you might want to check it out.
+All right.
+Yes.
+Oh, yeah, or one other thing that to me is quite striking.
+In all the discussion about the opioid epidemic,
+I cannot once think of anything where people have just been told
+what the risk is to them.
+So there's always like, what can we do to reduce the opioid epidemic?
+How about tell people what the risk is?
+Maybe you could do that, and not with a lot of hyperbole
+and saying this is going to kill, this is death or whatever,
+but just say, well, raise your probability of dying in your 20s,
+a regular heroin user, from 2% to 7%.
+That doesn't sound like it's being done very often,
+but again, this would seem like a pretty obvious approach
+if your concern was just that people were taking poor decisions
+because the risk probabilities were off.
+And again, if this were your approach, of course,
+you might want to very zealously protect your reputation for accuracy.
+So you might want to have a government where there's a strict rule
+against hyperbole or exaggeration of any kind
+because you don't want to be the boy that cries wolf
+so that when there is a severe risk, people take it seriously.
+Of course, it would be a lot of work to get there, right?
+Yes, there was a question back there somewhere.
+I was going to say, you never have the guy in the dog costume
+come to your school and tell you why drugs are bad?
+I remember a guy kind of like that, but what did he say?
+He tells you the drugs are bad. He's in a dog costume.
+Oh, yeah, yeah, yes, yes.
+He sings a dare song.
+Yeah, yeah, well, that's kind of on top.
+That is standard for governments to do,
+but for the dog to go and sing about what the probability is
+or what the risks are, that kind of thing.
+And more generally, there is an odd bias
+where there are many risky activities
+that are highly socially praised and encouraged,
+such as playing football, mountain climbing,
+and some smart person actually said,
+well, here's the rule.
+If the hangover preceded the intoxication,
+drunkenness would be considered a virtue.
+So if you first have to spend a day in horrible pain
+and then you enjoy yourself for a few hours,
+then people will be telling you you should get drunk
+and drunkenness is great and shows character and so on,
+but since the pleasure comes first,
+the bad things after, then it's a vice.
+Yes, so you take mountain climbing,
+which if I haven't gone and denounced this idiocy previously,
+climbing Mount Everest is highly fatal, right?
+And yet when someone decides to climb Mount Everest,
+people don't regard them as someone who says,
+hey, I've decided to become a heroin addict.
+What do you think about my choice?
+Aren't you going to congratulate me?
+Where I say, look, this serves no purpose whatsoever
+other than you're showing off
+and putting your life at risk
+and putting your family under great stress
+and what's so great about it anyway?
+And a friend of mine who has a book on high-risk behavior
+gives a very fun fact on mountain climbing,
+which is that all the mountains that are above 8,000 meters
+are climbed frequently, and the very tallest mountains
+that are just below 8,000, almost no one ever climbs them.
+So mountains that are 7,000, 950 meters,
+virtually no one ever climbs them,
+because 8,000 is the prestige cutoff
+for mountains where you're awesome and cool if you climb them.
+And it really looks like people are climbing mountains
+just to look better than other people.
+And then he says, and this fits in with things like
+we go and celebrate someone who's the first person
+to climb a mountain without oxygen or without crampons
+or without other safety equipment.
+It's like, wow, he did this in an even higher-risk way than normal.
+Isn't that great?
+Now, my friend does have the theory that if a lot of people
+want to climb mountains, then it would be bad.
+The only reason why it's legal is hardly anyone wants to do it.
+So then it's easy to go and act like it's a great thing,
+even though no one knows what's great about it.
+Okay. All right. Questions, questions?
+All right. So, yes.
+None of my kids would mount climbers.
+Not allowed.
+All right. So, the last topic here.
+So systematically biased beliefs about economics.
+We talked about this before, but now we will come back to it
+in more detail.
+All right. So go back to your intro economics class.
+Since you're here, I'm guessing you had a pretty good one.
+Maybe not, but I'm assuming you probably had a pretty good intro econ class.
+And if yours was anything like mine, what was exciting about it
+is that you had a professor who was saying that
+most of the world is wrong.
+And not just randomly wrong, but wrong in a systematic way.
+And who are most of the people?
+Well, your parents, your teachers,
+the textbook authors that you read in elementary school
+through high school. All wrong.
+All important stuff they didn't understand.
+All right.
+So, you know, if they know everything like why free trade is good.
+So, economists teach us comparative advantage.
+And they expect students to say,
+Oh, so, comparative, like, so, like, like.
+So free trade is just as good as I thought it was.
+No better, no worse.
+Now, when you teach comparative advantage,
+you are normally thinking that students will change their minds
+in what direction?
+A pro-trade.
+Right, because you'll say, you probably think that trade is only beneficial
+if one country is an absolute advantage in one thing
+and another is an absolute advantage in another.
+I'm going to prove that there's mutually beneficial trade
+even if one country is an absolute advantage in everything.
+Right, and meanwhile your students are like,
+No, no, no, I just think trade is bad, always.
+I think trade is terrible.
+And it's the way other countries rip us off.
+But anyway, comparative advantage is a lot more optimistic than that.
+Right.
+Or again, when economists go and teach students about price controls,
+are they thinking the students are going to be like,
+Oh, okay, so half the students will say,
+Oh, so price controls are better than I thought
+and half will think it's worse than they thought.
+No, they are thinking the students will then,
+will previously have been in favor of price controls
+but afterwards will be against.
+Right.
+So I mean, I remember when I first heard the basic economics of the minimum wage.
+And my honest reaction was,
+in my entire life I have never once heard a single person
+say anything bad about the minimum wage ever.
+It's not that I previously heard someone say,
+Well, of course we all know that there is a potential for a disemployment effect,
+but a peer of less would say that it's small.
+I never heard anyone say this.
+And I did not grow up in a left wing enclave like Berkeley.
+I grew up in a totally normal Los Angeles suburb.
+And I knew plenty of Republicans,
+but I didn't know a single Republican was against the minimum wage.
+Right.
+And then I said, Wow, there's economists saying,
+You know the thing that everyone thinks is good?
+Maybe it's terrible.
+And the only way to know is to go and do some complex measurements.
+This would be like saying,
+Maybe apple pie is actually really bad.
+And we need to do some measurements to find out if it is or not.
+Right.
+And everyone's been telling you apple pie is wonderful your whole life.
+Right.
+And so anyway,
+this is the way inter-recon is often taught.
+And a lot of famous historical economists operate from the same perspective.
+So Adam Smith.
+So much of the book is written assuming that
+the reader will start off as a protectionist
+and a proponent of a government.
+And after reading it,
+they will realize how naive they were.
+And how arrogant they were in thinking that they or anyone would know enough
+to plan the world for the better.
+We can see this in Frederick Bastiat.
+Or you know, you can see it in Frank Knight.
+Or Milton Friedman.
+Or me.
+Right.
+So you can see, so this is, you know,
+so economists throughout history,
+there's a general sense,
+or like Paul Krugman.
+You can see this in Paul Krugman.
+Does Paul Krugman assume that people basically have the right view about free trade
+and that he's just there to go and approve the accuracy of the details?
+No.
+I mean like actually, you know,
+so Krugman has some early work on strategic trade theory.
+Giving high tech cases where free trade might not be a good idea.
+But then he actually has a piece saying,
+what should we teach to undergraduates?
+And he said, don't teach them that stuff.
+They don't need to hear that stuff.
+Why not?
+Because they don't even know the basics yet.
+They need to know what Hume and Ricardo said.
+And if they can learn that,
+and after they really understand that,
+and if they will come and say,
+can you tell me more,
+then maybe we'll teach them my stuff.
+Maybe.
+But what people really need are just the very basics,
+the very basic stuff,
+which Krugman thought very few people actually have.
+And if you don't have,
+and then if you don't have,
+if you don't know the basic stuff of Hume and Ricardo,
+what are you?
+You're like a strategic trade theorist.
+You're someone saying,
+how can we figure out a way to import nothing
+and export a ton of stuff?
+Or maybe you're even worse guys.
+How can we figure out a way to get rid of the trade deficit
+and have lots of foreign investment here?
+And yes, if you know the accounting,
+that is just logically impossible
+because foreign investment automatically increases
+the current account deficit.
+Again, what does it mean to have a current account deficit?
+It means that you are paying for goods with assets.
+And that is investment in our country,
+is when we are going and selling people
+in other countries' assets.
+When they invest here,
+how does a company go and invest in a factory here?
+They come here and they go and they buy some of our assets.
+They buy a factory.
+All right.
+So this is lurking in the background
+of a whole tradition in economics
+of thinking of the economic beliefs of the public
+as being systematically biased.
+And yet, when economists actually model
+what people's economic beliefs are,
+they almost always assume rational expectations.
+So when economists write down a model
+of determination of tariff rates,
+normally they'll come up with some model
+where you've got,
+there's a conflict between interest groups and consumers,
+but each group is assumed to know accurately,
+on average, what is the best tariff rate for that group.
+So in these models,
+they almost never have consumers
+falsely believe that tariffs are good,
+and then we get tariffs which are inefficient.
+Which again, sounds kind of trivial for a model, right?
+But the fact that it's a trivial model
+doesn't mean that it's a wrong model.
+It just means that there's no jobs
+for economists to be had in publishing on it.
+Okay.
+All right.
+Now, so I've got a series of empirical papers
+where I try to see
+who's actually right about the public's economic beliefs.
+Is it the textbooks
+and the greatness of economists throughout history?
+Or is it the current theoretical models?
+So I've got papers still here to test,
+and the results overwhelmingly come out in favor
+of textbooks and the historical economists,
+and overwhelmingly against people going
+and writing rational expectations models of voter reliefs.
+Okay.
+All right, so the data is,
+this was constructed by someone other than me,
+which as I said is great for two reasons.
+First of all,
+then the reputation of the data is not tainted
+by the fact that I'm the researcher doing it.
+And I will admit this.
+Am I the kind of person who believed in the textbook view
+more than the research view from the outset?
+Yes, I am.
+Which means that it's better to outsource the data collection
+to someone who doesn't have a dog in the fight.
+And of course, also,
+they paid for all the data collection,
+which today might be half a million dollars
+to collect this data set,
+and it cost me nothing.
+They just gave it to me for free.
+And I think last week I was mentioning
+how there's a lot of data that exists
+and that is on the internet and has never been used.
+There's also a lot of data that is not on the internet,
+but has barely been used,
+and if you just go and email the people
+who did the study, they'll give it to you.
+So I probably got lucky.
+If you email four different people with data sets
+and they're done with them,
+and they say, you know, can I have it?
+I think you'll probably get one yes.
+So in general, if you just keep your eyes open
+for data sets that seem to be rarely used.
+Now again, if you wait too long,
+then they'll just give you the dog ate my data story.
+Like, well, sorry, I haven't had that data in years.
+Yeah, too bad it cost half a million dollars
+and I only got one paper out of it.
+Would have been nice if someone else could have used it
+and learned more, but there's no way of saving data.
+Unfortunately.
+Too bad.
+Anyway, so basically you want to give them enough time
+where they've sucked it dry,
+but not so much time that they've thrown it away.
+And if they've sucked it dry, what can you do with it?
+Often a lot, because a lot of people
+don't have your creativity.
+Do they?
+No.
+The answer is no.
+Other people do not have your creativity,
+and so you will see uses for their data
+that they're not aware of.
+Okay, so the method that I used in here
+was estimating beliefs as a function of
+DECOM, DEMI, and control variables.
+So you guys remember DEMI?
+So DEMI variable for economists,
+one if you're an economist, zero otherwise.
+All right?
+And again, if you've got rationalizations,
+then we go and estimate the belief as a function of A.
+plus B times the dummy variable, plus, say,
+gamma times the vector of controls.
+And rational estimation says that B will be equal to 0.
+There will be no difference in the average opinion
+of experts in the public, right?
+Because in the rational estimation's world,
+what is the effect of knowledge?
+Is it to shift means?
+No, it's to compress variance.
+So if that's the truth, capital T star,
+then ignorant people have that distribution,
+and informed people have that distribution.
+That's what rational estimations is all about.
+Or again, so why the controls?
+The controls are there just because there's
+a lot of people who think that economics
+is a fake discipline, or at least a biased discipline.
+And so the controls are there to deal with the objections.
+And there are two main reasons people
+look for for mistrusting economists.
+So one is that economists have some kind
+of self-serving bias.
+So maybe it just means that if they're rich
+they got on job security, so they're
+out of touch with the American people,
+out of touch with the problems of the American people.
+So of course they think that international trade
+or downsizing are good when they personally
+are immune to the bad part, as well, the bad stuff.
+So that is a story, but it's a testable story.
+Because you can get measures of whatever
+it is that supposedly is biasing economists' judgment,
+and then we put that control variable in.
+And when you do that, that is like going and pairing
+an economist with high income and job security
+to a non-economist with high income and job security.
+Or alternately, it's like comparing a normal person
+with someone with economic training,
+but all the problems of a normal person.
+That's the whole idea of putting in the control variables.
+And again, if this theory is right,
+it is driven by personal circumstances,
+then that should make the gap go away.
+But in practice, it almost never does.
+And then another story that's been told of ideological bias,
+this one just says that economics
+is a coven of extreme right-wing ideology.
+And people believe it because if you don't believe it,
+you don't go into the discipline.
+So of course, of course economists
+believe this horrible stuff.
+And again, this is something where you go and get measures
+of people's ideology or party, and then
+try to see whether that explains the difference.
+So if you are a very liberal democratic economist,
+do you then believe the same stuff
+that very liberal democratic non-economists believe?
+And again, the answer is totally not.
+Paul Krugman's beliefs are very different from that
+of the people that he claims to speak for.
+And one of his main goals, especially in earlier years,
+was to try to fix other people on his side
+and introduce them to economics.
+So that is an ideal.
+People often have the idea, well, look,
+all this free market stuff, that's
+just the right-wing people.
+It's like, well, no, actually, a lot of this
+is stuff that almost all economists believe.
+Right now, a safer this is just to say, well,
+economists are right-wing regardless of what they say.
+So Paul Krugman's right-wing, absolutely.
+If you read a book like, what is it?
+It's Naomi Klein, Shock, Soccer, and Not Nanny Wolfe.
+So I'm just reading a section where
+so her take on South Africa.
+Her take on South Africa is another case
+where neoliberal Chicago boys won the country
+and got everything they wanted.
+So what are you talking about?
+But if you're someone who thinks that the slightest concession
+to not having a communist revolution
+shows that Milton Friedman runs your country,
+then, of course, you're going to see Milton
+Friedman ruling the world.
+Look, Milton Friedman rules every country
+except North Korea and Cuba and Venezuela.
+Because they're the only countries that
+are doing exactly the opposite of what he recommends.
+And everybody else is listening to him.
+Wouldn't it be great if you could just
+tell your parents this when they say you don't listen to them
+and you say, no.
+I mean, I've listened to you like three times,
+so you rule my life.
+So not very compelling, but still.
+Now, the big clusters of error.
+So by the way, if you don't want to read the book,
+you can just go and Google the four cartoons that
+have been made about the book.
+So there are four cartoons, one on each of these biases.
+So you can just watch the cartoon.
+And they're a very well-done cartoon.
+It's very happy.
+I'm very flatteringly drawn.
+Thinner, younger, better dressed than I've
+ever seen in real life.
+But so here are the big clusters that I talk about in the book.
+The first one I call anti-market bias.
+So there's a general tendency for non-economists
+to underestimate the social benefits of the market
+mechanism.
+This does not mean that all economists
+think markets are always great or anything like that.
+That's totally wrong.
+But still, there's a general tendency
+for economists to be more optimistic about markets
+to the public, because the public generally
+looks to see whether someone is trying to make money.
+And if that is so, lead to a negative inference.
+On the other hand, economists have almost the opposite
+heuristic.
+For economists, the main concern is to say,
+well, is there a way for someone to make money
+solving this problem?
+The answer is yes, but economists tend not
+to worry about the problem.
+Economists worry about problems where
+they cannot think of a way for someone
+to profit from a solution.
+So economists can't say, well, I can't think of any way
+to make money by cleaning up the air.
+So that's a problem.
+But if you can say, well, I can think
+of a way for someone to make money by increasing
+the number of available kidneys, well,
+then why don't we just have a free market of kidneys?
+This is one, unless you'd ever tell you
+about my dinner with a Marxist economist
+where we talked about kidney donation.
+Yes, if you don't remember, so this
+was at the New School for Social Research.
+This is literally an economics department
+with a six-foot-tall poster of Karl Marx in the public area.
+It's not just one professor has Marx in his office.
+It's like, by the water cooler, there's
+six-foot-tall Karl Marx.
+Just the face is six feet tall.
+And yet, when I had him at dinner,
+this is a once-in-a-lifetime opportunity.
+So what do you guys think about having
+a free market of kidneys?
+And the graduate students were like, well, I can definitely
+see the argument, but I'm a little worried
+that Bohr might not be able to get kidneys.
+And the Marxist professor said, no, you have to do this.
+It'll save 10,000 lives a year.
+Wow.
+So here's a table of avowed Marxists
+who are more in favor of a free market of human kidneys
+than almost any conservative Republican in the country.
+And what's the difference?
+Economics training is the difference,
+because they don't just think of prices as redistributive.
+They think of them as affecting the quantity supplied.
+So anti-market bias.
+Then anti-foreign bias.
+So it's one thing to convince Americans
+that when one American buys something
+from another American, they're both better off.
+All right, fine, maybe.
+But what if an American is buying something
+from a Chinese?
+Then, well, we all know what the purpose of this is.
+It's for the Chinese to trick us, to rip us off,
+to take advantage of us.
+That is the whole point.
+Sure, we get cheap toys, but they get something much better.
+Green piece of paper.
+So that's much more orgies.
+So that is, again, the underlying idea.
+So in the book, I go and point out
+that there is a thought experiment
+that economists have been using for quite a while just
+to illustrate the economist view of trade.
+And this is very nicely done in the cartoon.
+But the thought experiment is the Iowa car crop.
+Actually got a slightly annoyed farmer who says,
+Iowa does not grow corn, dummy.
+All right, fine.
+It's too late to change.
+Whatever Iowa grows, I don't know.
+Let's just define corn in the 19th century sense.
+What you say does grow corn?
+I'm from Iowa, so I was surrounded by corn.
+So I don't know.
+Yeah, so he's right all along.
+He pointed me to some statistics on how little corn
+is grown in Iowa.
+Anyway, the thought experiment says this.
+So a scientist shows up and has a press conference
+and says, I have figured out a way to turn corn into cars.
+And everyone laughs at him.
+That's ridiculous.
+The chemical components of corn would never
+allow it to be turned into cars.
+But then the guy goes and he buys an old factory
+down by the docks.
+And lo and behold, corn goes in, cars come out.
+So everyone says, wow, he has some new chemical process
+that no one else is smart enough to consider.
+Or happy.
+Until an investigative journalist
+sneaks into the factory and discovers it's only a dock.
+All that happens is ships with cars for Japan
+come in and leave full of corn.
+That's all that's occurring.
+And then the guy snaps some pictures,
+and there's a big scandal.
+And he says, corn into cars is a fraud.
+And then the scientist is arrested
+for violating every trade law in the books.
+The end.
+Now, the point of this thought experiment, of course,
+is that he did have a technology for turning corn into cars.
+And what is that technology called?
+It's called trade.
+And in fact, trade is a technology
+for turning anything into anything.
+It is like the transmuter from Star Trek.
+It is that amazing.
+The only way that it is different
+is that if it's a transmuter, then what happens
+is that Americans are better off and no one else is.
+But on the other hand, if there's trade,
+this means that the Japanese are better off as well.
+So from the American point of view,
+it doesn't matter how the factory works.
+But from the human point of view,
+it does matter because then there's
+another country where they are better off also,
+because they are receiving the other side of the deal.
+And I've got here a little question.
+Is anti-corn bearers an aestheticism
+of anti-free market economics?
+Well, let's see.
+I think of it as adding.
+So you have the general hostility to markets,
+and then there's additional hostility
+when there's foreigners involved,
+is at least the way that seems to me.
+Yes?
+So is the idea of corn for cars that nobody
+would object to corn for cars if they thought it was actually?
+Well, not literally nobody, but few.
+So there are actual Luddites who want
+to destroy new technologies, but that is a pretty small segment.
+There's not a lot of political attention
+being made in saying, let's smash the new machines.
+Whereas, let's go and cut off trade
+with a country that's destroying us.
+Much more popular.
+Because I feel like you could still
+set up a battle between the corn lobby
+and then better auto workers, because there would still be.
+Right.
+Like, what do people without a dog in the fight think?
+What does just a random American looking on the sidelines think?
+If someone says, there's a new machine that works great,
+it should be destroyed to save jobs,
+there's a little bit of appeal of that.
+But there's something like, I don't know,
+wouldn't we have to go and do other things too
+to be consistent if we believe that?
+Wouldn't we have to destroy our entire civilization?
+I don't think there's too much to spoil
+in saying the final episode of Battle Sword Galactica,
+they make a decision to destroy all their technology
+and then become cavemen.
+And then they become our ancestors.
+And just to make sure there's no evidence,
+they throw it all into the sun.
+So there's no sign of it ever happening.
+It sounds like a spoiler to me.
+Well, the show has been out and has been done for 10 years.
+I mean, the only spoiler is, do you really
+want to watch a show that has what the conclusion is back,
+idiot?
+I'm just kidding.
+I'm just kidding.
+I'm just kidding.
+I'm just kidding.
+So let's become cavemen.
+Let's try that.
+And let's make sure it's irreversible too,
+just to make sure that no one ever tries going back
+to not being a caveman.
+And as you may have heard that I have a big interest
+in open immigration.
+And when people say, well, why is it
+that everyone's so wrong and you're right?
+I'm like, yeah, anti-foreign bias.
+Anti-foreign bias.
+When people economically interact with foreigners,
+they are prone to paranoid pessimism
+and to seeing the slightest negative thing
+as being some kind of proof that it shouldn't happen.
+I mean, just think about the sheer innumeracy
+of popular action.
+So suppose someone were to say, look,
+if we go and open up our borders,
+there's going to be a terror attack every year.
+Now, how much economic gain will you
+have to posit before people say, eh, it's worth it?
+A trillion dollars a year.
+Is that enough to make it worthwhile to have
+one terrorist attack a year?
+How about $10 trillion?
+How about $100 trillion?
+This is one where I think it's likely for a lot of people,
+there is no known finite number that would get
+people to say it's worth it.
+Even though, of course, people bet their lives all the time
+for far lesser gain.
+What's the difference?
+Foreigners are involved.
+So similarly, suppose someone were to say, look,
+we can get rid of all terrorism if we just
+go and execute the following 10,000 Americans.
+We come up with a computer, these
+are the 10,000 most likely to do it.
+And actually, we got a pure prediction.
+And suppose the critics look at it and say, yeah, it's right.
+So execute 10,000 Americans and end the solve the terror
+problem.
+Sound like a good deal?
+Wait, are these American citizens
+we're talking about killing?
+No, no, then we can't do it.
+Suppose there were even 10 American citizens,
+but they're inside the borders of the US.
+And there's no proof of anything at all.
+They haven't done anything.
+It's just pre-crime.
+It's just the computer predicts that they're high risk.
+So quite possibly, nothing would be done.
+But suppose you have to leave a million refugees in a war zone.
+They will be exterminated.
+Well, but maybe there would have been terrorism.
+Prove there wouldn't be.
+That's kind of hard.
+So that's my anti-foreign bias story.
+Then I also have make-word bias.
+A tendency to rate economic performance based upon jobs
+rather than production, which again,
+is a very emotionally easy, especially during recession.
+And yet, you all probably heard, imagine
+that we were to go and judge every new technology based
+upon its effect upon employment.
+How many great technologies would not be allowed?
+Basically, actually, relative to what
+the economy would look like a century ago,
+then there's probably almost no jobs that have not
+been destroyed by technology.
+Because almost all of us would be working in agriculture.
+Because as the expansion, as technology
+improved agriculture, it's created a lot of other jobs.
+And then, of course, many of those jobs have been destroyed.
+And so on.
+So this usually does not actually
+lead to laws banning technological improvements.
+Although it probably does lead to hyperregulation
+of new technologies.
+So a standard point in risk regulation
+is that driverless cars are held to a way higher standard
+than drivered cars.
+So a driverless car kills one person,
+then people are like, oh, we may need to rethink this.
+How many people were killed in regular cars that day?
+Statistically, about 100 people were
+killed in regular cars in America on that day.
+I think actually it's not as bad anymore.
+It's like 50.
+Now I'm not like 50.
+But still, 50 times as many people were killed.
+On that single day.
+So how come those stories aren't headlines?
+Well, the risk that we have, that's just part of the world.
+Whereas the risks that of new technology,
+that could be stopped.
+And so it's very important not to allow it
+until we're absolutely sure.
+What if one of those cars kills you?
+And again, proper opportunity cost reasoning response
+to that.
+We shouldn't allow driverless cars
+because one of them might kill you.
+What if one of those cars would kill someone you love?
+What is the numerate response to that?
+What if a regular car kills someone you love?
+It's like, well, you can't worry about that kind of thing.
+You'll never leave the house if you think that way.
+So silly stuff.
+So I think you probably see neighborhood bias most strongly
+in laws that try to prevent firing,
+try to prevent layoffs, try to prevent plant closures.
+So things like that where there's
+a set of laws designed to go and freeze existing employment
+in place on the theory that if those jobs are lost,
+that they'll never be replaced.
+And again, also the idea of the point of a job
+is to give someone an income.
+It's not to produce stuff.
+But again, of course, everyone had
+a job that gave them an income and didn't produce anything.
+What would those incomes buy?
+There'd be nothing to buy.
+And the whole idea of giving people an income
+is parasitic upon production, which
+brings me to my fundamental truth of economics,
+that if people learn nothing else, they should learn that.
+Since you're getting a PhD, you should
+learn more than one truth.
+But the truth is, if there's one lesson that I wanted people
+to know above all others, the secret of mass consumption
+is mass production.
+Always focus on what causes production.
+And all the complexities, just forget about them
+because they are going to mislead you.
+Just ask, will this increase the production of the world?
+Then thumbs up.
+This is pushing the world in the direction of prosperity.
+And then a final big error that I
+talked about, pessimistic bias, is a general tendency
+to see a world getting worse, bad now,
+and going to be even worse in the future.
+This is, again, a big gap between economists
+and the public, where economists at least
+tend to see things as being not as bad as the public.
+So even during a recession, a tendency
+for the public to just think this is a permanent disaster,
+or they will never improve.
+And again, classic economist answer is,
+this recession will end.
+Every single previous one has people.
+And what is a normal person's retort
+to an economist pointing out a universal regularity
+in the American economy?
+This time it's different.
+Oh, you don't understand.
+This time there's new technology.
+It's destroying jobs permanently.
+All right.
+And to me, the worst thing is when
+economists turn against science itself
+and make a generalization based upon the opposite of what
+everything has occurred.
+Yes, so I did tell you about my bet with Tyler Cowen
+about unemployment.
+Always worth repeating the story.
+Yes, so during the last recession,
+he had a book called The Great Stagnation,
+and then followed up with Average is Over.
+Both of them on the theme of, due to fundamental changes
+in the real economy, the unemployment rate
+is going to stay high for the indefinite future.
+It's not just a short run recession,
+despite the fact that it's always been that way before.
+And he gave me 10 to 1 odds that the US unemployment rate would
+not fall below 5% for the next 20 years,
+and he lost in less than three years.
+And what did I do?
+I just bet upon history.
+And in fact, I bet upon a very general pattern.
+If you just go and look at all US unemployment data ever,
+a very general pattern is that once the US unemployment rate
+peaks, it goes back to, it falls by about 1 percentage point
+per year, with a standard deviation of 0.2 percentage
+points.
+So really, if you just go and take a ruler
+and look at the slopes of the declines,
+you can move the ruler almost in parallel across the data
+data without even, barely even needing to change the slope of the ruler.
+So, the difference is sort of like when it bottoms out again. That has
+varied a lot, but still, it goes up and then falls back down by
+two to five percentage points. It's a very reliable rule.
+And so, to me, actually
+what's frightening about this is, it seems like this pattern
+actually is hard for almost any economist to explain because
+here's the thing. So, if you believe that the quality
+of government policy varies over time, then, you know,
+significantly, then we should see quite different slopes.
+Right? So, you should see steep slopes when there's good policy, and
+slow slopes when there's bad policy. But actually, the slopes are so constant
+that it really makes you wonder, well, hmm.
+So, do you want to say that we always have good policy during recessions?
+Who wants to say that? You want to say we always have bad policy?
+So, or do you want to say maybe policy isn't even all that important
+and there's just a normal tendency for things to get back to normal
+and the policy just isn't that big of a deal? You know, assuming maybe
+the policy explains why there's that state of deviation that's not a perfect
+forty-five degree line, like one percentage point per year, which is very close to the average.
+So, maybe you can say, like, good policy gives you one point two
+percentage point declines per year, and bad policy gives you point eight.
+But, you know, at least to me, that is one of the most striking regularities
+in macro, is just how constant that slope
+of decline of unemployment is. Alright.
+Yes. Alright.
+Alright. So, questions about that? Yes.
+Yes. Well, after he lost, then he said
+that he really won the bet, because really the bet should have been about labor force
+participation, which was responding more sluggishly.
+Alright. Now, this sort of goes back to that Ted Lockian point
+of you should specify the terms of victory in advance
+so that you don't have infinite elasticity in redefining what counts as victory or not.
+Right. So, that to me is crucial.
+Right. And yet, so, you know, like it is my, like the bet was
+supposed to be some sort of indication of his theory or not. And I said, look, the bet is
+a vindication of whether your exact prediction was true or not.
+Which then also goes to a more general point of the overall accuracy of predictions.
+Although, for winning one bet, you can just say you got lucky. But if you have a big track
+record of having your predictions wrong, then it's reasonable for
+everyone, including you, to just accept my predictions aren't good.
+So, if I happen to encounter a person calling later,
+how differently would you recall the story?
+Good question. Well, I think his version of the story will be,
+Brian harangued me to bet him and made a big deal out of it and I never
+saw this bet as being very significant as evidenced by the fact I only bet him $10 against his one.
+Yes, I did. This was one where I wanted
+to raise the stakes to the level high enough, like just
+below the friendship destroying level.
+So, I'm like, I'm only my hundred here with a thousand. Alright, no, too high.
+I'm like, buy 50 to your 500. You're not going to stop being my friend over 500 bucks.
+So, we'd only bet my one against his 10.
+Yeah, assuming you like, a lot of, assuming you like, the other thing you like
+to say is, this doesn't show anything that Brian knows any better than me because if either of us knew anything
+we would have gone into financial markets and made a bet
+on this. And I say, look, where's the financial market where I can bet on the
+20 year unemployment rate? I don't even know any of that. And then
+he'll say, well, but there's other things you could correlate with that. I don't really know.
+My answer is, look, I have a strong view about this exact fact.
+As for what his correlations are with a bunch of other things,
+that's something where I don't know very much and I could easily be wrong. But, this one
+thing I know, unemployment is not going to stay above, higher than 5%
+for the next 20 years. That's crazy.
+Let's see.
+Alright, and let's see. So, other things on pessimism. So, to me
+what is shocking is when people are pessimistic who have lived for more than 40 years.
+Anyone who's nostalgic for the 80's, I completely
+am aghast at what they thought was so great about it.
+In the 1980's you had told me what would occur.
+I really am pretty sure that I would have said, that's ridiculous science fiction, no way,
+that's, you're lying. So, there will be a machine
+which allows anyone to find out anything, to read any book,
+hear any music, ever, and it will be free.
+Right? You told me that in 1985, I just want to laugh.
+That's absurd. It would have seemed as absurd as saying, we'll all have jetpacks.
+Back then the jetpacks would have seemed more plausible to me
+in 1985. So, I mean, I have lived long enough to see
+miracles occur, and yet people still
+find reason to complain. And again, this is something where
+when I was a teenager I was not making a list of
+predictions to go and anticipate this day so I could go and show you the accurate, like,
+whether or not things were better or worse than what I was predicting. But,
+it does seem completely amazing to me what has occurred.
+And, again, what you could do is actually just see whether anyone was predicting
+what occurred in advance. So, that is doable. Right? You can actually go
+back to all the works of the time and just try to see, was there anyone who said
+anything remotely like what occurred? So, I know this has barely been done,
+but this is a potential topic for Peric's, is just to see how
+accurate were people's past predictions? And if past predictions have a
+systematic error, then it seems likely that our current predictions have the same error
+as well. So, we'll continue with this next class.

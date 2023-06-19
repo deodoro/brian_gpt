@@ -1,0 +1,3134 @@
+All the other ways are fine too, but you'll probably find that is the best one for you.
+If you're looking on Blackboard for any of the materials, don't.
+I set up my website long before there was Blackboard,
+and it works better than Blackboard in my view.
+So I'm not going to use Blackboard.
+Just go to bcapla.com.
+Everything's there.
+And actually, get the email that I sent out to the whole class.
+All right, so you can actually download one master file of all the notes
+for the whole semester in one click.
+Print that, and that is done.
+I'm going to see four homeworks.
+You can get those online.
+And then for answer keys, I will be just turning on the answer keys as,
+when you turn them in.
+So basically, when you are entitled to see the answer keys,
+then I will change the permissions so that you're able to access them.
+All right, so that should all be there.
+All right, so what are we going to do?
+All right, so remember everything Williams did?
+We're going to do everything else.
+All right, all the other stuff.
+So we're going to do game theory, information economics,
+and we're also going to explore anomalies.
+So anomalies was the name of the column that Richard Thaler won his Nobel Prize for,
+more or less.
+People said, did he really win for writing a column?
+Maybe. All right, so Richard Thaler, right, so yes, for many years
+in the Journal of Economic Perspectives, he had his anomalies column.
+Sometimes he would summarize his own work, sometimes the other people's.
+Anyway, so we're going to go over this.
+I find the longer I've been in economics, the more I think
+that if you don't know psychology, you cannot be a good economist.
+And that is what most of the anomalies are all about.
+Let's see, of course, starting with a really basic one of walking out of bad movies.
+Everyone here does that now, hopefully.
+All right, if not, you must steal yourself.
+It is an affront to economics if you don't.
+Right, again, of course, the key thing would be, do you do something differently
+at a free movie versus what you paid for?
+Because in both cases, since you can't get your money back,
+then the marginal cost of staying there is just the time.
+So if you wouldn't keep watching a crummy movie for free, why would you watch it?
+Because you paid some money that you can no longer get back.
+All right, that's just one example.
+I do know, actually, some economists who still don't walk out of movies.
+Right, I'm aghast.
+What's going on?
+But don't you believe this stuff?
+But, of course, a lot of people don't.
+And to understand their behavior, you've got to go beyond regular economics,
+recognize there's something weird about what they're doing, and understand why.
+All right, and then we got an underlying goal,
+which all psychology says is extremely difficult, but I'm going to try anyway,
+which is to teach you to think like economists.
+So there is a big literature going back 100 years on how hard is it
+to teach people how to think?
+And the general answer is incredibly difficult.
+So people generally just learn exactly what you teach them and then spit it back to you.
+If you are lucky, if you're lucky, that's what you get your students to do.
+But we're going to shoot for the stars, so it'll be a ruined shot to actually come away thinking
+like economists, but we'll see what we can do.
+All right, and then for prerequisites, so assume that you're familiar
+with multivariate calculus, right, nothing, not the hard kind,
+just basic multivariate calculus, and intermediate micro.
+So, again, you don't absolutely have to have had these classes before, but if you feel
+like there's something that you don't understand because you didn't take these classes,
+then you do need to take the extra effort to catch up.
+All right, and then texts.
+All right, so we got David Kreps, course in microeconomic theory,
+so he looks like 25 years old, so it's cheap, right?
+Is it cheap now?
+All right, all right, so what is it?
+How much is it now?
+Okay, so.
+Yeah, so have there not been improvements
+in microeconomic theory in the last 25 years?
+A little bit, but, you know, not hundreds of dollars per kid worth of improvements.
+So, you know, the real improvements have come in empirics, right, which we will be touching on,
+but in a microeconomic theory course, the empirics get sidelined, unfortunately.
+I've tried to bring them in as much as I can, but there's so much theory to teach you,
+and of course a lot of times, you know, you know the theory,
+it's really the empirics don't make sense anyway.
+So, of course, sometimes once you learn the theory,
+you realize the empirics don't make sense, right?
+So there's that problem, too.
+We'll talk about that a bit.
+All right, so we got Kreps.
+Then we got two totally readable books by Steve Landsberg.
+Then there is Richard Thaler's The Winner's Curse, and then finally,
+there is Condiment, Thinking Fast and Slow, which is fantastic.
+All right, then there's also some readings you can get from JSTOR, Mark with an A star,
+and then anything from me you can get on the class webpage.
+All right, four grading exams.
+All right, so we're going to have one midterm and one final.
+Midterm will be 40%, final is 45, and homeworks are 15, but don't think
+that means you don't need to do the homeworks,
+because there is not much variance in the homeworks, especially in a graduate class.
+Most people just do their work and get full credit,
+and if you decide you don't feel like doing them,
+that means that you have lost 15 almost sure percentage points,
+which can make the difference between, say, an A and a C, an A minus and C anyway.
+All right, so not advised.
+Okay, once, actually it wasn't a graduate class, but I had a student who had A's on the test
+and just didn't do the homework.
+I was like, man, why are you making me give you a C?
+I don't want to, but the formula is my contract, so I'm not going to change that.
+All right, so and these weights are fixed, as I do consider it my contract with you,
+and so if you are, if your performance on the midterm or the homeworks is poor
+and you ask me what can I do to improve, the answer
+to that question is implied by the formula.
+So just use the formula.
+All right, and then no formal grade participation, but at the end I do go through
+and give a one-third grade bump to anyone who, in my subjective opinion, improved the class.
+See, I also, towards the end, encourage everyone to email me a headshot
+if you think you, if A, you think you deserve credit, and B, fear I don't know your name.
+All right, so the conjunction of those things occurs.
+I will remind you to do this with a class this large, and since we only meet once a week,
+I think I almost have an excuse for not knowing everybody's names.
+I will try, but my memory's getting worse over time, not better, unfortunately, Sam,
+but I will try to make sure that everyone has a chance to get credit if they deserve it.
+All right, then homework.
+There's going to be a lot of homework in this class.
+There'll be eight graded homeworks, as well as two ungraded homeworks.
+Here's my philosophy.
+So, first of all, first premise, getting this PhD should now be the most important thing
+in your life, right?
+Yes, of course, and then microeconomics is the most important part of the PhD program, right?
+Of course.
+So, this class is now the most important thing in your lives, obviously.
+All right, and if you don't see the multiple logical errors in that argument,
+don't worry about it because the conclusion's still true.
+This is the most important thing in your life.
+All right, the homeworks are great.
+You receive a discrete grade on them, just check plus, check, check minus.
+So, if you have check plus and you think that you were mistakenly graded on something
+but you understand the answer, no need to lobby for a better grade
+because you already have the best possible grade.
+All right, and then if you don't turn it in, you get zero points.
+Late homework, lose a point.
+Once I activate the answer key, you can't get credit anymore.
+So, yeah, so I said the best way to contact me is this.
+You can satisfy most of your requests on the email or rather on the class website.
+You don't need to do it by email.
+You can just help yourself, self-service.
+Then I'm over in Carroll Hall.
+How many of you have ever been to Carroll Hall?
+All right, so like half.
+All right, it's about seven minutes from here.
+Off in the middle of nowhere.
+I am more than happy to have visitors at any time during office hours or whatever,
+but if that is an assumable obstacle to you, there are other ways of contacting me,
+such as email, phone, I will Skype with you.
+Every now and then there's someone who works in D.C. who leaves work two hours early to go
+against traffic to come and see me face to face.
+They have one question, I'm confused why they did that.
+You know, quite flattering, but you don't have to suffer like that.
+It does not factor into your grade or anything like that.
+Otherwise, people might make up fake stories about how hard they suffered to come here.
+I live in the North Pole.
+I only come here just for this.
+All right, so and then, you know, phone number there.
+You can still use the phone in many ways is better.
+Let's see, I've got official office hours Monday, Wednesday from 133.
+Find a schedule appointment, and I do not mind drop-ins either.
+With a drop-in, you are assuming the risk that I will not be there or I'll be on the radio.
+I'm going to be on the radio more often this semester than usual
+because I have a new book that just came out.
+All right, okay, and let's see.
+Then here's the proposed schedule.
+I've done this class like 16 times, so I feel like I understand the right pace of the class
+and that we are going to finish all material.
+Unless they're saying there's two snow days, that will preclude doing everything probably,
+but then I will start trimming material.
+All right, and I do happen to get behind because of multiple blizzards.
+We want to just get us back on track by trimming some of the low marginal value sections,
+and then we'll still get to the last topics.
+All right, so let's see.
+Any questions at all about what we're doing here?
+So any bureaucratic questions?
+Anyone wonder whether they're allowed to be here?
+The answer is yes.
+So in my book on the signaling model of education,
+I point out how almost no students ever seek out free education, but here you may receive it.
+You can receive it from almost anyone, but here you're totally welcome.
+And if you ever say, can I bring someone?
+Yes, of course, you can bring all the people you want.
+I wouldn't let that get crowded.
+Not in my experience, it will not.
+This one, we're pushing it just a little bit.
+So if you have a very large family and you want to bring them all,
+then maybe there could be a problem, but attendance tends to be high in PhD classes.
+Upwards of 90% of people keep showing up usually.
+Anyway, so you don't even have to ask if you want to bring people normally.
+You can probably just grab a chair from another room and learn PhD microeconomics
+for free off the grid.
+And as we'll talk about when we do labor economics and then see how far the unofficial education
+actually gets you in the labor market, probably won't get you anywhere,
+but if you just want enlightenment, then here it is.
+All right.
+Let's see.
+I'm not going to go over all the stuff.
+You can check that out for yourselves.
+Let's see.
+Any questions before we actually get started on the real material?
+Anyone happy?
+Anyone content?
+Okay. All right.
+Let's get this.
+Let us begin.
+All right.
+So this lecture, we're just going to go over two of the main concepts in economics.
+You've almost certainly heard them before, and yet most people learn them incorrectly
+and then they continue to believe them incorrectly, and then often I've seen economics professors
+go and talk to large audiences to say things that are so obviously wrong.
+Usually people just accept it, but it's like, hey, what you're saying is demonstrably wrong.
+I disagree, but here's a counter example, devastating, what you said is false.
+But anyway, so ideally none of you will ever be in that position because you will not say
+the wrong thing anymore.
+All right.
+So let's get started.
+All right.
+So efficiency and probability.
+All right.
+So, and again, so as I said, I do encourage people to actually print off the notes.
+There is some actual experimental research on note-taking by hand does improve learning
+better than just typing on the screen.
+So it seems pretty solid.
+So anyway, so you don't absolutely have to, but yeah.
+So you follow the notes closely.
+People often find it helpful to have the printed out notes, and then you can go and just write
+the margins.
+You are the first people that I'm actually going paperless with.
+There's a copy center, something like, it's like a three or 400% increase in the price
+of copying.
+And if you have a model of that, I'd like to know.
+It's like, wow, the elasticity of M suddenly fell by a factor of four.
+All right.
+I don't think that's a good story.
+So I don't know what the right story is.
+But anyway, so it seemed like a good time to start.
+All right.
+First of all, so many meetings, efficiency.
+Efficiency is a word like rationality with many meetings, and people use it to try to
+end arguments quickly and often with verbal trickery.
+So you're going to try to prevent the verbal trickery.
+A lot of equivocation where you use the word in one sense in one paragraph, different sense
+in another paragraph, but people don't notice what you're doing.
+All right.
+So Merriam-Webster College Dictionary defines efficiency as, quote, effective operation
+is measured by comparison of production with cost, as in energy, time, and money.
+Once in a long while, economists use the word efficiency in this normal way.
+It is not unheard of for economists to say this, as in, wouldn't it be more efficient
+if, say, what would be a good example of this?
+If, like, wouldn't it be more efficient if everyone were to go and enter the plane with
+the latest numbers first or something like that?
+So we are just using the resources better.
+All right.
+But yes, sir.
+Oh, sorry.
+All right.
+Yeah.
+Anyway.
+By the way, so if you've ever been to the Public Choice Seminar there, I do have the
+rule of stopping all questions until the lecture is done.
+Here, of course, you're free to interrupt.
+So different rules, we optimize for different circumstances.
+All right.
+All right.
+Anyway, so yes, because in seminars, the problem is too many people interrupting and asking
+questions that are going to be answered eventually, whereas in classrooms, the problem is more
+of people not asking questions ever, no matter how desperate they are.
+All right.
+So anyway, so occasionally, we do use efficiency in this dictionary sense, which would be something
+like the ratio of the value of output to the value of input, that kind of thing.
+But normally, we use it in very different ways.
+And then, as I said, we equivocate.
+All right.
+So the most common uses in economics are as follows.
+First of all, Pareto efficiency.
+Named after a famed Italian economist, Vilfredo Pareto, the teacher of Mussolini.
+One of the teachers was the only one who taught Mussolini.
+Mussolini was in exile, and he came to the University of Lassalle, and then Pareto taught
+him.
+So there are some interesting questions about connection.
+Nothing to do with what this efficiency concept.
+All right.
+And another one, Calgary efficiency, which strangely is widely used in government, although
+no one ever says Calgary or X when they do it.
+Instead, they call it just cost-benefit efficiency.
+Cost-benefit efficiency.
+All right.
+Now, a lot of micro builds around efficiency, so it's very important to understand these
+terms in precise meanings.
+All right.
+And that's what we're going to do.
+All right.
+So starting with Pareto efficiency.
+All right.
+How many people have ever heard of the first or second welfare theorems?
+Yes.
+Often discussed.
+All right.
+And we're going to do them today, next week.
+All right.
+So anyway, most of them, so many of the most famous theorems, in fact, I was able to say
+the two most famous theorems in microeconomics are about Pareto efficiency.
+A situation is Pareto efficient if and only if, that's that familiar with the if or do
+Fs.
+That's not a typo.
+If and only if.
+All right.
+It's Pareto efficient if and only if the only way to make one person better off is to make
+another person worse off.
+The only way to make one person better off is to make another person worse off.
+And then a Pareto improvement is any change that makes at least one person better off
+without making anyone else worse off.
+So notice these are two concepts that fit together.
+Where if you are Pareto efficient, can you have a Pareto improvement?
+No.
+Right.
+So the only way to have a Pareto improvement is if the world is not Pareto efficient.
+I have seen professors actually go and say, well, this change is going to be Pareto efficient.
+Wait a second.
+No, no, no.
+If things were Pareto efficient, then it couldn't be a, then there couldn't be a change.
+What are you talking about?
+So you are mixing up two concepts which actually preclude each other.
+So when you're done with all the Pareto improvements, you've done every single possible one, then
+you're in the world of Pareto efficiency.
+OK.
+Now sometimes when people are explaining Pareto efficiency, they say, they give a slightly
+different definition.
+And when you hear it, you say, wait, that's not slightly different.
+That's really different.
+Another definition people give of Pareto efficiency is to say that there's no way to make everyone
+better off.
+Now, is there a difference between making everyone better off and making one person
+better off and no one else worse off?
+Are those the same thing?
+In normal English, those are not the same thing.
+And in the real world, they're not the same thing.
+The trick is that when theorists use the terms, they're assuming perfect continuity, perfect
+divisibility of the world.
+And therefore, if one person is better off by a penny, we can just go and split that
+penny 7.6 billion ways, and then everyone's better off.
+So in that bizarre scenario that is actually the standard one a theorist assumes, then
+the two things are the same.
+But anyway, the more fundamental one is the first one.
+You make one person better off at least without making anyone else worse off.
+OK.
+Now, it is, so in theory, it is possible that I can propose, just imagine we're the only
+people on Earth.
+There's no one else on Earth.
+And I propose an idea which is a genuine Pareto proof.
+It is conceivable that every one of you will complain.
+Say, that's a terrible idea.
+It's the worst idea I ever heard.
+Everyone will be throwing tomatoes at me for proposing a Pareto improvement.
+It's like, why would someone get people angry at them for proposing a Pareto improvement?
+Everyone, so at least one person can be better off.
+No one's worse off.
+And the answer to that is the same reason why you might go and complain when your boss
+offers you a $10 raise.
+A $10 raise, that's all you're offering?
+Like, well, is $10 better than nothing?
+Shut up.
+No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+don't distract the issue.
+The important thing is I want what?
+Starts with an M.
+More.
+More.
+So why might everyone in the room get mad at me when I go and propose a Pareto improvement?
+Because everyone wants more.
+You all might want to get extra.
+Right?
+So, you know, this could be, you know, it's just down to two people.
+And I say, well, how about, you know, I cook and you clean.
+And that's a great deal for you.
+You might say, no way.
+You do both.
+That's the deal I want.
+What do you do?
+I eat the food.
+All right.
+But I keep you company.
+That's what I can offer.
+All right.
+And even though my name's a Pareto improvement, you might be jockeying to get a bigger share
+of the surplus.
+All right.
+So it's not equivalent to what's been called a demonstrated preference standard where
+everyone has to sign on.
+There could be a Pareto improvement that's widely objected to.
+In fact, every single person could be saying this is terrible.
+You can all sign a petition saying, you know, this is the worst idea ever.
+And I just say, tough luck.
+This is what you're getting.
+Shut up.
+And it's possible that's a Pareto improvement.
+It's also possible that I'm ruining all your lives.
+But the point is that this concept could, in principle, apply to a room of people that
+are all complaining and saying that they're unhappy.
+And that's completely possible.
+All right.
+In what I'm going to call a highly stylized theoretical setting.
+Highly stylized theoretical setting.
+I don't think I've ever seen this as an abbreviation, but HSTS.
+Highly stylized theoretical setting.
+There's two standard examples of highly stylized theoretical settings.
+One of them students have to deal with a lot.
+There are going to be eight of them in this class.
+Eight graded ones, two ungraded ones.
+Homework.
+Yeah, homework problem is usually a highly stylized theoretical setting.
+Assume there's two kinds of people.
+There are muted meds and blasting bobs.
+Muted meds don't like noise.
+Blasting bobs do.
+There's an externality.
+So you work through that.
+So that is one case where we work it out in great detail.
+And we tell you this is the world.
+This is exactly how the world is.
+These are all the people.
+This is exactly what they're like.
+You know all this stuff.
+And the other main highly stylized theoretical setting is to be found in a certain kind of writing that gets you a dream job for life.
+What gets you a dream job for life?
+Academic publications.
+Particularly theory papers.
+There are other ways to get the dream job for life.
+But, yes, theory papers.
+And if you've ever read a theory paper, you'll generally know as well.
+These are much harder than the homework problems.
+The saving grace is that if you're writing a theory paper and you find that you can't solve your own problem, you can just change the problem and tell it's something you can do.
+So that's the homework problem.
+Someone else tells you to do it.
+They hopefully figure out how to solve it so it can be done.
+I've heard in Chicago sometimes people are just given problem sets.
+The professor himself doesn't know how to solve.
+I was wondering whether anyone could do it.
+And then the students suffer and shed and cry.
+And then find, oh, what do you know?
+When someone proved in 1973 this problem can't be solved.
+Oh, well.
+Sorry.
+You had a bad weekend?
+Tough luck in Chicago.
+Alright.
+Those are cases where you get these highly stylized theoretical settings.
+And in these highly stylized theoretical settings, great improvements are conceivable.
+So if I lay out a very simple world in a homework problem or in a paper, then you can go and work through the math and say, okay, look, here's a brain improvement I'm going to propose.
+What would be an example?
+How about a world where everyone has identical preferences and endowments?
+It's a nice, simple world, isn't it?
+And that's one where it's not hard at all to propose brain improvements.
+For example, if everyone has identical preferences and endowments and everyone is polluting and everyone is suffering, then you might say, hey, how about this?
+Let's impose a per unit of pollution tax of a certain amount and let's take the proceeds and give them back to everybody as a lump sum.
+And that is a classic homework problem where you can prove that you have tax people and yet the tax is a great improvement.
+In fact, everybody ends up with the same amount of money.
+All you change are the marginal incentives where, of course, people don't like that it's more costly for themselves to pollute, but they do like that the air is cleaner.
+And in a homework problem you can work it all out perfectly where, aha, I figured out not only the brain improvement, maybe you can actually figure out the brain vision solution.
+Here is exactly what the brain vision tax would be, which would get the pollution down to the optimal level.
+All right.
+So that's where you can get a brain improvement.
+Now, has anyone ever been on a planet where everyone had identical preferences and endowments?
+What about a world with just two kinds of people?
+Anyone been to a three?
+A world with exactly three kinds of people.
+All right.
+So, yes, I'm unaware of these.
+And actually, technically, even that wouldn't be good enough because the Pareto is about everyone, everyone.
+And so normally it's going to be every human.
+It's not even worrying about non-human preferences.
+And those kind of, or if you take a class with Roman Hansen, he's worried about the preferences of machines.
+All right.
+Not toasters, but other machines.
+It's a little hazy where it goes.
+He has told me that he thinks that thermostats have beliefs.
+Is that a lie?
+Thermostats?
+Man.
+I don't know.
+I don't think he literally thinks that.
+But it's a little confusing.
+All right.
+Anyway.
+So, strong argument that when we leave this and move to the real world, where is this real world?
+It's here.
+It's outside the classroom.
+It's on TV.
+You walk around.
+That's it.
+And by the way, just to get ahead of ourselves, sometimes on the homework or on an exam, there will be a question that says,
+in the real world, and when there's a question like that, it is not acceptable to say, assume perfect competition.
+Why not?
+Well, because it's a question about the real world.
+You're not just allowed to assume whatever makes your answer easy if you're talking about the real world.
+If you were to say, well, according to these studies, the real world is perfectly competitive, and therefore, that would be okay.
+That would be way better than most of the answers that I get on these real world questions,
+because it's sad to see students that probably used to be able to think about the real world,
+who have been so caught up in models that they have lost the ability, and now you ask them a real world question,
+and they start telling you what a model says.
+Could the model be wrong?
+Could it be a terrible model?
+Maybe all the models you know are terrible, possibly.
+So, anyway, now we're talking about the real world.
+So here is my claim.
+In the real world, very strong arguments that everything is Pareto efficient, and the Pareto improvements are impossible.
+All right.
+Why?
+Because in the real world, almost any change that you can imagine will hurt somebody on Earth.
+Almost every change will hurt somebody, and the economists will often then say,
+well, we'll just compensate the losers.
+In the real world, how are you going to compensate these losers?
+Well, look, I'll write you a check.
+All of them?
+Every single loser?
+Yeah.
+How will you find them?
+Where are they?
+How will you determine whether someone is a loser?
+What about future losers?
+What about CSO?
+You're talking about getting rid of rent control.
+What does compensate the losers?
+What about someone that was going to move to New York in 20 years, and now wanted a rent control apartment?
+Is there a fund for them to get some money?
+No?
+Well, then Pareto is not the relevant concept here, because they are worse off.
+All right.
+So it's highly unlikely in the real world that you're going to compensate everybody, that no one will be missed.
+So let's take a really simple one.
+Does anyone here have a watch?
+You've got one.
+Suppose I go and buy your watch.
+Now, you might think this is the clearest cut case of a Pareto improvement in the world.
+What concern is this to anyone other than the two people?
+Me, the buyer of the watch, and you, the seller of the watch?
+And the answer is that if you own a watch, every once in a while someone will ask you the time.
+And the people that will ask me the time are different from the people that will ask you the time.
+And when you sell me that watch, do you compensate those people?
+How would we even know who would have asked you the time for the rest of the time that you owe,
+the period when you would owe this watch?
+And certainly they're not going to be the same people.
+We don't follow each other around, make sure we're always together.
+So, therefore, it will be two different groups of people.
+So even if the value of the asking the time for your people and my people is the same,
+nevertheless, we have made a bunch of people ever so slightly worse off.
+Of course they're worse off in a way where they may not even know what they're missing,
+but built into neural models is, like, they don't need to know why.
+All it is is the final answer.
+The final answer is like, what is in your portfolio?
+That's enough to make you worse off.
+Now, again, this does get us into some philosophical questions.
+Again, Robin Hanson, just to give another one of his fascinating, but strange views,
+is that the dead have preferences, and so don't mess with their graves.
+Because, like, they, in what sense do they have preferences?
+Well, like, when they were alive, it would have bothered them to know what you're doing,
+and so you have made them worse off without their dead.
+Hmm, all right, but it's a big view.
+Now, sometimes people go and try to salvage this idea by saying that, well, sure,
+individual transactions can be Pareto improvements, but a rule can still be a Pareto improvement.
+So the rule that watches are saleable could be a Pareto improvement over the rule that watches are not saleable.
+And this one, again, you say, well, in the long run,
+is it really easier to find out the time in a world where people can't sell watches?
+Maybe it's actually harder.
+But, again, remember, Pareto is about everybody.
+There can't be anyone worse off.
+So think about this.
+Right now, this day, there are some people who are going to die today,
+and maybe they were going to ask someone the time during their last minutes.
+And when you change the rule, for some of them, there is going to be a long run,
+and they will not live long enough to see that long run.
+And so you have made them a little bit worse off in their last day of life.
+All right.
+Now, when you start thinking about this, you might say, well, the counter example is like,
+what about, like, horrible mass murders?
+Are those Pareto efficient?
+Yeah, well, think about any mass murder.
+If you stopped it, who would you have made worse off in the real world?
+Yeah.
+You might say, well, some of them didn't really want to do it,
+and they're just following orders, and they feel bad about it.
+You know, there's going to be some power-hungry, sadistic people around.
+So the common estimate is like 1% or 2% of human beings are psychopaths
+who just enjoy this kind of thing.
+So are we going to cause our psychopath compensation fund for when you stop a wanted genocide
+or something like that?
+Of course not.
+Right?
+You're going to get lucky.
+You don't get to kill people anymore.
+Oh, what about me?
+Too bad.
+All right.
+Well, then you're not doing Pareto.
+You're not doing Pareto.
+Right?
+Or you could go look at the old Soviet Union and say, look, things are terrible there.
+And yet, is getting rid of communism a Pareto improvement?
+No.
+Yeah, come on.
+Like, there's a whole bunch of people who lost power and get humiliated and executed, right?
+Then you deprive psychopaths of their opportunities to torture and do horrible things to other people.
+And there are people like that out there.
+So if you go and search on the Internet, you can find all sorts of weird people.
+And some of them you may say they're just trolling and they don't really mean it.
+But all of them?
+You know, like, so, I guess last year I learned about tankies.
+Right?
+Now I knew about the general what's that?
+You just learned about that last year?
+Yeah, well, I knew about the general concept of dire Stalinists, but I hadn't heard they had a new name.
+All right?
+So out of them, how many really want to go and start murdering millions of farmers?
+Probably not all of them.
+Probably some of them are like, eh.
+But then, are there not a few twisted, wicked souls among them who are slobbering, dreaming about murdering people?
+Yeah, some of them are.
+So, like, if they were on top and then you ended their system, you've deprived them of their great joy in life.
+Right?
+So, yeah, it's not really going to benefit you because whatever it gets, the dictator is going to wipe out most of you guys once he gets power.
+Yeah, the poetic justice of all this, if there is some.
+Yeah, well, but the guy who wipes out everybody, he gets to really have a great time.
+It's like, ah, all of you guys who thought you were going to get to be the only people that were murdering and having fun doing it, but really it's just me.
+And I'm going to kill all of you, all my friends.
+And that's what I like doing.
+I never disturbed these people out there.
+Just broaden your search path.
+Look, if you think about it, even if everyone on the Internet, they're just joking, read history and they'll see the twisted, horrible things people have done to other people.
+And sometimes for no discernible motive other than to say it.
+Just read some articles about victorious serial killers.
+I mean, of course, if you're convinced, you don't have to actually read them.
+And again, it's only in recent years that people do this stuff.
+No, it's only in recent years that it gets a lot of publicity.
+There are horrible stories of people doing this kind of stuff, going back as long as there's anyone writing that crime.
+And when you go and stop them from doing their thing, you're making them worse off.
+And do we compensate them? Of course not.
+And again, of course, some of these people seem pretty fanatical, so it might not even be possible to compensate them.
+So consider that too.
+So that's why in the real world there are no brain improvements and everything is brain efficient no matter how terrible.
+And in this case you might be saying, well, why do we even go and study this concept?
+Well, really it's pretty much only useful here.
+And the other thing it's useful for is just to understand why it doesn't apply in the real world.
+So I think there's insight there.
+Here's a concept which sounds good until you realize that it never matters in the real world.
+And you may say, all right, well, now let's try to think of some efficiency concept that does matter in the real world.
+And this brings us to counter-haze efficiency.
+So whenever economists are actually doing policy analysis, they almost always switch this.
+Counter-haze cost-benefit efficiency, they are for all types of purposes the same.
+Counter-haze is sort of the more academic version.
+Cost-benefit is what bureaucrats do.
+And we're going to see sometimes they do it poorly, but still this is what we're trying to do.
+So since your situation is counter-haze efficient, if and only if the dollar value of social resources is maximized,
+or it could be the euro or the ruble or the yen, it doesn't matter.
+And then a counter-haze improvement is any change that raises the dollar value of social resources.
+By the way, there is one thing that I forgot to mention, which is, let's see, a couple of things.
+So first of all, you have your absolute entitlement to attend that rank in the middle class.
+So I will try to stop very promptly right in the middle.
+So that will be at 8.35, you'll have a ten-minute break.
+So if I am going over, please let me know.
+And also we're always going to end on time.
+I strive to do it at 10 o'clock sharp.
+So you are, I know, physically suffering to be here until 10 o'clock.
+We have a lot of material to cover, so we do need to go to 10, but we will not go to 10.01.
+And if I'm doing that again, please let me know.
+I'm going to ask everyone to give it their all until 10, and then I will cut you loose, and the effort will be over.
+So just try to keep it together until then.
+I'm also going to try to do the math before the break.
+I can't promise to always do that, but I do try to give you the math when you are at your most alert.
+All right. Now we're zooming.
+All right. Now, some relationships between these concepts.
+First of all, so every calorie-exhibition situation is Fredo-efficient.
+Every calorie-exhibition situation is Fredo-efficient.
+But most Fredo-efficient situations are not calorie-exhibition.
+And how can we see this?
+Let's go back to that watch example.
+I suppose that you value your watch at $20.
+I value your watch at $30.
+Then the people that will ask you the time over the course of your ownership of the watch value that at a cumulative amount of 10 cents,
+and same for the people that will ask me.
+Of course, my strangers are different from your strangers.
+All right. Now, if I have the watch, is the situation Fredo-efficient?
+Sure. Right? And well, you know, yeah, I'll let them know so.
+Now, is it calorie-exhibition?
+And assume we're the only two people who can own this watch.
+Well, so if I have the watch, what's the social value of the ownership?
+$30.10. If you have it, it's $20.10.
+Now, why is it that if, you know, that as long as, let's see, you know,
+how would it be the problem if, say, if you owned it, right?
+So if you owned it, and then at least, for instance, I could go and, you know,
+pay you the money and then buy people off, of course, in the real world, that's going to be a problem, right?
+But if we are at the maximum value of $30.10, there's no surplus to divide.
+So if you already maxed out the surplus, there's no way you can get a Fredo-improvement out of that,
+even in a very high-life theoretical setting, because if there's no,
+if everything is already owned by the highest value ever, then how can the value go up again?
+You can't. Right?
+If every item is already possessed by whoever values it the most, there's no longer any room for a Fredo-improvement,
+even if other things are, other conditions are suspicious.
+Now, so anyway, if you have the loss, the situation is still Fredo-efficient, again, in the real world,
+because there's no way of compensating those people who have asked you the time, right?
+But it's not Calgary-exficient. Calgary-efficiency would be if I had it,
+then society values of $30.10 combined, but of course still Fredo-efficient for you to have it,
+because we don't have any compensation scheme that is workable.
+Right. Now, every Fredo-improvement, every time we actually have a Fredo-improvement,
+we also have a Calgary-ex-improvement automatically.
+So we have the whole idea of the Fredo-improvement is that we're moving resources into the hands of people who value them more.
+So in a particular, if we had made one person better off and no one worse off,
+then what is the person who's better off, what are they willing to pay for the change?
+Greater than zero. If you're better off, you're willing to pay something for the change to happen.
+And if you're no worse off, what are you willing to pay to stop the change?
+Zero or less. So, if we go and add that up, then of course we've got a,
+if we've got a Fredo-improvement, then we've automatically got a Calgary-ex-improvement.
+But again, most Calgary-ex-improvements are not Fredo-improvements.
+And just take, we'll go through the list of standard economic reforms.
+Let's get rid of rent control. Is that going to be a Fredo-improvement?
+No. Someone's going to lose out. Even if you have a big compensation scheme for current tenants,
+still there's people that would have been able to get a rent control apartment in the future, and who cares about that?
+On the other hand, is that likely to be a Calgary-ex-improvement?
+According to every sublime-men diagram I've seen, yes, that's going to be a Calgary-ex-improvement.
+Why? Because we're moving the resources out of the hands of people who assign low values to them,
+into the hands of people who assign high values to them.
+Right? And if you're a normal human being, you say, wait, so we're taking stuff from poor people,
+giving it to rich people, and that's an improvement? Yep.
+Because the rich people value it more. Improvement.
+One of my favorite examples of this is people complaining about poor people selling their kidneys to rich people
+if there is, in fact, a legal market in human kidneys.
+And my rebuttal to this is, wait, so sick people are getting healthier, poor people are getting richer,
+and you want to stop it?
+Of course, the normal view is, yeah, totally. That's terrible.
+Because the kidneys are going from the people who value them less, generally poor people,
+into the bodies of people who value them more, generally richer people.
+So rent control, getting rid of rent control, classic case.
+Getting rid of it is a Calgary-ex-improvement, not a great improvement.
+How about getting rid of the tariff? Right? Pareto improvements? No way.
+Calgary-ex-improvements? Totally.
+How about, let's see, letting in one more immigrant? Right?
+Pareto improvements? No.
+There's got to be some people who are unhappy about it,
+maybe a lot of people are unhappy about it.
+But still, counter-risk improvements?
+Very likely.
+So what about, again, like, any complaints?
+Well, you have to write down, like,
+just the basic microeconomics.
+So even if some people are seeing their wages go down,
+that also means the purchasers of labor
+are getting an equal offset in gain.
+And so the key thing is that you are moving the labor
+from a place where it is worth less
+to a place where it's worth more.
+And that is the essence of a counter-risk improvement.
+If you go and take ice from the North Pole
+and move it to a hot city, you have
+raised the value of the world's ice supply
+by moving it from a place where it is worthless
+to a place where it's valuable.
+Similarly, if you take some labor from Congo
+and move it to Miami, you have enriched the world
+by moving the resource from the low-value place
+to the high-value place.
+And yet, you have not achieved a Pareto improvement,
+because there's going to be some people who are mad about it.
+Again, of course, now, going back to what I said before,
+isn't it possible that everyone who claims to be mad
+is just making a lot of noise in order to get
+a bigger share of the surplus?
+Yeah, it's possible.
+But if every single one of the complainers is insincere,
+that's where it's hard to believe.
+It's easy to believe that a lot of complainers are insincere,
+especially if you're a parent.
+Kids complain.
+You have kids who complain about everything.
+Are they always complaining?
+Maybe it's just strategic.
+And yeah, for some kids, yeah.
+It's like, whatever you offer him, he tries to say, oh, no,
+and then ask for more.
+It's like, hmm, try a controlled experiment here.
+It's randomized.
+You're like, he always tries to bargain for more,
+no matter what the initial offer is.
+And he always looks unhappy, whatever you say.
+Hmm, suspicious.
+So there's that.
+And there's even a big-body research in psychology
+saying that in many cases, people
+will pretend to believe and feel things that they don't really,
+or at least they will exaggerate.
+Like people will exaggerate how religious they are.
+How do you know?
+Well, you can just look at, ask people, did you attend church?
+And then compare it to actual numbers.
+Say, wow, there's some liars out there.
+Or you can go and find all the people
+who say their religion is the most important thing
+in their lifespan, and yet they don't go to church
+or ever read the Bible or even know what it says.
+It's like, hmm, if it really were the most important thing
+in your life, wouldn't you go and do
+the things that you don't do?
+So you kind of seem like you're lying.
+You can just think this, but it's suspicious anyway.
+Yeah.
+This is, by the way, one of the main themes
+of Robin Hanson's new book, Elf in the Rain.
+There's a lot of hypocrisy out there.
+So the fact that people claim to really like something
+doesn't mean that they really like it.
+The fact that they claim to hate something
+doesn't mean that they really hate it.
+One of my favorite things to say to people
+that complain about immigration in the DC area
+is, look, there's a lot of low immigration
+parts of the country.
+Why don't you just go there?
+And then enjoy the great non-immigrant part of America.
+When you say these are immigrants' room things,
+you could just move.
+So why don't you go there?
+Or my dad, he never stops complaining about Los Angeles,
+but that's where he lives.
+Key fact, his home is worth about $1 million.
+If my dad were impoverished in LA,
+then he might say I can't afford to go to one of the better
+places.
+But given that he owns this home outright,
+he could totally go to almost any place else.
+So then the fact that he's complaining all the time,
+it's just there's something insincere
+about all this complaining.
+At a minimum, you'd be even less happy
+if you never got to every other place.
+And you say, this place is terrible.
+It's like, well, this place is terrible.
+What do you think about everywhere else on Earth?
+Let's really hate the rest of the world.
+Tony, you have a question back there?
+Oh, yeah.
+I was going to say, they kind of be
+hypocritical when they explain about immigration
+and the rules of the world.
+So maybe that's why they're doing that.
+Why would it be hypocritical to move away
+from things you say you dislike?
+I'd say it's the opposite.
+That's consistence.
+Because none of your immigrants are here.
+Well, I mean, it's not your home.
+Oh, you knew.
+No, none of your immigrants knew.
+Well, again, most people who are against immigration
+only think of it as crossing national borders.
+They don't think of it as moving to another state.
+But that's not immigration.
+That's a different thing.
+All right.
+Most immigrants say that.
+I've never heard them say that.
+They're like, I think it would be wrong to impose myself
+on Idaho.
+All right.
+So every Pareto improvement is a Calrix improvement.
+But most Calrix improvements are not Pareto improvements.
+The kinds of stuff that economists
+will routinely recommend as good policy
+aren't Pareto improvements.
+They may very well be Calrix improvements.
+But if you were ending it, of course,
+on a homework problem, you can easily
+know that it's going to be a Pareto improvement.
+Like, how can you make getting rid of rent control
+a Pareto improvement on a homework problem?
+So there's two kinds of people.
+There are landlords and there are tenants.
+All tenants are identical to other tenants.
+All landlords are identical to other ones.
+And then how do you go and get the Pareto improvements
+of getting rid of rent control?
+Well, since everyone's identical,
+or there's only two types, then what can you do?
+Yeah, so you go and lay it out.
+And where does this conversation come from?
+Go from the gains to the benefits.
+So you go and you do a lump sum tax.
+And the landlords say, and then you take that money
+and you give it to tenants.
+But then the landlords are able to get the market price.
+And since there was Calrix inefficiency,
+there is some extra value that frees up.
+And that is how both sides, or at least one side,
+or the other, that is how the social value
+resource goes up.
+Right.
+That's the idea.
+Just like that one I was talking about in a civil problem,
+how can mitigating externality be a Pareto improvement?
+This would be one where everyone's identical.
+And all you do is lump sum tax.
+Or the other way around, it's the opposite.
+So you lump sum transfer paid for by a per unit tax
+including activity.
+And then everyone cuts back the pollution.
+They are able to afford the same stuff as before,
+but they don't want to buy it anymore
+because now pollution is more expensive.
+Instead, they reallocate the memorial
+in a low pollution direction.
+Could you force something to be Pareto improving
+by splitting the action into two phases
+and then setting your endowment point in the middle of it?
+So conducting mass evictions first, saying,
+and now this is where we start the endowment,
+and then you can do Pareto improvement.
+Ah.
+So, well, the answer is, well, then you've done two things.
+One thing is isn't a Pareto improvement at all.
+But the other one is.
+Yes.
+And then the other thing, let's see.
+So part two is where, what can they do?
+So part one is they all get evicted.
+And what happens in part two, then they're
+able to find their way back if they want to.
+Then gentrification is.
+OK.
+Then there's gentrification.
+So let's see.
+So I'm not sure about that example.
+Yeah.
+So you could go and set things up so that, like you said,
+there's a massive horrible thing that happens to people.
+And all right.
+Sorry.
+And then after that, then you could just allow it.
+Although in the real world, of course,
+there would be some bitter people who would say,
+just knowing that gentrifying people got to occupy my home
+is an additional insult. And again, some of them
+may be just claiming that they're
+really upset about something that doesn't bother them.
+And it really doesn't bother them.
+But presumably not all of them are fine.
+So another weird cult. So on the web,
+you'll find all the people who don't live in North Korea
+saying North Korea is the best country in the world.
+All right.
+And yeah.
+So probably a lot of them are not really sincere.
+But Paul and Arthur, there's zero people who are insincere.
+There's kind of a few of them out there.
+It might be very hard to tell which ones they are.
+Probably the ones who actually visited and come back and say,
+I saw it all.
+It's wonderful.
+Most people go there or come away with PTSD.
+But you came away saying, oh, I just love it.
+It's wonderful.
+All right.
+OK.
+Now, counter-exhibitiencies or counter-ideas
+are often described as potentially predictive
+efficient.
+And there is an effort among theorists
+who don't want to talk to the real world
+and say, it's almost the same thing.
+Almost the same thing.
+And again, the idea is this.
+If the value of social resources rises,
+then assuming perfect continuity,
+then you could compensate all the losers
+by sharing the surplus.
+So like this scenario.
+Well, we'll just go and say, this
+is the original people who benefited.
+These are the new people.
+But we'll just go and take some of my $10 surplus
+and compensate those people in a story, a problem.
+The world's all continuous.
+So it all works out.
+But this does raise the question,
+what do you mean you could do it?
+Could you do it in the real world?
+Tell me how.
+I'm curious.
+Yes.
+Well, my question is, it would only
+be potentially greater efficient if the extra value you gain
+exceeds the amount of money.
+Yeah, so the whole idea is I value 30, he only values 20.
+But then we have bystanders who put equal value, or bystanders.
+So anyway, we've got this situation here.
+So you say that we could compensate them.
+How?
+Describe your system of compensation.
+Oh, well, assume we know who they are.
+We don't.
+Assume we could costlessly go and get the money.
+We can't.
+So you're saying we could do it if a bunch of things
+are different.
+You know what?
+That's also called can't.
+It means you can't do it.
+So you can't do it.
+So basically saying you could do it
+if the transactions costs of raising compensation were zero,
+but they are not.
+And remember, included in zero transactions costs
+is actually a superpower, which is telepathy.
+So whenever you've heard about zero transactions costs,
+rarely do we mention that telepathy
+is part of the package of zero transactions costs.
+But that is what you need for transactions costs for zero.
+You just need to be able to look into a person's soul
+and know what is the true value that you assign to this.
+All right, great.
+I will cut you in.
+And no point complaining.
+I can read your mind.
+So when you say that you want a million dollars compensation,
+I know you only need a nickel.
+Here's your nickel.
+And that's it.
+Yeah, I was going to ask if, do you
+need perfect continuity for Cal-OR-PIX
+to be potential for any improvement too?
+Let's see.
+Yeah, yeah.
+So again, in the real world, of course,
+there are only two people.
+And there's only one thing that can happen.
+It's a discrete amount.
+And you're fine.
+Yeah, in the real world, it's that.
+I don't know what it is.
+So let's see.
+But again, so the potential is, like, so there's
+potential Pareto improvements.
+There's no such thing as potential Cal-OR-PIX
+improvements.
+Cal-OR-PIX is called potential Pareto improvement.
+Yes, yes.
+Yeah, exactly.
+Exactly.
+So you have to assume perfect continuity.
+Yeah, yeah.
+In order to be able to, yes.
+You have to go for a Cal-OR-PIX improvement, which
+is possible, to also be potentially Pareto improvement.
+You need this perfect continuity.
+Because otherwise, again, in the real world, again, of course,
+you can say, assume there's only one other person on Earth
+who cares, and we know it's not going to happen.
+All right, well, then I can do it.
+But is that the real world?
+It sounds like it.
+Yes.
+So in terms of Pareto efficiency or Cal-OR-PIX,
+would Pareto efficiency then, like,
+infer that there's just, like, clearly exchange,
+so there would be, you don't need, I guess,
+a state in order to, the state would not be involved at all?
+I guess that was my question.
+You mean for Pareto efficiency?
+Yes.
+I mean, like you said, Pareto efficiency is everything.
+Every single situation is Pareto efficient.
+Government, anarchy, monarchy, right?
+Well, like, any situation where you are to get a change,
+you need to make one person worse off.
+That's when you're, then you're at Pareto efficiency already.
+It's just a super low bar.
+OK.
+Now, this does bother people, right?
+And there is a undergraduate.
+I won't mention his name, who has gone through,
+gone and set meetings with faculty members
+to go and give them a lecture about how efficiency is,
+like, everything is efficient.
+And we say, well, there's one sense in which you're right,
+another sense in which you're wrong.
+And he says, no, no, no.
+That's not, you can't use that concept.
+I can use any concept I want.
+I could have grass efficiency, and that's, like,
+it maximizes the amount of grass.
+So I could make, like, any number of standards you want,
+even all the standards you want.
+And they're like, yes, if that's the standard you're using,
+then sure.
+It only gives Pareto vision for an asteroid
+to go and wipe out all humanity, rather than go and tax
+every person on Earth a penny to stop it.
+So, yeah, totally.
+But, you know, they say, well, given
+that that's the way your welfare standard implies,
+doesn't it seem like a stupid welfare standard
+that no one needs time to talk about again?
+Like, no, no, no, very important.
+All right.
+I don't think I'm going to change your mind on that,
+but it's a strange view.
+Do we have any other questions?
+OK.
+All right, so anyway, this has bothered people.
+And a common view is, like, you're
+assuming the transaction costs don't count.
+But Calgary totally assumes the transaction costs count.
+When you're proposing Calgary's improvements,
+if you need to go and print up a whole bunch of paperwork
+in order to get rid of red control,
+you have to put the cost of that paperwork
+into the calculation in order to determine that it is,
+in fact, a Calgary's improvement to get rid of red control.
+So what exactly is it that, like,
+where does Calgary give you any wiggle room compared to Brado?
+And the answer is Calgary allows you to save transaction costs
+by not having transactions.
+Calgary lets you save transaction costs
+by saying, you know all those people that we can't figure out
+how to compensate them?
+Yeah?
+We're not going to compensate them.
+And you know what?
+Now our lives are so easy.
+The world is really easy when you just say,
+you know all these bureaucratic issues we can't solve?
+Tough.
+We're not doing it.
+I don't see a way.
+But there's people losing out.
+Are they here complaining?
+No.
+I don't care about them.
+Tough luck.
+And that, of course, is the way that actual economic reform
+happens.
+You don't want to say that if you want the economic reform
+to go through.
+But any time there's a country that goes and lowers a tariff,
+they may go and give some compensation
+to some people that are very visible losers.
+But they don't actually make any effort
+to go and compensate every loser.
+It's like, oh, the squeaky wheels get the grease,
+and everybody else, well, too bad.
+Or like, in fact, I'm not even going
+to give you a too bad tough luck.
+I'm just going to completely ignore your very existence.
+I might even give a speech saying,
+and since everyone is better off from this,
+the people that are worse off aren't even around to go
+and contradict me.
+I love it.
+What a great world this is, when the people that are losing
+aren't even aware of what's occurring.
+So that's what's going on.
+All right.
+So anyway, so if you do propose a counter-example improvement
+that does involve a transaction, you
+must count the transaction's costs.
+But if you cut corners and just say, hey,
+we're not going to compensate a bunch of people,
+well, then you evaluate that proposal.
+And you may notice, when you cut a lot of corners,
+the costs can go way down.
+Again, a lot of the most effective economic reforms
+basically don't try to compensate anybody.
+And just say, yeah, new rules.
+They are more socially efficient.
+Tons of people are losing.
+I don't care about you.
+Tough luck.
+Or who are you people?
+Maybe there's even the, anyone who thinks they're losing out,
+let me know, because I'm going to punish you for complaining.
+Or, you know, anyone see Bob Lawson's talk
+about Georgia's economic reforms last semester?
+So there was a big anti-corruption campaign
+in Georgia.
+Georgia was one of the most corrupt countries on Earth,
+according to surveys.
+And in a couple of years, they went
+to be one of the least corrupt countries on Earth.
+And how did they do it?
+There was an economic minister who just
+started jailing people for decades
+for minor acts of corruption.
+And the corruption really got low very quickly.
+It's not just that he was, you know,
+he didn't seem to be just doing it to his enemies.
+He was doing it very zealously.
+And then by, according to international observers,
+the corruption problem was, it almost disappeared.
+Now, did he compensate the people
+that he was throwing into jail for decades
+for taking a $50 bribe?
+No.
+And if someone had said, hey, I've
+been living off of these bribes, what
+would have happened to that guy?
+Oh, my god, all right.
+Well, 5,000 years in jail for you.
+Thanks for letting us know.
+And by doing this, Georgia solved its corruption problem.
+And by a lot of measures, this is probably
+a huge Calrix improvement.
+And yet, there are still some people
+who are suffering in jail for doing something
+that lots of other people have been doing, too.
+So I think that's the theory.
+What about the value people put on fairness?
+That you'd have to actually investigate.
+How sorry for these people that were jailed
+for corruption, the people of Georgia feel?
+Seemed like the general reaction of Georgia was finally,
+I wish they could execute it.
+Something like that was a very typically Georgian response.
+I said, all right, well, it looks like people of Georgia
+don't care about the fairness.
+What about people outside of Georgia?
+Where's Georgia?
+They don't care.
+So all right, looking good by the standard.
+Now, again, if you were starting to be creeped out
+by the standard, yes, you may have some good moral sense.
+But if you don't like that, then you
+need a different standard.
+This is one that economists often use in the real world.
+Questions about Calgary's efficiency?
+Oh, wait.
+Yes?
+Just going back then to repeat what you said
+and make sure I got it.
+Every Calgary's efficiency is Pareto efficient,
+but not vice versa.
+Yeah, exactly.
+Every Calgary's efficient situation.
+OK.
+Yeah.
+Yes.
+All right.
+And yes.
+All right.
+So moving on.
+All right, so Calgary's efficiency
+naturally gives rise to another concept
+that I'm guessing you've already heard about, deadweight cost.
+How many of you have heard about deadweight cost
+a lot as an undergraduate?
+Yes, for me, it was almost the most commonly heard words.
+Now, spline depends three.
+So deadweight cost, heard about this a lot.
+All right, so it gives rise to this concept.
+The value of resources is not maximized
+and deadweight cost exists.
+What are deadweight costs?
+It's the difference between the value of social resources
+when everything's Calgary's efficient and the actual value.
+So there's the value of everything
+where Calgary's efficient, and then
+there's the value of the real world,
+and then the gap is the deadweight cost.
+All right.
+OK, and any time you've ever seen, say,
+a deadweight cost of a monopoly, it's
+how you work with marginal cost, demand, marginal revenue.
+And then you've seen this thing here.
+So you've seen marginal revenue equals marginal cost.
+And then we've got this deadweight cost.
+Any time you see this deadweight cost,
+that triangles the difference between what
+the world would be like if we had full efficiency, which
+is all this, and what we actually have,
+which is only that.
+And the deadweight cost is the difference.
+All right, now, why is this concept interesting?
+Well, let me put it this way.
+Suppose you were trying to sell a non-economist on the value
+of our discipline.
+And you were saying, all right, here
+is one of our great and brilliant insights.
+It's possible to transfer resources from one person
+to another person.
+All right, and literally, this is your incitement.
+So that's not much of an insight.
+Everybody knows that, obvious.
+All right, now, you were trying to sell a non-economist
+on the value of our discipline.
+And you were saying, all right, here
+is one of our great and brilliant insights.
+And you were saying, all right, here
+is one of our great and brilliant insights.
+A better thing to tell them is that resources can be destroyed, leaving no one better off.
+Resources can be destroyed, leaving no one better off.
+By itself, it's almost as obvious until you start applying the concept.
+That's where you really can get some great insight.
+All right, so let's say you're a piracy.
+I actually used this example when Peter Leeson was a student in your very situation, before
+he was writing anything about pirates.
+I don't think I inspired his book on pirates by any means, but here we are.
+All right.
+So if you were to go and say, what are pirates doing?
+Well, obviously pirates are trying to transfer resources from their victims to themselves.
+All right, and that's clear, right?
+So whatever treasure they're able to get off the victims, that's the transfer.
+But the deadweight costs are a lot less obvious.
+Once you start listing them, it's hard to complete the list.
+They are so enormous, they are so numerous.
+So imagine that some treasure gets lost in the fight.
+So while the pirates and the victims are firing cannons at each other, a cannon actually
+goes and hits a hole in the other ship, and a bunch of treasure gets sent down to Davy
+Jones' locker.
+Who gets that treasure?
+Davy Jones.
+Yeah, Davy Jones, who is a fictional character.
+So I don't think even Robin believes that the welfare of fictional characters matters.
+All right, so that doesn't matter.
+And so that was actually lost to both sides.
+This is a loss to the victims that's not a gain to the pirates.
+Or there's damage to the ships.
+Who gets the holes?
+Who is the proud owner of the holes?
+No one is the proud owner of the holes.
+Or how about the deaths on both sides or divide?
+Who gets the deaths?
+Who gets to say, all right, now I've got a bunch of deaths.
+Great.
+Okay.
+Right, so there's all that.
+And then when you start thinking more, you can say, well, let's see, how might people
+go and change their behavior in response to piracy?
+Like suppose there's a lot of piracy in the center of the Caribbean.
+What might ships and shippers decide to do then?
+Avoid the Caribbean.
+Avoid the Caribbean.
+In so doing, they will waste time and resources to go take the longer route.
+And do the pirates get a share of the extra resources that are spent?
+No, they do not.
+So here, the pirates got nothing out of it, but the victims suffered because they took
+an extra expense to avoid the harm of the pirates.
+Now, none of this is saying that pirates somehow hurt themselves deep inside.
+It's not like a Mormon point.
+Piracy hurts your soul.
+It's not that.
+It would be a nice point, but that's not the point here.
+All right, so the point is the pirates are making themselves worse off by piracy.
+The presumption is ex ante.
+They're choosing between piratical and non-piratical occupations.
+And therefore, when they go and compare what they're getting to what they're giving up,
+this is their best option for them.
+But the point is the pirates are gaining only a small fraction of what the non-pirates lose.
+Now, of course, all of this does make some assumptions about preferences.
+It assumes the pirates do not just enjoy the aesthetic of watching gold fall into the ocean.
+So if they had some very unusual preferences, then it might, in fact, be efficient after
+all.
+So you do have to consider that.
+Of course, if you're doing this empirically, you say, well, how many?
+Now, if it's Pareto, of course, if there's one pirate who likes it, then that could ruin
+a Pareto movement.
+But are you also right or are you wrong?
+But on the other hand, if it's Calder Hicks, it's got to actually be a common or intense
+preference for it to matter.
+So with Calder Hicks, if there's one weirdo on earth, does it really matter?
+No.
+He's just one person.
+He has a willingness to pay.
+We'll go and toss that into a giant pile of social preferences, and it doesn't matter.
+All right.
+So questions about this?
+Questions?
+All right.
+So that's piracy.
+All right.
+So now let's go over Steve Linsberg's Calder Hicks analysis of drug legalization.
+One of the best skills economics can teach you is to energetically attack people whose
+conclusion you agree with just because their argument was crummy.
+Of course, that's what academia in general is supposed to teach you to do, right?
+To say, look, I disagree with you, but that's a great argument.
+Or I agree with you, but your argument's terrible.
+So it is trying to break down the tribalism of the internet where people rally behind
+people based upon conclusions instead of doing the intellectually sound thing of saying,
+look, the argument's good.
+So what do we do about that?
+Or the argument's bad, so I can no longer be associated with someone who makes terrible
+arguments.
+All right.
+Okay.
+So the background is that I believe there's a piece in the Atlantic Monthly defending
+drug legalization.
+Linsberg says, you know, I think drug legalization's a great idea, but a great idea does not justify
+terrible cost-benefit analysis, and that's what you've done.
+So here are some of the main things that Linsberg said in his critique of the terrible cost-benefit
+analysis.
+So the original article said, well, we can raise all these taxes, and that's a benefit.
+Linsberg says, no, taxes are a transfer, not a benefit.
+That would be like me saying I've gone and taken some money from you, and then that's
+a social benefit.
+No, that is a transfer from you to me, so plus 20 minus 20 equals zero.
+All right.
+Then the article does go and count the cost of imprisoning people for drug use and selling
+drugs, but Linsberg says that that's just the tip of the iceberg.
+You've also got to count the disutility of being in prison.
+So it's not just the out-of-pocket cost of imprisoning someone, it's like 50,000 bucks
+a year, and Linsberg says that's actually probably a pittance compared to the real social
+cost.
+How much is it only enough to pay you to spend a year in jail voluntarily?
+50,000?
+More?
+I think I'm at the point, I don't know that there's a billion dollars for a year in jail.
+What would I do with the billion dollars when I got out?
+I'd be so miserable there.
+What's that?
+A minimum security net stake, right?
+A million dollars.
+I'm not saying, I mean, when I was young, maybe I would have.
+At my age?
+That could really hurt.
+If I were an effective altruist, obviously I would do it.
+But, well, it's just a year of my life, a billion dollars, think about all the lives
+I could save.
+Yeah, but complete strangers, maybe in jail for a year.
+I don't want to.
+Anyway, so just the cost, the pain and suffering of being in prison, and also that means you
+should probably count whatever suffering of the families and friends of the people in
+prison, though of course by that logic, I don't think Lansbury mentions this, but some
+of the people in prison are such miserable people, the people around them are probably
+happy they're in prison.
+So you can get to crack that out.
+So it gets even more complicated.
+Yeah, so if your dad beats you, then he goes to jail.
+All right.
+I'm so, so sorry you're going to jail, Dad.
+You don't want to celebrate because he's going to get out eventually.
+But, you know, a few years of grief, like that horrible monster.
+Yeah?
+So you can count the loss of productivity as a cost, too, right?
+Like when you're in jail, when everyone's leaving, like if you are eating.
+Yeah, so I mean, again, of course, if you, like, so if you're doing it, like if you ask
+them what is the value you attach to being outside of prison, that would actually, in
+principle, that should actually include, like, whatever value they attach to the earnings
+they could have made.
+So that's actually a better and all-inclusive measure.
+So it's kind of double counting to count both the productivity and the value they attach
+to the time.
+Yeah?
+Yeah.
+So if there is consumer surplus, then that's right.
+Yeah, if there's consumer surplus, that's right.
+Yes.
+But again, if they were just getting paid their opportunity costs, then that's already
+factored in.
+All right.
+All right.
+And then, again, they talk about, you know, the guy's saying accounts reduction of theft
+is being a benefit.
+Well, that's kind of a transfer, too.
+He then says, but resources that, you know, that are used to steal are a deadweight cost.
+And also should have put in resources that are used for event stealing are a deadweight
+cost.
+Then you can also put what about all the production that doesn't happen because people are, feel
+like they're going to get robbed if they produce anything.
+So there's that.
+I remember when I was a teenager, very few people had a car CD player.
+This is Los Angeles.
+Any idea why so?
+Like, the main reason why people didn't have car CD players in those days?
+We'll give you a hint.
+They were worth about 500 bucks when they first came out.
+So what would generally happen to you within a few months if you bought one?
+Your window broke and it would be stolen.
+Yeah.
+So here's a case where a lot of people wanted one, didn't buy one because they didn't think
+they'd be able to keep them.
+Then they actually sold some ones where every time you left your car, you would go and pop
+a button and the face of the CD player would come off and you put it in your pocket, making
+the resale value of the stub very low.
+And then you got a dead weight cost of having to go and cart around the face of a CD player.
+Now they're cheap, nobody steals them anymore.
+I never heard of a CD player getting stolen for years anyway.
+So, yeah.
+And then we come to the one that is most blatant.
+And Lanesburg says, you know what you managed to do in writing your article about the social
+benefits of drug legalization?
+You managed to forget that people like taking drugs.
+You managed to never mention consumption benefits.
+And that's just weird.
+Because if no one likes consuming a thing, is there any good reason for it to exist?
+Doesn't seem like it.
+So the main reason why it's good for movies to exist is people like movies.
+Can you really make the case for movies while ignoring the fact that anyone on earth enjoys
+watching movies?
+Probably not.
+So Lanesburg says you should have put in the consumer service.
+Of course.
+And then the guy does go and count in things like losses, he counts as a cost that drugged
+out workers are worse workers.
+And then Lanesburg says, well, as long as employers know your productivity is lower,
+they'll just pay you less.
+And so that's all internalized.
+Not a problem.
+Same way that just being lazy.
+Is being lazy a social cost?
+As long as employers know you're lazy, then they don't promote you, and then you get low
+pay, and then it all balances out.
+And here you could go and think about it more and say, well, suppose employers know average
+worker productivity, but they don't actually know who's on drugs.
+Then if you come in on drugs, this might actually lead employers to fail to hire a non-drugged
+out employee because he's about 10% of this person's on drugs.
+He'd be worth hiring if I knew for sure that he wasn't, but since 10% chance that he is,
+this goes in tips and scales, so I'm not going to hire him.
+So you could get some deadweight costs that way.
+All right.
+So now reading this, in no way does Lanesburg have the spot on deadweight cost analysis
+of what's going on.
+But just to see how you improve upon premium cost benefit analysis, it is a great, great
+site.
+And I think Lanesburg's the first person to go, if you want to start improving, is yeah,
+you can improve it more and more and more.
+You could do it really well.
+And just don't do it like that guy, though, because that guy did a terrible, terrible
+job.
+All right.
+So questions about drug legalization?
+I like that.
+All right.
+And then, by the way, so there's one huge cost of drug legalization that I don't think
+either the original Crumby study or Lanesburg ever mentioned.
+So yeah, sure, mention the benefits of voluntary consumption, but now here's something else.
+Do you know two people on earth who might be really upset if you started taking a lot
+of drugs?
+Your parents.
+What's their willingness to pay to get you to not do it?
+Yeah.
+And I actually think it's an interesting thought experiment.
+Imagine a world where it was legal for adults to do all the drugs they wanted as long as
+they had a parental permission slip.
+Right?
+And again, you say, well, so, man, you could bribe your parents and try to get them to
+sign the permission slip, right?
+And in terms of cost-benefit analysis, I think this is probably the strongest argument against
+legalization is, yeah, there's one kid that probably really wants to do it, but there's
+two older people who really wanted to not do it.
+Now, a more common argument is you're affecting all society, you're hurting it.
+Yeah.
+Like most people couldn't care less if I'm smoking pot, but I think even at my age, my
+parents would not go for it.
+And they wouldn't like it.
+So certainly when I was young, my parents would not have liked it.
+So while I think that when people claim, like, drug use affects us all, oh, come on, we don't
+really care.
+Like, how many people, if they go, like, I guess one or two days ago, someone posted
+a new study saying that 10% of the citizens of New Hampshire, the adults of New Hampshire,
+are either drug addicts or alcoholics.
+How many people in New Hampshire read that and said, oh, my God, this is terrible, I
+can't live my life here anymore, I've got to get out of the state?
+I think personally, nobody's, oh, it's terrible, terrible.
+And then they went back to their lives.
+Whereas if you found out that your kid were on drugs, very different story.
+So I think an honest case for drug prohibition would just focus on these family externalities.
+Of course, once you start taking that seriously, there's all kinds of weird policies that might
+start to make sense.
+Like, maybe parents should get to veto your spouse.
+Really, if you go and marry the wrong person, it really hurts your parents.
+They don't want that.
+And maybe they would know better than you.
+Is that possible?
+Do you think that parents can predict divorce?
+I think they have some additional ability to predict marriages that won't work out.
+And when they say they're opposed, maybe it's because they actually know, they understand
+the world better than you do.
+Is it possible?
+It's possible.
+Why don't the kids listen to them?
+That's another interesting question.
+Richard Thaler could write a column about that.
+Like, why don't people listen to their parents when their parents love them and have more experience?
+I think Robin Hanson still has a cartoon on his door to this effect.
+There's a kid playing video games and his grandpa comes along and says,
+Yo grandson, during my 70 years of life I have learned many valuable life lessons and I was wondering
+if you would like me to share any of them with you.
+And the kid just keeps playing it.
+No, thanks.
+And keeps doing it.
+But, yeah, why?
+Okay.
+Alright, so wrapping up with deadweight costs.
+We're actually, so I guess that clock is a little bit slow, so why don't we finish up with this after the break.
+And so we'll take our break now, so try to be back on time at 845.
+There's a sense in which economists, that way economists are more optimistic than the public
+because we do think of the pie as something to grow.
+But there's another way in which we're more pessimistic is we also think of the pie as shrinking.
+Normal people often think, look, if there's someone losing, at least there's someone else winning.
+Whereas the whole idea of deadweight costs, it's possible there's just a massive amount of loss
+that's being borne by the whole world.
+Which, sometimes you convince people about it after a 30 year war has gone on,
+you say, you know, there's really no winners here.
+They go, what do you mean?
+Some people win.
+And you know, things would have been much better if it had never happened.
+That is also packed into the concept of deadweight costs.
+It's possible that we could get an equilibrium where actually everyone is worse off
+than if there had been something else.
+Of course, that's a homework problem, but by Calric's standard,
+by least where the dollar value of social resources is much less.
+So in other words, there's a fixed pie of stuff, conflict always benefits somebody.
+If there is a variable pie, the conflict might actually lead to just a massive round of loss.
+And then another conceptual point, reducing deadweight costs is by definition
+going to be a Calric's improvement.
+Just two different perspectives on the same thing.
+And then if a situation is Calric's efficient, deadweight costs are automatically zero by definition.
+So questions about Pareto and Calric's?
+Everyone happy there?
+Everyone feel betrayed by whatever time they spent on Pareto efficiency?
+Or Pareto without any discussion of how relevant it is?
+So any time someone actually has talked about having a Pareto improvement in the real world,
+I'm like, what are you talking about?
+So Buchanan liked to talk about approximate Pareto improvements,
+so rough Pareto improvements, but also not a Pareto improvement.
+He said, you can fix cell, like talk about 80% of people are better off,
+and now you can come up with your own Fixcellian efficiency.
+That's where 80% of people are better off or more.
+But that's a different concept.
+Why not just use your own concept and be honest about it?
+Well, if you come up with your own efficiency concept, who's going to take you seriously?
+You're like, this is capellini deficient.
+So you sound like a megalomaniac when you start creating new efficiency concepts
+and aiming them after yourself.
+Whereas if you try to spuriously latch on to an existing concept,
+you may be able to fool people.
+That's my cynical take.
+All right.
+Now moving on to another value-pitch standard that economists have long been associated with,
+and that is utilitarianism.
+At least three famous economists, even more, at least four.
+I think of four 19th century British economists who were all closely linked to utilitarianism.
+So Bentham, James Mill, John Stuart Mill, and Sedgwick.
+All right.
+There's a bunch more.
+So this is yet a third evaluative standard.
+Okay.
+So how is it different from Cowderyx?
+Well, Cowderyx is based upon dollar valuation.
+It's not based on utility, not based on happiness.
+Aren't these the same thing?
+Isn't willingness to pay and happiness the same?
+If someone's buying something, doesn't it automatically make them happy?
+Does that fit your observation of the world?
+Have you ever bought something that cost a lot of money and then you weren't happy afterwards?
+Have you ever spent a lot of money on something and you knew you were going to be unhappy and you did it anyway?
+Such as when you bought a gift for the aunt you don't like and you gave it to her.
+It's like, oh, God, I spent money for her.
+I knew I couldn't give anything to her.
+She's such a negative present to the world.
+Never brought me a moment's joy.
+All right.
+Well, you just spent some money.
+You're less happy than you were before.
+So it can't be that spending money and happiness are just the same thing.
+Now, there are some economists who will just draw a line in the sand and say, oh, yes, you must be happy.
+Do you know my aunt?
+I don't know.
+So, really?
+Even if you always spend money in a way directly proportional to the happiness it brings you,
+have you ever noticed other people don't seem to be doing this?
+And, of course, there's a possibility they're just confused about what brings them happiness.
+Then sometimes there seems to be something else going on.
+Like think about someone who is in a feud with another person.
+You said, look, if you just apologized to the other person, you would be much happier.
+Right?
+And some people will actually say, that would be the worst thing of all.
+give in to that person and just accept it and be happy, I'd rather die.
+So, again, maybe this is all exaggeration, but it seems like it's part of the human condition.
+To me, anyway, you can make up your own mind about whether I'm making this up or whether
+it seems to describe you or some other people you've ever encountered.
+Anyway, so I'll say you can normally pay $100 for something without having any idea how
+happy it brings me. Here, one of my favorite examples is granite in kitchens.
+This stuff costs a lot of money, and yet I've never seen any owner of granite smile at the granite,
+talk to the granite, and say, oh, this granite, I love this granite, it's so good.
+I've never seen anything produce the slightest sign of happiness, and there's a, like, smiles,
+a tear in your eye of joy. No, the ownership of granite gives a very different emotion
+from what I would call happiness. On the other hand, how often have you seen ice cream
+met with anything other than a tear of joy, like an ice cream cone, mmm!
+That $1 of ice cream brought more happiness than that $50,000 slab of granite ever will.
+Didn't it? Maybe that's how it seems to me.
+And then you can know something makes me very happy without knowing, or even if I have a
+little illness, pay for it. So, like a lot of people would not pay their children to say I love you.
+I would not, I wouldn't, like, how much would you pay your child to say I love you?
+I wouldn't pay them to say that. But how happy does it make you? Really happy.
+I love you, daddy. Aww. How much would I pay for that? I'm not going to pay for it, but it's great.
+So there is a disconnect. Is there a correlation? Sure, but they're different concepts.
+Utilitarianism is exactly about maximizing utility or pleasure or happiness.
+There's many different variations on it because it is a topic that has provided employment
+for thousands of philosophers over the last 150 years.
+Alright. So, anyway, it is about that.
+A lot of economists have, in the 20th century, the philosophical problem of utilitarianism,
+which is, look, you can't measure happiness. How can you possibly do it?
+And that's what necessary, you have to make an interpersonal utility comparison.
+You have to say, this person is happier than that person.
+And where's the happy-o-meter that would let you do that, or the util-o-meter?
+And this leaves many economists to say, utilitarianism is actually meaningless,
+we can't talk about it, not possible.
+Or, how do you add up happiness?
+Alright. Now my view is this is an argument that sounds really good,
+again, until you actually pay any attention to the real world.
+And notice, look, how can we do it? Well, everybody does it, so it must be doable.
+Any time you ever said one friend was happier than another friend,
+you just did an interpersonal utility comparison, didn't you?
+What would your life be like if you just stopped ever doing that again?
+And suddenly, you know, who's happier? Who's happiness in this room?
+Can't say. It's not an answerable question. It's a meaningless question.
+One person is a giant grin, everyone else is crying,
+you can't tell me who's the happiest person in this room?
+Seems like you could.
+So, it may be hard, there may be cases where it's hard to figure out.
+Maybe someone is carrying a great deal of sadness that they hide.
+But, that's different from saying it's conceptually impossible or meaningless.
+And here's the thing, once you say that you can't compare the happiness of two people,
+doesn't that also mean that you can't compare the happiness of an individual over time?
+Right? So, how can you say that I'm less happy now when I'm being tortured
+than before, than yesterday when I was free?
+If you can't say that the person who's being tortured is less happy than the person who's free,
+how can you say that you can compare the happiness of one individual in two different situations?
+So, again, that seems really weird to think that you can't do that.
+Would that be to say that an absolute utility comparison isn't possible,
+but a relative, or kind of a, just not an exact?
+You may say, well, it's hard being exact, sure, but,
+it's basically saying there's no fundamental conceptual problem with this.
+Now, if you've ever argued with Walter Block, and if you ever have,
+the argument will never stop until you let it give him the last word.
+That's for you, Walter Block student over there.
+We were talking about this. We said that exactly.
+Well, to be fair, Walter does have a whole article where he argues that the best standard of who's right
+is whoever has the last word, and he really does, and then he goes and he actually applies it
+empirically to about 50 different disputes, and he categorizes who got the last word,
+and then goes and ranks it and says so.
+Turns out that Austrians are more right empirically,
+because we, and often he personally, made sure to have the last word.
+So, he has a view, but I think it's far from being an idiosyncratic view that just says,
+look, there's two different ways of talking.
+There's the scientific way, and there's the normal way,
+and scientifically, it is impossible to go and ever say that something raises overall happiness,
+or makes an individual happy, or one happy individual is happier than another person,
+but of course we can do it in a normal way.
+My question for him is always, alright, well, is the normal way,
+when you're doing it in the normal way, is it still true?
+In that case, why don't we just talk the normal way?
+And yet, if it's not still true, then you haven't really solved anything.
+You've just bitten the bullet and just say yes,
+and then you're just, it's just a metaphor to say that the person being tortured is less happy
+than the person who's been free.
+That seems weird to me.
+Yes?
+At the risk of assuming two people, it would be as if you had two separate planets
+that could contact each other, or two separate countries even.
+Let's say you took planets, two different life forms with different biological means,
+and each planet operated on a one world currency.
+You could never compare the currency values of each one,
+because there was no possible commensurable thing.
+You could track the value of the currency over time.
+You could track the value of the global dollar versus the Mars coin,
+but you could never say how many global dollars does the Mars coin worth,
+because nothing on Mars is something that we'd ever buy.
+Right, of course you could still make a guess about what the exchange rate would be like
+if there were an exchange rate.
+So, conceptually it's still doable, and in fact,
+say look, I predict that if exchange ever opens up, that this is what the rate's going to be.
+And it seems meaningful, it may be that there's no way that it's never going to get decisively resolved,
+just like if you were to say, like if Klaus von Schaufenberg successfully assassinated Hitler,
+then the borders of Germany at the end of World War II would have wound up being very different.
+There's no way of ever checking that, yet it seems true.
+Of course you've never, maybe you've never heard of Schaufenberg in which case, I don't know.
+But most people who study the facts would say, yeah, it seems pretty likely.
+All right.
+Now, let's see.
+Now, one common thing for economists to say is, well, utilitarianism and Calgary's are almost the same.
+All that we're doing here is that utilitarianism is adjusting for the marginal utility of wealth.
+So, common thing to say.
+So, there's something to this, but it's hardly necessarily true.
+People might be willing to pay for things other than happiness,
+or there might be some people who just get very little happiness out of a dollar.
+Like, you know anyone who just seems to not really enjoy much of anything?
+And there's other people who just savor every experience.
+So, yeah, I mean, so, like, again, if you were utilitarian, you wouldn't just stop at redistribution from rich to poor.
+You might also say, let's also redistribute from people who have very unresponsive emotions
+to people who have very responsive emotions.
+Let's go and take stuff from people who seem to be the same regardless of what happens to them
+and give it to people who have, like, who really appreciate things or really dislike poverty.
+So, like, you know, probably, like, you know, cheerful people would get bigger redistribution.
+And the chronically miserable people, well, like, they're always going to be miserable, so what's the difference?
+Let's grow them blind.
+Right?
+Seems reasonable, and you probably have some friends that just seem miserable all the time.
+And then at some point you may say, why do I try to cheer you up?
+Nothing works.
+I'm going to go and put my energy into someone that does get cheered up when I do things for them.
+All right.
+And, of course, utilitarianism is often used to justify redistribution.
+But, you know, even on its own terms, there's problems with this.
+And then there is a classic philosopher's counter example, which is fun.
+I'm never going to mention it again, but you might want to hear about it.
+It's the utility monster.
+This is a genetically engineered creature with increasing marginal utility wealth.
+So every time you double its wealth, it gets more than a doubling of happiness.
+And all the other creatures in the universe have diminishing marginal utility wealth.
+So it's easy to come up with a story where actually the most efficient and the most utilitarian thing to do
+is to expropriate everyone else on Earth or in the universe, give it all to the utility monster.
+The rest of us die in horrible agony.
+But don't worry.
+That utility monster loves all your possessions so much that it's better, in utility terms, that we're all dead.
+And then you have plenty of other oddities here.
+So there's a long-running debate between average and total utilitarianism.
+Many people don't like the idea of total utilitarianism.
+It means that if you create a new life where the person is just barely better off than indifferent between being alive,
+that's a good thing.
+So it's a good thing to create very marginal lives.
+So many people say, no, that's crazy.
+Then there's the average utilitarianism has even weirder implications.
+So let's maximize the average utility in the world.
+Well, does that mean that we should just kill off everyone except the happiest person on Earth?
+What if he's a misanthrope so he doesn't get lonely?
+And then, oh, this is great.
+I've got a whole planet to myself.
+I'm so happy.
+Average utility would never have been this high when the world had other people on it.
+But now they're gone.
+Isn't that a Twilight Zone episode?
+And then his glasses break.
+Oh, yeah.
+I mean, he wasn't so much a misanthrope as he just liked books a lot and everyone was mean to him.
+He didn't actually revel in the deaths of others.
+He was pretty excited to go to that library.
+Yeah, he was.
+But you wouldn't have minded if there were other bookworms he could hang out with.
+He wouldn't have cared about that.
+Anyway, so I mention this just because there is an unusually high share of people at GMU who do economics of philosophy.
+So if any of this stuff interests you, there is a lot you can do here.
+It's actually likely you'll have a better career as being an economist who does some empirical work and also does some economics of philosophy after tenure.
+Probably a way better career than if you just try to be a pure philosopher doing this stuff.
+So this is sort of my general career advice to almost everyone is if you do math, just get a PhD in economics, get tenure in economics,
+and then call whatever you do the economics of that.
+And even if you never get another raise, you'll still do better than most history professors or sociologists or other people ever will.
+So worth considering.
+All right, so questions about utilitarianism?
+Everyone happy?
+All right, really happy.
+Not just willing to pay, but a genuine emotion of well-being.
+Okay.
+All right, then moving on.
+All right.
+The comparative institution's first and second best.
+All right, now I'm guessing that Walter Williams mentioned Harold Dempsetz to you.
+More than once.
+All right, yes, the great Harold Dempsetz.
+All right, and Harold Dempsetz had a bunch of papers.
+One of them, well, I think there's only one where he mentioned Buddhist theology, which was the paper on the Nirvana Fallacy.
+Now, if someone actually understands Buddhism, I think we'll say that he has a total misunderstanding of it, but that's not important.
+What's important is what he was talking about.
+So what Dempsetz called the Nirvana Fallacy is doing what pretends to be Calgary-Hicks efficiency analysis while selectively relaxing whatever constraints you don't feel like worrying about.
+In order to go, and then we hang it, why do you go and selectively ignore a bunch of constraints?
+To get the answer you want, of course.
+Again, of course, it may be that you do it because other people get mad at you if you have the wrong answer, so you do it that way.
+Maybe you do it just because no one else ever did.
+Maybe you are actually just subconscious.
+Maybe it's very conscious.
+But anyway, this is what he talked about.
+So you're supposedly doing this, but then you do a very sloppy job where you forget important constraints, and then you come up with an answer that doesn't make a lot of sense.
+All right, now, why was he making this claim?
+Well, at the time that Dempsetz was writing, there was something we now call old-style welfare economics where people just did really crummy Calgary-Hicks analysis
+where they ignored a bunch of constraints, and it's fair to say that suspiciously ignoring the constraints generally tilted the scales heavily towards government regulation.
+Right now, I'll say that when I was an undergraduate at UC Berkeley, Dempsetz's critique still applied wholly to most of the undergraduate classes.
+Really.
+So I can't tell you how many times I was in an undergraduate class where someone would just go and draw that triangle, draw the monopoly, show everybody an off-striangle,
+and then say, see, government's got you.
+Government must do something to fix this.
+And this is what government will solve the problem.
+And again, there's the ambiguity of in the real world or in this model, but the tone is always, well, yeah, like the real world.
+Kind of dogmatic, who will argue that you don't see how these triangles show that government is good.
+They're just geometrical shapes.
+They don't really show anything in the real world, at least not until you do some more work.
+So he was complaining about the shortcomings of government not being factored in and actually often just overhead not being figured in.
+So when someone says we need regulation, at minimum you say, well, how much are the regulators going to cost?
+Don't they need a building?
+And what about their phone bills?
+And just add up all that stuff.
+At minimum, you've got to put that in.
+Maybe all that stuff is bigger than the triangle, in which case, turns out it's not much of an argument for government regulation.
+All right.
+So, I'll say since 20 years after he wrote the article, I still saw this going on routinely at UC Berkeley, or at least classes for undergraduates.
+I don't think this is a straw man at the time.
+I think he actually is attacking a very common point of view.
+So I have a blog post called The Straw Man, Straw Man.
+And this is where people accuse you of attacking a straw man when in fact you're attacking an extremely popular argument.
+And they're like, look, it's not a straw man.
+Why doesn't he hold this?
+So I'm criticizing a view that people actually hold.
+How is that a straw man?
+So a straw man is supposed to be an argument so stupid that virtually nobody holds it.
+But there's a lot of popular stupid arguments.
+So what's wrong with those?
+Well, they're terrible.
+But what's wrong with attacking them?
+Nothing.
+They should be attacked.
+All right.
+Now this is a classic example of what Zebby says he's talking about.
+All right.
+Price greater than marginal cost.
+That's right here, right?
+So remember, as I said, the monopolist produces a marginal cost equals marginal revenue.
+And therefore, price is up here, marginal cost is down there, debt rate costs.
+Terrible.
+And I think that during my four years as an undergraduate, I saw maybe 500 debt rate loss triangles drawn.
+And always these triangles were to show market's bad and government can, should, will, and must solve this problem.
+And only a dogmatic fool would doubt it.
+All right.
+So it all comes down to this problem of price being greater than marginal cost.
+Now what is the classic remedy for this?
+It's a really simple one.
+So you've got monopoly.
+So I guess to me the simplest one is just trust busting down a perfect competition.
+But there's something much simpler here.
+Say, well, how about we just impose a price control?
+Price equals marginal cost price control.
+And in a monology, if you remember the way the monopoly model works, if you get that price control exactly right, it doesn't discourage production at all.
+Because essentially the monopolist treats that like his new demand curve.
+And then he just sets, you know, he produces until marginal cost equals that price.
+Because the price control, the whole idea is that it's flat.
+It's horizontal, right?
+Just like a perfect competition.
+All right.
+So you go and you set this price control.
+And then, and then you notice, and then the monopolist produces there, debt rate cost solved, and the problem.
+All right.
+So this is a classic Nirvana fallacy remedy.
+All right.
+Just think about all the problems of doing this in the real world.
+All right.
+Well, so, you know, they like to say, so, you know, the, this creates a secondary, the price control creates a secondary problem, which is, wait a second, why do we have a monopoly anyway?
+Is this really a constant returns to scale industry that has a monopoly?
+It's weird.
+How often do you get monopolies in constant returns to scale industries?
+Almost never.
+All right.
+So, and you say, yeah, yeah, well, yeah, okay, fine.
+All right.
+Well, yeah, there's some fixed costs.
+So what?
+Well, if you impose a constant, you know, you impose this, this, you know, you set pricing with a marginal cost, and there's fixed costs, then the firms are going to be losing money, right?
+Normally.
+Like, you can fiddle with it.
+But normally, if there's a fixed cost and there's a constant marginal cost, you make the price a marginal cost, so actually that case always.
+So if there's a fixed cost, constant marginal cost, you make the price a marginal cost, they will lose money.
+Predictably.
+They will lose the fixed cost.
+All right.
+So then you can say, well, you can't expect the industry to stay in business losing money forever, so then your great remedy isn't going to make the product available at marginal cost.
+Instead, it's going to remove the product from the market.
+Thanks a lot.
+Right?
+And, oh, well, come on.
+All right.
+Fine.
+Well, we'll go and give them a subsidy in order to make up that fixed cost.
+Let's go and hand them a bag of money from the fixed cost, just enough to keep them in business.
+All right.
+Now everything's great.
+All right.
+And then, all right, well, how are you going to fund these subsidies?
+Where's the money for the subsidies coming from?
+Oh, my God.
+You're full of questions.
+Why do I have to deal with all this?
+Look, I have my brilliant remedy, and now you're going and asking me a bunch of questions like where's the money supposed to come from?
+All right.
+Well, of course, like, well, yes, you've caught us.
+The money's going to come from taxes.
+But wait a second.
+Isn't the whole thing that taxes do create a gap between price and marginal cost?
+So your solution to this problem of price being greater than marginal cost is ultimately to go and impose a tax, which then creates a gap between price and marginal cost.
+Right now, in particularly obtuse theorists, they say, no, no, no, we're assuming they're all on some taxes.
+All right.
+And where are the role of those?
+Nowhere.
+So maybe you shouldn't have talked down to people so quickly before when you proposed your supposedly brilliant remedy to the problem.
+And this is what Dem says was getting at.
+All right.
+Okay.
+So questions?
+Right.
+Again, like, this error seems so basic to me that I know there's plenty of economists who'll say no one was that dumb.
+Not only are there plenty of people that dumb, there are plenty of textbooks that are written this badly, and people teach undergraduate stuff.
+And maybe there's no actual professor that really believes something that dumb, but if you're teaching it to undergraduates, then there's still a problem.
+But I think if you're teaching it to undergraduates as if it is dumb, then there's a problem.
+is descriptive of the world.
+And I know I was taught this many times.
+So for someone to say no one believes this,
+either they believe it or they were
+lying to a bunch of repressionable college students.
+Both of them pretty bad.
+This is me.
+Not lying.
+This is me.
+I'm not lying.
+I was just using words in two different ways.
+Nobody would understand the difference.
+Now what is Dempset's alternative?
+He has an alternative that he calls the comparative
+institutions approach.
+And this begins by saying nothing in the real world
+is perfectly counter-exhibition.
+It's not doable.
+There's always going to be some debit cost
+no matter what you do in the real world.
+So you just have to live with it.
+And so instead you should be asking what fails least badly.
+What fails least badly?
+And there is a parable associated with this.
+No, allegory.
+So you can add allegory.
+So allegory is something like George Orwell's Animal Farm
+where the characters stand for other things.
+So if you've ever read Animal Farm,
+you know that Snowball is Trotsky and Napoleon is Stalin.
+And then the Raven is supposed to be Rasputin, I've heard.
+And the second time they blow up,
+the windmill, that's World War II.
+All right, anyway.
+So an allegory is a story where there's actually
+a mapping from the fable you're telling into the real world.
+Very close one.
+So anyway, there is a fable associated
+with this comparative institutions idea called
+The Tale of the Emperor.
+Or the allegory.
+The allegory goes like this.
+The Emperor Rome announces a great musical contest
+where he summons all the best musicians in the empire
+to come to his palace and play for him.
+But only two performers show up.
+The first performer plays this whole song
+and he misses one note.
+And as soon as he misses a note, the Roman Emperor says,
+the contest is over.
+The second guy wins.
+He's the best singer, the best musician in the realm.
+The end.
+That's the entire allegory.
+Now, what is the mapping?
+Well, the Roman Emperor is supposed
+to be the economics profession.
+And the first musician is supposed to be the market.
+And the second musician is supposed to be the government.
+And this is especially associated with public choice.
+The claim is that a lot of economists
+go and look at markets, find one small problem,
+and then say, look, government is the solution here,
+without ever actually, empirically
+studying government.
+That's what corresponds to giving them
+the prize for ever listening to their music.
+And of course, the whole idea of public choice
+is we are going to empirically study government.
+And then when we empirically study it,
+we may find that it's even worse.
+It might miss two notes.
+It might miss all the notes.
+So we'll come back to that in the back as the tale of the emperor.
+All right, so questions about that?
+So in that case, last concept, the concept of the second best.
+So when you add more constraints to a standard problem,
+it often turns out the original option was no longer feasible.
+So think about how you drove to school tonight.
+You were already optimizing a bunch of things, right?
+Now, I suppose I add on the constraints.
+You also have to pick up some Kentucky fried chicken for me.
+All right, now, does anyone actually drive exactly
+past a KFC on their way here?
+Pop-up.
+What's that?
+You're not passing the pop-up.
+No, no, no, no, no.
+Not good.
+It's got to be KFC.
+All right, so as a result of this,
+if I impose this as a constraint on you,
+what will this automatically do to your commuting time?
+It will raise your commuting time
+when I add an extra constraint, unless it just so likely
+happens that my constraint corresponds
+to what you were doing anyway.
+But of course, that would almost never happen.
+So that is a general idea in optimization.
+Whenever you add a new constraint,
+you should expect that your last optimal will no longer
+be feasible, and you're going to have to do something that is
+harder or takes more time or is more painful.
+And economists will often refer to the original optimum
+as a first-best solution.
+So the original optimum before you
+add the extra constraints first-best,
+and then the second one, the thing
+that is optimal to do after one more constraint has been piled
+on your to-do list, a second-best.
+So an example.
+Economists often think a price equals marginal cost
+is first-best, until you say, yeah, well,
+there's going to be a constraint that firms
+can't lose money forever.
+Can't lose money forever.
+In that case, a second-best optimum
+might be price equals to average cost,
+even in an industry where you've got declining costs.
+Because given the constraint that firms
+can't lose money forever, what are they supposed to do?
+Accelerate them.
+You can't go and make them price a marginal cost,
+because they'll be driven out of business,
+and far worse to have zero firms that
+have monopoly charging more than marginal cost, right?
+So there's that.
+All right.
+And then occasionally, you'll hear economists
+say really weird things like, this is not first-best
+or second-best.
+It's more like 15th-best.
+And this is when they are talking about a very thorny
+real-world problem, where there are
+so many different constraints that they have to deal with.
+And of course, normally, it isn't literally
+14 extra constraints.
+Normally, it's just, look, so hard.
+There's so many different people causing problems,
+so many different complex issues.
+Someone's talking about privatizing telecom.
+Look, we've got to deal with our universal access requirement.
+We've got to deal with the minority business requirement.
+We've got to deal with a bundling issue.
+So, oh my god, it's so terrible.
+So anyway, if you've ever heard economists talk in these terms,
+that's what they're talking about.
+Questions?
+Anyone happy with that?
+Everyone's so tired that you no longer feel happy or unhappy
+about economics.
+Of course not.
+You will never be in the position
+where you cannot feel happy or unhappy about economics.
+It's always a pure joy.
+And then moving on, so last topic
+in economics and philosophy we're
+going to spend much time on.
+So moral philosophy and efficiency.
+So who cares about efficiency anyway?
+What difference does it possibly make?
+So is there anyone on earth who seriously believes
+that the right action is always the counter-insufficient one?
+The answer is yes, there are at least a few people
+who have endorsed this view.
+This Harvard law and economics guy, Steve Chabell,
+I was not there, but I heard from a liable source
+that he referred to people who care about anything
+other than counter-insufficiency as the dark side.
+The whole talk was, those on the dark side
+believe that things other than efficiency matter.
+But think about what that would mean.
+It means sometimes we'd have to do inefficient things.
+And that's really inefficient.
+So no.
+All right, so maybe you've spent better than that.
+And if you go and read early Richard Posner, not
+modern Posner, who has a very confusing view,
+but early Posner, does sound like he just
+thinks that whatever is counter-insufficient is exactly
+what you ought to do.
+So there are some people like this.
+And Robin Hanson occasionally talks this way, too,
+although his real view is a bit more subtle than that.
+In particular, he doesn't have to do what's counter-insufficient.
+But in some way, social rules should still
+be counter-insufficient.
+And my question is, well, if no individual
+is obligated to do the counter-insufficient thing,
+then how can society be obligated to do it?
+And I think his answer is, no, you're
+moralizing a claim that I don't need as a moral claim.
+But then what is it exactly?
+So again, Robin actually calls his view
+dealism and is sort of the view that we should do it.
+Like, counter-insufficiency is a good way
+of ballparking the deals that we would make if we all
+had a big social bargain.
+But I will say his view on a lot of times
+I can channel Robin very actively.
+This is one where I still find his view so confusing
+that I can't pull it off.
+Now, a popular view of many many economists
+is to say, sure, counter-insufficiency
+is crazy because why?
+One problem.
+Say, counter-insufficiency is a perfect standard
+except for one problem, which is just
+that it fails to account for diminishing
+marginal utility of wealth.
+So it puts way too much weight on the rich, way too
+little weight on the poor.
+But all we need to do is make a wealth adjustment,
+and then we should always do whatever
+is counter-insufficient.
+So that is a view.
+It's out there.
+So you should be aware.
+There's a bunch of smart people who think that.
+I mean, to me, this is like, well, look,
+if one exception is OK, why not a whole bunch of exceptions?
+So one that bothers me, how about dessert?
+Sometimes someone actually created the value.
+And don't they just deserve it, even if they don't eat it?
+And there's other people just sat by being lazy bums,
+being the grasshopper in the fable.
+But shouldn't the grasshopper really get nothing
+and the ant get what he worked for,
+and the grasshopper back up and improve and shape up,
+and the ant get to sit and enjoy the fruits of his labor?
+Wouldn't that be the fair thing?
+So in which case, you might say, well, actually,
+like your adjustment for diminishing marginality wealth
+gives the wrong answer.
+Now, this seems like a crazy answer to you.
+Here's a case where it might not seem so crazy.
+Suppose you're a professor.
+Are you going to give out grades based upon need or dessert?
+So who should get the A's, the students who need A's the most
+or the students who did well in the class
+and did the work and understand the material?
+What are you going to do when you're a professor,
+if that's what you want to do?
+A lot of you will be professors in the end.
+Are you going to hand out grades based upon need?
+I don't.
+You hand out everybody's name on a dart
+and just throw it at the board?
+Yeah, you can do that.
+That's another moral theory.
+One side of the student just said, look, you have to give me
+an A instead of a C, because a C is
+unacceptable to my conservative Indian parents.
+Well, but giving out free grades is unacceptable to me.
+Sorry.
+So no.
+If they are the ones who love you,
+you're going to have to talk to them and explain to them,
+I'm not giving you a free grade.
+Right, NFG?
+You say, look, be utilitarian, man.
+Look, no one's ever even going to know that you did this.
+I'll be better off.
+My parents will be happier.
+No one will ever know.
+Nobody the wiser.
+And my only answer would be, I will know.
+I will know that I upset the cosmic order.
+I only know that I upset the cosmic order.
+I'll know that an A was given to a student who earned a C.
+And the universe will be made worse through my hand.
+And it's not going to happen.
+That was my reaction.
+I don't think my reaction is so unusual.
+Is that like the drugs affect everyone thing, though?
+Maybe.
+Yeah.
+It could drug you, actually.
+Yeah, well, this is more like my parents would really
+bother my parents.
+You know, if I hear about another professor handing out
+easy grades, I'd lose sleep over it.
+But if I did it, that would bother me a lot.
+Look, I don't control the corruption of other
+professors.
+What they do, that's outside of my power.
+But I control what I do.
+And I'm going to live with standards.
+So that's what I have in my head.
+So there's that.
+Or how about the Olympics?
+Suppose he went and handed out the gold medal to the athlete
+who needed the medal the most.
+Does that seem fair?
+Seems very unfair to me.
+But like you tell Terry, it seems like it very well
+might be.
+We might say, well, it's different because there's
+incentive effects and there's audiences.
+All right, we'll get rid of all that.
+Or one example that I enjoy very much is the end of World
+War II, you're stuck in a desert island, never
+going to get off.
+And then who washes up?
+Adolf Hitler.
+All right, what should you do with him?
+Well, the utilitarian thing is like everyone believes you're
+dead, no one's going to ever find out.
+So yeah, it'll help you out.
+It'll help you adjust to life on the island.
+And I'm pretty lonely here, so better than nothing, maybe.
+You're like this old broken man, he's not going to actually
+kill me or anything.
+So that might be your reaction.
+But that's not the only reaction you might have.
+Other people might have the reaction of, it is your moral
+duty to kill him.
+And other people might say, killing him's too good for
+him, he's got to suffer.
+You must go and spend a day thinking, what is the worst
+thing I can do to you on this island to go and get justice
+for all the people whose deaths you cause?
+That's another view, which is not factored, which has
+nothing to do with marginal utility wealth.
+So anyway, point out these examples, not to particularly
+defend any of them, but just to say that there are a lot of
+different moral theories out there.
+And economists are inclined to either bite a bullet or say,
+no, bite a bullet, except put one little kind of sauce on it
+to make it palatable.
+And if there is a whole world of counter examples out there
+to consider, yeah.
+So you think about it in that entire calendar, you put this
+argument of marginal versus marginal utility, and you
+give an argument of whether or not you can make
+interpersonal utility.
+I don't know if you saw that.
+I don't remember it.
+But yeah, that's not too different from what I was
+talking about earlier with, if you think you can never make
+any interpersonal utility comparison, which is one of the
+main arguments against utilitarianism, then it's
+unclear how can you make intrapersonal utility
+comparisons either, how to compare one person at
+different times.
+Because in both cases, the argument is usually we don't
+have a measure.
+So we can't measure it.
+Well, I'm this happy now, you're this happy now.
+How can we say I'm this happy now, I'll be a different
+level of happiness tomorrow.
+So in a big area.
+But again, in terms of how people live their lives,
+people make these comparisons all the time, and almost no
+one seems to have any problem with it.
+And there's furthermore, almost no one actually really
+stops doing it.
+Even people who officially believe that you can't do it,
+still, you can't make the comparisons, keep making the
+comparisons.
+So to my mind, that does suggest they don't really believe
+what they're saying.
+Yes?
+The order of the cardinal is relevant?
+So order of the cardinal is relevant if you want to say
+the total happiness of this society is greater than the
+total happiness of that society.
+Because then it does seem like you would have to go and
+add up the happiness of the individuals and come to a
+sum.
+Although you might have some kind of organic theory society
+where I said, I'm just going to say that this society is
+happier than that society without making any reference to
+the individual happiness of the members.
+You could say that.
+That's kind of weird.
+All right.
+So now a more moderate view is to say, look, efficiency isn't
+everything, but it is something.
+And so it's one consequence we're thinking about.
+So then why should economists focus so much on this one
+thing?
+Just because we're trained to focus on this one thing.
+Same reason why it makes sense for doctors to focus so much on
+measuring health, even though health isn't the only good
+thing.
+Of course, there is the danger that if you focus on one thing
+too much, you'll forget anything else matters.
+If you've ever been to a dentist, they seem to have the
+attitude of nothing is more important on earth than these
+teeth, and you should be willing to do anything it takes to
+make these teeth better.
+Anyone have a dentist like this?
+They're just like, ah, look, I've got other things to do
+than make my teeth perfect.
+Right?
+And before I studied economics, I did make this argument with
+an orthodontist, and then he just told me I was rationalizing
+my laziness.
+But it turns out that there's a whole social science that shows
+I was right, and the orthodontist was wrong.
+All right.
+Okay.
+So anyway, this is a way that economists can provide a useful
+moral input in thinking of others, say, look, efficiency
+matters to some degree, and we've thought about it a lot,
+so we can go and help you and provide the answers for you,
+although, of course, the final answer is not going to just be
+efficiency is the only thing that matters.
+All right.
+So questions about that?
+If you're wondering about it, all right.
+Okay.
+But the bottom line, whenever economists actually do
+welfare-enhancing policy, what are they doing?
+Almost always counter-hicks.
+It's almost always what they're doing if they're actually
+crunching numbers.
+If they're doing policy advocacy, it's much more normal
+to slide into facilitarianism, especially if someone says
+there are distributional concerns.
+The rare thing is to actually go and say, like, here's the
+functional form that I think diminishing marginal utility
+and then actually re-crunch the numbers.
+So more often, diminishing marginal utility wealth is sort
+of the thing that you say, well, yeah, it's efficient, but we
+shouldn't do it.
+How much would the harm to the gain to the poor have to be
+before it would be worth this big loss to the rich?
+All right.
+So that's efficiency.
+Any other questions about efficiency in any of those
+forums?
+Now I'll trust you to never make an efficiency mistake again
+for as long as you live.
+All right.
+Let me give you one other fun example of this.
+All right.
+So about, you know, it's like in the early years of Clinton,
+there was a big discussion about industrial policy.
+All right.
+And usually the industrial policy would get something like
+this and say, well, so, like, we had this in Donegal.
+So, like, you know, government maybe went and spent a billion
+dollars subsidizing an airline.
+And what we saw was that the, you know, and then the project
+there was, you know, this loss of money.
+So, you know, like, the project without, you know, this is the
+subsidy.
+This is the subsidy.
+And then you could say that the project, you know, the project
+winds up, even after the subsidy, you wind up losing
+money.
+So maybe a loss like $0.1 billion.
+All right.
+So that's the actual profit of the industry.
+And then maybe you've got some consumer surplus.
+All right.
+So you've got some consumer surplus here.
+So maybe you're, you know, like plus $5 billion in consumer
+surplus.
+All right.
+And then you take a look at this and you say, well, I mean,
+it seems like this is not really going to be worth it because,
+let's see, because basically we went and paid a billion in
+subsidies in order to go and transfer $600 billion to producers
+and to consumers.
+Right.
+Something like that.
+Right.
+And, you know, so anyway, so, you know, this is a way that a
+lot of industrial policy analysis works out where they say,
+yeah, we paid a subsidy, and then we looked at the profit
+with the consumer surplus, and the subsidy is greater than
+those, so it was a bad subsidy.
+And then there is actually a way that people will go and defend
+the industrial policy and say, no, it does pass the cost
+benefit test.
+And it's a pretty weird one.
+But when it's one that you would never want to make in public,
+but it's totally sound.
+And what's the argument?
+It's to say, yeah, well, they lost money, but here's what you
+have to remember.
+Actually, this would matter.
+I can even make that a plus $5 billion.
+So, yeah, the subsidy exceeded the profit and the consumer
+surplus, but here's the thing.
+The workers are grossly overpaid.
+The workers are grossly overpaid.
+The workers' opportunity cost is, say, a billion dollars less.
+They're getting paid like a billion dollars less than their
+actual next best alternative.
+So there's actually a hidden plus $1 billion in producer
+surplus that we work with.
+accounting because we were forgetting
+that the workers were overpaid.
+And then we're not paying a billion
+to go transfer $0.6 billion.
+We're paying a billion to transfer $1.6 billion.
+And all we need to do is admit that the workers are actually
+totally, grossly, grossly overpaid
+relative to the qualifications.
+And then we got a total cost-benefit analysis.
+This was, I think, Bill Clinton's first CEA head
+was Lyndon Lawrence Tyson.
+And she actually did cost-benefit analysis
+like this, arguing for investor policy.
+But again, it's one that never got much public attention.
+Because normally, when you want to defend anything
+that you're subsidizing, do you say that the workers
+are grossly overpaid?
+No.
+What you say is, they earn every penny.
+But if they're earning every penny,
+then counter-excess is a terrible idea.
+In order to make it a good idea, you just say, no.
+I mean, come on.
+They're totally unskilled workers
+and they're making $50 an hour.
+So you've got to remember that before you pull the plug on it.
+It's very important.
+Another analogous case of this is,
+when people are doing cost-benefit analysis,
+they will occasionally do something really crummy,
+which is say, well, look.
+This is going to create 100 jobs.
+And those workers are going to get, say, $10 million.
+And so that $10 million is a transfer to those workers.
+Is the $10 million that you give to those workers,
+like their salary is $10 million, is that really,
+economically speaking, a transfer of $10 million?
+No.
+No, why not?
+Because the workers have an opportunity cost.
+Yeah, they have an opportunity cost.
+So the workers, the next best alternative
+is actually to make $10 million.
+Then you actually haven't transferred anything to them.
+And if you're overpaying them by 5%,
+then there's a 5% transfer to them.
+But it's much less.
+So any time someone talks about, we
+have to think about all the benefits of all the workers,
+the benefits is not the salary.
+The benefit is the difference between the salary
+and the opportunity cost, which, again,
+goes back to the same point.
+If their opportunity cost is nothing
+because they're incompetent, then, yeah,
+then it's right to count it that way.
+So we know very often when economists
+talk about the distributional effects of deregulation,
+a lot of them say, well, a whole lot of lawyers
+are going to lose their jobs.
+And then they sometimes even put in the whole salary
+of the lawyer.
+It's like, well, I think these salaries,
+there's nothing else on Earth they can do.
+For obviously, most of them are going to just go and become
+a different kind of lawyer.
+But suppose that there were a massive reduction
+in the number of lawyers.
+Are those guys just going to go and become beggars?
+They'll find something.
+Almost all of them will find something else to do.
+So a key implication of cost-benefit analysis,
+which is very rarely understood, even by people doing it,
+and again, why is this counterintuitive to think
+of the way that you want to defend something in cost-benefit
+terms and say the workers are overpaid?
+Doesn't sound like a normal argument.
+It's just a sound argument, or at least it's a valid argument.
+It's one that is consistent with the system.
+Whereas if you say the workers deserve every penny they get,
+that's when you say, oh, well, in that case,
+let's not pay them.
+It only makes sense to pay them if they don't deserve
+most of what they're getting.
+Then it passes the cost-benefit test, otherwise not.
+Other questions?
+OK, are anyone happy?
+Anyone unhappy?
+All right, now let's move into probability,
+objective and subjective.
+So probability language lets us quantify uncertainty.
+So there's more to say in an uncertain world
+than I don't know.
+You could answer that way.
+So what are the odds that you get struck by lightning?
+I don't know.
+What are the odds that Trump will still be president tomorrow?
+I don't know.
+What are the odds that you eat dinner tonight?
+I don't know that either.
+I don't know anything.
+So since it's not certain, it's not impossible,
+I just plead the fifth.
+You can do that.
+But there's a lot more that you can say in an uncertain world.
+Now there's a couple different versions of probability theory.
+So the first one, which is controversial with almost no
+one, is called objective probability theory.
+Objective probability theory.
+Objective probability theory.
+All right.
+So this just says that even when you don't know what will happen,
+you're still allowed to talk about the relative frequencies
+of observed events in the past.
+So I don't know what's going to happen,
+but what I can say is that Democrats
+have won the popular vote in four of the last six elections.
+I think it might be now five of the last six.
+All right.
+So you can say, so the probability,
+the objective probability that Democrats
+are going to win the popular vote will be five of six, say.
+Or of course, you do this for actuarial tables.
+Are you going to live to be 70?
+I don't know.
+But what I can say is that the fraction
+of people in your demographic who make it to 70 in the past
+has been this.
+And that would be the objective probability.
+Or you could do this with dice or with cards.
+In all these cases, you can say, look,
+there's an objective probability.
+So in principle, you'd have to actually roll the dice
+empirically.
+Then say empirically, the six-sided die
+comes out one 1-6th of the time, two 1-6th of the time,
+three 1-6th of the time.
+That's the frequency in the past.
+And so there's a 1-6th chance that if we throw it again,
+it will be a three.
+So virtually no one says there's any philosophical problem
+with this concept.
+Anyone here?
+No, you can't talk about what happened in the past.
+Assumes there is a past.
+Assumes that something happens.
+There are weird philosophical views
+where there's someone who rejects everything.
+So you can't please everybody.
+Now, objective probability theory, unconversial,
+but it's not very satisfying when you think about it.
+For one thing, objective probability theory
+implies that you cannot talk about the probability
+of any unique event.
+Because how often do you observe a unique event?
+For any unique event you're talking about
+hasn't happened yet, how many times have you observed it?
+Zero.
+Zero.
+How many times does it come out any particular way?
+Zero.
+What's zero over zero?
+Undefined.
+Undefined.
+So it's indeterminate.
+I think that additional is indeterminate.
+It's an indeterminate thing.
+Like remember taking limits, L'Hospital's rule,
+that kind of thing.
+Zero over zero could actually be 1 third.
+But anyway, so that's the problem.
+So it says you can't talk about the probability
+of any unique event.
+And that seems weird because don't we often
+talk about the probability of unique events?
+What's the probability that you will get a job
+at Northwestern University?
+That's a unique event.
+So we're not talking about anybody else,
+we're talking about you, this particular case.
+And then here's a bigger problem.
+You say, well, all right, fine, we lose the unique events,
+but how many events are unique?
+Strictly speaking, all events are unique.
+Even playing roulette is unique because there's only one time
+that you're there in that casino,
+on that night, at that time, at that table, playing there,
+and you don't know that table's fair, do you?
+So have you run the test on whether the table's fair?
+So in that case, once again, like Ulysses,
+unique probability.
+Then we get lucky number 33, spinning this wheel.
+Me, Brian Kaplan, spinning it here at Harris Casino
+at 11.32 PM this night.
+That's a unique event.
+It's never happened before, it will never happen again.
+And if you think about it, any event
+can be described as a unique event
+because every event is, in fact, a unique event.
+An actuary may say, you are a 46-year-old male with a PhD
+living in the 22124 zip code.
+That's what you are.
+I say, well, I'm also, like, yes,
+but what about the table for people
+who play role-playing games?
+What about the table for people who also own a pool table?
+What about, like, well, there isn't anyone else in that
+who fits that description.
+So you can't say, well, my odds are dying.
+So, and I'm like, oh, yes, we can.
+We're going to do it anyway.
+I don't care what philosophers say.
+We're going to give up probability in any case.
+All right.
+Now, when I had this argument again with Walter Bloch
+and pointed out that since everything is unique,
+he said, well, object to probability is fine.
+I said, yeah, but in the real world, everything's unique.
+And then he said, great.
+Then we can never use it.
+Even better.
+We can never talk about the probability of anything.
+Oh, wonderful.
+All right.
+Now, you know, even he does say things
+that sure sound like probability statements on occasion.
+And he has a whole world view where, yeah,
+but I'm not speaking as a scientist.
+I'm speaking as a person.
+Well, is the person wrong?
+And so if the person's wrong, then stop saying it.
+If the person's right, why not go
+and use the language that allows us to communicate
+with other people?
+I'm good with that.
+I don't know.
+I cannot successfully channel him on this either.
+So once you realize that object to probability theory
+leaves us hollow, leaves us without answers
+for so many questions that we need to answer,
+brings us readily to subject to probability theory.
+All right.
+So subject to probability theory says
+that a subject to probability is simply a degree of belief.
+It is a degree of belief that a person
+assigns to a proposition.
+And that's it.
+So you can have a 10% probability, or a 3%, or 99.
+So all we need is that probability
+has to range from, has to be greater than or equal to 0%,
+less than or equal to 100%, or greater
+than or equal to 1%, less than or equal to 1%,
+less than or equal to 1%, less than or equal to 0%,
+greater than or equal to 0%, less than or equal to 1%.
+Yes, that's correct.
+That's seven other words.
+Zero.
+Ignore all the words I said and that.
+That's good.
+OK.
+And normally we say that a probability of 0
+means impossible.
+Were there any undergraduate math majors here?
+Good.
+OK, in that case, it's true.
+So if you remember infinitesimal things and so on,
+technically speaking, it is logically
+possible for a zero probability event to occur.
+Like, don't worry about it for all practical purposes.
+That probability of 0 is possible.
+And similarly, probability of 1 is certain.
+And then the other thing is that since something always happens,
+have you ever been in a case where nothing happened?
+It's like, even nothing is something.
+So then it's also that since it is certain that something
+or other will occur, then the summation of all probabilities
+must equal 1.
+As long as these probabilities are mutually exclusive
+and jointly exhaustive, then the probability of everything
+will sum up that something or other happening has its 1.
+And of course, this could be probability
+that I answer the phone, or my son answers the phone,
+or my daughter answers the phone,
+or somebody else answers the phone.
+And if you do it that way, then that's
+mutually exclusive, jointly exhaustive.
+So that must sum to 1.
+Because actually, no one has to answer the phone.
+So last one would be or nobody answers the phone.
+And that will sum to 1.
+Conditional on the phone being answered,
+then someone answered it.
+Now, why do people have a problem
+with subjective probability?
+The main argument against it is just
+that it's unrealistic to say that people
+have subjective probabilities.
+Because normally, when beings, as opposed
+to Vulcans and robots, do not assign probabilities to events.
+So most people do not say, there is a 0.3723 probability
+that the next meal is a hamburger, something like that.
+Never tell me the odds.
+So that's the human way of speaking.
+So in science fiction, usually it
+will be robots or Vulcans or other inhuman-type creatures
+that will be very inclined to give precise probabilities.
+And then what does a truly human human like Han Solo
+say when you start talking this way?
+Never tell me the odds.
+Never tell me the odds.
+Believe it or not, there are odds.
+Science doesn't want to hear them.
+But there are people who say, never tell me the odds,
+because you can't talk about odds.
+So I guess it's unrealistic to say it.
+Now, my reply to this is that while it
+is true that most people don't go around putting
+little stickers with numbers on every single event,
+nevertheless, people almost always
+have some probabilities in the back of their minds.
+So think about this.
+Probabilities like willingness to pay.
+How many people go around and tell you
+what their willingness to pay for everything is?
+My willingness to pay for a new mailbox
+would be $17.33.
+Willingness to pay for this mailbox to be of the green
+huge would be an upcharge of $1.33.
+Right?
+Again, this is unusual behavior.
+And yet, I don't know anyone in economics
+who has a problem with the constant willingness to pay.
+Because, yes, while people may not, generally,
+do not have a giant book listing their willingness
+to pay for everything, nevertheless,
+there's some willingness to pay in the back of your minds.
+It is a meaningful question to say, yeah,
+but how much would you be willing to pay for this?
+Similarly, it is a meaningful question
+to say, how likely do you think this is?
+It doesn't seem like that.
+So it seems 50% likely, 75%, 32% likely.
+These are all reasonable questions to ask someone.
+So yeah, so if you think about probabilities
+being like willingness to pay, I'll
+say either you've got to get rid of both of them.
+I don't think even Walter Block wants to do that.
+Or you've got to accept both.
+So yeah, well, they're both things
+where economics does get us to be more explicit about it.
+But yeah, if you do hang around with economists,
+you do get more questions like, what is your willingness to pay?
+So I know one economist who's really
+worried that he's going to get protested one day.
+And he talks about it all the time.
+And I'm like, I'm so tired of hearing that.
+What is your willingness to pay for an insurance policy that
+absolutely guarantees that you will never be protested ever
+in your entire life?
+He said $100,000.
+I'm like, man, you're really worried.
+It's not a reasonable number.
+I'd like to see you assume that.
+I don't know, $500 maybe for a lifetime insurance policy.
+Just look so far.
+I mean, what's been cool to me?
+I don't see why this would stop.
+And I think you're just getting agitated by scary stories
+and forgetting that what is the news?
+It's an inventory of the worst thing that
+happened on Earth every day.
+So you shouldn't basically just pay on that.
+Anyway, so that is a way that economists think,
+which is helpful.
+The elite least you had to say, $100,000.
+So all right, I guess if I were that worried,
+I might talk about it a lot too.
+Although when my house lost more than that money,
+I didn't think I needed to keep talking about it.
+So maybe you could play a bunch of fights, but you're done.
+So I'm not going to protest here.
+Anyway, all right.
+Now, further objection to subjective probabilities
+is that if you actually ask someone,
+what is the probability you're saying to this?
+A lot of people will say, I just don't know.
+People will stonewall you and not give you a probability.
+In fact, you may be treated as being rude for actually asking
+probabilities.
+Someone says, I'm really worried about terrorism.
+What's the probability you think?
+I don't know.
+I don't know about it, but I shouldn't even
+have to think about questions like that.
+Now, here's the key thing.
+What if you have to guess?
+And in real life, you do have to guess.
+Every time you eat a meal, you are making a guess
+that meal is not poisonous.
+So far, I assume you've guessed correctly.
+Lethal poison.
+I guess I've had food poisoning once or twice in my life.
+Didn't kill me, obviously, but it's very unpleasant.
+If I had guessed correctly on those cases,
+I would not have eaten that food.
+No way.
+The day I was doing my job market talk,
+Tyler Cowen tried to get me to try raw Peruvian fish.
+I'm not trying raw Peruvian fish on the day of my job talk.
+Super slow.
+No way.
+That was my guess, is that 5% chance I'd be sick,
+but that was enough.
+I did not want to be sick on the fourth night.
+So in real life, you actually do.
+You remember when I had my kids, and I always
+wanted to say, wow, not only when I cross the street
+am I now gambling that I can get across the street alive myself.
+I've got about three lives that I can get across the street
+safely.
+Look to the left, to the right, and left again.
+Let's go.
+What if there was a car driving 200 miles per hour?
+You wouldn't be able to, like, you'd still die.
+Yeah, but I've never seen that happen on a city street,
+so it seems very unlikely.
+Could happen.
+Now, a common sophism that is associated
+with the objection to subjective probability theory
+is say, look, no one can ever know that.
+There's just questions that are unanswerable,
+that are beyond human comprehension,
+that it's arrogant even to have an opinion on.
+Like, I remember when I was a kid,
+my friend made fun of me for saying,
+there have to be exoplanets.
+This cannot be the only solar system with planets in it.
+There's got to be others.
+I bet they're everywhere.
+And he said, you can't know that, Brian.
+You can't possibly say one way or the other.
+Ha.
+All right.
+And well, what if we had made a bet?
+And yes, if we had made the bets,
+I would have bet, I think I would have bet a lot on that,
+and I would have totally been vindicated by science.
+And now there's thousands of identified exoplanets.
+Great.
+I love reading about exoplanets.
+No interest in subatomic particles,
+but any planet will always interest me.
+Well, that's a place I could colonize.
+I could never live on a fork.
+But good in what sense?
+Don't worry about that.
+I can imagine living on the planet.
+Anyway, common selfism is to say no one can possibly know x.
+There's two ways that we can interpret this.
+One is, if you mean no one can know x
+with absolute certainty, then that's totally true,
+but totally uninteresting.
+Yes, I can never know with certainty
+that I will not die from eating a bowl of Cheerios.
+So what?
+I'm still perfectly happy to bet my life on these Cheerios.
+They seem fine.
+So looks good for me.
+OK.
+So you mean no one can know it with certainty,
+then it's obvious, but uninteresting.
+On the other hand, if you mean no one
+can know anything at all about x, then it's clearly false.
+And how can you know it's so clearly false?
+Well, how about this?
+If you really think no one can know about it at all,
+how about we just make a bet?
+So what does that mean?
+50-50?
+Fine, we'll give you 50-50 on a Martian invasion tomorrow.
+I'll give you three to one even.
+How about that?
+So when you all say, so I don't know if you've heard of that.
+So one of my main activities on the internet
+is just betting people that I think
+are being giant blowhards and who claim
+to know way more than they do.
+So let's see.
+My current record is 17 and 0 for my public bets.
+So I've won 100% so far.
+There's two more that I'm pretty much guaranteed
+to win once the data come out this month.
+So it'll be 19 and 0.
+So of course, I could screw up and start messing up.
+And I don't want to get cocky about this.
+But anyway, so when someone makes a big claim
+about what's going to happen, if you really think that,
+then it seems like you should be open to a bet.
+If you really think that, then you
+that no one can know the answer to a question that seems pretty obvious.
+Well then, how about you just give me even odds? And the striking thing is that people
+who express this skepticism, this egotisticism, will never give you even odds for bizarre
+events. Never. And say, well look, why is it that I have to convince you of this when
+you're already clearly convinced? Look, you don't believe Martians are going to land tomorrow
+any more than I do. You're just being a difficult person. And so since you don't believe, since
+I believe that they're not going to happen, you believe it, there's no why are we arguing.
+And if you think there's something to argue about, offer a bet.
+Alright, now another argument against the subjective probability is that it rules out
+surprise. So this is one that many Austrians have made at one point. And I just say this
+is wrong. So I say the occurrence of improbable extreme events is inherently surprising. I
+suppose you go and put a dollar into a slot machine and then you win the million dollar
+jackpot. You saw when you went into the casino and said there's a million dollar jackpot
+somewhere in the system. You knew it was possible. And yet what will your reaction be when the
+number comes up? One million dollars. One of your first reactions is disbelief and say
+no, it can't possibly be. But once the hotel manager comes and says congratulations, you
+won a million dollars. What will your reaction be? I say will you? Well, there's actually,
+if you go and look at a psychology textbook or an Addy textbook, it will show you the
+six primary human emotions. One of the six primary human emotions is called surprise.
+And it looks like this. It is a universal, every known human society has this emotion.
+And I will give you a 99% probability, you win a million dollar jackpot, your face, if
+filmed, will show surprise. What will happiness do? Happiness ends surprise. So how can you
+say that it's not a surprise when the anatomy textbook says it's a surprise? What's weird
+is there's these six primary emotions and you really can combine the anatomy for these
+different emotions to get almost any emotion you have a name for. So if you see Scott McCloud's
+making comics, it's weird. He has a whole table of every, it's like a triangular table
+of every emotion, every combination of the six primary emotions. And for every one he
+has an English word. And for every one the English word seems right. So what do we call
+a person who is simultaneously happy and angry? Cruel. It's like, eh, eh. And this actually,
+if you decompose the muscle movements on the face, it is actually a combination of the
+movements of anger and the movements of happiness. Again, there's a book I was reading and I
+was saying, how can there be six primary emotions? There's so many. Oh my God, he's right.
+Anyway, alright, so probability theory is not without surprise. Now what do economists
+do in practice? In practice economists normally use subjective probability theory, but when
+they're doing empirical work they'll often go and import some objective probabilities
+into the subjective probabilities to make the model less arbitrary. So like we're doing
+a rational expectations model, the normal thing to do, say, sure these are subjective
+probabilities, but we're going to solve the model in an internally consistent way so that
+people's subjective probabilities match up to the objective probabilities in the model.
+So it's still subjective probability but with an added constraint to make the model clean.
+Is this a reasonable approach? We'll be talking about this later in the semester. But again,
+once you've got subjective probabilities, that's the fundamental model, and then if
+the assumption that the objective is subjective or based upon objective turns out to be wrong,
+you can just go and redo the model with other evidence on how people really form their theories.
+So that may be fine.
+Okay, that's one way. Alright, so questions? Yes?
+So like, is it okay to say that this, that this phrase, like, sheers?
+Yes, exactly.
+Yeah, so would you just classify that as a probability, probability of probability set?
+Would you just classify that as like other?
+Yeah, that's a very reasonable way of doing it. So now if you go and talk to a person
+and say, no, no, no, no, no, we're not going to let you do that.
+So, I know there are a lot of students with Austrian sympathies. There's actually several
+different incompatible Austrian arguments on this point.
+You're not surprised they're incompatible because they're made by different people usually.
+So the hardcore Rothbardian or Rieszewski view on subjective probability is you just
+cannot talk about the probability of the human events.
+And actually, Ludwig von Mises' brother, Rick von Mises, is actually a famed probability
+theorist who did have a whole book defending almost this view, although it's not quite
+the same as Mises', but it's kind of, but it's similar anyway.
+So there's a family resemblance in the views that the two brothers had on probability.
+Kirchner and Kirchnerians don't actually say that you can't assign probabilities to things.
+They just say that sometimes people don't.
+And we say, well, isn't that just the same as assigning a probability of zero and then
+being wrong to do that?
+And their answer is no. They're like, well, I don't understand.
+So when I was actually, when I just finished my PhD, I did get to go to a seminar with
+Kirchner where I got to go impress him on this point.
+And he gave me an answer which I'll never forget because I was even more confused after
+he gave me his answer than I was before.
+So, and I said, look, so why don't you just say that sometimes people, you know, have
+a psychological bias and they incorrectly round a probability down to zero that they
+shouldn't.
+And then, like, we just use normal subjective probability combined with some empirical psychology
+to point out ways in which people make mistakes.
+Why not do that?
+And then he said, no, no, no, no.
+He said, first of all, no.
+And then he said, look, here's the difference between what I'm talking about and what you're
+talking about.
+And he said, all right, so suppose that you and I are talking in this building and we
+leave in the night and we get so caught up in the conversation that we get locked in
+the building.
+And we try to get out but there's no way to get out.
+We're completely locked in the building.
+And then in the morning we notice that there was a pay phone there and we had the money
+in our pockets and we could have just called the janitors to go let us out.
+But we didn't do it.
+He said, that's like what you're talking about, Brian.
+Okay.
+And he said, now, no, no, no, actually, I'm messing it up.
+No.
+He said, that's what I'm talking about is this.
+And he said, and then, he said, so, and then he said, but Brian, what you're talking about
+is imagine that I were to die and I go in heaven and I meet the author of a great book
+in the NYU library and he comes to me and he says, Israel, why didn't you read my book?
+And then he said, then I would just give the answer up, well, I just didn't have time to
+go and search through all the books in the library.
+And so that's why your book was unread.
+And then I said, well, so, probability theory applies to books but not phones?
+Or, and he's really confused by this.
+So then he thinks it seems like it should be the other way.
+Because he's like, books are these unique products and you might just totally fail to
+grasp that there's a book that fundamentally changes everything.
+But like, the phones, like, what's special about phones?
+So, anyway, obviously I'm not the right person to sympathetically present a theory that seems
+so strange to me.
+But I do think I'm fairly describing his two examples and I'm still kind of baffled by
+why these examples are there.
+I'll give you like another popular example that not Kirzner himself but a Kirznerian
+has used is the Trojan horse.
+He says, look, the Trojan horse, this is like an unknown unknown.
+It's something where the Trojans just had no idea that the Greeks might try to pull
+a trick like this.
+And since it never occurred to them, they fell for it.
+Now, if you actually read the Iliad, it turns out that they have the story completely wrong.
+Actually, one of the very first things that a Trojan says is, what if there's Greeks hiding
+inside this very horse?
+And then Poseidon sends servants to eat that guy.
+And so then the Trojans say, well, I'm not going to eat, let's take the horse inside.
+So actually, even in 1000 BC, the people seemed to be thoughtful enough to consider the possibility
+that there was this trick there.
+So, again, as to why that would be the same way now.
+And again, like the general point of, it doesn't make sense, it's generally unwise to assign
+a literally zero probability to a conceivable event.
+Maybe it's one in a billion or a trillion, but to put it down at zero that your best
+friend will betray you.
+I mean, come on, maybe the best friendship ever.
+But still, absolutely impossible.
+Can you not imagine a scenario where things work out through a series of unfortunate events
+that your best friend betrays you?
+All right.
+So we've got one last topic here, which we'll finish up with next week.
+Although still, there's a problem like this on the homework, you should still do that problem.
+So work through the math, and we'll talk about the interrogation of the past.
+All right, thanks guys.
+And again, so remember, the homework, you should be downloading the homework from the
+class webpage, and end up doing it.
+And the syllabus tells you when things are doing.
+So again, unless there are snow days, what matters is the number of times you've been
+showed the syllabus, and gathering all the right information.

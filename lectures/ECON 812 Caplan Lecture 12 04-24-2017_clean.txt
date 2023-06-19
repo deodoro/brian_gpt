@@ -1,0 +1,3357 @@
+You handed out evaluations?
+Yes.
+Yeah, I'm going to travel through time and then something.
+OK.
+All right.
+So today we're going to finish up with labor,
+and then we're going to do financial markets,
+and then after that, let's see.
+Then next week, we're going to do public choice,
+and then we're done.
+So let's get started.
+Could you close the door in the back there, Elaine?
+Thanks a lot.
+All right, so two more topics for labor economics.
+All right, first one, nominal rigidities, often discussed.
+At the beginning of the fall semester,
+we had Truman Buley out to give a seminar.
+It was very hard to hear him for some reason,
+but he said he had a constant volume.
+He can't raise his volume.
+But anyway, the book is really good.
+So long noted, probably for several centuries,
+that there's something funny about labor markets,
+because even though labor markets seem
+very close to the perfectly competitive assumptions,
+but it's very unusual for nominal wages to fall
+when there's surplus labor.
+So during periods of very high employment,
+in a market that is close to perfectly competitive,
+there's an obvious thing to expect,
+which is just that the price will crash,
+restoring full employment or ending the surplus.
+But this generally does not seem to happen in labor markets.
+You can always look and find some way to blame government
+and say government is hindering adjustment,
+but normally when government is trying to hinder adjustment,
+the market is trying to hinder the hindering
+of the adjustment.
+That's the normal thing, is that there's creative evasion
+in business.
+When government tells them they have to do something,
+oh yeah, we have to do that.
+OK, well, how can we not actually do that,
+even though you say you have to and then make money?
+But for nominal virginity, it seems
+like it's a very stable thing that not that much effort
+is used to, or not that much energy trying to evade it.
+Now, there is a simple neoclassical theory
+of nominal virginity, and that is just menu costs.
+There is a neoclassical theory to explain it.
+This is menu costs.
+This is a simple neoclassical theory
+about why, say, restaurants don't adjust the prices
+on their menu every single day.
+Well, they don't want to incur the expense of printing out
+new menus with the daily prices.
+And therefore, if you print out menus
+where the prices that are going to last for a year or two
+years, then on any given day, the market price
+won't be quite right.
+And then, of course, firms make a trade-off
+between how often to adjust the menu
+and how off the prices are going to be.
+And sometimes you can see that restaurants will have
+a few special items that fluctuate widely in price
+daily, like lobster, where they don't put
+the price on the menu.
+They say market price.
+And once you learn some economics, you might say,
+wait, it's all market prices.
+Everything's a market price.
+What do you mean is the market price?
+Really, what they mean is the daily price,
+something like that.
+So it's all market prices, but some market prices last a year
+and others only last a day.
+So that is an alternative explanation.
+But in general, it seems like the menu costs and labor
+are pretty small relative to the value of the product.
+Furthermore, menu costs, the menu cost model
+has a simple implication, which is
+that the bigger the shock to demand,
+the smaller the problem will be.
+So the idea with menu costs is there might be a 1% change,
+and then it's not worth changing the menu over 1% change.
+But what do we see during the Great Depression?
+You have a 1 third fall in the money supply,
+and therefore wages adjust instantly or very quickly.
+So well, by God, there's a huge fall in demand.
+We've got now the menu costs are irrelevant compared
+to all the losses of keeping a quarter of workers unemployed.
+But that's not what happened during the Great Depression.
+Instead, you had many years of high unemployment
+after this huge shock.
+So the menu cost model says really the problems
+come from tiny shocks, shocks that are so small it's not
+worth changing the menu.
+But in later markets, we seem to see that very large shocks
+have large effects.
+Whereas in a simple menu cost model,
+there would be a small range where, of course,
+a double microscopic shock will have more effect
+than a microscopic shock.
+But once you get over the threshold
+where it's worth printing up another menu,
+then the problem should be solved,
+and it doesn't look like that in the real world.
+So in light of all this, a lot of behavioral economists
+have come up with alternative stories
+of what's really going wrong in labor markets.
+And the two big stories are, first of all, money illusion.
+And second of all, some kind of nominal fairness norm.
+So for one thing, there are a bunch
+of studies that indicate people have money illusion to some
+degree.
+That means that when there's low inflation,
+people tend to think of the value of money as constant
+rather than slightly changing.
+So how often have you gone to the same store
+for a few weeks in a row, and each time you
+see the price is the same, and each time you say,
+oh, the price is the inflation rate divided by 52% lower?
+That's not the normal reaction.
+As long as there's positive inflation,
+every week they don't raise the price,
+they've really lowered the real price.
+But that's your story.
+Maybe you do that.
+Maybe you do do that, in which case
+you're in the right business.
+Then you're really internalizing economic norms,
+like just three more weeks, and then it
+will be worth buying this.
+But that's one story.
+Now, what's striking is, though, even when you go and make
+the point very explicit, so it's very hard to really still
+have money illusion, people still
+seem to actually define fairness in nominal terms.
+Even when you show them, look, it's
+totally the same in real terms.
+Well, maybe totally the same economically,
+but not fairness-wise, where something different's going on.
+So here is a famous behavioral study.
+People were given two hypotheticals,
+and then you randomly assign the two,
+and they're out, and you're asked to rate the fairness.
+So two hypotheticals.
+One, inflation is zero, and then you give everybody
+a nominal 7% pay cut.
+And what percent of people consider that unfair?
+62%.
+What if inflation is 12%, and you only
+give people a 5% nominal raise?
+Then only 22% consider that unfair.
+And here, you're very explicit.
+Here's the pay cut.
+Here's the inflation.
+See how it's the same thing?
+And people don't actually feel like it's the same thing.
+Now, you may respond, well, who cares about fairness anyway?
+This is a business.
+It's not like a fairness factory.
+Well, there's also evidence that disgruntled workers' pay is
+worse.
+Or, excuse me, disgruntled workers' performance is worse.
+Productivity falls when workers feel like they're
+being badly treated.
+And one of the big lessons of Truman Buley's book,
+Why Wages Don't Fall During a Recession,
+he went around and did hundreds of interviews
+with hundreds of different firms.
+Standard result is nominal pay cuts seem unfair to workers.
+Who cares?
+Well, I'd better care because they're my workers.
+And when my workers feel unfairly treated,
+they don't do a good job anymore.
+All right, so in other words, effort's partly about incentive,
+partly about trust.
+So if people feel like you have screwed them over,
+then performance falls.
+And you may actually prefer paying people higher wage
+as long as the productivity is proportionately higher.
+On the other hand, you may not want to go and cut pay
+because you might cut pay by 5%, but if productivity
+falls by 10%, you actually had a bad deal out of this.
+So Buley spent a lot of time asking employers,
+how do workers respond to wage cuts versus layoffs?
+Very standard reaction is wage cuts hurt productivity,
+whereas layoffs actually improve productivity.
+And again, usual story is that when there are layoffs,
+the remaining workers work harder because they're scared.
+Of course, there's also a selection effect,
+but this is supposedly in addition
+to the selection effect.
+When you say selection effect, you mean?
+That you would lay off the worst workers.
+Exactly.
+Yeah.
+Yes, but again, the story that people
+with firsthand knowledge on both sides of the employment
+relation will say is when there are layoffs,
+well, employers say the workers seem to work harder
+because they're scared, and the workers say,
+well, I work harder because I'm scared.
+I don't want to lose this job.
+I really need this job.
+I don't want to get unemployed in this recession.
+I just need to make it through this next round of layoffs,
+and I've got to make sure people know my value
+so I don't get laid off.
+My favorite real world example of this, so in the early 1990s,
+the state of California had an especially bad budget crunch.
+And I was told secondhand by someone
+who was in the faculty lounge at the Berkeley Economics
+Department that there were theorists sitting around
+complaining about their nominal pay cut.
+All right, now that might say, well, of course,
+they don't like getting a nominal pay cut.
+The same observer said that 10 years earlier,
+when the real pay cut was way higher.
+Because remember, early 80s, think about how high inflation
+was.
+So even if you're getting a substantial nominal raise,
+still, the real wages are getting cut very rapidly.
+But my same inside observer said, now, the same theorists,
+these are PhD theorists with tenure at Berkeley,
+were complaining a lot more during a period of no raises,
+or I guess it was like very mild nominal pay cuts
+and near zero inflation, than they were 10, 15 years earlier
+when they were getting moderate nominal raises
+and there was high inflation.
+So even they seemed to actually be vocally more upset and more
+outraged by the high inflation, moderate nominal raises regime,
+which means substantial real pay cuts,
+than they were during the minimal inflation
+and absolute nominal wage cuts, which were actually not
+as bad as the earlier ones for them.
+Yeah, Ash?
+On that point about how workers respond to layoffs, et cetera,
+Tyler Cowen said that one way to view how productivity increased
+during the Great Recession after layoffs
+is that the people who were laid off
+and zero marginal productivity.
+Yeah, so that is a standard story, right?
+And I was saying, so the selection alone would give this
+to you, and this is why if you believe that people
+who have a lot of first-hand experience
+with an industry know something about it,
+they're saying something on top of that.
+They're actually saying that the one and the same worker
+who remains works harder from the fear of the layoffs.
+But yes, there is Tyler's story,
+which is just an extreme version of an earlier story
+of you lay off the lower productivity people, right,
+as to what Tyler's evidence ever was for their zero product.
+I don't know what that, I've asked him many times.
+I've never gotten an answer better than, well,
+there's some selection, but it's hardly the same as zero.
+Yeah.
+Yes. Right, there are some, right?
+Yeah. So, I mean, it would be surprising if there were a lot
+of zeros but no negatives, right?
+Just by statistics.
+So, like, whatever, there's like this giant spike at zero,
+that must be some miracle that there's a bunch of people
+who do, on balance, do nothing, exactly.
+Right? So, but, yeah.
+Okay. Now, the classic response to nominal rigidities,
+of course, which we know from Keynes as well as people before
+and after, is just to inflate away the nominal rigidities.
+So, if you've got a problem where you have 25%
+of your workforce unemployed,
+and you've got almost no inflation,
+why don't we just print up a ton of money, cause a bunch
+of inflation, and hope the workers are too dumb to notice?
+Right? Or maybe they, or maybe they're,
+maybe they're even aware, but then they don't feel
+like it's unfair.
+Or maybe they feel like it's unfair,
+and they think it's the government being unfair rather
+than employers, because there's also plenty of evidence
+that people blame employers for pay, but government for inflation.
+So, in which case, you could deflect the blame,
+and the government can sort of throw itself on the grenade
+and say, yes, hate us, don't hate your employers.
+And then, presumably, workers will not try to get revenge
+on their employers by stealing or doing a bad job
+or being rude to customers or just slowing down or whatever.
+Right. Now, in practice, as you probably know,
+just inflating away nominal wage rigidities is easier
+said than done.
+Lots of countries have tried.
+Countries that do it a lot seem to be really bad at it.
+There's a paper by Robert Lucas in the 70s, the punchline
+of which is that the higher your long-run rate
+of nominal GDP growth, the worse the benefit of inflation is
+for employment and output.
+So, countries where they have a long history
+of very high demand growth and very high inflation,
+in those countries, Keynesian policies don't work anymore.
+Whereas, countries that generally have almost no
+inflation, in those countries,
+Keynesian policies do seem to work.
+But then, there's the problem of once you say, hey,
+Keynesian policies work really great in a country like ours,
+let's use them all the time.
+Well, if that's your reaction, then before long,
+you don't remain one of those countries with low inflation.
+You turn into one of the countries
+where the policies don't work.
+All right.
+So, yes?
+So, in a world of digital menus,
+do menu cost models still have any validity?
+Or are they still?
+Well, so as long as there's that, you know,
+like so you could take it up a level and say
+that rewriting the algorithm for the,
+rewriting the pricing algorithm,
+that might actually change if market conditions change.
+Of course, if you have the perfect algorithm,
+you never need to change it.
+But from what I understand in real world programming,
+algorithms change all the time.
+People are always improving on them,
+and they never hit the perfect one.
+So, then you might actually just get a, you know,
+like you might get a change in the algorithm,
+or people might put more effort in the algorithm,
+or you might have more variable, like a more dynamic algorithm.
+So, there's still that.
+I do know that during the 2008 recession,
+multiple economists told me that they subscribed
+to just a menu cost view of why you have nominal wage rigidity.
+And so, they were predicting that better inventory systems
+and so on would mean that whatever unemployment happened
+would be very short-lived.
+And I said, well, I believe the psychological theory.
+I don't think the menu cost really explains very much.
+And I don't like to be, I don't like to be claimed
+to be proven right by offense, but that's in the ballpark
+of being proven right by offense.
+It did take just as long, roughly,
+for the Great Recession to go away as previous times.
+So, a good long-run rule is that after inflation, or rather,
+after unemployment reaches its peak, it declines
+by one percentage point per year until you go back to normal.
+And if you take a look at the graph for the Great Recession,
+it almost perfectly is on that line.
+So, there is the question, well, how high up will you go?
+And that's, I don't know any good rule for that.
+But once you hit the peak, once it starts, once it stops growing,
+then the percentage point per year rule works really great
+for the last 70 years, right?
+Which, if you think about it, it actually is a little bit
+of a challenge for almost every theory
+because, wait a second, so, doesn't the quality
+of contracyclical policy vary over time in some way?
+Well, if it does, then how come there is this very clear rule
+of one percentage point per year that unemployment goes back
+down after recession, so wasn't there, like,
+a better time and a worse time?
+So, I guess the Great Depression does not fit it.
+So, you might say macro policy was noticeably worse during the
+Great Depression, but everything post-war seems to be
+on that line pretty closely.
+So, I encourage you, if you're curious, to go
+and actually look at the BLS data.
+So, I mean, I've looked at that.
+And, you know, on the basis of that,
+I made this totally atheoretical bet with Tyler
+that unemployment wouldn't remain above 5%
+for 20 years, as he predicted.
+He gave me 10 to 1 odds as well and lost in three years.
+So, there, vindication by bet.
+Now, that's real vindication, right, because that's one
+where both sides specified in advance what they would count
+as being right and wrong.
+So, it's easy to wait around to see what happens and say, see,
+that was pretty much what I was talking about.
+Another thing when it's well-defined publicly
+where you can actually see that someone was,
+in fact, definitely right.
+Okay. Now, last topic.
+Another fun one.
+Efficiency wages.
+All right.
+So, you've all heard about how garbage men get extra money.
+That's a basic fact about the economy.
+Most important fact to explain,
+why garbage men get to make more money, right?
+And, yeah, so if this is supply and demand for normal workers
+with the skills of garbage men, then what is different
+about the market for garbage collection?
+Yes, yes, and therefore, what curve shifts and how?
+Supply, yes, supply is lower.
+A lot of people want to say demand goes
+up because you have to pay workers more in order
+to deter the unpleasant conditions, but the fact
+that a job is miserable doesn't make it any more profitable
+to hire people, right?
+So, remember, demand is based upon worker productivity,
+so the fact that you're miserable doesn't make you
+more productive, right?
+So, what really happens is the people don't want to take
+that job, and therefore, wages go up as a result
+of reduced supply, and then, of course, employers have to go
+and pay the higher wage in order to get workers
+to do this unpleasant job.
+All right.
+So, this is known, of course, as compensating differentials
+or also equalizing differences.
+Should be well familiar to you.
+All right.
+So, well known.
+And notice, is this a model of asymmetric information
+where people, where the two sides,
+where one side knows whether the job's unpleasant
+or the other one doesn't?
+Or is it a model of symmetric information
+where it's known to both sides what's going on?
+Yeah. What's that?
+Yeah, it's symmetric.
+So, you know, the workers know how it's unpleasant,
+but employers don't say, gee,
+I don't wonder whether a garbage collection is unpleasant
+or not.
+Who knows?
+How would one discover such things?
+Instead, it's just common knowledge, and of course,
+for a job like that, we're going to debate more.
+And workers know, of course, for a job like that,
+you're going to debate me more.
+All right.
+No big surprise.
+All right.
+Now, what about in a market with asymmetric information?
+Market with asymmetric information
+where suppose workers know more
+about whether they're doing unpleasant stuff than you do?
+Like one thing that's generally considered unpleasant is having
+to go and work really hard all the time.
+So, if you could either have a leisurely pace
+or you could have a frantic pace.
+Most people don't like having a frantic pace.
+So, if you ever try to get someone to hurry up
+and notice the resentment that a lot
+of people feel at being hurried.
+I'm a non-coffee drinker, so I especially notice the coffee
+drinkers get very agitated when you try to speed them along.
+Can we go now?
+I'm drinking coffee.
+So, I never say I can't hurry because I'm drinking a glass
+of water, so usually you can't hurry up because you have a
+different beverage than me.
+So, great anger at trying to hurry a coffee drinker.
+It's an attack upon them as human beings
+to try to move them along.
+Anyway, so what if we've got asymmetric information
+where the boss wants you to go and work fast,
+but you don't really feel like it
+and the boss has trouble telling how fast you're actually working?
+Well, in that case, what might you do as an employer?
+You might say work fast or I will fire you,
+but there's a little problem here, which is
+that if the market's competitive,
+the threat to fire someone is not scary.
+Just like if there's 100 sellers of strawberries
+and one seller of strawberries says,
+I don't like the way you're touching my strawberries.
+You can never buy a strawberry here again.
+It's like, fine, walk three feet and buy it from another guy.
+All right, so it's not very scary to ban someone
+from your store if there's lots of other stores that are just
+as good and very close by.
+Similarly, if it's really easy to get another job that's just
+as good with the same pay, then it's not very scary
+to threaten to fire somebody.
+And that is the problem.
+All right, so if you are trying to get someone
+to work really hard and you say, look, I'm hiring you.
+I expect you to work really hard.
+I know I can't monitor you all the time,
+but if I ever catch you doing things slowly, I will fire you.
+And then the person, oh, no, I would never do that.
+And then if you happen to be caught by your boss
+and he fires you, all right, well, just move over
+to somebody else.
+Get the same deal you were offering.
+And I can repeat my same tactics again of saying I'm going
+to work hard and then not actually doing it.
+Right? So what can employers do
+when the threat to fire is no longer scary?
+And that is the heart of the efficiency wage model.
+So the efficiency wage model says how about this?
+How about you first give people a nice raise.
+Your workers a nice raise so they're getting paid more
+than the competitive amount.
+And then you say if I catch you shirking,
+catch you slacking, I will fire you.
+And now you can't just say who cares, let us move over.
+Because now when you move over you're going
+to be settling for a lower wage.
+Yes?
+Yes?
+So workers first they will have to find a reputation?
+Ah, so that is actually a great question.
+So yeah, again in a world where your reputation is known,
+that would not be asymmetric information anymore.
+Right? So again this is thinking at least
+in a lot of labor markets, especially for low-skilled labor
+where people really don't know much about you from before.
+So I mean they could.
+In the United States at least it is normal for employers to lie,
+or former employers to lie about you and just say you're great
+because they don't want to get,
+partly because they don't want to get sued.
+And partly because they feel sorry for you.
+Yeah, it was great, oh yeah, wonderful.
+We were idiots to let them go.
+We're fireworks, we actually.
+Yes?
+Does any other countries have that sort of standard?
+So I think it's very likely that they do.
+But I'm not sure, but in the U.S. I know.
+But yeah, but what I can say is around the world it is normal
+to feel bad about firing people.
+And normal to go and lie to cover stuff up for someone
+that you personally know.
+Even if you think the person is actually kind of scum, still,
+the scum you know is your scum.
+Right? So, yes, you've probably never known,
+you've probably got like a bad cousin or something.
+And so what is he really like?
+Oh, well, he's a good guy I guess.
+All right.
+So anyway, step one is you raise workers' pay
+on the market clearing level in order to make them feel
+like they have something to lose.
+And then if they do get fired
+because you catch them doing something bad, it's going
+to be hard for them to get another job that's just as good.
+Now the standard question is, yeah,
+but if all employers think this way it won't work anymore.
+And actually that is not true.
+Because if all workers think this way,
+so this is regular supply, this is regular demand.
+But if all employers go and raise their wage
+above the market clearing level,
+then what do we get in the market?
+Generally, this is, let's let go of it.
+Shortage?
+Yes. Yes, we get a surplus, which is also known,
+a surplus labor, also known as unemployment.
+And in a market where there is unemployment, is the threat
+to be, is the threat to fire someone scary?
+No. Then it becomes scary.
+All right.
+So either, you know, one person can do it and then it's the fear
+of having, getting stuck with a crummy job instead of a good job.
+If everyone does it, then it's the fear
+of being unemployed rather than having a good job.
+So either way, this is a scary threat.
+But then there is the side effect of everyone doing it,
+which is you have this permanent labor surplus.
+All right.
+And again, in principle, in the model,
+these unemployed workers can be just as productive
+as the employed workers.
+What's the difference between the employed and the unemployed?
+The employed are lucky.
+Right? The employed won the lottery
+and the unemployed lost the lottery.
+The unemployed serve a function,
+which is scaring the employed people.
+Right? So many people take this model and say, ah,
+this is the right way to model Karl Marx's reserve army
+of the unemployed.
+Ever heard of this one?
+There's just a little funny difference between this model
+and Marx's reserve army of the unemployed.
+In the, in this model, the ideal thing would be if wages,
+would be if wages just fell.
+All right?
+So if wages were just lower, then the problem would be gone.
+Where, of course, Marx actually, in this bizarre way,
+tries to say, and this is why more wages stay low.
+No, no, no, no, no.
+This is a model where wages are too high.
+It's not a model about why wages are too low.
+So, you know, some people have tried to use this
+to say this is what Marx was talking about,
+but it just doesn't, it doesn't really fit
+with what Marx was saying.
+And once again, Marx was just wrong.
+All right?
+So even if there's something that you might take
+out of a sentence and say, ah, there's something going on here.
+Yes?
+Yes?
+I'm confused about the demand curve.
+Is there like a real demand curve?
+Yeah, well, so again, remember, like, you know,
+standard model, demand curve is just given
+by the marginal revenue product of a worker.
+So there are paying workers above the market.
+No, so no.
+Here, like, here's the key thing is that, so this,
+but again, so think about this.
+This is the marginal revenue product
+with symmetric information.
+Right? That's the true marginal revenue product.
+That's what you would do if you could be watched
+like a hawk all the time.
+That's what you're capable of doing.
+But then there's the problem that if you just pay people,
+if you just pay people that wage,
+people feel like they have no particular reason
+to actually work that hard.
+And so people are not being paid above their actual marginal,
+their realized marginal product, but you have to go
+and pay them more than that intersection in order
+to actually get their full effort out of them.
+That's the idea.
+Okay. All right.
+And if you go and set the model up correctly,
+this is a totally stable equilibrium because, you know,
+like in the model, so as long as you get the model up right,
+if you cut wages a little bit, yes, a bunch of people want
+to work for you, but they don't actually work.
+Right? So in other words, the productivity
+of the workers you get falls faster than the wage.
+So if you go and say, hey, I'm going
+to pay workers 5% less of that, you get a bunch of workers,
+but they're not going to be as productive as they would be
+if they were paid a higher wage.
+In fact, they'll be, say, 10% less productive than normal.
+So if you can get workers that are 10% worse for 5%,
+or worse for 5% less, does that sound good?
+It's not good.
+Right? So that's the idea is
+that these other workers who are employed,
+even though they're just as good in the model as the ones
+that do have jobs, if you went and offered them an amount
+of money that made it profitable,
+that with an offered amount of money below that amount,
+they would actually do a worse job,
+and it would not be profitable.
+Okay. All right.
+Now, the efficiency wage, oh, yeah, yeah, Ash.
+I'm just wondering, maybe you'll touch on this later,
+but is there an efficiency price theory for?
+Yes. So absolutely, you can just turn this around very easily.
+You need to have a similar situation where the quality
+of the product, where there's asymmetric information,
+and the buyer has trouble knowing.
+So yeah, but, you know, think about you go and, oh, let's see.
+So you, yeah.
+The example I'm thinking of is in Toronto, we have a train.
+We buy the ticket, but there's no one checking the tickets all
+the time.
+Oh, yeah, yeah.
+That is a good example.
+So yeah, so if all, you know, if you were caught without a ticket
+if all you had to do was pay the normal price,
+then why would anyone ever buy the ticket?
+Then it's heads you win and tails you break even.
+So yeah, so it needs to be, so the fine has to be enough
+to persuade people to buy the ticket in the first place.
+Yeah, so that would basically,
+that would be in the same ballpark, sure.
+Right, but any time there's been, you know, been someone who,
+I don't know, like, you know, there's like an electrician,
+and he doesn't, and, you know, like you want him,
+and you want the electrician to, you know, to do a good job,
+you might actually deliberately tip, right.
+So, oh, we don't tip.
+Well, this time I'm tipping, right, and that way,
+the person is worried that they're going
+to lose your patronage, right.
+You're only actually, even a better example would just be
+regular tipping, any place that you go often, right,
+if you want to get better treatment, you just go
+and give it, and pay an extra tip,
+and then people will notice you and probably treat you better.
+So, all right.
+Now, notice, this is a totally real model.
+So, this has nothing to do with the number of identity, actually.
+People often go and throw the two together
+as if they're the same thing.
+They're totally different models.
+So, efficiency wage models, nothing to do
+with the number of identity.
+You know, you get a totally real model where there's no,
+where there is no money illusion, no fairness.
+You could still have this going on.
+Right, Marcus, you have a question?
+Yeah. So, I also hear this often, like,
+in relation to why wages don't fall during a recession.
+It's not related to the business cycle at all.
+Yeah, well, so this model has nothing to do
+with the business cycle, right,
+whereas the nominal model does explain something
+about business cycles, but this does not.
+Least, again, like, of course, you could do a hybrid model
+where efficiency wages and nominal rigidity all working
+together, so you could do that.
+All right.
+So, now, this model is one of the most popular arguments
+for industrial policy in labor economics.
+Right, and what's the idea?
+So, the idea is that it is possible,
+and always remember possible, because people are,
+there are economists who like a regulation, often very quick
+to reason from it's possible to it really will work this way,
+but anyway, it is possible that you can increase total output
+by taxing the employed to subsidize the unemployed.
+Right, and why does that work?
+Well, think about this.
+If you go and you tax these people, right, you say,
+you know, if you go and tax these people, then still,
+you know, like, it remains worse to be unemployed.
+So, it remains worse to be unemployed, and then you can go
+and take that money and use it
+to subsidize employment for the other workers.
+Actually, in like a more advanced version of the model,
+you might go and tax the workers in the symmetric information
+sector to subsidize workers in the asymmetric
+information sector.
+Right, so you would actually go and say, well,
+productivity is higher in the asymmetric information sector
+than in the symmetric information sector,
+but due to the asymmetric information,
+there's no movement, so let's go and heavily tax the workers
+where we know what's going on, and then we'll take that money
+and subsidize jobs for the jobs over in the asymmetric sector,
+and yeah, won't that make life even worse for the people
+in the symmetric sector?
+Yeah, but remember, we're doing Calgary's efficiency here,
+so as long as the total social gains are greater,
+then that passes the efficiency test.
+Doesn't that reduce the real?
+Well, so it actually, so that actually increases the gap
+between the asymmetric sector and the symmetric sector.
+So let's see, so you tax it, so that means the after-tax pay
+in the asymmetric sector goes down,
+and then actually you subsidize, so that raises post-subsidy wages
+in the other sectors, so you're actually spreading the gap
+between the two sectors even more.
+So people often think about this as like auto workers
+versus taxi drivers, and for taxi drivers,
+it's symmetric information, and for auto workers,
+for some reason, it's asymmetric information, and then the idea is
+that we're going and moving workers from these, well,
+the low-wage jobs in the taxi sector by taxing those workers
+and moving the lucky ones over into the highway sector,
+and if this model is right, then it's possible
+that total output goes up, and if total output goes up,
+then of course, average well-being also goes up,
+right, usual model, okay?
+Now, there are some other implications
+of the efficiency wage model
+that have gotten almost no attention
+because they horrify the people who like the model,
+but they're worth mentioning.
+So in the efficiency wage model, you could also solve the problem
+by just making unemployment worse,
+just make unemployment more scary, right,
+and there's one big thing that government does
+to make unemployment less scary.
+What's that thing again?
+Unemployment insurance, so one thing you do is let's get rid,
+let's reduce unemployment in the asymmetric information sector
+by cutting unemployment benefits,
+getting rid of unemployment benefits.
+That's totally consonant with the model.
+The people who like the model are normally Keynesians
+who would be horrified at the thought
+of cutting unemployment insurance, but it comes right
+out of the model that anything that you're doing
+that makes unemployment less scary,
+it causes more unemployment, right?
+And of course, could be arguing as welfare, and then if you want
+to go full Charles Dickens, you could also say, well,
+this is an argument for vagrancy laws, saying it's illegal
+to not have a job, all right, which,
+well such laws have existed 20th century, most prominently
+in the Soviet Union where you can be arrested
+for not having a job, so, and like especially,
+you know, it's a monopsony employer anyway, so you can see
+like people wouldn't want those jobs, but yeah,
+everyone in the Soviet Union has to have their book explaining
+their whole labor history,
+solving the asymmetric information problem
+to a large degree, right?
+If there's a law saying everyone has to have a book
+and you can't do anything without someone signing off
+and making marks on you, not to advocate it,
+just point it out at the model.
+Yes.
+Uh, so for the subsidy model of work, I guess,
+you would have to be tied to keeping the job, right?
+You'd have to be tied.
+Yeah, yeah, well we give them, well, you subsidize the jobs
+in that sector.
+Right. So, I mean, you know, like just with like, you know,
+so it is a per, it's like a per-unit subsidy
+or a per-job subsidy, or maybe a per, maybe an hourly,
+hours of work in that industry subsidy.
+So yeah, it would be like the investment
+of the earned income tax credit, except, you know,
+if you thought the whole economy worked this way,
+then it would be for any job.
+If you believed, as most people who do empirical work,
+that the model's relevant in some industries and not others,
+then it would only be subsidies
+in the special high-value added industries.
+And again, there's a common view
+that manufacturing has this problem and services don't.
+You know, always a little puzzle as to why they think that.
+But I mean, I guess it's because wages are higher
+in manufacturing, but there is, of course, another explanation
+for why wages would be higher in manufacturing.
+The civil model, those jobs are more unpleasant, right?
+You're in a hot, smelly, smoky, just greasy environment.
+So, you know, some people like that, I guess,
+but a lot of people do not.
+So that would be a simple reason.
+Now, just one last point on this.
+If you go and read textbooks, including my undergraduate,
+my intermediate macro textbook that I had in 1990,
+Dornbush and Fisher, when they explain the efficiency
+of the wage model, they actually,
+the words describe that.
+Even though they mean this.
+And I remember I took it to Bill Dickens, and I said, hey, look,
+doesn't the textbook just go and explain it wrong?
+He's like, oh, yeah, I guess it does.
+Right? And so when I took it to him, he's saying, well, so,
+and this is why mathematical economics adds value,
+because if you just use words, then it's easy to go
+and confuse these two, whereas if you go and use math,
+then you never mix these two up.
+And at the time, I was like, maybe, but then afterwards,
+I was like, wait a second, Dornbush
+and Fisher know the math perfectly well,
+but somehow that didn't stop them
+from mis-explaining it in words,
+which is what I call the problem of poor back translation.
+When you go and take words, translate it into math,
+and then translate it back into English, a lot of people
+who are very good at math are terrible at that last step.
+And really, the last step is the one that counts, right?
+I think. Not for publication, but for economic understanding.
+So, all right, so let us now move on to our next topic here.
+Oh, sure.
+Is the compensating differential the height difference
+between the two supply curves?
+So, yeah, the compensating differential is, yes,
+the difference in the equilibrium wages.
+So, the compensating differential is that amount.
+Yes. All right.
+Right? And similarly, the efficiency wage would be the
+difference between the intersections going in
+and the wage that you need in order
+to get people to put in effort.
+So, again, of course, in the real world, this would be,
+again, this would be a continuous variable.
+In the famous models, they make the problem easier
+by assuming that either you apply effort or you don't.
+So, it's a binary decision, and then if it's a binary decision
+and all workers are the same, then there's one exact wage
+that you need to get up to in order
+to get everyone working hard.
+Everyone who's employed working hard.
+All right.
+Yes. Oh, and there's one other solution
+to this problem that could also be done.
+So, remember we were talking
+about contractual punishments earlier on as a solution
+to moral hazard problems?
+Another application.
+Another thing where we're in another case
+where we're not using it.
+So, the idea here is that if you could go and post a bond saying,
+like, if you employ me and you catch me playing Tetris
+on the job, I lose my $5,000 bond,
+that could solve the problem, too,
+and then you could have market clearing.
+So, that's another way of doing it.
+When you think about it a bit more, there are just built
+into the normal job search, something like that,
+because in the real world, it's almost never that easy
+to find another job, even if you can eventually find another one
+just as good, you may be out of work for a week or a month,
+and you're stigmatized, and people frown at you and say,
+why can't you keep a job?
+So, that functions as at least a modest efficiency wage,
+because people are, it's like a modest bond,
+where if you lose your job, then people get mad at you.
+And again, of course, if people are keeping track
+of your employment record, that's another way
+of solving it by just getting rid
+of the asymmetrical information problem.
+And you may have noticed that a common piece
+of advice is once you get a job, you should not quit that job
+for about how long?
+Yeah, yeah, people often say at least a year, right?
+So, and why?
+Because, well, how come you only have that job for a little while?
+Yeah, so, my wife once did a job where it was only a month,
+but the people hired her had known her for years.
+So, then, and the amount, and the raise she got was so large
+that almost no one would turn it down.
+So, it doesn't reveal that much about your character
+if you switch for a raise that almost everyone would go
+and switch for.
+Oh, yeah, and as I was mentioning, it's very common
+for employers to refuse to reveal negative information
+about a past employee because they're worried
+about legal consequences.
+So, if you really were worried about this problem,
+how might you change the law?
+Well, there's the obvious one, stop punishing people
+for saying bad things about workers.
+But you could actually switch it around and go further, right?
+What, you could be punished for?
+Yes, for failing to disclose negative information, right?
+Now, technically, that's actually already illegal,
+but when I was looking into it,
+but that law is pretty much never enforced.
+The odds that you'll get sued
+because you painted a worker as being better
+than they really were, you know, might, you know,
+I suppose you might suddenly be attacked by a crazed vigilante
+who's angry that you're lying about labor markets or something,
+but it's very remote.
+All right, so now, finance and portfolio theory,
+next set of applications.
+All right, so, starting with permanent income anomalies.
+So, who here has diminishing marginal utility of consumption?
+Diminishing marginal utility of consumption?
+All right, good.
+And who has access to intertemporal markets?
+Yes, all right.
+If so, combining these two assumptions,
+tailoring your consumption
+to your current income makes very little sense, right?
+It does not make much sense
+to be basing how much you consume now based
+on how much you're earning right now.
+Instead, the smart thing is to base your consumption upon what
+we call your permanent income, or also known
+as your expected long-run income.
+Your expected long-run income.
+This is actually the main insight
+that won Friedman his Nobel Prize.
+So, if you go and read the citation, it wasn't primarily
+for monetarism, more for his theory
+of the consumption function published in the 50s.
+All right, so now, obviously, there's a lot of truth
+in this permanent income hypothesis.
+So, take a look at what young people do.
+Young people normally pile up a lot of debt,
+and then as they get older, they pay it off.
+And then, normally, they try
+to actually accumulate some assets before they retire.
+And then, when they retire, they try to live on that.
+those assets. So that looks very much like the permanent income hypothesis. So
+when you're young you consume more than you're currently
+earning and then when you're in your peak earning years you consume less than
+you're earning and then once you retire then you consume more than you're
+earning which may be nothing. But behavioral economists have found a
+bunch of anomalies, a bunch of ways in which people don't seem to consume
+according to the permanent income hypothesis. So one of them is consumption
+does seem moderately sensitive current income. So there's been work on medical
+students. Now medical students generally have low income but they also
+predictably have high income. Furthermore they're really good example because
+there's hardly there's not much uncertainty about it because unlike say
+undergraduates, medical students have a nearly perfect completion rate. So like
+they it's really it's like I think it's over 90% on time completion rate for
+medical students. So in general then medical students don't just suspect that
+they're going to be rich sometime in the near future. They have near that they have
+near certainty that they're going to be rich pretty soon. All right so in that
+case it seems like would make sense to go into a whole lot of debt so you could
+live like a doctor when you are in medical school. Right now it is true the
+medical students tend to go into debt but nevertheless also noted that when
+you when people finish medical school their consumption predictably rises and
+by a lot more than you expect from resolving this is small residual
+uncertainty maybe I'll flunk out somehow maybe I'll get one of the horrible
+diseases I studied in the last year and then won't finish. So you know being a
+medical student you often come across a weird disease and then start wondering
+whether you have that weird disease. Generally you don't fortunately. All right
+so and then there's been some more formal statistical analysis which
+confirms this so current income does in fact have a moderate ability to predict
+current consumption. Well once I won a large cash prize and then I had a former
+student say so like what are you gonna spend it on a big trip or like you know
+like how can you insult me like this it's going into my permanent income like
+why wouldn't it and oh that's boring. Well it's boring to consume according to
+Friedman's permanent income hypothesis then just call me Mr. Boring because that's what
+I'm doing. All right so it does seem like people do have a sensitivity of their
+consumption with respect to their current income and then furthermore it
+seems like it also varies with the kind of income so people get a one-time cash
+bonus are more likely to go and blow that on one big purchase right.
+Rarely do people use that to go and smooth their consumption over their
+lifetimes and now I'm gonna have 0.2% higher consumption for the rest of my
+life. Instead more common for people to just say oh what should I do with this
+thousand dollars I just got. That's so cool. All right now the permanent income
+analysis, permanent income hypothesis does have one way of explaining why
+someone would go and make a big purchase and that is durable goods. So if there
+are durable goods then, so a durable good is something where you buy it and
+then you get to enjoy it for a long period of time like you buy a car right
+and then you know then you get to go and drive that car every day and take
+advantage of that. Now that is something where it might make sense when you get a
+large cash amount to go and buy a durable good because again you're
+smoothing utility rather than actual physical possessions right. So just so
+you think about it this way, for any durable good you could easily be renting
+in every period right. So if you're renting it then what you want to do
+according to permanent income analysis is just to go and rent a
+little bit better or a little bit more every period. But if you're going to own
+it outright then how is it that you can in a world where you purchase durable
+goods give yourself a little bit more of a period. You just go and buy the thing
+outright and then you have it and then every day you can drive a little bit. So
+with durable goods you might actually wind up going and making a
+large purchase when you get a lump sum cash payment. Although if you do
+satisfy the permanent income analysis you do just the same thing if you found
+out you're getting an inheritance in ten years. You would do just the same thing
+if you got a 5% unexpected raise. Right. Now is the time to go and do
+what? So you get a 5% raise so perhaps that means you want to
+have 5% more durable goods. But that would mean spending a lot more than
+your one week's pay or one month's pay right to go and get your stock of
+durable goods up by 5%. So what that means is that you go and you find out
+you get an unexpected raise and what do you do? According to permanent income analysis
+you would then go and borrow a lot to go and buy some cool ski jets or jet skis or
+whatever. Different durable goods. So you would have higher income
+and then you would have in that case would actually spend more on the raise.
+Okay. All right. Furthermore there's also good
+bureaucratic evidence that a lot of people are reluctant to tap into their
+pensions and home equity to smooth their current income. This did seem to be
+reduced during the financial boom before 2008. So it did seem like there was a
+period where more people were going and consuming out of home equity. Although
+even there the traditional approach is no no you don't consume out of home
+equity. You don't consume out of pensions. That's not for that purpose. I remember
+when I was during this period my value of my parents home in LA doubled and my
+dad characteristically got angry about it. And he's like prices are totally crazy I
+don't know what's going on. And I'm like well but that's good for you because
+you've just received half a million dollars for nothing so you should be
+happy. It's like it doesn't do me any good. Like well if you wanted something you could go
+and borrow against it. It's like you can't do that. You can only borrow at a home to
+improve your home. Actually you can borrow for anyone. And then finally he said well what
+would I do with it? Well in this case like you could give it to me.
+But really this argument would apply to any large amount of cash that he
+suddenly got. I don't know what to do with it. Anyway so people are generally
+reluctant to tap into pensions and home equity even though that like makes
+perfect sense to go and smooth their consumption. So if turns out that the
+value of home has gone up a lot, then why exactly is it that you want to go and
+keep so much of your assets in that home rather than borrowing
+against it? I say well I want to leave something to my kids. Alright well leave
+them the same amount of equity that you were leaving before. But why is it that
+why is that you're going to leave them a hundred percent of the extra equity? Like
+if you had extra income from some other source you wouldn't give all that to
+your kids would you? Maybe you would but probably not. Yes. So I don't know about
+Australia but my guess is that you know it may be legally easier and more common
+but still I would be surprised if you told people this and a common
+reaction was not no no you don't want to do that. Oh no you don't understand. Then
+you won't have then you won't own the whole house anymore. I think I understood
+that but I'm saying that that's actually a good idea. All right so now another
+example so you guys are familiar with reverse mortgages. So a normal mortgage
+of course is one where you borrow some money in order to buy a house and then
+every month or so you go and you pay back that money and eventually
+you own the house and the bank has its money returned. With a reverse
+mortgage you start at owning a house and then you go and sign a contract where
+the bank gives you money every month generally for as long as you live and
+then when you die the bank owns the house. So that's reverse mortgage. Now
+it's been noted that there are a lot of people who live in very expensive houses
+and eat cat food. At least this was in the 70s when social security payments were lower.
+But real social security payments were lower but anyway it's like look you live in a
+million dollar house why are you eating cat food? Oh but I can't spend that money.
+Yes you can, you borrow against the value of the house and then you buy something better
+than cat food. Well but that's my house. Well this is your cat food.
+If your house were worth a lot less and you got a bag of money you
+wouldn't eat cat food would you? So why do it when your house is worth
+so much money? It doesn't make a lot of sense. Okay so again reverse
+mortgages have become a bit more popular but still they are pretty unpopular. It's
+all true they're very heavily regulated on the assumption that only an idiot
+would do this. Whereas one of the main lessons of behavioral economics is no, no, no.
+Smart people would do this under the right circumstances in particular if you
+are a low-income person living in a really nice house. So if you're low-income
+you live in a nice house then reverse mortgages are great. Which is a nice
+example of how behavioral economics can easily rationalize policies that are
+really the opposite of what the actual evidence says but it just puts people in
+a mindset of saying let's protect people for themselves. Of course I guess to be
+fair I think that regulation to discourage reverse mortgages was
+around long before behavioral economics. So there's more intuitive behavioral
+economics of no, no, no that's dangerous only an idiot would do that. It's like well
+hold on maybe it's actually you're the idiot and the smart people would do this. And you're stopping people from doing the smart thing.
+Yes? So is loss aversion kind of the story behind this I guess? Like I don't like the idea of losing my house maybe?
+Well maybe although it seems so specific to houses. There's something in like
+there's some emotional attachment to this house which you wouldn't have to a
+bag of money. Right? And you have a loss aversion that you would seems like you
+would be just as attached to bags of money as you are to real estate. But
+normal human beings actually do regard them as as distinct. Although you know
+some people will get attached to a bag of money. But more often to a house.
+Now what's going on here? There is again a standard neoclassical explanation for
+why people might actually violate the permanent income hypothesis. And that
+explanation is liquidity constraints. So maybe the reason why medical
+students go and sharply increase their earnings as soon as they become doctors
+or assuming sharply increase their consumption. They obviously
+increase their earnings. But they sharply increase their consumption is just that
+no one will lend them the money. So that's possible. So maybe if a medical student
+went in and said look dudes I'm a doctor. I'm gonna be a doctor. I'm gonna be a
+doctor. Right? So how about you just give me like a million dollars now and I'll
+pay it but I'm totally good for it. So probably there would be a reluctance to
+pay the doctor this. And they say well what collateral do you have? You got my
+future income as a doctor. That's my collateral. But you own it now. Well I'm
+me now and I'm gonna be a doctor. So not good enough. All right so that's the
+problem. Right? And no doubt liquidity constraints do explain something. It is
+true that it's hard to get large cash loans based upon no
+collateral. But this liquidity constraint story only works when people are
+actually liquidity constrained. So you know the main most obvious one is once
+people have a lot of home equity then that story no longer makes much sense.
+Okay. Right? And again it is actually not that hard for people to get out to get a
+lot of home equity. So like once you own your house for five years then normally
+you'll actually have quite a bit of home equity. You can then start getting large
+loans at the prime rate or less. So again if you're stuck with credit card debt
+like no there are way lower rates in your future. This might actually help
+you go with your permanent income planning. But so there are way better
+interest rates awaiting you in the future. So like prime rates or like
+prime rate minus a half. So which yeah could often be like a fifth or less of
+what a credit card rate would be. Although of course credit card rates if
+you shop around and then move your balances around every six months or a
+year you can also have pretty low rates. Is anyone here doing that right now? Yes.
+So yeah we did we did have one there was one graduate student Eric Crampton when
+he was he when he's a graduate student here. He actually ran up a ton of credit
+card debt at zero percent interest and every time he was about to have to pay
+he just got another credit card deal and switched over. So he actually was one of
+the truest apostles of Milton Friedman that I know. All right. Yes. And his
+wife was not an economist but she let him do this. All right.
+Yeah. All right. Made a good choice there. All right. So anyway once you've got
+significant home equity then appealing to liquidity constraints no longer
+makes very much sense because people are clearly not liquidity constrained and
+yet a lot of these anomalies do persist. So if it's not liquidity constraints
+then what else could it be? Well behavioral economists often talk about
+something called debt aversion and the idea is that many people simply dislike
+the state of being in debt. A state of being in debt as defined by our society.
+All right. Now I know multiple people who end up who not knowing any behavioral
+economics have talked about this as a motivator for their behavior. So remember
+my brother went and paid back a lot of zero interest student loans early.
+Why? Because that way I'm not in debt and he's also made a big deal about prepaying
+his mortgage. So he's gonna own his home outright very soon whereas I have
+refinanced repeatedly to keep pushing the repayment date out another 30 years.
+So I mean I actually just wish I wish it could be a console where I never
+actually own the house. I just I want to actually have the maximum amount of
+deductible principal forever for as long as I'm alive. So if I could just have a
+million dollars in principal forever that would be optimal for me. But again
+that is considered weird by most people. Most people want to go and pay it down.
+Now again the standard economist thing is well instead of paying down this low
+interest debt you could go and take that take whatever you were gonna use for the
+yearly payment and buy high interest assets. Why not do that instead? And then
+a common thing is no no I need to get out of debt before I can think about
+that. Well what's the big deal about being in debt? It's just another way of
+describing having some assets you know having negative assets that are good to
+have a very small amount of. Like so it's good to have a negative amount of assets
+that are crummy right? So if you can so if there's some assets that pay a really
+bad return wouldn't you rather be someone who actually owes those assets
+rather than owns those assets? Seems like it. All right so evidence so some of us
+some more evidence besides my brother for a debt aversion. So it is still
+normal that second mortgages are taken out for home improvement not
+just smooth consumption. It has become more common there's probably a
+significant increase in the amount of second mortgages taken out for non
+improvement purchases during the run-up to the Great Recession and then there's
+been some retrenchment. But still you know one of the most common things is
+just for home improvements. There is actually something in the tax code that
+encourages this because technically if you go and have a second mortgage or
+home equity line of credit you're only supposed to deduct the interest for home
+improvements. However there's the good there is no monitoring of this so you
+can always just claim that you're improving your house with whatever
+you're borrowing and there's no checking. So not that you should do that of course
+but but I'm just saying you can totally get away with murder here so if you
+consider a comp a little murder don't do it. But all right other examples so we do
+see people pre-paying very low home mortgage and student loans rather than
+just investing the surplus in the bottom market. Again when someone has a zero
+interest rate loan that's where you really draw the line and say it's crazy
+to be pre-paying that. That makes no sense right there's tons of things that pay
+more than that. Why would you I understand making the minimum payment but
+why would you ever pay anything more than that? All right so you know that
+would seem pretty clearly to violate the permanent income hypothesis. All right now
+observation here a very common theme in behavioral economics is that people are
+excessively impatient but debt aversion says actually the opposite right. Says
+the people I should be less so should people should be more impatient. They
+should be more willing to go and borrow against their assets live life enjoy life
+now and then later on their consumption will be lower but that's optimal. All
+right so I mean think about all the people who only start traveling once
+they retire. How crazy is that? Right it's like you know I'm gonna go traveling
+when my whole body hurts and I so and like I can't enjoy half the things I
+can't I can't go and do this like I can't go and ski anymore I my knees
+hurt I'm tired so it would seem like would make more sense to go and borrow
+from your retirement move the travel to when you're really young and can suck
+the mirror out of life and then if you believe the travel is a durable good
+where you can enjoy the memories forever isn't it better to enjoy the memories
+from years from age 20 onwards rather than from age 70 onwards? Seems like it
+makes sense. So yes Alex Tabarrok once did the thought experiment of if you
+knew that you were gonna live forever what would you do and he said I'd
+travel more. He said if you you were gonna die in a year what you do and he
+said I would travel more and they said there's a contradiction here and so he
+decided to start traveling more. Right now he's like wait how could it be that
+no matter how my life changed I would do more of it? That doesn't make sense or
+how my lifespan changed so must be that I'm just suboptimal so he started
+traveling. Okay all right so anyway if debt aversion is true then people be
+better off if they borrow more to live better today. All right so questions
+about that? Let us proceed. All right so present discounted value diversification and
+risk premia. All right so in a world of certainty theorem the price of every
+asset must equal its present discounted value. So suppose that there's a world of
+certainty there's no question about what's going on and there is an asset
+and the market interest rate is 5% and there's an asset that's going for $90
+now and will be worth $100 a year from now. All right so world of total
+certainty everybody knows that the rate is 5% so what are people going to do
+rather than lend money at 5%? Buy that asset at 90 which then will with
+certainty be worth 100 at the end of the year. Right and that of course is like an
+11% interest rate so in that case the money will move and that will bid up the
+price of that asset until there's an equalization of the prices. All right so
+again as long as it's totally clear everybody knows exactly what's going to
+happen then if we don't have equalization rates then people are just
+leaving money on the sidewalk and that would not make sense. In a world of
+perfect information would there be money on the sidewalk? No. There's money
+right there so let's go get it. Because there might be money on the sidewalk in
+Antarctica or something like that although how did it get there? Right with
+perfect information someone would have dropped it and left it there.
+And then they would know, oh wait, I just brought my money.
+So, yeah.
+Once I was by the Public Choice Center
+and I literally found a $20 bill right outside the door.
+And I was looking around for a hidden camera
+to see will an economist stoop down to pick
+up $20 from the sidewalk.
+And I did.
+And there was no camera.
+It just was, you know.
+How come I never found $20 when I was a kid?
+I guess there was inflation, but still.
+Like when I was a kid, I never found more than a dollar.
+So, yes. And that was when I needed the money.
+And, yes, there were liquidity constraints, although.
+Yes, I also had debt aversion when I was a kid.
+Or, you know, something more extreme.
+I had just poverty aversion.
+I just wanted to have a high visible net worth.
+So, I just would accumulate money and piggy bank.
+And say, once I wanted a checking account,
+put in the checking account.
+I just sat on it, building it up and feeling better
+than other people that I didn't spend money.
+Right? And if someone had said, look, you're being an idiot,
+Brian. You're going to be richer in the future.
+So, now is the time you should be spending.
+You shouldn't have money right now.
+Yes. If I, could I talk myself into it?
+Maybe. Yes.
+If I appeal to my ego.
+So, you know, you really, what I, you know,
+probably my brother always spent whatever money he got.
+Which turns out was actually the more sensible thing.
+Although, not given what he was spending the money on.
+Usually like bad business ideas and things like that.
+But, all right.
+Any case. So, rule of certainty, the price of every asset has
+to equal its present discounted value.
+And if you've got risk neutrality,
+so everyone is risk neutral, then this holds
+under uncertainty as well.
+Because in that case, everything will sell
+for its expected present discounted value.
+So, if you've got uncertainty, but people don't,
+but people value everything at the expected value.
+Right then, of course, if there's something
+with an expected value of $100 a year from now, and it goes
+for $90 right now, then that is an expected interest rate
+of 11%. And if people are risk neutral,
+then they pick whatever has the highest expected return,
+regardless of the variance.
+Right? That's the definition of risk neutrality.
+Right? Sound good?
+All right.
+Now, furthermore, imagine that everyone
+in the world is risk averse except for one person.
+In that case, will things still sell
+for their expected present discounted value?
+Sure, because that one person isn't going
+to have any effect upon world interest rates, are they?
+So, in that case, that one person who is risk averse will
+just sell off all the risky assets
+to the risk neutral people.
+And that one person isn't going to change the world market.
+So, in that case, that one person can have free insurance
+if everyone else is risk neutral.
+So, if you're the only risk averse person in the world,
+you can get insurance for free, essentially.
+But once those risk averse people become a significant part
+of the market, then they may have
+to start paying people premium in order to get them
+to provide the service.
+Okay. So, once there's enough risk averse agents,
+then assets, then factors besides present discounted value
+will start to matter.
+So, in particular, we should expect
+that assets will start trading for the present discounted value
+minus some risk discount.
+All right.
+And you're saying, but wait a second.
+Things trade for the present discounted value minus risk
+discount, but shouldn't you get a higher rate of return
+for the risky asset?
+And the answer is absolutely.
+And that's implied by this, right?
+Because when asset price falls, what by definition happens
+to the interest rate or the rate of return on the asset?
+Rises. Rises.
+So, not only is there no contradiction,
+it would be a contradiction if it didn't work that way.
+So, either, so when you're talking about the price,
+then you should expect something like that.
+And you're talking about the rate,
+then it should be normal,
+the normal rate plus a risk premium.
+So, how could things earn both a risk discount
+and a risk premium?
+Well, there's a risk discount on the price and a risk premium
+on the rate, and the discount
+and the premium are two sides of the same coin.
+Just like low interest rates
+and high bond prices are two sides of the same coin.
+So, never say there's a correlation between the two.
+It's more than a correlation.
+It's an identity.
+Right? So, important to realize.
+Okay. All right.
+Now, this is complicated by the fact
+that there's actually a ton of different risky assets.
+Right? And there's a basic theorem of probability.
+Remember the law of large numbers?
+So, the law of large numbers tells us
+that the average riskiness of a bundle of risks is less
+than the average riskiness
+of an equal dollar amount of the same risk.
+So, if there are 10 assets,
+and they all have the same standard deviation
+on the return, still, if you put 100% of your money into one
+of those 10 assets, you will have a higher amount of risk
+than if you put 10% of your money into the 10 assets.
+Right? And this can be true even if each one
+of them has the same variance, same standard deviation.
+As long as those risks are not perfectly correlated,
+by diversifying your money,
+you can reduce risk for free in a way.
+All right?
+What this means, then, is that it is possible to a degree
+to do what we call diversify away risk.
+So, risk can be diversified away.
+Right? In an amazing world where there were some assets
+where they were perfectly negatively correlated
+with each other, you just put half your money in one asset,
+half your money in the negatively correlated,
+the perfectly negatively correlated asset,
+and you would have an income stream
+that was perfectly certain.
+So, that theoretically is possible.
+That even though all the, both assets are risky,
+the combination doesn't have to be risky at all.
+Strangely.
+All right.
+And what this means is insofar as you can diversify
+that risk away, you shouldn't expect
+that stuff to earn the premium.
+So, that kind of risk,
+risk that you can actually weasel your way out of.
+Risk that you can actually just repack it and say,
+oh, it's risky.
+You know, like, rearrange things.
+You know, sort of like take a transformer, move the wings.
+All right?
+I'm not risky anymore.
+I turned this truck into a samurai.
+All right?
+So, similarly, I turned a bunch of risky assets
+into one perfect solid block of non-risky assets.
+Isn't that amazing?
+Okay. So, then what are you supposed
+to earn this risk premium for?
+And the answer is something special.
+It's undiversifiable risk.
+So, undiversifiable risk is actually the relevant risk
+that causes a discount in prices,
+causes a premium in returns.
+Okay. All right.
+So, what does this mean?
+Well, so, the usual way that people actually think
+about this is first you imagine constructing a market portfolio
+where you have an optimized portfolio of all the assets
+that exist, and you see how low you can get the variance
+on that down.
+And in the real world, it still has a lot of variance.
+So, in the real world, if you go and you try to figure out,
+so what is the lowest variance portfolio I can get
+that has a given rate of return?
+Well, you know, like almost never can you get it
+down to zero unless you accept a really low rate.
+And even that isn't really zero variance, right?
+Even if you put it all into government bonds.
+What are the risks of government bonds?
+Well, there's the blatant risk.
+There's the risk that we're always facing,
+and then there's the long shot risk that, nevertheless,
+has burned a lot of people.
+So, what's the obvious risk of a regular government bond?
+What's that?
+Inflation.
+Inflation, yeah.
+Inflation is the obvious risk.
+And then what is the long shot risk
+that has burned lots of people throughout history?
+Default. Default, yes.
+So, everyone who owns Zara's debt lost everything,
+for example.
+All right.
+So, when there's even been some effort to try
+to explain anomalies in financial markets
+by looking at the small risks of total wipeout,
+which do occasionally occur.
+All right.
+The usual punchline explains a bit, but not nearly everything.
+Okay. So, anyway, so we first go
+and we find this optimized bundle of market assets,
+and then we go and we can look at the correlation
+of individual assets with that market bundle.
+Right? And insofar as assets correlate with the movements
+of a given asset correlates with that market bundle,
+you can say each asset is actually going to go
+and earn some risk premium because you haven't been able
+to diversify away that risk.
+Right? On the other hand,
+if you actually found something that negatively correlated
+with the market, then that asset should actually have a risk.
+It should actually pay a risk, you know, it should actually pay
+more than an asset of certain value
+because you can actually take that asset, combine it
+with the risky stuff, and get rid of that uncertainty.
+So, my favorite example of this is on the first day
+of the really huge stock market crash in 2008.
+I think there were like five days of horrible crashes.
+But on the first day, out of the S&P 500,
+there was only one stock that went up in value.
+What company went up in value the day
+that the other 499 went down?
+Campbell Soup.
+So, maybe it's just coincidence, but, whoa.
+All right.
+So, when the rate position is kicking in, Campbell Soup goes
+up, well, it seems plausible that a lot of people
+who would not normally be eating Campbell Soup are going
+to, planning on, I guess it's going to be a few years
+of eating Campbell Soup now.
+So, anyway, that was the one stock that went up,
+at least that one day.
+I don't know what it did the other day.
+So, that is at least one plausible answer.
+Some people have talked about, like, the resume business
+as maybe being, as having a negative correlation
+with the stock market.
+And I think Keynes had the idea, if only we'd be on some kind
+of like a clay brick standard,
+then every time there's a recession, there'd be a boom
+in the clay brick industry.
+Because, you know, it's like a cost of return
+to scale industry, you just go and make clay bricks and use,
+and you turn them in and get paper certificates as money,
+something like that.
+Okay. So, anyway, if there were something negatively correlated
+with the average market rate,
+then it would actually be more valuable
+than a truly riskless asset.
+All right.
+So, questions about that?
+Questions?
+All right.
+So, now, yeah, we've got time to do this.
+All right.
+So, mean variance efficiency.
+So, a popular simplifying assumption in finance is
+that people only care about two features of their portfolios.
+Let's see.
+Wait. Am I totally out of?
+No. I guess this is what people are using.
+All right.
+There was a half-destroyed eraser last week,
+but it was still almost as good as a regular eraser.
+This is worse than a regular eraser.
+All right.
+Let's see here.
+Okay. So, anyway, popular simplifying assumption is
+that the only things that people care about are the mean
+of their consumption and the variance of their consumption.
+All right.
+And, of course, people want to have what kind
+of mean is better?
+Higher. And what kind of variance is better?
+Lower. All right.
+Yes. So, and that's a simple function that you can use
+in order to define what people's preferences are.
+So, of course, if you think about it, this,
+if you start actually putting numbers on it,
+it could apply to some odd results,
+but anyway, commonly used just for simplicity.
+Right? And this gives rise to the idea
+of mean variance efficiency.
+Which is a lot like any other kind
+of utility optimization problem.
+So, assumes that there's going to be some kind
+of a mean variance frontier.
+Right? So, there is a, you know,
+so for any given variance there's a maximum mean you can
+get. For any given mean there is a minimum variance
+that you can get.
+And people are trying to get
+on to the frontier of those combinations.
+Right? So, this is easiest to think
+about if you actually reverse the scales.
+So, like here we have mean and that means bigger.
+And then here we have variance and that means smaller.
+Yes. Yes.
+Yeah. Yeah.
+It could be one over variance and bigger.
+Right? And then we'll have something like that.
+So, like our usual kind of budget constraint
+where we'll say yes, yes, you could go
+and get a smaller variance, but then you're going to have
+to settle for a lower mean.
+Or you could get a higher variance
+and then have a lower mean.
+We're going to assume you have higher variance, higher mean,
+lower variance, lower mean.
+Okay? All right.
+So, anyway, and that's the mean variance.
+So, as long as you're on that frontier,
+then you've got mean variance efficiency.
+Right? Does that make sense?
+So, use the general idea of being on a production frontier
+or consumption frontier.
+Same idea.
+Okay? Okay.
+Now, if you work through all these assumptions,
+which I'm not going to do.
+I'm just going to tell you the answer.
+So, we work through the assumptions of a model
+where people only care about the mean and variance.
+Then you wind up getting the following equation
+for the expected return on asset.
+And it's a bunch of symbols, which I know most
+of which will be unfamiliar to you.
+But I'll write them down and then explain each part
+of the equation.
+So, we have R A bar equals R naught plus sigma A E
+over sigma E E all of this times R E bar minus R naught.
+All right.
+So, what's the translation?
+So, this is the expected return on asset A. So,
+that's the expected return on asset A. And so,
+R sub A is the expected return on asset A.
+R naught is the risk-free rate,
+which we usually operationalize as thresholds in the States.
+All right?
+And then this is plus, plus the ratio of the covariance
+of A's return to the variance of the average market return.
+So, E is the market basket.
+A is this particular asset.
+So, remember this here is the covariance between A and E
+over the variance between E, variance of E.
+And remember what is covariance of A with E
+over the variance of E?
+Remember there's, you remember covariance
+over variance of that equation?
+Yes, so that's correlation coefficient.
+Yes, correlation coefficient.
+Right? So, that's the correlation coefficient times
+the difference between the average market rate.
+So, this is not the risk-free rate.
+This is the rate that you get
+from holding the market portfolio on average.
+And then that's the risk-free rate.
+So, the difference between,
+from holding the well-diversified market
+on market bundle, which you think of as say the S&P 500
+or something like that.
+And then that would be the treasury bill rate.
+Okay. And again, so this is actually,
+you know, the coefficient you would get if you regressed,
+if you were to go and regress asset A's return
+onto the average market return.
+And remember, and this is also called the beta.
+If you ever wondered why is it called the beta,
+remember how we called regressions coefficients beta,
+regression coefficients betas?
+Remember that?
+And then people talk about the beta of an asset.
+Well, it's not a coincidence.
+Right? Basically, imagine, you know,
+you're essentially regressing the price of the one asset
+on the overall price of the market.
+And then you get this correlation.
+And then once you do that,
+you're going to just say it's regressing the return.
+So, regress the return of say, I don't know,
+Dell on the overall market.
+And that will give you the beta of Dell,
+which is just the regression coefficient
+for regressing Dell onto market return.
+Okay. Yes?
+This is the capital asset pricing.
+Yeah, exactly.
+This is also called CAPM.
+Yes, capital asset pricing model.
+So, you know, it's the basic one.
+There's many variations.
+But this is where people usually start.
+All right.
+So, why don't we go and take our 10-minute break now.
+And if you're still missing, let's see.
+So, if you're missing the week 12 notes,
+you can come and get them.
+If you're missing homework 8 answer key,
+you can come and get that.
+If you're missing homework 9 due next week, you can get that.
+And let's see.
+I still have homework for Olivia and Brittany.
+Oh, and then there's.
+All right.
+So, when you look at an equation like this,
+it's easy to just think of it as a bunch of symbols,
+which don't really, which mean something in a model,
+but don't really say anything very much about human behavior
+or anything interesting like that.
+But actually, there are some big behavioral implications
+of this equation.
+So, here's one thing.
+So, this tells us that the rate
+of return on an asset has to be, say, 7%.
+Now, suppose that there's some bad news for an asset.
+Right? Well, at first glance, you say, well, in that case,
+it's going to earn less than 7%.
+But if it was earning less than 7%,
+the equation would be wrong.
+Right? So, something has to happen to keep
+that asset earning 7% despite bad news.
+And what could keep an asset earning the same rate
+of return even though bad news is coming in?
+How can an asset keep earning the same rate
+of return despite bad news?
+The news is already known?
+Yes. No, no, no.
+It's really new news.
+It's new news.
+It's new news.
+It's genuine news.
+Total surprise.
+But how can the equation continue to be satisfied?
+Well, let's see.
+We were talking about cases like this.
+So, suppose that before we have a bond that sells for 90,
+it's going to, you know, but it matures to 100.
+But then you find out, oh, my God,
+this is no longer a sure thing.
+Right? This is no longer a sure thing.
+So, actually, what's going to happen is that there is,
+there's now a new default risk
+that we hadn't thought about before.
+All right?
+And the answer, so, is what's going to happen in order
+to maintain this, or so, I'm thinking about this.
+So, I guess that's a case where, let's see.
+So, it's one where, let's see.
+Actually, so, it's no longer literally a premium.
+It's actually, you now know for sure
+that there is this problem.
+All right?
+So, anyway, so, there's an asset where before, you say, well,
+this seems like a pretty good rate of return, 11%.
+Then you find out, oh, my God, actually, it's no longer 11%
+because there's this chance of default.
+So, how can you go and restore the world
+where on average this return, this asset, pays 11%?
+Excellent. You decrease the present price.
+Yeah, the price has to fall.
+So, the price falls, that can compensate you
+for that risk of default.
+So, when bad news comes in, what happens is the price
+of assets has to go down.
+Right? Of course, it's even more clear
+when there isn't any face value of the asset,
+which would normally be the case for, say, a stock.
+Right? So, for a stock, it doesn't have a face value.
+So, when you find out that it's, that dividends are going
+to be less than you thought,
+then the way to maintain this equation is
+for the price to fall.
+Right? So, if, for example, the present value
+of dividends falls by 80%, what has to happen
+with the stock price to maintain the same rate of return?
+Is it 50%?
+Yeah, it's at 50.
+So, if expected dividends fall 50%,
+what has to happen to the stock price?
+It's got to be falling by 50%.
+Yeah, the stock price falls 80%,
+and then we have reestablished the ratio.
+Because remember, what is the return?
+It's the ratio of the payoffs to the cost of getting
+in on the investments.
+Now, of course, some people lose.
+You know, who are the losers?
+Who loses when the bad news comes in?
+The early buyers.
+Yeah, the people currently hold it.
+So, they don't get to say, wait, the equation protects me.
+No, the equation robs you.
+The equation goes and says, in order for this equation
+to keep holding, you, you...
+The person holding the bag, the person holding the now worse asset gets a big hit so that
+anyone who, so that if you want to go sell it, no one, you are not going and able, you
+are not able to escape from this bad news by just going and selling it to someone else.
+Instead they'll say, well, yeah, sure, I'll buy it from you for half of what it used to
+be going for because now it only gives half.
+And you say, no, no, no, but I want to go and sell for what I used to get for it.
+And then have you suffer.
+That's my ideal, and well, you're going to have trouble finding a person who wants to
+accept that offer.
+But instead people will want to have an offer like this one.
+Now once you start thinking about it more, what's interesting is that you can ask, well,
+what does it mean for news to arrive?
+When does bad news happen?
+So you might say that news of rain happens when it starts raining.
+Say, no, no, no, we know about the rain before it actually starts raining.
+Say, when is the news of rain?
+When will the storm clouds come?
+Say, well, we know rain's going to come before the storm clouds come.
+So when is it?
+Well, then maybe when the first weather forecast, the long-term weather forecast starts saying
+anything different from the long-run average.
+Say that's when the news comes in.
+And then similarly, think about, say, young people, young people are smoking at lower
+rates.
+When does that news come in?
+Say, well, really it's been around for a long time actually.
+And then the only question is, will it continue going in the same pattern as we've been expecting?
+Or will it hit a floor?
+Or what?
+And really the news is just the difference between what we're expecting at any point
+in time and what actually occurs.
+All right.
+So, like if you find out that a firm is going to have to pay a million dollars ten years
+from now, it makes perfect sense for the price to fall right now.
+So you say, look, we don't have any problem for ten years.
+Why can't you just wait ten years for the price to fall?
+Or maybe, anyway, wait like ten point, wait nine point nine years.
+Well, if you wait nine point nine years to sell, someone else is going to have sold at
+nine point eight years or nine point seven years or so on.
+So anyone who sits around waiting for the thing to happen when the thing is foreseeable
+is going to actually wind up being the one that suffers.
+And of course the same applies to probabilistic news.
+So if you learn that something is more likely than you previously thought, it's more likely
+that a nuclear war will occur because Donald Trump is president.
+You say, it's only a small chance, but it's a bigger chance than before.
+Right?
+If you think it goes from a half percent to one percent because you have a hot-tempered
+guy with no prior experience in office.
+All right.
+So that's a reason for, a reason to make a small adjustment.
+Well, again, a small chance of a really big thing.
+So maybe a moderate adjustment actually.
+You might want to work in that case.
+All right.
+So anyway, something revealed that is more likely than previously thought, then asset
+prices should adjust to that as well.
+All right.
+So another way of thinking about it is that the occurrence of any expected pattern is
+not news.
+Contrary to almost all newspapers.
+All right.
+Which in general, most headlines are totally predictable and boring.
+It's like, there's still no Israeli-Palestinian peace deal.
+Oh my God.
+The same thing has been going on for 70 years.
+It's continuing to go on.
+I really need to buy and read about this non-event here.
+All right.
+So instead of like the real news would be like there is progress.
+Oh my God.
+All right.
+Now that would be something.
+Is it?
+And then you say, is it really progress or is it just the newspaper trying to sell papers
+by making it look like something new has occurred?
+You know, is it just click bait where it's like, well, you will be surprised at this.
+And then you ever click, oh, I wasn't surprised at all.
+Seven tips you'll never think of.
+They're all obvious to everyone.
+So that's the idea.
+Now my dad, once again, to give an example of someone who seems to violate this.
+He has a theory that there's just something called a good company.
+There's a fundamentally good company.
+And these companies you just can't go wrong with.
+And there's other companies that are just fundamentally bad companies.
+And these ones, they never work out.
+And so a key part of his investment theory is you just sell the fundamentally bad companies
+and buy the fundamentally good companies.
+And again, if he actually had a way of knowing, that would be amazing.
+But it doesn't seem that he actually has any way of knowing.
+Yes.
+All right.
+Now a surprising implication of all this, and one that really did shock people when
+it first became known, is that asset price changes should be totally unpredictable.
+Asset price changes should be totally unpredictable.
+Because if you were able to predict that prices would be rising, what would you want to do
+right away?
+Buy.
+And if you could predict that prices would be falling, what do you want to do?
+Sell.
+Right?
+So it makes sense then for there to be a predictable price change.
+And therefore, the only two things that make sense are total stability and random change.
+And of course, in the real world, we don't have total stability because weird stuff's
+happening all the time.
+So what we actually expect is for there to be random price changes.
+Random price changes.
+So asset price changes should be completely unpredictable.
+And therefore, prices should follow a random walk, such as the expected price at time t
+plus one is equal to the expected, is equal to the price at time t.
+Not expected because we know what it is.
+At time t.
+So the expected price at time t plus one is just going to be equal to whatever it is right
+now.
+Of course, any time you break that, people can always make fun of you because you're
+almost always wrong.
+Right?
+The price is almost never exactly, tomorrow, what it was today.
+And you're always predicting that.
+But again, of course, the right reply is, I said that's a prediction.
+Sometimes it's going to be too high, sometimes it's going to be too low.
+But the right way to test what I'm saying is to get a large number of assets together
+and see if, on average, they're the same.
+Of course, you can go and have a random walk with a trend because stock prices generally
+go up over time.
+So you could add on a small daily time trend.
+Like every day, they get 1 365th of a year's worth of interest.
+So you can put that in, things like that.
+And so the hypothesis that prices follow a random walk like this is called the efficient
+markets hypothesis or EMH.
+People sometimes just do random walk hypothesis, but this one is the main thing people talk
+about.
+It's the main abbreviation people use.
+Same thing.
+So efficient markets hypothesis, random walk hypothesis.
+All right.
+Now, the emission markets hypothesis has been very thoroughly denounced over the last 10
+years especially.
+But there are two kinds of people who denounce it.
+There's people who denounce it because they claim that there's nothing to it and it's
+all just some professors making up nonsense.
+And then there's other people who are denouncing it because it's not perfect.
+All right.
+So people know the data do the second thing.
+So when you hear someone like Richard Thaler or Robert Shiller going and talking about
+dogmatic believers in the efficient markets hypothesis, if you go and actually read their
+works or cross examine them, and they give an enormous amount of ground to the image,
+they're complaining about relatively minor deviations.
+And of course, I think they might say, well, they're not minor.
+If you were to just go and put, say, Thaler on a continuum from pure believer in the efficient
+markets hypothesis to your typical stock charlatan who claims that he's got an equation that
+predicts everything that's going to happen and then ask, where's Thaler fit on this continuum?
+Right?
+So it's probably over there.
+Saying, you horrible people there.
+You deluded fools.
+What about those guys?
+Well, those guys are such scum, Thaler wouldn't stoop to talk to them.
+And rightly so.
+But although you may say, well, if you're going to go and talk to fools, you might want
+to point out that there's the fools and there's the really big fools.
+There's the people who sit around saying, buy Tungsten and then they're going to go
+and buy the big stuff.
+And you might say, well, I'm not going to buy Tungsten.
+I'm not going to buy Tungsten.
+I'm going to buy the big stuff.
+But you're going to have to go and buy Tungsten.
+And you might say, well, if you're going to go and talk to fools, you might want to point
+out that there's the fools and there's the really big fools.
+Now, there's the people who sit around saying, buy Tungsten and this will solve everything.
+Tungsten never goes down.
+So those people are really crazy.
+Anyway, so even strong critics like Thaler or Schiller will happily admit if you read
+them that it performs well in many respects.
+Right?
+So, for example, it is very common that there will be good news for a company.
+They'll announce high profits and then the price crashes.
+And what's the efficient markets hypothesis explanation for that?
+Good news, price crashes.
+How could that be?
+Yeah, and the good news is, hey, we have an 11% profit.
+This is fantastic.
+If they were predicting a higher.
+Yes, if the market thought it would be 13 and it's only 11, it makes sense for the market
+price to go down.
+Even though the news is good because there's the news in the normal sense of what appears
+in the newspaper, what is officially announced versus the real news.
+What is the gap between what people thought before the information came and what actually
+happened?
+So in that sense, good news can be bad news.
+News that isn't as good as expected is bad in the ice of the market.
+And similarly, it is very common that firms announce losses and problems and their stock
+goes up.
+And again, this is the flip side.
+How could that possibly be?
+This is the kind of thing that my dad will say, these markets are crazy.
+They're losing money and the price goes up.
+Well, there is a theory about this.
+And the theory says that if the bad news isn't as bad as expected, then initially there was
+a really bad event factored into the stock price and now, oh wait, it's only a moderately
+bad event.
+And if you go from factoring in a really bad event to a moderately bad event, price rises.
+Very simple.
+Okay.
+Alright.
+So, that's one.
+And again, if you really say it, like read Thaler or Schiller, they're happy to go and
+concede all of this.
+Even though I would say this is not obvious.
+Right?
+Again, so like my dad has done fine investing.
+He's done well.
+He's a smart guy.
+But he's still baffled by this.
+And he's especially baffled by this.
+So this is the one where he's like, how could that be?
+That's crazy.
+Like you just look at Darts and it does well, it doesn't make any sense.
+And every time I say it, it actually makes a lot of sense.
+And this is one of the few things I'm able to teach him, but I can only teach him temporarily.
+Because he will like yell at the time, oh yeah.
+And normally I don't get the oh yeah.
+Normally I get the glare of trader of America or something like that.
+Foreign oil.
+Alright, my son.
+Right, maybe this is what happened.
+I'm like the best knife in my bag.
+But anyway.
+For this, there'll be sort of like a look of recognition.
+Alright.
+But then two months later it's back to how could that be.
+So he's in his 70s.
+So maybe if I got to him younger, then it would have sunk in.
+But now it does not sink in.
+Alright.
+Okay, furthermore, EMH passes a number of surprising empirical tests.
+At least some of these I've done myself.
+So I was just curious to describe them.
+So here is one that actually works.
+You cannot predict annual returns of the S&P 500 using pass rates of return.
+You just go and do a regression of the rate this year on rates in previous years and try
+to find something you don't.
+And you say, but how can that be when there are these strings of good years and strings
+of bad years?
+Well, that's perfectly fine as long as what?
+What happens at the end of a string of good years or a string of bad years?
+There's a turn.
+Yes, there's a turn.
+And if you go and do the regression, then if you've got a few good years and then a
+terrible year, and when the terrible year comes, it's self-random, then you'll have
+strings of good years, and less is a bad year, and the bad year comes anywhere between zero
+and ten years, late into it.
+You go and do that regression, and you actually get a zero coefficient on the past returns.
+So that does actually work.
+So I've seen that.
+Now this is despite the fact that there is a giant industry of people who sell their
+advising services to customers, telling them whether this is a good year to invest.
+And people pay for that and get the data.
+There's no sign that there is any such thing as a good year to invest.
+Right now, the great practical success of the image can be seen in the rise of index
+funds.
+And this is actually one of the biggest practical ideas that economists can deservedly claim
+almost all the credit for.
+So the idea of an index fund is that rather than going and hiring geniuses to try to pick
+the best stocks, you just buy and hold a fixed bundle of assets.
+And what's the advantage?
+The advantage is supposed to just be that you save on the cost of the advisors.
+Because if that's true, then how much do the advisors actually help you?
+How much do they help you for your gross return?
+None.
+And if they cost money, then what do they do to your net return?
+They reduce it.
+Right?
+So anyway, this idea first arose in the official markets I was advising in the early 60s.
+It only takes a few years before some economists get convinced enough of us to say, let's go
+and launch some investment funds where we do exactly that.
+Where all we do is we go and buy the S&P 500 and we hold it.
+And let everyone laugh at us.
+Everyone's laughing at the professors who don't think they can do any better than dart
+throwing monkeys, which is one common way of explaining what the EMA says, is that you
+can go and either try to hire the best talent in the world to pick stocks, or you can go
+and have monkeys throw darts at the Wall Street Journal and you'll get the same gross return.
+And then for the net return, of course, the monkeys were cheaper.
+So I mean, unless they're exotic, they're killing each other with the darts.
+You get the idea.
+All right.
+So anyway, so index funds come along and they, at first, of course, they start off as a small
+part of an enormous market of hundreds of billions of dollars, even then.
+But their market share has been growing and growing and growing over time, despite the
+fact that most people that I know who had their money in index funds are completely
+baffled by how it could work.
+All they say is, I don't know how it works, but it does.
+It keeps beating the market.
+Keeps beating managed funds, beats the market.
+How could it be?
+I mean, this is where my dad starts freaking out.
+How could it be that just randomly doing something does better than trying to do something well?
+All right.
+And that's all.
+Remember what we were talking about?
+Something like this.
+And so if that's true, then really you're just wasting your money on the advice.
+All right.
+But, you know, at least it's not the same level of hostility that I get for a comparative
+advantage or something.
+All right.
+My son, the traitor.
+He did the Japanese thing.
+He did the Japanese thing.
+The traitor, he did the Japanese agent.
+Agent of all countries of Asia.
+The greater East Asia co-prosperity sphere.
+All right.
+But anyway, so index funds have done, their market share has risen and risen.
+And it was already by the 90s doing pretty well.
+But now I think it's getting close to 50% of the markets.
+Now on one hand you can say, wow, it's taken like 50 years to get to 50% when it's, at
+least it's doing, at least the net return is better.
+Now there's actually been some weird just good luck for index funds where it seems like
+even the gross return generally appears to beat the market for whenever I've looked.
+So it's not a huge change.
+But it seems to actually just be doing better, you know, better even than the gross, which
+is even more than expected, of course.
+You expect that it would do, be at the median for gross and then above the median for net.
+But at least what I've seen index funds normally or do maybe at the 60th or 70th percentile
+for all funds in gross.
+And then for net they're doing even better.
+Anyway.
+All right.
+So that is the amazing practical result of economics.
+And my teacher, Burton Malkiel, was one of the key people involved early on.
+So John Bogle I think was not, at least he was not a professor, but he was very closely
+tied to some professors like Burton Malkiel.
+And let's see.
+So Burton Malkiel.
+So I'm not sure, but I believe that he was in at the ground floor and must have been
+worth an insane amount of money.
+Because so.2% of a massive amount of the market every year really adds up.
+You'd be surprised.
+Yes.
+Yes, doesn't the effectiveness of the index fund rely on the market trying to beat the
+market?
+Great question.
+So actually when you think about it, in, so remember search theory.
+So in equilibrium, what should we finally expect to happen once index funds have reached
+their optimal level, optimal use?
+So think about search theory.
+So what ought to be equalized in equilibrium?
+Cost of benefits.
+Yes, the cost of benefits.
+So in equilibrium, the net return of managed funds and index funds should be equalized.
+So essentially index funds should either keep growing or maybe should have already reached
+the point where so few people are actually paying attention to what's going on in the
+real world that the minority of people that do can actually earn their keep.
+What's strange is that after 50 years, index funds keep rising, but we don't seem to have
+hit equilibrium yet.
+Again, possibly you can think of this as a behavioral anomaly that it's so hard to believe
+that not trying can do better than trying that people keep doubting it despite the fact
+that it keeps working.
+So maybe that's what's going on.
+All right.
+So anyway, so looking at net returns, it's actually anomalous how well income index funds
+are doing.
+So the success of index funds is a strong confirmation of the power of the efficient
+markets hypothesis, but the fact that they haven't equalized under 50 years suggests
+some kind of behavioral anomaly still going on.
+By the way, if you can get an index fund through an institutional employer, you can get those
+rates down to insanely low levels.
+I think if you get an index fund through, so if you get the normal index fund through
+your George Mason retirement, then I think it's actually down to like 0.02% management
+fee.
+So I mean, I remember when the fee was like, so like the fee on T-Graph was 0.2% and I
+was like, oh, it doesn't get lower than that.
+And then someone said, oh my God, you realize that?
+You're getting ripped off.
+S&P, if you do Vanguard, then it's 0.02.
+I'm like, 0.02?
+That's crazy.
+I looked into it.
+And yes, now Mason, they let you do some of your funds with a good fund, but other ones
+you can't do with a good fund.
+It's a mystery why we can't only do the good one.
+But I don't know what's going on.
+But anyway, if you're interested in this, I'll be happy to talk to you.
+I'm going to go ahead and close out the session.
+I'm going to go ahead and close out the session.
+I'd love to hear what you have to say about what's going on survey.
+Oh, anyway, If you're paying 0.2% on index fund, don't think that's the best you can
+do.
+You may be able to do even better than that.
+And remember that 0.18% interest compounded over 40 or 50 years of work.
+That actually adds up to a significant sum in the end.
+So, questions about this?
+Everyone happy?
+Yes?
+So, but with the index fund, you're still investing in the S&P 500?
+Well, it could be any, there's many different indexes that you can invest in, but yeah.
+But still, someone picked the index, right?
+So, the index is picked, but it's not based upon expended performance,
+it's based upon market capitalization, something like that.
+Okay.
+Yeah.
+But I mean, that was my only question.
+Right, right.
+Yeah.
+Now, since we get to saying, you know, while we're on this topic,
+so once you're doing index funds and you're saying, well,
+we're doing this in order to get this diversification,
+they're like one of the other big lessons that,
+practical lessons that's come out of financial economics is
+that there's something called home bias.
+Where human beings in pretty much every country
+around the world tend to invest a strangely large amount
+in their home country.
+There are a few countries that don't?
+No, no, no.
+That's crazy.
+Yeah. Yes.
+So even if you're like in Belgium or something,
+there's like you might have like 30%
+of your assets in Belgian assets.
+It's not that much.
+Like, you know how small a part of the world Belgium is?
+You have 30% of your assets in Belgium?
+How many people who aren't Belgian have 30%
+of their assets in Belgian assets?
+Like, almost no one would do it.
+So, this is a very real problem.
+And even in the United States, most estimates say
+that you should never have even 50% or more of your assets
+in US, of your wealth in US assets.
+So, when we talk about diversifying away risk,
+there's a lot of risk that people could be diversifying
+away that they don't bother diversifying away.
+Right? And, again, of course, back in earlier times
+when it was just hard to go and invest internationally,
+there might have been some excuse.
+But now it's so easy to do this.
+And there are index funds for many different countries,
+for many different regions of the world.
+Right? And then when you think a little bit more
+about how most people own a home in the country
+where they reside, right?
+Normally the home that you own is in the country where you live.
+You, like, the percentage of your assets
+that you actually have in your home country is probably,
+is way higher than you think.
+Because, you know, even if you put half
+of your liquid financial assets outside of your country,
+if your home is half your wealth, then you still have,
+like, three quarters of your wealth in your home country.
+Which, again, is pretty crazy.
+Right? And, again, it's so easy for people to go and try
+to move their assets in other places.
+So this is something where, again,
+I will not claim any independent wisdom on this.
+But when I read it, like, my God, this is totally right.
+And, see, my wife was a little nervous about it.
+But then I said, well, here's what we'll do.
+We'll make a phantom portfolio that I'm advocating,
+which we'll just put down and pretend we own it.
+We don't really own it.
+But we'll just put it down so you can see what happens.
+And then after a year, okay, this doesn't seem too crazy.
+So now I've got maybe down to, like, 25% U.S. assets.
+Maybe even less.
+So that's only financial markets.
+So we still own a house here.
+So maybe I should go even lower.
+Right? Now, you know, and then when you're thinking
+about this more, like, when you owe, like,
+any time that you owe an asset that are in another country,
+that any time your own country's currency crashes,
+that's actually awesome for you.
+Right? So suppose that the dollar were to fall to 1%
+of its current value compared to the pound.
+This would mean that the value of my British assets in terms
+of what I can buy here in the U.S. would multiply.
+What did I say?
+Fell 99% would be worth 100 times as much.
+So that would be pretty cool.
+So, and normally I'm rooting for the dollar to crash
+because I own all these foreign assets,
+but I consume almost everything in the U.S. So,
+at least we're thinking about it.
+All right.
+So questions, questions.
+All right.
+So, all right.
+Moving on to calendar effects.
+So even though the efficient markets hypothesis surpasses
+some pretty nice empirical tests, and it's just impressive,
+just realizing like you cannot predict the annual movements
+in stock indices just using past movements,
+which I think is a very popular view.
+If there is a view, well, like good years go together,
+bad years go together.
+Yeah, they do, except when they don't.
+Except when you have a good year,
+then you have a terrible year, which wipes out the correlation.
+And then it's like, well, but as long
+as you know what the turning point is, yeah,
+well if you could know that.
+I think once the economists actually did a thought
+experiment and just said, imagine a person every year just
+knew which country would have the largest increase
+in stock value that year.
+How rich would a person be if every year they could just move
+their assets to the country that would go up the most?
+Yes. And the answer is that person would own more
+than the world if they could have done this.
+And that's not nearly as hard
+as picking the best stock every year or anything.
+This is just picking the right country.
+Even that, if you could really do it, you would be richer
+than any human being is by far.
+So something's like, how hard can it be
+to know which country's going to be best on earth?
+Super hard.
+So hard, no human being has done it ever.
+It's that hard.
+No human being's come remotely close.
+I guess if someone every now and then, they just pick a country
+where they lose all their money, then that would work,
+because then you'd have a zero multiplied in there,
+and then it would fit with the fact that you own nothing.
+But yes. All right.
+So anyway, there's a bunch of, but there are a bunch
+of anomalies for the MH, and some of the ones
+that have gotten the most attention are called
+calendar effects.
+So calendar effects.
+Excuse me.
+Effects. And the best note
+of all these is the legendary January effect.
+The January effect.
+So, Thaler Reports, book published, I think,
+like around 99 or so.
+I don't remember when it was, when it was first published.
+So thereabouts, I think.
+So back then, he predicted, he said that, you know,
+average New York Stock Exchange monthly returns from February
+to December are.5% per month.
+Average January return is 3.5%.
+So there's one month that has seven times the normal rate
+of return.
+All right.
+And if you look at it further, it seems like it primarily comes
+from these really high returns for small firms in January.
+So you just buy, invest in the small firms in January,
+and you get over half your annual return right then.
+I think, let's see.
+Or no, no, no.
+Let's see.
+Would it be over half?
+No, it wouldn't be quite that good.
+Let's see.
+Eleven. So, you know, you got like two-thirds
+of your annual return.
+Or like one-third of your annual return, but still pretty good.
+All right.
+And then you might think this is just a U.S. specific thing.
+So, of course, this inspired a lot of research.
+And 15 out of 16 countries studied had a January effect
+by the late 90s.
+All right.
+Now, since then, many people have, you know,
+people working in this area have generally said the January
+effect has either gone away or is going away.
+So I haven't kept up to date
+on what the very latest word on it is.
+But a common saying is the January effect is now happening
+in December.
+Right? And that's the idea.
+Well, if everybody knows that it's going to go up in January,
+then it won't go up in January.
+It'll go up in December.
+But I think actually there's just been a general annual,
+general smoothing over calendar months.
+But I haven't followed that closely.
+So I'm not sure what the current story is.
+But even if it goes away totally,
+the fact that it was big for many decades and 15
+out of 16 countries studied is not the kind of thing you can
+just say, ah, it doesn't mean anything.
+It's a split.
+So that's one case.
+Another one that is not nearly as impressive
+but still well-documented is something called the
+weekend effect.
+So when you go and leave your money in a bank account
+with continuous compounding over the weekend,
+how much interest do you get between Friday and Monday?
+So continuous compounding.
+So between Friday morning and Monday morning,
+how many days have passed?
+Three days.
+So with continuous compounding,
+how many days interest do you get?
+Three. All right.
+So pretty obvious.
+All right.
+Now it would seem like stock markets would also have
+continuous compounding, right?
+So people are always able to go and buy and sell.
+So anyway, people could go and dump their portfolio on Friday,
+buy something with continuous compounding,
+and then sell the continuously compounded thing on Monday
+morning and then buy back their portfolio
+if they weren't getting the continuously compounded return
+on the stocks.
+So it seems like the average Friday
+and Monday return should be three times the normal return.
+Right? But actually,
+Monday returns don't seem to be especially good.
+So that's another thing that's been found.
+Now, Thaler, who again is, if you go and read him carefully,
+he's always more reasonable than the summary.
+All right.
+So, all right.
+And possibly more reasonable than his own summary when he's
+on TV or something like that.
+So, you know, I have been on TV, so yes,
+you do have to simplify, but still.
+If you do read him, he says something that is much richer
+than the view that is normally attributed to him.
+So one thing he admits is, look, sure,
+these anomalies are pretty hard to take advantage
+of due to transactions costs.
+But what he says is, you know, at least you should expect people
+to adjust the timing of the transactions.
+In order to take advantage of the pattern.
+So if you know that you're going to buy stocks once a year,
+there's a January effect, when should you buy the stocks?
+By the end of December.
+Right? And then either way,
+you're paying the transactions costs.
+But then in one case, you're going
+and getting your best deal.
+Whereas if you just do it randomly,
+maybe the dice will come out February.
+And then you're getting a way lower return.
+And you pay the same transactions costs.
+All right.
+And yes, so similarly, so there would be a problem
+in the real world in selling all your stocks on Friday morning
+and then buying them back on Monday morning.
+Or Friday evening and then buying them back Monday morning.
+Which is almost every place would go and charge a fee,
+which would wipe out the benefits.
+You see, like, if you really know what you're doing,
+you might be able to have a, one of the brokerages
+where they just charge a flat amount per sale order
+or purchase order.
+And then if you, and then if you don't diversify as much,
+you might go, you might be able
+to get the transactions costs down.
+If you have an index fund,
+normally they actually will not allow you to do stuff like that.
+So normally for index funds, there's a rule saying
+that you're not allowed to buy or sell more often
+than every few months.
+And actually, when you call Redeem,
+the last few times I called, they said, why are you selling?
+And if you say, to market time, then they'll say, oh,
+I'm sorry, sir, you're not allowed to do that.
+So, or something I want to say, like,
+if there's an extra fee if you do that,
+we're saying just I need the money, then there's no fee.
+So it's a little bit funny as to how they enforce that.
+The fact they ask is just maybe sometimes people do
+to support it out, and then they can scold them at least.
+All right.
+Yes, and like another calendar effect, well, which, again,
+it's hard to believe, but I didn't, I met one
+of the primary researchers, and she really knew her stuff.
+So I will tell you what she told me.
+So there's a researcher who, like, has,
+there's a paper called, this is your portfolio on winter.
+And it's all about the calendar effect
+from seasonal affective disorder.
+Right, and the, so seasonal affective disorder,
+so there's something like 10 to 15%
+of people feel more depressed during winter.
+And the standard view is that it's just
+because they're getting less sunlight.
+So people get happier when there's sunlight,
+and most people don't really care particularly,
+but there is a segment of the population, like 10 to 15%,
+that gets really bummed
+out when they don't have enough sunlight.
+So anyway, what these researchers did is they actually
+went and tracked down, based upon your latitude,
+how much sunlight you're getting
+in all the different stock exchanges.
+And then they looked at what's going on for,
+either in the stock exchanges or in country, or in the firms
+that are based in the countries of the stock exchanges.
+And note, not only are you able to get variation
+from latitude, but remember how there's two hemispheres?
+So, and when the Arctic has full sunlight,
+what does the Antarctic have?
+Full night.
+So what this means is actually there's a reliable pattern
+of sunlight, and they claim that when you go
+and test global financial markets, a particular,
+like based upon each country or each stock exchange,
+for seasonal affective disorder based upon their latitude
+and the time of year,
+they claim that they actually get a very predictable pattern
+of returns get depressed during times of low sunlight.
+Or actually, I believe it's prices get depressed,
+which means the returns are high.
+Yes, that's the actual results.
+So people get depressed, they sell, oh man,
+the world's terrible, there's so little sunlight.
+And then there's enough people feel this way
+that the sales depress prices.
+And then if you don't sell your stuff during that time,
+you can make an extra return.
+And in principle, this does mean
+that if you could just oscillate between,
+like the Buenos Aires Stock Exchange
+or the Stockholm Stock Exchange, so you're always going
+and selling when there is, you want to sell
+when there's a lot of sunlight, I believe, and buy
+when there's very little sunlight,
+then you could make some extra return.
+So I mean, I'm sure I was asking, but like,
+that sounds really easy.
+Wouldn't everybody do it?
+I don't remember her answer to that.
+But this was a piece in the AR, so I'm sure,
+and it was controversial, so I'm sure the referees put it
+through a bunch of stress tests.
+Very good.
+All right.
+So, well, there are a few authors.
+So, but there's, but the piece, this is your brain on winter,
+or this is your portfolio?
+I remember it's investigating the relationship
+between the weather and the stock return in NYSE.
+So weather conditions.
+So weather, so but the weather or sunlight?
+So this one is about sunlight.
+Oh, he said about weather, maybe the sunny days,
+the stock return is high.
+Okay, so in, so they don't have, like in this paper,
+they don't have a lot of information.
+They specifically didn't actually look at local weather.
+They looked at the amount of sunlight that is coming
+to you from the earth, you know, like coming to you from the sun.
+So I mean, I'm saying, like, well, what about if there's,
+like, really thick thunderstorms or whatever?
+And, you know, they don't count that.
+So they base their measure purely upon your latitude
+and time of year and, of course, which hemisphere you're in.
+So anyway, there's another one.
+All right.
+So questions about calendar effects?
+I guess.
+There might be one more.
+I heard about it a little while ago, and I was just looking it
+up to see what sort of recent research might be on it.
+But there might be a congressional impact.
+Okay. And that market tends to outperform when Congress is
+out of session, recess, versus days when it is in session.
+And this goes back how long?
+Apparently, there was a study done in 97 that looked
+at stock prices from 1897 until then.
+And there you get some variation because Congress used
+to be in session a lot less
+from when there was no air conditioning.
+So, you know, so perhaps, you know, the theory,
+the hypothesis is that, you know, there's less uncertainty
+because they're not meddling with things like that.
+There's a guy, Eric Singer, who founded a mutual fund
+to invest specifically in days when Congress is out of session.
+So it's potentially another area of research.
+All right.
+That's good.
+All right.
+So next anomaly, mean reversion.
+All right.
+Let's see.
+I was going to do just this here.
+All right.
+So this fiscal markets hypothesis tells
+that returns are unpredictable.
+So you can't use past returns to forecast future returns.
+But there is a literature on mean reversion,
+which is essentially the opposite
+of what a normal person thinks.
+So the normal view is something like good years follow good
+years, bad years follow bad years.
+Mean reversion actually says the opposite.
+Mean reversion says, no, no, no.
+If anything, bad years follow good years,
+and good years follow bad years.
+And you should buy the stuff that's been doing poorly.
+So essentially the reverse of my dad's view,
+there's like the fundamentally good companies
+and the fundamentally should buy those.
+No. The fundamentally good companies are the ones to sell.
+And the fundamentally bad companies are the ones to buy,
+would be a way of saying it.
+So essentially it says that if markets have done poorly
+for a while, then on average they will actually do better
+or at least individual stocks.
+So now if you take a look at what had happened
+to U.S. stock markets since around 2009, well,
+let's see you had an incredible horrible crash,
+and then you've got a bunch of good years.
+Right? And the mean reversion story is generally something
+like when there is a crash, people panic.
+Does that sound at all plausible based upon anything you saw?
+People are going like, ah!
+Stocks have risked!
+Oh no! Oh my God!
+I never would have bought them if I'd known that!
+You know, so people get really, they get terrified,
+and they dump their stuff, and they just say,
+I'm never buying stocks again.
+And then there's all of these stocks that are sitting there.
+People are just too scared to touch them.
+And if you're someone who just says, well, look,
+long run averages though, come on.
+And then you look at them, they're really cheap.
+No one else is buying them.
+All right.
+And then you go and buy them.
+Right? So essentially if there is an overreaction to bad news
+where people say I don't want to buy stuff anymore,
+or there's an overreaction to good news
+when markets are growing up, and they are going
+up, and then people say, oh my God!
+Stocks are just a free lunch!
+They're like, it's just like bonds, but with no risk!
+And higher returns is wonderful.
+So if that's, again, a common reaction, then again,
+the smart money is there saying, no, again,
+look at the historical payoff.
+So that's when I don't want to go and buy them, and that's,
+in fact, when you may sell them short.
+So you've got that.
+All right.
+So high returns in the past.
+If anything seemed to predict unusually low returns
+in the future, right?
+And again, Thaler is a fan
+of this systematic overreaction theory,
+which just says past returns negatively forecast future
+returns because too many people believe what my dad believes,
+that bad past return, that the past returns positively forecast.
+So if almost everyone believes
+that there's a positive correlation,
+then this will lead people to, you know, when prices go up,
+to go and buy and buy to an unrealistic high level,
+and then there'll be a crash, and then the people
+who know better can then take advantage of it.
+So at least back 10 years ago, there was an index called
+The Dogs of the Dow.
+Does anyone know if it still exists?
+Okay. So The Dogs of the Dow, this is basically going
+and taking the 10 worst performing Dow Jones stocks
+last year and buying them.
+And the underlying theory was mean reversion.
+Dogs of the Dow is still around.
+Dogs of the Dow is still around, and as it works
+for the last 10 years, that's the more important question.
+Not just whether it survives, but whether it still works.
+But anyway, if we have some information on that.
+All right.
+Now, the main thing to say, I am a little bit suspicious,
+just because I at least, when I've done the directions myself,
+I haven't seen anything for the U.S. But, again,
+it could very well be
+that the U.S. is an unusually stable stock market,
+being the one that everyone around looks
+to as being the rock of the world economy.
+And if you go and look at other countries,
+maybe they do have a more serious overreaction.
+Also, what I can say is when I've gone
+and done the same regression on monthly data,
+then I have found a little bit of predictability
+in monthly data.
+That does fit with the idea of transactions cost are too high
+for most people to take advantage of it.
+Because if there's just a very small month
+to month correlation, so, but to go and be,
+like buy or selling on the basis of monthly variations,
+probably really hard for most people.
+Although, of course, if you are a major investment house,
+that might be something that you can do.
+Thank you.
+that you can take advantage of.
+All right, so questions about mean reversion?
+So again, mean reversion is one of these ideas
+where if it's true, it is a way
+to probabilistically beat the market,
+although of course, the main thing
+with any of these anomalies is realize
+that just because it exists statistically
+doesn't mean that it's big or that it's in any way certain
+or that it's ideal.
+Yeah, so there's a famous lawsuit
+where University of Chicago Business School professor
+told a class of business students,
+I guarantee this equation will never screw an investor.
+And then one of the students used it
+and was screwed by the equation
+and then he took the professor to court for that.
+And the court had a very important
+and extremely wise ruling,
+which says that no professor can ever be held liable
+for anything he says.
+All right.
+Perfect, essentially.
+Right, so George Stigler had a very amused comment on this
+on how isn't it surprising that people
+who are very close to the professorial community,
+namely judges, come up with a ruling
+which shields professors from any responsibility
+for anything they ever say.
+All right.
+Of course, if you believe the Ecker-Lavellev model,
+then we might wanna be suable for what we say, right?
+What's the advantage in being suable
+for wrong things you say?
+There's an advantage.
+Compensated for the right things you say.
+Yes, well, people will listen to you.
+People will care what you say.
+People will pay you more for your advice.
+Whereas if it is known that there is no liability whatsoever
+then people don't care as much.
+Okay, all right.
+So questions about mean reversion?
+I'm happy.
+All right, let's move on to betting market anomalies.
+So remember back in week two,
+when we talked about betting markets
+and how Robin Hanson is one of the world's leading
+researchers on betting markets,
+including betting on terrorism
+and other controversial things,
+which do not actually plausibly cause terrorism
+because, well, many reasons,
+but one is the maximum bet was 100 bucks.
+So you have to imagine there's someone
+who wasn't gonna kill themselves
+and then, oh, there's 100 bucks in it.
+And then the other one is that the betting market
+is monitored by the CIA.
+So you'd have to go and do this
+and then withstand scrutiny by the CIA.
+So that's also, other than in order to get paid.
+So it's also not too plausible.
+Anyway, so betting markets are just a special kind
+of asset market.
+So if I hold up a piece of paper
+that says I will pay you a dollar
+if inflation goes over 10% in the next 10 years,
+that's really, like, that's really an asset, right?
+That's an asset that pays under certain conditions.
+We can call it a bet or an asset.
+Really just a bet is a certain kind of asset.
+That's all it is, all right?
+And then the same empirical techniques
+that we apply to other asset markets, right?
+And really the same equation over here.
+Could be, you could go and take it
+and apply it to betting markets just as well.
+Apply it to betting markets just as well.
+So, and a lot of the things that we see in betting markets
+is just the way they expect.
+So for one thing, there's a really high correlation
+between subjective and objective probabilities
+in betting markets.
+So I think I was already showing you
+what calibration looks like.
+We're showing you in, so when people go and look at bets,
+and here we've got
+subjective probabilities as reflected in,
+like, the initial prices that bets go for.
+And then we've got objective probabilities,
+which is the actual frequency with which different bets win.
+So again, if we start, so we start at, like, 0.5 to one,
+then we are quite close to a nice 45 degree line
+where if a bet is going for 50% of its face value,
+then it generally actually wins 60% of the time.
+If it's going for, say, 80% of its face value,
+wins about 80% of the time.
+And again, this is a price,
+and this is a price before things happen,
+and that's a frequency after things happen,
+and we can then go and plop them together.
+And again, of course, it's possible,
+like if people are really dumb,
+if you're betting against two-year-olds
+or something like that, not that you should,
+but if you're betting against two-year-olds,
+then maybe you would see that the line would look like that,
+or it could look weird,
+or there would go all kinds of weird lines
+if you're betting against people who are just clueless.
+But these, remember, these are subjective probabilities,
+but they're market prices,
+so they are the subjective probability
+of the marginal bettor.
+So it's not even average,
+it's like what the marginal person's willing to do.
+Okay.
+All right.
+So, so anyway, so that is,
+describes a lot of what's going on.
+So betting markets do very well by most tests,
+but there are a number of anomalies.
+All right.
+So, and of course, once you start looking for anomalies,
+eventually you find some.
+So probably the very best known betting market anomaly
+is called long shot bias.
+Long shot bias.
+All right.
+Generally demonstrated by studying horse racing.
+All right, now if you ever wondered how it is
+that horse tracks make sure they'll have enough money,
+the answer is they actually have a procedure
+that can't fail,
+which is if, say, people are betting three times
+as much money on one horse than another,
+then they actually use that to say,
+in that case, there are three to one odds.
+And that way, and so, you know,
+if there's three times as much money put in favor of horse,
+put in favor of one horse,
+then if the one where there's three times as much money wins,
+you only get a small payoff,
+paid for by the,
+three to one, so by the 25% of people bet the other way.
+So like the winners all get an equal share
+of the 25% of money that went the other way,
+but if the unpopular thing wins,
+then they each get to triple their money,
+minus transaction costs, of course.
+Right, so, you know, so if there are,
+you know, there's three times as much money bet on,
+you know, like, I don't know,
+what's a good name of a horse?
+Sure, Shadowfax.
+Shadowfax is one horse.
+And what's your horse?
+She always wins.
+Yeah, she always wins with the other horse.
+So three times as much money is put on Shadowfax,
+then she always wins.
+Then if you go and bet on Shadowfax and you win,
+you're going to get a one to three payoff.
+So like for every dollar, for every $3 you put in,
+you get $1 back, which means that the bets on
+she always wins are gonna be enough to cover those bets.
+On the other hand, if she always wins wins,
+or then, every person who bet a dollar there
+gets $3 from people the other way.
+So this is called parimutuel betting.
+It's a very simple way to make sure that you're solvent,
+because you set the odds just based upon
+the total volume of dollars that people
+are putting down on every possibility.
+All right.
+So, normally this works fine,
+but one thing that's been noticed is that
+there is long shot bias, which says that
+expected returns in horse racing
+increase with the probability of the horse winning.
+So in other words, this says that if you bet on the horse
+that is favored to win, say one horse
+has an 80% chance of winning,
+you generally get a higher payoff per dollar
+than if you bet on the long shot,
+the horse that only has a one in 30 chance of winning.
+Now again, notice this isn't the obvious thing that
+the total number of dollars that you get
+when you bet on a favored horse
+are less than the total number that you win
+than if you bet on a unfavored horse and you win.
+This is saying that the actual expected payoff is lower.
+The expected payoff is actually lower,
+whereas in that example that I gave you,
+the expected payoffs are equal.
+Right, so either you have a three quarter chance of winning,
+but if you win, you only get one third of a dollar,
+or you have a 25% chance of winning,
+but if you do win, you get $3 for every dollar.
+So that means the two bets are actually equal in value.
+But the long shot bias says that
+if you go and bet on the safe bets,
+you actually on average take home more money in the end.
+And if you go and bet on the long shots,
+you take home less money in the end.
+All right, now one explanation that
+lifelong gamblers generally have,
+and which people who research it
+have said seems plausible anyway,
+is that a lot of people actually want to leave
+either in the money or at least not out of the money.
+So basically they don't want to leave having lost any money.
+All right, now of course since there is a commission
+or a management fee deducted for every bet,
+on average people are losing money every time, right?
+So if at the end of every day,
+typically you will have lost money.
+And if then you want to try to avoid losing any money,
+then at the end of the day you will go
+and bet on the long shot,
+which is your only way of making it up.
+And if there are enough people doing this,
+regardless of the actual objective odds
+of the long shot horses winning,
+there will be too much money
+poured into the long shot horses,
+which will mean that the odds,
+although the odds are still good,
+the payoffs are still good,
+they're not as good as they should be.
+So basically a horse that has a 30 to one odds to win,
+might like objectively,
+might only have a 20 to one payoff,
+because too many people go and say,
+I don't wanna go home not having lost money,
+so I'm gonna take my remaining money
+and dump it on this long shot horse,
+and come on, come on, she always wins,
+or whatever.
+So that is one that seems pretty well established.
+So says that if you do want to improve your odds,
+don't bet on long shots,
+just go and bet on the safe ones.
+And if you feel like that isn't risky enough,
+you could just go and bet on more safe horses,
+or bet larger stakes.
+You could still lose just as much money,
+whatever you want, right?
+But with better odds.
+And then another example is lottery betting,
+which also often uses this parimutuel betting system.
+So whenever you hear about how the pot
+has grown to a certain amount of money,
+the pot has grown to $100 million for this lottery.
+Well, the normal things that happens
+is that they actually start selling
+more lottery tickets for those.
+And then the more lottery tickets sold,
+then eventually the fact there's a huge pot
+doesn't mean that in equilibrium,
+the tickets are not especially good
+because more tickets get sold,
+and of course there could be one winner
+that gets the whole thing,
+but there's way more tickets, so your odds are less.
+But also very common with these kinds of lottery systems
+is that if people can choose their own numbers,
+and people like being able to choose their own numbers,
+it gives this feeling of, oh my God,
+like I can decide whether I win by choosing my own numbers,
+then in systems like this,
+what happens if multiple people choose the same numbers?
+They have to split the pot.
+Now, what's interesting about this
+is that there are patterns in numbers
+that people voluntarily pick.
+People pick a lot of birthdays and other dates.
+So if you have the option of picking any number
+between like one and 60 on three numbers,
+then if you go and pick a first number
+that is greater than 12,
+and then, let's see,
+so then another number that is greater than 31,
+and I guess the last one, if you do the year,
+then you wanna pick a number that is,
+let's see, I guess I'll go, let's see, so.
+Well, let's say, I guess you could go and pick a number
+that few living people have as their birthday, right?
+So right now, there'd be very few people alive
+who would be buying lottery tickets
+who would have like 18 as the last digit
+of their birth year, right?
+Those people would be 99 years old.
+So you go and you pick numbers
+that are normally not picked as birthdays
+or for other superstitious reasons,
+and in this way, you can greatly reduce your risk
+of having to share the pot.
+And in this way, it is actually possible
+for people to buy lottery tickets
+that have an expected positive sum
+under very special conditions.
+All right, so economists often dismiss lotteries
+as a tax on stupidity, but Thaler shows there are cases
+where it's at least has a positive return,
+which doesn't seem that stupid.
+He does also admit that you would have to live
+for thousands of years for this
+to actually become a viable way of getting rich,
+so it's not to me that impressive,
+but still given that a lot of people play lotteries,
+the fact that people go and pick these losing numbers
+so frequently, kind of interesting.
+All right, so questions about betting market anomalies.
+Wondering about any of these.
+All right, so we're not, yeah, yes.
+I was wondering if you'd heard of the Martingale
+betting system, betting strategy?
+Is that the one where you keep doubling your bet
+and telling them to make money?
+Yes, yes.
+Do people ever try it, and then at what point
+does that end up breaking down?
+Right, yeah, so the strategy of going and betting on roulette
+and every time you lose, doubling your bet.
+From the point of view of casinos,
+this is just like a new sucker showed up
+and did a bet twice as large as the last sucker.
+They're perfectly happy for it.
+Of course, if you literally had infinite money,
+then this could work, but how many people on earth
+have infinite money?
+Zero.
+No one has infinite money, so it actually doesn't work.
+Yes, so it's one, of course, what you could say
+is that the median, if you have a lot of money,
+the median is good, but the mean is still terrible.
+Yeah, yeah, Ash?
+This is actually why casinos have minimal bets, though,
+because they start with just betting one penny.
+Yeah, well, I mean, it would make sense
+to have a minimum bet anyway, because it's not worth their
+time to handle a bet of a penny.
+But yeah, Lane?
+I'm probably good at casinos too much.
+They've always had minimum bets, but the end result
+of a betting system that presses on loss, like the Martingale,
+is that the expected value can't change, right?
+There's no change in the betting system,
+but you have more small wins and a few
+number of catastrophic losses.
+Yes, yes.
+Similarly, if you press on a win instead, it flips it.
+Yes, yes.
+That's right.
+Anyways, but I'm sorry, sorry, sorry,
+please don't talk when someone else is talking.
+Excuse me?
+Hello?
+Please don't talk when other people are talking.
+Yes, all right.
+See you guys soon.
+And then practically speaking, of course, nowadays,
+pretty much every casino has table limits
+where you're only going to be able to double maybe
+a half dozen times.
+Yes.
+So you're going to get a big five billion dollar bet.
+Right, yeah.
+Right, so there is that.
+Yeah, and then there's a lot of betting market anomalies
+that I have noticed, as far as anyone who has studied,
+just things like people don't like giving odds on bets.
+Which again, is so if you do try betting people on things
+they say, well, of course, the first thing
+is people don't like betting at all.
+That's one anomaly.
+But the other thing is people really
+don't like giving anything better than even odds.
+Which again, people say, well, why should they
+get better than even odds?
+To entice a person to go and lose their money.
+That makes perfect sense.
+So if you really have inside information,
+if you really know the odds are five to one,
+and someone wants you to pay them three to one,
+that's a great deal.
+Because it's, well, sure, sure, three to one's great.
+Because I know that actually you only have a one in five chance
+of winning.
+So the fact that I have to give you three times, that still
+is a great deal for me.
+So in the same way that you want to entice customers
+with good prices, you want to entice betting partners
+with good odds.
+And the only thing you have to be careful about
+is that you don't make your prices so good
+that you lose money.
+And you don't want to make your odds so favorable
+that you, on average, you lose money.
+But there should be plenty of room
+between your great confidence, if you really have it,
+and even odds to do something in between.
+And yet it's very hard to get people to give odds.
+So the obvious explanation, of course,
+is that people are just not nearly as confident as they
+seem.
+And people like claiming to have omissions.
+But actually, not only do they not, but they know they don't.
+They realize that they are just mortals,
+despite the fact that they talk like immortals.
+All right, so questions about betting?
+Questions about betting?
+Anyone wondering here?
+All right, so I think now is actually a pretty good time
+to go and talk about the final exam.
+And then this will leave the full next class
+to talk about public choice.
+And so by the way, so I do teach the graduate class
+in public choice for the second semester.
+So next class, in addition to being incredibly fascinating
+and important material, is also a trailer for the class.
+So if you like the next class, then you
+might want to think about doing public choice as a field.
+It was kind of like having a movie,
+and then you have the TV series.
+So it was like one two-hour 40-minute movie
+on public choice.
+But then you would have the 14-episode.
+But production values don't comply.
+Production values just get increasing returns.
+Seriously.
+Yes, and think about this.
+The more confused you are by politics,
+and probably the more confused other people are,
+the more interesting questions there
+must be for public choice to answer.
+So really, the weirder things get,
+it opens new vistas for you guys, especially.
+All right, so let's just talk about the final exam.
+So the final exam is going to look just like the midterm.
+So we'll have the same number of questions,
+the same format of questions as the midterm.
+You will have more time for questions.
+A little more time for questions.
+If you felt rushed on the midterm,
+you can feel rushed on the final.
+The breakdown is going to be about the same as before.
+So about 50% of material from lecture,
+40% from homework, and about 20% from readings.
+I didn't remember those readings.
+Yes, they're still there, still waiting for you.
+They're still fascinating.
+And then the exam remains fully open book and notes.
+So you're welcome to bring any written materials that you want
+whatsoever.
+You cannot use an electronic device, not even a calculator,
+because of the negative externalities
+of advanced technology and the asymmetric information
+of cheating and so on.
+So it's fully open book and open notes.
+And then, let's see.
+So other things?
+Yes, so Julia will proctor.
+So again, I still won't be here.
+If that's frustrating.
+I would have been just as frustrating
+if I had to do it in a different way.
+I would have been just as frustrating in person
+because normally, the answer to any question
+is part of what the question is testing
+is whether you understand what this question is.
+So something important.
+Will the test be cumulative?
+The answer is yes, but.
+So about 1 third of the material will
+come from before the midterm, about 2 thirds
+from after the midterm.
+So while it is cumulative, everything in the class
+is fair game.
+But I will wait the exam towards the second half of the class.
+I'm greatly fond of questions that combine some knowledge
+from the first part with some knowledge from the second part
+in order to see whether you've really put things together.
+And not only remember, but can apply and see
+the connections between different ideas
+that we've done.
+Let's see.
+Anything else that I should tell you?
+Yes, and of course, you still write directly on the exam.
+The amount of space that I give you is intended as a guideline
+for how long your answer should be.
+There is that great rule to apply,
+not just in this class, in all classes, answer the question.
+Which I know is easier said than done
+when you're under test pressure.
+But still, that is a great rule to follow.
+So a mediocre responsive answer will
+do better than a brilliant answer to something
+I didn't ask, because of course, when I get the second thing,
+then I just say, well, maybe the student just
+doesn't know anything about what I asked, and then I'm done.
+So they're talking about something different in order
+to distract me, and that's really what I do have to assume.
+Let's see.
+So answer the question is good advice, and yes.
+And then also remember what I was saying
+about how it's important to distinguish between a question
+about a model from a question about the real world.
+So the question says, you know, in a Bertrand collusion model,
+is that a question about the model or about the real world?
+That's a question about the model.
+If there's a question that says, you know, does OPEC fit,
+does OPEC actually look like the Bertrand collusion model?
+What is that a question about?
+Real world.
+Then of course you need to know the model to answer the question,
+but it's not going to say, well, OPEC does,
+because what OPEC does is everybody in OPEC sets a price,
+and whoever sets the lowest price gets the entire
+world market, and that's not what actually happens
+with OPEC at all, is it?
+Right? As far as I've never heard about one country
+in the world selling all the oil for a year.
+As far as I know, that's never happened.
+So that would be a good point to say actually OPEC doesn't really
+fit the Bertrand collusion model well at all.
+Right? And then you could go and point out, the model says this,
+like here's what we see in the real world.
+So that would be a question about the real world.
+Again, normally I will try to be clear by saying something
+like in the real world, or other keywords that indicate
+that you need to be discussing facts.
+Right? You know, so now, you know,
+sometimes I'll ask questions along the lines of, you know,
+so does this model, like which,
+does this model adequately describe your behavior?
+Now, again, once in a while, someone will just say, yes,
+I always defect in a prisoner's lemma.
+So they're saying, hmm, I don't want to call them a liar,
+but if they don't say anything else, it doesn't seem
+like a very good answer still.
+So if the person would just say, look,
+people call me really weird and selfish and so on,
+but that's just how I am, and I don't care what people think
+about me, you know, it's a really good answer.
+All right?
+Then I believe you.
+But if you just give an answer where you say the model says
+this, and I do exactly that at the end.
+That's where it does, you know,
+where again it's possible that's true, but it's one
+where the explanation is not convincing,
+and so if you just flush it out more.
+Yeah, people call me a monster, but I always defect.
+All right?
+So that just adding that extra line is like, oh,
+it's pretty convincing.
+It shows that you're paying attention.
+So, yeah, so anyway, if there's questions
+about your own behavior and you're asked to explain it
+in general better if you can give a richer story, and,
+you know, a more observant story, right?
+You know, even if you are someone
+who fits the model very well, you can say, look,
+I realize that most people do this,
+but that's not what I do.
+I do something different.
+You know what I'm saying?
+So what I do is more, is constant with the model.
+Right? So, you know, you might say, look, I know most people,
+if they win a prize, go and blow it on some, you know,
+some temper on a big party or something,
+but that's not what I do.
+I go and raise my permanent income by 1%.
+That would be a good answer, because that would be my answer.
+So, of course, that's a good one.
+Yeah. So, anyway, so that's, anyway,
+so those are the main things to know.
+Let's see.
+I know, oh, yeah, so people often ask
+about two other things.
+So what is, so next class I will give you homework 10
+without answers.
+There's no answer key, but if you have questions
+about a specific problem, I will point you in the right direction.
+People also often ask, are there answer keys
+for the old final exams?
+So remember how the midterms have answer keys?
+There are no answer keys for the old final exams,
+because demand is much lower for answer keys for final exams.
+But, again, if there is a problem that is troubling you,
+I am happy to point you in the right direction,
+or you can send me your answer, and I can say
+if it's a good answer or if there's something
+that can be improved.
+So I'm happy to help you out on those old exams, too.
+Yeah, so those are two other coming through kind of questions.
+Let's see.
+Any other questions about the exam?
+Yeah, Dash?
+Oh, it's not strictly about the exam, but about the comp.
+Oh, okay.
+So, yes, I, yes, I'm totally qualified to answer that, too.
+So, so, does everyone know about the comprehensive exams?
+Yes, all right, good.
+All right, so what's your question?
+Just, can you give us any general advice
+for answering the question on the comp?
+Yes, on comprehensive exams, which, again,
+this is not the final exam for this class.
+This is that one that's given, what, in August now?
+Yes, so, so planning on taking it in August.
+Yes, so my best advice there is to, again, look at old exams
+and take them under time pressure.
+So I, so I try to vary my questions a bit,
+but in the end, it is striking
+to me how frequently questions occur on those exams.
+So there is a high repeat rate,
+especially if you go back 10 years.
+Then the repeat rate is maybe two-thirds, actually.
+So at least when I do it, I usually try to change a word
+or two to see whether people can tell and figure
+out whether that changes things.
+But there's a lot of repeat questions.
+Let's see.
+So I guess that's the main thing.
+I guess, yeah, so there's also the figuring
+out who wrote the question, honestly.
+So the Williams questions, there you want the Williams answer,
+and the Jones questions, you want the Jones answer,
+and my questions, you want my answer.
+The Williams questions I see
+as more distinctively Williams questions,
+but you all had him, so.
+You have a good idea about how he thinks, so.
+That's what I say about it.
+But again, practice, practice, practice,
+and don't practice by reading notes.
+Practice by doing exams.
+So just to tell you how much I believe in this.
+So right now, I'm prepping my homeschoolers
+for advanced placement tests in European history,
+microeconomics, and macroeconomics.
+And what does our practice consist in?
+We are doing 15 years of old micro-macro exams, right?
+Which gets really boring.
+But we want fives.
+So, you know, and so they are my kids, so I'm like,
+we've got to do this.
+I don't care if it's boring.
+We're going to get fives.
+We're going to crack this system, right?
+So, and yeah, at this point, I'd be very shocked
+if we didn't get fives, because, I mean, I've got the,
+oh, I have the answer keys.
+I grade them exactly the same way they grade them.
+I show them the keys.
+Every question, you see why you got this wrong?
+Because they like it this way.
+This is exactly the way to do it.
+All right?
+Now, this is not a great way of teaching economics.
+It's just a way of getting a high score on the exam.
+What I, for them, I tried to first give them a great course
+in economics, where they really understand it,
+and then teach them how to crack the exam.
+So I can first teach the subject,
+then teach the test afterwards.
+So hopefully, we've, hopefully, both things are going on here.
+But anyway, when you're going, approaching the comp, you know,
+like, since we haven't taught you the test,
+you teach yourself the test by getting those old exams
+and just doing a ton of practice,
+which I know is kind of boring.
+But, and again, I would generally recommend trying
+to take the exam in a very similar condition
+to the actual test.
+So I know, I probably wouldn't do this myself,
+but even like handwriting it so that you get the pace right.
+Or like, if you print the test, if you really print it,
+print it, but, you know, like, it's, I know it's tempting us
+to type it, because it's easier on your hand.
+But then that adds on an extra variable where you're not,
+wait, can I actually do it under test pressure, you know,
+like, with my hand the same way that I do with typing?
+So probably for me, I would, I would type it until, like,
+the last two practice tests,
+which I would do immediately before the real one.
+Something like that.
+Let's see, other questions?
+Yes?
+So regarding the comp, regarding the first semester
+and second semester, the answer, this is kind of obvious,
+but to ask how much outside extra reading might be helpful
+for it, you know, are the readings and assignments
+and notes and tests and things that you've done in the first
+and second semesters, is that sufficient for?
+In my experience, absolutely.
+Okay. Yeah, so the stuff that you've been, like, so,
+again, it's called comprehensive, but, like,
+the focus upon the material that has actually been taught
+in these two semesters, I mean, so, you know,
+like you wouldn't get penalized if you knew more, but, you know,
+like, there's no reason you could not get a perfect score
+using only things that you have, you know, using only things
+that you have learned this semester as long as you,
+you know, let me listen.
+If you learned everything that was taught
+in these two semesters, you should be able
+to get 100% on the test every time.
+I'm just thinking of the two volume set
+for the Alchin works, if that would be useful to devote time
+to or part time dedicated to.
+Let me go, so, again, just in terms, so remember that the rule
+about equating marginal utility of good one divided by price
+of one, marginal utility of good two divided by price
+of good two, remember that equation?
+Yep. Yes.
+My honest answer here, like,
+in terms of becoming a good economist,
+do some read, some ask.
+In terms of passing the exam,
+I'd say there's a corner solution
+where I wouldn't bother reading anything more
+than what William specifically talked about.
+Again, that's, they seem cynical, but, you know,
+I'm not saying Alchin is great or that you shouldn't read him,
+but if all you want to do is get a good score on the exam to go
+and read extra stuff that William's already talked about,
+he was totally useless to me.
+I'm like, 90% useless.
+All right, so next class we're going to do last week
+and we'll also take any questions you might have
+about any material that we've covered at the end.
+Thank you.

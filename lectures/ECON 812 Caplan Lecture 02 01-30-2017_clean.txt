@@ -1,0 +1,3540 @@
+is an idiot.
+So anyone who continues to believe
+that minimum wage causes unemployment is an idiot.
+So as it turns out, if you apply Bayes' rule,
+you will see that neither of these extreme conclusions
+makes much sense.
+And rather, the sensible view is that you
+should move your view in the direction of just leading
+the standard view, that minimum wage causes unemployment.
+But depending upon how good you think
+econometric studies are, and how confident you
+were to begin with, you may not actually
+end up with a view that's very different from the standard one.
+So here is the general application of Bayes' rule.
+So Probability Minimum Wage Causes Unemployment,
+given the Karl Kruger findings, is equal to the probability
+that you'll get the Karl Kruger findings
+if minimum wage does cause unemployment times
+the probability it causes unemployment
+all over probability Karl Kruger findings.
+As you get those, if min wage does cause unemployment,
+the probability it causes unemployment plus the chance
+that you get the Karl Kruger findings,
+if minimum wage does not cause unemployment,
+All that times the probability does not cost any money.
+So I just picked some numbers, which
+may seem plausible to me.
+The numbers you pick may vary.
+Remember, if we're dealing with basic and prior probabilities,
+then who says what they should be?
+Yes, you say what they should be for yourself.
+Someone could go and say your prior probabilities are silly.
+But nevertheless, the formula does not
+give any explanation as to where they come from.
+You just have to get them.
+You say, well, how do I get them if I don't have them?
+Well, fortunately, you already do.
+So there's no issue where you don't already
+have some opinion, even if it is something
+as obscure as, will this substance I've never
+encountered kill me?
+Well, most of us assume that things we never encountered
+won't suddenly kill us.
+Once in a while, it turns out to be wrong.
+But usually, if there is a new food in a room,
+you don't run away in terror saying,
+I have no proof that won't kill me.
+But instead, your presumption is, well, if it's food,
+if it's around humans, probably it is not immediately fatal.
+So I should not run.
+But you could, of course, be the paranoid person
+who does assume the worst, a new food,
+and thinks it will be fatal to ingest it.
+Anyway, so the probabilities that I just picked out,
+because they seem reasonable to me, is first of all,
+probability that we get the current career findings
+that the minimum wage does cause unemployment is 0.3.
+So let's see.
+So we get the set of another set of like this part.
+We have this term here.
+And actually, this term's the same here.
+So I assign those equal to 0.3.
+And again, the idea is that if the minimum wage does
+cause unemployment, at least you would
+expect it's more likely that you would get a result consistent
+with that than not.
+Seems reasonable.
+So if the minimum wage really does cause unemployment,
+and you do a high-quality empirical study,
+you would think that it is more likely you will confirm
+the truth than that you wouldn't.
+You could imagine a perverse world
+where whatever is true turns out to be disproven experimentally.
+Like your experiments are controlled by Satan
+or something, so he's always there to deceive you.
+Whatever the real result is, you're like, ah, I don't care.
+I'm going to push the results to make it the opposite of whatever
+it seems to be.
+I'll plant the world with fossils
+to spread the lie about Musa or whatever.
+All right, fine.
+Normally, you would not think that, at least I wouldn't.
+And then similarly, we have probability
+that you get the Karl Kruger findings if it does not
+cause unemployment.
+So this term over here, let's say that's equal to 0.8.
+Namely, that if the minimum wage doesn't cause unemployment,
+then you would expect a good empirical study
+to find that it doesn't cause unemployment.
+Yes?
+I was curious why I was doing that up to 1.
+So here's the key thing is that these probabilities don't
+have to because they're not complementarily probabilities.
+So think about it this way.
+Could be that, so for example, it
+might be that there's an 80% chance
+you get the Karl Kruger findings no matter what because the
+methods are not informative.
+And say, you might think it's just a correct process where
+whatever the truth is, 80% chance
+that they'll just say the minimum wage doesn't
+cause unemployment.
+So in general, there's no need for the probability
+of A given B plus the probability of A given not B
+to add up to 1.
+So you think about the probability that you will.
+Let's see, what would be a good example here that makes sense?
+So the probability that you will go past the exam
+if you drank tea the night before, so that might be 0.9.
+And the probability that you will
+pass the exam if you didn't drink tea the night before
+might also be 0.9.
+And that sums to 1.8.
+And how can that be?
+Because there's no reason for those two things to sum to 1.
+Make sense?
+But it's a very good question.
+And now, there is a part that does have to sum to 1.
+So probability of causes plus probability of not causes,
+that does have to sum to 1.
+And then, I'll let us go and put in some probabilities that
+make sense to me.
+So I would just say, before there's any empirical studies,
+I just say 99% certain that the minimum wage
+causes unemployment.
+Because that intro textbook and how awesome it is.
+And also, how someone said that a minimum price for asparagus
+wouldn't cost surplus asparagus.
+You'd be like, what?
+Come on.
+No way.
+All right, and like, if someone just
+started making up examples of products and saying, hey,
+would that one cause a surplus?
+Yes, that one would.
+And that one.
+How about a minimum price for markers?
+Totally, that would cause a surplus of markers.
+And paper.
+Suddenly, all of these other things, then why not labor?
+I don't know.
+Doesn't seem like it would.
+But then, of course, the probability doesn't.
+That does have to equal 1 minus the probability it does.
+So that will be 0.01.
+And then, we can plug all these in.
+So we get 0.3 times 0.99 over 0.3 times 0.99 plus 0.8 times
+0.01.
+And what do we come up with?
+Well, we have the anodized bias, which is 97.4%
+the minimum wage causes unemployment,
+despite the Karger findings.
+And again, how can we come up with so much confidence
+in the orthodox result, given that the actual empirical study
+said something else?
+Well, there's two parts.
+First of all, how confident were we to begin with?
+And then secondly, how good are the methods?
+So if the methods are not actually that great,
+even at their best, and you just sit around thinking
+about all the ways things could be messed up,
+there's endless ways things could be messed up.
+So you probably heard about the replication crisis
+in psychology.
+So there's a bunch of ways that things seem messed up
+in psychology.
+So economics has not been doing as badly.
+But still, if you have actually been
+involved in any empirical work, you're like, wow,
+things could be really messed up.
+Or if you ever tried to replicate anyone,
+did anyone here ever have a replication project where you
+just tried to go and match what somebody else did?
+And you'll find problems there.
+And then, of course, there are two senses of replication.
+So you may have heard about John Lott's libel suit
+against Steve Levitt.
+I think it was Steve.
+Yeah, I think it was Steve.
+What was it?
+It was the Levitt co-author.
+Anyway, so I want to be careful here.
+When you're talking about libel cases,
+you better describe them accurately.
+But in any case, the lawsuit involved
+the definition of replication.
+So someone, Lott sued someone who
+said that his results did not replicate.
+And Lott said they totally replicated.
+Because to replicate means to get the same result if you
+do exactly the same thing.
+And the other guy said, no, by replicate,
+I meant that if you just do another empirical study,
+you'd get a different result.
+And these are two senses.
+But anyway, which sense is actually?
+So there's the low bar of getting the very same result
+if you do exactly the same thing.
+But that's not all that impressive, is it?
+Right?
+Because you might then say, yeah, OK,
+if I do it exactly the way, I get exactly the same result
+you did.
+You passed the very basic test.
+But my real criticism is your methods were crummy.
+And that would be a stronger criticism.
+And that's something that you can always apply.
+So what about for an experiment?
+Even for an experiment, you can find problems
+with an experiment.
+So in experimental fields, people
+would criticize, well, the experiment
+wasn't really done very well.
+Or you were sort of leading the witness.
+Or it doesn't mean what you think it means.
+So there's always problems.
+All right, so questions about this
+as a general approach to scientific inference?
+Yes?
+I mean, I guess in a sense, this isn't really
+how we work as humans, right?
+Ah, great question.
+So we're going to talk about that a lot after the midterm,
+because there's a lot of scientific work,
+especially in psychology, but also in economics,
+about whether people really do this in practice
+or act as if they do.
+We know they don't really do this,
+because if I gave everyone here a test with a bunch of problems
+like this, I bet a lot of people would blow a lot of the problems.
+And you guys have way more training and familiarity
+with this kind of stuff than almost any human.
+So if you guys can't do it perfectly,
+well, the odds of my mom's doing it.
+That seems really unlikely.
+But then there is the question, well,
+maybe people act as if they're doing this,
+at least when they're dealing with familiar problems,
+things like this.
+So we will come back to that.
+But that is a key issue.
+Now, the main thing you can say is, at minimum,
+this is what we call a normative principle.
+This is the way you should be updating your beliefs.
+This is the way a reasonable person updates their beliefs.
+Doesn't answer the question of where
+does a reasonable person get beliefs
+in the first place, which is probably also very important.
+In fact, it's certainly also very important
+to where you start.
+I don't know if Don Boudreau did this explicitly
+and dumbed it down for a debate, but he
+made this argument in the debate about the minimum wage,
+basically saying that we have 99% confidence in the theory.
+And yes, there is countervailing evidence,
+but it's just not strong enough to overcome the theory.
+Right.
+And also, the end view.
+Karl Kruger's study is probably the most famous
+in the history of minimum wage research.
+There's a lot of other research.
+More recent.
+So we can sort of the way that Karl Kruger framed it as well,
+there's all these low-level people in the past
+who did this crummy stuff.
+And now, we've got the good stuff.
+But now, whenever you try that method and let 20 years pass,
+there's going to be some other people saying, now, I've
+got the really good stuff.
+And your stuff is now down the memory hole
+of stuff from the past.
+It was really, can't be taken very seriously any longer.
+But yeah.
+All right.
+So anyway, so do people update their beliefs
+as if they knew these formulas?
+So I can say is to some degree, at least.
+So for example, people generally run away
+when they appear to see a large fire.
+You might say, well, why do they not
+if there really is a large fire, given that there
+appears to be a large fire?
+It could just be a projected fire on a video screen
+or something like that.
+Could be just all kinds of possible ways
+that people can try to confuse you.
+You've been in some amusement parks
+where they have fake fire and scary.
+All right.
+But still, normally, if there appears to be a large fire,
+you do run in terror, as we predict.
+How about when you hear that 10% of Americans
+claim they've been abducted by aliens?
+All right.
+So I'm trying to remember if I ever actually double-checked
+that the survey was even reasonable.
+But suppose that you checked it out,
+and it turned out to be true.
+So first of all, would you get a little more confident
+that alien abductions are happening?
+Like you showed, about 10%.
+That's quite a bit.
+On the other hand, though, how skeptical
+should you be about alien abductions in the first place?
+There's a lot of pretty obvious questions about them.
+Or you might have seen a cartoon.
+I'm trying to remember if it was Zach Beener-Smith,
+showing as smartphones came along,
+the number of times they increased
+the amount of alien abductions that had been videotaped
+seems to have not really increased.
+Whereas, there's other things that people
+heard about where we have a lot more video of it
+than we used to.
+So there's that.
+But in any case, it's the kind of thing where you say,
+well, there's many arguments against alien abduction.
+Like one of my favorite ones is, how come
+each country has a different kind of alien that abducts it?
+So if you listen to the testimony of alien abductions,
+like the Swedes get abducted by a very different kind of alien
+than the Americans get abducted by.
+And it's like, all right, well, maybe
+there's some kind of United Nations of aliens
+where they said, OK, you guys get the Swedes.
+OK, you get all them, and the Americans get the aliens.
+But it does start to sound like a pretty crazy story.
+I have no clear disproof that there's not
+some kind of property rights assigned
+to which humans get abducted by which species of alien.
+But it does start to sound like a pretty silly theory.
+Then when you read about shocking disaster stories
+in the New York Times, you almost instantly believe them,
+no matter how weird they are.
+Whereas if it's the weekly world news,
+anyone ever seen this newspaper?
+It's the original and most awesome of all fake news.
+Bat Boy.
+And well, I think my favorite one
+would be Bat Boy Elected Pope.
+All right, so the New York Times did Bat Boy's Elected Pope.
+I might check.
+It was just really the New York Times.
+But I don't think they would say that.
+Bat Boy Elected Pope.
+I remember so long.
+September 11, 2001, I told Robin Hanson
+that the World Trade Center has been destroyed.
+And he looked at a watch to see if it was April 1.
+It's like, hmm, it's not April 1.
+So maybe I should believe this.
+And then similarly, also, we generally
+don't change our minds about the minimum wage
+when astronomers discover a new galaxy,
+because our view about the effects of minimum wage
+are the same whether or not that galaxy exists.
+So view of the minimum wage will raise unemployment given
+if the galaxy does exist is equal to the probability
+the minimum wage will raise unemployment if that galaxy
+does not exist.
+So we don't change our minds when something irrelevant pops
+up.
+Now, we update our beliefs in at least the general ballpark
+of this equation, as fortunate, because we're
+going to see is that game theory and information economics all
+rely heavily upon this equation.
+Now, after the midterm, we're going
+to look at a lot of evidence that the equation's not
+perfect and there's a bunch of problems.
+And we're also going to talk a bit about people's priors
+and how weird people's priors can be.
+So of course, that's one where if you just
+share the weird priors, then you say it's not weird.
+It's weird that you doubt it.
+It's weird that you don't believe the alien abduction
+reports.
+So I don't have any definitive answer there
+other than the just incredulous look of, really?
+You really believe the aliens?
+Don't think of anything that you probably
+would have thought of before yourself.
+But anyway.
+Now, one last application.
+Suppose that you think you witness a zero probability
+event.
+What should you conclude according to Bayes' rule?
+It's still a zero probability event.
+What's that?
+It's still a zero probability event.
+Well, think about this.
+Is there any chance at all that you have wrongly
+thought that you wrongly concluded something
+was a zero probability event?
+There's even a one in a million chance
+that you're wrong about that and you think you see one.
+You say, oh my god, well, maybe I
+was wrong to think it was a zero probability event.
+If you work through the math, then you realize,
+wow, given that I would update it all,
+given that it occurs, it means that I was wrong
+to assign a zero probability.
+Because remember, if there's a 99% chance that something
+is a zero probability, does it have a zero probability?
+No, it doesn't have a zero probability.
+It has a 99% chance that it's zero.
+Because if there's a 1% chance that it's not zero,
+and it's 1% chance that it's not zero,
+what is 0.99 times 0 plus 0.01 times its other probability?
+Must be, what is that?
+Let's put it this way.
+We got it.
+Zero, and then less than, equal to, or greater than,
+less than, or equal to 0.99 times 0, times 0,
+plus 0.01 times some other probability.
+So what do we know just based upon the nature of probability?
+Is zero less than, equal to, or greater than, less than,
+greater than, equal to, or less than that?
+Yes, it must be.
+So it must be less than that, strictly,
+because if that is even one in a million,
+then that thing is greater than zero.
+And then you have no business assigning a zero probability
+to it.
+Now, after the midterm, we'll talk
+about how human beings have a weird tendency
+to actually assign zero probabilities in the real world.
+And then, in fact, if you go and make
+a graph of probabilities people assign,
+and then the actual observed frequencies,
+when people assign a 0% chance to something,
+generally it has about a 20% chance of actually happening.
+And similarly, if they assign 100% chance,
+that means that that's like 80.
+So there does seem to be a human tendency
+to be overly free with the extreme probabilities, which
+the simple interpretation is human beings are just wrong.
+There's also just the one that human beings speak loosely
+and enjoy hyperbole, and they're not serious.
+So when people say it's certain, they
+don't really mean it's certain.
+So we'll talk about that more after the midterm.
+All right, so questions about probability before we move on?
+Do you want to pass in our homework?
+Please do it during the break.
+So I left a big margin of error, but apparently there's
+a lot more people in this class than we're supposed to.
+Does that explain why you have errors?
+Yeah, I have the printed out.
+Oh, you already have.
+So anyone else who still need it?
+Or I guess you can have your second copy after all.
+Oh, one link.
+Yeah, I printed it out.
+Oh, OK.
+So someone, let's see.
+OK, all right.
+All right, now we move into a subject
+that I was forced to spend six weeks in graduate school on,
+and we're going to do it in one week.
+But we're only going to learn the part that you might
+actually want to know, rather than the additional five
+weeks' work, which I don't think we're worth,
+which I think almost nobody wants to know.
+So you see, this is a historically very important
+area, but the amount of actual new research being done
+in this area is so thin, there's hardly anyone does it.
+It's what we call a mature research area,
+or you would also think of it as just a dead research area,
+where almost everything that people can think of
+has been done, and some people have moved on.
+But hundreds of people made their careers on this,
+received very nice upper middle class incomes,
+and dream jobs for life.
+So we're doing minor tweaks on what we're going to do today.
+All right, but we can't do that, nor would you want to,
+I don't think.
+But not to dissuade you, but afterwards at the end,
+you may say this is the best thing you've ever
+read in economics.
+But anyway, you do need to know it, whether or not
+you find it very interesting.
+So I try to make it as interesting as it possibly
+can be.
+General equilibrium.
+All right, so to start it.
+So as you know, economists usually think about actors
+as maximizing something, maximizing utility,
+maximizing profits, maximizing.
+analyzing votes, right?
+But only very rarely do we analyze individuals
+in isolation because it's pretty boring
+to analyze one person in isolation.
+Instead, social scientists usually want to think
+about questions that involve more than one person.
+So usually social scientists try to look at problems
+where more than one person is involved.
+Some theorists will just go and do,
+spend their whole lives doing individual utility
+maximization for Robinson Crusoe by himself,
+but that's rare.
+All right, now the problem is once you bring in
+more than one person, the questions become
+analytically challenging, which means it's really hard
+to get a definite answer, especially to the satisfaction
+of a very finicky mathematician.
+All right, now think about this.
+When one person plays against nature,
+then the action's one-sided, right?
+So you're not worried that nature is gonna start doing
+different and weird things because you have
+changed your behavior.
+So we often think about once when I was,
+I was 18 years old and I went with some friends
+to Yosemite National Park and we saw some crawfish
+or something like crawfish in the water
+and we're trying to go and fish them in order to eat them
+and then you would go and put a net
+and the crawfish would just flip their claws back
+and they could easily get rid of a net.
+And then they, would this work for about five minutes
+for the crawfish?
+And then we said, what if we go and put the net behind them?
+And then they flip when you scare them
+and they flip right into the net.
+And we did this and we caught them all.
+All right, and they didn't start communicating.
+See, wait, wait, no, no, reverse the flipping
+or don't use the standard evolved tactic
+because they're too smart.
+We got to change what we're doing.
+What if none of them said, right, look,
+let's coordinate and just attack them.
+Like I bet if we would just go and injure the small toe
+of one of them, they would run away and never come back.
+Instead, we just kept doing the same strategy
+and they all died.
+All right, and that's how nature usually works.
+Once you figure out what's going on with nature,
+you just take advantage of it.
+Nature usually just keeps doing the same old thing.
+All right, now, this is oversimplified to some extent.
+So if you remember the first Jurassic Park movie
+where the velociraptors figure out
+how to open up a door handle and they're like, ah.
+All right, all right, so you have seen animals
+figuring stuff out at some point, right?
+But still, there's a pretty narrow range
+of what the animals are gonna start doing.
+Like no one thinks maybe wolves and rabbits
+will join forces against man or something like that.
+Like that sounds ridiculous, and it is.
+That's not going to happen.
+All right, that is man versus nature.
+But man versus man, man versus other rational actors,
+that's where things become much more complicated
+because there we see all kinds of evidence
+that you change your behavior
+and then they change their behavior
+and you change your behavior back and so on, right?
+Like if you know anything about the history of World War I,
+they're very surprised by what happens at first
+when machine guns go and completely change the strategy.
+So you're like, wow, one guy with a machine gun
+can kill a hundred guys who come charging him.
+So why don't we go and try and just get around that guy,
+but then have both sides start trying
+to get around each other and then the trenches
+just stretch, stretch hundreds of miles.
+And then they're like, huh, well,
+now we're in this new situation
+and they sit there trying to figure it out.
+How about we build a tank?
+And then tanks wind up becoming important at the end.
+And then World War II, everything changes all over again.
+The tanks have gotten way better
+and then you have a complete reversal.
+There's hardly any trench warfare in World War II
+and then instead you've got Glitz Creek, so on.
+So there is these constant changes
+as one side adapts to a strategy,
+which then spurs a further adaptation
+of that strategy and so on.
+Well, have you ever heard about a professor
+going to try to stop cheating?
+So students change the way that they're cheating
+and then the professor tries to stop that in another way.
+George Mason policy bizarrely says
+that I'm supposed to tell you
+how I plan to detect cheating.
+That's the official policy.
+And wow, all right.
+So why did someone make that as a policy?
+And it seems like they basically want,
+everyone would want to maintain the facade
+that cheating is discouraged
+while also coming with a system
+that ensures that cheating is never detected.
+Just like my junior high had a policy
+where if there's a fight, all participants are suspended.
+Even if you were simply beaten up,
+you would show up there and like all of you
+would have been beaten up and they say,
+well, sorry, we suspend all parties to a fight.
+Right, and I say, well, that's a really dumb rule.
+No, it's super clever.
+If your goal is to be always be able to say,
+I had no idea there's any violence in my school.
+To the best of my knowledge, there's no violence of any kind
+which is a great thing for a principal to be able to say.
+To the best of my knowledge,
+there have been no violent incidents the entire year
+because we have a rule that punishes
+anyone who tells us about them.
+All right.
+All right.
+So anyway, so given the complexity
+of these strategic actions,
+economists have focused a tremendous amount,
+you know, hundreds of careers on one very easy case.
+What is this case?
+Well, the idea is to say,
+let's say not only do we have more than one agent,
+let's assume that we have lots of agents,
+lots and lots of agents.
+So many agents that no one worries
+that their behavior will change anyone else's behavior.
+All right, and there are many examples
+of this kind of thinking that use the real world.
+Has anyone ever gone to buy a can of corn
+at the grocery store and then you get one can,
+you're about ready to get another can,
+and say, wait a second, if I buy a second can,
+that might raise the price of corn on the first can.
+So I better change my behavior now.
+All right, have you ever worried
+that you might change the price
+of the grocery store with your purchase?
+This is not the kind of thing that people generally consider.
+How about if you ever bought stock
+and you say, well, I better not buy that much
+or else the price might go up.
+All right, again, not the usual thing
+that people have in mind.
+Of course, there are some people,
+if you were a big player in these markets,
+you might have these ideas,
+but generally you don't think about that.
+Or here's another one.
+If you've ever been on the freeway,
+it's like, well, if I cut off that other guy
+through aggressive driving,
+this might, through a chain reaction,
+lead to a general degradation of driving quality,
+and then I'll be suffering as a result of my rude driving.
+Has anyone ever been worried that you cut one person off
+and this will lead to any kind of observable change
+in your life ever again?
+I have had a few people who believe this story
+and they've said, well, I always drive
+in the same place at the same time,
+so I think there's a cluster of us
+and it's not like a macro driving culture,
+it's a tiny little micro culture of driving,
+so I could be messing up the driving noticeably
+in my little area of the world.
+All right, I guess that could be true,
+but it still seems very far-fetched.
+All right, or you could sit around thinking,
+if I'm a bad breaker-upper when I date,
+could this lead to a general decline
+in the quality of breakups
+and eventually someone will break my heart
+as I broke this person's heart?
+All right, so these are all cases
+where you probably have simply disregarded
+any strategic impact,
+and it's not because there isn't any strategy going on,
+because you're such a small player in all of these situations
+that you are not going to be changing
+what other people are doing in any noticeable way.
+All right, now, an interesting result
+out of this kind of reasoning,
+I'm thinking there's so many players
+that I'm not gonna go there,
+no one is gonna bother responding
+to me personally strategically.
+That's the key assumption,
+that though, sure, we're all strategizing,
+but I'm not gonna go and change the strategies of the world.
+Just one person here.
+Yeah, sure, the world's strategies depend upon
+the world overall and the world's strategies,
+but it doesn't depend upon little old me.
+All right, now, the interesting results
+that we're going to see is once you make the problem
+easy in this way, by imposing the assumption
+that everyone thinks that they have no effect
+on the aggregate outcome,
+then you can add on tons of other complexity
+and still get a definite answer.
+So you have this one clarifying,
+simplifying, cleanup assumption
+that every person knows that they are irrelevant.
+And once you add on that,
+you can make it complex in so many other ways
+and you can still get a definite answer.
+So when you analyze complex economies
+or in general any kind of complex
+strategic interaction this way,
+we call it general equilibrium theory.
+And whatever the result that comes out of our assumptions,
+we call that a general equilibrium.
+We call that a general equilibrium.
+All right, so we're gonna start
+with a really simple example.
+And it's so simple that you're gonna feel
+like you've done it before.
+And then I'm gonna say, but wait,
+yes, you almost did it before,
+but there's one thing you didn't do
+and that's the last thing that we're gonna do
+that turns our simple, boring partial equilibrium theory
+into an incredible, sophisticated general equilibrium theory.
+All right, so suppose that we have a number of consumers,
+I, and again, just to make everything nice
+and simple at first, we're going to see
+how complicated you can make it,
+and the answer is very.
+Awesome, suppose we got I consumers,
+they got identical preferences
+and identical endowments,
+and there's only two goods in the economy.
+So the two goods are X and Y,
+everyone has the same utility function,
+which is gonna be equal to A times the log of X
+plus B times the log of Y,
+and A plus B, my assumption equals one.
+All right, and then these actors make exchanges,
+they make exchanges in markets
+where every single person knows
+that they personally have no effect on prices.
+So everyone knows that they personally
+have no effect on prices.
+So what's going to happen?
+Well, since everyone is identical,
+everyone has identical preferences,
+identical endowments,
+the only stable equilibrium is gonna be one
+where the prices are just at the point
+that lead people to not wanna buy or sell anything.
+But you're thinking about this,
+if the price of X were really low,
+everyone would wanna go and buy a lot of X,
+and there wouldn't be enough X to go around.
+And if the price of Y were really low,
+then everyone would wanna go and buy a lot of Y,
+and there wouldn't be enough Y to go around.
+So the only equilibrium that makes the world stable
+is one where the amount of X that people start with
+is the amount that they want to end up with.
+All right, so is that obvious?
+It's not obvious because how much X you want
+depends on what prices.
+A low price of X, you want a lot of X.
+A high price of X, you wanna have less X.
+So if there's a low price of X, you wanna buy it,
+a high price of X, you wanna sell it.
+All right, and what is it gonna take
+to make this world stable?
+We're gonna need to have the price of X
+and the price of Y just right, just right
+so that people are content with where they started.
+And why do they have to be content with where they started?
+Because we assumed everyone starts
+with identical preferences and endowments.
+So this is gonna be a world where nobody wants,
+where nobody in the end wants to trade things.
+You think that's kind of weird economy?
+Yeah, it's a weird economy, of course.
+We've decided it to be weird to prove a point,
+and then we will complicate it to make it more reasonable.
+All right, all right, so anyway,
+so the situation is saying it will only, at price,
+induce everyone to consume their initial endowments.
+So a formula we can do is this.
+So we can substitute out for Y by noting
+that Y is gonna be equal to your total income
+minus the price of X times the quantity of X that you buy,
+all of it over the price of Y.
+And this is just from the budget constraints.
+So you see, we can go and multiply both sides by PY,
+and we have PY times X is equal to income minus PX times X.
+We can then put that over, we can say your income
+is equal to the price of X times the amount of X
+that you start out with plus the price of Y
+times the amount of Y that you start out with.
+Okay, all right, so, and then in a commodity economy,
+your income is just going to be equal to
+price of X times X bar.
+So whenever we put a bar over something,
+it indicates an initial endowment.
+Yes, the amount that you start with.
+So we have PX times X bar plus BY times Y bar.
+Oh yeah, so this here is,
+it needs to have an equilibrium,
+and this is just what your income's going to be.
+All right, okay, so we can go and plug all of this in
+to here, right, and then we're gonna see
+the agents are gonna maximize A times the log of X
+plus B times the log of,
+and then we substitute out for everything.
+So we can substitute income into there,
+and then put Y into there,
+and then we get this equation here.
+All right, and then we differentiate, right,
+and when you differentiate,
+we learn that the amount of X that you want
+is gonna be equal to A over B times PY over PX times Y,
+and then, since there's only two things
+to do with your income,
+there's never any reason not to spend this, right?
+It's a very simple world, there's only two things to do.
+So you might.
+So it's not partial with respect to X, so.
+Yes, yes, yes, yes, that's right.
+All right, so agents are gonna consume all their income,
+so you might remember working with this utility function
+where you get the result that you're going to spend,
+let's see, so that your consumption of X
+will be equal to A times your income over the price of X,
+and the amount of Y they consume
+will be equal to B times their income over the price of Y.
+So I remember with this kind of utility function,
+this is the constant income fractions result.
+You spend a constant fraction of your income on X,
+a constant fraction of it on Y.
+All right, now so far, this probably looks really simple,
+but so far, all we're doing is individual optimization.
+So far, all we've done is the usual,
+maximize your own utility, give it some prices.
+But the general equilibrium result comes
+when we say, wait a second,
+if the whole world is full of people who are doing this,
+then what has to happen for all of these people
+to be simultaneously satisfied with what they've got, right?
+And the answer is, we need to just go
+and set consumption of X equal to X bar,
+consumption of Y is equal to Y bar,
+and then we go and work it through,
+and we get the market equilibrium,
+which is that the price of X over the price of Y
+will be equal to A over B times Y bar over X bar.
+All right, and that is the general equilibrium result.
+So notice, now we're no longer describing what one person does.
+We're describing what the market outcome is.
+So all we did is we started off with the assumption
+everybody's got this utility function,
+everyone's got the same endowments,
+and then what is the only price
+that is consistent with everyone maximizing?
+How can we get everyone to be simultaneously content?
+And yes?
+So, the general equilibrium is maximize the total utility?
+So, well, each individual is maximizing his own utility.
+Each individual maximizes that function for himself.
+And then each individual wants to go and do this,
+but then, since everyone has the same preferences
+and everyone has the same endowments,
+in equilibrium, nobody wants to trade.
+So that's how we know that,
+that in equilibrium, everyone is going to consume
+their initial endowments of X and Y,
+and then this is the price that convinces people,
+that persuades them that is just what I want to do.
+I don't want to buy any X, I don't want to buy any Y,
+I don't want to sell any X, I don't want to sell any Y,
+I just want to stick with what I've got at that price.
+And that is the price that just leaves me saying
+everything was fine the way it started.
+And any other price would make people say,
+no, things are not fine the way they started,
+I either want to sell X or I want to sell Y,
+and if everyone's identical,
+then everyone will want to do the same thing.
+Can you have an equilibrium where everyone wants to sell X?
+No.
+Can you have one where everyone wants to sell Y?
+No, that doesn't work.
+That's not an equilibrium, because who would you sell it to?
+Other people who also don't want it?
+No, so this is the price vector that persuades people
+to stick with what they started with, right?
+And intuitively this makes a lot of sense.
+Because intuitively this says that if people like X more,
+remember this is the original utility function here?
+So remember, high A means that you really like X.
+High B means you really like Y.
+So this says that if you have a high A,
+that if people in your society have a high A,
+then the price of X will be high.
+If people have a high B, the price of X will be low.
+Right, so if people care more about good Y,
+as indicated by a high B,
+then that means that X will be cheaper.
+Similarly, this says if the initial endowment of Y
+starts up high, what does that do to the price of X?
+There's tons of Y going around.
+Well, intuitively, first of all,
+not even looking at the equation,
+if you got an economy where there's two goods
+and there's tons of one good,
+will that good be cheap or expensive?
+Cheap, right?
+If there's tons of one good and not so much the other,
+then the good where there's lots of,
+the abundant good will be cheap.
+Just like water, a penny a gallon
+if you get it from the tap, roughly.
+Not if you buy it from the store,
+but if you buy it from the tap,
+then you're like a penny a gallon.
+Right, so there's lots of Y floating around
+that the price of X will be high relative to Y.
+And if there's lots of X floating around,
+then the price of X will be low relative to Y.
+So this equation does intuitively make sense.
+Anyway, it comes out of this problem.
+And again, what is the innovation
+of general equilibrium theory?
+The innovation is saying,
+all right, now that we know what every individual will do,
+what will society do?
+And say, well, how can you make that leap
+from what every individual will do
+to something to what society will do?
+The answer is, we make the leap by assuming
+that no one considers the effect of their behavior
+on anyone else's behavior.
+And as long as you do that, then we get an answer.
+All right, so questions about what we've done here?
+So the general equilibrium theory
+was built up on the assumption that we assume
+the market already equated us.
+Everybody start off, like, you know,
+like maximize their utilities.
+Yeah, well, certainly it assumes
+everyone maximizes their utility, yes.
+Right.
+Although, of course, in a sense, you might say,
+well, of course, everyone maximizes utility.
+What else would they do?
+Yeah.
+Because you would do it like, you know,
+so you can say, like, did Williams talk to you
+about how all utility function does
+is just state people's rankings of what they would do
+if you had choices.
+This is, it just summarizes all,
+summarizes what you would do given every possible situation.
+Yeah.
+In the formulas on the top right corner of the board,
+right, that is just like, you know,
+we want to, like, we just want to find a relationship
+between, like, price of X and price of Y,
+in case, like, with the original income, right?
+Well, but there's more going on,
+namely, like, we've added on this assumption
+that everyone optimizes ignoring what everybody else does.
+And then we just go and look,
+say, what has to happen if that's true?
+And in this problem, that's the only thing that can happen
+if that assumption is true.
+Sure, sure.
+All right.
+Okay.
+All right, now, what happens
+when we make things more interesting
+is this was a really boring market.
+In fact, this is possibly the most boring market
+of all time.
+It's the market where no one buys or sells anything.
+And you say, well, there's a lot of work
+to set up this market, and then nothing happened.
+Say, well, optimization happened.
+Universal optimization occurred.
+So, all right, you know, of course, you know,
+if you started out with a world
+where everyone had identical preferences and endowments,
+you might say, yeah, I don't think
+there's gonna be a lot of trade in any case, right?
+You might think, you know, say,
+in a more complex problem, you might think about
+what would you need for there to be trade
+in a world where everyone started off
+with identical preferences and endowments, right?
+And let's see, possibly we'll talk about that.
+at some point, but we're not scheduled for here.
+There was certain weird utility functions,
+or if they were production, then it might be.
+In any case, so let us now go and complicate
+the problem in an obvious way, namely,
+let's allow everybody to have their own taste
+and their own endowments.
+So now, every agent has his own utility function.
+So now we're going to add on an i subscript indicating
+that's agent i.
+And he can have his own one, and he can have anything he wants.
+So that's going to be equal to a sub i times log of x,
+plus b sub i times log of y.
+Notice everyone still has the same kind of utility function,
+but they could be totally different utility functions.
+One person could have an a of 0 and a b of 1.
+Another could have an a of 1 and a b of 0.
+We could have any distribution of these.
+3% of people could have 0.3 and 0.7.
+17% could have 0.67, 0.33 as the two numbers.
+So it could be anything there.
+Any of those numbers would be allowed.
+And then everyone's got their own endowments, too.
+So xi bar and yi bar.
+So every person starts out with a different amount of x and y,
+potentially.
+Could be anything.
+Could be any amount.
+So what's going to happen now?
+So now there's actually almost certain
+to be trades in equilibrium prices.
+Who's going to be generally?
+Intuitively.
+So what kinds of people are going to be selling x?
+People with relatively?
+Low a.
+Yes, well, let's start with utility functions.
+So what kinds of people are likely to be selling x?
+People who have a relatively high value of what?
+b.
+So if your a is low and your b is high,
+then you're going to be the kind of person who generally
+wants to sell x.
+And then similarly, suppose you start off
+with a, so over here.
+Which kinds of people are, relatively speaking,
+are going to want to buy x?
+High a's?
+Yeah, so over here.
+So there's xi bar and yi bar.
+So which of these two things is going to make you
+inclined to go and sell x?
+Integrate quantity value.
+Yeah, exactly.
+So you start off with a giant pile of x.
+Then you're the kind of person who's
+probably going to want to dump some x in the market.
+Who needs all this x?
+On the other hand, if you're someone who, of course,
+that's relative, because there's only two things you can have.
+But if you have a relatively big pile of x,
+relatively small pile of y, you're
+going to tend to be the kind of person
+that's going to want to sell your x in order to buy more y.
+So that's the intuition.
+So anyway, so people are actually
+going to make trades directly from prices.
+So we're no longer just looking for prices that
+eliminate these end of trade.
+What now we want to do is to find
+prices that induce aggregate consumption to equal
+aggregate endowments.
+Furthermore, since there's general equilibrium,
+we need to take full interaction between prices and consumption
+into account.
+So while no one person is considering
+the effect of their behavior on anyone else,
+still, if there's a high px, then people
+who start off with a lot of this stuff are rich.
+And that's going to affect their behavior.
+And people who start off with a small amount of x
+are going to be poor.
+And that's going to affect their behavior.
+But then that will affect the price, which
+will affect their income, which will affect their behavior,
+which will affect the price.
+And all of that is perfectly allowed in general equilibrium.
+Because all that we are ruling on in general equilibrium
+is no one is saying, how will the others respond
+if I change my conception?
+That's the question that never gets asked in general
+equilibrium.
+But all the other questions do get asked.
+Like, well, wait, how rich am I again?
+Wait, the price changed?
+Now how rich am I?
+Right now, what do I want to do?
+So it's perfectly fine for you to change your behavior
+in response to what society does.
+It's just not OK for you to think that society changes
+in response to you.
+Right?
+But isn't there a contradiction there?
+If you look closely, yes, there is a small contradiction.
+But all of this.
+And in fact, if you go and work through these results,
+you will find that when we assume that even in models
+where we assume that everyone thinks that they can't affect
+the price, normally that turns out to be wrong.
+And actually, everybody does have a little bit of influence
+over the price.
+And if we went and redid it to go and take
+account of that small thing, that would ruin everything.
+So if you were a very high level theorist,
+normally solve this just by saying,
+well, let's just assume everyone's infinitesimal,
+so that doesn't come up anymore.
+That is a solution.
+Mathematically, it's a solution.
+As to whether it is a very impressive solution
+for an economist, I said, well, all right,
+so you got rid of the small contradiction
+by assuming something is never true.
+I guess that's publishable.
+But it definitely was publishable.
+People made their careers on stuff like this, strangely.
+But to me, but.
+And again, these are not bad careers either.
+These are some very prestigious careers full of money
+and honors and all kinds of great stuff.
+In any case, but to repeat, so in general equilibrium,
+we are always allowing for people
+to go and change their behavior because society is different.
+That's fine.
+And of course, so in this model, where does society speak?
+Where do we even see the voice of society in this model?
+Prices.
+Prices, yes.
+The prices are how society speaks.
+Saying society heavily values x.
+That's what you see when there's a high price of x.
+That is the voice of society saying, society likes x a lot.
+We need x.
+Give us x.
+And you simply blow price of y.
+It's like, ah, society barely needs y.
+It's all right.
+But we don't really need it that badly.
+But what is being ruled out in general equilibrium
+is the opposite direction where individuals
+think they're changing society with their actions.
+Instead, everyone's just like, I'm just a little grain of sand.
+A humble, lowly, irrelevant person.
+So what do we need to do?
+Well, what we need to do is we want
+to add up all i equations for individual consumption of x
+as a function of prices and initial balance.
+So remember, for every single person,
+we've got an equation like this one here where this one.
+Yes, for every person here, we've
+got an equation like this.
+So for every point on x, what?
+That's too soon.
+Is that too soon?
+No, that's not too soon.
+Anyway, for everyone, we've got an equation like this.
+And then we need to impose that constraint
+that aggregate consumption equals aggregate endowments,
+which everyone remember sigma notation?
+It's a great kind of notation.
+Sigma notation, summation of all the xi's
+must be equal to the summation of all the xi bars.
+And that mathematically says that the sum
+of the consumption of all the x must
+equal the sum of all the endowments of x.
+Very simple point.
+And so that's x sub i.
+Yeah, so now we have sub i's because everyone's
+different now.
+And that would be that.
+Yeah, before it was really easy because everyone's the same.
+So we just say, well, then just multiply
+the number of people times the amount
+that any one person has.
+And that's the total amount that exists.
+But now we're not doing that anymore.
+That's a pretty simple problem.
+So we can go and work all this all through, sum everybody up.
+And we get that equation on line h
+where we have the price of x is equal to the summation of the xi
+bar or the price of x times the summation of the xi bars
+is equal to the price of x times the summation of the ai xi
+bars plus the price of y times the summation of the ai yi bars.
+And if you're wondering, wait, what happened to the b's?
+That was just a little simplification here.
+But that's perfectly fine.
+Because remember how we've assumed all along a plus b
+is 1.
+So it's always easy to get rid of the b's.
+We just go and say, well, for every b, we put in a 1 minus a.
+And then we're fine.
+And of course, for individuals, that
+means for every individual, we put in a 1 minus ai.
+1 minus ai.
+All right.
+And we solve this.
+And now we get a new result, px over py.
+Remember, px over py, that is the voice of society.
+Society speaks.
+This is how much society cares about x relative to y.
+And that is going to be equal to the summation of ai times yi
+bar all over summation of bi times xi bar.
+And again, so that last step is after doing everything,
+substituted back in to get the p back.
+That's also cool.
+Since weight plus b equals 1, we can do it either way
+based on convenience.
+All right.
+And again, notice this looks almost exactly like this.
+The only difference is we've added in heterogeneity.
+And in fact, if you just go and say,
+let's make all the a's the same, all the y's the same,
+all the b's the same, all the x the same,
+this equation here becomes that equation.
+That's a special case of this one.
+What this is saying is that to find the price of x
+and the price of y, we need to look
+at the summation of all the values, these value
+parameters that each person puts on x,
+times their initial down at y.
+And we sum all those up.
+So that's going to be like a1 y1 bar plus a2 y2 bar plus.
+All right.
+And then all of that over this thing here.
+So this says, take the b parameter for the first person,
+multiply that by his initial endowment of x.
+Take the b parameter of the second person,
+multiply that by his initial endowment of x, and so on.
+And again, intuitively, this gives us
+just the result you expect, where
+if the a's in general go up, what does this do to prices?
+First, you can look at the equation.
+Prices go up.
+Yes.
+Yes, so if the a's in general go up, prices go up.
+And that makes sense, because that's
+the preference endowment or the preference parameter for x.
+So if the a's goes up, that means
+that people care more about x, and then x gets pricier.
+Similarly, if the b's go up, then the price of x
+goes down relative to y.
+That means people care more about y.
+So x is going to get cheaper as a result.
+And similarly, if we increase the amount of y
+that everybody has, if everybody starts off with more y,
+what does that do to the price of x?
+You can just look at the equation.
+Everyone has more of this stuff.
+What does it do to that?
+Yes, everyone has more y, then the price of x
+gets more expensive.
+There's more y flooding the market, competing for x.
+And then similarly over here, if there's more x running around,
+then there's all this x that's bidding for the limited stock
+of y, and then x becomes cheaper.
+And of course, we get the same result.
+We solve for y instead of x.
+It's all the same.
+Intuitively, we have a barter market.
+So if you have a barter market, and one thing
+is market clear, has market clearing,
+what does the other thing have to have automatically?
+Market clearing.
+So if you're trading apples for oranges,
+and you've got market clearing for apples,
+you better have market clearing for oranges,
+because otherwise it makes no sense.
+Because what does it mean for there to be market clearing?
+It means that you can buy or sell as many apples
+as you want at the market price.
+But if the only thing you can buy apples with is oranges,
+that would also have to mean that you
+can buy or sell as many oranges as you want at the market
+price.
+All right, now, just some implications of this.
+So if you take a look at this log utility function,
+which you've probably seen a bunch of times,
+so what would happen to a person if they actually
+had 0x, say, or 0y?
+How bad would that be?
+What's the log of 0 again?
+1?
+No.
+The log of 1 is 0.
+What's the log of 0?
+Infinite.
+Well, almost.
+Negative infinite.
+It's negative infinite to have the log of 0
+is negative infinity.
+So if any person ever were to have 0 of something,
+that would mean it would be infinitely bad for them.
+Be terrible.
+All right, so now you're looking, all right, so fine.
+So this utility function means everyone's
+going to want to have at least a little of each good.
+That's true.
+All right.
+All right, now, if that's true that it would be infinitely bad
+to have none of one good, then now
+imagine that some people started off with none of one good.
+Why is it that the market doesn't make them give up
+everything they have or almost everything they have just
+to get a little bit of x so they don't
+have negative infinity utility?
+What's going on?
+So why does that no way out?
+So again, imagine that 90% of people start off with 0x.
+Are the 10% of people who do have some of both,
+are those people going to be able to extract almost
+everything that 90% have in general equilibrium?
+Remember the whole idea of general equilibrium,
+the fundamental assumption is that no one individual
+can change society.
+All right.
+So that means that if you go and try to offer someone
+a really crummy deal, are you going
+to be able to get them to go along with your crummy deal?
+No.
+If you make up a crummy deal, hey,
+here's a really terrible deal.
+Who wants it?
+In general equilibrium, will anyone accept your crummy deal?
+No.
+People say, why should I go and pay
+and accept your crummy deal when society offers me a better deal?
+And of course, the society in this case is just another word
+for competition.
+So even though it's true that if someone
+were to quarter the market for x,
+they would then have a stranglehold over all society.
+But if one person is trying to get
+as any way of getting a quarter of the market for x,
+that's not general equilibrium anymore.
+That is clearly a case of one individual
+trying to strategically plan against society.
+And that's not what general equilibrium is all about.
+So again, that doesn't mean that that thing couldn't happen,
+but it can't happen in a general equilibrium model.
+So general equilibrium models have competition.
+And so the fact that someone desperately needs something
+doesn't mean they actually are going to pay a lot for it.
+That all just depends upon supply and demand.
+All right, and let's see.
+I think you might actually have a homework problem.
+But it's fun enough that I will mention it right now.
+All right, so there is a passage from the integral communist
+Foucault in the 19th century, but who
+expressed a view that actually a lot of people
+have had where they say, look, here's
+the problem being a worker.
+Workers have no other way of getting income,
+and so they'll settle for anything.
+So if someone will work the same amount regardless of the wage,
+then what does their labor supply curve look like?
+Yes, vertical, exactly.
+So we've got a vertical supply curve.
+And if you were the only buyer of labor,
+and suppose this is the starvation level,
+and that's starvation.
+So if you were the only buyer of labor,
+then you very well might want to go and offer that amount.
+But then Macooning leaves the inference
+that this is what workers actually will get.
+And again, there's the whole problem here.
+Well, if there's a demand curve here,
+and you try offering them that amount,
+then you are below the intersection of supply and demand.
+And when you're below that intersection, which of the two
+things do you get?
+It's either a shortage or a surplus.
+But I can never remember which one you get.
+Which one is it when the price is too low?
+Shortage.
+Shortage, right.
+Well, minimum wage causes surpluses,
+as we know from Karger Kruger.
+Minimum wage causes surpluses.
+So another day, wage that is held above the intersection
+causes surpluses.
+A wage that is below will cause a shortage.
+And with competition, when there's a shortage,
+what do people do?
+They bid at the price.
+So this is saying that even if Macooning is perfectly
+correct about the supply curve, still he
+is drawing the wrong inference.
+As long as there's competition between employers,
+as long as they are competing with each other,
+as long as they are not acting like an executive committee
+of the bourgeoisie, but instead are independent business
+people trying to make money for themselves,
+then if the wage is down there, there's
+no other way to get it.
+If the wage is down there, employers
+are going to be thinking, well, if I can get more workers,
+I can make more money.
+But at this wage, I can't get more.
+So why don't I raise the wage and then steal workers
+from some other employers?
+And again, if you start saying, well, if you do that,
+then they'll get mad at you.
+They'll retaliate.
+Again, is that general equilibrium thinking
+that I'll go and steal some workers,
+and then the other employers will retaliate?
+That's not general equilibrium thinking.
+Again, it's conceivable that's true.
+But if you have thought that, it is not general equilibrium.
+But it is only general equilibrium
+if that has not been thought.
+If this has not been considered, if this is just off the table,
+that kind of thing would happen.
+OK, so questions.
+Questions here.
+So these are two simple examples of general equilibrium.
+And now we're going to go and generalize it further.
+Now, I could go and really torture you with this for weeks.
+But I don't want to.
+And I don't know anyone who's ever,
+well, I guess people who do it for a living,
+I guess they've profited from me torturing with it for weeks.
+Because then they go and extend the models and so on.
+But out of everyone else, I've never
+known anyone to actually get any kind of intellectual profit
+out of drawing it out.
+So instead, I'm just going to hit the high points
+and try to help you understand exactly how these models work.
+So that when economists around you are talking about them,
+you can say, oh, I understand what's going on here,
+even though I didn't bother going
+into all the details, which, of course, almost everybody
+forgets anyway.
+So better to go and teach you a small amount
+and then expect you to remember it,
+rather than a large amount that can be quickly forgotten.
+This is a very big result in educational psychology,
+is just how much material people forget.
+So in this class, I do try to teach you some math.
+But my general policy is I only teach you
+a math I would actually test you on, conceivably.
+So I won't deal with anything in addition to that.
+So I'll teach you the stuff that I think is worthwhile actually
+learning.
+And then the other stuff, if you're curious about it,
+you can, of course, do more.
+So now I just want to give you a taste of a very general general
+equilibrium model.
+So let's now go and assume that we've got i consumers.
+We already did that.
+And now let's say we got k commodities.
+So no longer do we just have two commodities.
+Now we can have any number of commodities.
+And now we start adding on some assumptions
+that sound a bit weird.
+In general, any time there's an economic model,
+a mathematical model with some weird assumptions,
+there's a reason for the weird assumption.
+If you don't have that assumption,
+you either can't solve the model,
+or the results of the model seem crazy to the theorists.
+All right, so here's their assumption.
+Commodity consumption must be non-negative.
+Well, of course, commodity consumption is non-negative.
+Of course.
+Why are people bothering to make a big deal out
+of the consumption must be non-negative?
+Because there are some theorems that they're
+going to invoke that require non-negativity.
+So they want to explicitly state that that commodity
+consumption is non-negative.
+So then no one can mathematically complain.
+They're not entitled to use the theorem.
+All right, now for the assumption,
+we'll assume that utility is strictly increasing
+in all commodities.
+So again, this u sub i of x, this
+is saying that every individual has strictly increased
+utility in every commodity.
+So that x is a vector.
+of all the commodities that exist.
+So all, what is it, all K of those commodities,
+I believe, all K commodities.
+So it's saying that utility goes up
+for consumption of every single item.
+This is actually stronger than you need.
+If you've had another class in this,
+they might have mentioned a very obscure assumption
+called local non-satiation.
+If you've never heard of that, don't worry about it.
+You'll never need to know it.
+Not for me.
+And so unless you decide to switch to another PhD program,
+you might think this means you'll never need to know it.
+But anyway, if you're curious,
+you can Google local non-satiation
+and receive the very fine points.
+But anyway, easier to do this.
+Then consumers start with endowment of commodities
+and we will just define the endowment of consumer I
+as E superscript I.
+And then six, there's a continuous market price vector, P,
+which is a vector of all the prices
+that agents read as exogenous.
+Okay.
+So now, why is it a vector P?
+So this is saying that for every commodity,
+there is one, for every commodity has a price.
+That's all I'll say.
+Okay.
+Right, and again, that's agents treated exogenous.
+What does that agents treated exogenous mean?
+It means that we're doing
+our usual general likelihood assumption.
+Every person is saying,
+that is the price that is given by society to me.
+I do not affect that price.
+That price is handed down from society.
+And all I can do is optimize with respect to that price.
+I can't go and buy or sell things
+in order to change that price.
+That price is just there like the sun.
+All right.
+It's outside of my control.
+All right.
+Then we can define general equilibrium,
+situation in which every consumer
+matches the maximize utility,
+subjecting the strength that he is not,
+that he does not consume a,
+that he's not consume a bundle that is more expensive
+than the value of what he started with.
+So again, so if you're wondering,
+so like PX, remember, so now these are vectors.
+So what does PX mean?
+PX means,
+PX means the price of good one
+times your consumption of good one,
+plus the price of good two,
+times your consumption of good two,
+plus the price of good three,
+times your consumption of good three.
+So until you get up to the price of good K,
+times your consumption of good K.
+All right.
+And if that equation seems weird, it shouldn't.
+This is exactly the same equation
+that the cash register uses
+to figure out how much money you owe
+when you buy groceries.
+Right?
+That's all that the cash register does.
+Is all right, so he has,
+the price of broccoli is three per bushel.
+He has two bushels.
+That's P1 times X1.
+Then he has three bags of cookies,
+and each bag of cookie costs $1.79.
+So now three times $1.79.
+Then he has four steaks.
+So that's going to be a quantity of four,
+and then 6.98 per steak, and so on.
+So that formula is just the same formula
+that the cash register uses.
+If you've ever been a cashier of any kind,
+that's the formula you apply
+to figure out how much money they owe you.
+It's all that's going on.
+Okay.
+And you say, well, isn't that trivial?
+It's not totally trivial,
+because of course sometimes you have formulas
+where say if you buy three,
+you know, if you buy three tents,
+then you get seven tent poles for free
+or something like that.
+And then actually, it is more complicated than that formula.
+But anyway, that's the normal formula
+for figuring out how much money somebody owes you, right?
+Everyone's familiar?
+Everyone has bought something,
+and that formula's been applied at some point?
+Okay, good.
+All right.
+So we've got that.
+So that's the X.
+And then P E I.
+So this would be the amount of money that you would get
+if you brought all your stuff
+and tried to sell it, say, and tried to sell it.
+So then it would be, well,
+here's the price of good X times the amount of X,
+the price of good one,
+times the amount of good one that I started with,
+plus the price of good two,
+times the amount of good two that I started with,
+and so on.
+So if you've ever gone to a pawn shop
+with a giant box of junk,
+and then how much money do they give you?
+Well, generally, they'll give you the price of the first good
+times the amount of the first good that you offer to sell,
+plus the price of the second good,
+times the amount of the second good
+that you offer to sell them, and so on.
+Right, especially if these are standardized items.
+This is not like, I don't know,
+what's the show my dad was watching?
+You were there, right?
+Oh, it was like the Pawn Lords or Pawn Kings?
+Pawn Stars.
+Pawn Stars, yes.
+So anyway, that show was actually not like that formula
+because there's a lot of bargaining,
+and there wasn't any fixed price for Remington revolver,
+and so on.
+But anyway, if you're going into selling
+totally standard items, then it's like that.
+Okay, so first assumption just says
+that the value of the total cost of the stuff you buy
+must be less than or equal to the total value
+of the stuff that you have to sell.
+Which again, makes perfect sense.
+You can't buy more than the stuff you buy
+can't be more expensive than the stuff you've got.
+Remember, this is a one period model,
+so there's no bargaining or anything,
+or rather, there's no borrowing.
+Anything like that.
+There's no, I will gladly pay you Tuesday
+for a hamburger today.
+This is the only day that exists,
+and you just get your hamburgers right now.
+And that's it, and there's nothing more.
+It's the end of the world.
+All right, so.
+And so that's one condition.
+So first of all, everybody, every single individual
+is maximizing his own utility,
+subject to that equation for himself personally.
+But secondly, it also needs to be true
+that aggregate consumption
+can never exceed aggregate endowments.
+So that means that the summation
+from person one to capital I,
+of all of the X vectors,
+must be less than or equal to the summation
+from person one to capital I,
+of all the endowment vectors.
+So again, and all this is saying
+is that the total amount of stuff that people consume
+must be less than or equal to the total amount that exists.
+Remember, X and E are now vectors,
+so X is a whole list of the amount of good one
+and the amount of good two,
+the amount of good three, the amount of good four,
+all those.
+And similarly, E is,
+so one of the Xs, that's the amount you're consuming,
+and then E is the amount of good one you start with,
+the amount of good two you start with,
+the amount of good three you start with.
+The summation means we're summing everybody's consumption
+and summing everyone's endowments.
+This is perfectly fine, of course,
+for some people to consume more good three
+than they started with.
+That's the whole point of moving the market
+is that some people can go and consume more
+of something than they started with,
+and other people will, of course,
+consume less of that thing than they started with.
+Yes?
+Why does it have to be just like inequalities
+because we assume there's no?
+Yes, so remember what I said,
+any time you see in mathematical economics
+you see a complexity, there's always a reason,
+and here the reason why there's inequalities
+rather than equalities is that mathematical economists
+like proving things at a more general level,
+and they don't like making assumptions.
+So if they can begin by saying,
+let's assume it's less than or equal,
+and then they can prove that it must be equal,
+they feel much better about themselves
+than if they just assume it was equal to begin with.
+And even if a non-mathematical economist says,
+well, it's obvious.
+Not obvious to me, nothing is obvious.
+Everything must be proven, nothing is obvious.
+That is the way, that is the creed of the true,
+pure mathematical economist.
+Yes, and in fact, one thing that people
+have been known to get publications for
+in mathematical economics is saying,
+you know there's a theorem that we all believe?
+I've shown a way that we can weaken an assumption
+and still prove the theorem.
+And other people may say,
+look, I'm fine with the theorem the way it is.
+But they have to say, no, no, no, no,
+I've weakened the assumption
+from strictly increasing utility
+to a local non-association,
+which is a weaker assumption logically,
+and still get the very same result.
+Isn't that fantastic?
+And you're like, I guess it's okay, but.
+Anyway, because with that,
+I mean with that if the answer is that
+you don't need to assume equality,
+and so mathematical economists would rather
+go and say less than or equal to,
+and then in the process of applying the assumptions,
+assumptions prove that it must be equal,
+which in their minds is better
+than just assuming it is equal.
+And even if it may seem, well of course,
+there's only, there's nothing else to do
+with your money but buy goods,
+then of course you're gonna spend your money on that,
+really, you're gonna spend all your money.
+Who wouldn't, why wouldn't you?
+There, that kind of reasoning is sloppy,
+and low, there's no, low status, don't do it.
+Okay, if you wanna be a mathematical economist.
+If you just wanna be a good economist
+who gets results, then you may say,
+oh, whatever, I'm too busy for that.
+But in any case, so part of what we're doing here
+is I'm just giving you a small taste
+of what it would be like to be a mathematical economist
+to see whether that's what, what is the life for you.
+All right, so maybe you'll say,
+my God, that sounds fantastic.
+You know, assuming that things are less than or equal,
+and then proving they must be exactly equal.
+Is there anything more amazing than that?
+I don't, I can't think of anything.
+Anyway, all right.
+So, now move on to sufficient conditions
+for existence of intermultiplibrium.
+Now, all of you guys remember the difference
+between necessary and sufficient conditions?
+Yes, yes.
+So, necessary conditions are ones
+where if you're missing any of them,
+then you don't get the result.
+Sufficient ones are ones where you got all of them,
+you do get the result.
+All right, so, these are, of course, very different things.
+So, you know, sometimes, you know,
+someone says something like,
+if you give a present to your mom, she'll be happy.
+All right, so is that a necessary or sufficient condition
+for your mom to be happy?
+Sufficient, right?
+So, you do this one thing, and she'll be happy.
+All right, how about if someone says,
+if you don't give her a present, she won't be happy?
+Yes, then that's necessary, right?
+Saying, look, you've got to do this,
+but that doesn't in any way say she'll be happy.
+Maybe there's a million things you have to do
+in addition to that, or she'll be unhappy, possibly.
+That leaves it open, right?
+So, that, so anyway, so necessary
+versus sufficient conditions, very important,
+and important to know what you're actually doing
+when you see an error.
+So, what we're going to do in this class,
+and we're going to go over the sufficient conditions
+for the existence of intermultiplibrium.
+So, these are not necessary conditions,
+and in fact, we're going to take some time
+to see they're not necessary.
+There are other ways to get general equilibrium
+without the assumptions we're making,
+but if we've got the assumptions we're making,
+we've got a general equilibrium, guaranteed.
+All right, and that's what we are going to do.
+All right, so why don't we go
+and take our 10-minute break right now, and then.
+All right, so continue with general equilibrium.
+All right, now, standard economic assumption, right?
+So, in economic models, do we normally
+have people's preferences changing?
+No, all right, so people's preference,
+people want what they want.
+The heart wants what it wants, so that's not going to change,
+and then in an endowment economy, do endowments change?
+Yeah, we start off with a certain amount,
+and we assume the way production,
+and we also have a certain fixed amount.
+So, if we've got fixed preferences and fixed endowments,
+well, what is it that people are going to,
+what is left to vary?
+Well, so in terms of individual behavior,
+consumption is left to vary,
+and what is it that changes consumption?
+Prices, it's prices, the prices,
+and because of the price vector P,
+so now we have a vector of prices,
+which may sound scary, but all that it means
+is it's a list of every single item with its price,
+price of every single item, so if it's K items,
+then it is a vector of K prices,
+the price of the first good, the price of the second good,
+the price of the third good, and so on.
+So, now we are going to find sufficient conditions
+for the existence of general equilibrium.
+General equilibrium might still exist,
+even if some of these conditions are not satisfied,
+but as long as they're satisfied,
+we definitely have a general equilibrium.
+All right, so the first thing, per question
+was asking towards the end,
+we can get rid of all those inequalities
+and replace them with equalities,
+because utility functions are strictly increasing.
+All right, so that's, we have proven it.
+Ah, this is very exciting, okay.
+All right, now secondly, all right,
+so this is endowment economy,
+so if we multiply all the prices through by a scalar,
+lambda, if we multiply everything through by.7,
+or a million, or whatever,
+this isn't going to change anything,
+so if P is an equilibrium price vector,
+then going, just rescaling the whole thing
+by multiplying every price through by the same amount
+is still going to be equilibrium price vector,
+which means that it is perfectly okay
+to focus on price vectors that sum to one, right,
+and again, why are they, why is that such a big point?
+The answer is, there are a bunch of theorems
+that work when the vector sums to one,
+and so there we are now, we are now buying the right
+to use those theorems for ourselves.
+Okay, so we're good there, all right.
+All right, then, the following remaining assumptions
+guarantee the existence of equilibrium.
+So first assumption, so we need to assume
+that there is a unique utility maximizing thing,
+given the prices, for everybody to do,
+for every person and for every price, right,
+so in other words, this means that there isn't
+a single person in the world who looks at the price vector
+and says, hey, there's two different things
+I don't want to do, that I don't think
+are any different between those two things.
+Instead, for every individual, there's one exact thing
+they want to do, given the prices, all right.
+So, you might remember back when in like,
+eighth grade algebra, when you're hearing
+about functions versus relations, right,
+remember a function means that for any given x,
+there's exactly one y, and a relation,
+there could be more than one y for an x, right,
+so this is basically saying that there is a function,
+that there is a utility function,
+although there's consumption function
+as a function of what the prices are,
+so you give me the prices, and there's one thing
+that I do, and one thing alone, and that's true for every.
+All right, so second assumption,
+a total demand for good k must exceed
+the total endowment for a low enough price,
+and must fall short of total endowment
+for a large enough price, so again,
+all this is saying is that for every good,
+there's a price so high that people will actually
+not want to consume all that exists,
+and there's a price so low that people
+want to consume more than exists,
+and again, that price could be.999999999999,
+that's fine, that could be the really high price,
+price could be.000000001, it'd be really low price,
+but it needs to be the case that eventually
+you get the price high or low enough
+so that people actually will want to consume
+either more than exists or less than exists.
+All right, and then last assumption.
+Yeah.
+What's the assumption in addition?
+What's that?
+What's this assumption in addition,
+I mean assumption two, what's the intention of this?
+Ah, well again, so the answer is that there are theorems
+that require this assumption, and so we are making it,
+although again, it's not such a good assumption,
+again, if you just think about it graphically,
+this is saying that, let's see here, so,
+let's see, so like this is good k,
+right, and here is the price, good k,
+and then here is the amount of good k,
+or then here's the demand for good k,
+so there's the main curve, so this is saying
+that there's a price so high, then let's see,
+what do we need here, so, let's see, so,
+so let's see here, and then I have this quantity here,
+so if there is a really large quantity over here,
+then this is saying that, what, let's see here,
+so, now like so, actually, actually, hold on,
+just one thing, yeah, that's right,
+I don't wanna actually have an intersect,
+or else I'm gonna fix it, so,
+if we have something, a demand curve like that,
+so this is saying that eventually,
+the price will get so low, that they'll wanna consume
+more than exists, right, so like if this is the amount
+that exists here, of course that's the amount that exists,
+eventually, the price will get so low
+that we wanna consume more than that amount,
+and then on the other hand, suppose that there is a
+low amount of it, saying eventually the price gets so high,
+that we actually wanna consume less than exists,
+so that's the amount, and there's the price so high
+that we wanna consume less than exists,
+yeah, so that's the idea, so it's ruling out
+extreme corner solutions, things like that,
+and again, there are complex theorems that require that.
+Okay, and then last, so, the last thing is that
+the total demand function for K is continuous in the price,
+for all prices that range from zero to one,
+so in other words, it's saying that you can't have
+demand curves that look like, say, this.
+So you're not allowed to have discontinuous demand curves
+where the price changes a little bit,
+and then your behavior has a continuous change,
+again, why would that be?
+Well, so you can imagine a society where, say,
+the number 13 is unlucky, and so, when the price gets down,
+so the price is falling, falls from 15, 14,
+and it gets to 13, oh my God, I don't wanna buy anything
+at price 13, that's very dangerous,
+and then there could be a discontinuous response,
+so it's ruling out things like that.
+All right, so we have all these assumptions,
+and now I am not going to prove anything to you,
+I'm just gonna tell you what can be proven
+by people who want to prove things.
+All right, so part of the reason why I spent six weeks
+on this is the rest of us that I had
+had some of the money involved in the proofs,
+and so they had a more hands-on attitude about proofs.
+If they were more like this right now,
+I'd be going copying my notes
+on all the boards around the room,
+going through every detail of my wonderful proof.
+I actually did have an undergraduate class
+with Gerard Dubrow, so the gentleman who got
+the Nobel Prize for some of his early work,
+so I did get to see him go and do his own proof,
+and let me tell you, it was no more entertaining
+what he did than if anyone else did it.
+He seemed very entertained by it.
+And he was like, in a way, it was touching
+to see a mathematician so in love with his own math.
+I'm saying, we have proven it,
+and it is so elegant and wonderful,
+and they're like, but isn't it really obvious?
+No, it is not obvious, no, it is wonderful and original.
+And he had a huge signal.
+Now that is just a trivial result.
+I said, well, aren't all these things trivial?
+No, they're not all trivial, no.
+The trivial ones were not proven by me at all.
+They are very, the opposite of trivial.
+They are deep.
+He clearly did not feel like he needed to impress anyone.
+He, like, I have my Nobel Prize for this.
+Anyone who does not like it.
+He was mad early, but still.
+There was a subtext, if you did not appreciate it,
+then I cannot help you.
+You are basically a barbarian.
+I meant it's a barbarian, a dumb barbarian.
+But that was what I got from it.
+There were some other people who loved it.
+I think.
+All right, in any case.
+So we have all these assumptions,
+and then you can go and prove the general eclectic results.
+All right, so how can you do them?
+All right, well, if we just go to the too good world,
+but it's too good, you know, two commodities,
+but everything else is totally general.
+Then there's a theorem that you've probably heard of.
+Ever remember the intermediate value theorem?
+Ever heard of that theorem?
+All right, so that one is generally taught
+in a good high school math class.
+And essentially it says that if it's a continuous function
+and the function can be too high and it can be too low,
+then there must be a point that's exactly right.
+That is the intermediate value theorem.
+All right, so similarly if the market clear,
+so it says if one market clears, the other has to clear.
+So if demand is continuous and it can be too high
+or too low, then at some point it must be just right.
+Very simple point.
+All right, so over here, so as long as it's continuous
+and at some point, well, at some point we want,
+at some point over here we want more than exists
+and some point over here we want less than exists,
+then there must be a point where we want to consume
+exactly what exists.
+All right, so that is a theorem that you likely
+are familiar with.
+And again, remember if there were discontinuity,
+would this still hold?
+No.
+So if there's a discontinuity, then the fact
+that it starts off too high, ends up too low,
+and then you move between them, it doesn't matter
+because if there's a discontinuity,
+then you might just skip the intersection.
+So no, the intermediate value theorem rules that out.
+Okay, now, all right, so that's something that's,
+we're like, I'm not doing the proof,
+but I think it's pretty easy to see
+what the proof would look like in this two good world.
+All right, so that's the intermediate value theorem.
+On down the K commodity world,
+there is a much fancier theorem
+that Gerard Girard originally used,
+and this is the Brouwer's fixed point theorem.
+All right, so Brouwer's a very high level mathematician,
+don't remember who he is.
+There's another one for some other proofs,
+Kakatani's fixed point theorem.
+All right, so anyway, if you're curious,
+you can go and track down the theorems.
+Once you read the theorems, then you will,
+then at least if you're anything like me,
+you'll get a sense of, wait a second,
+you just assume that economies would have
+exactly the traits they need for this theorem
+to solve the problem, didn't you?
+Of course, of course that's what they did.
+So they just reasoned backwards and say,
+well, if I can make an economy like this,
+fit the assumption of the theorem,
+the theorem could prove what I want.
+So why don't I just go and make,
+assume the economies are like this,
+and then apply the theorem and reason backwards.
+What does the economy have to be like
+for me to be able to use the theorem?
+And again, sound really smart,
+because like, he's using Brouwer's fixed point theorem
+to prove it, but it's not nearly,
+at least to me, not nearly as impressive
+when you see it was reverse engineered.
+I think I did actually not so subtly accuse
+De Broglie of just reverse engineering the result,
+and you, no, I did not, sure you did, no.
+So, anyhow, you only hear my version of the story,
+but I stayed by my Philistine version of this.
+All right, in any case, intuitively,
+what is going on with these fixed point theorems?
+So the basic idea is you want to find conditions
+under which there must be an f of x that is equal to x.
+Now, what does that mean?
+Well, so here is the way that it was explained to me
+by someone who actually could explain math well
+to non-mathematicians.
+So suppose that we have a globe here,
+and I go in and the globe contains,
+and we look at the globe, and we say,
+so are we on this globe?
+Yes.
+Well, given we're on the globe, where?
+There must be a place on that globe where we are.
+And you could even say, where on the globe is the globe?
+Right, and you take the pen, it's right there.
+See where Virginia is, and we move a little bit out,
+and we get out the microscope,
+the globe is right there on the globe.
+That's where f of x equals x.
+We go and we map the world into the globe
+to the point where the globe itself is on the globe.
+Can you see that?
+No.
+Okay, right, so well.
+So imagine I bring a globe to this room,
+and I say, show me on this globe where this globe is.
+Where it is on the map.
+Yes, yes.
+You know, like, of course, it'd be the same thing
+on a map, so I take out a map here of Virginia,
+and I say, show me on the map where we are, right?
+And then the map is in our hands, so the map is with us,
+so that pen, we can put a pen into that map
+and say that's where the map is on itself.
+Right, and the same thing with the globe.
+Now, of course, if we had a globe of Mars,
+and we said, where on this globe of Mars is the globe?
+And the answer is, it's not.
+The globe of Mars is on Earth.
+So it's the globe of Mars is not on Mars.
+That's a case where there isn't a fixed point.
+There is no place on the globe of Mars
+where our globe of Mars is.
+Because we're not on Mars, and neither is our globe.
+Right, bots?
+So, if you're saying, so what does it mean
+for there to be fixed point theorem?
+Is there something like that?
+Can you say the globe is right here on the globe,
+or this is where the map is on this map?
+And on the other hand, if you can't say that,
+if actually you say it's not on the globe,
+it's not on the map, then that, you know,
+that mathematical term, that means a fixed point
+does not exist.
+There is no fixed point here.
+All right, so that's the best explanation I've ever heard.
+So, and again, just imagine, you know,
+does anyone have, I guess we don't have a globe,
+if we had a globe here, I mean, actually,
+you could go and call Google Earth,
+and then, all right, show me where on Google Earth,
+like, we, like, this screen is,
+and again, if you get it down to the fine enough grain,
+you can actually say it's right there, right?
+I mean, imagine actually, it's like,
+you have a really big globe,
+and you're looking at Google Earth,
+so, and you keep it in the same location,
+so it actually can be photographed from space.
+Then you could actually really go to Google Earth,
+and say, see, the globe is right there on Google Earth.
+Right there.
+Right, so then you'll like, this thing here,
+on like, on Google Earth,
+that'll let you like, which shows where we are,
+is there, in Google Earth itself.
+All right, whoa.
+All right.
+All right.
+All right, so anyway, so like I said,
+the basic idea of fixed point theorems
+is we find conditions for functions
+such that there must be an f of x that's equal to x,
+and all of our assumptions have been
+very carefully reverse engineered
+to fix Brouwer's fixed point theorem,
+so QED, we got our proof.
+All right, again, if you're saying,
+well, what is the proof exactly?
+Well, I'm not gonna teach it, I'm not gonna test it,
+but you can, if you want, go and Google it,
+and you can say, okay, that's what would have improved
+if we wanted to spend a lot of time on this,
+but very few economists remember the proof,
+so I don't see where anybody went,
+but what I will say is very few actually understand
+even the intuition either,
+so I'd rather teach the intuition,
+which I think you might remember,
+than accept the proof, which I'm almost sure
+no one will remember.
+All right, now, how do you get to these fixed points?
+Well, in G theory, there's usually an assumption
+about a Walrasian auctioneer.
+You ever heard about the Walrasian auctioneer?
+So, Leon Walras, another mathematical French economist,
+who essentially proposed a mathematical model
+where there is an auctioneer
+who adjusts all the prices in society just by himself.
+He's just like one guy running around,
+fixing all the prices for everything.
+As you can imagine, there's a giant auction house,
+and he goes and adjusts all the prices
+until all the markets clear.
+All right, so, and in G theory,
+there's usually an assumption like that built in.
+So, Austrian economists tend to hate this
+because it's very unrealistic.
+There are, of course, auctioneers in stock markets
+for limited numbers of goods,
+but there's no economy in the world
+where someone meets together and fixes it,
+and we go and figure out the price of everything,
+and we go and hold an auction for everything.
+All right, are there alternatives
+to the Walrasian auctioneer?
+Of course, fortunately,
+because the Walrasian auctioneer
+is ridiculously unrealistic.
+There's other alternatives that we will talk about later on
+about where prices come from.
+If you look at the real world,
+most prices come from the seller saying,
+here's what my price is gonna be.
+So, in general, when you go and look at websites for prices,
+where did that price come from?
+The seller said, that's my price.
+So, that's very normal, but not all.
+So, on eBay, there are some things that are still like that
+when you have the buy it now option,
+but then there are other ones
+where there's an auction between buyers,
+and sometimes there's an auction
+between buyers with a reserve, right?
+And then there's other markets
+where they're more complicated than that.
+But in any case, so there's lots of,
+the real story is there's lots of different ways
+that prices get set,
+and if you want to come up with a better model,
+you probably need to look at some more facts.
+But anyway, later we'll talk about some alternatives,
+mostly after the midterm.
+So, questions about general equilibrium?
+All right, now we're gonna do something
+that I'm pretty sure I was not taught,
+but should have been.
+All right, so this is counter example.
+So, when would general equilibrium not exist
+or might not exist?
+So, I said, each of the assumptions was made for a reason.
+All right, and these are some of the more notable reasons
+why general equilibrium might not exist.
+So, what could prevent you from getting
+a general equilibrium?
+All right, so let's just go over to some of the candidates.
+All right, so how many of you guys
+have ever heard of lexicographic preferences?
+All right, good, all right, so most of you.
+So, the idea of lexicographic preferences
+is that you like, say, two goods, X and Y,
+but you like one of them infinitely more.
+So, if you lexicographically prefer X to Y,
+this means that when you're deciding between two bundles,
+the first question you ask is, which has more X?
+If they're unequal, you always choose the one with more X.
+If the amount of X is equal, however,
+then you choose the one that has more Y.
+That would be an example of lexic,
+that is the case of lexicographic preferences.
+Why lexicographic?
+Because it's like the dictionary, right?
+So, suppose there's a word like,
+like in the dictionary, like your first word is,
+say, aardvark, right?
+And then, why does that word come first?
+Well, the way that you arrange things in dictionaries,
+you first look at the first letter,
+and the one that's earliest in the alphabet,
+that goes first.
+And there's two words that have the same first letter,
+then what do you do?
+Then you look at the second letter.
+And if the second letter's the same,
+you look at the third letter.
+And so, in other words,
+so suppose there were a word like,
+azaa, it was A, Z, and then it had like 20 A's at the end.
+Would that move it up in the dictionary
+so it could possibly be before apple?
+Something like that?
+Well, it's got so many A's in it,
+shouldn't it get to go,
+shouldn't all those A's cancel out that Z,
+and it could go before apple?
+No, it does not,
+because the dictionary is organized lexicographically.
+First we only look at the first thing,
+then we only look at the second letter,
+then we only look at the third letter.
+All right, so that,
+with lexicographic preferences similarly,
+is where, first of all,
+you look at which one has more of the first thing.
+If that's the same,
+then you look at which has more of the second thing.
+That's the same,
+then you look at which has more of the third thing.
+And so, okay.
+Now, if you have lexicographic preferences,
+there is no utility function, all right?
+And this is,
+there is a theorem proving
+that with lexicographic preferences,
+you cannot express them in any normal utility function.
+But why, but intuitively, what does this mean?
+It means that there is no price
+that is sufficient to induce people
+to give up their lexicographically preferred commodity.
+Okay, so for example,
+suppose that you lexicographically prefer X to Y,
+and then the price is,
+and then the,
+so we'll say X is lexicographically preferred to Y,
+and then suppose the price of X over the price of Y
+is say equal to one million.
+Right, so the price of X is like a million times
+what the price of Y.
+Where do you still spend all your money if possible?
+X, that's right.
+Right, and what if it were like 10 to the 60?
+Right, yes, you'd still want to spend everything on X.
+The only, so,
+the saying that no matter how high the price is,
+there's no price that would actually get people
+to ever sell any X.
+All right, and then say,
+huh, well, maybe the price of X,
+so what if the price of X were just one,
+and the price of Y were just zero?
+Well, then there's still a problem there,
+because if we lexicographically prefer X to Y,
+so if we have like a price of X equals one,
+price of Y equals zero,
+so there we might say, well, maybe that'll work,
+but no, that doesn't work either,
+because if the price of Y is zero,
+and you like Y,
+just infinitely less than X,
+what will you want to do
+if the price of Y ever falls down to zero?
+Buy Y, and then sell it.
+Yes, buy, well, you don't have to,
+well, you buy it for zero.
+So you don't have to sell anything to buy free stuff.
+Right, so, the problem is,
+if the price of Y,
+if the price of X is anything less than one,
+then no one will,
+then people will sell all the Y they have to get more X,
+and if the price of X ever becomes one,
+then people want to consume an infinite amount of Y.
+Right, and as you can see,
+that is not a stable situation.
+There's no situation where,
+if people had this preference,
+where the price factor would actually make sense.
+Okay, right, and this is probably, in a way,
+a special case of a more general problem of discontinuity.
+So suppose that total demand for X
+is 90% of the endowment at a price of.7,
+and 110% of the endowment at price seven minus an epsilon,
+minus a very small amount.
+So if there's a leap in consumption at.7.
+Well, in that case, again,
+there's a problem where the price is either too high
+or too low, but because of that discontinuity,
+it's never exactly right,
+and then there's no general equilibrium.
+Right, and as I said,
+there could be a superstition saying
+that number is a bad number,
+so we don't want to ever buy that amount,
+or it could be a lucky number.
+All right, so there's a third one,
+what if demand is just not well-behaved at extreme prices?
+This could mean zero prices,
+but there's some technical problems that I won't go into.
+Another possibility,
+what if prices themselves are discontinuous?
+So let's see, in the real world,
+are prices continuous or discontinuous?
+Discontinuous.
+Discontinuous, yes.
+So has anyone ever paid a continuous price for something?
+So has anyone ever paid like pi dollars for something?
+Like anywhere like radical $2?
+No, so in general.
+So in general, what we see is the prices will go up
+by at least a penny.
+So the price may be $1.03,
+and then it goes up to at least $1.04.
+Like the only well-known price that actually varies
+by less than one penny increments is gas,
+where there's usually a.9 at the end,
+.9 pennies at the end.
+Okay, so in general,
+if prices are discontinuous,
+so they have to be in discrete one penny units,
+then it's possible that there will be excess supply
+at a price of say $1.10,
+and excess demand at a price of $1.09.
+And then market clearing,
+you need to be somewhere in the middle.
+And if you have a monetary system
+that doesn't allow for this,
+then again, there might be no general equilibrium.
+All right.
+So questions about any of these?
+All right, and then remember that standard theorems
+give you sufficient additions.
+So I can't repeat that enough times.
+I'm only giving you sufficient additions
+for general equilibrium.
+It might still exist despite
+the failure of the assumptions.
+So here is the utility function
+that almost all intermediate micro students want to use,
+which is utility equals x plus y.
+And you're gonna say,
+you remember being an intermediate micro,
+and then like, why can't it just be that?
+Why can't we do all of economics with that?
+What's wrong with this one?
+And there is actually a problem with this utility function.
+It implies something very weird.
+If that's your utility function,
+then what do you do?
+Well, let's put it this way.
+Suppose the price of x is greater than the price of y.
+Then what do you do?
+Buy, what's that?
+Buy all y.
+You only want y.
+And suppose the price of x is less than the price of y.
+Then what do you want to do?
+Buy only x.
+So this doesn't give you a normal utility function
+where you're making trade-offs.
+All that it means is that as you transition
+from the price being greater than x,
+less than, your behavior completely reverses.
+You go at like a very infinitesimal change.
+You flip from doing all one thing
+to doing all the other thing.
+All right.
+So now which assumption does this violate?
+So like, this utility function,
+which assumption does it violate?
+So we got discontinuous demand function.
+Discontinuous demand function, so it violates that.
+Now, is it still possible to get a general equilibrium
+without utility function?
+Yeah, what do you have to do?
+You just, whatever the price is lower.
+Buy all that.
+No, no, but we'll say, well, here's the thing.
+So suppose everybody has that demand function.
+Then what do you do?
+Then what do you do?
+Can you get general equilibrium
+if everyone has that demand function?
+Or rather, utility function, rather?
+Well, let's see.
+I wrote two cases on the board already.
+I might be leading the witness here to the answer.
+Yes.
+All right, suppose price of X equals the price of Y.
+Could that be an equilibrium?
+That could be.
+Everyone, if everyone had a utility function
+with the price of X equal to the price of Y,
+that everyone is at least,
+does not, that people do not want to dump all their X
+or all their Y,
+it still doesn't guarantee that people will want
+to consume exactly as much X that exists
+and exactly as much Y that exists,
+but it's possible.
+That could happen.
+Okay, so that's a case where it violates the assumption,
+but everything we're just right.
+And now, think about this.
+I mean, this one is pretty obvious.
+Suppose that in the giant world,
+one guy has a utility function
+and everybody else has normal ones.
+Can you get general equilibrium then?
+One weird person, everyone else is normal.
+What do you think's gonna happen?
+Does normal mean like log utility?
+Yeah, yeah, like any utility function
+that isn't this work bit
+where your demand functions are continuous.
+Didn't you say earlier,
+like one person can't affect the whole thing?
+Ah, yeah.
+So that's in terms of behavioral assumption,
+but this is mathematically, can it actually?
+Like, does it meet the assumptions?
+Right, and the general answer is,
+if it's just one weird person,
+you can have any weird utility function,
+and that's fine.
+You can still have general equilibrium
+as long as other people have continuous responses.
+The fact that one person
+or even 10 or 50% of the population
+has discontinuous responses,
+probably wouldn't matter at all.
+So again, just imagine that one person
+has lexicographic preferences,
+but nobody else does.
+Then what is likely to happen in general equilibrium?
+Now, this person lexicographically prefers X to Y.
+In general equilibrium, what does he do?
+Buy, sell.
+He just sells all of his Y, right?
+And other people buy it
+because they don't have lexicographic preferences,
+and then the price of X is going to be,
+well, below one, but he's got all that he can get.
+And that's the end.
+There's nothing more to do.
+It sounds still behavior.
+What's that?
+I cannot see the behavior explanation.
+I cannot see the difference
+between behavior and mathematical difference.
+Ah, well, let's see.
+How would I explain it?
+So, one is saying,
+do we have the mathematical assumptions
+to guarantee that a general equilibrium exists?
+And then another one is saying,
+let's see,
+and another one is,
+let's see, what's the right way of thinking about it?
+So, let's see.
+So, let's see.
+So, what did I say exactly?
+Just to say, if there's one weird person in the group,
+we will have GE, right?
+Yes.
+His answer is kind of saying it's because it doesn't matter for the society.
+You explain that as behavioral explanation.
+How about the mathematical explanation for that?
+Right. So, there are two totally different concepts.
+One of them is mathematically, can we prove with certainty that something will happen given the assumptions?
+And then the other one is saying, can one person change the world?
+And there's totally, totally different concepts.
+I'm not sure how else to explain it.
+Weren't you saying that GE, behaviorally, is there's no strategy?
+Yes, that's correct. And here, there's no strategy.
+The person with lexicographic preferences, he isn't thinking, I'm going to change anything.
+He's just saying, well, those are the prices, and what I'm going to do is maximize my utility by selling all my Y.
+And other people who don't have lexicographic preferences, they're going and saying, well, given that price, I'm happy.
+So, that's the idea.
+So, linear utility possibly is consistent with general equilibrium.
+And so, here's another way it could work.
+So, suppose that some people had a lexicographic preference for X over Y, and others had a lexicographic preference for Y over X.
+Again, possibly, so possibly, so that could possibly work. Let's see.
+I'm just trying to remember, does that one work?
+So, let's see.
+So, yeah, that one could actually be fine.
+So, again, suppose that half the population lexicographically prefers X to Y, half lexicographically prefers Y to X,
+and the price of X equals the price of Y, so they're both.5.
+Then all the people lexicographically prefer X to Y sell all their Y.
+All the people lexicographically prefer Y to X sell all their X.
+And then, once you've done that, you no longer want to change your behavior anymore.
+So, you just wind up swapping, so that everybody has the stuff that they value more than everything else.
+Okay, so, again, possible.
+So, questions about that?
+Questions?
+All right.
+And while we're doing this, here is one other fun one.
+So, suppose you had something like utilities equal to X squared plus Y squared.
+So, again, where there's two goods.
+So, do you remember what people want to do here?
+Remember this one?
+So, this is actually very similar.
+So, this is, let's see, let's see here.
+So, yeah, so this is actually very similar in that,
+so, let's see, let's see, so, that's not quite,
+I mean, this one is actually pretty trivial because, again, here what you want to do is just go and X is cheaper by all X and Y is cheaper by all Y.
+Let's see, there's one other one I remember.
+So, don't worry, yeah, so, we'll possibly come to that later on.
+All right.
+So, let's see.
+Ah, now we see, yeah, so, oh, now I remember what's special about this one.
+Let's see, where is it, is it special?
+Let's see.
+Oh, yeah, yeah, this is the seven.
+Ah, yes, all right, this one is fine.
+All right, so, here's the thing.
+So, with this one, suppose that the price of X were equal to the price of Y.
+Then you would be indifferent between any combination of X and Y, right?
+You could have all X, you could have all Y, you could have half and half, you wouldn't care.
+But suppose your function were that, then would you, and the price is equal, would you then be indifferent between half X and half Y?
+No.
+No.
+What would you want to do in that case?
+Specialize.
+Yes, specialize.
+You want to have either all X or all Y.
+You wouldn't even care which one as long as you only have one.
+So, that's how that utility function is different.
+Right, and again, you could have a general, you could, could have a general there,
+but the key thing is that you can no longer use the, use the theorem that I was telling you to guarantee it.
+Right, and again, so what's so important about the guarantee?
+Well, mathematicians are intellectually very risk-averse folk.
+They love it when they can have an absolute guarantee of something.
+And anything short of that really keeps them up at night.
+Right, and someone's saying, yeah, it's good enough, probably.
+No, they do not like that.
+So, mathematicians generally have a mindset, from mathematicians I know,
+but you can also sort of see it in the work of either no one, either no one knows and no one can say,
+or it's absolutely certain.
+So, either it's been proven, proven with absolute, proven with mathematical precision,
+and that case is truly and perfectly known, or you just can't say.
+Right, now, of course, in the real world, you may say, what about probability and like,
+any kind of common sense which says that there is a continuum?
+They don't like that.
+The stuff that they really like are the absolutely proven truths,
+and there is, I would say, a phobia of everything else.
+And like, so I think it's sort of a tendency to say, look, everything short of perfection is like all scum.
+It's all conjecture and opinion, and you know, so, who cares about that stuff?
+Okay.
+All right, so, questions, questions.
+All right.
+Okay.
+All right, so now we're going to go over two welfare theorems.
+And I wish we could be doing this earlier in the night when people's mathematical faculties are at their higher level,
+but, and I do actually plan my lectures to try to front load the math, but I can't always accomplish that, so, here we are.
+All right, so now you guys all remember going and proving that markets are coverage sufficient
+and you're just doing one supply and demand model, right?
+So, you may have even gone and taught this for a class.
+You've got Q, you've got P, you've got supply, or you've got demand, you've got supply,
+and then in this market equilibrium, we've maximized our coverage sufficiency, right?
+Everyone remember seeing a diagram like this?
+All right.
+Now, so, standard results with the intersection of supply and demand, total surplus maximized,
+allocation must be Pareto efficient, right?
+And remember I was talking last week about how in a highly stylized theoretical model,
+things might not be Pareto efficient?
+Well, how stylized does that look to you?
+Pretty stylized, all right?
+So, yes, so it might not be Pareto efficient.
+Okay.
+But can that diagram that we draw for undergraduates all the time actually be honestly generalized to multiple markets?
+Right? Is it okay to say, well, that's how it is for one market, all markets,
+so if all markets do that, then it's true for all markets moving on?
+Across markets?
+Yes.
+Equilibrium among markets?
+Well, no, no, no, basically you're saying, well, that's how one market works.
+So, this is how the corn market works.
+Yes, that's how, yeah, one market works.
+So, is it intellectually okay to draw that diagram and then generalize it to a world with 100 markets
+and say all the, like, the same thing, the same thing works no matter how many markets there are?
+So, that's a serious question.
+All right.
+And general equilibrium theory has an answer, which is yes, you can do that.
+It is okay.
+All right.
+So, you can generalize those easy textbook results for supply and demand to a complex general equilibrium model
+with any number of goods and actors.
+All right.
+So, there are actually two famous welfare theorems associated with this.
+The first one I'm actually going to walk you through the proof,
+and the second one I'm just going to tell you the answer.
+All right.
+So, the first welfare theorem says that under all the preceding assumptions that I've given you,
+the general equilibrium allocation is Brayton efficient, and actually, like, there's also Calgary,
+you know, also Calgary is efficient, but since it's a highly stylized theoretical setting,
+it's actually an interesting issue as to whether it's Brayton efficient.
+It's not just a trivial thing.
+All right.
+So, how do you prove this?
+All right.
+Well, there's a standard proof by contradiction.
+So, you've never heard of proof by contradiction?
+Now, the way proof by contradiction works is you want to prove A.
+So, what you do is say, well, let's just assume not A, and then let's work a reason through that,
+and then eventually, you know, if proof by contradiction works, assuming not A, you come to a contradiction,
+and if you reason correctly in all those steps, that must mean that not A was false.
+And if not A is false, what must be true?
+A.
+A. All right.
+So, that's how proof by contradiction works.
+All right.
+So, standard proof by contradiction, suppose that X is an equilibrium allocation, but X prime is Pareto superior to X.
+All right.
+So, these are the steps.
+All right.
+So, X prime must be feasible, so that means that the summation of all of the consumption vectors must still be less than
+or equal to the endowment vector, and remember, this is the summation of the new alternative consumption vectors, right,
+and your new, allegedly, Pareto superior equilibrium must actually still be feasible, and then price or non-negative.
+So, price or non-negative, when we go and multiply through the prices of all the consumption vectors,
+that must still be less than or equal to the prices times the endowment vectors, and again, remember, that,
+remember, what does that mean?
+This is just saying that the value of the stuff that you buy at the supermarket must be less than the value of the stuff
+that you sold at the supermarket, right, because it's a commodity economy, so the only place to get money is by
+selling stuff at the supermarket, right, and then we assume utility is strictly increasing consumption,
+so people always consume an amount equal to their total income, all right, and this implies that the market,
+the value of your new market basket must be less than or equal to the value of the original market basket.
+Okay.
+Great.
+But, by the definition of Pareto improvements, all consumers must weakly prefer X prime to X,
+and one must strictly prefer X prime to X.
+That's what it means for there to be a Pareto improvement.
+One person must actually like the new endowment better, and no one can like it less.
+Okay.
+So, weak preference means that X prime cannot be more affordable than X,
+so that means that PXI prime must be less than or equal to PX,
+and then strict preference requires that X prime be not affordable for at least one person,
+so for at least one person, the value of the new endowment must be greater than the value of,
+or excuse me, the value of the new consumption basket must be greater than the value of the old consumption basket, right,
+and now, if we sum these weak and strong inequalities, we get this result, which contradicts the original assumption.
+You're wondering, so what's going on here?
+The last step is the key step.
+So, suppose that X is exactly equal to 3 and Y is greater than 4.
+Alright, what can we say about X plus Y?
+Can we say that X plus Y is greater than or equal to 7?
+What can we say?
+It is strictly greater than 7, yes,
+because we're taking something that is equal to 3 and adding something on more than 4,
+so the sum of that must be more than 7.
+Okay, and that's what's going on in the last step,
+is we're adding up one thing that must exactly equal the regular thing,
+and another thing must be strictly greater than it,
+and that's how we actually wind up contradicting that original assumption for that the market value of,
+or let's see, the market value of the new consumption basket must be less than or equal to the market value of the old consumption basket.
+Because now we've got a result that the new consumption basket must have a market value greater than the old one,
+and it is a contradiction to say that it is less than or equal and that it is greater.
+So, there it is.
+Alright, so, again, if you want to work through it, you can,
+but this late hour probably isn't going to be that helpful to get all over in more great detail.
+So, this is the very famous first welfare theorem,
+which some people have actually looked at and said,
+see, this is a great vindication of markets,
+and other people, of course, have looked at it and said,
+no, if you understand what you need to make the theorem true,
+it is a great condemnation of markets.
+And then, after all the dust has settled, there's people saying,
+look, even if all these assumptions were true, it's not really that impressive,
+because an allocation where one person owns everything, is that proto-efficient?
+Sure. Alright.
+So, markets are proto-efficient.
+If you remember last week's lecture, it's even more impressive,
+because you have learned to believe that everything is proto-efficient, hopefully.
+So, then, wow, it's a theorem saying that markets are proto-efficient, just like everything.
+Wow, that's really great.
+It is not as dumb as that, because remember,
+this is actually a result of a highly stylized theoretical setting,
+where we could actually get a different result.
+And actually, you can go and prove things, like,
+if there are externalities, then the result would generally not be proto-efficient.
+You're saying, like, well, why would it not be proto-efficient?
+How in the real world could you go and solve an externality without hurting somebody?
+In the real world, you can't, right?
+Because, like, suppose everyone is polluting,
+and you go and impose a pollution tax, and that cleans up the air,
+and people's health is better.
+Still, who is almost certainly going to be harmed by that pollution tax?
+Yeah, polluters, or how about someone who pollutes a lot,
+doesn't like going outside, and is on the verge of death anyway, right?
+Or, like, they already have emphysema, so they don't care what the air quality is like.
+All right, so, in the real world, you're like,
+there's going to be someone who doesn't gain, right?
+But on a homework problem, you could easily come up with a situation where everybody gained.
+Right, so, let's suppose a homework problem where
+every single person places the same value,
+owns equal amounts of polluting,
+every single person has the same health function,
+everyone cares about the health to some degree,
+there's continuity, and that setting, then,
+is going to be really easy, actually, to say we go and impose a modest pollution tax,
+and then we go and we redistribute the tax in lump sum,
+and then everyone will be better off.
+So, that's a case where if we go and make the world,
+and we create a weird enough hypothetical,
+and again, we reverse engineer the hypothetical to make it work,
+then it's fine.
+Because remember, I didn't offer you any kind of a theorem
+that the world is always Pareto efficient last week.
+I offered you common sense observations about
+how it's really hard to compensate everybody,
+really hard to know how much to compensate people,
+and how there's really weird and sick and twisted people in the world.
+Which are all true, but that's not a theorem.
+It's just saying, look at the world with your eyes, people,
+and see what the world is really like,
+and realize you're not going to be able to get a Pareto improvement in the real world.
+All right.
+In any case, the fact that you can show that
+an economy with any number of markets that satisfies these assumptions is Pareto efficient
+is not completely trivial,
+because the problem is set up to be so clean
+that actually it might not be Pareto efficient.
+Did you have a question over there?
+I was just going to ask if anyone's ever made an effort
+to come up with a theorem of some sort,
+or if that's been like a raging debate that's been going on.
+A theorem about?
+About a Pareto efficiency, whether it's in the real world.
+I mean, I would say, I've never seen anyone go and do a theorem
+incorporating the stuff I'm talking about,
+because in the stuff I'm talking about, it's empirical.
+Yeah.
+So, I get it.
+You could go imagine saying, well, this is like the non-psychopath theorem,
+saying, assume no psychopaths, which are defined in the following way,
+and then assume that, or, you know, like,
+I suppose probably the thing that's most likely to be out there
+is a theorem saying that as the number of people increases,
+the odds that you can get a Pareto improvement go down.
+So, you know, like that.
+And that's one that would lend itself to a more mathematical treatment
+where you say, suppose everyone's preferences are normally distributed,
+and then we start off with one person.
+One person you can get Pareto improvements, two people,
+as long as their preferences are not so different, then maybe you can,
+and then if we increase the number, then, like,
+you might have a limit theorem saying as the number of people goes to infinity,
+the probability that there will be any viable Pareto improvement goes to zero.
+So, there might be something like that out there.
+But, again, my experience is mathematical economists are generally bored
+by common sense observations that invalidate big claims.
+Like, they're much more interested in very technical refinements
+within a very narrow context.
+And if you were to say, look, you know,
+you're just rearranging deck chairs on the Titanic.
+That's really good.
+You've made an enemy.
+You've made a very powerful enemy.
+But you start saying stuff like that.
+So, you know, so.
+The good news is there's just not many people who do that kind of work anymore.
+So, they're a dying breed.
+Of course, if you think this work is great, then this is bad for you.
+But, otherwise, more room for other better work.
+Okay.
+All right.
+In any case, the first Weyler theorem has been much discussed.
+You know, one complaint is to say the assumptions are wrong.
+To say, look, there's externalities.
+There's all the other problems.
+But, anyway, the ultimate complaint is to say, look, even if all these assumptions are right,
+still it might just be a really super unfair Pareto fission result.
+And what's so great about that?
+All right.
+Now, there's a lot of economists who then find hope in the second Weyler theorem, right,
+which requires some additional assumptions about utility functions, which I'm going to omit.
+Again, if you're curious, you can go and Google second Weyler theorem and see every single gory detail.
+All right.
+Well, what the second Weyler theorem says is this.
+Any Pareto fission allocation can be a general equilibrium given some initial endowments.
+So, whatever general equilibrium you want, all you have to do is have an initial redistribution phase
+at the beginning of time, and then you can allow free markets, and things will be fine.
+So, whatever result you want can be achieved through markets if you just do redistribution first.
+All right.
+Now, you say, well, what's so surprising about that?
+Well, the interpretation that many people attach to it is to say, like, you know all those Marxist
+and socialist complaints about markets and how markets are terrible?
+They're all wrong.
+It's not the markets that are terrible.
+It's the initial endowments that are terrible.
+And if we would have fixed the initial endowments, markets could give us any result you want.
+Markets could give us the most egalitarian society we can imagine.
+All we need to do is just to redistribute the endowments when we start, and then you can have the
+freest market you ever wanted, freer market that ever existed, and it'll still end up with whatever result you wanted to get.
+Okay.
+That's presuming you know how to make the distribution.
+Yeah.
+Well, again, it's just saying that that distribution, that for any endowment, for any result you want,
+there exists a redistribution that you could do that would get it for you.
+There is a way.
+It doesn't tell you what the way is, but there is a way.
+Right?
+And you can say, what's so great about that?
+Again, to a mathematician, proving existence is really important, even if they can't actually find out what it is.
+To know a solution exists.
+What is a solution?
+Well, I could never tell you that.
+That can't be calculated.
+It's like, well, then what good is it to know?
+It's good because now I can sleep at night knowing that there is a solution.
+Right?
+So, and again, just to get inside this mentality, if you're not there already,
+like to a mathematician, proving that chess has a solution is a big accomplishment,
+even though they can't tell you what the solution is.
+They say, look, it has a solution.
+The solution is either white always wins, black always wins, or there's always a stalemate.
+I don't know which of those three it is.
+But I have a theorem proving there is an answer.
+All right, so now give me time.
+I don't know if I was able to off button any of you like I said, but there's a forum that we have.
+And if you'd like to sign up for that, we do have a forum that everybody can go to.
+Yeah, yeah,, and it's free.
+Qualify to sign up and then it will have this beautiful blue signal on it on the forum.
+It's one of those things that you do on the forum.
+Like I said I am on my home clock these days.
+I think that there will be hope to find a solution.
+And I'll turn around.
+So a mathematician, a friend of mine,
+once told me a joke along the lines of,
+a mathematician is stuck in a bank vault
+with a raging out of control fire.
+He's on the verge of being burned alive.
+And then he lights a match, turns on the sink,
+throws the match in, and says,
+I've proven a solution exists.
+Yes, so, but that sink isn't enough to go and put out
+the fire, so what difference does it make?
+It made a difference to him before he was burned alive.
+I died knowing it could be solved.
+So, now, if you're wondering, so why is this theorem so great?
+So the philosophical perspective to think about
+is, imagine you're in the 1950s, where
+the main philosophical debate would be between a normal Paul
+Samuelson Keynesian liberal and a Marxist.
+This would be the main range of intellectual opinion
+that you'd be getting during that time.
+And so both of them agree that the distribution of resources
+under capitalism is terrible and something ought to be done.
+But the Marxist says, look, the problem
+is inherent in the market itself.
+We need to have communist revolution and markets
+for all time, and then have the government go and ensure
+a fair distribution forever.
+And then, if you are a Keynesian liberal economist,
+you whip out the second welfare theorem and say, wrong Marxist.
+The real story is that markets are perfectly fine.
+We just need to have massive redistribution once,
+and then the free market is actually
+going to give us just as egalitarian result as you want.
+So within that framework of those
+being the two sides that are arguing,
+it's easier to see what the second welfare theorem is
+doing.
+It's shifting the blame from the market mechanism
+to the endowment problem.
+And just saying the problem is that endowments
+were sufficiently equal, or actually, if they all
+are, to some extent, they must be unequal in the right way.
+So in particular, so if there are some people, for example,
+who are, if there's someone who, I don't know what it could be,
+someone who is just super low skilled.
+Well, in that case, just equalizing
+the regular physical commodities is not actually
+going to equalize his life prospects, right?
+Because suppose there's Bill Gates,
+and then there's a guy who has $1 million for Bill Gates'
+guilt.
+So will it suffice just to go and take Bill Gates'
+current possessions and then equalize them,
+and then make sure that Bill Gates will
+have no more than this guy?
+Will that do it?
+What's going to happen?
+Imagine you take all of Bill Gates' stuff
+and give it to the guy who's not very skilled.
+Does that mean, what is almost certainly going
+to happen within a few hours?
+Bill Gates is going to earn some income, which
+will very quickly allow him to start gaining.
+And if he works hard enough, he'll be able to regain.
+So actually, what you really need
+is not even just to equalize the initial endowments.
+You need to equalize the ownership of labor and skill,
+which means you would, like strictly speaking,
+the second buffer theorem with production
+would require that low-skilled people would
+get to own Bill Gates, that Bill Gates would not
+automatically get 100% ownership of Bill Gates,
+but rather other people would get to own shares in him.
+And then similarly, he could have said, well,
+we'll compensate you by giving you some shares
+and some janitors.
+So can't I just be a free man?
+No, because that's inconsistent with getting
+equal life prospects for everybody,
+because you are of super high skills,
+and other people don't.
+So the second buffer theorem, though people often
+think of it as just a matter of we just sort of equalize
+the physical stuff once.
+But it goes way beyond that, because it
+requires an equalization of really everything
+in order to get that result.
+All right.
+So it sounds like Marxism has the win.
+Yes.
+Right, that did.
+Well, if you think about it, Marxism is saying, look,
+we need to also equalize labor, by saying that some people,
+by saying that, no, you don't just get to go and own
+your own labor.
+We all are part of a community, and you
+have to labor for the community.
+Yeah.
+All right.
+Now, if you're wondering, so what does it really show?
+Well, there are institutions that would actually
+be self-reversing in a way that the second welfare theorem
+shows markets are not.
+So think about democracy, where we
+have two wolves and a sheep voting over lunch.
+Classic case.
+All right, so you might say, well, look,
+here's what we'll do.
+So we don't like the democratic outcome.
+Let's just go and take most of the wolves' assets
+and just give them to the sheep, and that'll solve the problem,
+right?
+So every time there's an election,
+and the wolves keep voting to say
+the sheep has to do whatever we say,
+and the sheep gets outvoted again and again and again,
+and says the problem is democracy,
+you say, no, let's just go and take most of the wolves' stuff
+and give it to the sheep, and then that'll be fine, right?
+And the answer is, no, that won't be fine.
+Suppose you expropriate the wolves,
+give everything they own to the sheep,
+and then you have another election.
+What are the wolves going to immediately vote to do?
+Take all their stuff back.
+Give back what you just took.
+So that is a case where the institution of democracy
+actually is not amenable to simply changing
+the endowments of assets, unless, of course,
+you count the votes themselves as assets.
+You'd have to go to the pipes.
+To most people, that is, by definition, not democracy
+anymore, if you can actually say the wolves have
+to give up some of their votes to the sheep,
+or parts of their votes.
+So that's a case where the institution of democracy itself
+will reverse what you try to do in order to fix it.
+And what the second law of the theorem says
+is that markets are not that way.
+If you do a sufficiently extreme redistribution once,
+it won't reverse itself.
+Now, of course, in the real world,
+the idea of people who like the second law of the theorem
+imagine there's going to be something
+like monthly redistribution, monthly transfer payments,
+and redistributive taxes, and stuff like that.
+But the theorem itself is really just a once and for all thing.
+If you're wondering, why in the real world
+don't we just do once and for all?
+Again, probably four reasons.
+We'll tell you the kind of reasons
+we'll talk about after the midterm, namely,
+some of the people realize that a lot of people who are poor,
+if you did give them one giant lump sum,
+they would go and immediately blow
+it all on the lottery, or racetrack, or alcohol.
+And then, once again, you'd be back to a very unequal world.
+In general, I hate documentaries.
+I find them very boring, and the plots are bad.
+But one of my very favorite documentaries,
+which violates this, there's actually
+a documentary where they just gave $100,000 cash
+to a homeless guy, and then followed him around
+to see what he did.
+And he blew through that money in a matter of maybe two months.
+And he spent essentially none of it
+on any of his long-term plans.
+Like he said, well, my teeth are rotting out of my mouth,
+and they were.
+And he said, so what I'm going to do
+is I know if I just go down to Mexico for $2,000,
+I can get all my teeth fixed, and this is really
+a horrible problem.
+He blew through all that money before he got even
+thought about buying a bus ticket to get to Mexico.
+None of that happened.
+And actually, a lot of what he spent the money on
+was on gifts, and not just to poor other homeless people.
+He would just go and just see someone on the street who
+was clearly doing fine.
+He said, I want to buy that guy a car,
+and all kinds of weird stuff.
+But anyway, I looked at that and said, wow,
+that's a pretty interesting movie anyway.
+I get to say, well, on the one hand,
+you might say, well, if you'd spent it prudently,
+that wouldn't be a movie.
+You can still get a movie out of that.
+That'd still be interesting.
+In any case, how many times do you
+think that they ran this experiment?
+How many $100,000 in cash did they give to homeless people
+do you think the guys had before they finally
+came up with a story that was worth filming?
+I bet they only did it once.
+So I don't think they were just going and trying it
+over and over until finally they found a train wreck.
+I think they found a train wreck the first time.
+Do you remember the night that doctor did it?
+I did blog it.
+So if you just go to Econlog and just
+Google homeless and lined by cash or something like that.
+Yeah, I just Googled it.
+Reversal of fortune?
+Is that how I'm familiar?
+Yeah, that's it.
+Yep, reversal of fortune.
+Reversal of reversal.
+All right.
+So the second law of the theorem,
+very important if it is a debate between the liberal
+comments of the 1950s and the Marxist economists.
+Of course, if you're someone that is just
+sympathetic to market distribution of income anyway,
+then you may say, well, I don't see what the big deal is.
+Or if you're also someone who knows anything
+about the history of inequality and says,
+look, the main inequalities are caused by governments going
+and looting and enslaving the rest of the population.
+Get rid of that, and the objectionable inequality is
+gone.
+Or if you are familiar with the current global distribution
+income, the single main determinant
+of your income in the modern world
+is which country you happen to be born in.
+And why is that?
+Because of immigration restrictions, of course.
+Because all you really need to do in this world,
+if you are an able-bodied adult, is
+to go and get steers passes to rich country
+and get a job shedding shoes.
+And you are no longer anywhere near absolute poverty
+as it's globally defined.
+Why doesn't this happen?
+Because it's illegal.
+How can this be with all the illegal immigration?
+The amount of illegal immigration
+is a pittance compared to the amount that
+would happen if it were legal.
+So if you say there's like 11 million illegal immigrants
+currently in the US, so anyone can come,
+how many do you think would be here if anybody could come?
+Well, there's a lot of estimates,
+but generally in the hundreds of millions,
+saying that the laws that exist, whatever you think about them,
+are way over 90% effective in preventing immigration.
+OK, so questions, questions.
+All right, so that's the first and second level of theorems.
+All right, now moving on to something more fun stuff.
+All right, so Aaron DeBrow contingent claims markets.
+So general equilibrium seems pretty general
+because you've got a model that fits
+the economy with any number of people, any number of goods.
+So that sounds like a big deal.
+But Aaron DeBrow noticed that it's actually way more general
+than it seems on the surface because general equilibrium
+can handle intertemporal exchange.
+It can handle a trade of dollars today for dollars
+and 20 years ago, for bananas today,
+for squashes in three minutes.
+All of these intertemporal trades can be handled.
+All you need to do is take the model
+and then say let's define good k at time t
+as being a different good than good k at time t plus 1.
+So let's just go and multiply all the physical goods
+by all the possible times in which those goods could exist
+and then rescale the model so that no longer
+is the number of goods k.
+It's equal to k times the number of possible time periods.
+So in other words, instead of trading current goods,
+you'd be trading slips of paper with promises
+to deliver any good at any time period.
+And now we've got intertemporal markets covered.
+So I could go and see actually I wrote these earlier.
+So I could give you a piece of paper
+that is good for a bundle of bananas in 2018
+and I could sell this to you.
+Now obviously, I can't sell you 2018 bananas right now
+in a physical sense.
+I can't go and say here are some 2018 bananas.
+If I handed you some bananas, right now
+they wouldn't be 2018 bananas.
+They'd be 2017 bananas.
+But I could give you a piece of paper, which is good for a bushel
+of bananas in 2018.
+And there's a certain amount of money
+if you're willing to pay me for that.
+Furthermore, general equilibrium can
+handle an arbitrary amount of uncertainty.
+So think about good k if x happens
+as being a different good than if not x happens.
+And actually, we can go and list every possible event,
+every possible good, multiply those two things together,
+and then we have a new number of goods.
+And we could do it number of physical goods
+times number of time periods times number
+of states of the world.
+And then that could come up to some enormous number
+when you multiply those three variables together and say
+that's the number of goods.
+And then plug that into Arrow to Brow.
+So I can have an endowment of bananas in 2018
+if average temperatures exceed 80 degrees.
+And then I can have another piece of paper
+that's good for those bananas if average temperatures
+are less than 80 degrees.
+And then we could go and sell all these little slips
+of paper, good under certain conditions,
+otherwise non-joy.
+When you have a coupon saying only good on these dates,
+only good with the purchase of a hamburger,
+so you've seen coupons like that.
+So again, you can imagine going and auctioning off
+all kinds of slips of paper, good for different commodities
+at different times under different circumstances.
+And in fact, if a piece of paper represents
+an unconditional good, then I could
+go and separate the piece of paper
+into 1,000 different regions, cut them all up
+with a pair of scissors, and then I
+could sell each one for, of course,
+much less than the value of the good under all conditions.
+So anyway, the idea is that in both cases,
+the complex problem is isomorphic
+to the standard problem.
+It's mathematically identical.
+So on the surface, it looks different.
+But when you really think about it,
+there's no fundamental difference
+between the complex problem and the simple problem.
+And therefore, all the standard results go through.
+All right, now, I would say that none of this
+would impress me if it weren't for an incredible application
+of this idea, which is the idea of the betting market.
+Right here at George Mason, we have
+one of the world's most prominent scholars
+on betting markets.
+That's Robin Hanson.
+So he really was one of the earliest people
+to talk about the ideas of betting markets.
+He's been involved in some of the key experiments
+with betting markets.
+The idea of a betting market is that I could actually
+go and say, look, here is a asset which
+will pay $1 if Donald Trump wins re-election.
+And then we can go and sell it.
+And we can look at that market price.
+And we can then go and use that market price
+to estimate what is the actual market
+estimate of the probability of this event happening.
+And we can do this for anything.
+We could go and have all kinds of submarkets.
+There is, so what is it?
+There's the price of this asset.
+So it says this pays $1 if Donald Trump wins,
+if he goes and kills more than 1,000 people in wars.
+And there's another asset.
+This is the price of $1 if he gets re-elected,
+if he kills less than or equal to 1,000 people.
+And we could have both these assets circulating.
+We could have thousands of assets circulating.
+All with very precise conditions of a payoff.
+And we can go and do a little bit of math
+to use all this to get a market estimate of what people
+actually think.
+Now, of course, the fact that you get a market estimate
+doesn't mean the market estimate is good.
+Could be the markets are run by idiots.
+But if you talk to Robin or read some of his research,
+there is a big literature to try to see
+how good are betting markets as actual predictors
+of future events.
+And the answer is, I guess there's two answers.
+One is, they're not that great.
+Second of all, they're better than anything else.
+So they are the least bad method of predicting future events.
+And how good are they?
+There's all kinds of weird results out there.
+Like, so betting markets for, well actually,
+so this is actually, like, commodities markets
+for oranges, which are essentially a betting
+market on the price of oranges.
+These predict the weather in Florida
+above and beyond all meteorological forecasts.
+So you could know everything meteorologists
+have to say about the weather in Florida.
+And then you go and you get a prediction of the weather.
+And then you go and you look at the market price.
+And of course, with good weather,
+you expect there to be low prices of oranges.
+With bad prices, you expect there
+to be high prices of oranges in Florida.
+Bad Florida weather, that is.
+And it gives you additional predictive value there.
+So looking at that commodity market,
+that tells you more than all the meteorologists know.
+Weird.
+And many other experiments along these lines,
+all coming down to if you are limited to information
+that you actually possess, that human beings have,
+and you want to go and make a prediction,
+you can only have one piece of information,
+betting markets are the best thing you can get.
+Now, broadband is very famously associated with not just
+betting markets, but the terrorism betting market.
+Right, yes, there was.
+It was not, of course, called the terrorism betting market.
+And the betting market was not only about terrorism.
+But it was about terrorism.
+Now, if you talk to Robin, he will dispute that last claim
+and with the following argument.
+He said, look, a terrorism betting market
+would mean that we were betting on specific terrorist attacks.
+But we weren't doing that.
+We were only betting on things like overall terrorist
+fatalities in a year.
+That's not a terrorism betting market, is it?
+This is the case where I tell Robin, you are a genius,
+but you don't understand any normal human being.
+To any normal human being, of course, your distinction
+makes no difference at all if human lives are being bet on,
+and whether it's a specific event or an aggregate
+or whatever, it doesn't matter.
+That's a terrorism betting market,
+and it's offensive to them.
+Sometimes Robin goes, OK.
+And sometimes he's like, I don't see that.
+Well, I don't know.
+Do you have to go and find some normal people
+and talk to them to see what they'll say?
+Because they will say this.
+You can bet on it.
+But anyway, so he was part of some betting markets
+where you bet on the total number of fatalities
+from terrorism in a year.
+Now, what's the point of this supposed to be?
+Well, first of all, to get an estimate
+of how bad terrorism is going to be,
+and then furthermore, as I was suggesting,
+you can go and create submarkets to try to find out,
+is a government policy going to make terrorism better or worse?
+So you could say terrorism fatalities,
+if we invade Iraq in 2003, terrorism fatalities
+if we don't invade Iraq in 2003, and do a little bit of math,
+and then you could actually come up with a market estimate
+about whether a given course of action
+is actually going to be an effective way of dealing
+with the problem or counterproductive or have no
+effect.
+I get it.
+It's like if you were actually a terrorist,
+it would make a lot of sense to get on this market.
+Absolutely.
+So that was one of the main reasons
+why this was shut down in two days.
+However, as you might guess, there
+were very smart people involved who
+thought of that and 1,000 other objections,
+and they worked it all into the market in order to deal with it.
+There were many things they did in order to avoid this problem.
+First of all, to participate in the terrorism betting market,
+you had to be registered with the CIA under your real name,
+or you could never collect any money.
+All right.
+So what this meant is if you bet on terrorism
+and you made a ton of money, while you would be paid,
+there would be a very thorough investigation of you
+to see whether you would possibly
+have anything to do with it.
+Interestingly enough, after the 9-11 attacks,
+part of what the 9-11 Commission did
+was to look into whether any investment strategies appeared
+to be based on prior knowledge of the event.
+and in all the world they found no evidence of this.
+They did find one company that had bought a lot,
+that had shorted United stock very suspiciously,
+but they had also bought American Airlines stock
+at the same time.
+So if they knew about the plot,
+they only knew half the plot and they really botched it.
+It was like, man, what were the odds
+that I would have inside information
+about only half the plot and then I would go
+and just the other half of the plot
+would turn around to exactly upset
+my brilliant betting strategy.
+Man, I'm already terrible.
+So anyway, that's one thing is that
+in order to participate in the market,
+you had to expose yourself to very clear scrutiny.
+So I mean, actually, once you start thinking about that way,
+if you really wanted to go and make money off of terrorism,
+what would be some much better investments to make
+than going and registering with this obscure CIA market
+where they know exactly who you are?
+It would be a much more anonymous way
+of profiting from terrorism.
+Don't do this.
+You won't get away with it either,
+but what would be a less stupid way of trying to do it?
+Yes.
+Yes, how about like the regular old style?
+And like what are some ways,
+so like what are some of the,
+what investments you might want to do?
+Like you just said, shorting.
+Yeah, short the companies that are gonna be hurt
+or be better yet do a really leveraged one
+like short reinsurance companies,
+short the companies that sell insurance
+to the insurance companies that are gonna be ruined
+by this stuff, would otherwise be ruined by this stuff.
+Yeah, that kind of thing.
+So you know, you just want to go and decide,
+I'm just a normal guy, short reinsurance companies.
+Is it a crime to think that reinsurance companies
+are gonna go down the drain?
+So I remember in the movie, The Big Short,
+did they actually short reinsurance companies?
+I can't remember anymore.
+I mean, I saw it like two months ago,
+but I don't remember exactly what they did.
+So yeah, I mean, I think they actually,
+I think they actually went to places like Lloyd's of London
+and just made new assets.
+All right, so yeah, that would be kind of suspicious.
+I just want a bed on this building getting blown up.
+I mean, what are the odds it would be tomorrow?
+It's suspicious.
+So then there was, so that was only one
+of the obvious things.
+Now another check was that there's a maximum bed
+of about $100.
+All right, so in order for you to think
+this is incentivizing terrorism,
+you really would have to imagine a terrorist saying,
+well, I wasn't gonna do it,
+but if I can make 100 bucks off it,
+that changes everything.
+So it does seem like you need to have
+a pretty extreme elasticity,
+especially with a suicide bomber.
+So well, if I can leave another 100 bucks to my family,
+then it's worth it, otherwise for that.
+So that would seem to be pretty hard to believe.
+Now that does raise a better question,
+which is, do the markets still work well
+when the stakes are so limited?
+And there's a lot of experimental work on this,
+finding that while they don't work quite as well,
+they still work quite well.
+Just having even modest cash sums
+seems to make a difference
+and to give you much more accurate predictions
+of what's going on.
+All right, and the betting markets have applied
+to lots of different cases.
+So they've been used for internal markets,
+things like, I think Hewlett Packard for a while
+had an internal market where their employees could bet
+on which products were gonna be successful.
+So which divisions would be profitable, things like this.
+So Robin has two really big ideas,
+one huge and one ginormous
+for how to leverage betting markets.
+So he has one piece, I think in Forbes called,
+we should set up a fire the CEO market.
+And what this says is when you write the corporate charter
+for your business, you set up a betting market
+in two things.
+First of all, the value of the company stock
+if the current CEO does not get fired,
+and then the value of the company stock
+if he does get fired.
+And the corporate charter says,
+if that second value ever exceeds the first,
+he is automatically fired.
+It just is a matter of rule.
+Is there a way to corner the betting markets?
+Well, in theory, of course, there always is.
+So yes, the CEO could just try and go and try to buy it,
+but remember, anytime that there is an eventual realization
+of what happens in the world,
+then you can just go,
+especially as long as they're short selling,
+you can just go and sell it short
+and you can make a ton of money off of that,
+or in principle, you can make an infinite amount.
+So if the CEO is just trying to go
+and artificially inflate his price,
+but you're allowed to go and sell that stock short,
+you can just go and create a billion dollars worth of that
+and say either buy the billion dollars of it, CEO,
+or the price is going to become realistic again.
+All right, so anyway, that was the idea,
+was to go and leverage betting markets
+to go and tell companies when it's time
+to fire the CEO and try again.
+So that is a huge idea.
+He also has a proposal called Futurarchy
+to turn the citizen into a new system of government,
+which if you take my public choice class,
+you can learn more about,
+or of course you can talk about it, talk about it with him.
+He actually has an entire piece
+in the journal Political Philosophy,
+which is a great piece for this journal.
+It's a very unusual piece,
+just says, here's my proposal for a new system of government,
+here are 40 objections, and here's why all 40 are wrong.
+For each one, objection, answer, objection, answer,
+just go on and on, 40 of these,
+and there's no good argument against my bold plan
+for a new system of government.
+All right, I think it's also fair to say
+that Futurarchy is the only new idea
+for a system of government for many decades,
+possibly centuries, actually.
+So what other new forms of government
+have been proposed in the last 100 years?
+I mean, I'm kind of tempted to say,
+like Marxist dictatorship is new,
+but it's not that new, really.
+I mean, it's very similar to a lot of other things
+that exist earlier, does have some differences,
+but it's new enough to really count.
+Whereas, whatever you say about
+having betting markets rule the world, it's new, right?
+There's nothing like it out there,
+nothing even remotely like this, it's so weird.
+All right, okay, so, in any case,
+we'll finish up with this next week,
+but if you find this idea fascinating,
+it does come right out of Erich Dobroff,
+Erich Dobroff and Indian Claim Markets.
+So this is a legitimate case of a seemingly
+totally irrelevant piece of mathematical reasoning
+yielding some very great fruit.
+And I will say that whenever I actually want news
+about anything, my policy is I don't read headlines,
+which I find very unaffordable,
+I'll look at betting markets.
+And betting markets say whether something is really news
+or whether it's actually just a continuation
+of expected trends.
+Cool, all right, so we'll continue next week.

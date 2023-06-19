@@ -1,0 +1,7 @@
+psycopg
+psycopg_pool
+openai
+langchain
+pydub
+unstructured
+tiktoken

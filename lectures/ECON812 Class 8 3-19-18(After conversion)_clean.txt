@@ -1,0 +1,3070 @@
+But it has a lot of absurd implications,
+such as everyone would be happy to take a one
+in a trillion gamble of getting a quadrillion dollars,
+rather than get $500 for sure.
+And almost no one wants deals like that.
+I mean, when the numbers get that big,
+it's a little confusing.
+But you can see how many people would
+want a one in 1,000 chance of a million dollars,
+rather than, say, $500 for sure.
+So it seems quite unlikely.
+So we just have paper towel.
+You can get that.
+Can we get rid of this?
+It'll work, I promise.
+Oh, all right.
+Thank you.
+Hold on.
+We're going to do this one.
+Oh, great.
+All right.
+So anyway, expected value maximization
+rejected for these obviously absurd conclusions.
+And so then economists normally switch over
+to the expected utility theory, which many people misinterpret
+as being the same thing.
+But it's totally not.
+What's the big difference?
+The big difference is that with expected utility theory,
+we give everyone a utility of wealth function,
+such as utilities equal to the square root of wealth.
+And then people maximize the expected value of that.
+You'll maximize the expected value of that.
+And this is a way where you can easily
+build in both risk aversion and risk preferences
+we're going to see.
+The procedure for expected utility theory.
+Step one, you assign numerical waste outcomes via
+an expected utility function.
+Then linearly weight outcomes by the probability.
+So it's a linear weight.
+What else can you do?
+In principle, you could go and weight everything
+by the square of the probability.
+Well, the square root of the probability.
+These are all logically possible ways of doing it, right?
+Still, you say, yeah, I just go and do
+whatever has the highest value of the square
+of the probability times utility function.
+But that's not how expected utility theory works.
+And then you just choose whatever gamble
+has the highest linearly weighted expected outcome.
+So like I said, if we have this function,
+and you've got either a 50% chance of $10,000,
+a 50% chance of zero, or 2,000 with certainty,
+all that we do is go and do 0.5 times the square root of 10,000
+plus 0.5 times the square root of zero,
+and compare that to the 1 times the square root of 2,000.
+And why 1 times the square root of 2,000?
+Because the probability of that thing happening is 1.
+Now, you might remember back when
+you were learning basic utility theory,
+and you heard that basic utility theory
+is invariant up to any monotonic transformation.
+So what that means is that for any regular utility function,
+you're always going to have to square it.
+You would cube it.
+You would take the square root.
+And it gives you exactly the same answer regardless.
+Remember when you start off with a Cobb-Douglas function,
+and then you take the log of it, and then it
+turns into this other thing that looks very different?
+And that's perfectly fine, because the log function
+is monotonic.
+Whatever number was higher before you logged it
+is still higher after you logged it.
+Number six?
+Vaguely?
+Vaguely?
+All right.
+Now, expected utility theory is not like that.
+Expected utility theory, if you square it
+or take the square root, it changes the answer,
+which means that with expected utility theory,
+there's extra information contained within that utility
+function.
+And all that you're allowed to do
+to expect utility functions, you're
+allowed to multiply them by a constant,
+and you're allowed to add a constant.
+Those are perfectly fine.
+And there is a technical term.
+This is called an affine transformation.
+But don't worry about it.
+The main thing to know is that expected utility functions
+have extra information packed into them.
+And so you're not mathematically allowed
+to just square them or take the square root
+and assume the answer will be the same.
+In fact, that assumption would be wrong.
+Now, so there are some implications
+of expected utility theory that seem
+pretty obvious and trivial, given the axioms.
+And yet, if you remember what human beings are actually
+like, and remember those creatures, human beings,
+you may still feel like one after all this economics.
+Or maybe you don't.
+Maybe you now feel like you are superior
+to regular human beings.
+But either way, important to remember
+that it's supposed to be a theory about them.
+So if you remember these things, you'll
+realize that these are actually problems.
+So one implication is the compounding one,
+which says that you'll be indifferent between a 50%
+chance of a 50% chance of something
+and a 25% chance of something.
+And you say, well, everyone is like that, aren't they?
+No.
+Have you ever talked to a toddler?
+Toddlers will sometimes, they won't
+want to go and roll all the dice at once.
+They'll want to first roll one, and then they, OK,
+now I'm halfway there.
+And then they want to roll the other one.
+And you're like, what's the difference?
+And they're like, well, I can't stand
+to have it all determined at once.
+It's too stressful.
+You're like, it doesn't matter.
+It's 25% either way.
+I don't need to hear that.
+Just give me, I'm going to roll one die at a time.
+That's the only way I feel safe doing this.
+I mean, it just seems like only kids would do this.
+I've seen adults do the same way about it.
+So if you think about this, if you're
+at a casino in Las Vegas, can you
+imagine someone flipping the cards over one at a time
+instead of all at once?
+That is a violation of compounding.
+That's one where somehow they get
+a weird sense of insurance out of this metaphysically
+nonsensical procedure.
+And but here's the thing.
+If human beings act in a metaphysically nonsensical way,
+then the model has got to account for that.
+It's got to, yeah, well, the world can't have a contradiction,
+but a person can contradict himself.
+Perfectly fine.
+Puzzle, like a human being being contradicted.
+Now another implication.
+This is one that is very important in the real world.
+If you're selling insurance or if you
+are trying to fear monger the population into voting for you,
+there's the linear probabilities.
+So with expected utility theory, a 1% chance of something
+is just a little bit less, if it's a bad outcome.
+Say a 1% chance of a bad outcome is a little bit worse
+than a 2%, which is in turn just a little bit better.
+And then in turn, so wait, hold on, this is a bad outcome.
+So a 2% chance of a bad outcome is just a little bit worse
+than a 1%, which in turn is a little bit worse.
+OK, so bad outcome.
+So 2%, this is worse, a little bit worse,
+and then this is best.
+But here's the thing.
+So with expected utility theory, this is linear.
+So moving from here to here should psychologically
+be the same as moving from there to there.
+Going from 2% to 1% is exactly the same as a move from 1%
+to 0%.
+And yet, if you are selling any kind of insurance product
+to people, it is standard to try to say,
+you are guaranteed this cannot happen anymore,
+so you're going to stop worrying about it.
+And that seems a lot more rhetorically persuasive
+to people than saying, you know that 2% risk you face?
+After this, we'll only get 1% risk.
+But you're telling me there's a chance.
+Yes.
+Yeah, yeah, as long as there's a chance.
+You're telling me there's a chance.
+Now, but think about it a little bit more.
+You say, but wait a second, that's
+wrong because there's a chance the insurance company goes
+bankrupt and doesn't pay me.
+There's a chance that they rule that it doesn't really
+count as the thing that I would think it would count as.
+And so again, I don't get paid.
+So you haven't really given me assurance, like a certainty
+at all.
+But if you are selling the insurance,
+don't bring up that stuff.
+Instead, just bring up, there'll be no chance.
+You're totally safe.
+Totally safe.
+And again, if you are going and trying
+to beer monger with a group of voters, what do you do?
+You just say, look, we don't want the smoking gun
+to be a mushroom cloud.
+What probability here?
+Look, you just don't want that to happen at all.
+And this will vote for us, and it's zero.
+So everything's fine here.
+Now, you could question the empirics and say,
+it's not really zero.
+In any case, just the movement, like,
+why is it so important to move it to zero
+rather than one in a trillion?
+It's almost the same thing, right?
+You could live a million years, and you'll probably never
+see a one in a trillion probability occur.
+So why is zero so much discreetly better than one
+in a trillion for people?
+And yet, psychologically, it seems
+that people are this way.
+And even for seemingly pretty trivial things,
+there's no chance you'll miss lunch if you do this.
+How bad is that?
+I've missed lunches before.
+I survived.
+Sometimes I barely even noticed until a few hours later.
+But nevertheless, this putting great weight
+upon certainties or zeros and treating those
+as being different in kind from movements
+within the one non-zero, non-one probability of another,
+so the speculative theory says that won't happen.
+And yet, it seems like in the real world,
+people do think this way a lot.
+All right.
+So now this is saying that you value $1,000 100 times as much
+as 10.
+It's the probabilities that matter linearly.
+So the rewards totally can matter non-linearly,
+but not the probabilities.
+And that's what the inverse of the equation is.
+All right.
+So any questions?
+Questions?
+All right.
+So let's now do rational interpretations
+in a river of generality.
+Symmetric information.
+Many of these models you may have heard before,
+but usually they are not grouped together
+as symmetric information.
+It's common to group all the asymmetric information
+together, but not the symmetric information together.
+But it's worth thinking about it as,
+that's why I do cluster them, that there
+is a whole area of different models of information
+where it is symmetric, where everyone is
+in the same boat of ignorance.
+Now, back in week one, seven weeks ago,
+I believe that it's been that long.
+All right, we went over two different versions
+of probability.
+And what are those?
+Objective and subjective.
+That's right.
+All right, and subjective is much more generally applicable
+than objective.
+Subjective, you can have a subjective probability
+about anything.
+Things that are unique, things that have never occurred,
+you can have subjective probabilities for those.
+Objective probability, on the other hand,
+is based upon observed frequency.
+So it's never happened.
+Then all you can say is 0 out of 0 times as it occurred.
+All right, so undefined.
+Now, the problem, as we said, is that subjective probabilities
+have no necessary connection to the real world at all.
+And this seems weird, because it does
+look like there's some connection between the way
+the world really is and what people think.
+Like, normally, if an extra country is formed,
+then people start believing that country exists.
+Or if there is mass hunger in the street,
+people switch their view that there is now
+mass hunger in the street to some extent.
+All right, so what can we do about this?
+Well, the leading theoretical effort
+to link objective and subjective probabilities
+is called rational expectations, or just RE for short.
+There are two different ways that rational expectations
+generally is explained.
+There is the one that is simplest
+and is most commonly actually used for empirics.
+And this just says that you've got rational expectations
+if your errors have a mean of 0 and are uncorrelated
+with available information.
+So again, a standard characterization
+of rational expectations is that your errors are distributed
+normally with a mean of 0 and constant variance.
+Then those errors are uncorrelated with each other.
+Now, there is a little bit of weaseling here,
+because we say it was uncorrelated
+with available information, with what counts as available.
+But when you're doing empirical work,
+you normally say, well, it was in the Wall Street Journal
+yesterday that it's available.
+Why that?
+That's normally the way that it's done in practice.
+Now, there's a deeper version, which is primarily
+used just by theorists, because you can't really
+do much with it in the real world.
+But this version just says that you have rational expectations
+if your subjective probability distribution matches
+the objective probability distribution in the real world.
+This is really hard to actually test,
+but you can do it in a model very cleanly.
+So basically, if you see a rational expectations model,
+the normal approach to doing rational expectations
+is you solve for the equilibrium where
+the belief distribution exactly matches
+the distribution of events.
+And it all works out perfectly if you've
+done the model correctly.
+All right, now, a standard way of modeling
+is this, just to say that if rationalization is true,
+then everyone has unbiased beliefs.
+So their mean error is zero.
+And then what does it mean to have imperfect information
+or error in a world of rational expectations?
+There is a caricature that just says
+people who believe in rational expectations
+think error doesn't exist and everyone
+has perfect information.
+That's totally wrong.
+So wipe that thought from your consciousness
+because it's utterly in error.
+What rational expectation says is, sure,
+there could be tons of error.
+But the error has to look a certain way.
+Namely, if this is the actual truth, T star,
+then the distribution of beliefs has to have a mean of zero.
+So on S. So you're equally likely to be above or below
+the actual true value.
+I didn't even notice that over there.
+So basically, it says that even though people
+may have really big errors, and nonetheless,
+their average belief is true.
+Now, for one individual, this isn't that helpful
+because for any given question, you just get one realization.
+And then, well, I don't know, maybe I'm really wrong.
+But I could just as easily be really high or really low.
+So in a rational expectations world,
+what does it mean to say that one person is well-informed
+and one is poorly informed?
+Well, a well-informed person is a small error
+around the true mean.
+That's a well-informed person.
+And on the other hand, a poorly informed person
+has a big distribution around the mean.
+So this is a poorly informed person.
+However, on average, their views are the same.
+It's just a difference of the spread.
+So just by the definition of variance,
+you can see that a poorly informed person on average
+is much farther from the truth than a well-informed person.
+And of course, a perfectly informed person has no error.
+And then their belief distribution
+just is a straight line overlapping the truth.
+So that's what rational explanation says.
+Again, it's not claiming that people are omniscient
+or anything like that.
+It's just saying that there is a very specific structure
+to how error works, which is that no matter how oblivious you
+are, still, on average, you're right.
+And the difference between the well-informed and poorly
+informed is just how far the scatter around the truth is.
+And furthermore, of course, rational explanation
+does not assume that information or cognition is free.
+In fact, if it were free, you'd expect
+that there'd be no error, right?
+And essentially, if you were to go and raise
+the price of information, you'd expect
+that this would increase the error.
+So it's a pretty simple story.
+The greater the price of information
+is, the less effort you're going to put into acquiring more
+and reducing the error, and then the greater
+the expected spread.
+On the other hand, when information gets cheap,
+then you'd expect that beliefs will squeeze in
+towards the center.
+And you can apply this idea to any number of possibilities.
+Like it would be for attending graduate school.
+So no one knows for sure how well they'll do.
+But if rational expectations hold, then on average,
+you do know the truth.
+On average, you know the truth.
+And you also know what completion
+will do for you, and so on.
+Yes?
+So if information isn't free, and different people
+have different information, then are we just
+saying that people are on average well-informed,
+or on average poorly informed?
+Well, here's the thing, is that for any one belief,
+every individual only gets to really well to die once.
+So here's the thing.
+For one individual, it's super hard
+to find out whether they satisfy the rational expectation
+assumption.
+Just like if you only have one observation,
+how do you statistically test anything?
+So in practice, if you wanted to test rational expectations,
+you would wind up going and getting a big group of people
+and seeing whether the average belief winds up
+being zero, which is an implication
+of rational expectations.
+But there is another possibility.
+It could just be that everyone's bias is biased,
+but there's different biases.
+But then how do you prevent, I guess,
+skew from appearing as the cost of permissions
+that increase or decrease?
+So the answer, how do we prevent skew?
+We assume it away.
+That's what it does.
+Again, you might go, so now people that are really into it
+say, well, why would we ever think there would be any skew?
+And so, you don't have an answer?
+All right, well, we don't have to worry about it.
+Of course, when you think about it a bit more,
+there's lots of reasons.
+What if the truth is bounded by zero?
+How many hamburgers did we eat yesterday?
+It can't actually be a normal distribution
+because there's a minimum of zero hamburgers.
+You can't eat negative hamburgers.
+So there's a problem there.
+And the actual amount of effort, intellectual effort
+that's spent on things like that,
+throwing it out when you're zero,
+that's a pretty obvious issue.
+Or you could do it for renting a movie.
+Or actually now, since no one rents movies,
+you do it for Netflix ratings.
+So on average, are Netflix ratings accurate for you?
+And there, of course, if one individual
+had to give a bunch of observations for yourself,
+you can determine, are they accurate for me,
+on average, at least?
+Or you can do a bigger one and see,
+are they accurate for people overall?
+Or something else you could do is
+you could go and do a bunch of guesses
+on many different issues, and then you
+could test yourself for actualizations.
+You can't do it just for one observation
+because then how do you know that it wasn't just random error?
+But if you do a lot.
+In fact, this would be a useful thing
+to know about yourself, right?
+How accurate am I, really?
+And there is the crummy way of determining your own accuracy,
+which is to wait for things to happen and then self-assess.
+Was I right?
+Oh, yeah, totally, totally, always so right.
+So Philip Tetlock calls this self-scoring.
+And it's corrupt, and you shouldn't do it.
+It's nice to do it.
+People that do this all the time and don't
+seem to have any interest in coming up with some other thing,
+there's many alternatives to self-scoring.
+One of them is just to state what you
+and your prediction clearly in advance
+and then come back later.
+So then at least you don't wait for things to happen and go,
+ah, just as I foresee.
+You say, well, why do people do self-scoring if it's so crummy?
+Well, it's very easy to do well with self-scoring.
+In fact, I don't know anyone whose self-score is that.
+There must be someone out there who's said, oh, my god,
+I'm so terrible.
+And then even with making your predictions in advance,
+there's a problem that you can go and pick
+a bunch of really easy questions.
+And then it turns out, wow, I made 20 predictions.
+I was right on all of them.
+Of course, they were all like whether Norway would invade
+Sweden.
+So this is one where it's better if you
+go and find someone who disagrees with you
+and is willing to agree to some terms.
+And then you get another human being
+on the opposite side who is there
+to make sure that you don't just scoop up
+all the easy bets for yourself or all the easy predictions
+for yourself.
+Or like another application of rational explanations.
+So economist Donald Whitman considers this old argument
+that there's a lot of wasteful government spending
+because voters are ignorant.
+And he says, well, the fact that they're ignorant
+doesn't mean that they underestimate
+how much wasteful government spending there is.
+They could just as easily overestimate it.
+And unless we have some reason otherwise,
+why not just figure rational explanations will hold?
+And some people are overestimating
+the wasteful government spending.
+Some are underestimating.
+But it isn't a general explanation
+for why there'd be government waste.
+Now, how would you test for any of this in the real world?
+So rational explanations first became big in macro
+in the 1970s when Keynesian economists hit a log.
+They had a lot of egg on their face for making
+a bunch of bad predictions.
+And this is when Robert Lucas and some other people
+came along and started pushing another model.
+Actually, they were borrowing from an earlier economist,
+John Muth.
+But anyway, there were a bunch of empirical tests.
+They started performing on things like inflation forecasts
+to test them for rational explanations.
+So how would you do this?
+Well, in order to test for the rational explanations
+of inflation forecasts, you need two things.
+You need inflation forecasts, and you
+need actual inflation numbers.
+So you need two different things.
+And then what people started doing was just
+try regressing forecasts on a constant plus a coefficient
+times i, where i is actual observed inflation.
+So notice, this would be like the forecast for 93
+being regressed on the actual observed inflation in 1993.
+The forecast, of course, come before 1993,
+by whatever happened in 1973.
+But in the regression, we go and take
+the forecast for the year in question.
+And then compare them to what actually happened.
+And rational explanations implies two things,
+alpha equals 0 and beta equals 1.
+If you've ever done an hypothesis test where
+you have two conditions that you're testing,
+that's what they were doing.
+An F test that you have to do if you've forgotten F tests.
+And basically, what this means is that, first of all,
+on average, the forecast equals the truth.
+And then furthermore, if the truth goes up
+by 1 percentage point, the forecast goes up
+by 1 percentage point.
+So if there were a positive value of alpha,
+this would mean that would mean there's a general tendency
+to overestimate.
+Negative alpha, general tendency to underestimate.
+And then again, if beta were greater than 1,
+this would mean that when inflation goes up
+by a point, by 1 percentage point,
+forecasts are going up by more than that.
+So that's what the rational expectations forecast would be.
+And you could imagine doing any number of macroeconomic
+or other forecasts and testing for rational expectations.
+Now, something that's been very interesting to me
+is testing economic beliefs themselves
+for rational expectations.
+Because at least when I got into economics,
+the reason why I liked it is because the economists
+were telling me the opposite of what other everyone else had
+told me.
+That's why I liked it.
+So I liked economists saying, you
+know all the stuff that teachers and parents and media tell you?
+Wrong.
+And not just sometimes too high, sometimes too low,
+but predictably wrong.
+Like the economist saying, you know
+all this complaining about free trade you've heard?
+Wrong.
+Free trade's great.
+Or you know all this stuff about how the more regulation
+of drugs, the better?
+Wrong.
+Regulation of drugs can kill people.
+Here's how.
+You're murdering people with regulation.
+Negligent manslaughter.
+Anyway.
+Or you know how everyone's always
+talking about the disemployment effect of the minimum wage?
+No.
+Exactly.
+They should be.
+They're acting like there's no disemployment effect.
+But there's got to be a disemployment effect.
+A minimum wage is $1 million an hour.
+So anyway, that's what got me interested in economics
+was economists going and saying, these
+are the results of our study or our work, which
+can paint a very different picture than the regular one
+in a very predictable direction.
+So anyway, this is why I got excited.
+Now the fact that it excited me doesn't mean it's true.
+Unfortunately.
+The world should work that way, but it does not
+have to work that way.
+And when I got into grad school and I
+tried making any of the arguments that got me
+interested in economics, normally people would just say,
+now this.
+So you can't say that people underestimate
+the benefits of free trade.
+No, you must assume that on average they're correct.
+All you can say is maybe sometimes they
+might be too high, sometimes they may be too low.
+That's all you're allowed to say in a rational explanations
+framework.
+But maybe rational explanations is wrong.
+All kinds.
+Anyway, so when I started working on this,
+I expected there to be at least some decent empirics.
+Really, a lot of cases there's none.
+And this is more of just a convenient assumption.
+And it can be convenient in two ways.
+One is it's just empirically convenient
+because if this is the way the whole world works,
+there's so many questions you don't have to study anymore.
+So I went into it like, well, let's just
+find what the truth is, and then we know on average
+that's what everybody believes.
+So that simplifies your life a lot.
+And then of course, if you just like
+to think the world works fine the way that it is,
+this is also very politically convenient.
+So you just want to put your blessing on the status quo,
+then very naturally something like this
+is going to appeal to you.
+But I say, look, if most people think that education is good,
+that means it's good.
+And if you disagree, then almost certainly you're wrong.
+It's like, what are the odds that you're right
+and everyone else is wrong?
+It's like, oh, man.
+If that's where I ran, I would never have gone into economics
+if that's what I thought.
+I would have found some other area where most people were
+screwed out then.
+Would have moved into that.
+But anyway, so this is what I was dealing with.
+So one of the first projects in the undergraduate school
+was actually trying to get some data on this.
+And it turned out some other people
+had already created all the data, which
+was a very expensive data set, hundreds of thousands of
+dollars.
+And then they published one paper
+in the Journal of Economic Perspectives using the data,
+and then dropped the whole topic.
+And when I asked, they just gave me the data for free.
+And out of that, I got six papers, a book.
+So this is the kind of thing, don't look a gift horse
+in the mouth.
+Don't say, well, why did you do this whole study
+if you were barely willing to write one paper on it?
+Instead, just say, thank you for sharing.
+And a more general lesson, there are actually
+a lot of data sets that are out there that
+have barely been used.
+So for example, there are at least a lot of variables
+that have barely been used.
+I think it's confusing as to what's going on.
+Presumably, people just had more money than they had questions.
+So they needed to know about the questions they cared about.
+So for example, in the General Social Survey,
+if you go look at that, if you go to Google Scholar
+and just put in different variable names,
+it's got to be a variable name that's distinctive,
+like the word help poor, one word.
+So it's not a lot.
+Other than the General Social Survey,
+there's not a lot of people who use that word.
+In fact, it's probably only there.
+If you go to Google Scholar and put that in,
+you'll find there are many questions
+in the General Social Survey that no one has ever
+written a paper about, ever.
+So why shouldn't you be the person that writes that paper?
+And no one has ever done this.
+And that's original.
+If no one's ever done it, that's called original research.
+And what rewards do we give out for original research?
+Citations.
+It's a job for life.
+So yes.
+So it's all, of course, when you find these 20 door
+bills sitting on the sidewalk, you
+don't want to make sure are they real.
+But if they are, well, great.
+Don't say, how can this be?
+Go for it.
+Anyway.
+So there was something called the Survey of Americans
+that Consumed the Economy that asked economists
+and the general public identical questions about how
+the economy works.
+And I got this data set.
+And then, right setting up tests for rationalizations
+for the public's economic beliefs
+to go and do some empirical tests on the kinds of stories
+that got me interested in economics in the first place.
+And a very natural way to do it is
+you got some measure of the beliefs of the public.
+And now, this is the endemic.
+So here we actually have forecast and truth.
+Now, unfortunately, for how the economy works,
+it's hard to get an uncontroversial measure of truth.
+So how can you do empirics?
+Well, we can do this.
+We can at least say, look, according
+to rational expectations, laymen and experts
+should have the same average belief.
+Because all that should be occurring
+when people learn more is that it should be compressing
+beliefs around the truth without changing the meaning.
+So we can go and test rational explanations
+by going and getting people's beliefs
+and regressing on a constant plus a coefficient times
+a dummy variable for whether you're an economist, where
+1 equals you are and 0 equals I don't know.
+Now, these regressions leave open the possibility
+that it's economists who are biased and the general public
+that is correct.
+So there is that problem.
+At least we can say one group is wrong.
+And then we can also entertain arguments either way.
+So there is the argument that when people study a subject
+for a long time, they generally know more about it.
+It seems like a good starting place.
+There are counter-arguments about why experts might be
+biased, but that's false.
+Yeah, you had a question?
+What if both groups are wrong?
+Yeah.
+Well, so that's another possibility.
+So we could just find them both.
+So actually, even if they had the same view, it's possible.
+It's possible that they're both wrong.
+But this is still a test of rationalizations
+in that it is possible we'll find one or the other is wrong.
+But yeah, it could be that they're equal,
+and then rationalization still fails.
+But yeah, as soon as it's a case where
+we can say the rationalization is wrong for a group,
+but still you can't get the decisive proof that it's right.
+But can we ask some questions, like not the 1, like 0, 1, 2,
+but some actual questions like the inflation?
+Yeah, we can say the same.
+You ran the regression.
+So you can do that, too.
+There were very few questions like that in this data set.
+So there are other data sets out there,
+which I was going to say give very similar results.
+What was nice about this is that they
+asked exactly the same questions, both groups.
+So you can't just say that they're
+answering different questions.
+Because there's a lot of surveys of the economic beliefs
+of the general public.
+And then there's totally different surveys
+of the economic beliefs of economists.
+And you might say the questions are similar.
+But again, someone could say, well, maybe they
+just gave different answers because the questions
+were different.
+I mean, it reflects the belief on the actual data.
+Pardon?
+Yeah, yeah, yeah, so that is another thing
+that can be done.
+Actually, in my book, I do talk about cases like that.
+Ones where you have like the budget, budget numbers,
+for example.
+Writing it there, you will see that the public
+has really crazy views about the budget and very predictable.
+Essentially, the kinds of spending
+that they think are out of control
+are the kinds of spending they don't like.
+So there's a general view that foreign aid spending,
+which is a popular, is also enormous.
+And if they didn't give numbers, then you might just say, well,
+they're speaking politically.
+Because you think it's bad, then any amount excessive
+is too much.
+But as a percentage of the budget, how much is it?
+The numbers the public gives are absurdly large.
+You're wondering, how do they even do this?
+Seems to me this is what you call moral causation,
+like who is bad?
+And then from this, I will deduce
+what their quantitative importance is.
+You can't do that.
+Watch me.
+Watch me.
+I'm going to do it.
+All right.
+So anyway, so you go and run regressions like this.
+And as I said, this only tests for the public's
+rationalizations of the economists themselves
+that rationalize nations.
+Then there's a lot of people who you may have heard of or even
+met who just don't like economists.
+Have you ever encountered someone
+that found out you were an economist
+and they looked at you with distaste or disdain?
+Never mind George Mason economists.
+Just regular economists.
+You, yeah, disgusting, despicable.
+You are to blame for all horrors in the world.
+You may even remember when there's a transition period.
+You start off as a victim as an undergraduate,
+but eventually you become an economist.
+And then they may feel sorry for you when you are an intro econ,
+but they view you as part of the problem
+if you advance to even major.
+All right.
+Anyway, if a person makes a specific claim
+about why economists are biased, then again,
+in principle, it's testable.
+There are actually some standard stories
+that get repeated a lot.
+So one big one is just self-interest or what's
+called self-serving bias.
+Says that economists imagine whatever is good for them
+is good for the world.
+And it only starts off with some truisms,
+like economists have above average income.
+Totally true.
+Economists have above average job security.
+Also true.
+But if that is your story, then there
+is a standard econometric way that you
+could go and deal with it, which is just
+add in some control variables.
+So add in some controls for interests.
+So it could be a measure of income, measure of job
+security.
+You could put in age, put in race, put in gender,
+all that stuff.
+And then you could see, well, what
+happens to the coefficients once you add those control
+variables in.
+And again, if self-serving bias is the whole story,
+then beta should go to zero after adding those controls.
+And then there's another story that's also common.
+This is a story of ideology that says, well, of course,
+economists think this stuff because there are a coven
+of horrible right-wing ideologues.
+And so really what's going on is just
+that people don't share that ideology don't go in,
+in general.
+And again, that has clear implications,
+which is we should be able to add in a measure of ideology
+or different political measures and see
+whether adding that in makes the beta go to zero.
+Now, we're going to talk about this more in the,
+oh yeah, we're going to talk about this more in a few weeks.
+But just to give you the preview, so first of all,
+so out of 37 economic beliefs that were in the data
+in the data set, about 34, 35, you
+see beta, beta significantly different from zero.
+Generally, very different.
+Often, it's night and day where the public clusters very
+strongly the view that foreign aid is a huge drag
+on the economy.
+And economists structure a cluster very strongly
+around the view that it's not, and it's not barely a problem
+at all.
+Or things like supply and demand.
+So it was originally given in 1996.
+The price of gas has just gone up.
+And you're given the choice of basically,
+so did it go against supply and demand or collusion?
+The public very strongly goes with the collusion story.
+And economists very strongly go with supply and demand stories.
+I'd say that 90% of economists go with supply and demand.
+And something like 70% of non-economists
+go with collusion.
+So night and day.
+And then when you go and add these control variables in,
+controlling for interest very modestly
+reduces the size of the coefficients.
+You can average something like 18% reduction
+in the absolute value.
+Or in other words, 82% of this large difference
+persists, controlling for this stuff.
+You look more closely, you'll often see that the sign is,
+it has the wrong sign.
+So for example, like higher income people
+are less worried about the economic effects of welfare
+than low income people.
+That's odd if it's self-interest.
+And then for the ideology, actually,
+controlling for that generally makes the belief gaps
+a little bit bigger.
+Because here is the thing.
+If you go to the AAA meetings and just do a straw poll
+of the political views of the people that are there,
+economics professors in general, what
+is the actual normal political view of a academic economist?
+Center left.
+Yeah, center left.
+Perfect.
+Yeah, it's totally normal.
+So if you know their biographies, the better.
+Normally, you start off as full left as a teenager
+and then learn some economics and then
+you moderate the center left.
+It's a very standard story for top academics.
+So then it's like, well, then how
+can they have these strange views?
+Well, interesting.
+So your center left economist still generally
+will strongly believe the supply and demand story
+for the price of gasoline.
+And if people that would be ideologically
+inclined to disbelieve it believe it anyway,
+this means that the effect of economic training
+winds up being measured as even bigger
+than it looks on the surface.
+So basically, if someone who's center left
+has a view that would be considered ultra free market
+for a right wing or ultra right wing non-economist,
+then you get this result.
+So questions about that?
+So later, we'll go over a lot more details
+and what are the papers that's assigned
+so you can satisfy your curiosity,
+depending upon whether what hooked you
+into economics is the same thing or something like the same
+thing at the end.
+Questions, questions?
+We're happy.
+So yes, the clock has not been adjusted for daylight savings.
+It probably never will be.
+All right, so just keep that in mind.
+Maybe if you look at it, you will feel even more energetic
+than you already do.
+Even more chas to be here, learning
+about rational integrations.
+All right, so questions about testing for rational integrations?
+There's some moving on here.
+OK, so moving on.
+So search theory and expectational equilibrium.
+So you might remember that when we did the Arrow-DeGros
+general equilibrium model, we found out
+that there is a way that you can put uncertainty
+in the model.
+And that's what we're going to do.
+So we're going to do a little bit of a search theory.
+We found out that there is a way that you can put uncertainty
+into general equilibrium.
+And that's by treating every possible state of affairs
+as being a different thing, being a different good.
+So good x in situation y is then good xy.
+And we just plug it all into the model that way.
+All right, but in order to actually get a result,
+you need to assume complete contingent claims markets.
+In other words, you need to assume
+that there is the biggest stock market
+or biggest financial market that has ever existed in the universe by many orders of
+magnitude.
+It's basically, it's not enough to have 10,000 different financial instruments selling.
+There need to be every conceivable instrument selling under every conceivable condition.
+That could be quadrillions of different financial assets.
+Unless you've got that, then it still seems like you've got a problem.
+Is there any other approach?
+The answer is yes.
+There is another approach, very general one, and it's called search theory.
+Search theory has a few basic assumptions.
+First, we call the assumption of efforts.
+If you put more time and energy into searching for what you're looking for, you're more likely
+to find it.
+Simple result.
+This could be for socks or gold or a job or a date.
+Any of these things, just put in more effort and it raises your odds.
+Then another assumption, which usually you wouldn't even bother putting into the model,
+but you need it to understand the world is just a different searching ability.
+So like a professional gold miner has more ability to find gold than I do.
+You put in a small amount of effort and still it's way more likely to detect it than I am.
+And then last, normally search theory assumes rational expectations.
+So on average, people are correct in estimating their probability of finding things, their
+ability to influence those probabilities, and so on.
+Now the main conclusion that comes out of search theory is people keep searching until
+the expected marginal benefits of search equals the expected marginal cost.
+And you can add in a risk aversion adjustment if you want.
+That's fine too.
+All right.
+Now there's lots of different applications to this.
+In fact, there's almost, we really just talk about this endlessly, so this is my let's
+say like doing R&D.
+So I suppose you want to go and find a cure for cancer.
+All right.
+Well, first of all, you're more likely to find the cure if you put in some effort.
+All right.
+It's a good place to start.
+Try.
+You can wait around for the cure to fall into your laps, but it probably will not happen.
+It's highly unlikely, so put in some effort.
+All right.
+Then secondly, there's a matter of ability.
+Some people are a lot more likely to cure cancer than I am, such as professional cancer
+researchers.
+Their odds may be really small, and yet better than my odds.
+At least they know what cancer is, for example.
+Whereas I am, oh, it's like your cells, something, like your cells are dividing the wrong way,
+those people smoking and rats and tar and stuff.
+All right.
+Yeah, I wouldn't say I have very little ability to go and explain it.
+But then finally rational expectations.
+So I've got, I think, rational expectations about my ability to cure cancer, which is
+it's so close to zero, there's no point in me even looking into it.
+Whereas someone else who knew better, more experienced in training, would think that
+they would have a higher probability.
+Well, of course, these are the people that I talk to who I understand the most say, there's
+no one thing called cancer.
+Well, there's one thing called cancer, but it refers to so many different things.
+It's totally unhelpful to think about curing cancer in general.
+You need to think about curing a bunch of very specific kinds of cancer in very specific
+circumstances.
+And already they sound more knowledgeable than me, and that by itself sounds like a
+promising insight.
+It's like, oh, well then, good.
+All right.
+What's the next step?
+Yeah.
+So, you know, search theory for doing R&D.
+Of course, you can also apply it to some of the oldest activities of mankind, like hunting
+and fishing and searching around for berries.
+So, you know, like put in more effort, you're more likely to find a deer to hunt, or more
+likely to find some fish in the stream, or more likely to find the berries.
+And there's different levels of ability.
+Like a trained hunter is more likely to go and find the animals than someone that is
+just darting out.
+Or if you have experience in a given area, more likely to be able to find the animals
+that reside in that area than if you are a newcomer to that area and you aren't familiar
+with local animals and their migration habits.
+And again, the rational explanations.
+So even if you're no good, you can still have a good idea that you're no good and then not
+bother doing it.
+Like you might say, look, I've never fished before, and that means I'm almost certainly
+really bad at it, and so I'm not going to do that.
+I'm going to focus on something that I'm actually good at.
+Or it could be prospecting for gold.
+Like you put more effort, more likely to find the gold.
+Some people know a lot more about finding than others.
+Again, rational explanations.
+So some people know, you know, so you have an idea about how good you are, where it's
+likely to happen.
+The more information you have, the better idea you have about where it's actually likely
+to work out.
+I would just start, of course, with places where other people have found gold.
+But then it's more complicated.
+It's like, well, until too many people have been there and they've mined it all out, and
+then you're really unlikely to find gold there at that point.
+Right?
+Or you do this for looking for investment opportunities.
+So you think of this as a theory of entrepreneurship.
+You know, step one, if you put more effort into trying to find profitable investments,
+you're more likely to find them.
+Step two, differences in ability.
+Some people are really good at finding above-market opportunities.
+Others are bad at it.
+And then step three, rational expectations.
+Like, who are you going to bet on coming up with another great business idea?
+Like me or Mark Zuckerberg?
+It seems reasonable to think that Mark is going to beat me for new business ideas.
+So that would be a good, so of course that could be wrong, but it seems plausible.
+All right?
+And then something that will be, let's see, you've all probably experienced some point
+that it's going to likely come back to you as searching for a job.
+Right?
+So in the real world, so like the supply and demand model labor markets, there is one puzzling
+thing about it, which is, suppose I said I want you to buy a loaf of bread and bring
+it back to the classroom within the next hour.
+Does anyone here feel unable to accomplish that?
+I mean, I think you could actually walk to the Giant across the street, buy the bread
+and get back here in an hour and you're done.
+Right around that.
+Is there anywhere on campus you could buy a loaf of bread?
+Maybe.
+All right.
+But anyway, so that's not that hard.
+On the other hand, if I said I want you to find a tenure track academic job in the next
+hour, most of you would have trouble with that.
+Right?
+It's just there's something different about bread versus jobs, even though supply and
+demand gives us some insight, yet there's something different, which again seems like
+it is closely related to imperfect information.
+It's like, well, where are the, not only where are the jobs, but also is any one individual
+actually able to do the job that the people doing the hiring are looking for?
+Right?
+So someone may say we're looking for a macroeconomist, but that doesn't mean, but you say, well,
+great, I do macroeconomics, so I'm sold.
+It's like, well, first we have to talk and learn more about you.
+Like, well, you didn't say that, so what do we do anyway?
+Are you the kind of macroeconomist we're looking for?
+Couldn't you have said that in the ad?
+Or couldn't there just be like a pay scale based upon exactly what kind of a macroeconomist
+you are?
+And then I just go, like, I'm going to type beta, sold.
+But that's not how academic markets work.
+They're unlike how almost any labor market works, actually.
+So anyway, for finding a job, you know that you put more effort that improves your odds.
+And you've probably been told about a bunch of different kinds of efforts.
+And always worth learning more.
+So general, so when I was first on the job market, they told us about the McDonald's
+test.
+It's a very good test.
+Just says look at a job entry in the Joe, job openings for economists, then ask yourself,
+would I rather work there than McDonald's?
+And if the answer is yes, then you apply to that job.
+It's very simple and cool.
+All right, but then there are a bunch of other things you can do.
+So like the quality of the paper, put more effort in there.
+Or you could go and try to make contacts.
+You know, like, so one of my standard pieces of advice to people is go to conferences where
+people that you want to hire you go.
+And then try to meet those people and impress them.
+I mean, it sounds pretty obvious, like isn't everyone trying to do that?
+Actually a lot of people are so oblivious they're not trying to do it.
+So no reason for you not to.
+You know, in general, so think about this, like how many times have you just gone through
+a faculty roster and looked at all the people that might be able to help you and then tried
+to meet all those people?
+And how much of a time investment is that?
+It doesn't seem like it's a lot.
+And like what are the odds that it could work out?
+It seems pretty good considering the time investments.
+But anyway, so more effort improves your odds of things working out.
+So although some people can just wait around and the phone will ring for them, but not
+many.
+You know, different levels of ability.
+So some people find it much easier to get jobs than others.
+There's some people whose phone just rings off the hook and they just have to choose.
+Oh my God, this is so terrible.
+My people won't give me any peace.
+All right, or as Smithers once said on the episode of The Simpsons where there's the
+James Bond villain who's hiring people, can't a man walk down the streets of America without
+being offered a job?
+So ability and then finally rational explanations.
+So it's pretty, so it's probably none of you are going to be applying for jobs as doctors,
+like medical doctors when you finish.
+We have a couple students who have gotten jobs in medical schools.
+Someone blew out that possibility.
+Why would a medical school hire an economist?
+Actually, health econ, health econ.
+So yeah, pays really good.
+So there's all kinds of things.
+So it's not impossible.
+So keep that in mind.
+All right, anyway, searching for a job also applies here.
+You can also use this for dating.
+In fact, there was a student years ago who was in your position who said this lecture
+changed his life because after the lecture he began asking out 100% of the women he's
+attracted to.
+And he told me it worked out wonderfully for him.
+But anyway, so effort.
+He took that effort assumption to heart.
+If you just try, put in more effort, and he put in lots of kinds of efforts.
+He also got his teeth whitened and practiced his smile.
+I saw him at work and said, wow, that's a very sweet smile.
+My hair, like getting his hair cut every week, all kinds of different margins that he clearly
+was maxing out.
+All right, he's close to maxing out.
+So put in more effort.
+He also had unusual ability.
+There's a lot of people who could try as hard as he did and yet still, they're just not
+working with very much.
+They start off, you know, so someone who when he put in effort could look very good.
+And then he had rational expectations.
+Even he does not like cold email supermodels and say, hello, I'm an economist.
+I like your blogs.
+Perhaps you would care to send your private chat to pick me up.
+I'm very entertaining, can I teach you economics?
+I would gladly.
+All right, so he said this changes life.
+And another way you think about this is a theory of forgetting things, rational amnesia.
+So we all forget things all the time.
+And what would it be like if you didn't forget anything?
+How much effort would it take to not forget anything that occurred today?
+You could have one of those life cameras that you go around with all the time and just be archiving it.
+Even that wouldn't really solve the problem because you'd have so much footage, where would you even know where to start for any particular thing?
+All right, but anyway, so you can put in way less effort.
+But if you really want to remember something, there's all kinds of things you do.
+You can write it down.
+If you've seen the movie Memento, you can tattoo the really important things on your body.
+All right, so like remember Sandy Jenkins.
+It's a great movie if you haven't seen it.
+All right, there's that, and then there's differences in ability.
+Of course, as you get older, your memory generally gets worse.
+So I feel like I'm noticing this strongly already.
+My mom has severe memory loss but is in complete denial and is therefore extremely annoying to everyone.
+When I'm at that, I expect to get to that point at some point, but I want to prepare so that I'm not antagonizing others with my deficiencies.
+When I'm 80 and someone says I forgot something, I'm just going to say, you must be right, clearly, especially to someone I can trust.
+Like my older sons, I can trust that.
+The younger one might tell a lie to take advantage of me, or just for fun.
+So there's a difference in ability there.
+I mean, like even issue by issue, there are some things I've never been worried about forgetting.
+Like I wasn't worried that I would forget the due date for my wife's pregnancies.
+I didn't bother writing it down.
+I heard it, it was very important, and so it was easy to remember.
+Whereas other things just go in one year and out the next.
+And again, rationalizations.
+One thing I will say to myself, I have a very good ability to predict what I'm going to forget.
+So 90% of the things my wife says, I want you to remember this, and I'm like, well, either I can get up right now and write it down, or I'm going to forget it.
+Those are the two possibilities.
+There's no way I'm going to remember to go and call your mom for a feast day.
+This is not unlikely, it's going to be astronomically unlikely.
+So the least I know what my capabilities are, and that's just not the kind of thing that will stick with me.
+One of my favorite heuristics is when someone asks me to order something from a restaurant, I always do their order first.
+Because other people's orders just slip right through my head.
+And usually I'm like, I can't imagine why anyone would want that food.
+So if that is my reaction, well, I better say it immediately before a cub salad.
+You want that.
+So I'll order that first, because I'm not going to forget what I want.
+But I'm very likely to forget what you want.
+And then last one, so you also think about this as a story about why some people are funny and other people are not funny.
+A standard part of comedy is if you tell a joke too many times, it stops being funny.
+So something about comedy is an element of the unexpected.
+But not all unexpected things are funny.
+In fact, most unexpected things are just boring or annoying.
+So you think about a comedian as someone who searches through the vast space of unexpected things to find the small minority of them that are entertaining.
+And then they share those things.
+And again, effort, ability, and if you're a good comedian, comedic rationalizations.
+Although you could also have good rationalizations if you never tell jokes because you realize you're not funny.
+That would be another way that you could be totally satisfying the assumptions.
+Say, look, no one ever laughs at my jokes, no matter how hard I try, so I'm just not going to try to be funny.
+And then people will at least be spared the embarrassment of me not being funny.
+Alright, so of course there are many other applications. Yes?
+So the searching here doesn't mean searching information?
+It's not about searching information?
+Well, in a way you could say that certain information is one thing you search for.
+Or you could just say I'm searching for information about where the gold is.
+Or I'm searching for gold.
+Virtually the same thing.
+In terms of business, you might say I don't actually find the gold, I search for information about the gold, and then I sell it to the people that physically go there.
+So that's a more meaningful way where you can distinguish between searching for the information versus searching for the thing.
+I have an algorithm that gives useful predictions about where gold is likely to be found.
+I don't personally ever go there, I just sell the information to people who are professional gold finders.
+Now, a nice application of search theory is what if there's some people with a very high value of time and so they don't do much searching?
+Well, then you'd expect that sellers will actually search for consumers.
+So for example, have you ever been a tourist in a place like Istanbul, where for the tourists generally a much higher value of time than the natives for two reasons.
+One is they're richer than the natives, but also the tourists may only have 10 hours in Istanbul, whereas the people who live there have their whole lives there.
+So someone who's a resident, one more hour of Istanbul is worth two or three dollars to them.
+But for the tourists on the other hand, an hour in Istanbul can be worth $200.
+You wouldn't even have bothered to get there unless you thought the hours spent there were going to be really good.
+Now this happens when some people have a much higher cost of search than others, it makes sense to have specialization.
+Where people who are there go and search for you, and then they save you the time.
+So in a place like Istanbul, if you look like a tourist, people actually come right up to you on the street and offer to sell you things.
+And the result of this is that you have to spend very little time finding souvenirs in Istanbul.
+So when the souvenirs just come to you, you walk around and someone will come with a trench coat and open it up.
+And it's a perfect fully clothed person with a whole lot of souvenirs.
+And I actually found that if they don't have the souvenir you're looking for, they'll just say, wait right here, and they'll run.
+And they'll come back and they'll have exactly the souvenir you're looking for.
+Now you generally are paying enormous prices compared to what you would pay if you were to go and actually bother to go to a souvenir shop in Hagel.
+But this is still an enormous bargain relative to your value of time.
+So you might go and spend $10 for a book that actually as a marginal cost only a dollar if you know where to buy the book.
+However, as a tourist it might take you 30 minutes to go and find that book.
+So then you would be saving $9 by burning up say $100 worth of time.
+So this might be your only time you're ever going to be in Istanbul.
+And search theory also gives us a very nice story about what it means to be overpaid or underpaid.
+Or what it means for there to be a bargain or a rip off.
+Because in supply and demand, when someone says something is a bargain or a rip off, a rip off is basically just complaining and whining.
+There's no economic meaning to getting a bargain or a rip off if there's a single price that everyone in the market pays.
+But with search theory there is a good story.
+So basically if someone is overpaid this means that they've found, they've sought out an unusually good deal.
+Or again if they're being underpaid you could say they've actually settled for an unusually poor deal.
+But again there are reasons for trying both sides of it.
+Like you might want to really hold out for a long time to search a lot if the value of your time is low.
+In that case you spend a lot of time searching and then when you finally do get an offer it's probably going to be a really good offer.
+On the other hand you might be someone who's really new and just feel like look I just don't have time for this.
+And then you might just go and settle and just take the very first offer you get even though it's a pretty crummy offer.
+Right now in the actual world of employment there's two interesting sides of it.
+So when you're looking for your first job normally this is when people tell you to hit the pavement.
+This is where you have to endure the humiliating ordeal of sending out every application you can and then getting tons of rejections.
+And then even out of the offers of the interviews you get you're rejected from almost all of those.
+And it's like a desperate demoralizing humiliating affair.
+At least that was my feeling about it all.
+And a lot of people are in the same boat.
+And when my wife was trying to get her first job as a lawyer my reaction was wow clearly law students are grossly overpaid.
+And I'm like well why?
+Well if they weren't so overpaid they would have been in a lot of trouble.
+pay, then it would be easy to get one of these jobs.
+It looks like they've raised wages up to the point
+where you have to search really hard to get even a crummy job
+as a law student.
+So of course, generally, when someone is feeling frustrated
+by the search, it doesn't really help them,
+just to point out that they're quite a great deal.
+They will be getting, if it ever pans out, like, great deal.
+It's just like a crummy entry level job.
+Well, if it's so crummy, then why
+are you so desperate to get one?
+It's an interesting question.
+But anyway, here's the good news.
+Once you get one of these jobs and have
+like a year of experience, it is totally normal for your phone
+to start ringing with people that
+are called headhunters who want to hire you away
+from your existing job.
+Now, it's the other side.
+It's like, well, why are they calling you?
+They wouldn't call you if they were
+going to pay you exactly your marginal productivity.
+Otherwise, where's the headhunters fee come from?
+The reason that they are calling you
+is that they're planning on paying you
+less than your productivity.
+Well, then why would you accept it?
+Because it's more than what you're getting.
+Well, why are you still there?
+Because it's a pain.
+Because once you have a job, then it's kind of a pain
+to go and find these opportunities.
+So again, search theory can explain all this.
+Yes?
+So if we use search theory to kind of explain
+why there would be a bias and perfectly rational expectations
+on it's easy to get low quality info on free trade
+or whatever, and so the general public
+doesn't invest a lot of effort in getting good info on that,
+and so this is why they have a bias.
+Or is rational expectation just kind of embedded in search?
+Well, again, it's moderately embedded.
+It's a standard assumption, although you
+can totally change it.
+That's fine.
+Rationalization, so search theory by itself
+doesn't explain why there wouldn't be rationalization.
+It's just because if people know that they're
+getting crummy information, they should just be very agnostic.
+And actually, the standard thing for very poorly informed
+people on political questions is to be
+ultra-dogmatic, like my dad.
+So how many economics textbooks has my dad ever read?
+None.
+And yet, how confident are his views
+on all economic questions?
+Astronomical.
+So my dad has long believed that all of America's
+economic troubles could be solved with two civil policy
+changes.
+One is a naval blockade of Japan.
+Or it actually has been expanded to all of Asia.
+Like China is one of the really sucks in now.
+But just the whole continent, nothing good
+comes out of it for my dad.
+And then the other policy of Berlin Wall, the Mexican border.
+And we just do these things, and everything will be great,
+like they were in the 50s.
+And if you go and you'll tell my dad,
+like try giving my dad any other information,
+he'll just say, well, I didn't agree with that.
+So that's how would you acquire information except by reading
+things you didn't already agree with?
+Well, so this is not the way he thinks about these issues.
+So anyway, so main conclusion.
+So if the economics of perfect information
+is not giving you a sensible answer,
+then you can try search theory.
+And it will explain a great deal of the other things
+that are going on in the world.
+All right, now there are some people,
+and especially Austrian economists,
+who just don't like search theory.
+So sometimes it's really radical dislike,
+where they just say, wrong.
+Everything about it's wrong.
+And sometimes it's more moderate, where it's like,
+look, there's something else higher than search theory.
+Search theory may be fine for your mundane affairs
+of fishing or whatever, but it does not
+apply to something important like entrepreneurship.
+Something like that.
+So what is the problem?
+So I've written papers on this, talked a lot about it.
+The complaint does seem to be that search theory is not
+taking into account the unknown unknowns,
+or what Austrians will sometimes call radical uncertainty
+or radical ignorance.
+And I guess I will say that's true,
+but then is it true that there is such a thing called?
+Does radical ignorance actually describe anything,
+or is it just a philosophical concept that some people like?
+But what would it mean?
+So yeah, I think I did tell you the story about Israel
+Kirzner's effort to go and clarify the distinction.
+And at the end of it, I was even more
+confused than at the beginning.
+So obviously, I'm not the ideal person
+to convince you that search theory is inadequate
+on these grounds.
+But just to alert you that there are objections to it.
+My favorite objection to this comes from Jeff Riedman, who,
+so what he says is, look, it is impossible for anyone
+to rationally decide to be ignorant about anything.
+And why?
+And he says, look, before you can
+decide something is not worth knowing,
+you must first know it.
+And when my reply to this is, so does this
+mean you can never hang up on a telemarketer?
+Because until you hear his whole pitch,
+you can't have a reasonable opinion
+about whether it's going to be worthwhile to listen to him?
+Or you can never delete a spam email based
+upon it being a bunch of all capital letters and rambling
+on.
+You have to read the whole thing.
+You have to send him the money in order to find out.
+And until then, you cannot have a reasonable opinion
+about whether this is likely to work out.
+And he had no reply to that, but he
+was very upset with the counter-examples.
+Again, this is my version of it.
+I genuinely puzzled as what his version of the disagreement
+would be.
+But I said, look, of course, yes, you totally
+can be reasonably ignorant of things
+and decide that something is not worth further investigation.
+Like we do it all the time.
+You do it all the time, chef, so how can you say that?
+But he was like, so if I were only a philosopher,
+I would see the appeal of this.
+Until you have studied it, how do you truly
+know it is not worthwhile?
+Well, I just take a guess.
+And every now and then, I audit and just double-check
+that my guesses are accurate.
+But I just think it would be very unlikely that my view
+that a study in ancient Assyrian history
+will not make me rich was wrong.
+Seems like it's really obvious that won't make me rich.
+And it's possible.
+So I am going to be having a conversation slash debate
+with Nassim Taleb next month.
+And I kind of think he's going to say something like this,
+but I'm pretty confused as to what he's going to say.
+But I was also advised not to do anything
+that would antagonize him then, or he might cancel.
+So just don't repeat that, because that
+might antagonize him.
+So just don't.
+So the event will likely to very likely
+recede if I don't say anything further.
+And then I want to find out what's
+going to happen at the time.
+So I don't know.
+It's going to be really weird.
+But anyway, he's got a lot of great publicity.
+So we're doing this.
+I don't know where that event is going to be held yet.
+So I believe it's just going to be at the law school
+in Arlington, just like most of the other.
+So it's going to be a doubleheader.
+So there's going to be a conversation with Tyler
+first, and then I'm going to talk slash debate with him.
+I don't know.
+And again, I don't want to actually ask him
+what he wants to do.
+So I just want to just look.
+We've agreed that we will both be there.
+And now I'm just going to show up.
+And then I'm going to find out what happens.
+All I had to do to get him to travel here
+is he said he'd like to read his book, including
+the anti-fragile, including the appendix.
+So he's very, that's like, you must read the book,
+including the appendix.
+Fine.
+Fine.
+That's good.
+So that's what's happening.
+All right.
+So now why don't we go and see.
+So why don't we go take our 10-minute break now.
+And again, at this point, I will not
+be taking questions about the exam.
+So please don't ask at this point.
+And let's see.
+And I've got the exams for Jim.
+All right, so any questions about anything
+we've talked about today?
+Everyone full of energy and enthusiasm
+for PhD level microeconomics?
+The heart and the center of your life, intellectually,
+emotionally, spiritually, on all levels?
+All right, good.
+Now we'll come to one of the most spiritual parts, which
+is measures of risk aversion.
+So all I can tell you is I had to once sit through a 90-minute
+class where it was basically like a silent movie where
+the professor just went and silently copied down
+his proof that five different measures of risk aversion
+were equivalent.
+And it was one of the worst 90 minutes of my life.
+All right, so anyway, I'm not going to do that to you.
+I'm just going to give you the highlights.
+All right.
+Anyway, so measures of risk aversion.
+So remember we talked about expected value maximization
+versus expected utility theory.
+So we've got expected value maximization
+versus expected utility theory.
+And the difference between them comes down to taste for risk.
+And now let us think about this a bit more deeply.
+Suppose that you're choosing between either x dollars,
+probability one, or you have x over q dollars
+with p is equal to q.
+So basically, you could either have, say, $10 of certainty,
+or you could have $100 with a 10% chance.
+Something like that.
+Now, just as a matter of language,
+if you're indifferent between these two things,
+if you're indifferent between these two things,
+then you are risk neutral.
+If you're indifferent between these, you are risk neutral.
+If you prefer the sure thing to the gamble
+of the same expected value, you are, by definition,
+risk averse.
+If you prefer the gamble to the sure thing,
+then you are, by definition, risk preferring.
+Sometimes people will say things like, well, I went and,
+this is going to be a really bad example, or rather
+a good example of a bad thought.
+It's like, I wear a seat belt because I'm risk averse.
+It's like, well, maybe you wear a seat belt just
+because you want to have some extra safety at a low cost.
+It doesn't mean that you have to be risk averse to do that.
+Risk aversion would not just be that you take any measure
+to avoid risk, but rather that you
+are willing to go and give up some,
+to reduce the expected value in order to reduce the variance.
+You'd rather settle for a somewhat lower mean
+in order to reduce the variance.
+And that's what is risk averse.
+So it is not true that everyone is automatically risk averse.
+It's actually a very specific claim.
+Now, the way that it only gets graphed is like this.
+So you start off with the utility function.
+So it could be like this one.
+So utility is equal to the square root of wealth.
+And remember, what's the graph of the square root function
+here?
+This is u, this is w, like that.
+All right.
+Now, if you're risk averse, what you will see
+is that you've got a concave utility wealth function.
+And if you've forgotten what that means, what it means
+is that the curve will always be above a straight line drawn
+between any of the two points.
+Curve is always above a straight line
+drawn between any two points.
+What this intuitively means, suppose this is outcome x,
+this is outcome y.
+What this is saying is that if you
+could get the average payoff with certainty,
+your utility is there.
+And you prefer that to having this probability of this
+and that probability of that one.
+So basically, if you were somewhere along that line,
+what is that?
+That's like a third of the way along.
+So you'd rather have 1 third x plus 2 thirds y with certainty
+than have a 1 third chance x of x and a 2 third chance of y.
+And that is the part of being risk averse.
+And on the other hand, of course,
+if your utility function like this
+would be the other way around, then you would be convex.
+And then the line would be above the utility function,
+indicating that you would rather have the gamble.
+You would rather have the gamble.
+And of course, if your utility function was a straight line,
+then if you draw a line between any two points
+in a straight line, you stay on the line,
+indicating that you are indifferent.
+Indicating that you're indifferent.
+Now, a related concept is the certainty equivalence.
+So if you're indifferent between a gamble and x star of certainty,
+then x star is, by definition, the certainty equivalent
+to that gamble.
+So think about any gamble and then say,
+what is the amount of money you could
+have with certainty that would make you indifferent
+between that amount and the gamble?
+And that is the certainty equivalence element.
+And if you think about the risk premium,
+the risk premium is just the difference
+between the expected value and the certainty equivalence.
+So basically, the expected value is
+above the certainty equivalent, which it normally will be.
+Then there's a positive risk premium.
+You're willing to pay something to get rid of the risk.
+On the other hand, so if you really just love gambling,
+you couldn't bear to be, we couldn't
+bear a world of certainty.
+You were suffering in that world.
+Then you would actually have a negative risk premium.
+You say, hey, I'll pay something.
+I'll worsen the mean if I can just
+get some excitement in my life, just get some variance into it.
+All right, now there's a bunch of different ways
+you can quantify risk aversion.
+I think there's five different ways.
+There's only one that economists really ever use in practice.
+It looks like this.
+Use these frequently.
+So I'm just going to teach you that one.
+If you're curious, you can go and read about the other ones.
+I'd be surprised if anyone were, but great if you want to be.
+And this is called the coefficient
+of absolute risk aversion.
+That's the coefficient of absolute risk aversion.
+That's the coefficient of absolute risk aversion.
+And it is equal to the negative of the second derivative
+of the expected value function or expected utility function
+over the first derivative.
+And then the higher this coefficient is,
+the more risk averse you are.
+The higher, the more, a bigger positive number
+means more risk aversion.
+Zero means risk neutrality.
+And a negative number means that you're actually a risk averting.
+So if we had that u is equal to the square root of wealth,
+then the first derivative of that
+is going to be equal to 1 half w raised to the minus 1 half.
+Remember, when you're over, you can go to the opposite.
+The double prime could be equal to minus 1 quarter
+w raised to the minus 3 halves.
+And then to get the coefficient of absolute risk aversion,
+we just take minus that over that.
+And then we find out it's going to be equal to 0.5 w raised
+to the negative 1.
+In other words, 0.5 over w.
+And is that thing going to be positive for all positive values
+of wealth?
+So you're always going to have a positive value of wealth.
+Otherwise, it's undefined, right?
+So utility is equal to the square root of w.
+It's not defined for a negative 1.
+Yes?
+And you said earlier, bigger positive number
+means greater risk aversion.
+Exactly.
+That's correct.
+So yes, the more positive.
+So a million means you have a coefficient of absolute risk
+aversion.
+A million is bigger.
+That means more risk aversion than 1,000.
+So what you see here is that with this utility function,
+for all levels of wealth, you are risk averse.
+For all levels of wealth, you are risk averse.
+Although you can also see that as w
+goes up, what happens to your coefficient of absolute risk
+aversion?
+Goes down.
+You become less and less risk averse.
+And as w goes to infinity, then your risk aversion goes to what?
+0.
+0.
+Risk aversion goes to 0.
+Now, if we just had utility equals w,
+then we would see that the first derivative would be equal to 1
+and the second derivative equal to 0.
+And then our coefficient of absolute risk aversion
+would be negative.
+That equals negative 0 over 1 equals 0.
+So what we see here is that with any linear utility function,
+you're going to have a coefficient of absolute risk
+aversion, which of 0.
+So any time that your utility is just
+a linear function of your wealth,
+then you are automatically risk neutral.
+And then as you might guess, is so remember that linear function
+means that the coefficient or that it's
+w raised to the power of 1.
+And what you might guess, which you can confirm for yourself,
+is that if the coefficient there is less than 1,
+then you're going to be risk averse.
+On the other hand, if the coefficient's greater than 1,
+then you will be risk averse.
+So if you were to do w squared, that
+would be a risk-preferring utility function.
+But so would u is equal to w raised to the 1.1.
+That would also be a risk-preferring utility
+function.
+And this here captures the intuition
+that normally as wealth goes up, risk aversion goes down.
+And the idea that a billionaire is
+more willing to gamble a dollar than someone
+on the edge of starvation, which makes some sense.
+So everyone happy with this?
+This is all we ever have to do with this.
+And I think this is all you'll ever have to know.
+So as long as you just know coefficient
+of absolute risk aversion, of 0 means that you are risk neutral.
+Positive means that you're risk averse.
+And negative means that you're risk preferring.
+Then you've got the basics down.
+And again, if you remember that formula,
+then you could even go and calculate
+what the coefficient of absolute risk aversion
+is for any given utility function.
+And hopefully, you'll be able to do that.
+And you'll be able to calculate the utility function
+at the level of wealth.
+And you can remember that.
+All right, so questions about that?
+Happy?
+Thank you.
+All right.
+Now, one application of expected utility theory
+is solving textbook problems about insurance.
+So let me show you a textbook problem about insurance.
+All right.
+So nice, simple problem.
+So start with someone with an expected utility function
+of, say, w raised to the 0.8.
+So as I say, is this going to be risk averse, risk neutral,
+or risk preferring person?
+Risk averse, right?
+Because the coefficient on w is less than 1.
+So it's going to be risk averse.
+OK.
+So suppose he wants to insure his income.
+And then, since it's a homework problem,
+we'll set it up very simply.
+Suppose that his income is going to be 1,000,
+with probability equals 0.6.
+And 0, the probability equals 0.4.
+So that's if he doesn't buy insurance.
+But then, you can also go and buy an income insurance policy.
+And let's see.
+So let's see.
+The company offers i dollars worth of insurance.
+And it pays off in this situation.
+So basically, if that happens, then the insurance company
+pays.
+And it offers it at a price of 0.4 xi.
+And it pays off in this situation.
+All right, so what this means is if x is 1,
+then it is selling you insurance at the actuarially fair rate.
+So that means that there's a 40% chance that I have to pay.
+So I'm going to have to pay 40% of the amount of dollars
+that I will get in this event.
+Now, according to normal common sense morality,
+is it fair to expect companies to sell
+your insurance at the actuarially fair rate?
+No.
+Is actuarially fair insurance fair?
+No.
+No, well, what's unfair about it?
+It's expecting the insurance company
+to give you things for free.
+Yeah, it's expecting the insurance company
+to work through your slaves, to do everything for free.
+So you would never expect them to actually do that.
+But it's still a useful starting point
+just to see what that would mean.
+And then you can go and vary that markup.
+So anyway, so you'd expect that x would always
+be greater than 1 in the real world
+because they need to have some way of covering their overhead.
+There's overhead for insurance companies,
+different employees, people.
+They need someone to develop a phone tree that
+disconnects you after taking different steps.
+So that doesn't happen on its own.
+It takes work.
+So that's where it goes.
+Now, this person here that has an expected utility
+problem to solve, he's going to maximize with respect
+to i.
+So he's trying to decide how many dollars of insurance
+to purchase.
+And he's going to be maximizing this expected utility function.
+So 60% chance of $1,000 minus the premium.
+Now, the charming thing about insurance premiums,
+suppose that everything works out great.
+Do you still have to pay your insurance premium for that year?
+Sure.
+So the whole idea of the premium is that whether or not
+you actually collect, you still pay the premium.
+So you're going to subtract out the premium, which
+will be 0.4x times i.
+Then, the utility of that outcome
+will be raised to the 0.8 power because that's
+what your utility wealth function looks like.
+And then there's a 40% chance of the other thing happening.
+The other thing happening, you get $0 of market income,
+and you still pay the policy.
+So you also have to pay the premium even in bad years.
+Good years, bad years, you always
+write the check for the premium.
+But the good news is in the bad state of affairs,
+the insurance company gives you i dollars.
+So you bought i dollars at a cost of 0.4 times x times i,
+where x is whatever the market for overhead.
+And then we need to raise that to the 0.8 power.
+So this is a bit messy, but nothing
+that you haven't encountered before.
+So if we just simplify it, and then we differentiate it,
+and then we set it all equal to 0,
+then we will get the mess at the top of the next page.
+So you get 0.6 times 0.8 times negative 0.4x times
+that thing inside raised to the negative 0.2 power.
+Everyone remember the following negative 0.2 powers.
+And then plus 0.4 times 0.8 times 1 minus 0.4x times
+all that mess also raised to that.
+You also raised to the negative 0.2 power.
+That equals 0.
+Now, if you're getting very nervous,
+the good news is if you've got something
+raised to a weird power plus another thing raised
+to a weird power all equal to 0, you can generally
+go and separate it out and then rearrange terms.
+And then you just get one expression
+raised to that weird negative 0.2 power.
+So if you do, you would see that in line E.
+And then all you have to do is take the negative 0.2
+root of both sides.
+Remember when's the last time you took the negative 0.2
+root of something?
+Like I said, it's probably been a while.
+But it can be done.
+You're familiar.
+You remember how these things are all possible.
+You can take any kind of odd root that you want.
+It's all doable.
+And then if we go and define theta
+as being that mess there, all raised to the negative 0.5
+power, we get the answer.
+So we get I star, which is the optimal amount of dollars
+insurance to buy, will be equal to 1,000 all over theta times
+1 minus 0.4x plus 0.4x.
+All right.
+Now, at this point, this probably still
+seems like it isn't really telling you anything
+interesting.
+And especially this hour a day, you
+may be baffled by the math or what in the world
+is going on here.
+But here is something interesting,
+which is that if the insurance really is actually fair,
+so x equals 1, then that theta thing
+simplifies down very nicely.
+So in fact, theta then becomes.
+So if x is 1, then theta is equal to 1.
+And if theta is 1, then look at how nicely everything
+simplifies.
+Because then we've got 1.
+So we have 1.
+So that's 1.
+Then this can be 1 minus 0.4x plus 0.4x.
+The 0.4x is canceled.
+That leaves 1 in the denominator.
+And then I star is going to just be equal to 1,000.
+So this says that if there's actuarially fair insurance,
+then a risk averse person will fully insure.
+They will buy $1,000 worth of insurance at a cost of $400.
+And then they will have $600 regardless
+of the state of the world.
+And that's exactly what you'd expect a risk averse person
+to do if there's actually a fair insurance around.
+Because basically, what is actually a fair insurance?
+It is an opportunity to get the average income
+at every possible state of the world.
+And if you're risk averse, isn't that exactly what you would want?
+Of course.
+So that makes sense.
+And then as you increase the markup, as you might guess,
+this means that you'll buy less than that insurance.
+So even though you're risk averse,
+as the price of insurance goes up,
+you are willing to tolerate more and more risk.
+Make sense?
+And then if x were to get really high,
+even risk averse people wouldn't want to buy any insurance.
+Wouldn't want to buy insurance at all.
+And instead, they would go and sell insurance to others.
+Who would risk averse people sell insurance to?
+People who are?
+More risk averse?
+Well, even more risk averse.
+Yes, so the people that have w raised to the 0.8 utility
+function might sell insurance to the people with a w raised
+to the 0.7 utility function.
+Or w raised to the 0.1.
+So it is possible, then, you could have insurance markets
+in a world where everyone's risk averse.
+Just like in a world where everyone
+hates the smell of garbage, there's
+still going to be some garbage men.
+And who will the garbage men generally
+be in the world when everyone hates the smell of garbage?
+People who hate it the least.
+Yeah, people who hate it the least.
+So it's a nice intuitive result.
+Now, in an economist model, the economy overall,
+it's very common to say, well, let's
+assume that consumers are risk averse
+but firms are risk neutral.
+Although, when people actually go
+try to study what firms do, it seems
+that firms also act as if they are risk averse.
+Possibly because firms are run by humans.
+Interesting possibility.
+Although, you may have also heard there are cases where
+firms seem to be risk averse, risk aferring,
+or act as if they are risk aferring.
+Like, have you ever heard of zombie whatevers,
+like zombie SNLs?
+But again, normally, like I was saying,
+have you ever heard this expression, zombie SNLs?
+Basically, if you've got a firm where you're already
+like you're allowed to keep doing business
+even though you have negative net worth.
+So this is a situation where if you just accept the average,
+then you lose money for sure.
+Whereas, if you do a gamble, then either you
+will lose even more money, but there's limited liability,
+so no harm done.
+Or you will get lucky and then things will work out for you
+and then you will be back in the clear.
+So, anybody else?
+All right, so questions.
+Questions about insurance?
+Happy with insurance?
+Anyone want to start solving problems like this?
+If you're itching, as soon as class lights out,
+you will be solving insurance problems.
+That's the basic idea.
+Now, last topic for symmetric and perfect information.
+So there are a lot of textbooks that
+give a list of conditions under which markets fail.
+And a standard condition of market failure
+that you will see in many textbooks to this day
+is imperfect information.
+Information is imperfect and therefore markets fail.
+This turns out to be just a gross overstatement.
+It's just wrong.
+Because it's totally possible to combine market efficiency
+with symmetric and perfect information.
+And actually, as we're going to see,
+even when it's asymmetric, it might work out.
+But when it's symmetric and perfect information,
+and again, remember, that's when everyone is equally in the dark.
+There's no one who knows better than anybody else.
+And then it's very easy to show cases
+where, even though people have imperfect information,
+still everyone is acting optimally
+and there is no failure of any kind.
+So let's just go through some examples.
+So suppose I don't know how much I'm
+going to enjoy my consumption bundle.
+So I might have my utility function
+is going to be x to the a times y to the 1 minus a plus
+epsilon.
+Epsilon is normally distributed with mean 0.
+And what's my optimal decision?
+My optimal decision is exactly the same
+as if the epsilon were 0 all the time.
+So basically, what's happening here is you optimize.
+And then the universe just gives you either better or worse
+utility regardless of what you did.
+So in that case, there's no reason
+to think that there's any change.
+And there is no change in front of the outcome.
+So if the outcome is optimal before,
+then despite the imperfect information, remains optimal.
+Or it could be that suppose you don't know your relative taste
+for x and y.
+So this one's more fun.
+So suppose that you're maximizing, again,
+so you've got utility of x and y.
+And it's going to be given by x raised to the a,
+y raised to the 1 minus a.
+But then, what is a?
+Well, a could actually be unknown.
+So it could be that a equals 0.5 with a probability of 0.6.
+Or a could equal 0.9 with a probability of 0.4.
+And you're dealing with that.
+And again, then what's the optimal thing to do?
+The optimal thing to do is say, well, 60% chance
+we're in this world, 40% chance we're in that world.
+And I'll just go and do expect utility.
+And the fact that I am deeply confused about what I like
+doesn't lead to a suboptimal outcome.
+It leads to the optimal outcome.
+Now, this is only true if it's a scenario where, in this case,
+this needs to be symmetric.
+So now suppose that this is what I thought,
+but then the government knew, no, no, no.
+This is what your preference is for sure.
+I just know.
+You're an idiot.
+I know.
+In that case, then the government
+might be able to help you because it's not symmetric
+anymore.
+But if no one knows any more than you do,
+then there's no way of actually proving upon this outcome.
+And if you go to Robin Hanson, he'll even say,
+no, he wouldn't tell you, sir.
+There are theorems saying that as long as the information is
+truly symmetric, and again, that includes symmetric not just
+for market actors, but for all creatures.
+It's got to be symmetric for all creatures,
+including the government.
+But as long as it is symmetric, then there
+is no reason to think that the market outcome is
+any worse than normal.
+So it's just not true that a perfect information
+in general causes market failure.
+So the more general, so intuitively, here's
+the thing is, just because you're ignorant
+doesn't mean you're stupid.
+So if you're in this situation, you could either say, my god,
+I don't know what my own utility function is.
+What am I to do?
+What was me?
+I'll just act randomly.
+But that would not be what a sensible person would
+do based with this.
+The sensible thing is just to go and plug the numbers
+into expected utility theory and do that.
+That's a sensible thing.
+So anyway, so just because you're ignorant
+doesn't mean that you are stupid.
+So if you don't know exactly what's going on,
+you could just fall back on more general purpose strategies.
+Fall back on more general purpose strategies
+to take account of all the possible outcomes.
+Say, well, let's see.
+So this job seems more fun, but it's higher risk.
+So let me weigh the pros and cons.
+And again, if there's someone that actually
+knows better than you, then of course there is, well,
+how about just listen to them?
+But on the other hand, if nobody knows any better than you do,
+then whatever your best guess is is, as far as anyone knows,
+the best guess about what anyone should do.
+What you should do.
+And that is the solution.
+So we say, well, look, mountain climbing.
+Mountain climbing is a market failure
+because people don't know if they're
+going to make it to the top.
+Well, as long as they've got probabilities right,
+who knows better about the probabilities of mountain
+climbers?
+If anyone of them, they would seem like they know the best.
+And they know their own limitations
+better than anyone else.
+So why wouldn't they just go and optimize his bank utility,
+taking into account all the possibilities of top,
+or fail, or get a little frostbite, or lose fingers,
+or follow your death, or PTSD, all
+these different possibilities.
+So if you've seen mountain climbing movies,
+you know about all the horrible things that happen to them.
+Just rewatch this great one about 1936
+ascent of the north face of the Eiger in Switzerland,
+where they all died, just to give it away.
+Yes, but before that, they lived a lifetime.
+Yeah.
+Blizzard struck in the middle of July
+when they were halfway up the mountain.
+They already had a bunch of other problems.
+All right, so questions about this?
+So in general, any time that you have a plan,
+so there's all these possible outcomes.
+This is my best response in the first outcome.
+This is my best response in the second outcome,
+best response in the third outcome.
+I worked this all out.
+And that is precisely the kind of situation
+where if there is symmetric or perfect information,
+then there's no reason to think that individual decision
+making is suboptimal or that there is a moment of failure.
+Wouldn't that apply to heroin?
+Yes, of course.
+So if, in fact, people use heroin,
+well, there's 80% chance that I use it and enjoy it,
+and there's no problem.
+And then there's a chance that I get addicted moderately,
+a chance that I get addicted really badly,
+chance that it kills me, and I get that it completely kills me.
+And I weigh all these probabilities.
+And if you think that it's an idiot to do it,
+you have to know how great it is if it really works out for you.
+And in principle, that can all be plugged into this model.
+You think that model is definitely wrong,
+then we can talk about it in the week on asymmetric information,
+possibly.
+Or maybe we need to go all the way to the rationality
+chapter in this second.
+Just tell me what you're doing.
+So questions, other questions about symmetric and perfect
+information?
+Everyone happy?
+Everyone full of energy?
+Right, yes.
+In the back, everyone in the back full of energy.
+In the middle, in the front.
+Lots of energy to continue our march
+through all of basic, easy microeconomics.
+Now, asymmetric information.
+So my guess is that everyone here
+has at some point had a lecture on this.
+Now we will do our own bird notes.
+So asymmetric information.
+So in the real world, everyone is not equal in the dark.
+Sometimes some people have more information than other people.
+Seems like a pretty obvious observation.
+So when this occurs, economists call it asymmetric information
+because it is not symmetric.
+And if information, in addition to being perfect,
+is also asymmetric, then you may get inefficient outcomes.
+Even there, though, it's only a may.
+And as we'll see, it depends upon a lot of other factors.
+So let's start with the simple classic case of moral hazard.
+So if you're risk averse, then it's
+efficient to be able to get insurance.
+But normally, whoever is insured knows more about the risk
+that he is taking than the insurer.
+So if you have auto insurance, you
+know a lot more about the risk that you took just today
+than your auto insurance company will.
+You know about when you ford the car when you were,
+say, a half of a second away from the light,
+or from getting through the lights.
+You know when you took a turn, when cars were coming
+and it was not totally, totally clear that they would not
+run into you.
+You may have gone and done extra trips
+that you would have not done if you weren't insured.
+You might just do a normal, regular, boring trip.
+But if you were not insured, you might say,
+the slight risk of an accident is enough
+to tip the scales and get us going.
+Think about any time you were ever just about indifferent
+to taking a trip, did you ever say,
+well, there's also a slight chance of an accident,
+so that tips the scales and I won't go.
+If that kind of thinking, you have done that thinking,
+you might not have because you feel insured.
+Of course, insurance does not protect you from everything.
+So standard examples would be like auto insurance.
+You know more about the risk that you
+are taking as a driver than the auto insurance company does.
+This also works for employment contracts
+because you know more about the effort
+that you are putting into your job than your employer does.
+You have opportunities to do good things for your employers
+where your employer is not watching,
+and you might diligently go and serve your employer's best
+interest because that was the deal.
+Or you might say, I'm tired.
+I'm bored.
+I'm going to do what I feel like doing
+and what my employer doesn't know won't hurt him.
+Or to quote Nelson Munson from The Simpsons,
+shoplifting is a victimless crime,
+like punching someone in the dark.
+It's funnier if you say it in a Nelson voice.
+Shoplifting is a victimless crime,
+like punching someone in the dark.
+So anyway, now part of the problem here
+is that if you're risk averse, then you're
+going to want constant pay.
+But on the other hand, if there were more pay performance,
+you would probably apply more effort.
+So you could have an employment contract based solely
+upon how much value you add.
+But then there's the problem of the value
+that I add depends upon a lot of factors.
+It depends upon how much business the firm has
+and whether the boss happens to go and give me
+a good assignment.
+I could go and just accidentally drop the product.
+So you could imagine a job, for example, at a fast food place
+where any time you mess up an order,
+you're going to have to subtract that from your wage.
+That could be a great deal if what?
+When would you want to take the deal of
+all botched orders extracted from your wage?
+High hourly wage.
+Yeah, if you had a nice high hourly wage.
+So you say, here's your hourly wage,
+$25 an hour at McDonald's,
+minus the full cost of every order you mess up.
+And then there'd probably be a,
+especially when you're learning,
+you'd probably be owing McDonald's money.
+You'd probably mess up many orders,
+initially at McDonald's and then,
+so that would be the problem.
+Okay. All right.
+So anyway, so if you had performance-based pay,
+you could go and get people to,
+it would give people better incentives to go and
+actually produce more and more carefully.
+But at the same time, it does mean that there,
+that you are putting risk upon
+a risk averse agent and that is a problem.
+All right. All right.
+So this means, so once you,
+once you ensure the risk averse agent,
+once you go and tell the worker,
+hey, if you make a mistake, you mess up an order,
+then you still get the same wage as
+if you got all the orders right.
+This changes the incentives for that worker to be
+careful and will generally lead to less care.
+All right. And this means in the real world,
+you've got a choice between two evils.
+The real world of insurance.
+So you have one evil of less than full insurance.
+That's one. Right.
+Or you can have inefficient risk taking.
+And of course, in the real world, you generally have both.
+You settle for some mix of not fully insured,
+but also some bad incentives.
+Right. And a classic example here would be insurance deductibles.
+So with an insurance deductible,
+there's a certain amount of damage that you're responsible for.
+So the deductible might be $1,000.
+This means that if you have an accident that costs $1,000 or less,
+you have to file the full,
+you have to pay the full cost of that.
+If the accident costs more than $1,000,
+the insurance company will give you the cost minus $1,000.
+All right. So this system does lead to two problems.
+So one is you got less than full insurance.
+There are people who are risk averse,
+but still they might lose $1,000,
+possibly over a simple mistake,
+possibly an unavoidable mistake.
+But on the other hand, if you didn't have this deductible,
+then this means that people would be,
+they might be very inclined at least to go and take big risks.
+Because if every single dollar that you have,
+any accident you may got,
+were to be reimbursed by the insurance company,
+well then why not go and take some risks?
+See, I did hear about a story of,
+see, there's a Canadian province that had no auto insurance,
+and the story that I,
+I think this was a law professor told me he saw this.
+So there was a guy in a really nice car who went and
+cut off someone in a really crummy car,
+and the person in the really crummy car just went and deliberately drove
+right alongside the nice car and ripped up the side of it.
+And he said, well, no fault.
+So we each have to, you know, our losses, it's really too bad.
+All right. So that's a case of inefficient risk bearing.
+All right. You might step back and say,
+you know, he was actually fighting the negative externality of cutting people off,
+but you'd probably get yourself stuck in a lunatic.
+So, you cut me off.
+I kill you for that.
+So, anyway, so you've got,
+so insurance deductibles are one approach you can take,
+where you're trying to give people at least some incentive or to,
+you know, use Nassim Taleb's favorite phrase,
+some skin in the game.
+So know that if you go and get in trouble,
+at least some of the cost is going to be paid by you.
+Which gives you incentives to at least take moderate caution.
+These basic precautions.
+All right. So questions about this? Yes.
+Can you give another example of inefficient risk taking?
+Yeah. So this could be like your work on a job where,
+if suppose you get fired,
+that you could be fired for accidentally for messing up too many orders,
+then this could mean that, you know, that, let's see.
+So that would be, actually the other round.
+So basically, like if you're allowed to mess up like 10 orders,
+for 10 orders and you know you only get fired,
+I can tell you that when you mess up the 11th order.
+In that case, someone might deliberately mess up an order.
+Might say, hey, I don't like that guy.
+So I'm going to go and deliberately give him a hamburger he doesn't like,
+just out of spite.
+Which you wouldn't do if you had to go and pay the cost,
+if you personally were paying the cost of that messed up order.
+But of course, it doesn't have to be deliberate.
+It could just be negligence.
+Could just be, well, I mean,
+I didn't want it to be messed up,
+but I also wasn't going to try that hard to double or triple check it.
+All right. Now, interesting.
+You can often infer behavior from outcomes.
+You can often infer behavior from outcomes.
+And this means that in such cases,
+if you can perfectly infer behavior from outcomes,
+then it wouldn't matter that you don't know what everybody's behavior is.
+You could just look at what happened and say,
+aha, I know what you did based upon your level of success or failure.
+All right. But again, the problem is that usually,
+usually, there's some imperfection here.
+Doing it like you might say, look,
+I just know for a fact that a worker of your talent will screw up five times per day.
+So you screw up five times per day,
+I just accept that as normal and there's no punishment
+because you did what you're supposed to do.
+Six times, however, then I know that you were
+trying to mess up on purpose or being lazy.
+If you actually had that level of knowledge,
+you wouldn't need to know the details of the person's day.
+You basically just go and look at the end of the day and see how many times you mess up.
+Six, that is a smoking gun for bad behavior.
+If the real world were that simple.
+But again, the problem is that the real world is not that simple.
+Although, if you average over a long period of time,
+then the world may get more and more simple.
+So for example, like in academia, anyone can have a bad year.
+But if someone hasn't published anything for six years,
+then you tend to start thinking that it's not just bad luck,
+and the person just is not going to publish.
+So now again, that's not perfect because once in a while,
+there is someone who just has six bad years in a row.
+Like six unlucky years and they could still be awesome, but unlikely.
+All right. So questions,
+questions, all right.
+Now, there is a way you can solve moral hazard problem very nicely,
+if people are risk neutral.
+So with risk neutral agents,
+then you don't need to worry about moral hazard.
+Because essentially what you do is you just put all the risk on whoever it is,
+who makes the decision.
+If they're risk neutral, they won't mind.
+So suppose you are the CEO of a company or risk neutral,
+then the employer could just say,
+look, all right, we will effectively sell you the whole company.
+Then whatever good or bad that occurs,
+you will bear the full cost and receive the full benefits.
+Then if spending $2,000 with a managerial effort in the middle of the night will save you,
+will save you $2,500.
+If you own the company, you will do it.
+Or again, of course, it wouldn't have to be literally on the company,
+it could also be that you,
+that you're part of basically like any change in the value of the company,
+is going to be taken away from you.
+So you could be the company's worth a billion,
+but as long as the value fluctuates by 50 million.
+So if the CEO has a net worth of 50 million and he's risk neutral,
+then you just say, well, if anything goes wrong,
+we just take away your house and all your other assets.
+Is that cool? The CEO, if you were a CEO,
+would say, yeah, because there's also a good chance that I'll get to double my assets.
+I might lose everything, double it,
+and I'm indifferent between those two possibilities.
+So you could do it that way.
+With this work, you just have one risk neutral person in the entire company.
+Yeah. Again, so the only issue there is
+just if there is a minimum amount of wealth a person can have.
+So if you can't go below negative a billion dollars,
+then a risk neutral person will start acting like the risk preferring,
+because once you get down to the minimum of where you can be,
+then there's no reason to worry about the downside anymore.
+Then anything that increase
+the variance is going to raise your expected payoff at that point.
+Now, another solution to role hazard,
+and one which Anglo-American law specifically persecutes,
+despite the pretty obvious case for it,
+is contractual punishment.
+So in general, there's a long tradition in
+the English legal system from which the American one is the close descendant.
+You've heard this before, right?
+So it's all going back to the law of 12th century England.
+They still teach you in the first year of law school.
+Let's learn about the law of 12th century England now.
+Much of it superseded, but anyway, that's still the origin.
+So going back a long time,
+there's been a big issue with writing a contract where one of the terms is,
+if I am caught doing the following bad thing,
+I'll owe you 10 times whatever the harm was.
+So this is legally very heavily frowned upon.
+Now, you might be able to sneak it in anyway,
+if you just don't admit what you're doing.
+So you might be able to put a clause in there saying,
+if I'm caught playing Tetris,
+I will then owe you $1,000 for the loss of $1,000 a company time.
+So you might put it that way,
+and then maybe a court would enforce that.
+But if you were to have any kind of explicit language saying,
+whatever time you catch me stealing from the company,
+I owe you 10 times that back,
+that's exactly the kind of thing the courts would invalidate.
+The contract is not illegal, just unenforceable.
+Now, it's a very strange thing that clauses like this are not enforceable,
+because this gives you a great way of solving moral hazard problems.
+So suppose, for example, that you want to go and sell someone a health insurance contract,
+and you want to go and give them a nice discount for not smoking.
+But you're concerned that they might promise not to smoke and then do it anyway.
+Well, what clause might you want to put into the contract in order
+to make it highly unlikely that someone would ever want to lie about their smoking behavior?
+If we catch you smoking, you owe us the value of the discount
+divided by the probability we catch you.
+Yeah, that. Or you just have,
+we catch you smoking, you owe us a million dollars.
+You put this piece of a dollar's amount of money.
+In this case, there is a strong incentive not to cheat.
+So if you're a smoker, you're like, well,
+gee, I don't want to sign that because they might catch me,
+and then they might go and charge me this enormous amount.
+So I'll just be honest and admit I'm a smoker.
+On the other hand, if you're not a smoker,
+then you'll probably be happy to sign that and say,
+well, don't smoke, but never touch it. So what's the problem?
+Now, the only real counter-argument people have is, well,
+this gives some bad incentives over the insurance company to fabricate false accusations.
+But that is a reason to be pruned about signing the contract,
+but it's not a reason not to enforce the contract people want to sign.
+Big difference, right? So the fear that the insurance company might rip you off,
+this is a reason for you to go and say,
+well, maybe he's going to falsely accuse me of being a smoker.
+Then you might want to go and Google the company and
+find out whether there have been such accusations and so on.
+But after you've looked into it,
+and if you say, well, it seems like this is not a problem and you sign,
+then there's no reason not to enforce the contract after that.
+So in other words, this argument is only an argument for customers to be more careful.
+It's not a reason to actually refuse to enforce it.
+Again, what is the argument in favor of these clauses?
+The argument in favor of it is a way of getting over moral hazard.
+There are so many moral hazard problems that exist in the world.
+So we think about all the jobs that never happen because the employer,
+because you can't sign this.
+So if you were to say, look,
+if you ever catch me playing Tetris,
+there will be a file, I will pay you $5,000.
+Again, of course, there is a problem if the punishment is so
+severe that it might be hard for the agreed party to collect.
+But the economies already come with a bunch of great ways of solving problems like that.
+So what might you do to convince someone that you're good for the $5,000 punishment?
+Clateral. Yes, collateral, a bond.
+Lots of you, so there's lots of things you might do to go and
+reassure the person on the other side that you can indeed pay.
+Then this way you get over it.
+So anytime there's a person who says,
+well, look, I would like to give you a chance,
+because say you don't have traditional educational credentials,
+but I'm really nervous that if I hire you,
+this is just like, it's not just going to be,
+turn out that it wasn't profitable,
+I'm really worried that you're going to mess things up,
+you're going to be disruptive or dangerous,
+or you're going to get someone killed,
+or you're like there's all kinds of things I'm worried about.
+Then a contractual punishment will allow you to
+reassure partners who are otherwise nervous about interacting with you.
+So this is something that's barely explored,
+probably because it's generally illegal,
+and yet the arguments are pretty flimsy for it.
+So anyway, and then remember,
+suppose that it's possible for someone to audit.
+The audit is that once in a long time,
+I randomly pay the information cost to go and find out what's really happening.
+So you say, look, it's too costly to go and hire
+a private investigator to go and follow every insurance customer around.
+But what if every year I randomly pick one percent of my customers,
+and then have them follow me?
+Then if I get clear proof of what they're doing,
+then I can go and collect.
+Well, that is a way that you can at least greatly reduce this whole hazard problem.
+As you say, look, as you know,
+I can't afford to follow my customers around, that's great.
+But let me remind you there's a penalty clause,
+and also I audit.
+Now, from the customer's point of view,
+what's good about allowing contractual punishment?
+Why would insurance customers,
+in general, like the idea of contractual punishment?
+You can be more fully insured.
+Be more fully insured and at a lower cost.
+You can get cheaper insurance if you agree to this stuff.
+Now, there's a distributional factor because who right now is benefiting from these bans?
+The people that are very inclined to go and sign
+a contract and then break the rules anyway,
+and take advantage of the situation.
+So yes, people like that are probably easily in their way through the system,
+sucking other people dry, taking advantage.
+So maybe it's good for them.
+Although, possibly even they would actually be better off in the system
+because the whole idea is that you put a contractual term
+because what's going on is because there's an inefficient transfer going on.
+So again, McDonald's would be perfectly happy if its workers messed up orders,
+if the workers would just pay for the orders.
+So the reason why they're not happy is
+because in general the value of the food to the customer is going to be
+greater than the value of messing up the order to the resentful employee.
+Otherwise, you just have two businesses.
+One is I'm selling food to customers,
+I also sell petty revenge to store employees.
+Okay. Now, by the way, so Robin Hanson actually is a chapter in his dissertation on
+the puzzle of the absence of contractual punishment or bans on contractual punishment.
+As far as I know, I don't know that anyone else has pursued this topic,
+but it's a great topic and I'm sure you'd be
+delighted if a student came and said I want to write
+my dissertation on going further on this.
+Ultimately, if you go and read Robin's work,
+he came up with the best arguments that you can imagine for banning contractual punishment,
+although I think he will say the best arguments aren't very good.
+But still, it goes way beyond typical legal arguments,
+which I think it would pretty much just amount to
+saying only the government should be able to punish people.
+You can't sign a contract saying I accept punishment in exchange for a good deal, why not?
+You have a question there?
+Oh, I was just wondering what the,
+you kind of answered it at the end.
+I was wondering what the legal decisions were that led to that meeting precedent,
+were they the arguments that you gave like fear of,
+you know what I'm saying.
+Yeah, like the fear that the person with the right to punish would be offended.
+Right, were those the arguments that you think correspond?
+So, I think these rules are very ancient.
+They might even precede any kind of written opinions.
+Okay.
+So, I'm not clear on when they come in.
+So, I've never done the legal history.
+Is this Robert Hanson's?
+Robert Hanson, in his dissertation, he has a chapter on it.
+Okay.
+Yeah, so I don't know whether he did the legal history either.
+I mean, Robin today is much more likely to do that.
+Back then, he was a Caltech doing a lot of math.
+So, maybe he didn't bother and just sort of started with the stylized fact that it is illegal.
+But, so again, there are people in law and economics who have tried to come up with some arguments.
+But again, it's more along the lines of rationalizing why this system we have makes sense
+rather than really saying,
+we're taking seriously the possibility that it's just a terrible system that we have,
+which exacerbates a bunch of problems for no great reason.
+Right.
+So, it's also rationalizing what we have, not figuring out, not exactly how it developed historically.
+Yeah.
+Okay.
+All right.
+So, questions about moral hazard?
+I'm happy with it.
+Everyone ready to go and join the crusade to legalize contractual punishment
+so that we can drive moral hazard back into the pit from whence it came?
+All right.
+Finally, we can declare war.
+Declare war and victory on moral hazard just by doing that.
+Oh, one more.
+Yeah, sure.
+Are there any other legal systems that don't?
+So, that I don't know, actually.
+So, the main other legal system is the civil law versus common law.
+It doesn't seem very civil law to be any better on this, but I don't know.
+All right.
+All right.
+So, that's moral hazard.
+And this moral hazard is the simplest form of asymmetric information,
+and it's one where the general idea was around long before economists were around.
+So, as long as it's been insurance, there have been people concerned about insurance fraud,
+which is the ultimate form of insurance of moral hazard.
+Right?
+So, the ultimate form of moral hazard is someone comes along and says,
+you know what, I'd like to buy a billion-dollar fire insurance policy on my shack.
+Right?
+And why?
+I just love that shack so much.
+I mean, you have no idea how miserable I would be without my shack.
+And every fire insurance company in the world will say,
+no, we're not going to insure your shack for a billion dollars.
+And why?
+Because if you just took people's word for it,
+then people would go and insure all kinds of junk for way more than it's worth
+and then would possibly destroy it on purpose for great financial gain.
+All right.
+Or if you know detective movies from the 30s and 40s,
+a standard movie is you get a life insurance policy on someone and then you murder them.
+So double indemnity, it's all about insurance policy.
+I guess so. Back in those days,
+insurance policies were considered very entertaining.
+And you can craft a very entertaining story around insurance policies.
+All right. So, anyway, so moral hazard,
+long known to the insurance industry.
+It's really as old as the insurance industry itself.
+Now, the next problem is one where insurance companies do things about it,
+and yet a lot of it seems like it's rule of thumb,
+and they don't really understand why they're doing it,
+and so economists actually have more value,
+or are adding more value.
+Maybe not in terms of the actual business behavior,
+but in terms of people actually understanding what's going on.
+It's a lot more, it's a lot subtler than moral hazard,
+which is pretty obvious once you think about it.
+So, this is another standard form of asymmetric information.
+All right. And the basic idea.
+So, you know your own characteristics.
+You know what you are like, right?
+But other people don't.
+So, a natural thing for other people to do is treat you as if you were
+the average member of a group that you superficially belong to.
+And which group you superficially belong to can change very easily.
+So, if I just go by myself to a playground,
+I am superficially similar to a child abductor.
+If I just wander onto a children's playground and just hang out there reading my book,
+people treat me in one way.
+I've never done this, but I assume it would give me bad looks.
+If I go there with a child on the other hand,
+they don't even know it's mine.
+But if I go there with a child,
+it's like there's a good father.
+Right now, in both cases,
+they really know next nothing about me,
+other than these very superficial things.
+One is, there is a man without a child in a playground.
+Or the other one is, there's a man with a child in a playground.
+Once I took my kids to do a test at a high school and school security came to me,
+and he said, a student came and said there was a man sitting here.
+There is. I didn't want to get in trouble,
+so I just said, guilty as charged, here I am.
+A man is sitting on a bench in a school.
+But instead, I'm waiting for my children.
+Okay. All right.
+So anyway, so you know what you are.
+You know whether you're planning on abducting anyone,
+but other people just take a quick look at you and treat you based upon
+the average characteristics of people that superficially resemble you.
+Now, here is the bad news.
+Suppose you're above average for that group.
+Then, you will be treated badly relative to the truth.
+So, and if there is a market,
+then you may be treated so badly,
+you decide you don't even feel like participating in the market.
+And if enough above average people think this,
+then the whole market can unravel.
+Because if the most above average people drop out,
+this lowers the average.
+And then the best of the people remaining are treated very badly,
+and they drop out, and then they drop out and so on.
+And imagine if I were to say that I'm going to fail the bottom half of this class.
+So, who would want to drop out?
+So, let's say this.
+Anyone who thinks they're going to be the bottom half wants to drop out.
+But this doesn't really solve the problem, does it?
+Because once they leave, then the class,
+then I said, well,
+the rule now I'm going to fail the bottom of whoever's left.
+And then more people may want to drop out,
+and then finally maybe left with one person.
+And then I don't know what the rule means.
+That's like 50-50 chance that they fail you or not.
+Whether we're down to one.
+But that would be unraveling where if the people that are in the bottom half,
+they'll just keep dropping out.
+And this makes the bottom half where we'll
+move the average and then finally go down with basically nobody.
+All right. So, that is the general problem of-
+over there. All right.
+So, there is a standard example that we've used many times.
+This is an example that's nice because it's so simple and it's so counterintuitive.
+And yet it's totally undeniable once you work through it.
+So, let's go through this class.
+Okay. So, suppose you've got a bunch of companies,
+and they are uniformly distributed on the interval 0 to 100.
+This is the value to the current owners of the companies.
+However, if you sell them,
+the buyers are able to run the companies more efficiently if you are.
+So, every company is worth 50 percent more in the hands of
+the buyer than it is in the hands of the current owner.
+Okay. All right.
+Now, what is going to happen?
+Okay. Well, let's see.
+Something that people often want to do is say,
+well, fine, I'll just bid, I'll bid 50.
+I'll bid the average value.
+So, I'll bid 50.
+And you intuitively think, well,
+this is going to work out really well for me because I will bid 50,
+and that's the average value of the company to the buyer,
+so they'll be happy to sell to me,
+but it's going to be worth 50 percent more to me,
+so I expect to make a profit of 25 on the company.
+That reasoning is totally wrong.
+And if we've got asymmetric information,
+it's because if the owners of the company know their true value,
+but all that you know is the average value of the company sold,
+something totally different will happen.
+Namely, if you bid 50,
+which companies will not be sold to you?
+All the companies worth more than 50 will not be sold to you.
+Those companies will be retained by the original owner,
+who know that they are worth more than 50.
+Therefore, the average value of the company sold to the owners,
+out of all the companies sold,
+the average value of the owners will be only 25.
+It's going to be worth, so the average company that sold will be worth 25.
+It's worth 50 percent more to you, so that's 37.5.
+This means that you are paying 50 to get a company,
+there's an average worth 37.5 to you,
+so you are losing money.
+All right. Now, what natural reaction is to say,
+fine, I'll just go and bid 100.
+We bid 100, then there's no longer any adverse selection.
+All the companies get sold.
+But in that case, you bid 100,
+the average value is 50.
+It's worth 50 percent more to you, so 75.
+So, you have actually lost even more money by increasing your bid.
+So, increasing your bid increases your loss even further.
+Then, the natural thing to do is to try bidding less.
+So, I say, fine, I'll just bid 25.
+But then, the average value will be 12.5,
+and the average value to the recipient will be 18.75.
+So, again, you've lost money.
+Sorry, fine, I'll go and bid two.
+If you bid two, the average value of the company sold is one,
+it's worth 1.5 to you, you've lost money.
+Although, every time you cut your bid,
+you are losing less money.
+That's a good sign, right?
+Because losing less is reducing your loss is better.
+Then, finally, you may say, fine, how about I bid zero?
+You bid zero, no companies are sold to you,
+you pay nothing, they're worth nothing,
+and you have now reached
+the profit maximizing solution of this problem.
+Buying no companies and losing no money is
+the best possible outcome given the setup of the problem.
+That clear to everyone?
+So, this is an extreme case of adverse selection,
+and this is one where there is full unraveling.
+So, people fully understand what's going on.
+No companies will be sold,
+even though every company is worth more to
+someone else than it is to the person that holds it.
+That's what's so odd.
+Okay. So, that's the equilibrium.
+Now, if there were symmetric information,
+there'd be a totally different result.
+If there were symmetric equilibrium,
+then there would be a different price for
+every company and basically you just pay everybody.
+You can offer everybody the value of their company,
+or you can offer everybody, say,
+10 percent more than the value of the company,
+and then all the companies will be sold.
+So, with symmetric information,
+this would be a perfectly efficient markets.
+Confirming that plan is telling you that
+symmetric and perfect information by itself,
+the ratchet goes over and over again.
+That was perfect information.
+Now, symmetric and perfect information would be,
+if the sellers don't know the value of their company either.
+All right. So, suppose that neither buyer
+nor seller knows whether the company is any good.
+In that case, the seller could go and offer 50,
+everyone sells, and therefore,
+the average buyer winds up getting a company worth 75.
+Or you could say, so offer 51,
+say, just to give a slight amount of
+a slight share of the profit to the original owners.
+But again, if the owners don't know if their company is any good,
+and if the buyers don't know if the company is any good,
+then you actually get a better outcome.
+Which, if you think about it, is counterintuitive.
+Because this is saying that,
+we start out the world where some people
+know they have perfect information and others don't,
+we actually get a terrible outcome.
+Whereas, if we go and mind wipe the sellers,
+we actually move to not only a better outcome,
+we can move to a fully efficient outcome by just deleting the information.
+So, not only does this mean that
+you can get a totally efficient result with the perfect information,
+you can actually solve a market failure by reducing information.
+It's completely true.
+Again, what's the solution?
+Now, again, of course, if there's
+perfect information for everyone,
+then there's no problem in this market. That's fine.
+But, and if there is,
+even if there's some metric imperfect, that's fine.
+The inefficiency comes from the asymmetry.
+If some people know and some don't,
+then this leads to strategic behavior,
+which leads to a socially inefficient outcome.
+Everyone clear on that?
+And again, understand the mind wipes.
+This means that we can actually make some people know less,
+the world would work better.
+And in fact, you can make the world work perfectly.
+If no one knew how good the countries were.
+Surprising. Questions about that?
+Is it too late to absorb how crazy that is?
+Amazing that is? Yeah.
+I mean, when you think about it more,
+it's like you come up with those lots of examples.
+Like, in general, can error make the world work better?
+There's all kinds of errors which would be great if they were widely shared.
+Like, suppose there was a view that if you murder anyone,
+you will explode instantly.
+This would basically abolish murder.
+Is it true that you will explode if you murder someone?
+No. Yet, would it be useful if people believe this?
+It would be very useful.
+So, it is not the case that if everybody,
+whether that everybody understood the world perfectly,
+it would like, would be an automatic improvement to the world,
+where some people had some totally wrong views.
+That's where we're pointing at. Okay.
+All right. So, to repeat.
+The same market if there is imperfect but symmetric information,
+actually works perfectly fine.
+Because if the, so if in a world of symmetric and perfect information,
+if the sellers offer 51,
+then all the buyers,
+so if the buyers offer 51,
+all the sellers sell because they know the people whose companies are here,
+don't know that.
+They think their companies are worth 50.
+So, someone offers you 51 for a company that you think is worth 50,
+you happily, happily sell.
+And since by assumption,
+every company is worth more than the buyer than the seller,
+this means that we realize 100 percent of social gain.
+Okay. All right.
+Now, this is a classic example.
+I think this is almost straight out of
+George Akerlof's original paper on the market of lemons.
+You may recall that he got an Nobel Prize for this.
+He did cook the numbers to get this extreme result.
+I don't even think he would deny it.
+But anyway, but it was strategically very wise for him to do this,
+because it's such a shocking result, right?
+But anyway, you could go and tone down the numbers and get very different results.
+All right. So, for example, let's see.
+So, suppose that the companies were worth twice as much to buyers as they are to sellers.
+In that case, if you were to go and offer 50,
+you would at least break even.
+So, no harm there.
+You could offer 100, you'd break even.
+So, no harm. All right.
+Or again, if they were triple,
+then you would definitely be happy to go and pay that amount,
+you would profit from it. All right.
+Then, suppose like, and then we can also alter the distributional assumption.
+So, here we assume a uniform distribution,
+where you're equally likely to be any of these, right?
+But you can imagine another world where it's just,
+let's see, so we have zero to 100.
+Let's suppose we just have one spike of 50 percent of the companies are at 50,
+and another spike of 50 percent of the companies are at 100, right?
+In this world, at least we would realize half of the companies would be sold,
+because you would go and offer 50,
+and then the average value of the companies that are sold when you offer 50 would be 50,
+and then you would go and make a profit of 25 of those companies.
+So, now let's see.
+If you were to go and offer 100, let's see.
+So, you have to offer 100 in order to get all of them sold,
+and let's see, in that case,
+would that be worthwhile? Let's see.
+So, if you did that,
+then the average value would be of one sold would be 75,
+and then yes. So, actually,
+in that case, it would be worth offering 100,
+and then all the companies would be sold, right?
+And then you wish that those had been sold,
+but nevertheless, overall you still make money.
+So, basically, if you go and offer the distributions,
+that will change the result too.
+Okay. Now, average selection models are very poorly understood,
+because there's a story that people want to believe,
+and that is very much part of popular culture,
+and then there's the story that average selection actually tells, right?
+So, the story that people want to believe is that there are,
+for example, evil greedy car dealers,
+especially used car dealers,
+and every day they wake up,
+and they look in the mirror, and they look like wolves,
+or like predators, and then they go,
+and they put on a mask, and try to act like a nice guy,
+and they put on their sheep costumes,
+and they're wolves inside,
+and then customers who are just like sheep show up,
+and say, is this a good car?
+And they go, yes, yes, yes.
+Oh, grandmother, what have you guys done?
+All right. So, and then what inevitably happens is,
+the evil wolves go and rip off the innocent sheep,
+and they get rich, and they go home every day and count their gold.
+They go, ah, the stupid sheep,
+I ruined it. There's a sucker born every minute.
+All right. So, and many people go and hear about
+Ackermann's market for lemons or whatever selection in general,
+and they think this is the model that shows why that's basic economics.
+It's basic economics that used car dealers get super rich ripping people off.
+But that's not the model at all.
+That model could be right,
+but it's not Ackerlof's model.
+So, like in Ackerlof's model,
+it would be generally known that the people who run
+used car dealerships are wolves who run to rip people off,
+and then what would the sheep do?
+Not buy cars.
+Yeah, not buy used cars.
+It would say, no way.
+I'm not going to send food out to your car dealership.
+I know what kind of game you're playing.
+No way.
+But, oh no, I want to.
+I mean, I know.
+So, it would be like that.
+And the result would be that the wolves would not get rich.
+The wolves would starve to death.
+They would have no business because no one trusts them, and why would they?
+So, in the fake story,
+customers of sheep, but in Ackermann's story,
+they're the third gold king.
+Yeah, yeah, yeah, sure.
+Yeah, they're like, yeah,
+we need to remember all these fables, but yeah.
+It's like, no way.
+You can't fool me.
+So, that's the idea.
+And again, so in the Ackermann model,
+if used car markets exist at all,
+the average customer benefits.
+There are some people who go and get ripped off.
+But, in order for the market to exist,
+who must be out there to balance out the people who get ripped off?
+People who get a better deal.
+Yeah, people who get a great deal.
+So, it's the person who shows up there and says,
+well, why are you selling?
+And the guy honestly says,
+well, I'm moving to Hawaii,
+so I got a week, I've got to sell this.
+You're like, oh, right.
+And then, as a result of the fact that there's a lot of dishonest people,
+the person who meets the person who genuinely is selling a good car to move to
+Hawaii gets a fantastic deal.
+All right. And so, this is the Ackermann model says that
+markets for lemons are smaller than they otherwise would be,
+but insofar as they exist,
+they remain mutually beneficial on average.
+So, it's not the story of
+like a giant industry of rip-offs and exploitation and fraud.
+Instead, it's a story where if there's any fraud,
+it's balanced out by giant windfalls, jackpots.
+People go and buy a used product and say,
+my God, this is a great bargain.
+I paid 2,000 bucks for this thing, it's like new.
+I guess he really was moving to Hawaii.
+Well, tough luck, tough to be him.
+Too bad. Tough luck.
+All right. So, that's the actual Akerlof story.
+Right now, this doesn't mean that the massive exploitation series is wrong,
+it just means that you need to come up with a completely different model,
+and Akerlof's got nothing to do with it.
+All right. Okay. So, questions about that.
+So, this is not a model of industries that are worth it,
+that are a good idea to ban.
+It's not a model of industries where the typical customer is getting ripped off.
+Right? If you take them all seriously,
+then you might say, why do you hear about the rip-off so much?
+I mean, why do you so rarely hear about someone who gets a great deal from a used car dealer?
+What is an answer consistent with the model?
+People who buy good deals don't want other people dropping out of the market.
+Well, that would kind of be a public good for a car.
+How do you think they don't want?
+I mean, people are more inclined to complain about bad deals than to brag about good deals.
+When you brag about getting ripped off, you get sympathy.
+Rather, when you whine about getting ripped off, you get sympathy.
+When you brag about getting a good deal, what do you get?
+Envy, bitterness.
+Oh, you had to go and say,
+oh, you got this great deal on his fur coat.
+God, I hate that guy so much.
+I hope his coat burns.
+I mean, there are many, many examples of this.
+So, if you look at the statistics for the former Soviet Union,
+you'll see a ton of people are better off,
+and yet there's almost no media stories,
+almost no academic research on people that talk about how great everything was for them.
+Instead, they just keep their heads down and stay under radar and enjoy their new high-side living standard.
+But there's a lot of research on people who lose out.
+Of course, you could also just think about what almost all news is like.
+How often are there good stories on the news?
+When they need filler.
+Yeah, so tons of bad stories.
+And again, is it because bad stories are normal?
+How about just because bad stories have a better audience for them?
+Yes, please.
+Wouldn't that just be a cultural part?
+Like, you'd be able to do some kind of Ferengi type society?
+Oh, the Ferengi?
+Yeah, so you would brag about the good deals you got and then not say the times you got scammed.
+Yeah, you know, there are subcultures of what bragging is not so friendly on.
+But, I mean, although, the general story is that bragging is most acceptable
+when the people that are bragging can easily beat up people that don't like their bragging.
+It's like bragging about athletic ability, but much easier.
+Because people have a lot of athletic ability.
+If you don't like it, they can intimidate you and beat you up.
+But bragging about how you did really well on a test, for example, that can get you clobbered.
+Yes?
+Oh, in this model, isn't complaining about the bad deals the reason why the model works?
+Because in complaining about that, this is why everyone knows that there's a risk behind you.
+Well, I mean, you don't need to have differential complaining.
+So, you know, like, yes, so like, the model could work just as well if everyone,
+after it happens, announces whether they got a good deal or bad deal.
+I mean, in a way, actually, if people were naive and all that they ever heard were bad news,
+this would lead to the market being destroyed even more often than the model says.
+Because, you know, so basically, if all you ever heard were negative feedback about a market,
+the naive inference is that that's all that ever happens.
+So you actually need to have in the background some kind of common sense
+where people realize that the complainers are not representative.
+All right.
+Okay, so your bottom line is in this model, on average,
+buyers do benefit from whatever deals they actually make.
+The problem in the model is just the market, is that the average selection shrinks the market,
+makes it smaller than it otherwise could be, and in the extreme case, it just wipes the market out.
+But it's not that the exchanges that happen are bad.
+It's that it's unfortunate that more exchanges did not occur.
+So, again, this is also not a model about why the sick are being ripped off in health insurance markets.
+In fact, it's a model about how people that buy private health insurance are on average benefiting.
+The average selection complaint is rather about who or what?
+People who don't get insurance.
+Yes, it is about all the people that don't get insurance, even though they value more of the marginal cost,
+the true marginal cost.
+So, and again, in this model, people often look at this model and say, ah,
+so this is the economic model proving that sick people will be able to buy insurance in the free market.
+The model says exactly the opposite.
+In this model, who are the only people that will buy insurance in the free market?
+Sick people.
+Who are the people that don't buy insurance?
+Healthy people.
+Right?
+And you're like, huh, but that isn't what people are complaining about.
+Maybe their complaint is different from what the model is.
+And well, then why do people equate the model with the popular complaint?
+Possibly intellectual laziness, where they're looking for, where they have,
+the thing that's really bothering them, which is probably just the sick people have to pay more for health insurance.
+And then they try, and then they latch on to a model that seems kind of related, even though it really isn't.
+Okay.
+All right, now, adverse selection is economists' favorite argument for health insurance or for insurance regulation in general.
+And in particular, the main regulation that this argues for is mandatory insurance.
+And again, going back to this case.
+Suppose you ordered everyone to sell their companies regardless of their own desires.
+You say every company must be sold.
+You must divest.
+All right?
+So in that case, this gets rid of the adverse selection problem, thus by forcing everyone to sell.
+All right?
+So in that case, they're all going to be sold, and then buyers can know that the average value sold,
+the company sold will be 50, and they'll be happy to pay, say, 51, and then all the mutual beneficial deals happen.
+And similarly, if we're talking about health insurance, the idea here is that you require everyone to buy,
+and this is going to be good or bad for healthy people when they're forced to buy?
+Bad.
+But so then what is the argument for the regulation?
+The argument is that it is a caloric improvement because the gains to the sick people exceed the losses to the healthy people.
+And again, if you from this example, it's clear that can be true.
+So basically the idea is that if you force the healthy people in the pool, they're going to be worse off.
+Specifically, the healthiest people will definitely be worse off,
+but the loss to them is going to be smaller than the gain to the others, and so it's a net social gain, and that is the real story.
+All right, and we are now out of time, so we will continue with this next week.

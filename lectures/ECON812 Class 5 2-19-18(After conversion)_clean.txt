@@ -1,0 +1,3206 @@
+We're going over why taxes are bad at the logic efficiency,
+which is no way a libertarian point.
+Instead, it's a simple neoclassical point
+about how taxes work.
+Can you hit the door back there?
+So just refresh your memory.
+Imagine we've got shirts that are the marginal cost
+equals to $18.
+And you are willing to pay $20.
+You're willing to pay just one unit.
+So one unit, one shirt.
+You are at no limit to pay $20.
+All right.
+That's the supply.
+And then, if there is no tax, then the price will be $18.
+And you value $20.
+And therefore, you buy.
+Yes.
+And how much consumer surplus do you get?
+$2.
+$2.
+And how much revenue does the government raise
+when there are no taxes?
+$0.
+And then what if the government raises a tax of one penny?
+The price goes up to what?
+Perfectly elastic supply.
+$18.01.
+Do you still buy when you're on space 20?
+Yes.
+How much surplus do you get?
+$1.91.
+$1.91.
+$1.96.
+How much revenue does the government raise?
+A penny.
+A penny.
+All right.
+Go up to $1.99 tax.
+Do you still buy?
+Yes.
+How much surplus do you get?
+A penny.
+How much revenue does the government get?
+$1.99.
+And then the government raises the tax to $2.01.
+Do you still buy?
+No.
+No.
+And then how much surplus do you get when you don't do anything?
+$0.
+And how much revenue does the government raise
+when you don't buy anything?
+Nothing.
+Nothing.
+And that's deadweight cost.
+That is the key insight, which, of course,
+applies for pricing, applies to monopoly pricing,
+applies to taxation.
+In anything you think of that leads there
+to be a reduction in one person's surplus
+without a corresponding increase in anyone else's surplus,
+that is our deadweight cost.
+And again, the classic version of this, of course,
+is for monopoly.
+You've got a person running a cost.
+There's the demand curve.
+There's her monopoly price.
+And there's your deadweight loss.
+But notice, we could get exactly the same result
+if we had perfect competition at a tax.
+Exactly the same idea.
+Because the tax means that rather than the assuming
+like here, when the firm goes and raises the price,
+on these units, you get less surplus.
+The firm gets more.
+But on those units, the surplus simply vanishes,
+and the monopolist doesn't get any.
+And the same would go if there were tax.
+Now we have a special name for this kind of inefficiency.
+It's called allocative inefficiency.
+And at least for allocative inefficiency
+on the free market, when people finally
+got around to actually estimating the size,
+because of course, we could go and draw triangles for decades
+without ever coming up with a number.
+And we're economists capable of doing this.
+Talk about a problem without ever measuring it.
+Yes, well, before there's any decent computers,
+it's even easier to understand why people didn't do it.
+It's like, well, let's talk about what
+we feel count-competent to talk about, and not do what's hard.
+So anyway, so you look really puzzled.
+No, no, I don't have my glasses on.
+I'm sorry.
+I can see that.
+Deadweight loss triangle.
+All right, so anyway, there was an economist, Harberger,
+who finally in the 60s, I believe,
+started coming up with estimates.
+And he came up with an estimate for all of the monopoly
+deadweight loss triangles in the entire economy equal to 0.1%
+of GDP.
+And super low number.
+But again, if you think about it just geometrically,
+it's more plausible than it seems,
+because remember, we're only losing that
+on the marginal units.
+And the marginal units aren't valued very much.
+So we only lose the marginal units.
+The marginal units aren't valued very much.
+And therefore, it's not so surprising the loss is small.
+And again, just remember the basic geometry of triangles.
+Remember the area of a triangle is 1 half base height.
+Base height.
+So if, for example, this were a, if we just had a slope of 1,
+then the area would just be 1 half base squared.
+So another key thing about deadweight loss triangles
+is that if you double the size of the price wedge,
+you quadruple the size of the loss.
+And if you increase the size of the wedge by a factor of 10,
+then you increase the loss by a factor of 100.
+So again, as long as you're only getting
+a little bit above marginal cost,
+you're getting a very tiny loss.
+Whereas if you had, say, a prohibited tax,
+taxes on the white-bottom market,
+then you could actually exploit all of that
+if you were going to try.
+So anyway, you can move this really low number.
+As you might guess, when you come up with a number,
+literally no number.
+A bunch of other people try to make the number bigger.
+And there's a series of papers trying to make it bigger.
+But it was hard.
+And then finally, there was the Samuelson-Quip,
+which I think I mentioned at the end of last class,
+which is that anything is small if you divide it by GDP.
+Which is a reasonably good joke.
+Although Samuelson, above all people,
+should know that's not true because he
+lived through the Depression.
+Is the Depression small if you divide it by GDP?
+No.
+No.
+So it's not true that everything is small
+if you divide it by GDP.
+And again, remember, this is not saying deadweight loss
+in the chewing gum industry is small if you divide it by GDP.
+The whole chewing gum industry is small
+if you divide it by GDP.
+It's saying that you take all the losses of all the monopoly
+in the entire economy and then divide it by GDP.
+That's small.
+And that's a pretty interesting result.
+All right, now, there is another source of inefficiency
+that is discussed.
+Maybe 5% is much.
+And yet the empirical estimates say that it's many times bigger.
+Why on earth would it be that we would
+talk a lot about a small problem and hardly ever discuss
+a big problem?
+Robin Hanson might have an explanation.
+Yes, discussion is not about the magnitude of problems.
+The magnitude of the discussion is not
+about the magnitude of the problem.
+Instead, mostly the magnitude of the discussion
+is about how much have people discussed in the past.
+So if other people are complaining
+about something a lot, then you want
+to complain about something a lot.
+If no one else cares, then it doesn't really
+pay for you to care, normally.
+So every now and then, you can be an intellectual entrepreneur
+and say, all of you people are scum for ignoring
+a much bigger problem.
+Sometimes that works, but usually, you're
+just talking to yourself.
+People say, man, that guy is rude.
+Calling us scum just for being obsessed with a minor problem.
+Anyhow, the much larger source of inefficiency,
+according to the empirical work that's been done,
+is called productive inefficiency.
+Also sometimes called x inefficiency.
+That's a term that was briefly around the 60s and 70s.
+When Ryan Murphy was here, I gave him
+the question of what is the most underrated topic in economics,
+and he said x inefficiency.
+Good answer.
+Anyway, so productive inefficiency
+is what you get when you're producing
+at above the minimum average cost for society.
+So you're productively inefficient if and only
+if the average cost of reducing the quantity
+is above the actual minimum average cost.
+These productive inefficiencies can easily
+be large because they exist on all units produced.
+Every unit produced at a higher than necessary cost
+can lead to a very large problem.
+So just to take a look, so suppose
+that we have no allocated inefficiency,
+so we're producing at marginal cost.
+So here is, and we'll make a flat cost curve
+so that average and marginal cost are the same.
+Remember that?
+Average cost is the key to productive inefficiency.
+So here we've got average cost one,
+and here we've got average cost two.
+And then here we've got demand.
+And then imagine that, say, that this guy is the brother-in-law
+of the dictator.
+So this guy is the brother-in-law of the dictator.
+This guy is unrelated to the dictator.
+And so the dictator says, you're not allowed to produce.
+I won't give you a license.
+So then this guy has the monopoly.
+Now imagine this guy actually produces at marginal cost.
+So he's producing right there.
+So producing at average cost equals marginal cost.
+There's no allocated inefficiency.
+But we have all of that productive inefficiency.
+And you may even remember the geometric name for that shape.
+It's a trapezoid.
+All right, a trapezoid.
+So that is the dreaded productive inefficiency
+trapezoid.
+All right, anyone ever even heard
+of the productive inefficiency trapezoid outside of this
+class?
+All right, so a couple people.
+Good.
+But anyway, which goes to my point
+about how economists hardly ever talk about it,
+even though empirical estimates say
+it's bigger by a lot than allocated inefficiency.
+All right, and that's the idea.
+And again, the idea is so from each of these units,
+we are having loss.
+And again, notice the definition just says
+all of the loss associated with the fact
+that we don't have the lowest cost producer producing.
+So sometimes people want to go and cut this up
+into a rectangle and a triangle.
+You could reclassify it all that way
+if you wanted to, but this is more elegant.
+So this is what people usually do.
+This is what they'll do.
+So you have all of that loss caused by cost being too high.
+Now, imagine here that we had contestable monopoly.
+So anyone's allowed to produce if they want to.
+So with contestable monopoly, would there
+be any productive inefficiency?
+We talked about how productive.
+Not how productive.
+It might be less.
+It might be some.
+Well, so remember, basic idea of contestable monopoly.
+Which firm takes over the markets?
+Whoever produces the cheapest.
+Yes, exactly.
+Whoever produces the cheapest.
+And where does that low cost producer
+wind up producing in this simple model?
+AC1.
+Right below AC2.
+So you go right below the cost of the second most
+efficient producer.
+So in that case, what we have is two things.
+So we have no productive inefficiency
+because it's the lowest cost producer producing.
+We are now, society is producing at the minimum average cost.
+We still have some allocated inefficiency over here.
+So remember that with differences in cost
+between the producers, the first most efficient producer
+produces it just below the cost of the second most
+efficient one.
+From the point of view of consumers,
+it doesn't change very much.
+But from the point of view of society,
+there's a big change, which is all of this stuff which
+was waste before gets turned into profits for the most
+efficient firm.
+And then we still do have that thing there.
+So that's there either way.
+But then it becomes, instead of having
+the whole trapezoid of productive inefficiency,
+we have the small triangle of allocated inefficiency.
+Now on the other hand, you can imagine
+a inefficient monopoly producing there, but with a price cap.
+Which is actually pretty common for government monopolies.
+So there's a government monopoly where
+they pick some crummy firm to be the only producer.
+And then they say, well, we have to go and protect consumers.
+So they're not allowed to make profits.
+Or they'll have a great return regulation
+or something like that.
+Think about the post office.
+Do you often hear about the post office
+making enormous profits?
+No.
+But it's illegal to compete with the post office
+for first class mail.
+And the very fact that they zealously guard this monopoly
+is kind of suspicious.
+What does it sound like they think
+would happen if anyone else could compete and deliver
+first class mail?
+Several people would enter.
+Yeah, it sounds like they'd need to be entered.
+Now, this does give the post office
+a great piece of propaganda, which
+is we are not hurting consumers because we have no profits.
+How could you possibly say we are in any way
+injuring you postal consumers when we don't make a dime?
+And how good is that argument?
+Well, first of all, persuasive.
+Very persuasive.
+How intellectually sound is that argument?
+Not very.
+It's terrible, right?
+So imagine that you're stuck with a firm that
+has such high costs that their costs are 10 times what
+they would that of the most efficient producer.
+So in that case, if you had competition,
+then suppose that we have a bunch of firms.
+We're all way up to AC10.
+Suppose that's the post office.
+And then if there were free competition,
+price would be driven all the way down
+to just below the second most efficient producer's costs.
+And then as a result of that, consumers,
+rather than getting them to pay that exploitation-less price,
+where they don't mail, where they just ship with agents,
+they sell at cost, but they're so terrible at their job
+that their cost is super high and you get a bad deal.
+Or you could go and pay a monopoly price
+bought to a deficient producer.
+And which one of these is better for consumers?
+That one where the producer makes no profit,
+or that one where they make a lot of profit?
+The one where they make a lot of profit.
+Because the key reason why zero something is wrong
+is the fact that the producer is making a profit automatically
+better for you.
+Depends on what his costs are.
+If he has low costs and he makes a modest profit,
+far better for you than if he had enormous costs
+and made no profit.
+Make sense?
+OK.
+All right.
+So anyway, in this world where we just
+charge a price equal to cost, but it's inefficient,
+but the producer's inefficient, then we
+have a little bit of a law of productive inefficiency,
+but with no allocator efficiency.
+Or of course, you could have both.
+So if you had, here's the lowest average cost,
+and here's the average cost of the actual producer.
+So if this was given to the brother-in-law of the dictator
+and he wanted to make money, what he would do is,
+I'm just going to look at his regular marginal revenue curve,
+and then he went producing something like here.
+And then we'd have that allocative inefficiency triangle
+and that productive inefficiency trapezoid.
+Then finally, we have that little rectangle of profit.
+So the result of all of these restrictions on competition
+is that to go and give this crummy producer
+that small rectangle, you have to go and take away
+this giant thing from consumers.
+And again, some obvious examples of things like this.
+Suppose that you ban Walmart to protect mom and pop stores.
+And standard story, why is it that Walmart does so well
+competing with mom and pop stores?
+Because Walmart has lower costs, much lower costs.
+It's not like you go to Walmart and say, my god,
+they're making tons of profits because the prices are so high
+here.
+It's like, well, why did you ever
+leave the wonderful mom and pop stores?
+Instead, the problem is the mom and pop stores,
+though they are often on the edge of bankruptcy,
+have such high costs that they can be simultaneously
+charging exorbitant prices and be on the edge of bankruptcy.
+Anyone ever here tried to run a business that you should
+identify with this?
+Running a business is really hard.
+And you can be saying, wow, my costs
+are so enormous that I have trouble making money,
+even if I do charge a high price, which is also
+hard to get people to do that.
+Now, this brings us to a very interesting difference
+between government and market monopolies.
+So in both government and market monopolies,
+you've got opportunities for allocation and efficiency.
+So whether it's a private monopoly
+that wants to raise price above marginal cost
+or a government monopoly that wants
+to raise price above marginal cost,
+either way you'll get allocated and efficiency.
+But government monopolies have a strong tendency
+to have the productive inefficiency trapezoid.
+Strong tendency on multiple levels.
+So one is, suppose they just pick the firm that
+gets to be the monopoly at random.
+What are the odds that they will pick the one that
+has the lowest costs?
+Really low.
+There's an enormous number of firms out in the world.
+And then you can add on some political economy.
+And what kinds of firms are most likely to come crying
+and saying, I need help?
+Probably inefficient ones.
+You may have heard, this is a good line, so remember it,
+if you haven't heard it.
+So in history text, folks will talk a lot
+about the infant industry argument for protectionism.
+And when you look at the actual world,
+infant industries are rarely protected.
+The ones that are much more often protected
+are what economists call senile industries,
+industries that are being driven to the wall, that
+are big but in decline.
+So it's the senile industries that are more likely to be
+protected, and this makes sense in terms of public choice.
+Because what kinds of industries are most likely
+to have a whole bunch of people around to go and complain
+and get favorable treatments?
+Industries that don't exist yet?
+How many people around in industries that don't exist yet
+complain?
+They don't exist yet?
+There's maybe a few visionaries.
+Wouldn't it be great if you would go and support
+an industry that doesn't exist yet?
+Pretty hard case to make.
+But on the other hand, for an industry
+that has employed 1% of the population,
+that sounds like one that is ideally
+suited to complain if, say, human-driven big rig trucks
+are going to be out-competed by rivalrous trucks.
+So key difference between private and public monopolies
+is the tendency for very high costs.
+And there's some really neat work
+by Congress John Ben-Renin and some co-authors
+where they look at management quality
+of different kinds of companies.
+And they reach a bunch of results which vary on.
+You'd be very much expected by people at GMU,
+but since they have no GMU associations,
+they've gotten a lot more attention for them.
+Of course, if you just want truth for bail,
+it's better if people other than us
+can be the vessels for the truth,
+can be the messengers, because they'll
+be believed, so one of the results
+is that government firms are poorly managed.
+Government firms are poorly managed.
+And as we know, poorly managed house
+makes you things like pay for performance
+and keeping track of productivity
+and making sure people show up on time
+and actually do their job, really common sense things.
+And as a result, government-owned firms
+have higher costs.
+Not too surprising.
+And then another neat result is basically
+the poorer the country, the worse the management generally
+is.
+And therefore, in poor third world countries,
+those firms are generally very poorly managed
+with horrible nepotism and just not keeping
+track of what's happening.
+But there is one great exception to the rule
+that companies in third world are poorly managed.
+There's a general category of firm that is well managed.
+And they're basically managed at first world levels
+in the third world.
+Multinational corporations.
+So to say it like you're doing a trailer for a movie,
+here's multinational corporations.
+But once again, coming back to productive inefficiency.
+Multinationals have lower costs because they
+are better managed.
+And if they were allowed to, so I actually asked Ben Reed.
+And so back of a napkin, what if multinationals simply
+took over the entire world economy completely?
+What are your results say would happen?
+And he's like, global GDP rise is 50%.
+All right.
+And if you think about every country on Earth
+that has tried to keep multinationals out
+there's otherwise regarded them with suspicion.
+So I guess they're going to come here and take your inputs
+and turn them into a lot more outputs.
+And then of course, competition leads to a bunch of other things.
+Anyway, all right.
+So questions about allocating reproductive efficiency?
+I'll be there.
+All right, so probably the person that talked about this the most
+was actually Robert Bork in his book, The Antitrust Paradox,
+years before he was nominated to Supreme Court.
+So he has a lot of good stuff on that, all the outdated facts.
+In general, productive inefficiency
+just doesn't get much attention.
+I mean, probably some of it is there's just a theory of,
+well, how could it be that any firm is ever producing
+at excessively high costs?
+There's the obvious point, what if it's
+illegal to produce at low costs?
+What about that?
+And then again, in the real world,
+there's always disequilibria where, for at least a while,
+firms probably might be doing things.
+Yeah, you had a question?
+I was wondering, what are the higher estimates of allocative
+efficiency?
+Yeah, so I think there was one paper that got up to 10%
+by assuming that every single industry in the United States
+was monopolized by one firm.
+Oh.
+Right, so.
+Yeah, so it only got to 10% as you can do that way.
+So you did, they had to make a very strict assumption.
+All right, moving on then.
+Everyone happy?
+Everyone full of energy for microeconomics?
+Everyone ready to ignore all signs of your biorhythms
+and the time of day?
+And all right.
+Right, of course, biorhythms are not important.
+This is not a biology class.
+This is economics.
+And the economy runs nonstop.
+And so must we.
+So continuing.
+All right, so predation, entry, deterrence, and mixed strategies.
+So predation means a lot of things to a lot of people.
+Is Amazon predating on the entire economy right now?
+Maybe.
+I don't know.
+What does the word even mean?
+So what insight can game theory give us
+into what predation might even mean or how much there is?
+So here's a very simple model of predation.
+And it just says, well, predation
+is the same thing as what is sometimes
+called limit pricing.
+And this just says, suppose there's a bunch of producers
+varying costs.
+And the lowest priced producer just
+prices just below the cost of the second most efficient
+producer.
+So imagine you've got a world like that.
+So we can go and here's demand.
+And then here's average cost firm 5, average cost firm 4,
+average cost firm 3, average cost firm 2,
+average cost firm 1.
+And if the most efficient producer
+goes just below those costs, then how many firms
+can actually profitably survive in the industry?
+One.
+Just one.
+And how did it occur?
+He set prices so low that everyone else either died
+or just was never even born.
+He made the other firms wish they had never
+been born by going and setting the price so low.
+Now, this kind of thing probably happens a lot.
+And a lot of the question is just, well,
+are they even trying to do it?
+So who cares whether they're trying to do it or not?
+Lawyers care.
+Juries care.
+You are much more likely to get convicted
+if there's a single memo that they can dig out
+of your archives saying, let's destroy the competition.
+Let's drive them into the ground forever.
+Whereas you simply offer a great product
+at a low price, which causes the very same destruction.
+But there's no memo.
+It's like, look, we don't want to hurt anybody.
+We just want to give everybody a fantastic deal.
+Yes, but that will automatically cause destruction
+of your competitors.
+Well, that's just a theory.
+I don't know.
+I don't want to hurt anybody.
+I'm just trying to help people.
+That's all I want to do.
+So it matters a lot in the eyes of the law.
+I didn't.
+Why is it so important?
+Well, that's a good question.
+Does it matter if you destroyed all your competitors
+because you were trying to do it,
+or if it just happened inadvertently
+as a result of offering a great product at low prices?
+But predatory intent is a lot more
+likely to cost you a lot of money.
+So it's important for that reason.
+And again, if this were a law in economics class,
+we'd be going into this more.
+So there is sort of an interesting question,
+like why is it that we punish murder more harshly
+than attempted murder?
+So what's the deal?
+Yeah, why not determine both equally?
+What's the difference?
+And the best story anyone in law economics
+ever come up with is, well, if you punish murder,
+attempted murder equally harshly,
+then the attempted murderer has a clear incentive
+to try to finish the job if he screws up
+the first time around.
+All right, so how many of you have witnessed murders
+where they are like, uh-oh.
+No, like there are actually maybe a few.
+So maybe like hit men, for example.
+I might be calculating that carefully.
+That's even a little bit hard to believe.
+So this is one model, which is something
+you can call predation if you want to.
+Should it be called predation or not,
+I'll just leave that to your judgment.
+Now, a more interesting model of predation
+is something more like this.
+There's an incumbent, and he has a conditional pricing strategy,
+which he prices high if there's no entrance,
+and low if there's an entrance.
+And then the entrance size is whether to enter.
+And you might remember we even talked about this situation
+before.
+So if you have a situation like this,
+then we've got two Nash equilibrium.
+So we've got our first Nash equilibrium,
+the Nash equilibrium out fight, which
+means that the entrant first goes and enters.
+Or the entrant doesn't enter.
+And then the incumbent would have gone and drastically cut
+prices if the entrant had entered,
+and therefore, neither wants to change its behavior.
+Because if you know that the incumbent would have cut its
+prices if you entered, you don't want to enter.
+And if the entrant is staying out,
+you don't want to change what you would do if he came in.
+And then there's the inaccommodate one as well.
+Inaccommodate, so that's where the entrant does go in,
+and then the incumbent goes and actually reduces output
+to accommodate the new entrant.
+So that's where you actually cut back on your production
+because it's new entrant, and you now
+need to share the market.
+And you may remember one of these two outcomes
+is not sub-key perfect, because it
+involves a threat to do something
+you wouldn't want to do if you actually
+had to carry it out.
+Which one of these two is not sub-key perfect?
+Out fight.
+So you come in there, and you say, well, now that you're here,
+I'm going to destroy us both.
+It's like, hmm.
+I mean, it's one thing to say, if you come in,
+I'll destroy us both.
+That's kind of scary.
+Once you're in, now destroy us both.
+Really?
+You're really going to destroy us both?
+Wouldn't you rather just cooperate with me?
+Oh, don't want to.
+Cooperating with an entrant is so humiliating.
+It's a daffy duck.
+Daffy duck is so humiliating.
+I'd rather cooperate.
+So anyway, this is a case where the incumbent
+would be cutting off his nose to spite his face.
+It doesn't make a lot of sense.
+Now, there is a less formal literature on predation.
+It's like an earlier one from the 50s and 60s and 70s,
+which adds on and says, on top of all this,
+not only is fighting a bad idea, but fighting is actually
+especially bad for the incumbent.
+Because normally, which firm has the bigger market share,
+the incumbent or the entrant?
+The incumbent normally has a bigger market share.
+So if you go and slash prices down to a level
+where you're losing money, and you have 90% of the market,
+then you'll be losing nine times as much money as the entrant.
+It sounds like it's like cutting your face nine times
+to go and cut the entrant's face one time.
+It doesn't sound very smart.
+And actually, even that's not right.
+Because suppose that if you didn't go and cut your price
+response, you'd have 90%, and the entrant would have 5%,
+and the entrant would have 10%.
+So suppose you keep output the same, then the divide is 90-10.
+But if the incumbent actually wants to fight,
+he's got to go and do what with his output?
+Increase it.
+Increase it.
+So then that might mean going up to 95% of the industry.
+So then you're losing 19 times as much money
+as the entrant, which again doesn't
+sound like a very good deal.
+So this is a vaguely related literature
+to saying that actually, since the real world incumbents usually
+are the market leader, they lose more money from predation
+than the entrant would.
+But anyway, the game theory point
+is just that regardless of that, it's
+cheaper to accommodate than to fight.
+And so incumbents want to do that.
+Now, all of this is, of course, forgetting about the first word
+of the notes.
+What is the first word?
+Let's double check the first word of the notes.
+Yes.
+So after the colon, yes, repeating.
+So all of these arguments are ignoring repeated play.
+So what if this same game is infinitely repeated?
+And the simple answer is, well, then predation might work.
+So why can it work to go and destroy money?
+Well, it's partially destroy both of us
+if there's an infinitely repeated game.
+So I go and I blow up all our profits for this period.
+It's kind of like reputation.
+Yeah, exactly.
+Walmart has some of its people who try to unionize,
+or shut down the whole store and just give up
+all the profits on that whole store
+to break the back of the union members
+so that it has a reputation that it's worth its time.
+Sounds pretty clever.
+Want to try it?
+All right, yes, so that's the idea.
+It's like, look, you might actually
+want to let one of your stores go down the drain
+if this is going to wind up giving you
+other benefits in the future.
+So anyway, so it is possible that with infinite repetition,
+then predation would be successful.
+And that's when arguments like this become important.
+That's when arguments like that become important,
+because it's like, you're going to go and build a reputation
+by losing 19 times as much money as the competition for a while.
+That's a great plan.
+That's probably a stupid plan.
+It's the kind of thing where you might actually
+lead competitors to say, wow, you lost so much money.
+I don't think I'll ever try that dumb move again.
+Now I really don't believe him anymore.
+So it could easily lead to that reaction.
+Now, there is a substantial literature on, especially
+the 19th century economic history, which probably gets
+more attention, because back then,
+there was no legal reason not to admit you were doing predation.
+And the general result of people who have looked at this,
+as far as I know, I haven't looked closely,
+but Don McGraw would actually know this quite well,
+is that Rockefeller, for example,
+so Rockefeller is actually, or the Citadel
+is the most famous one for supposedly engaging predation.
+The people that have looked at it most closely
+came away saying, no, no, in an unengaged predation,
+he did something that's almost the opposite of that,
+which is he would go and buy competitors out
+at above market rates.
+So he did do that.
+So going and just slashing the price of kerosene
+for a long time to drive people out, that, no sign that he did
+it.
+But what he would do is go to firms and say, look,
+I'll go and pay you double the value of your assets
+to sell me.
+And then, my memory is that we actually
+have the smoking gun of Rockefeller,
+then saying, we have to stop doing this,
+because people are building new refineries simply
+to be bought out at double the price of the refinery.
+So he calls it blackmailing us, and then he
+just gave up on that.
+So not much historical sign of predation in this sense,
+where you deliberately are losing money for a while
+in order to scare people off.
+And in the case of the union there,
+you say, well, you just have to shut down one store,
+and that can scare a ton of people.
+But if you had to go and lose a ton of money for the whole,
+all of Walmart for years, possibly,
+then there's other considerations people want out.
+Like, suppose there's a durable good,
+and you're concerned that the price is only temporarily low.
+What might you as a consumer do?
+Yes, stock up.
+So then you might have to expand your output massively
+to deal with all the people who are stockpiling the good.
+Imagine you were, say, going to try
+doing predation in automobiles by cutting the price
+to half the normal price.
+How many people would want to just go and buy,
+oh, let's go and buy cars for all of our kids right now.
+Depending upon how much land you have.
+If you're in New York City, you probably wouldn't do that.
+But if you're out in the country, you've got a barn,
+put them in there, put a car cover on them,
+start them once a month, and it's a pretty good deal.
+Now, a big question about this kind of predation
+is, why couldn't everybody do it?
+So why would it have to be limited, actually,
+to incumbents?
+Why couldn't entrants predict?
+So you could have an entrant say, tell you what,
+if you don't just flee from this industry right now,
+I'm going to come in and I'm going to go and make us lose
+a ton of money.
+And that seems structurally very similar to, if you enter,
+I'm going to make us both lose money.
+And say, look, if you don't run away,
+I am going to make us both lose money.
+So it seems like a principle that could happen.
+And this seems very odd to imagine, say,
+like one small chicken shack threatening
+to do this to Kentucky Fried Chicken or something like that.
+You can imagine large-scale entry,
+where, say, McDonald's might say,
+we're going to open up our own line of chicken restaurants.
+And there are some interesting cases of large-scale entry.
+For example, Microsoft came along with the Xbox.
+So it wasn't just like some small video game company
+out of somebody's garage.
+Microsoft said, we're going to go and enter
+this console video game industry on a massive scale.
+That's what they did.
+And so Amazon, remember what Amazon used to sell only?
+Books.
+They only sold books.
+But there's one of the biggest booksellers.
+And now they start selling, we'll also sell reflecting
+flashers.
+And we'll make you attach some to your car
+so you don't need them at night.
+We'll also do that.
+So that's possible as well.
+So anyway, so why can't entrants bring it against incumbents,
+just like incumbents bring it against entrants?
+And when you start thinking about this,
+then remember that mixed strategy concept
+that we had before?
+Maybe you could actually have every possible kind
+of prediction.
+You could have incumbents bringing it against entrants,
+entrants bringing it against incumbents.
+You would have cases where they both go in,
+thinking that the other one would be scared off.
+And you can also have a case where everyone is so scared
+that they're going to lose money that they don't go in the industry
+at all.
+So anyway, the idea in these cases
+is that in addition to the pure strategy
+Nash equilibrium with one brigading
+and the other one staying away, you've
+also got the mixed strategy Nash equilibrium
+of every possible combination happening
+with some probability.
+Intuitively, what has to happen is
+that the potential for monopoly profits,
+if you get to be the monopoly, have
+to balance out the expected losses
+from this destructive competition.
+You've heard this phrase, destructive competition
+at some point?
+Destructive competition.
+Of course, you could just use this
+for as a synonym for competition.
+All competition is destructive as far as I'm concerned.
+But normally, when outsiders, observers describe it,
+this is where firms that have substantial fixed costs
+wind up driving prices down to marginal cost
+and then they lose money.
+All right.
+So anyway, say that the mixed strategy story
+does make more sense.
+So again, there's no way you can credibly commit to be in no
+matter what.
+So the bigger the conditional benefit of being monopoly
+is, the harder firms will compete
+to get to be that person.
+Which you can probably see a lot of this on the internet.
+So remember in the early days, there
+were a bunch of firms that actually really did
+seem to be losing a ton of money.
+Strangely, no one complained about it.
+Again, if there's ever a case where you just say,
+predation smoking gun, wouldn't be a whole industry
+where most of the firms were losing money?
+And again, you might say, well, maybe that'd be a hard time.
+No.
+They show up and start losing money immediately,
+and they lose money for years.
+It seems a lot like predation.
+Now, in practice, fortunately, the law just
+turned a blind eye to this.
+And anyway, why would the law turn a blind eye to this?
+Well, how do laws get enforced in the real world normally?
+AUDIENCE MEMBER 5 In the courts.
+Well, but how does something even get to the courts?
+Someone has to complain.
+Someone has to complain.
+And if there's an industry that's changing real rapidly,
+by the time you get to the courts,
+the whole industry may change anyway.
+So that's a lot of what I saw during the early days
+of the internet, is firms that just went in and lost
+a ton of money, and then actually most of them
+just went bankrupt.
+So I guess.
+So you listed six reasons in the past six minutes
+of why predation isn't a good idea.
+And you gave an example of Rockefeller
+doing the exact opposite.
+So if he wasn't doing it, and it's a bad idea to do it,
+then who was first spreading the rumor that he was doing it?
+I don't know at first, but Ida Charbel
+was a very big spreader of these rumors, which
+is an interesting case.
+So you may actually remember the name Ida Charbel
+from the US history class.
+You probably were told that her dad was driven to bankruptcy
+by Rockefeller, which doesn't prove
+that what she was saying was wrong.
+But normally, you would just sort of
+mention a possible conflict of interest
+for a historical source of that kind.
+So the other thing is, it sounds really good.
+So do you know who believes in predation with all his heart?
+My dad.
+My dad believes that the whole economy
+is run based on predation.
+And he had one of the arguments here.
+His general model of the whole economy
+is that every industry by its own
+is run in a caricature of a monopoly,
+except his own industry was ultra-competitive.
+And what was my dad's own industry?
+Defense contracting.
+Oh, no.
+You might just say, it's funny, but you're right.
+Not only my dad was lying to me, so what he saw with his own
+eyes was that they were struggling to get every scrap
+of business, and it was tough.
+At that end, he did not actually see very much in the
+way of coordination between rival companies.
+Instead, he saw this dog-eat-dog competition to
+get the government contracts.
+And that's what he knows.
+And I'd say, look, we're going to generalize about anything
+that you do.
+And he says, well, how about we start with something he's
+actually seen firsthand.
+I do know that he has said things like, look, you know,
+oh, yeah, there was a Staples, and then an Office Depot was
+going up.
+And then I'm like, oh, well, things are
+going to get cheaper.
+No, they won't.
+Brian, you know what's going to happen?
+Tell me.
+Well, the Staples and the Office Depot people are
+meeting in the back room, fixing all the prices.
+You think they would have just agreed that Office Depot
+wouldn't be able to second store so close to Staples.
+That would be a much simpler way of organizing the
+collusion, is saying, we have stores here, we have stores
+here, we don't encroach upon you, you don't
+encroach upon us.
+It would be much simpler to verify than keeping the prices
+high.
+I think maybe he's right now.
+I don't know.
+It's possible.
+It's possible.
+So anyway, the bigger the potential benefit of becoming
+a monopoly, the greater the incentive to fight to get that
+monopoly status.
+And of course, who benefits from the fighting as long as
+it's going on?
+It's consumers.
+And at least in the case of the internet, it seems like
+we're sort of waiting.
+Well, when is this period when they finally make up all
+their losses going to happen?
+It's been a while.
+Maybe they just greatly overestimated how successful
+they were going to be.
+Which is the interesting question.
+Questions?
+Questions?
+So now let's move on to the beloved Bertrand and
+Cornell models.
+So all these arguments so far have implicitly relied on what
+is called Bertrand competition.
+I'm sure you've heard of this, Bertrand.
+How do you really say it?
+Is that OK?
+Bertrand?
+Good enough?
+And also sometimes also relying upon constant marginal
+cost pricing just to simplify things.
+So again, the way all these models work is first, we're
+going to propose prices.
+And then all customers buy from a firm that's lowest
+price, and then if they're equal prices, they're
+antipriced.
+It's a pretty simple story, right?
+And then in equilibrium in all these Bertrand type models,
+the most productively efficient firm takes the
+entire market, and they charge a price just below the cost of
+the second most efficient firm.
+So right there.
+That's the standard Bertrand equilibrium.
+And then you can get to priceable marginal cost if you
+have at least two firms that produce in the most
+productively efficient way.
+Also, you need to have no fixed costs, as we've seen
+last week.
+No fixed costs mess this up, because if you have fixed
+costs and you price a marginal cost, what is
+happening to you?
+You are losing money.
+Right?
+You are losing money.
+All right.
+Now, one really interesting thing about Bertrand
+competition is that it completely undermines any
+textbook or teacher that you ever had who said that unless
+you have perfect competition, the market is inefficient.
+How many people ever had a teacher who said, you need
+perfect competition for efficiency?
+The best people are clearly centers of
+students who base them.
+I heard this dozens, hundreds of times, I think.
+And I've also read a textbook that says that.
+I read the right textbooks and probably got rejected.
+I would have rather that it stayed there, but was correct.
+Anyway.
+So there's this perfectly competitive benchmark saying
+that what you need for markets to work well is to have lots
+of firms, or maybe an infinite number of firms.
+And what the Bertrand model says is that you can get the
+perfectly competitive outcome with two firms.
+So two equals infinity.
+Two and infinity give you the same result, which is a pretty
+amazing result.
+How much money do you divide this?
+Infinite amount of money, or $2?
+Same thing.
+And it turns out, same thing.
+Now, this result is so extreme that a lot of economists who
+like the theoretical elegance of Bertrand recoil in horror
+and say, no, no, no.
+It can't be that two firms is fine.
+Again, in the modern economy, there are a bunch of
+industries where there's really only one firm, and yet
+people seem super happy.
+Like, as I say, what is the firm that most
+directly competes with Amazon?
+It's hard even to figure out what that firm is.
+And yet, who doesn't like Amazon?
+AUDIENCE MEMBER 1.
+Allison Jones.
+Yes, Alex Jones.
+All right.
+One person is like, does he still buy stuff from Amazon?
+Yes.
+Yes.
+God, I hate them.
+But their deals are so good, so convenient.
+They have everything under one roof.
+It's the best store ever.
+That's why I hate them.
+All right.
+So there we go.
+Oh, well, you like Netflix.
+How many people sit around saying, god, I hate Netflix.
+They're just terrible in every way.
+If you would explain what Netflix was to me when I was
+in junior high, I just would have, what?
+What are you talking about?
+This is just an absurd science fiction scenario.
+I have lived to see many absurd science fiction
+scenarios come to pass.
+Not like the really good ones.
+Like Immortality.
+Yes, Youthful Immortality.
+That one would have been good.
+And Fashionable Travel.
+That one would be really fun.
+Still, you get what you get.
+All right.
+Because this result is so extreme,
+even people who would like the theoretical elegance
+normally go and switch over to another French model,
+the Corneau model.
+OK.
+So what did Corneau do?
+Corneau assumed that firms don't set prices,
+they set quantities.
+Which normally sounds kind of weird for most purposes,
+but you need to picture someone, say, producing oil.
+If you're producing oil, you're probably not
+going to say, hey, you know what,
+I'm going to undercut the world price of oil.
+Instead, you'll just go and dump all the oil
+you have at whatever are the prices.
+So that's the idea, anyway, is that firms
+go and set quantities instead of prices.
+And then the price independently adjusts through the market.
+So based upon all of the independent quantity decisions,
+the market sets the price.
+So in terms of math, we go and define capital Q
+is equal to the sum of all the Q's.
+So that symbol, that means for all.
+So the summation for all little qi.
+So any one little q is the production of one firm.
+And then capital Q is the summation of all little q's.
+And then just for convenience, because lots of other people
+do it, let's assume linear demand.
+So price equal to A minus B times capital Q.
+So notice that capital Q is important,
+because it's saying the market price is
+determined by total production.
+And then just to not torture you,
+let's say marginal cost equals 0.
+When I was in your shoe, we had to redo all the math
+with cost.
+And it doesn't change anything other
+than torture of the students.
+But it could fill up many hours of your life.
+So of course, you're still free to go and redo
+the whole model with cost.
+But I don't recommend it.
+So I'm not going to do it or anything.
+All right, so if we've got Bertrand.
+If every firm is a marginal cost of 0,
+then what does Bertrand competition
+predict will occur for any number of firms greater than 1?
+Yeah, zero price.
+It'll be free.
+Because the marginal cost is 0, and price gets driven down to 0.
+And remember, as long as the two most efficient firms are tied,
+then they will compete directly all the way down
+to the marginal cost, because each one is going to produce
+what we would like.
+If they differ in cost, you produce just below the cost
+of the second most efficient producer.
+But if it's a tie, then you have to go and compete all the way
+down to marginal cost.
+Makes sense, all right?
+So anyway, Bertrand competition predicts
+since marginal cost is equal 0, equal 0, price equals 0.
+What does Cournot predict?
+Something else.
+Cournot says every individual firm
+is going to maximize market price times its own quantity,
+which is the same as maximizing profits when there are no costs.
+No costs, and you just maximize revenue.
+That's the same as profit.
+So maximizing P times Q little i, and that is going to be,
+and then we'll look at the notes.
+I have marginal cost, but marginal cost is 0,
+so forget about it.
+So that's going to be equal to this thing.
+So A minus B times your own production, Q i,
+plus the summation of the production of all firms
+other than your own.
+So for all i, so for all firms j not equal to i,
+times the production from j, plus that, plus that,
+and then multiply that by your own production.
+So this says, so here we've done is
+we've gone and put in the market demand curve.
+And here for Q, notice, that thing equals Q.
+Your production plus the production of all other firms
+equals total production.
+So your production is Q i, and you
+control your own production.
+And then everybody else, plus the summation of all the Q j's
+not equal to i, so do you control the production
+of any other firm?
+No.
+No.
+No, right?
+And then, of course, we multiply it by your own production.
+What do we get?
+Well, so we get the result that in equilibrium,
+they're going to set A minus 2B times their own production,
+minus B times the summation of all j not equal to i,
+firm j equals 0.
+And this gives us the optimal response of firm i
+to every other firm.
+Optimal response of one firm to every other firm.
+Now, how can we actually solve the model?
+Well, since all the firms are exactly the same,
+intuitively, what would you expect
+would occur in equilibrium?
+If everyone is the same, you expect
+they will all do the blank thing.
+Do the same thing.
+Yes, that is a reasonable guess, and that works out.
+So what we usually do here is look
+for what's called the symmetric Nash equilibrium, where
+all firms do exactly the same thing.
+And then all we do is, at this point,
+so notice we've already differentiated,
+so we've already got every firm optimizing.
+So now it's OK to go and do a substitution.
+You can't do the substitution before the optimization,
+or else you are implicitly assuming
+that you control other people's production.
+Does make sense?
+But once you've already done it, then we can say,
+well, what has to happen at equilibrium?
+Now it's cool.
+And then what we're going to get is,
+so that's going to be the same q, that's going to be the same q.
+So we're going to get A minus B times n plus 1 times q equals
+0.
+So notice, here we've got two B's,
+and here we have n minus 1 B's.
+Because there's n firms, then how many firms
+are there other than yourself?
+n minus 1.
+So there's a B in front of that, so we have two B's, and then
+plus n minus 1 B's.
+That turns out that sums to n plus 1 B's.
+So A minus B times n plus 1 q equals 0.
+And then we get the result that an individual q at equilibrium
+will be A over B n plus 1.
+And if every individual firm is that, then in equilibrium,
+the Marcus production will be q times n plus q equals
+A n over B n plus 1.
+OK.
+Now, there's a lot of people who get to that result,
+and they are extremely excited.
+Extremely excited, because now we
+have math showing that the Bertrand conclusion's wrong.
+Not really.
+We have math showing the Bertrand conclusion
+could be wrong.
+But math alone will not resolve anything.
+Not in any case.
+But what's going on?
+So you can go and take a look at this equation,
+and it says the nice continuous result
+that people are looking for saying that the bigger the n,
+the better the market outcome is.
+So better for consumers and more efficient overall.
+Because if we go and just set n equal to 1, then what do we get?
+Then we have A over 2B.
+And you might even remember that that is precisely
+what a monopolist does when there's no cost.
+So q is equal to A over 2B.
+And you can even go and take a look at what happens here.
+So if you go ahead and do that, then we'll
+have price is going to be equal to A minus B times A over 2B.
+And then these cancel.
+And price will be equal to A over 2.
+And remember that marginal revenue curve being just half
+of that curve?
+Yeah, so nice.
+So that's just what people are looking for.
+And then as n goes up, quantity goes up.
+So market quantity.
+So for n equals 2, then we're going to get 2 thirds.
+We got 2 thirds.
+The other thing is, just remember,
+so if we have perfect competition,
+then price equals 0.
+So if price equals 0, then what is quantity?
+Price equals 0, then quantity is we're
+going to have B times q equals A. And q equals A over B.
+So A over B.
+OK, so there we are.
+All right.
+So.
+Is that right?
+Yes.
+Yes.
+That's fine.
+That's pretty sure.
+Yeah, yeah.
+That's fine.
+So this says that as the predictor.
+So the competitive result would be that.
+So anyway, so with perfect competition,
+then market output would just be A over B.
+And then with monopoly, it's going to be A over 2.
+And then as we go on, let's see.
+It's getting slightly nervous.
+Can I hand that?
+That looks good.
+All right.
+I think everything's fine.
+So during break, I will just ruminate just to make sure
+that this should be fine.
+All right.
+So basically, as n goes up, then the amount of.
+Let's see.
+Yeah, of course it's 45.
+Yeah, yeah.
+Confirmed.
+All right.
+So then as n goes to infinity, what happens to A n over B n
+plus 1?
+Goes to A.
+Yeah, it goes to A over B, which is just what I'm telling you.
+So that's good.
+And, oh, yeah, yeah.
+I'm just getting nervous because I'm
+mixing up price and quantity.
+That's why I was getting a little nervous.
+OK.
+Everything I told you turns out to be fine.
+OK.
+So anyway, so n is 2.
+Then we get quantity is going to be 2 thirds of the.
+Is that what it is?
+It will be 2 thirds of the over the event of quantity.
+And then we get n up to 10, then we're
+producing 10 11ths of the event of quantity itself.
+So this then leads to the result that people like,
+which is that the bigger n, the better.
+So questions about that?
+Now, how much of this has ever been verified by Miracle.io?
+Not very.
+Not very.
+And again, especially if you are willing to remember,
+there's firms like Amazon that seem
+to be producing a ton of quantity.
+And people seem really happy with them.
+So that could be a case where one firm is producing
+an enormous amount of output, for example.
+OK.
+Anyway.
+All right.
+So now, anyway, so what's interesting about the Cornell
+model is this.
+Is there any collusion happening in the Cornell model?
+Yeah, the firms are not cooperating
+with each other at all.
+No firm is ever wondering whether other firms will
+retaliate.
+There's no predation going on.
+There's nothing like that happening in Cornell.
+And yet, they still kind of act like they're colluding,
+which is odd.
+It seems like an odd result.
+But anyway, so Q rises as, or Q falls as n falls,
+even though each firm is the only thing of itself.
+And they're not planning for the future,
+they're not making any effort to collude or anything else.
+And that is the Cornell result.
+So questions about that?
+All right.
+Now, how many people heard of this stuff
+about Cornell at some point?
+So 2 thirds.
+All right, now I'm going to tell you that actually this whole
+Cornell model is itself based upon further trickery.
+And if you think about it a little bit more,
+it winds up being very much like we're trying.
+All right, how so?
+Well, suppose that we go and we have these Cornell firms.
+And then we go to them and say, hey, firms, would any of you
+like to split into two smaller firms?
+Would any of you like to split into two smaller firms?
+Now, for a firm to decide, and remember,
+they're not colluding, they're only
+doing exactly whatever is best for themselves,
+they are going to be happy to go and split into two firms
+if 2 times the profit with n plus 1 firms
+is going to be greater than 1 times the profit with n firms.
+You see this?
+So basically, if one firm splits into two,
+then the number of firms goes from n to what?
+n plus 1.
+And this pi is the profit function.
+So basically, if you go, so in the Cornell model,
+as n goes up, what happens to profits for each firm?
+Yeah, it goes down.
+But the right question for an individual firm to ask itself
+is not what will happen to the profits of the industry
+overall.
+Who cares about that?
+It's what will happen to my total profits
+if I go and take my firm and split it into two.
+And the answer is you go and multiply 2 times
+the reduced profits for a firm.
+And then you can see, well, is that
+going to be more than the profits I'll have from one firm
+with one fewer firm in the industry?
+And on the homework, you get to go and solve this.
+But the punchline is that this equation is always
+satisfied for n greater than 1.
+So if you're a monopoly, you don't
+want to split into two firms and then compete with each other.
+That's dumb.
+But if there's duopoly, each firm wants to go,
+I need one firm that I want to split into two.
+And so two endogenously becomes three.
+Three endogenously becomes four.
+And as long as we stick to these assumptions,
+there, the sky's the limit.
+And the kernel model, the n naturally turns into infinity.
+And when n goes to infinity, what happens to production?
+It goes to the permittivity of the level.
+And then do you get a different production than Bertrand?
+No.
+You get exactly the same thing all over again.
+All right, now you say there's something tricky going on here.
+Well, there's nothing tricky given
+that we're assuming that either there's no cost at all
+or there's constant marginal costs.
+So there's constant marginal costs.
+This goes through as well.
+So if you've got constant marginal costs,
+then firms will definitely want to split.
+But of course, if there's constant marginal costs,
+why not split?
+There's no barrier to splitting if you've
+got constant marginal costs, right?
+Yes.
+What it means to have constant marginal costs
+is that you can split into two firms.
+And each firm will be just as good separately
+one bigger firm would have been.
+So if you're going to go and assume
+constant marginal cost and then use
+that assumption to say you're getting a bad market result,
+it seems that what is good for the goose is good for the gander,
+and you should be able to say, well,
+if that's your cost assumption,
+then there will never be a finite number of firms,
+and then the market will be fine.
+Any questions about that?
+So this was one of maybe my favorite thing that was ever proven to me in PhD micro.
+Is the whole Cornell model rests upon sheer sleight of hand.
+I'm just not asking people to think about,
+wait, why is n n?
+Why isn't n n plus one?
+Now, of course, a good answer to why not have n or why not split,
+is that we don't have constant marginal costs or
+least constant average costs, instead we have fixed costs.
+So that's a good reason not to split your firm into two smaller firms.
+Now, there is a literature that explores what happens to
+Cornell when you've got fixed costs for each firm.
+Now, when you do that, then you no longer get the split to infinity result,
+as you might guess, because every time you split,
+then you have to add on another fixed cost.
+Then if you split too much,
+then you're going to have an incredible cost.
+So, if every firm is producing one unit with a million dollar fixed costs,
+that's going to be a really bad idea.
+Now, in the model,
+in the revised Cornell model when you got fixed costs,
+then there's another strange result.
+This strange result says that actually,
+there are too many firms that will happen from a social point of view.
+Again, why? Essentially, when a firm splits,
+they are creating a deadweight cost.
+They are creating one additional fixed cost that society didn't require.
+Then, it should not be too surprising then,
+that if you get a bigger share of
+the profit by doing something with a deadweight cost, some firms do it.
+As a result, you wind up getting some social waste.
+In fact, in a first best sense,
+the best thing would obviously just be to have only one firm,
+and then you only pay the fixed cost once, and there's no waste.
+So basically, if your costs look like,
+the total costs are equal to say,
+K plus E times your quantity.
+That's what your total cost function looks like.
+Then, the best deal for one firm,
+and then the socially cheapest way of
+producing everything is that one firm produce everything,
+because then you only pay the K once.
+Then, if there's constant marginal costs,
+then there's no reason not to just have one firm do everything.
+So anyway, so in a first best sense,
+the most efficient thing is just for one firm to produce,
+and then charge marginal cost,
+or maybe one firm produce and charge average cost.
+That would be a second most efficient thing,
+or second best efficient thing.
+All right. But anyway, if you just say,
+let's just assume that firms enter until profits are zero,
+which is like a standard free entry condition.
+Guys remember free entry?
+Okay. If you do that,
+then you actually get precisely the opposite of the normal I.O.
+claim, namely that the problem with the market is there's too many firms,
+and there's this inefficient ways of duplication.
+So once again, when you complicate the model,
+you get something that's not obvious,
+but it's not what people want to hear.
+That's again like what so many generations,
+like at least like two generations of I.O. economists want to hear,
+is just N is better.
+You have more N, better markets.
+That's the best in the world.
+Questions about that? Does everyone feel clear on that?
+All right. So biorhythms are not leading you to not ask a question
+despite the non-obviousness of it.
+All right. Now, last interesting scenario you can imagine,
+is suppose that you've got a firm,
+or you've got an industry where you've got a bunch of firms that are
+producing with fixed cost and a constant marginal cost.
+And you are, so again, we seem to be stuck in this bad equilibrium,
+where there's too many firms and we're burning up all these fixed costs.
+All right. So in this situation,
+they're done, you know, applied by the model,
+if we're allowed for one of these firms,
+one of these excessively small firms to go and say,
+hey people, I'm going to expand my output a lot,
+and I'm not going to go and sell it with everybody else.
+I'm going to just go and have charge my own price.
+Right. In that case, you would again have a result a lot like
+the festival markets results where one firm just expands,
+takes over the whole market, and then again,
+you get to at least the second best division result.
+So, again, I want to like,
+it's all kind of weird,
+like why are we just hearing this now?
+So normally, what people are doing is,
+they're just assuming that you can't do a bunch of things that the model implies you would want to do.
+Right. And why do that? Well, if you were to explicitly go and say,
+I'm assuming you can't do any of the following things,
+it would seem like a pretty ad hoc model, right?
+So, imagine that you're doing Cournot,
+and also assume firms aren't allowed to split.
+I've never seen a textbook bother to say that,
+because like, wait, why did you just say I'm going to assume that?
+Are you assuming that because they would want to split?
+Yeah. Well, why don't you come up with a model where it's internally consistent,
+you don't just have to tack on an ad hoc assumption
+to get the pessimistic result you're looking for?
+Well, we've been looking for that model for a really long time,
+but it's very hard to find.
+Okay. Questions? Everyone happy?
+We're full of enthusiasm for the material.
+All right. So, we got two weeks until the midterm.
+Everyone's aware of that.
+So, we're still ahead of schedule, so that's good.
+Let's move on to week six.
+All right. And now, we're going to talk more about Bertrand and Cournot.
+All right. So, review from five minutes ago.
+All right. So, we're supposed to be at least two firms
+that can produce a minimum marginal cost.
+Then, we got the one shopper Tron game,
+and also, of course, all finitely repeated Bertrand games have a simple solution.
+And that simple solution is price equals marginal cost for all.
+Price equals marginal cost for all.
+So, that's where we get.
+And I said, you get it for one shot games,
+and you also get it for any game with finite repetition,
+by that same backwards induction argument that we already had.
+Because if in the last turn,
+you know that neither firm will pollute at all,
+then in the second last turn,
+you can't say, I will betray you in the last turn,
+if you arrive on property in the last turn,
+you don't cooperate with me now,
+which means you can't threaten anything in the second term,
+which means you can't threaten anything in the third term,
+and so on, and then you have no cooperation.
+All right. Now, in the infinitely repeated Bertrand game,
+then more equilibrium can happen.
+Then, more equilibrium are possible.
+All right. So, let's just start with a really simple case.
+Suppose we have Bertrand competitors,
+and we get to a perfectly collusive outcome,
+where we switch from the perfectly competitive outcome
+to the full-blown monopoly outcome.
+Imagine we do that.
+Okay. So, and simplest way of doing this is for
+every firm to go and produce one-eighth of the monopoly output.
+All right. So, it was one-eighth of the monopoly output.
+And then again, if you want to go and find out
+the best-case scenario for the viability collusion,
+you want to think in terms of trigger strategies.
+What are trigger strategies?
+Intuitively?
+Punish.
+Yes. The harshest punishment that you can muster.
+And you do the very mean,
+and the very angriest response,
+which again, like is interesting theoretically.
+Although, he said also if you take
+that Shelling's focal point seriously,
+the trigger strategy seem to be one of
+the ways that people deal with betrayal.
+Not the only way by any means,
+but it is one fairly common reaction actually,
+to clear-cut betrayal is,
+that's it, I will never have anything to do with you again.
+Don't dark, never darken my door again.
+We are done.
+Right. So, that does happen.
+And if you go and read human history,
+you will see there are wars of annihilation,
+where what happens to the other side?
+Kill them all.
+All right. So, it's not so common in modern worlds,
+but nevertheless, this is,
+the trigger strategies are definitely in
+the repertoire of psychologically plausible behavior for
+human beings. And you may even know some people like this.
+It's not bad as long as they are infallible.
+For people who combine trigger strategies with normal human error,
+then this often leads them to lose all their friends,
+one by one, or maybe many at a time,
+and then finally be totally alone.
+When I'm sitting around writing, but writing
+autobiographies about everyone has betrayed me.
+Everyone's betrayed me.
+There's one, one of my favorite economists who I will not name.
+He redesigned biography.
+Basically, every chapter ends with,
+and then, someone I thought was my dear friend stabbed me in the back.
+The next chapter, another friend stabbed me in the back.
+You're like, again, either you're a very unlucky person,
+or you're doing something to really provoke people.
+What you call betrayal is them just trying to survive,
+or maybe you just have a very uncharitable view of other people's behavior.
+So, they went and asked to stop for a donut,
+and you're saying it's the ultimate betrayal.
+Not to be revealed, but he is telling the truth.
+That might do something for you.
+All right. So, you're doing trigger strategies,
+and therefore, one defection leads to the permanent end of collusion of any kind.
+All right. So, in this case, collusion will be sustainable as long as a one-inch share
+of the monopoly profits forever is worth more than
+100 percent of the monopoly profits for once, followed by zero percent.
+Again, why that?
+Well, what happens in the Patron model if you cut your price by a penny,
+compared to everybody else?
+You get the entire market.
+So, you get approximately 100 percent.
+Technically, it's almost 100 percent.
+In a continuous world, it would actually be literally 100 percent
+because of funny properties of continuity.
+Remember funny properties of continuity,
+where you can go down by an infinitesimal percent,
+and then there's actually no visible change in the previous amount of the story.
+I'm not too much. All right.
+So, formally, the condition is this.
+So, you're comparing a one-inch share for periods t equals zero to infinity,
+of the discounted value of monopoly profits forever.
+You want to see if that is better than getting all the monopoly profits once.
+So, which would you rather have?
+A one-inch share of monopoly profits forever,
+or 100 percent of the monopoly profits once?
+Again, you don't show other periods because you're getting
+zero profits forever with your strategies.
+Make sense? Because that's the whole idea.
+Find the betrayal. After the betrayal,
+there was no- the cartel is dead forever.
+The cartel will never rise again.
+And this is, of course,
+a really easy infinite sum.
+It's going to let us- all the good stuff cancels.
+And it leads us with beta must be greater than or equal to n minus one over n.
+So, of course, if beta is- so,
+if there's only one firm,
+then beta is zero,
+and this says that a monopolist never betrays himself.
+All right. So, if there's only one firm,
+then beta just has to be greater than or equal to zero.
+And so, this would be like saying,
+well, I could go and cheat myself.
+Like, when would- when are you so impatient that you want to cheat yourself?
+No, you're never so impatient that you want to cheat yourself.
+That would be stupid. All right.
+But if you have n is two,
+then the critical value of beta is a half.
+And if n is 10,
+the critical value of beta is 0.9.
+And so on. All right.
+So, the more firms there are,
+the more patient every firm has to be in order to sustain collusion.
+Now, some fun things about this.
+Suppose that there are 10 firms that are colluding,
+and that nine of them have beta of a beta of one,
+and then one of them has a beta of 0.5.
+Do we just go and average- and average their betas,
+and then find out the collusion works?
+No. No. Well, why not?
+Because the- only the ninth- tenth firm is going to-
+Yes. Yes. So, you know,
+like how- how many firms have to cooperate for 10 firms to all cooperate?
+Ten. So, if there is one weak link,
+there is one impatient, greedy,
+grasping firm that destroys the entire cartel with trigger strategies.
+All right. And so, really what we're looking for is the minimum beta.
+We're looking for the minimum beta.
+We need to have the beta,
+and so we- so, you know, if they all have the same beta,
+that doesn't make any difference.
+But if there are different betas,
+then we need to find what firm is the- is the least patient,
+and they set a limit on whether collusion can work or not,
+which is kind of an interesting result.
+Okay. So, questions about that?
+Everyone happy? Everyone happy about that?
+Good. So, why don't we go and take our break,
+and then when we come back,
+we'll do some of the least pleasant math we've ever done in this class.
+But, you know, that- that can be optimistic or pessimistic.
+All right. So, solving for collusion with- solving for
+transcollusion with trigger strategies is super easy.
+Barely any math at all.
+Almost everything cancels out. What about Pernot?
+Pernot is a giant pain in the neck,
+but we will work through it just- just to see
+how models like this work.
+Okay. All right. So, in Cournot,
+the worst thing we've threatened to do is just to go back to the Cournot outcome.
+And here's the interesting thing.
+Remember, so, the uncooperative Bertrand outcome gives every firm how much profit?
+Zero. Zero. The uncooperative Cournot equilibrium,
+on the other- the other hand, gives firms some profits.
+So, the punishment just isn't as bad in Cournot.
+However, the temptation isn't as bad either.
+Because the Bertrand, if you cut your price,
+or if you- if you deviate just a little bit,
+you get all the profits.
+In Cournot- so, if you cut your price just a little bit,
+you get all the profit. In Cournot,
+you produce a little bit more output,
+you get all the profits.
+No, you just get a little bit more profits.
+So, with Cournot, both the- both- both the pun-
+the punishment isn't as bad, but then the temptation isn't as bad.
+So, what is going to happen? All right.
+So, well, so we got- we'll write it out in terms of math.
+So, here we've got,
+as long as you cooperate,
+then we've got the same thing as before.
+So, as long as you cooperate,
+you're going to get one nth share of monopoly profits.
+So, t equals zero to infinity,
+theta is t, pi t, or pi n.
+And that's got to be greater than or equal to what?
+Well, here we've actually got two pieces now,
+because we're not going to have zero profits if we cheat.
+All right. So, we're not going to be punished with zero profits.
+So, we're going to have what is called pi v,
+that is called our defection profits for one turn.
+So, one turn, we get to have the fun of doing whatever is best for ourselves,
+ignoring the- ignoring the other effects.
+So, we do whatever is best for ourselves.
+But then afterwards, we have, again,
+due to trigger strategies, destroyed our current job for all time.
+And so, then they were back to just regular old Cornell profits.
+So, then for real F,
+the infinite sum from t equals one to- one to infinity,
+a beta raised to t times the pi c,
+which are the Cornell profits.
+Okay. All right.
+Now, using the functional forms from last week's notes,
+also known as the 20 minutes ago,
+we do that, then pi m is going to be equals a squared over four b.
+All right. And pi c will be equal to a squared over b times n plus one squared.
+All right. That should just be obvious to everyone at immediate glance, right?
+We're going to work that out.
+It's a joke. All right.
+So, yeah. I mean, I'm just telling you the answer.
+So, we don't have to work it out.
+It's not obvious to anyone I've ever heard of.
+But anyway, those are the answers.
+You might remember this if you had like a very algebraic intermediate class,
+they might really make you learn the exact problems from Monopoly.
+Don't worry about that. But how do you calculate pi d?
+Now, pi d is doing pi m,
+pi c, at least we know how those models work, right?
+So, it's just a matter of torturing yourself and working through all the details.
+But how do you figure out pi d?
+Right. And here is the answer.
+So, we know that the Calusa level output is going to be a over 2b.
+Right. So, that's what a Monopoly does.
+All right. So, suppose all firms other than yourself do their part.
+And then, what do all firms other than yourself produce?
+Well, suppose that there are three firms,
+and therefore, two other than yourself.
+So, each of you are supposed to do a third of that.
+So, the other two firms will produce how much of that?
+Of those three firms? Two thirds of that.
+Suppose that there are 10 firms,
+you're one of them, then what do all the other firms do?
+Nine tenths of that. So, the amount of output produced by
+everybody other than yourself will be equal to n minus 1 over n times that.
+That's the Monopoly output.
+So, that's the Monopoly level output.
+So, n minus 1 over n times the Monopoly output is what everybody other than yourself does.
+And then, once we know that,
+then we just maximize around that.
+Then we just take that for granted and figure out what our best response to that is.
+And the answer to that,
+so you're going to want to go and maximize a minus b
+times your own quantity plus the quantity of everybody other than yourself.
+Which before we show that as a summation for all j not equal to i.
+But now, we'll go and plug that thing in.
+So, then we'll have n minus 1 over n times a over 2b,
+close bracket, close parenthesis times qi.
+And that's what you're going to want,
+this is what you want to maximize now.
+So, again, this is just the usual thing that any quarter note for maximizes.
+But now, we know by our assumption that what the other firms are going to do is
+produce n minus 1 over n of the Monopoly outputs.
+Feel good about this? Feel good?
+All right, that's the idea. All right.
+So, differentiate and simplify and then you'll get qi is going to be equal to
+a times n plus 1 all over 4bn.
+And then, now, is where the fun begins.
+the real algebraic suffering begins,
+then q is going to be equal to that thing plus that thing.
+And if we go and do all of the algebraic manipulation
+to find out, so what, qi plus that equals a times 3n minus 1
+all over 4bn.
+Now, that's obvious to you that maybe you should be a mathematician.
+Because if you're just looking, of course,
+a times 3 minus 1, all right.
+And then from that, we go back to the demand function,
+and we find out p.
+And so p for the demand function is just
+going to be a times n plus 1 over 4n.
+And then we just go and multiply these things.
+We're going to multiply pq, p times the market price
+is little q, to find out what your defection problems would be.
+And it comes out to that thing in the notes, a squared times n
+plus 1 squared all over 16bn squared.
+And then for collusion, now we can plug everything in.
+So collusion will be sustainable if this thing here, right,
+if we go and plug that in for pi m,
+and we go and we plug that thing that I told you in for pi d,
+and we go and put this in for pi c.
+So we plug in every single profit function
+to find out the profits.
+And then we get that giant mess in part j,
+which I will not read, because it's a book.
+And if you look at that, you may get into a panic,
+because it appears to be a fourth degree equation, right.
+And who here knows how to solve a fourth degree equation?
+Yes.
+There is a book that explains it.
+The formula is about two pages long.
+I'm not reading it.
+All right, so economists never solve fourth degree equations.
+I have seen economists go and change a model just
+to make sure they wouldn't need to have a fourth degree
+equation solved, because they'd go, well, why not?
+Of course, maybe the world does require you
+to solve fourth degree equations.
+I think this is a case where you really
+do have to give a sociological slash economic theory of people
+saying, look, people in my professional subculture
+don't solve fourth degree equations.
+It's not done.
+So if I go and do it, I'm not going to get published.
+And then I will not get desirable material possessions
+and status.
+So I'm not going to change the model
+to make sure that it doesn't work out
+into a fourth degree model.
+This is true for theory.
+In empirics, on the other hand, there
+are some cases where you're required
+to do a fourth degree equation.
+20 years ago, there was a paper saying that experience
+goes and follows a quartic.
+And ever since, technically common papers
+put in experience, experience squared, experience cubed,
+experience to the fourth power as control variables.
+And if you ever wondered, when someone
+says I'm going to put in a quartic in experience, why?
+Because of this paper 20 years ago said that you should do it,
+and now everybody does it.
+Of course, it's much easier to go and do that in an OLS
+or something than it is to go and get
+the formula for getting an analytical solution to an
+equation.
+But in any case, if you look at this
+and think you've got a fourth degree equation,
+you are wrong, actually, because we're not solving for n.
+We're solving for beta.
+So phew, we don't actually need the equation for a fourth
+degree equation.
+We can just go and use our regular simple math
+that we already know, and then we can memorize.
+And we get this value of beta, which I will say
+is totally counterintuitive.
+But if you put in some numbers, then you'll
+see the numbers make sense.
+If I have n is 2, then beta is 1 by 3.
+That's the first value.
+So that is Carnot collusion for you.
+Now, after doing all this math, it's
+worth pointing out that all the math ignores a bunch
+of super important things.
+And why would the math ignore super important things?
+Well, because first of all, the math
+is not empirical in the first place.
+So it isn't really designed to go and assess
+what's important in the real world.
+And then secondly, the important things
+might actually not require a lot of mathematical ability
+to discuss.
+And so if you think that possibly economists sometimes
+put in extra math just to signal how smart they are in papers,
+anyone here holds this cynical and despicable theory?
+That I have heard famous economists admit in public,
+or the Ashenfelter would sometimes say,
+and now this is the part where I added in some needless
+complexity to get published.
+So I suppose you could be lying about deliberately putting
+in some useless math into a paper.
+But you seem totally honest to me.
+So the main thing that all of this ignores
+is new entry, which almost any empirical discussion
+of collusion will say is incredibly important.
+Because it's one thing just to get
+unanimity, which is hard in the first place.
+So if there's five firms in the industry,
+you have to get all five of them to agree to the collusion, which
+is hard enough.
+So I always give my students the challenge of,
+you guys can all collude in the amount of work
+that you do, since this class is great and on a curve.
+You can all do less work, have more fun,
+and then get the same grade distribution
+as you would have otherwise.
+I've never seen even a hint that students are successfully
+colluding.
+Once I did teach a class with only four students in it,
+and then I was like, maybe I should not
+taunt them in this way, because maybe they would.
+All I can say is when I looked at the exams,
+at least one student didn't collude.
+One student had a score that exceeded that
+of the other three.
+Maybe they colluded, and he drank them.
+But in any case, there's the general problem
+of getting unanimity among all firms,
+because if all firms but one fail to cooperate,
+then it's very hard to make it work.
+But on top of it, even if you get all existing firms
+in the industry, there's a problem of new entry.
+Because if you do manage to get profits up and usually high,
+the normal thing for other outside firms
+to want to do is say, look, there's high profits.
+I want to try.
+Again, in principle, you could go and predate on them
+as soon as they show up.
+But then you need to have a really effective cartel,
+a cartel that not only includes everyone,
+but where someone snaps his fingers, and then new entry.
+Let's all unite against them now.
+And then, OK, they're gone.
+All right, now go back and resume our regularly scheduled
+collusion.
+You could try that, but in the real world, not too likely.
+If you go in, so very often, the most interesting,
+plain ways to learn about collusion
+is to go and read the history, economic history
+before antitrust.
+Because back in those days, there
+would be very little dispute about what the facts are.
+Today, if you want to collude, you need to do it secretly.
+And if people are doing it secretly,
+then there can always be some people saying,
+it happened in secret, and other people saying,
+no, it didn't happen at all.
+But in the 19th century, you can often go and see
+people in the newspaper saying, we're
+trying to go and reduce leather production to raise prices.
+And you can see what happened.
+And all the problems that you hear about in a good econ
+class are very evident in 19th century cartels, where, yes,
+first of all, there's the trouble of getting
+all the firms in the industry in.
+And then there's the trouble of new entry.
+And one that's one particularly interesting kind of new entry
+is that very often, you would go and buy someone out,
+and then they would just start, take the money you gave them,
+and build a new firm, and then start competing with you.
+Usually, there would be an early version of a non-compete clause
+where they would promise to not enter
+the industry for five years.
+But again, in the real world, it would often
+take three or four years just to get the cartel working
+and functional.
+And then a guy says, well, one year from today,
+I'm opening the doors for my new firm.
+So they had a great deal of trouble.
+So questions about collusion?
+Anyone wondering about collusion?
+And moving on.
+So public goods and game theory.
+So I assume everyone here has heard about public goods
+and externalities at some point.
+All right, good.
+So there's a lot of treatments that emphasize non-rivalry,
+although actually, non-rivalry intrinsically
+has absolutely nothing at all to do with this.
+You can have a totally private good with non-rivalry,
+as long as you don't have perfect competition.
+So right here in this Cournot model we talked about,
+we got zero marginal cost.
+So is there non-rivalry?
+You could produce one more unit without actually going
+and taking away from anybody else.
+And there are many firms that we think of as private
+where actually they're clearly non-rival.
+So go to a movie theater during the matinee, a bunch of MTCs,
+so non-rival.
+In fact, the more you think about it,
+the harder it is to find rivalry.
+Because suppose you go to a restaurant
+and you order some food.
+You might see the food's rival.
+It's like, well, wait a second.
+What was going to happen to that food if you didn't order it?
+A lot of times it was just going to get thrown out
+at the end of the day.
+So maybe the food was rival too.
+Awesome.
+You look puzzled.
+Very often a restaurant will make 100 meals.
+And then if 90 people show up, what
+do they do with the other 10 meals?
+They throw them away.
+So then if person 91 comes up, the marginal cost
+of getting that food is basically zero.
+So anyway, a lot of treatments talk about non-rivalry.
+But really, non-excludability is what
+makes these cases special and interesting.
+And again, with non-excludability,
+there is this basic logic of selfishness,
+which is by definition of this non-rivalry,
+that there's no, or assuming non-excludability,
+there's no feasible way to exclude non-payers.
+And then if there's no way to exclude non-payers
+and people are selfish, what will the selfish people do?
+Yes.
+So wait, can I get the benefit whether or not I pay?
+Yes.
+And I'm selfish?
+Yes.
+Then I guess I won't pay.
+I'll just keep the money.
+And again, imagine that you actually pass a hat.
+And you invite people, put in money
+to contribute to however much you want.
+And the selfish people all put in zero.
+And then you go to a producer and say,
+would you produce this public good in exchange
+for the contents of this hat?
+And then he says, show me what's in the hat.
+Sorry, there's nothing in the hat.
+All right, so that's the end of it.
+There's no one to pay for it.
+Well, selfish producers are not going to provide it.
+So this does lead us to standard diagrams
+for externalities of public goods.
+So positive and negative externalities are really easy.
+There's actually two ways you can do it,
+but I'm going to show you the easiest way of all I do.
+So this is just quantity, price, supply to mend.
+And then the idea of a positive externality
+is that there's some additional benefits that go to bystanders,
+people who don't have to pay to get them.
+And so we can just add a social benefits curve
+on top, which includes the benefits to the paying
+customers plus all the benefits to the bystanders.
+All the benefits to the bystanders.
+And then, since people in markets are selfish,
+where do they produce given all these bystanders around
+who enjoy what they do for free?
+Intersection of supply and demand.
+Intersection of supply and demand, yes.
+So wait, so you're telling me there's a bunch of bystanders
+and they don't pay us anything, but there's a lot of them.
+How many?
+Trillion.
+I think I'll still produce at the intersection of supply
+and demand.
+So they don't do anything for me,
+so why should I do anything for them?
+But the efficient outcome, the Calgary's efficient outcome
+is going to be the intersection of supply and social benefits
+because for these marginal units here,
+the social benefits are actually greater.
+Why then are markets ignoring them?
+Because they're bystanders.
+Because they're people who are sitting,
+enjoying these monocultural benefits, not contributing.
+And again, why would they?
+Why would they contribute when whatever they're going to get,
+they get for free?
+And if they were to go and offer some money,
+they wouldn't get any more because it's just one person.
+So that case leads to positive externalities.
+Then the deadweight costs or the deadweight losses
+will be shown here, where again, basically we're
+losing all of this value where social benefits exceed
+the social costs.
+So supply shows social costs, social benefits
+show social benefits, so all of these units don't happen.
+All of these units on the other end do happen.
+So even though there's an externality,
+there's no efficiency loss there.
+Then it's just the bystanders get to enjoy themselves.
+And the burden is borne by the producers and the pet
+customers.
+So that's positive externalities.
+And then we've got the corresponding case
+of the negative externalities.
+So again, here we got supply, here we got demand.
+And now we've got social benefits below the demand curve.
+And these are cases where there's bystanders who
+are suffering, bystanders who are suffering,
+who find it unpleasant in some way.
+So and then again, what does the market do?
+Market goes to the intersection of which two curves?
+Supply and demand.
+Supply and demand, because that's
+what the pet customers care about.
+You say, look, but there's a bunch of freeloaders
+who are suffering.
+Wait, what are freeloaders again?
+The people who don't pay you any money,
+don't do anything for you?
+I'm in business to make money, so those people
+are irrelevant as far as I'm concerned.
+So in that case, what you produce here, again,
+the efficient thing is at the intersection of social benefits
+and supply.
+And again, the problem now is that we're
+losing a bunch of units where the social value is down here,
+but the social cost is up there.
+And so then we have those deadweight losses.
+So that's the negative externality.
+All right, now, where do public goods
+and the corresponding category of public bads come in?
+So here I'm going to tell you something
+weird that you may have never heard before.
+And that is there's two actual ways
+that economists use the concept of public goods and public
+bads.
+There's the textbook version, and then there's
+what they really do.
+So in the textbook, you might remember
+is something's a public good, and it's not
+a solutable and non-rival.
+But when you actually hear the things that economists
+describe as public goods, often they are totally rival,
+and they're often also least partly solutable.
+So then why are they called the public goods?
+That's kind of odd.
+But anyway, so I have a pet theory that explains,
+well, at least I think it explains generally
+when do economists stop talking about positive externalities
+and start talking about public goods.
+And my pet theory is that people switch over just when,
+like in the case of positive externalities,
+they switch over when the social benefits are huge compared
+to actual market event.
+So basically, in practice, economists
+treat public goods as an extreme kind of positive externalities.
+It would be something like this, where this is supply,
+and then demand is basically down there,
+and then social benefits are up here.
+So this is when economists actually generally switch over
+to public goods.
+So basically, demand is really low.
+It doesn't need to literally be there.
+But if there's very little market demand,
+so that the intersection of supply and demand
+would be somewhere around zero, but there's still
+some potential social benefits, then they switch over
+and call it a public good.
+So like the Swiss military during World War II.
+So is that rival?
+Sure.
+So there's a legal facility.
+If you go and put more defenses in one area of Switzerland,
+there's other places that are going to be less dependent.
+And then even for excludability, there's
+something, some kinds of defense that you
+can do where we'll actually defend some people rather
+than others.
+But the main thing is just that there's almost no demand.
+There's almost no market demand.
+If you went past the hat, you'd be
+like a Swiss hat with a feather in it, for contributions,
+it would probably be very little compared
+to the social benefits of not being
+dominated by the Nazis.
+And then similarly, if you'll buy this
+as what public goods are, then I'd
+say public goods are really just in practice.
+So this is a description of how economists really use the word
+or really use the phrase rather than what the textbook says.
+And maybe the textbook just doesn't accurately
+explain what economists switch from between the terms.
+But anyway, so that's a case where you've got supply.
+And the public bad is the case where
+you've got substantial demand, but where
+the social benefits are basically around zero.
+So you can think of public bads as the bad.
+Public bads are things where if you could just
+wave a wand to make the thing impossible,
+it would actually be socially beneficial.
+Like for example, you could say murder for hire
+is a public bad.
+Do you want to leave some murder for hire around?
+Which is very different from, say, pollution.
+For pollution, if you say, let's go and wave a wand
+and make it impossible for anyone to pollute.
+Notice that's different from waving a wand
+and getting rid of the pollution.
+That's always good.
+If you wave a wand, which prevents anyone
+from using a polluting technology.
+Suppose we were to do this today.
+We wave a wand and anyone who tries
+to use a polluting technology dies on the spot.
+Now, what would happen to society
+within a matter of months if we did this without any warning?
+First person that goes to the bathroom dies.
+Yes.
+Yeah, well, that too.
+Suppose those like fossil fuels.
+Suppose we ban any use of fossil fuels.
+Well, within a few months, most of us would just be dead.
+If you had a lot of warning, maybe
+we'd develop some alternative technologies.
+But without any warning, this would
+destroy the entire transportation system,
+the entire crop harvesting system,
+the entire, like really the whole agricultural system,
+all depends upon fossil fuels.
+So if you would go and ban the pollutants without warning,
+it would just kill most of the people on Earth.
+On the other hand, if you just ban murder for hire,
+what's the downside of that?
+You just stop it, prevent it.
+No one can do it anymore.
+Or you could stop murder.
+If we stop murder, then we won't be
+able to threaten to execute anyone for murder anymore.
+Well, at least we won't need to, because there
+will be no more murder.
+So you think of the regular negative externalities
+are things where there's a good with a negative side effect,
+but still it is worthwhile having the good exist
+to some degree.
+And the public bads are ones where they're so worthless
+that if you could simply prevent their existence,
+not preventing the existence of the bad things,
+that's trivial, but prevent the existence of the thing that
+is a bad thing, then with public bads,
+actually, it would be totally worthwhile if you could do it.
+So questions about this?
+So again, I am well aware that this is not,
+but it's in textbooks.
+I'm just claiming that if you listen carefully
+when economists stop just saying positive or negative
+externalities and switch to public goods and public bads,
+usually they switch when it's an extreme case,
+where for public goods, they think
+there'll be almost no market demand,
+and for public bads, where they think
+there's no social value.
+So of course, maybe some of you like textbooks,
+and then you would exchange what the textbooks say.
+And then this will all be clear.
+Now, just some things to notice about this.
+So one is, suppose you've got a monopoly.
+What would happen if it were like,
+would it be better or worse if the monopoly also
+had a negative externality?
+Yes, better.
+Why?
+Because they'd be producing less of the goods.
+Yes, yes.
+So intuitively, people think of a polluting monopolist
+as being worse than something that's only a monopoly.
+monopoly or only polluting. But if you understand what the model says, the model says that monopoly
+does the bad thing of producing too little and polluters do the bad thing of producing
+too much. So if you combine both problems, it is theoretically possible that they exactly
+cancel out and a polluting monopolist is actually great.
+And again, this is the kind of thing that is so baffling to most people that, so remember
+when you're like, two years ago I told my son, I was prepping my son for the APE contest,
+I told him this on vacation and they got it wrong, but then it was on the test and they
+got it right. Yes, all right. So it's like, you're in a hotel for five minutes waiting
+and I say, well, why don't I go and tell you about the interaction of monopoly and externalities
+like most families discuss on vacation. All right, yeah, so you've got that.
+And let's see, so it has this one, one interesting case.
+Oh yeah, and then another one is, suppose that you have both a positive and a negative
+externality. Does this mean you have two problems to fix?
+Yeah, again, they could just totally cancel out. Right, so actually if you start off with
+a negative externality, then a positive externality turns up, the two things can actually balance
+each other out and again, there is in fact no problem. It all depends upon the magnitudes.
+All right, so questions, questions about this? All right, and yeah, so also with Weill, so
+now normal people when they hear about externalities, so go back to econ one.
+All right, there's a certain kind of student who is miserable for most of econ one because
+the econ teacher keeps telling them, you know something that you care about, you're wrong.
+You don't think of something you think is a problem, it's actually fine.
+You don't think of something you think is fine, it's actually a problem.
+All right, and they hear a lot of this stuff and they keep getting more and more frustrated.
+Then finally in week 12, they bring up externalities and then the student says, ah, finally.
+This is the theory that explains why everything that I always thought before this class is
+actually true after all. All right, and I can ignore everything that I learned in the
+first 12 weeks. All right, and actually that is not what externalities are all about.
+Externalities are not a general excuse for whatever people believe beforehand.
+It's actually a very specific theory which does change the stuff in the previous 12 weeks,
+but often in counterintuitive ways such as polluting monopolists are better than non-polluting
+monopolists, things like that. All right, now one of the things that people
+generally believe before studying economics is that there is something that markets are
+doing that is bad that the proper response is to do what?
+Well, a normal human being seems a firm polluting and they say that should be banned.
+No, economists say taxed. Normal human beings say banned. Normal human beings say banned.
+So banned, right? And again, this is a, of course, in a case that extreme, then the ban
+may actually make sense. Although in the real world, of course, there would probably be
+so much black market activity and so on that even then, you know, you can't really, like,
+banning it is not really even possible. Of course, you can legally say that murder for
+hire is banned, but in practice, it still goes on because we don't spend the resources
+and we probably couldn't spend enough resources to get rid of it. You could reduce it, but
+to get rid of it entirely is pretty tough. All right, but anyway, so, but for more moderate
+things, just think of it like bad pollution. So, you know, so, ban, you ban swearing,
+you ban pornography, okay? So when banning comes very naturally to people, even though
+of course when you go and look at the model, you'll see, well, wait a second, just because
+there's some extra reality doesn't mean that there isn't still a lot of value being produced,
+right? And that brings us to what is the normal economist reaction, the why sensible reaction,
+the measured, considered reaction, which is taxed. Without an exclamation point.
+No strong growth should not ban the, all right. And you get, of course, a tax where it's based
+upon the actual size of the problem. So, yes. And then, similarly, when you go to the positive
+externality, what is a normal human reaction? Not what an economist reaction, what is a
+normal human reaction to any industry of positive externalities? The government should, yeah,
+own it. Subsidize it. Yes, even better. The government should own it and provide it for
+free. That's the way that it ought to be. So, you know, nationalize. Exclamation point.
+And again, the measured, wise, considered economist reaction is, instead, to say subsidize.
+We don't give it, subsidize. So that is a key difference there. All right. Now, of course,
+even this does not consider public choice issues where we do public choice. Actually,
+last week, we last week of the semester, we do public choice where, in the real world,
+you may be concerned that when you give government the power to subsidize anything that it says
+has a positive externality and tax anything that it says has a negative externality, you'll
+just wind up getting a giant orgy of rent seeking and you'll end up thinking, maybe
+we should have just lived with the problem. Yes. Well, just go down to D.C. and you can
+see it. Right? There's a million ugly buildings with signs on them, but that's what's going
+on. All right. So, questions? Questions? Questions? Anyone happy? All right. A little more sad,
+but that's just. All right. And then, by the way, of course, in the real world, like
+other questions on the verge are things like, when you say tax it, what is it exactly? So,
+for example, if you're concerned about the negative externalities of driving, all right,
+so what exactly does it make sense to tax? Well, there's something, well, what exactly
+am I complaining about? There's a bunch of things you might be complaining about from
+driving. All right. So, like, what are a bunch of different complaints people have?
+Admissions. Yeah, admissions. And then traffic. Traffic. Congestion. Yes, yeah, congestion,
+traffic. All right. And then, actually, when you think about it, like, each of these actually
+a totally different kind of tax would apply. So, if you're talking about admissions, then
+you want to go and base the tax upon the amount that you're bidding. Right? And then you would
+do things which are like the opposite of what we actually do, which is there would be low
+taxes for modern cars that have low emissions and high taxes for antique car collectors
+like my dad. All right. So, those are the cars that produce a lot. Right? But then,
+similarly, I mean, right now we have a system where you go and get an admissions inspection
+and then they, what do they say? Either your emissions per minute are good enough and you
+can drive as much as you want for no additional cost, or you're over and now you're illegal
+regardless of how rarely you drive. Of course, unless it's a certified antique, in which
+case you can pollute as much as you want. All right. That's, again, actual real world
+policy, which bears little resemblance to what would make sense in terms of the model.
+And then, similarly, for congestion, there it's even more obvious that, like the gas
+tax. Is the gas tax a sensible response to congestion? No. Why is it such a terrible
+response to congestion? Because it doesn't incentivize driving at certain times. Yes.
+Or in congested parts of the country. If you're driving across the country, roughly what percentage
+of the country has no congestion problem whatsoever? 95, 99. Again, we have a federal tax on gasoline,
+which applies to the entire country. Again, like a more, say, like if you would have to
+do it through gasoline, much more sensible would have it be to be local gasoline taxes
+based upon how much congestion is happening right around there. Either you say, well,
+people might know and buy the gas in a cheaper, more distant place. So maybe like a regional
+level where like within a few hours drive, but that would be about it. Or, of course,
+you could do something which is now completely technologically feasible, which is congested
+road pricing, which is gradually merging. You may have noticed the new tolls around
+66. When I first heard about it, it sounded really great until I found out, wait a second,
+it remains. So you still could drive for three with HOV2 for several more years. So actually
+the main result is just that almost, is that the people then have two more people to keep
+driving during this time. And since it was totally congested already with that level,
+anyone commute in the morning so like you actually notice any change? Wouldn't think
+so. But it does mean that now if you only have one person, you could then go and pay
+a very small, exorbitant amount of driving at that time. So you do have that. But again,
+so if you were to go and raise it up to HOV3 or 4 or HOV infinity, that would be where
+you would actually go and solve the problem. It is supposed to go up to HOV3 in a few years
+and that probably will make a big difference, I would guess. Because a lot of people in
+one frame make a big difference. Two frames, that's actually a lot. And then similarly
+here for subsidizing. So many people said, well, education is positive externality, so
+subsidize it. This is one where no matter how you go, so first if you've read my recent
+book on education, you know this is even worse than it sounds. But just ignore this for a
+second. Well, what parts of education, what kinds of education are allegedly of subsidies?
+Rather than allegedly positive externalities? Is it supposed to be like the reading and
+the math that are positive externalities? Seems like the market pays you for those.
+So, what kinds of education would people intuitively think of as having these positive externalities?
+Yeah, what was that?
+Stem.
+Oh yeah, so like for R&D maybe. So like the R&D part, although not if you're just going
+to get a stem degree and then go to Wall Street, which is a much more common, very common.
+So, people often mention civics. Like civics makes us better voters. Or you say economics.
+Economics makes people much better voters than civics, right? So then, rather than
+just having like blanket subsidies where you say education in general gets money poured
+on it, you would say no, there's some that doesn't get any, and then there's other stuff
+where it gets a lot more. Although even there, once you accept, wait a second, what we really
+want to do is promote knowledge of civics or economics. Why is it we go and focus on
+subsidizing an input? An input which we have a lot of evidence says is highly ineffective.
+So, rather than going and saying everyone can get heavily subsidized civics classes,
+which if you look at the data, there's very little knowledge of civics, and furthermore
+there's no incentive at all to retain it. So like what other method could you use to
+subsidize civic knowledge, rather than just going and making cheap classes when the subject
+is available?
+Require it for voting or something like that?
+Yeah, you could require it for voting, although even that, I mean probably the normal reaction
+would just be fine, I just won't vote if I have to know civics and you want me to vote.
+I don't feel like, what I have to learn something to vote? No thanks.
+But doesn't that make better outcomes then?
+Yeah, yeah, yeah, very well could.
+But again, so the whole intuition behind this is to very clearly say what exactly do you
+want to happen, and then subsidize that exact thing. So one of my most performance proposals
+is to say, how about this, every year we have a national test of civics, say three weeks
+before the election, and if you get a good score on it, you get money. The end.
+Just money?
+Yes, you get money, the end. Now, key feature of the system, you're allowed to retake the
+test every single year. Why? Because otherwise people forget stuff. So this encourages people
+to refresh and remember and keep learning all the time. And also of course, if you just
+get money for a good score, then you can go and figure out what is the best way to learn
+this stuff. Maybe the best thing to do is to go and take a class. Then again, maybe
+that's a terrible way, given that almost everyone has to do years of this and almost no one
+knows anything. Probably is a terrible way. So maybe it would be better to go and read
+books and take practice tests. Right? And this way you would give people an incentive
+to go and acquire the exact skill you think they should have in the least cost way and
+to retain the knowledge so they can keep using it.
+So again, this is very much in the spirit of the model, but of course, normally what
+people do with externalities or public goods arguments is just to look at something that
+they already want to have, a policy they already favor in the real world, and say there's the
+part of the textbook that rationalizes something that I already wanted. Rather than really
+doing the right thing, which is to hold up reality to the mirror and say is there any
+way in which what we do does not measure up? Is there any failure to appreciate the model
+in the real world? My story, once you really understand the model, you'll see that the
+real world is only a pale reflection of the model. Even the cases where people think that
+they've got a great story worked out, they don't really have a great story. It's mostly
+just post hoc rationalization because people want to say that the real world is okay.
+The real world is not okay. The real world must repent. And this is where the repentance
+begins.
+All right. Questions about repentance?
+Related topics?
+Yes.
+All right.
+All right. That case is moving on.
+All right. So people often say that collusion is a public good for the firms that are in
+the industry. The idea is all the firms in the industry would be better off if they all
+would produce less. But holding constant the behavior of all the firms, everybody wants
+to produce more. All right. And so you might think that we could go and take everything
+we learned about collusion and use it to analyze public good. So that's what we're going to
+do next.
+All right. So let's imagine a voluntary donation game. There's a voluntary donation game,
+which is going to look almost exactly like the Crono game because it's modeled to be
+exactly like the Crono game.
+All right. So suppose we got individual utility function depends on total contributions times
+the personal consumption. So the utility person i is equal to the consumption person i times
+total donations, where d is equal to the summation of all donations, and where consumption plus
+your donations have to equal one. So you see what's going on here. Everybody has to divide
+their income between their personal consumption and donations, and all the money gets donated
+gets summed up to a big total donation. And then our utility depends upon our product
+over consumption and total donations. Total donations. So in your ideal world, you donate
+nothing, and everybody else donates everything, and then you get the best possible result
+for yourself.
+All right. So if you look for this metric equilibrium, then again, it's just going to
+look almost exactly like Crono. And what we get is c is going to be equal to n over n
+plus one. So if there were only one person that says that you would donate half and consume
+half, because you're just one person. So if you're one person, then there's no externality,
+right? So you would have yourself as the optimal. But as the number of people rises, the share
+that you keep of yourself to consume keeps going up. And yet the social optimum actually
+stays constant at 0.5 per person. All right. So as the number of individuals rises, then
+the contribution per person of public goods goes down. Which intuitively makes sense,
+right? That's what you'd expect. All right. And then similarly, suppose that what happens
+when n goes to infinity? When n goes to infinity, what happens to consumption?
+C goes to 1.
+Yeah, consumption goes to 1. So it says when the number of people is infinite, then there's
+no point donating anything, because you can't make any noticeable difference. Now this is
+the non-cooperative result. This is when everybody donates, ignoring anyone else. All right.
+So you could, in a repeated game, then maybe you could get to a higher level of cooperation,
+right? You could say, look, if other people don't donate enough, then I'm not going to
+donate anymore, and I will punish you by keeping it. And in theory, it's possible that you
+could go and get cooperation. Just like in theory with repeated play with collusion,
+you can go and get cooperation. But again, just like with that, clearly with the Bertrand
+game, the more people that are contributing, the higher the level of patience you need
+to get voluntary cooperation to work. Right? Make sense?
+All right. Okay. So that's that model. All right. And now, return to a figure that Walter
+Williams never talked about. Ronald Coase. All right. So in Ronald Coase's famous paper,
+The Problem of Social Cost, what he said is that all the stuff you think of as externalities
+and public goods problems, really, really are all just disguised transactions cost problems.
+So there's really no such thing, actually, as something that's just an externality problem
+as to public good. It's all about transactions costs. And again, the idea is that if there
+were zero transactions costs, we would all just bargain to the efficient outcome. Right?
+Of course, the transactions costs, for them to be zero, as I mentioned in week one, you'd
+have to have a bunch of superpowers, such as telepathy. Right? You need telepathy to
+have zero transactions costs because you need to know how much other people are really willing
+to pay to know what in order to, and you need to have it pop in your head in order to costlessly
+be able to achieve all transactions. Okay. Yeah. This Coase argument does give us an
+extra reason to think that as the number of firms goes up, the cooperation goes down.
+And that's just because when there's more transactors, transactions costs goes up. So
+notice, this is a totally different argument from what we were looking at with Bertrand.
+So, or with Cornell. Right? So none of that had anything to do with transactions costs.
+Right? When we did Bertrand collusion, Cornell collusion, did I ever mention transactions
+costs? No. We just proved, given the assumptions, that as n went up, that the amount of cooperation
+would go down. So, this Coase argument, we can add it on top of that. It's an extra additional
+argument saying why it is that with more cooperation, or more cooperators, there's going to actually
+be less cooperation. So, that is one reason to actually think that when there's more firms,
+there's going to be less cooperation, which is true for both good and ill. What do you
+think about it? Right? Because it means that when there's more firms, there's going to
+be fewer, it's less likely that firms will all get together and form a voluntary cartel.
+It also means, though, that a bunch of donors are less likely to get together and voluntarily
+pool the resources to provide a public good. So you get both problems simultaneously caused
+by transactions costs. But, here is the good news. In the real world, there is often something
+called enforceable contracts. Or actually, given what I just said, it's kind of good
+and bad news. Right? So, enforceable contracts is basically a way that you can get a lot
+that you can change your own incentives.
+So you realize, look, if the two of us each do our own thing,
+it's going to be bad for both of us.
+But we can sign a contract where we both
+agree to take each other's interests into account.
+And then this will be good for us.
+And someone says, well, yeah, but why
+is putting your name on a piece of paper
+make you do what's good for me?
+Well, part of signing the contract
+is that once you sign it, you are making yourself
+legally vulnerable to penalties or punishment
+if you don't do what you promise.
+So you are essentially changing the game.
+You're changing the payoffs for your game.
+Thank you.
+There you are.
+And what's interesting is when you really think about it,
+with enforceable contracts can be way better
+than trigger strategies.
+Because trigger strategies, basically all you can do
+is just go back to the pre-agreement situation.
+But with enforceable contracts, you would go and say,
+you will go and be punished.
+You owe me $1 million.
+You owe me all the harm.
+You owe me more than the harm.
+So that's possible.
+So after the midterm, we'll talk a bit about some strange limits
+on enforceable contracts.
+This is worth pointing out.
+So in the US legal system, and in general
+in the Anglo-American tradition, I
+guess there was a controversy about using this phrase,
+but it's a technical phrase in the law,
+referring to laws descending from England, which
+some countries with almost no English people still use.
+And other countries with a lot of English people don't use.
+Anyway.
+So in this tradition, there is a strange rule
+which has been around for a long time saying
+you are not allowed to put a penalty clause in a contract.
+Now, you say, what does that mean,
+that you can never put something into a contract that
+penalizes someone?
+No, because there are lawyers involved,
+and there's a fine difference between a penalty clause
+and something that penalizes someone.
+They're totally different things.
+Like, well, how would you know the difference?
+Well, here's one way.
+If there's a section of the contract that says,
+the penalty clause shall hereby be X, then you're out of luck.
+You have used the wrong language,
+and then that will not be enforced by the courts.
+So that's one thing to not do if you
+want to put in a penalty clause.
+But what else?
+Well, it just seems too much like if there's
+something where it says you owe me twice the harm.
+Say, wait a second.
+Twice the harm?
+That seems like one more times the harm
+than you would get if you weren't penalizing the person.
+So in general, anything that says
+you can go and you owe them all the harm they've done,
+then that's fine.
+Because then you're not, if there's not a penalty,
+then you're just making it up to them.
+But if it says you have to pay them more than you've harmed
+them, that's a problem.
+Now, again, if you have a smart lawyer, they will just say,
+well, we'll just stipulate that we say the harm is $3 million.
+And if the business says, yeah, but the harm is actually
+only $1 billion.
+Sorry, I couldn't hear what you just said there.
+That was garbled.
+Because if that was what you were saying,
+then there would be a legal problem
+if we were enforcing this.
+And there indeed is one.
+So you didn't say that.
+That kind of mentality.
+All right, now, Robin Hanson, in his dissertation,
+had a chapter on how strange it is that you can't
+have an explicit penalty clause.
+And again, with the whole point of a penalty,
+why would you want to have a penalty clause?
+Because you want to give someone a really strong incentive
+to not betray you.
+It's very important to you that they cooperate.
+And again, why would it be so important?
+Well, here's an obvious reason.
+What if a lot of times they can fail to cooperate
+and you won't notice?
+Suppose there's only a 10% chance of you noticing.
+So if you catch them, they owe you the damages.
+And if you don't catch them, what do they
+have to pay you by definition?
+Nothing.
+So that is a case where it would make a lot of sense
+to have a penalty clause.
+Totally understandable, great business reasoning,
+great efficiency reasoning.
+And yet the Anglo-American legal tradition
+says, no, that's not allowed.
+Yes?
+What about a warranty, so there are warranties where if a
+product is malfunctioning, you owe someone?
+Yeah, yes.
+So here's the other thing about the system, which
+is that if a firm offered you that
+and you took them to court, then by the letter of the law,
+you could probably only get the original money back.
+In practice, since there are almost no warranties
+that would be enforced by court, it's
+just a matter of reputation.
+You go to them, say you set double the money back,
+and they give it to you.
+So again, it's legal to offer it.
+So it's not that you go to jail for going and putting
+a penalty clause in the contract.
+It's just the court will not acknowledge it.
+So anyway, after the midterm, we'll talk about this.
+But it does seem like this is a strange limitation
+on people's ability to go and voluntarily solve
+their cooperation problems by contract.
+So questions about enforceable contracts
+and how really the principle, like enforceable contracts
+would allow you to turn any game into any other game.
+So you're bound to be in a prisoner's limits.
+So you both sign a contract saying that if you go and don't
+cooperate, then you owe me $1 million.
+And then you go and redraw the entire payoff matrix.
+Really, a contract could just be to say,
+here's the original payoff matrix.
+Here's the revised payoff matrix based
+upon the terms of this contract.
+And then you could make cooperation strictly dominant.
+And all problems could be solved that way, the principle.
+All right.
+Now, when you look at experiments, funny thing
+is that we generally see way too much cooperation.
+We see way more cooperation than you get from repeated play,
+especially as people cooperate in one-shot games.
+And we also see a lot more cooperation
+than codes would allow, because people often
+cooperate without negotiation.
+So odd.
+What should we learn?
+What should we do?
+What should we think about this?
+Well, here's the obvious answer.
+People aren't as selfish as economists assume.
+There's other explanations, but this
+seems like a pretty obvious one.
+Why would people cooperate when it's not in their interests?
+They don't always act in their interest.
+Another one would be they don't understand the game,
+which is possible.
+Although, if the game is really transparent,
+like a dictator game, what can you tell them?
+Here's the game.
+You'll give as much money as you want to the other guy.
+The end.
+How many people will not understand that game?
+Seems like a super obvious game.
+In fact, we all play that game all day.
+Whenever you don't give your money away to other people,
+you're playing this game.
+So questions?
+Now, something kind of interesting about this is,
+if you think that what's going on
+is that people are cooperating more than they normally would
+because they're not selfish, then we
+might actually get a more optimistic result
+than I was suggesting earlier.
+Because remember before I was saying that basically anything
+that leads to reduced collusion in an industry
+will also lead to reduced cooperation
+in public goods games.
+Because they're basically the same model.
+It's not that model is just the same as Cornell.
+So you might say, look, any story
+about how it's possible to get a good outcome in Cornell
+means that you're likely to get a good outcome in Cornell.
+Also implies that voluntary public goods
+permission is not going to work.
+And on the other hand, if you say
+that you are able to go and that collusion,
+that you are able to go and get voluntary solutions
+to public goods games, it also seems equally plausible
+that you would get voluntary solutions to cartels
+and that cartels would work.
+So this is an argument that I had first
+had with Tyler 25 years ago.
+Anyway, so I do have a paper with that string
+in where we show why he's wrong.
+And here, in the real world, which
+is the really important place to be wrong or right,
+is the real world.
+And this says, look, if the reason why
+we get extra cooperation is that people aren't selfish,
+then we actually need to look at what people consider
+to be selfish or unselfish in a given situation.
+So when you are raising money for charity
+to go and help people, what is generally
+considered to be the unselfish thing to do?
+Donate.
+So in that case, we'd expect that we
+will get more donations than you'd expect given selfishness.
+On the other hand, what is generally
+considered the selfish thing to do
+when you are trying to get a collusion on an AIDS drug, say?
+What is considered the unselfish thing to do?
+The unselfish thing?
+The unselfish thing.
+The unselfish thing.
+Like the compassionate, kind, decent thing to do.
+Not collude.
+Right.
+So if you think that the extra cooperation is being caused
+by unselfish motivation, this is a reason
+to actually think that things that people actually
+view favorably, like donating to charity,
+actually you will get good outcomes.
+Things that people socially view unfavorably,
+like trying to restrict the supply of food
+in order to get more money for you and starve children,
+that will actually work no better than expected.
+Or maybe it would be worse than expected.
+People's consciences might bother them.
+And then once you start thinking about this,
+you want to think, well, are there
+any cartels that are moralized?
+Moralized cartels where the members actually
+regard someone who goes and produces more and cuts prices
+being evil.
+Unions?
+Yeah.
+So unions are a good example.
+So I remember once I was in New York on May Day,
+and there was a big May Day parade
+that I happened to wander across.
+And they had a 15-foot inflatable rat.
+And there was a big sign on the rat that said,
+don't be a rat scab.
+So this was a case where they had actually
+embraced the norm of, it's not just
+that it makes us more money.
+It's the morally good thing to do.
+Whereas when Swiss executives fixed the price of aspirin
+and ended up in jail in Texas, there's
+no report that when they were doing this,
+they were saying, we must do this
+for the good of aspirin workers all over the world.
+They're all counting on us and our selfless sacrifice.
+That was not it.
+It was like, all right, so we'll go and make more money
+with our aspirin.
+Oh, no.
+That's not it.
+They did not seem to see themselves as heroes.
+Whereas, yes, so in unions, they may see themselves as a hero.
+Sometimes farmers actually seem to see themselves
+as a relic when they cut production
+at certain times and places.
+Like farmers in the US in the 20s,
+they seemed actually in a very moralized view of it.
+But again, normally not.
+So the number of people that would die for a union,
+there are people who have done this.
+The number of people that would die for an OPEC,
+that seems like a pretty straight answer.
+Number of people that would die for standard oil.
+I don't know.
+Really?
+They would die for them?
+All right, so anyway, we had a paper
+in the Review of Austrian Economics developing this.
+But in the real world, we say that they're that.
+So even though in a simple model,
+collusion and cooperation public goods are totally symmetric,
+in the real world, they actually are not symmetric.
+Questions about that?
+In that case, let's return to coordination.
+And again, so let me just remind you
+that you're all full of energy.
+And the fact that class is approaching
+makes you feel disappointed.
+But nevertheless, you are so full of enthusiasm
+with the subject, like if we have 15 minutes left,
+let's really make them count.
+And that's just what we're going to do,
+since that's what we all want.
+That's what we will all do.
+Eventually, I will get to the point
+where I will make people chant and cheer.
+But I'm not ready for that yet.
+Yes, yay, economics.
+I can do it, but I don't feel comfortable making you guys do
+it, something to North Korea and Nevada.
+But it starts off voluntary and ends with.
+All right.
+We'll all say that.
+All right, but full of enthusiasm for economics,
+let us now think more about coordination.
+So remember we did that very simple coordination game,
+very simple coordination game where players can either
+go left or right.
+And if they both do the same thing,
+then it's better than if they both do different things.
+I do something left, right, left, right.
+And then if they do different things, then the payoffs are 0.
+And if they do the same thing, then it's better than 0,
+although one of the two is better, in this case,
+right, left, or 0.
+So we've got these two pure strategy Nash equilibria.
+There's also a mixed strategy Nash equilibrium here.
+I'm not going to bother proving it to you,
+but it's pretty easy to show there's
+a mixed strategy Nash equilibrium.
+But there's an interesting fact, which
+is that the mixed strategy Nash equilibrium is unstable.
+I could go through a lot of math to convince you,
+but I'm going to just, but it's very easy to do intuitively.
+So imagine that you're in a country where 51% of the people
+speak one language and 49% speak the other.
+So which language do you probably want to learn?
+51%.
+You don't speak either one.
+You want to learn the 51%.
+And as a result, the percentage that speak the language
+quickly goes to 52, and 53, and 54.
+So you very naturally go to one extreme
+where that's the one language that everybody speaks.
+On the other hand, of course, if it
+started at 49% of that language, you generally go the other way.
+So the reason why the mixed strategy Nash equilibrium
+is unstable, that would be very much like a country where
+you have exactly 50% speaking one language, exactly 50%
+speaking the other language.
+If it's perfectly divided, then you're
+indifferent between both languages.
+What's unstable is that there's a little disruption.
+This is just a slight random tip.
+Then the system tends to go to all one language or all
+the other language.
+Right now, this is very different from a bargaining
+game.
+In a bargaining game, remember, I
+think we already saw that if everyone but you bargains hard,
+how do you want to bargain?
+Soft, because in a world where everyone bargains hard,
+no deals are struck.
+Imagine that everyone else demands 60% of the surplus.
+Do you want to demand 60% too?
+No, then there will be no deals.
+Instead, you want to go around asking everyone for 40%.
+Now, in a world like this, if you start off
+with half the people bargaining hard, half bargaining soft,
+and split it the other way, then that's an equilibrium.
+That's a mixed strategy Nash equilibrium.
+Then if there's a little bit of random variation,
+since you go to 51% bargaining hard,
+which strategy looks better when you slightly
+increase the percentage of people bargaining hard?
+Soft, yes, which offsets.
+And that's why it is actually a stable mixed strategy Nash
+equilibrium, where if you move a little bit away,
+people want to start doing the opposite of the thing
+that became more common until you get back.
+But with the coordination game, on the other hand,
+if you move a little bit away, people
+want to just amplify that and amplify it
+until finally you go back to one of the pure strategy
+Nash equilibrium.
+Again, imagine you're in a country
+where exactly half the people drive
+on the right side of the road and half drive on the left.
+What are the more you can do?
+You're stuck in the country.
+Like, I would just not go to country in the first place.
+You show up there, ah!
+All right, if it was exactly 50-50, then you're just like,
+well, both strategies are equally deadly.
+But on the other hand, if you notice a slight imbalance,
+51% are driving on the right.
+It's like, well, it's only a slight advantage,
+but if it reduces the subsidy, though,
+there's a slight reduction in the risk that I die today,
+that seems worth it.
+And so once everyone who looks at 51 sees it,
+then you might go 53, 55, 60, 80,
+and then the country saved itself purely
+through decentralized means, as people just
+want to do whatever it is that other people are doing
+so that they don't die.
+So anyway, that is why the mixed strategy Nash equilibrium
+is unstable here.
+There's math.
+You can do the math, but the math
+is less actually informative than just understanding
+what it's like to be in a game where
+the fact that something's becoming more common
+means that you want to do it even more,
+versus when something's becoming more common
+means that you want to do it less.
+Ones where something's becoming more common
+means you want to do it less, or ones
+that those are stable mixed strategy Nash equilibrium,
+and ones where other people want to do it more
+means you want to do it more, those are unstable.
+Questions about that?
+All right.
+So lots of applications for coordination games.
+Language.
+It's very common for countries to have just one
+commonly spoken language.
+And you may even often notice even one accent
+comes for fail.
+Everyone in the area just tries to go and speak
+with the same accent as everybody else.
+This is so much a part of human nature
+that kids do it unconsciously.
+It's not like kids generally say,
+I'm going to go and try to speak like other kids in my school.
+They do it automatically.
+But I don't see this very much.
+And kind of striking when you take a look at,
+it is common for countries to try to actually promote
+a national language.
+So they're actually trying to go and say,
+this is the one language they're all
+going to speak with each other.
+There is a famous anecdote in Concur, I think it was,
+I can't remember if it was some Jesuits or the King of France,
+and they went over to China and said,
+why don't you go and switch over to a phonetic alphabet
+like we have.
+And then it would be really easy to learn to read.
+And then they said, why don't you switch over
+to a pictographic alphabet so that you could read people
+in other languages.
+So my understanding is, so in China,
+different dialects, someone could write something
+into different dialects, and you could read it
+even though you can't speak it.
+At least the usual story, is that kind of true?
+You can read it.
+You read it in your own language.
+But someone else who speaks a totally different dialect
+writes something down, and you can understand them
+even though you can't talk to them.
+I don't know.
+I don't think you can read dialects,
+you can write it down.
+You can just read it.
+But if it's totally, even if it's
+like Cantonese versus Mandarin, you
+can understand both automatically?
+No, right.
+But if someone in Canton writes something,
+writes something in Cantonese, someone
+who speaks Mandarin can read it and understand.
+Writing in Cantonese.
+What's that?
+There isn't a writing in Cantonese.
+They don't have any?
+I don't think there is.
+It must have some writing.
+There is.
+There is just one common written characteristic
+that is spread out in the whole country.
+But the dialect is different.
+Yeah, yeah, yeah.
+That's what I'm saying.
+So you can't understand the word.
+When you speak, you can't understand, but when you write.
+Yes, yeah.
+Oh, they are writing Cantonese, but I cannot read it.
+Yeah.
+I cannot read it.
+Can you understand?
+No, I cannot.
+You can't understand what they have in mind?
+It's a totally different reading.
+It's a totally different alphabet.
+It's totally different symbols too?
+Yeah.
+No, but they still are durable.
+All right.
+So, well.
+I never see it.
+Yes.
+Here's something.
+I mean, the problem is to manage this
+to be one of a few people that only speaks the,
+I mean, you might want to be bilingual anyway.
+But if you wanted to signal that you were rich enough people,
+you might want to be the only person that knows French
+or everybody else knows English.
+Yeah, there is some advantage.
+But again, if you have to learn one language,
+normally you want to learn the language
+that's common in the area.
+I have a question.
+All right.
+So, Wayne, you want to start?
+I have a question.
+Why doesn't the word coordinate to speak only one language?
+The whole word.
+Ah, so that's a great question, actually.
+Yeah, so.
+You know, like, if you have very little
+interaction with people in other countries, there's that.
+Right, so if you very rarely interact with them.
+So, yeah, this is something where you probably want to modify the model so that if you,
+like you want to speak a language that is common enough,
+but if there would be a high cost of going and switching,
+then you may want to stick with whatever language you started with.
+So, yeah, it's true that every year there are a lot of rare languages that are dying out and becoming extinct.
+Right, so there is a general tendency towards this, but it is slow.
+You may wonder whether the tendency is so slow that it will take 10,000 years.
+Right, so that is possible.
+So, anyway, language is one nice example.
+Yes?
+Could you do that type of analysis of languages as if languages were public goods?
+I mean, similarly, in the sense that if you are 50-50, then the N is probably very high,
+therefore you don't want to coordinate, or it's very...
+Yeah, well, again, public goods and coordination are actually very different.
+The whole idea with public goods is that whatever everybody else is doing, you don't want to help.
+With coordination, on the other hand, is that if other people are doing it, you want to do it, too.
+So, again, if speaking English were a prisoner's limit, then probably no one would speak English.
+Since it's a coordination game, if other people are doing it, you want to do it, too.
+So, like, you know, a big difference.
+Now, you can also say the same thing about culture in general.
+So, if you look around the room, you'll notice that I don't think any two of us are wearing exactly the same clothes,
+but there's a lot of commonalities in the clothes that we wear.
+Right? Like, none of us have clothes that have, like, a covering of our face.
+Right? So, like, none of us are wearing masks.
+Like, why not?
+So, see, there's comfort.
+Mask week is next week.
+Yes.
+Right? You have a set of, like, you know, if you were...
+Imagine you were a society where everybody wore masks.
+You would probably wear one, too, just to fit in.
+Right? And there are many other things like this.
+So, for example, how hard should you encourage a guest at your home to eat food?
+So, there is the American norm where you say, would you like some food?
+And if the person says yes, you give it to them.
+And if they say no, then you don't give it to them.
+And that's it.
+But on the other hand, if you're in a Romanian home, they have a totally different rule.
+And the rule is they offer you food and you say no, and then they insist.
+And if you don't want it, then you say no again, and they will then insist even more strongly.
+And then they may try to actually put it on your plate when you don't want it.
+And then you may need to move your plate.
+And in this system, if you...
+Like, it can be rude just to...
+It can be rude not to refuse even when you do want.
+Right?
+And both systems can work well if everybody accepts the norm.
+So, in the U.S., if both people accept the norm of I offer, and if you want it, you say yes.
+And if you don't, you say no, and that's it.
+In that case, the guest gets the food and the host feels like they've been a good host.
+On the other hand, if you have two Romanians together, then the Romanian host offers and the guest politely refuses,
+and then the host offers again, and then the guest may then accept at that point, and then everybody's happy.
+But if you mix up the American with a Romanian, then you can have the unpleasant situation where one person keeps pushing
+and the other person doesn't know how to not receive food they don't want.
+And then there's a breakdown and people get more upset or upset.
+All right.
+So, lots of examples.
+So, like many other cultural examples you can think of.
+Yes?
+The song, Baby, It's Cold Outside.
+No, don't...
+Christmas song called, Baby, It's Cold Outside, where this guy's trying to get her to stay over,
+and she also wants to stay over, and that's what the song is about.
+Ah, okay.
+And she keeps making up reasons, like, why she should go.
+And it's basically the same thing.
+Yeah, yeah.
+So, again, like, some cultures are very straightforward, others are not.
+I remember philosopher John Searle was telling me that he said, like, you know, so he was American,
+but he said, you know, be at international philosophy conferences,
+and you would see two extremely different cultural norms about how much personal space a person needs to have a conversation.
+So, like, the British norm, like, you need, like, a good four-foot gap to have a proper conversation.
+And the Italian norm, maximum, like, six inches.
+So, you know, he said you could actually look and you could see, like, the Italians almost literally chasing the Brits around the room.
+Because the Italian keeps trying to get close enough to talk, and the Brit keeps trying to get far enough away to have a conversation.
+Right?
+And, again, as long as both sides have the same cultural norm, then there'd be no problem.
+But when you have two incompatible norms, then you do have this difficulty.
+So, coordination needs have been invoked to explain culture, and a lot of this makes a lot of sense.
+Okay.
+So, coordination needs have been used for technology.
+Remember I mentioned this path-dependence literature?
+So, again, the idea is that there are some technologies where the reason to have it is that other people have it.
+So, when I was first teaching this class, there were two competing standards for the next-generation DVDs.
+Right?
+So, there's the one that won, which is Blu-rays, and then there's a totally different standard, which had a better name.
+HD-DVD.
+Very intuitive.
+Right?
+It's like high-definition DVD.
+But Blu-ray actually won.
+Right?
+But there was a period, about two years, when they were both fighting to become the winner.
+And during this period, there were an enormous number of people, including me, who just didn't buy either,
+because we were waiting for coordination to kick in and wanted to dig over so we wouldn't need to go and get two players,
+or make the wrong bet and then be stuck with a player that didn't work, which a bunch of people did.
+I made the wrong bet.
+You must be getting one at a very young age.
+Yes.
+Ah, all right.
+So, anyway, that's one case.
+Or, again, think about credit cards of a certain size.
+Would any bank want to go and come up with a double-sized credit card?
+Right?
+Here, we have our new double-sized credit cards.
+Right? They're great.
+And, again, even if it was better, who would want one, given that it wouldn't fit in anyone else's machines?
+You wouldn't swipe it anywhere.
+It wouldn't fit in wallets.
+So this is one where you want to go and have the same dimensions for your technology as everybody else.
+Regardless of anyone.
+Even if the other one had some extra merits, you still would have a reason to want to just have the same technology as everybody else.
+It sounds like something Steve Jobs would do.
+Yeah, maybe.
+So, of course, if you're a really big player, you might think, I'm so important in this world that I can change the world.
+I can get everyone to switch over to my new thing.
+So, in that case, maybe you could.
+All right.
+So, anyway, technology reviews.
+And then location is another great example.
+So Paul Krugman is still bitter that his work on location hasn't really caught on.
+I think he probably has hundreds of citations, but Paul Krugman is a high stander for how successful his work has to be.
+But it comes down to this.
+Why do you want to use Manhattan in Manhattan?
+Isn't that a stupid place to have Manhattan?
+It gets cold and you're on an island, so it's inconvenient to get in and out.
+And the land supply is very low.
+Why not just take everyone on Manhattan, everything on Manhattan, and move it to Florida?
+Like a nice, unoccupied area of Florida.
+Which, of course, is what Walt Disney did for the Magic Kingdom.
+Because he got a giant unoccupied area and he just built his dream world there.
+But why not just scoop up the entire area of Manhattan and move everyone to another area where there would no longer be any bridges or tunnels to worry about,
+where you could expand out easily, and you'd have way better weather.
+And the coordination answer is, well, you go first.
+If you're already in Manhattan, you have a good job in Manhattan, and you say, fine, I'm going to move to the middle of nowhere in Florida,
+what happens is not that you get to have all the benefits of Manhattan combined with all the other great stuff,
+what happens is that you lose it all because unless everyone moves as a group, you have a problem.
+Now, if you know the history of cities, what are the best predictors of where a city today will generally be?
+Where the same city was 100 years ago.
+And why did cities generally get placed where they are historically?
+Water. Yes, water is the main reason.
+So you'll see all these cities are either by coast or by major rivers.
+Even though now we have a bunch of improvements in transportation, which make it much better to have cities in other places,
+but yet still on a likelihood, likelihood.
+So what does it suggest?
+So I think actually 90% of the U.S. population is within 100 miles of the border even.
+And most of the other, so an enormous amount of that is just from the coast.
+So, anyway, that is the reason.
+So Krugman likes to talk about, like, why is it that almost all carbon production happens in Atlanta, like outside of Atlanta?
+And there's no particular reason based upon physical inputs or crops or anything else,
+just that, well, there's some, like, since everybody else is doing it there, you want to do it there too.
+And of course, like, why go and put your startup in Silicon Valley when the real estate costs are astronomical?
+It's like, well, because there's a whole lot of other qualified people that are already there.
+So if I set my business up there, super high cost, but there's a big pool of qualified applicants.
+So that makes it better.
+And we will stop here.

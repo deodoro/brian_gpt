@@ -1,0 +1,3427 @@
+of the midterm as a bureaucratic entity.
+But we will talk, we should have some time at the end to talk
+about the actual substance of the midterm.
+So what you're going to need to know,
+you can ask me questions.
+Oh, yeah, final, final, final.
+There's already been a midterm, right?
+All right, yes, there has already been a midterm.
+Yeah, well, the longer you teach,
+the more difficult these questions become.
+All right, and let's see, yes,
+so we're going to finish the material.
+Then I will take any questions that you have
+on any material whatsoever that we have done.
+And that will be the end of the course,
+other than the final exam.
+Right now, as I think I mentioned,
+this class is not just an integral part
+of microeconomics, it's also a trailer for a class
+that I'll be teaching in spring of 2018.
+See, I don't remember who's doing it in the fall,
+but anyway, so if you like this subject,
+if you think this is interesting,
+you can specialize in this,
+and you can become a full-fledged public choice
+economist, as many other graduates
+of our PhD program have become.
+On the other hand, if you don't like it,
+then it's just one week, and you're done.
+So you never have to worry about it again.
+All right.
+All right, so he's doing the following,
+yeah, that makes sense.
+All right, so just starting with the basics.
+So how many of you have ever heard
+of the median voter theorem at some point?
+All right, good, we'll just do a very quick version of it.
+All right, so first of all,
+let us assume that voters' preferences are what we call
+single-peaked, single-peaked preferences.
+This means everybody has an ideal point or a bliss point,
+and utility declines monotonically
+as policy moves away from it.
+This would mean, for example,
+if you're going to have a bliss temperature of 74 degrees,
+and then your utility goes down automatically,
+the further away you get, the lower your utility becomes.
+All right, well, wouldn't everything be like that?
+No, not necessarily.
+So, for example, suppose that you like skiing,
+but you also like swimming.
+In that case, you might have double-peaked preferences,
+where you might have one peak at, say, 33 degrees, 32 degrees,
+say, so that is the warmest temperature
+at which you can have snow.
+And then as it gets colder, that's where snow is.
+So, that's the worst for you, because then you're snowing
+under less pleasant conditions.
+But as it gets warmer, that's also less pleasant,
+because then your probability of having snow
+or the duration of snow goes down.
+And then that could go down for a while,
+and then it could go up again,
+and then you might have 74 degrees, the speed drops more,
+and then it goes down again.
+So, that would be a case where we have two peaks, right?
+Okay? Or to take a political example, Lenin,
+your Lenin had a slogan, the worse the better,
+the worse the better.
+By which he meant that he actually wanted worse things
+to happen, so that there could be,
+that people would be extremely unhappy,
+and then there could be a revolution,
+and he could establish a communist dictatorship,
+rather than having an intermediate option.
+So, he preferred the rule of the czar, who was much further away
+from him, than the slightly more modern Marxists,
+who he considered the very worst,
+because they were the ones that were going to put forward
+reformist measures, which would prevent the possibility
+of the really good thing, a dictatorship run by Lenin.
+Or one other example, during the Vietnam War,
+one view commonly expressed was, we shouldn't be there at all,
+but if we're there, we should be there to win.
+Right? So, either do nothing, or go in with your nuclear weapons,
+but don't do the intermediate thing.
+That again, so it would be something
+like two peaks in the preferences.
+All right.
+Now, suppose we've got a two-party
+or a two-candidate election,
+and then imagine the voters care about,
+and are perfectly informed about, just one issue,
+which is liberal versus conservative,
+or of course, that could be left versus right.
+All right.
+And then, assume the winner,
+the electoral rule is winner takes all,
+so whoever gets more votes automatically wins.
+We will assume that all ties resolve by flipping a coin.
+In the real world, of course, elections are almost never ties,
+and so we don't have to worry about what the tie rule is.
+There is, in fact, a very detailed tie rule
+for U.S. presidential elections.
+A student once emailed it to me.
+It's seven steps.
+All right.
+But what if all seven things are satisfied?
+Maybe there's some final thing, but anyway.
+But in theoretical models, ties happen all the time.
+And so, it is important when you're doing electoral models,
+to come up with your rule for what happens under ties.
+All right.
+Then, we need to make an assumption
+about candidate motivation, which is they want to win.
+Right? They want to win.
+Right? And particularly, they care more
+about everything else put together.
+I'm just having a conversation with Steve Pearlstein,
+where he claimed this was a ridiculous assumption.
+I was puzzled by why anyone would consider it ridiculous.
+Just saying, well, just look at history
+and the horrible things people have done to gain power.
+Doesn't that indicate they really want power
+and will do these things in order to get it?
+But he assured me if I actually mess
+with politicians, I should change my mind.
+I suppose it's possible.
+It doesn't seem likely.
+All right.
+I also said that you can't really believe what people
+like that say, because they're trying to tell you what you want
+to hear.
+And people don't want a politician
+to say, I seek power.
+All right.
+Doesn't mean they don't.
+Right? It's just not a good thing to say,
+especially if you're seeking power.
+You don't say, you want power.
+You don't say, I seek absolute power.
+You say, I just want to save the people here.
+The last thing I want is power for myself.
+Anyway. So, we assume that they care about winning more
+than everything else put together.
+And then, last assumption is they can compete
+in exactly one way by taking a stand on the issue.
+It's not even an issue.
+It's just only one issue in a simple model.
+All right.
+Now, if we go and graph this distribution
+of the bliss points, this shows there is that density of people
+who consider that their favorite thing.
+And there's that density of people who consider
+that their favorite thing.
+All right.
+Now, notice, since this is only a distribution of belief points
+or other bliss points,
+these people might have very different utility functions.
+So, this, one of the, some people
+like this might have very symmetric utility functions.
+But a person, another, a person could have exactly the same bliss
+point but could have a very slow fade on this side.
+And a very, or excuse me, very fast fade on this side
+and a very slow fade on that side.
+So, you both have the same maximum, the same first choice.
+And yet, one person could be indifferent between moves
+in a liberal or conservative direction.
+But another person could say, look, this is the right amount
+of liberalism, which is a lot, but anyone more liberal
+than me is crazy.
+Whereas, you can be a lot less liberal
+than me and still be an okay person.
+So, that could be your view as well.
+Okay. All right.
+Now, what, oh, yes, yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Yes.
+Now once we realize, so this is our distribution here.
+Now we can imagine going and putting down
+just randomly our initial positions.
+So suppose this is the,
+what's called the D party, Democratic Party.
+And this is our Republican Party platform initially.
+Now given the assumptions that I just told you,
+we can divide this diagram into three regions.
+Region one, these are the people
+who definitely vote for the Democrats
+because they are more liberal than the Democrats.
+And if people have single peak preferences,
+you always choose which evil?
+The lesser evil or greater evil.
+Yes, if you have single peak preferences,
+you always choose the lesser evil.
+That's the nature of single peak preferences,
+is saying which is the lesser evil and I will do that.
+All right, similarly over here we have region three.
+These are the people whose bliss point is more conservative
+than the conservative opposition,
+so they will all vote for the conservative candidates.
+And then we have people in region two.
+Now it's very tempting to say,
+oh well all that happens is you split it.
+But we don't have enough assumptions to say that.
+Because remember it's possible that this guy,
+that someone here could have a very fast fall
+in their utility function on the right
+and a very slow fall on the left,
+so a person who's very close to the Republican
+might still prefer the Democrats.
+That is possible.
+All right, now you may say,
+oh well this is, not only did you make a bunch of assumptions
+but you didn't even make enough of them.
+We need even more to get an answer.
+But it turns out that this model still can be solved
+with no more assumptions than I already gave you.
+How can that be done?
+Well, think about being a paid political advisor
+to either side.
+And you understand the nature of the model,
+so the Democrat comes and says,
+what do I need to do in order to get more votes?
+And in the context of this model,
+what is the right answer going to be?
+Move to the middle.
+Yes, what's that?
+Move to the middle.
+Yes, move to the middle, moderate.
+Moderate, Democrats.
+Move over here, because when you do that,
+you expand area one, so now you scoop up
+all those extra votes for sure,
+because now those people are more liberal than you.
+And you don't lose a single vote in there
+because preferences are single-peat.
+So at minimum you gain these
+and you don't lose a single person in there
+and so you have increased your vote share.
+Now, since the liberal got more conservative
+in order to win, does the conservative
+also get more conservative to win?
+No.
+No, the conservative does what in order to win?
+Moderates.
+Moderates.
+Once again, he moderates.
+So the advisor to the conservative says,
+all right, I'm gonna go in there.
+And then again, you scoop up those votes for sure
+and you don't lose a single one in there.
+Right, now of course, this is just like
+the kind of thing where you're in a market
+and there's a shortage, so you raise the price a bit
+and there's still a shortage,
+and so you raise the price again.
+You raise the price again until something happens.
+So it makes sense to tell the Democrat to moderate again
+and the Republican to moderate again.
+And if they always wanna keep moderating,
+moving closer to the other side,
+then the only equilibrium situation is gonna be one
+where the platform of the Democrat
+doubles the platform of the Republican.
+All right, and so in equilibrium,
+the platforms cannot be different
+because you can always improve your position
+by moving closer to the other candidates.
+That's our first equilibrium condition
+in the median voter model.
+Okay, yes, so literally that means that one party
+can just copy the platform of the other
+and then switch out the worst Democrat or Republican
+and that would be the end of it, okay,
+if you take it very literally.
+Okay, so, and there's a special name for this.
+This is called the platform convergence
+where the platforms converge, they become the same.
+Like there's a famous line from I believe George Wallace
+who said, there's not a dime's worth of difference
+between the two parties, right?
+Which people usually say to make it sound like
+there's not competition and democracy.
+But actually in this model, that is beside the competition.
+Just like we see that all the wheat farmers
+charge the same price, ah, collusion, right?
+No, the more normal assumption is competition, right?
+Because with competition, anyone who charges a higher price
+than anybody else loses all their business.
+So you don't wanna do that.
+All right, but saying the platforms converge
+does not answer the question to what do they converge?
+So what do they converge to?
+And now I'm going to lead the witness to get to the answer.
+I didn't invent this myself, of course.
+Have you ever had a math problem where the teacher said,
+let's just try a solution of the form
+Y equals tangent of U, see what happens, right?
+And it almost always works.
+And of course your teacher didn't come up with it.
+You got it from his teacher who also didn't come up with it.
+Got it from his teacher, sell it and then gouse.
+They didn't.
+All right, so similarly here, I didn't come up with this.
+My teacher didn't come up with this.
+But somewhere, someone came up with it.
+I think it was Anthony Downs, it's Duncan Black,
+if I remember, right?
+Maybe, all right.
+Anyway, so first leading question.
+Is it possible that they could both converge
+to a position that is above the median distribution?
+So say, could they both converge to the 80th percentile?
+And the answer of course is no,
+because if you're both at the 80th,
+one party could move to the 79th percentile
+and then get a minimum of 79% of the votes
+and win for sure.
+Okay, so and of course if you are at the 52nd percentile,
+one guy just moves to the 51st percentile
+and gets a minimum of 51% of the votes for sure
+and therefore wins.
+So we've got the next equilibrium condition saying
+that the platforms to which they converge
+must be greater than or equal to the bliss point
+of the median person in the distribution.
+All right, now we can go and do another thought experiment.
+Say, could they both converge to the 48th percentile?
+So they both converge to something below the median.
+All right, and the answer of course is no,
+because if you're both at the 48th,
+one person goes to the 49th percentile
+and then gets at least 51% of the votes.
+So we can therefore say that,
+well, they must converge to something greater
+than or equal to the median.
+All right, and what is the number
+that is both greater than or equal to something
+and less than or equal to something?
+Yes, the thing, it is the thing.
+The number greater than or equal to seven
+and less than or equal to seven is seven.
+All right, so parties converge
+to the bliss point of the median voter, right?
+And this is the famous median voter theorem,
+which if the parties are named Democrats and Republicans,
+says the Democratic platform equals the Republican platform
+equals the bliss point of the median voter.
+Now, there are many implications of this.
+The most obvious one is if you are trying to understand
+why policy changes over time,
+what is the natural candidate for what has changed?
+Median voter.
+So why come in 1900 there wasn't any gay marriage?
+Median voter didn't want it.
+And how come now we got it?
+Median voter does want it.
+That's the simple story.
+Now you say, well, that's wrong
+because the Supreme Court and everything else.
+All right, and that's probably true, but still.
+If you were to say, all right, fine.
+Now, maybe the Supreme Court gave it to the country
+10 years before it was going to,
+but if the Supreme Court in 1900 tried declaring gay marriage
+something was gonna happen, right?
+Something crazy might happen.
+Like they might go and first of all, they'd say, what?
+Of course marriage should be gay
+because marriages should be happy.
+And that's what gay means.
+And then you might say, no, no, no, that's not what I mean.
+I mean something else.
+Like, wait, have you ever explained it
+to someone who's in their eighties?
+There's just a great deal of confusion
+about what in the world you're saying.
+Right?
+Men don't marry men.
+It's like, well, now they do.
+No, they don't.
+All right.
+Just, well, the median position has changed
+and so now they do.
+It's like, all right.
+So that's the idea.
+Or if you're saying like,
+why do they have socialized medicine in Britain
+but not in the United States?
+The voter in Britain wants socialized medicine.
+The median voter in the United States does not want it.
+Why is it that immigration restrictions exist
+in the United States?
+Yes, the median voter, who believe that is the person
+who votes in the United States wants it.
+You have to be very careful in specifying,
+well, there's lots of voters in India who don't like it.
+But the voters in India don't vote in American elections.
+And so their view does not count
+and is not what politicians here are competing for.
+Now, we don't have a lot of time to go over the empirics
+but it is fair to say that this is an extremely
+informative model in the same way the supply
+and demand model is extremely informative about markets.
+You know, does supply and demand explain everything?
+No.
+But on the other hand, if you know supply and demand model,
+you can explain a lot more about the world
+than other people can.
+And furthermore, supply and demand model works way better
+than it really should when you think about it
+because it seems to actually explain lots of things
+even in industries that aren't atomistic
+and there's other issues.
+So it doesn't exactly fit the model
+but it's still very predictably accurate.
+And I will just foreshadow and say,
+when you go into the data,
+the median voter model does way better
+than you would ever expect.
+It's one of these uncannily predictive models.
+Which again, the main problem people have is,
+well, surely America don't want farm subsidies
+and so the model's wrong.
+It's like, hmm, what makes you so sure?
+Well, it's not in people's interests.
+What makes you so sure people vote for their interests?
+I guess, I just kind of figured they would.
+Well, why don't we go and look at the data
+and see what Americans think about farm subsidies
+and then you will go, wow, they're super popular.
+The model actually works.
+I guess.
+Yes, what is this an application of the hotel and game?
+Of the, which game?
+Hotel and game.
+Hotel and game.
+Hotel and game?
+Yeah.
+Yes, so it's similar to the hotel and game
+except in the hotel and game,
+normally firms are actually not maximizing profits
+and so they don't wanna do full convergence
+in the hotel and game.
+Because in the hotel and game,
+if you have full convergence,
+then you actually earn no profits.
+Whereas this is one where you don't worry,
+what you want is to win, right?
+So in the hotel and game,
+it's you aren't looking to have the larger share of profits,
+you're looking to just get to maximize profits
+and you don't care if you get more profits
+but it's a smaller share, it's not a problem.
+So the hotel and game has diversions to some degree.
+But yes, it's a very similar structure.
+Yes.
+If I'm understanding the median voter theorem correctly,
+wouldn't it suggest that most elections
+would be 50, 50, 51, 49%?
+So that is correct, yes.
+And then of course, when applying the models
+to the real world, you could have the really high threshold
+and say, if the election isn't 50, 50 exactly,
+the model's wrong.
+Which is what a stickler could say, certainly.
+On the other hand, you could go
+and just look at the distribution
+of what the vote shares are
+and they are pretty tightly clustered around 50%,
+at least for two-party elections normally.
+So if you're looking around for when does this not work?
+So once in a while, you'll get a party
+that gets taken over by an extremist faction
+that seems to care more about
+having a philosophically correct platform than winning,
+such as the Labour Party in England now,
+or the Labour Party in England
+in the 1970s through the 1980s.
+And then you can have a period
+where one party is crushing them all the time.
+So if one party seems like they just stopped trying
+to appeal to the median voter,
+then you can get this kind of divergence.
+The other main case is when you look
+at very local government,
+then you'll often get, again,
+so especially like urban government,
+very common to get these very lopsided percentages.
+So like 70% or 80% for the Democratic candidate
+in a city like New York or San Francisco,
+or sometimes the flip side for suburban mayors
+in very conservative places.
+So that's a more interesting counter example.
+So that's one where it really looks like
+people actually have an aversion to the party.
+It's not just the platforms,
+but the party themselves is disgusting to them.
+Although this does correctly predict, for example,
+that what is the Republican Party of Massachusetts like?
+It's a very liberal party.
+What is the Democratic Party of Texas like?
+They're very conservative.
+It's the pro-guns, pro-life Democrats down in Texas.
+Whereas if you want to go
+and become the Republican governor of Massachusetts,
+you're gonna be pro-choice, like William Allen was.
+Right, and actually Romney.
+Yeah, William Allen, but Romney too.
+Romney, and actually, if you were to have an example
+of how power hungry politicians are.
+It would seem to me that it would be a very strong sign of power hunger if you could repeatedly
+change your view on abortion without any actual intellectual argument whatsoever.
+Because it's like, look, either you're murdering babies or you are depriving women of their
+freedom and you're going to change your mind on that issue just to get power?
+Twice?
+Now, again, I'm sure Steve Pearlstein would say if you just met Romney, he isn't that
+strongly, but if you just met him and you realized he's a good guy, maybe I'm just a
+less forgiving person than you are.
+To me, a person that could change their mind on that just to win power would be a totally
+corrupt, despicable person.
+But maybe that's just me in puritanical ways.
+Yes?
+Fred, I didn't understand why the assumption showed that a movement towards the median
+would gain you more than you lose.
+Ah, okay, great question.
+So people have single-peat preferences.
+So the people that are more extreme than you always vote for you.
+So if you move from here to here, you automatically get 100% of those people.
+And then, since preferences are single-peat, you move closer to every person in the middle.
+And if preferences are single-peat, someone moving closer to you never makes you dislike
+the war.
+So think about this.
+So suppose that, let's see, so we're over here, so if the other party's here and you're
+here and then you move to there, all of these people here at least dislike you less.
+All those people dislike you less.
+That's the thing, it's the other side you should have.
+You have like a socialist.
+Why do these people automatically like you more?
+Yeah, you have the socialist and you're moving more towards the Republican.
+Ah, well again, because they definitely like you less when you move, but you're still the
+lesser evil.
+And with single-peat preferences, people always, invariably, without exception, choose the
+lesser evil.
+So yeah, these people say you're getting worse, but you're still closer to them than the other,
+closer to them.
+So the slope of the curve doesn't matter.
+Yes, exactly.
+That is the key set up.
+Now, in a real class, we'll talk about how in the real world, extremists often will actually
+boycott the election if you sell out too much.
+And that very small tail has wagged the dog the number of recent elections.
+It's just worrying, well, when are these extremists going to dump us?
+Yeah, Ash?
+Why is it called the Median Voter Theorem instead of the Law of One Political Party?
+Ah, well, Median Voter Theorem is more specific.
+It doesn't just say that there's only going to be one position.
+It says that it will converge to the bliss point of the median voter.
+And the very best evidence for the median voter is if you just look at data, for any
+question that can be phrased is should we have less of something, the same, or more?
+If you look at questions phrased that way, let's see, the median voter, the status quo
+is almost always here.
+Almost always where you are, with a very short list of exceptions.
+All right, I think we should move on.
+Now we just assumed that voters had perfect information about politics, which seems ridiculous.
+So they're very far from having perfect information.
+And remember, surge theory says that people are going to look at, or we should look at
+the marginal cost and expected marginal gain of getting political knowledge.
+But then there is this great fact about politics, which infuses all good public choice anyway.
+And that is the probability that one vote changes the outcome of any important election
+is approximately what?
+Zero.
+Zero.
+Yes, a very important result.
+People do argue, well, maybe it's as high as one in a million.
+And then others say, no, it's more like one in 10 to the 100.
+So in a way, that's a wide range of opinion.
+But on the other hand, they're all approximately zero.
+So that's important to keep in mind.
+So once you remember this basic fact, the probability that one vote changes the outcome
+of an election is approximately zero, this means that if you find out some new information,
+what are the odds this will actually improve the policy you live under?
+So step one, acquire the information.
+Step two, if the information suggests vote differently.
+Step three, what's step three?
+Question mark, question mark.
+Yes.
+Step three is the same thing happens that would have happened anyway, with overwhelming
+likelihood.
+So the expected benefit of voting formation, at least on the surface, seems to be zero,
+approximately zero.
+And in general, if something has a positive marginal cost and has zero marginal benefit,
+how much should we expect people to have?
+Zero.
+None, right?
+So the marginal cost of, say, having, what would it be?
+Marginal cost of having live barracuda in your home, positive.
+Marginal benefit, zero.
+So how many live barracuda do you have in your home?
+None.
+Right?
+That is the normal result.
+Okay.
+So if you've got positive marginal cost, your marginal benefit, privately optimal quantity
+of political information is zero, and this is the origin of the famous concept of rational
+ignorance.
+Famous concept of rational ignorance, right?
+When knowledge has no practical benefits and time is money, then ignorance, which is really
+a decision not to know stuff.
+Like, how can you decide not to know something?
+Same way you decide not to go to New York today.
+Just don't put any effort into it and it doesn't happen.
+Right?
+You don't put any effort, you put very little effort into learning about politics, and then
+you have as much information as you can figure out just by walking around, which is not much.
+Having better knowledge, like, you know, like having no marginal benefit to you is because
+actually you won't, like you're a single, like you're a single person.
+Yeah, exactly.
+Yeah.
+Yes, yes.
+That, yes.
+That's why the political advantage, at least, is essentially zero for any normal person.
+Of course, if you were an active politician, then it could be very different.
+Then this information could be what allows you to blackmail your opponents into doing
+what you want, right?
+Or tells you that the assassin is coming and then you leave the room, so you're not there
+when the assassin arrives.
+So that's very important information, but for most of us, doesn't really change anything.
+Yes?
+Is some amount of search required to, like, find out that you have no facts?
+That, yeah, that is a good question.
+So we don't really have time to go into it in much depth.
+I do have a favorite simple argument for why, in fact, almost everyone has figured out that
+this is really true, whatever they say, and this is just propose that you have to pay
+$100 to vote and see how people react.
+I think there should be just a $100 fee to vote, just to take people serious about it.
+You see people's heads explode, and why do they explode?
+Because they think, hardly anyone would vote then.
+Hmm.
+That sounds likely to me, but why?
+I mean, if it really were so important to vote, if voting were such an effective way,
+or people just didn't understand this, then it should be easy to get people to pay $100
+to vote.
+They'll pay $100 for a cell phone for a month.
+So why not $100 to vote?
+Why would there be this incredible elasticity?
+And the obvious answer is because people know this in their bones.
+They know that you are paying something for something that's almost certain not to actually
+do anything for you.
+Or, one other less conclusive, but perhaps more amusing proof is, think about the reaction
+someone has when they forget their keys.
+Oh, I forgot my keys, and now I have to drive home, this is a pain.
+Versus, you forgot to vote yesterday.
+Oh, that's a shame.
+Oh man, I feel really bad about that.
+Okay, now let's get on with life.
+Because that's something where you did not in fact screw up in terms of your own life,
+and you know it very well.
+Okay.
+All right.
+Now, of course, empirically, it is not exactly true that people know zero about politics.
+Most people in this room know something about politics.
+In fact, you would probably be amazed at how much you know compared to most people in America.
+So it is likely that the average person in here is at the 95th percentile.
+And if you think, oh, I barely know anything.
+Then you're probably at like the 88th percentile.
+You think you barely know anything because you're comparing yourself to other people
+in your social circle who are statistically very likely to be well informed.
+And if you go and give a test, most people do, can name the president.
+So most Americans can name the president.
+And also, most people know the term is four years.
+Once you get past those two facts, though, then knowledge really takes a quick slide.
+Even things like every state has two senators, it's 50%.
+How many times were you taught this and tested on this, K through 12?
+At least five times, maybe ten times.
+And is two a hard number to remember?
+It doesn't seem like a hard number to remember.
+It's the concept of per state.
+Yes.
+It's a division problem.
+Yes, yes.
+All right.
+So, anyway, empirically, it's not exactly true that people know zero about politics.
+But it's actually not that far from the truth when you really look at it.
+And things that you might have trouble believing most people couldn't know, they don't know.
+At the height of the Cold War, over half of Americans didn't know the Soviet Union was
+not in NATO.
+The whole point of NATO is a military alliance to resist the Soviet Union.
+Right?
+And I think also, like, half thought the Soviet Union was on the other side of World War II,
+which is a little more forgivable if they were just mixed up between the first two years
+and the last four years.
+But that's not why they didn't understand.
+It's not a case of a little knowledge is a dangerous thing.
+It's a case of no knowledge is a dangerous thing.
+All right.
+Now, the median voter model doesn't have any place for special interests.
+But of course, people who actually know a lot about politics generally do believe that
+special interests are important.
+And again, the idea of special interests is a small group of activists behind the scenes
+that are preventing the majority from getting what it wants.
+The deep state, for example, is stopping government from doing what it wants or what the people
+wants.
+Or it could be teachers unions.
+Or it could be veterans or policemen.
+Or it could be the steel industry.
+Lots of possibilities.
+And the simple idea behind all this is that special interests don't have the same problem.
+Because special interests, their probability of making a difference is actually pretty
+large.
+So if you're the sugar industry and you are active in sugar policy, what are the odds
+that the leading sugar growers could actually change policy?
+Pretty high.
+Like, who else cares about sugar policy?
+So who else is bothering to testify and make calls and threaten to vote differently over
+sugar policy other than the sugar industry?
+So then they would have a high probability of decisiveness.
+And if they have a high probability of decisiveness, they do have a reason to know what's going
+on.
+And knowledge is power.
+We stay calm and story.
+So special interests are well informed because it really matters for them.
+And they can really make a difference.
+And regular voters do not know what's going on because so little.
+So little of it actually depends upon them.
+And there's a famous mantra in public choice, concentrated benefits, diffuse costs.
+So when you're meditating, concentrated benefits, diffuse costs.
+Concentrated benefits, diffuse costs.
+So we've been saying it for a long time.
+Okay.
+All right.
+Questions?
+Questions?
+Yes?
+Is there anything like the median voter theorem that applies to legislatures?
+Yes, well, it's a very natural extension.
+It's actually just look at whatever the body of voters is.
+Think about, you know, like what the median person in that body wants.
+So common story about how the direct election of senators changed the composition of the
+Senate.
+Back in the old days, a senator had to be really popular with the state legislature.
+And so you got very stodgy distinguished statesmen.
+All right.
+And now they're directly elected.
+So you get less dodgy, less distinguished statesmen.
+Common story.
+You could also think about how you talk to voters.
+So the median voter in the Supreme Court, we might actually even know his name.
+Right?
+Who is that person?
+The swing voters.
+Kennedy, maybe?
+Kennedy's a plausible choice.
+All right.
+So Kennedy's the swing voter.
+All right.
+So if you were arguing for the Supreme Court, really you are trying to just appeal to Kennedy.
+Like Justice Kennedy.
+Yeah?
+All right.
+Like what about me?
+Well, we know how you're going to vote.
+You're trying to just appeal to Kennedy.
+But you're arguing for the Supreme Court.
+You don't give you speak in a dignified scholarly tone because that's what Kennedy wants you
+to talk to.
+Whereas if we're Justice Trump or the swing voter, then it would be a different kind of
+rhetoric.
+Right?
+You might not even need to know the law.
+You might just go and start talking about how somebody is sad or whatever.
+And that could swing that one.
+Right?
+OK.
+All right.
+Now.
+So rational ignorance.
+But how much does rational ignorance matter?
+Well there are really two groups, two schools of thought on rational ignorance in social
+science.
+There's a school of thought of people who have no interest in data.
+And there's a school of thought of people who do have some interest in data.
+All right.
+The people who don't have any interest in data often will just deny rational ignorance
+and say, well, I don't see any reason to think they'd be ignorant.
+Prove to me that they are.
+All right.
+But, and they say, well, here's some evidence.
+Oh, all right.
+But anyway, out of the people who ever looked at the data, there is a very strong consensus
+that rational ignorance is rampant.
+Certainly that ignorance is rampant.
+Anyway, whether or not it's rational.
+So among people who know the data, to actually deny that voters are ignorant is very rare.
+Because it just goes against everything they've seen.
+Right?
+And especially political scientists are generally so shocked by the empirics.
+Because if you think you know a lot about politics, they really know a lot.
+They stay up all night watching electoral returns and stuff like that.
+And then to find out that most people have never even heard of the candidates.
+Most people don't know which party controls the House.
+They don't, they think that the House, that House members serve terms of four years.
+They think really wrong stuff.
+So and that's pretty bad.
+Right?
+Because it's basically even odds of just guessing which party controls the House.
+So the actual level of knowledge of it is so, is just incredibly low.
+All right.
+But anyway, once people go and admit that the public is rationally ignorant, as all
+reasonable interpretation of the data says, then you can either go and say, my God, this
+is terrible.
+Or you can say, ah, maybe it works anyway.
+Maybe democracy with people who don't know, where almost nobody knows much of anything
+could actually work really well.
+In particular, as common say, look, there's a big difference between the ignorance of
+the individual voter and the ignorance of the system.
+The system could be very knowledgeable, even though the individuals are not knowledgeable.
+Just like in the stock market, almost everyone, almost no one knows what's going on.
+But still, the prices reflect change in the world very quickly and accurately, it seems.
+All right.
+So here's the argument about how it's possible that the democratic system could work well
+despite colossal ignorance, ubiquitous and severe ignorance of the people that are participating.
+And the heart of the argument is this.
+So individual voters are poorly informed, and as we know from rational expectations,
+what do poorly informed people do?
+Flip a coin.
+That's what rational expectations tell us they do, and let's just quickly say that and
+move on.
+All right.
+And then, of course, elections are based on aggregate opinions of millions of people,
+and then there's a basic law of statistics, the law of large numbers.
+You know, the law of large numbers.
+You can't just say, oh, I'm going to vote for this guy.
+I'm going to vote for that guy.
+You can't just say, oh, I'm going to vote for that guy.
+You can't just say, oh, I'm going to vote for that guy.
+You can't just say, oh, I'm going to vote for that guy, and then there's a basic law
+of statistics, the law of large numbers.
+You've all heard it, right?
+The law of large numbers says that random errors tend to cancel out in percentage terms.
+So if you have three voters, the odds that, you know, the odds that you have three voters,
+that ends, so what is it?
+Well, there's two voters besides yourself, and each of them go votes, you know, yes,
+50% of the time, no, 50% of the time.
+And if you know what you're doing, then there's only a one in four chance that the bad thing
+still prevails, right?
+And as the number of voters goes up, the odds of that, if the ratio of informed people to
+uninformed remains at one informed versus two uninformed, the odds that the informed
+voters will prevail gets very high because you're going to get, as the number goes up,
+the percentage breakdown of the uninformed is going to get closer and closer to 50% exactly,
+right?
+So it's like when you play a million rounds of roulette, right?
+The odds of every number coming up are going to get very close to 138.
+Right now there's 36 plus the zero, there's the zero, zero on the roulette wheel.
+Okay.
+So random errors tend to cancel out in percentage terms.
+So even if there's a lot of randomness at the individual level, as long as there's millions
+of voters, all that randomness would pretty much cancel out, which means that the informed
+voters are going to decide the outcome.
+Example, suppose we've got 90% of voters literally know zero.
+So they don't know anything.
+They don't even know what country they're in.
+And then 10% of people know everything.
+So they're blocking Wikipedia, blocking any Wikipedias.
+And imagine we have an election between Hitler and a normal guy.
+Hitler and a normal guy.
+Now you go to the uninformed people and say, so everyone's waiting in line to vote.
+You go to the uninformed people and say, so who are you going to vote for, Hitler or a
+normal guy?
+And the uninformed people say, I don't know.
+Flip my coin when I get there.
+All right.
+This seems very scary.
+But if there were a lot of these voters, then the division is going to come out very close
+to 45 percentage points for Hitler, 45 percentage points for a normal guy.
+You may then be sweating, saying, my God, Hitler's at 45% of the votes.
+Doesn't take much more to put him over to the top.
+Let us assume that informed people would never vote for Hitler.
+It's a little awkward fact that Hitler did well with pressers and stuff like that.
+But let's not worry about that.
+All right.
+So figure that people knew what was going on would never vote for Hitler.
+So we'll get zero percentage points of them.
+The normal guy gets all 10 of them.
+And so normal guy wins with 55% of the votes.
+This is this process at work, saying that if the uninformed people vote randomly and
+the informed people vote for the better candidates, then the better candidate will win with near
+certainty as long as there's a reasonably large number of voters.
+All right.
+Now this result has a very special name.
+It's called the miracle of aggregation.
+The miracle of aggregation.
+Because it implies that a highly uninformed electorate, notice, this is 90% completely
+uninformed, yields exactly the same electoral outcomes as a 100% informed electorate.
+So you would either have just a few informed people or everyone be informed and the vote
+tallies will differ.
+But the winning politician will be the same regardless.
+Okay.
+Now of course if we're literally 100% then it would be 50% chance for Hitler.
+But as long as we've got a few percent of reliable informed people and as long as the
+uninformed flip coins and the fair coins, then we are safe from Hitler.
+Oh, you know I was in the back actually and then you.
+So if people inherently know their probability of changing the outcome is zero and they're
+uninformed, why do they even vote?
+That is a great question.
+You know let me play you a song.
+I actually got my
+One possibility, of course, is that they're doing it
+to impress their friends, right?
+This is the Robin Hanson theory about almost all that's going
+on is, let me just do it so people don't hassle you.
+That does sort of just push it back.
+Well, why are people out on you for failing to do something
+that where there's no actual benefit to you or them, in fact?
+The other main theory is the civic duty theory
+that many people feel like some kind
+of content idea I should do it regardless of the consequences.
+Although this combines with a weird agnosticism
+about who you should vote for.
+So, you know, the most common, so there's a book
+by Jason Foss where Jason Bender called The Ethics of Voting
+where he talks about what he calls the common sense theory
+of voting which says it's incredibly morally important
+that you vote for somebody or other,
+but it makes almost no moral difference at all
+who you vote for.
+And that, he points out in the book,
+is a very strange theory, right?
+Akin to a bunch of people being in a surgical room
+and saying, look, it doesn't really matter where you chop
+into this person, but it's very important
+that you participate in the surgery.
+Just pick up a scalpel and do something.
+That's what's important.
+Isn't that completely reversed?
+Isn't the only important thing that you do it right?
+And if you don't know what you're doing,
+the important thing that you not participate and get
+out of the way of people who can actually save lives?
+But, and he runs with this in the book,
+but Jason Bender's view remains a minority position,
+strangely, despite overpowering logic.
+All right.
+And he's doing well in Germany, so somehow.
+He's going to be the mayor of Potsdam,
+invited him to give a talk.
+A keynote address, in fact.
+So, it's a weird world.
+It just keeps getting stranger.
+All right.
+Anyway, why do they call it the miracle?
+Well, if you've ever heard of medieval alchemy
+where you say, okay, we take 90% lead, 10% gold,
+hocus pocus, and then boom, pure gold.
+That would be a miracle, right?
+And it also doesn't work.
+But this is something that if the assumptions are true,
+it does work.
+You really could, in theory, actually get a democracy
+where almost no one is informed,
+and yet it does exactly what a perfectly informed electorate
+would do.
+Okay. All right.
+So, I guess.
+Yes. There do have to be some informed people.
+That is correct.
+So, well, so it's not consistent
+with 100% rational ignorance, but it is consistent
+with, say, 90% rational ignorance.
+Right? And the real, you know, if we're being empirical,
+you should never expect things to be 100% perfect.
+Right? Actually, we should move on a bit because we have
+so much to get through.
+But if you're really fascinated, of course,
+there's always taking the full class.
+There's 14 weeks for questions.
+All right.
+Now, you can analyze this politician-voter relationship
+just like a principal agent problem.
+Remember, we talked about principal agent problems.
+And I think we even talked about the probability of punishment
+and the severity of punishment at some point.
+So, simple model just says the politicians will do what voters
+want, and the benefit of doing what voters want is greater
+than the benefit of shirking.
+Remember, shirking is just the politician doing whatever he
+wants for whatever reason he wants.
+It could be they're lazy.
+Could be they're corrupt.
+Could be that they just disagree with their supporters.
+All possibilities.
+But anyway, whatever that is, we call shirking,
+minus the probability of punishment times the severity
+of punishment if you do something bad.
+Now, if you go and put in a really low probability,
+then it pretty much looks like politicians, like that rounds
+down to zero, and then politicians always do whatever
+they feel like and ignore voters.
+All right?
+So, it seems like voter rational ignorance implies
+that so-called democratically elected politicians can do
+almost anything they want.
+But Gary Becker observed that there's an algebra
+that can save the world.
+All right?
+And the algebra that can save the world is to go and put D
+over on a resistance to solve for D and get the result
+that we just need to make D, which is the damages
+or the punishment that we inflict upon corrupt politicians
+or shirking politicians when we catch them.
+And that just needs to be equal to benefit of shirking minus
+benefit of doing what voters want.
+Divide all that by P, and we then impose that.
+Right? So, if you were caught on camera taking a $1 bribe,
+voters could either say, well, what are we going to do?
+Or, because now, if we catch them, when we,
+the few times we catch them, we need to rain hellfire
+down upon them, and then they would then,
+this will keep a lot of them honest.
+It's like any time your parents ever caught you doing something
+bad, and then they harshly punish you,
+anyone ever been harshly punished for a small offense
+by their parents, and then you whine and say, it's not fair.
+And then, if your parents are Beckerian,
+they will say, I'm also punishing you
+for all the time that I didn't catch you.
+Right? So, I need to give a really harsh punishment
+when I do catch you, because it's so hard to catch you.
+You're so sneaky.
+And, therefore, you will be afraid to go
+and break the rules, because a small chance
+of getting caught with a horrible punishment,
+if you lose your car for a year, won't be worth it.
+Okay. Now, what's interesting about this is it does seem
+to me that, theoretically, voters do have a way
+of controlling politicians,
+even when they are highly ignorant,
+which is just to very harshly punish whatever bad information
+is revealed.
+Right? Now, again, of course, if P is literally zero,
+then this is not a solution.
+Then you need an infinite punishment.
+You can't inflict an infinite punishment.
+But it means that as long as there is some chance
+of accidental discovery,
+and in the real world there's always a chance to get caught.
+Right? Yeah.
+So, any Wikipedia article you read about a smart criminal,
+well, why are they in Wikipedia?
+Because they got caught, and they messed something up.
+Right? So, and similarly with the politicians.
+Like, no one will ever discover that I'm cheating
+with an intern.
+How could they?
+Right? Or, of course, there's the Richard Dixon.
+How would anyone ever find out that I'm covering up Watergate?
+Oh, right.
+I forgot that I tape record all my conversations.
+No. Hmm.
+Wasn't someone turning off the tapes?
+No. Right?
+And then, you know, so that's the actual story.
+Then you try releasing it heavily redacted,
+but then you can't just black out the entire transcript
+and say I complied.
+All right.
+Now, let us then move on to my great nemesis.
+I have several nemeses, but Donald Whitman is my first one,
+my first love.
+All right.
+All right.
+Just as a matter of strategy, it's always good
+to have an intellectual nemesis.
+And the same reason that you don't want
+to be the only lawyer in a town.
+There should be at least two lawyers in every town.
+That way you can have clients and take cases
+against each other and always eat
+in the best restaurant every day.
+Right? In your small town.
+So you want there to be a conflict
+because conflict is entertaining for outsiders.
+So you want to find, you know, but of course you want
+to pick your nemesis well.
+You don't want to get a jerk.
+You want to get an entertaining and brilliant adversary
+so that you both make each other look good.
+All right.
+And make it seem like you're both more important
+than you would appear to be singly.
+Right? Just talking to yourself.
+You're just a person talking to yourself.
+But a debate.
+My God, there's two smart people who disagree about something
+and they both have arguments.
+And now I've got to participate in this.
+And hear what's going on.
+Whereas otherwise it's like, well,
+I was the person proving things.
+That's much more boring.
+So anyway.
+So Donald Whitman, a professor at UC Santa Cruz.
+Most people who don't like public choice
+and the economic approach to politics in general dislike,
+first of all, the economistic assumptions,
+thinking about politics in an economistic way.
+And they also just don't like the anti-democratic conclusions.
+You might just say like the not so positive
+about democracy conclusions.
+It's not me, is it?
+It's not the buzzing?
+Can someone stop the buzzing?
+All right.
+Okay. So anyway.
+This is a broad and fertile tradition of just complaining
+about economists shouldn't be mucking up other fields
+with their already dubious approach.
+In the wall?
+All right.
+Okay. All right.
+So anyway.
+So that is a rich tradition.
+And though I may not seem to take it seriously,
+I've learned plenty of things
+from the anti-economistic tradition.
+But that's not what Donald Whitman is.
+Donald Whitman is an economist economist
+who says something much more hurtful to economists
+than you, you're being a bunch of economists.
+Being economist-y.
+Instead, he says the ultimate insult to economists.
+You are bad economists.
+You guys are giving economics a bad name
+with your illogical application of our principles.
+And that's very hurtful.
+All right.
+So he doesn't complain about the economist approach.
+Says that there's a lot of public choices,
+very bad economics.
+And in particular, he says
+that the standard public choice arguments,
+many of which you probably heard said probably kind
+of informally.
+So what Whitman says is that if you look
+closely, if you look closely,
+what public choice economists are usually doing is not
+actually normal economics.
+Instead, they're doing much normal stuff.
+And then they sneak in an assumption
+that most economists would not like
+and that the public choice economists themselves would
+object to.
+You see it explicitly.
+They smuggle in a dubious assumption.
+And that's how they actually reach the interesting
+conclusions.
+Right. And if they didn't have these dubious assumptions,
+then they would be stuck just saying the world works
+and it's fine.
+So what are the assumptions
+that Whitman accuses public choice economists
+of smuggling in?
+So the first one he just calls extreme voter stupidity.
+Right. And he uses that word stupidity very deliberately,
+saying no, no, not ignorance.
+Ignorance isn't enough to get you where you're going.
+You actually need to think of voters as dummies, as morons.
+Right. People who just aren't applying common sense.
+And then you can get results.
+But of course, normally an economist doesn't like
+to begin a model with, all right, here's my first assumption.
+People don't have common sense.
+Right. People are utterly lacking common sense.
+That's where I begin.
+Right. Normally economists don't like that assumption.
+And Whitman says that's what you're really doing,
+assuming you lack the common sense among voters.
+Right. So that's one assumption.
+Second one he calls serious lack of competition.
+Normally you can just put that in as monopoly.
+It's the idea that while politics on the surface looks
+like a battle royale between a whole bunch
+of people struggling for power, actually it's just a big,
+collusive organization.
+So if you ever heard of the Demo-Republican Party,
+it's like a one-party state where they all work hand
+and glove in order to deny the people what they want.
+So that's another story Whitman says is getting smuggled in,
+is somehow competition has been suppressed
+and things are just rammed down the voter's brain.
+Things are just rammed down the voter's throat whether
+like it or not.
+And nobody is around to say, hey,
+I've never treated you that way.
+And then the last assumption
+that he accuses public choice economists of smuggling in,
+it's what he calls excessively high negotiations
+as transfer costs.
+It's called high transactions costs.
+It's easy.
+All right.
+And Whitman says as long as we avoid all these,
+as long as we wipe out any hint of these assumptions
+from public choice, we're not going to get any
+of the results about how democracy is efficient
+or anything else.
+We're going to get a very functionalist account
+of the world is fine.
+The world is counter-exfficient.
+And it's a very strong kind of efficiency where
+in Whitman's view we leave to democracy the things
+that are best left to democracy and we leave to the markets the
+things that are best left to market
+so we have an optimal allocation of all tasks in society.
+Of course, I think Whitman would still be happy to say, look,
+it's perfectly fine for there
+to be an occasional temporary brief disequilibrium,
+but then the system will catch up.
+So don't worry about it.
+Everything's going to be fine.
+All right.
+So and then the implication
+of this is all the public choice complaining you've heard
+about democracy at George Mason,
+or probably before you came here given that you're here,
+all that complaining is just a bunch of losers whining
+that their preferences are actually very unpopular.
+So it's akin to someone saying, you know,
+there's a giant market failure in music that nobody,
+that I'm not Britney Spears.
+It's like, yeah, that's the market failure
+that a person who can't sing
+and can't dance is not popular.
+I mean, what do you know?
+Right? How about another theory that you're not any good
+and you're losing for that reason
+and then you're concocting an elaborate conspiracy theory
+to explain your failure?
+That is essentially what Whitman is pointing
+at people in public choice and saying, well, look,
+you guys are weird.
+You're generally libertarians, free market type people.
+You're mad that you're losers.
+And I'd be mad too if I were one of you.
+Yes, it's not fun to lose all the time
+when your views are hopelessly outnumbered.
+But there's nothing inefficient about it.
+It's just that you're weird.
+And weird people don't get their way.
+Watch your thing.
+All right.
+So that's the heart of it.
+All right.
+Now let's just quickly go through Whitman's arguments
+for each of these or where he's coming from.
+All right.
+Now just very quick.
+You may doubt whether Whitman's nemesis can actually fairly
+present his views, but I am certified by Whitman himself.
+So in an exchange with him, he began by saying, usually
+when I argue with my opponents,
+I begin by saying they didn't understand me.
+But I can't say that here.
+And then he said, I can't let us explain my view better
+than I've explained it myself.
+But I love you too, Donald.
+All right.
+So take that.
+Anyone who ever claimed I didn't understand them,
+I understand people very well.
+Like a listener.
+So, any case.
+So Whitman says I can explain his view fairly
+and too better to say so than him.
+All right.
+So first thing.
+He says a lot of public choice arguments assume extreme sort
+of stupidity.
+Normally we don't say stupidity.
+We say ignorance.
+Right? Or lack of information.
+But Whitman says it's really about stupidity,
+a lack of common sense, or really just lack of the,
+a violation of rational expectations.
+So why? Well, Whitman says, look, here's the real,
+the principle, the law of the country principle,
+voter ignorance is not a serious problem.
+Notice now he's saying ignorance.
+Because he's saying, look, if the problem were only ignorance,
+here's why you wouldn't have to worry about it.
+So first reason.
+Now, by the way, Whitman argues he's very lawyerly.
+So if you are defending your client who is accused
+of breaking a vase, the first thing
+to say is there never was a vase.
+Second of all, if there was a vase, my client was never
+within 100 miles of it.
+Third of all, if he was within 100 miles of it,
+it was broken before he arrived.
+Fourth of all, it wasn't broken before he arrived.
+Somebody else broke it.
+Fifth, if my client broke it, he was asked to.
+And then sixth, if he wasn't asked to, it was self-defense,
+and you just go through every one of these arguments.
+And of course, to win your case,
+you've got to disprove all of them.
+So you have to get over every one of these arguments
+in order to actually convict.
+And that's how Whitman works.
+So even if some of these arguments don't seem
+that don't seem as good as others,
+for Whitman it's really just a matter of thinning
+down the assault until finally there's nobody left at the end
+who can actually get over the walls.
+All right.
+So first principle, he says, amount of information held
+by voters has been underestimated.
+So why would he say this?
+Well, he says, look, yeah, you can go
+and give people a bunch of tasks and show
+that they don't know very much.
+But, he says, look, party labels are brand names
+that drastically economize information costs.
+You don't need to know all the details
+about what Hillary voted on or anything.
+Look, you know Hillary's a liberal.
+You know Trump's not.
+You know which one you'd rather have.
+So it's actually pretty easy.
+Right? And then furthermore,
+the cost of information is not a big deal either
+because politicians are very happy to pay
+for the information and just give it to you.
+So the fact that it takes time, you don't have
+to actually put the time in.
+It's just handed to you.
+In fact, if you don't want information during election
+season, it's very hard not to receive this information.
+You have to really hide.
+All right.
+So second, his informed judgments can be made
+with very little information.
+So he says, voters have a lot of cognitive shortcuts,
+things like just doing whatever the interest group
+that you trust says.
+So you don't like gun control,
+you just do whatever the NRA says and that solves your problem.
+All right.
+Third, he says the bad effects
+of biased information are overstated.
+So one of them is just
+because you're ignorant doesn't mean we have systematic bias.
+And he says as long as you vote randomly,
+then this miracle aggregation saves us.
+So as long as ignorance is random voting.
+And that is of course the way
+that economists almost always model ignorance.
+So Whitman here is plugging
+into a very well-established approach to ignorance.
+Just saying if people don't know what they're doing,
+they flip a coin.
+All right.
+And here is the line.
+So to be uninformed about a policy does not imply
+that voters have biased estimates of effects.
+For example, to be uninformed about the nature
+of pork barrel projects in other congressional districts does not
+mean that voters tend to underestimate the effects
+of pork barrel.
+It is quite possible that the uninformed exaggerate both the
+extent and the negative consequences
+of pork barrel politics.
+As long as the people who are overly pessimistic
+and the people who are overly optimistic cancel each other
+out, then in fact the electoral outcome is the same
+as it would be if everybody knew everything.
+Furthermore, if you just say, yeah, but there's media bias.
+Well, Whitman's answer here is, well,
+do people know there's media bias?
+Do they know the direction?
+Well, in that case, there's a very simple thing to do.
+Two simple things.
+One is stop watching the biased news.
+So you don't trust liberal media?
+Stop watching liberal media.
+Right? Or you could just watch it
+for entertainment value only.
+So you could just go and say, can you believe these people?
+Fox News. You could hate watch it.
+It's like, oh, come on.
+Every, every, everything you watch.
+Oh, my God.
+Another ridiculous lie.
+Another lie.
+Lies, lies, lies.
+Right? And then say, well, but since I know it,
+I know it's all lies, it doesn't actually affect me.
+Which again is the common sense thing that if you are,
+if you are listening to someone that you believe
+to be a horrible liar, they're not going to trick you
+because you ignore, either you don't listen to them
+or you just sit there saying, yes, yes, of course.
+You cured cancer.
+Yes, that's all very interesting.
+You're an Olympic athlete.
+You cured cancer.
+Yes, once we did have a graduate student
+who appeared to just be a complete pathological liar.
+And finally people caught on to it.
+So not mentioning any names, but like any news story,
+this student had personal friends involved
+in the news story no matter what it was.
+Oh, yeah, my brother-in-law was actually very closely involved
+in that.
+I'm like, whatever you say.
+Oh, yeah.
+It's like, eventually.
+Right. It's just a little bit hard to believe.
+All right.
+Okay. So anyway, if the media is a liberal bias,
+then voters can easily adjust.
+So that's the answer.
+And furthermore, if there is any additional asymmetric information
+Women says the problem is this problem makes government too big,
+not too, or rather too small, not too big.
+So, again, remember what happens in the Akerlov-Lemons model.
+If car buyers have no way of telling good cars from bad,
+what does this do to demand for used cars?
+It reduces it.
+Why does it reduce it?
+Yes, because voters can't tell if they're getting their money's
+worth, and so that reduces demand.
+And then, of course, there's a reason
+to pull off the good products off the market,
+which reduces demand further.
+So similarly, if voters can't tell the difference
+between good government programs and bad, this reduces demand.
+And then if the bad ones are basically ones
+where there's a whole lot of corruption, and the good ones
+or the clean ones where there's not, the ones that people will,
+the politicians have a reason
+to quit promoting are the clean ones, leaving the dirty ones,
+which reduces demand further,
+which then makes the quality even lower, and so on.
+So if anything, the problem,
+Whitman says, is government's too small.
+Because any time a politician comes up with an idea,
+voters are like, yeah, right, it's a good idea.
+Sure sounds wonderful, but why should we believe you?
+And like, well, if you go and read my 1,000-page book on it,
+I don't have time to read your 1,000-page book.
+Make it clear that it's worth my money in 30 seconds.
+Well, I can't.
+Well, then you don't get my money.
+So I call this the when in doubt, say no heuristic.
+It's a really good one, and notice,
+we use this very frequently in real life.
+Like, virtually all unsolicited internet ads, you apply this.
+Like, well, how do you know it's not good?
+Have you sent them the money to find out?
+No, instead you just apply the, if I apply the, if it went
+in doubt, say no heuristic,
+and therefore most people don't buy anything
+from unsolicited internet ads.
+Yes?
+Obviously, the reverse if you speak to anybody.
+Yes, now that, so I completely agree,
+but if people had common sense, what would they do?
+I say this is exactly what common sense recommends.
+Now, if you want to say, yeah, but people don't do that,
+then Whitman is there to say, so, you're an economist claiming
+that voters are lacking in common sense,
+and you have it, and they don't.
+That's your story, huh?
+Right, and now he's actually appealing to two things.
+First of all, professional norms in economics,
+where we don't like saying stuff like that about people,
+and he's also appealing to the general egalitarian ethos
+of the United States and most of the world now,
+where it's just not very polite to say
+that the commoners don't know what's going on, and I do.
+Now, I'm going to, well, maybe the commoners don't know,
+and we do, and that's just the truth, and they,
+and like there's nothing we can do about it other than,
+well, why don't you go and take it to them?
+Because they lack common sense.
+People with common sense are notoriously hard to educate.
+Don't blame me, blame them.
+Right, and at this point, Whitman would say, all right,
+that's consistent, all right, if you want to go down that route,
+I'm just saying that you're part of the special people
+who know more than other people, and other people are lacking
+common sense, and you have it.
+You know, Hitler thought the same thing.
+Well, I mean, so any dissenting person
+with new ideas thinks that, but some of us are right.
+Okay, all right, so anyway, so just like it's naive to think
+that asymmetric information helps used car dealers
+sell cars, it doesn't.
+It's hard to be a used car dealer, right,
+because everybody distrusts you.
+Everyone, whatever you say, like, yeah, right,
+yeah, the sun's shining today, sure.
+It's like, it's there.
+Why should I look up?
+It's because you pointed there.
+It's a lot of work.
+All right, so that's the idea is that with asymmetric information,
+the common sense response is extreme distrust,
+and the extreme distrust means that it's very hard
+to sell people on anything, good or bad.
+Okay, all right, so anyway, Whitman's bottom line then is
+if you want to reach the usual kind of public choice conclusions
+about voters, like, like,
+like just voting for terrible stuff, you need to go beyond
+the ignorance and actual to say something like stupidity
+or lacking common sense, or again,
+technically just not rational explanations.
+They don't have rational explanations.
+There are systematic biases.
+There are patterns.
+You know, so maybe they are flipping a bias coin,
+or maybe they're applying the vote
+for the better mustache heuristic, and then
+by that standard, Hitler might get all 90% of the votes.
+One guy can have a terrible mustache,
+and then he's got Hitler with his mustache,
+which is certainly distinctive.
+I've heard it's coming back.
+I don't see that in real life.
+Yeah, so, all right, I read a book about Israel
+where a guy said he saw a guy in Israel.
+I don't know.
+All right.
+So, anyway, it's just, it's just, so, you know,
+if people did apply the, you know,
+if people didn't know what they were doing, just voted
+for better mustaches, then maybe Hitler would have a
+crashing victory, right?
+So, there's all kinds of ways that people might vote
+if they don't know what they're doing.
+They might vote for whoever just panders to their emotions more.
+They might vote for whoever they'd rather have a beer with.
+Right? There are a lot of stories along these lines.
+They might vote for the better-looking candidates.
+Many possibilities here, and once you are willing to say not
+that, then you might want to,
+then you might suddenly become empirical,
+and then there's actually a giant empirical literature
+on all the ways that people violate this.
+So, it varies, of course, from time to time,
+from country to country, but a lot of evidence
+of massive violations, but it does require you to go
+and say something economists don't like saying,
+which again comes down to voters don't have common sense.
+Yes?
+So, this might be something you might get to later on,
+but is there an idea that talks about as if those 90% of people
+who don't actually know anything think that they are the 10%,
+and think that they know?
+So, there's plenty of evidence that people overrate themselves,
+so I wasn't going to talk about it, but yes, a lot of evidence
+that people overrate themselves on any measure of competence.
+So, people seem to underestimate how rich they are
+in the distribution, things like that.
+So, like if you ask them to put themselves in the distribution,
+they don't think, they think that they are,
+they generally think that they are poorer than they really are.
+So, yes, they think they're poorer than they really are,
+especially if they are rich, generally.
+People in the 99% top think they're like 85 maybe.
+You can't believe, no, no, no, I'm not rich.
+I'm just a regular old investment banker here.
+The rich guys are the people I work for.
+All right.
+So, moving on then.
+So, that's where Whitman's coming in here.
+Now, on the monopoly question, Whitman says, you know,
+like any time that you're assuming something
+like a monopoly, you're wrong.
+Politics like the market's competitive.
+How so? He says, well, you know, first of all, reputation matters.
+So, if politics break promises, voters get mad at them.
+If they do a good job, they reward them, right?
+And you get, remember this here.
+You do one thing wrong, voters can destroy your reputation.
+Look, you work a whole life to win the voters' trust,
+and then they catch you cheating on your wife once,
+and then that's it for you.
+Come on. Life's not fair.
+You say, well, that's the way that we keep our politicians
+clean is by harshly punishing them when we catch them.
+Okay. Secondly, he says, political races are
+at least as competitive as markets.
+So, if you look at politics, it's full
+of political entrepreneurs who want to stage
+a successful takeover.
+They want to gain power.
+And what is the standard way you do this?
+You locate unpopular policies, and then you go to the voters
+and say, look at what the people in power have been doing to you.
+I would never treat you that way.
+I would respect you.
+I would cherish you.
+All right?
+That is the pitch of the political entrepreneur,
+saying you have been treated badly, but fortunately,
+I am here to treat you well.
+And just dump that zero.
+Find yourself a hero, me, and we're in business.
+Right? Now, of course, the incumbents know this is going
+to be the sales pitch, so they want to eliminate opportunities
+for complaining before they arise so that
+when the entrepreneur comes along and says,
+how is it you're being mistreated?
+Can't help but figure out anyway.
+Then the people say, well, actually, I'm totally content.
+Oh, how unfortunate.
+Wish you were miserable.
+That would be much better for me.
+All right.
+Now, Whitman goes on to say, first of all,
+high rates of re-election prove absolutely nothing.
+So, you know, quote, the main reason for high rates
+of incumbent success is they are the best.
+That is why they won in the first place
+and why they are likely to win again.
+And Whitman could really even approve this argument and say,
+imagine that there were a zero percent re-election rate.
+That would be the smoking gun for dysfunctional democracy.
+If every time voters elect someone,
+after they see their job, they say, I hate this guy.
+Let's get rid of him.
+That would be the system not working.
+Whereas if people generally want to re-elect whoever they voted
+for last time shows that they are being satisfied.
+Just like if there's a product that almost no one ever returns
+to the store, even though they can, that's a good product.
+A product where almost everybody returns it, that's junk.
+Okay. And he says similarity platforms proves nothing.
+So similar prices are a sign of competition in markets.
+There were similar platforms in politics.
+And again, Whitman could go even stronger here and say,
+the signs of democracy not working are
+when there are permanent
+or there's lasting imbalances in platforms.
+Like when the Labor Party stays Marxist and gets 30% of the vote
+for a bunch of elections.
+That's the kind of thing where it's a sign
+that the competition has somehow failed.
+Whereas if the platforms are similar
+and the vote shares are close,
+that's actually democracy working.
+And then he says that whatever barriers to entry
+that people talk about are usually minimal.
+The real reason third parties don't win is
+because voters just don't like them.
+And if you go and read platforms of third parties,
+this will resonate with you.
+Platforms of third parties are often written by philosophers
+who may actually have discovered the truth about policy,
+but they're not salesmen at all.
+Right? They're just going and saying, look,
+principles of logic dictate this.
+Tough if you don't like it, tough.
+Logic says otherwise.
+Right? And then he also goes and appeals
+to the empirical evidence.
+There's a lot more since he wrote, which I will say is
+pretty supportive of Whitman, although there is evidence
+for a status quo bias in policy where policies
+that exist tend to last even if they're unpopular and policies
+that, you know, and on the other hand, and policies
+that are popular that don't exist are not
+so likely to be adopted.
+So there's sort of a discontinuity caused by,
+or I guess, you know, you could just say
+that there's sort of two lines.
+If you go and plot the probability
+that a policy exists, you know, as a function of its popularity,
+there's a high line for policies that exist.
+So popular policies that exist almost always last,
+but popular policies that don't exist often happen,
+but it can take decades.
+On the other hand, unpopular policies
+that exist often last, but it's really unusual
+for an unpopular policy that doesn't exist to become a law.
+That's very unusual.
+Okay. So anyway, so Whitman's bottom line is economists are
+usually skeptical about stories of collusion in markets.
+So shouldn't we be equally skeptical about stories
+of collusion in politics?
+So let's see here.
+So why don't we go and take our 10-minute break now.
+And then also you can come and pick up, let's see,
+so week 14 if you don't have it.
+And then the week 10 homework.
+And then here is the, not exactly the answer key
+because these are essays, but suggested,
+or actually let me just put it this way, good answers
+for all the questions of week 9 are here too.
+So you can get those and see what they look like.
+And you can hand in your answers as well while you're at it.
+Let's see, why don't I move this over there
+and then we'll have a bit more space.
+All right.
+So Whitman has said that people in public choice are facing
+arguments from extreme voter stupidity
+and you shouldn't do that.
+If you're basing it on monopoly, you shouldn't do that.
+And then lastly, he says that there's a hidden assumption
+of high transactions costs on a built-in 2.
+You shouldn't do that either.
+So how often have you heard someone saying, well,
+there's a special interest that's blocking reform.
+Special interests are blocking reform.
+The teachers unions are blocking merit pay.
+Right now, on the surface this is a pretty strange thing
+to say because are the teachers, do they have guns?
+Do they have tanks?
+What do the teachers have that could block anything?
+Yes. Well, they do.
+In the United States?
+So once or twice I've seen a picket line I was scared
+to cross, but when the high school teachers
+in my district struck, no one was scared
+to cross the picket line.
+It wasn't like that.
+Okay. So what does it mean then that they're blocking reform?
+Well, something like teachers normally just means the teacher
+say it's bad to do this, don't do this, we're teachers.
+And this actually seems to matter.
+It actually seems to matter that teachers are popular.
+And if teachers don't like something,
+a lot of voters don't like it either.
+Now, but anyway, even if you buy this story,
+somehow teachers have a stranglehold.
+If there's something that you, so imagine
+that there's someone who's blocking that door, right,
+and they're bigger and stronger than all of us
+in this class together.
+What is the obvious thing for us to do rather than starve
+to death in this room while the big person there,
+well, I mean, we only take our phones.
+No one knows where we are.
+So obviously you can probably just call 911.
+Anyway, so there's a big person.
+They won't let us out.
+Then we have to solve the problem ourselves.
+We can't physically beat them.
+So what is an obvious thing to do?
+You're economists.
+Yeah, bribe them.
+Say, all right, everyone, like open up the wallets.
+Let's take out the money.
+What is it going to take to get you
+to let us leave this room?
+And like, I'm blocking you.
+Yes, but what would it take to change your mind?
+All right.
+And, of course, you would expect, given the importance
+of getting out of this room, that we would come
+up with the money to, come up with the money to get them
+to go and leave us alone.
+Similarly, if it really were true that merit pay is great
+for schools and teachers' unions are somehow able to block it,
+you think that we would just go and collect a giant bag of money
+and give it to them and say, now can we have,
+so now can we have merit pay, please?
+Is this enough?
+How many, how much money is it going to take
+to make this problem go away?
+Right? And by the definition of inefficiency,
+as long as the transactions are not important,
+this should be doable.
+So if we value merit pay at $10 billion
+and the teachers' union values not having merit pay
+at $2 billion, we just go and offer them $3 billion
+and they should be willing to go away.
+It really is inefficient.
+Okay. All right.
+So, and yet it's very common to say
+that it's just too hard to buy them off.
+Well, why is it too hard?
+Well, of course, one would be
+if actually the status quo is efficient and we just,
+and if we pay the total value to us of changing policy,
+it wouldn't actually compensate the insiders.
+That's possible.
+But again, then there's not really any economic efficiency
+problem, right?
+And otherwise, what would the problem be?
+All right.
+So this brings us to Whitman's third principle,
+which is political bargaining can eliminate any remaining
+significant inefficiencies.
+So yeah, I mean, it's reasonable to say, well, yeah,
+if it's like a $5 inefficiency, then congressmen aren't going
+to be worried about bargaining over a $5 inefficiency.
+But anything important, if they're really,
+if the world really would be richer with one policy rather
+than another, we'll just bargain to that equilibrium.
+Right? And this will affect, as Coase taught us, what?
+Coase theorem.
+So the assignment, so if a special interest has power,
+this will affect what?
+Distribution.
+The special interest will be laughing in the money,
+doing snow angels in money.
+Yes, we're rich.
+Teachers union.
+Ah, ha, ha, ha.
+We're so full of money.
+All right, but this will not affect the other thing,
+which is efficiency.
+So we will actually do the efficient thing,
+and we will just buy them off.
+Okay. So why does Whitman say this?
+So first of all, democracy is just designed
+to have low transactions costs.
+So first of all, majority rule is cheaper than unanimity.
+So when you are building a skyscraper,
+50,000 people work together, in general, what percentage
+of the workers there are there voluntarily?
+One hundred percent.
+It's possible someone's family is being held hostage
+to make them do the plumbing or something like that,
+but that's unusual.
+So there you have 100% cooperation,
+and that's the rule of markets.
+Even if a market project is enormous,
+you still need 100% consent.
+And what is democracy all about?
+Not having 100% consent.
+Now, of course, there are plenty of possible problems
+with doing things to people without their consent,
+but it does reduce transaction costs.
+That's undeniable.
+So if this group could only eat a meal if we have 100%
+of us agreed on what we were going to eat,
+we might go hungry, right?
+If there's like one vegan and one anti-vegan
+who will only eat animal products, then we starve,
+right, unless, of course, there's bargaining.
+Okay. So, you know, so, but on the other hand,
+with majority rule, we would be able to work out something.
+Something would prevail, and we would not starve, right?
+So there would be lower transaction costs, at least.
+And again, in the case of some things,
+the transaction costs might be everything.
+We might not be able to do it.
+All right.
+So majority rule is cheaper than the unanimity rule,
+and that's the most obvious argument in favor
+of majority rule is just that it saves on bargaining costs.
+Imagine if the only way for there to be any political change
+in the U.S. was unanimous consent.
+I think it's a fair bet
+to say there would never be another change again.
+No legal change anyway.
+There could be coup d'etats and things.
+There could be illegal changes, but we couldn't change the law
+because there's no law that everyone would agree to.
+So it should lead to be something.
+Now, remember back in week one,
+there's weird people in this country.
+There's weird people in every country.
+There's misanthropes.
+There's people who worship, you know, Kim Jong-un,
+and there's people like that in this country.
+So if there's one person like that,
+these are not going to get unanimity, right?
+And then furthermore, representative democracy,
+and representative democracy is contrasted
+with what other kind of democracy?
+Direct democracy also saves transactions costs, right?
+Because instead of having 300 million Americans bargain,
+we just have a few hundred representatives bargain,
+and so that makes things cheaper.
+Same logic holds for committees.
+You don't have everyone in Congress bargain.
+Instead, you just have 16 specialists go and bargain
+and work something out and hammer it out in a committee,
+and then they take it to the rest of Congress, right?
+And again, the general idea here is that political bargaining,
+which has a special name, right,
+at least in the United States,
+we call political bargaining log rolling.
+So as often in American politics,
+this is an agricultural metaphor,
+because in farm times, you often need
+to roll a log off your property, and a log is too big
+for one farmer to roll.
+So how do farmers roll logs off their property?
+They go over to the other farmer and say, come on, brother,
+could you help me move this log?
+He says, well, sure, if you would help me move my logs,
+and so this way, things that are too big for any one farmer
+to move get moved.
+Similarly, can one congressman pass a law by himself?
+No. So how do you pass laws?
+You go and you get friends to help you go
+and move the giant logs of legislation,
+and why do they do this?
+Because you'll help them when they need help, right?
+In the old days, the system in the United States used to be,
+I'll vote for your bill, and then later on,
+you'll vote for my bill, right?
+But one of the big changes in American politics is
+that now, instead of having separate bills and trading
+across the bills, usually people now say, I don't like that plan.
+Why don't we just make one really big bill
+that has everything in it, and then we don't need
+to trust each other anymore, right?
+And so that's very, you know,
+very dangerous in American politics now.
+Most, you know, a very large piece
+of legislation will have thousands of pages now.
+So I think TARP was over a thousand.
+I think Affordable Care Act was like 2,500 pages.
+It's not all about health care.
+It's not all about a relief, not a relief.
+a relief plan for troubled assets.
+Like the troubled asset relief plan had a page
+that mandated psychiatric coverage for health insurance.
+And a page that gave a tax write-off
+to a bow and arrow factory in Utah.
+All of these weird things in there.
+And why?
+Well, because, well, one possibility is people just felt
+like during recession we need a lot of bows and arrows,
+especially in Utah.
+Another possibility, though, is there was a congressman
+who was friends with the guy who owned the factory,
+and he said, I'll change my vote if you go
+and put that extra page in.
+And it's like, well, it's already 1,000 pages,
+why not one more?
+Anyway, that is log rolling.
+And if, so if transaction costs are reasonably low,
+then we can go and take efficient but unpopular policies
+and turn them into efficient and popular policies.
+So for example, suppose that there's rent control.
+And rent control, there's 10 landlords, 100 tenants,
+and each landlord loses $1,000 from rent control,
+and each tenant gains $1 from rent control.
+And again, that makes sense,
+because remember rent control is Calgary sufficient or not?
+It's not.
+Okay, so is it efficient for Calgary,
+is it Calgary sufficient for rent control to exist here?
+No, because yes, it destroys 9,000 worth of wealth.
+But if we do a simple median voter theorem
+and people vote for their self-interest,
+then rent control wins, right?
+But then Whitman says, yeah, but that's only,
+creates the bargain, where we,
+the place where we start the bargaining from,
+just like the big guy blocking those doors,
+like he's there, right?
+So the bargaining starts there.
+And then what do we do to that big guy?
+We go and we offer him money.
+And similarly here, the landlords will go
+and offer the tenants or their representatives
+some money in order to not have rent control.
+So they might say, look, how about we go
+and we agree to a land tax,
+which will not be distortionary like the rent control,
+and we agree to a land tax of say $200 for each of us,
+and then we can give every tenant $2.
+And then we're better off and you're better off compared.
+Right, and again, as long as the transaction
+is less reasonable, that'll happen, right?
+Or, so think about this logic for immigration.
+So if an immigrant would be a million dollars
+better off in the United States
+and he would consume $100,000 of US government services,
+then the logical thing is not to say you can't come,
+but to say you can come in,
+but you're gonna have to pay 101,000 at least extra taxes
+so that they'll have to cover it.
+Or of course, we'll have a deal where they can come,
+but they can't collect, they can be guest workers,
+something like that, which is why every first world country
+has a massive guest worker program, right?
+No, not really.
+What are the countries that really
+have enormous guest worker programs?
+Let me just put it this way.
+What is the standard form of government
+of countries where guest workers
+exceed 50% of the population?
+What's that?
+Monarchies, yes.
+Little bit puzzling for Whitman, but yes.
+So there are multiple Gulf monarchies
+where over half the population of people there
+are not citizens.
+Why would someone wanna live in a country
+where they can't even be a citizen?
+Isn't that degrading and demeaning
+to not be somewhere and you're not even a citizen?
+Well, yes, yes.
+People get over it, especially when you earn
+five or 10 times as much money in the Gulf monarchies
+as you would back home in Pakistan
+or Bangladesh or the Philippines.
+So that is what's really going on in those countries.
+And again, the Calderix logic is very clear, right?
+It's one way of look.
+So the guy running the monarchy,
+like he sees a benefit here,
+and actually he can even go and share the benefits
+with the minority of citizens,
+the people he actually is really worried about, right?
+And then lets in a bunch of low-skilled workers,
+mostly low-skilled, also high-skilled,
+but a lot of low-skilled workers,
+who then go and do almost all the hard work, right?
+They do it for way less than the citizens would be paid,
+but way more than people in the ascending country are paid,
+and in this way.
+And then how is it that you go and compensate
+all of the natives that have lost?
+Well, the standard thing in the Gulf monarchies
+is to give them enormous amounts of money.
+So you're a citizen, oh great,
+well here's $50,000 a year welfare, take it, it's yours.
+Right, every citizen in this country deserves that, right?
+Every human being really deserves it.
+You're kind of only human if you're a citizen.
+All right, well their country, they deserve it too,
+they deserve $50,000 a year too,
+but they deserve it from Pakistan,
+which cannot give them $50,000 a year,
+no matter how hard they tried.
+Yes, Elaine?
+Professor, I've seen lots of stories,
+and largely anecdotes of people in Gulf countries
+hearing horror stories about guest workers.
+Is this a, is this just a revealed preference story,
+or we should just disregard that?
+Of course.
+Or is this a selection bias story
+where only the people that regret it are complaining?
+Both, yeah.
+Yeah, so, well, it's a selection bias story,
+and therefore we should ignore it.
+Right, so at least in the sense
+of anyone who wants to reduce it.
+Now if you were to say, this is a reason
+to give guest workers the right to change their job, right?
+You know, things like that.
+That is a very different story, but,
+of course, people were complaining about it.
+It's almost never a question of giving the guest workers
+like the actual right to go and change their job,
+or be treated like a human being.
+It's just a question of,
+we're not gonna have as many guest workers.
+So, yeah.
+Right, and again, especially now,
+when you're like guest workers,
+they email their families home,
+and what do they email them?
+Never come here, it's terrible?
+No, they email them, I'm looking for a job for you.
+Right, and if they say that,
+but I heard things aren't perfect in Qatar.
+It's like, are they perfect in Pakistan?
+Oh, right, no, they're not perfect in Pakistan.
+So, in fact, we're making five times as much money.
+Remember your uncle who worked here for five years
+and came back and now lives in a mansion?
+Right, do you wanna be him?
+All right, sounds pretty good.
+All right, so again, that is Whitman's last story.
+Anytime there's any kind of remaining inefficiency left,
+we'll just go and take out the bags of money
+and buy people off.
+So that means farm subsidies,
+or the farm subsidies we had were efficient.
+If they were inefficient,
+we would have just given the farmers a lump sum buyout,
+and they go away and we never deal with them again.
+Right, so teachers' unions, efficient.
+Right, so productionism, efficient.
+All this stuff, efficient.
+If it weren't efficient,
+then we would have just gone to the steel industry
+and say, look, we want free trade, you're stopping it,
+here's a bag of money, and now you can go away.
+Right, anytime you've ever heard these calculations
+saying that for every job saved in the auto industry,
+we could have a cost of America of $400,000,
+that kind of thing, well, by Whitmanian logic, fine.
+Then why don't we go to those workers and say,
+hey, here's say $300,000 to leave the steel industry,
+leave the auto industry,
+and sign a form saying I'm totally happy with the tent,
+all my complaints are done,
+maybe even an NDA, non-disclosure agreement,
+saying like I won't even talk about this anymore,
+I'll just live my life with my bag of money,
+and not be an auto worker,
+and that's totally cool with me.
+Right, and if that doesn't happen,
+then what Whitman says shows that you have
+actually missed some of the complexity of the world.
+Right, and then if you say,
+well, no, no, transaction costs are too high,
+it's like how high could they possibly be?
+It's a bag of money, come on.
+Right, and especially remember
+that we don't need unanimous consent,
+we don't need every teacher to agree to this,
+we just need to get a majority of them to agree.
+Maybe not even a majority,
+maybe we just need to give enough
+to get the bad teachers to go away.
+Right, you might say, hey, the good teachers
+would kind of like the bad teachers to voluntarily leave,
+because bad teachers make good teachers look bad.
+Right, so, you know, would you want to have
+a physically abusive teacher in your school?
+It's like, oh, gee, that's kind of embarrassing.
+I don't, maybe you might even care
+about the children being physically abused, right?
+Now, again, the kind of thing
+that people would throw in Whitman's face,
+you've heard of the infamous rubber room of New York.
+So, there's a problem in the New York public school system
+some years ago, where there's a bunch of teachers
+that they don't want to be anywhere near a student
+ever again.
+So, they are afraid to put this teacher
+in the same building as a minor,
+for whatever reason.
+You can use your imagination,
+why do you not want this adult male
+in the same room as these minors?
+All right, but it's too hard,
+according to the uni rules,
+to just fire them for the offenses
+that they are very strongly believed to be guilty of
+and likely to do again.
+But you don't want to just go and pay them to stay home,
+because if teachers were paid their full salary
+to stay home, what would probably a lot of teachers
+start doing?
+Yes, well, yes, abusing children, yes, exactly.
+Just like, well, on the one hand,
+I don't want to go and slap a child in public.
+On the other hand, I don't want to have
+to get out of bed anymore.
+Well, slap the child I like the least.
+Smack!
+He's like, God, I feel bad about this,
+but everyone saw it on YouTube, all right,
+and he can't fire me.
+All right, so, and then, so what can we do
+that will get rid of our legal liability,
+but won't actually give teachers,
+the marginal teachers an incentive
+to actually do even worse things
+that they wouldn't do otherwise?
+And they said, well, here's what we'll do.
+We'll take the teachers that we'd like to fire, but can't,
+and tell them that they must show up
+in a special room every day.
+And they had the idea, let's just rent out one big room
+and say that all of the horrible teachers
+must show up there on time every day.
+They can clock out for lunch,
+but they must only for the normal lunchtime,
+and they must come back and they must sit there
+until the end of the day, every day, until they quit.
+So basically, it's like, kind of like a prison,
+where you, it's like a halfway house.
+It's where, during normal school time,
+you must sit in a room.
+What do you do in the room?
+Nothing, they don't want you to have anything
+to do with education.
+But, so you can sit there, you can go and read,
+you can write a novel, which was a key plot point
+in the show, The Affair, if you ever saw that.
+This actually, the whole thing was,
+they had the rubber room, which is, anyway.
+Then eventually, there was an expose news article on this,
+and people got really mad about this.
+And now, what does the New York system do?
+New York public school system,
+now they divide them among a number of smaller rooms,
+which are not as newsworthy.
+It was, but they had one room where 150 Cretans go,
+and that was like, this room was full of 150
+of the worst teachers in New York, who get paid,
+I think they get like $100,000 a year, to do nothing.
+All right, and that didn't go over well.
+So now, there's more rooms, same basic strategy.
+Anyway, so in the Whitman world,
+you would actually come up with some way
+of bartering them out of it.
+And then, like, how would you go
+and avoid the other problems?
+Well, probably what you'd do is,
+you would just go to the teachers union,
+with a big bag of money, and say,
+here's the bag of money, so that we can start firing
+people who abuse children.
+And they say, well, you can't prove it.
+Here's another bag of money that lets us fire them
+without being able to prove it.
+Because, do you wanna run a business
+where you have to prove everything you do
+in a court of law?
+That's a terrible system.
+So, if the default is, that's what you have to do,
+you wanna go and buy your way out of that system.
+Just like, if we had to prove before a judge
+that the guy who's blocking the door
+shouldn't be blocking the door,
+we might all be dead before the case gets resolved.
+So, we don't wanna have to prove it.
+We just wanna say, yeah, whatever, shut up,
+you're gone, that's it, end of story, the end.
+Right, to fast forward to the resolution,
+which, doesn't that open up the possibility
+that you might once in a while fire an innocent teacher?
+Yes, and of course, to compensate for that possibility,
+what's the efficient thing to do?
+Another bag of money.
+So, every objection, if the objection is,
+yeah, but we're worried that a very small number of people
+might suffer harm.
+Reasonable, bag of money, shut up.
+Another bag of money, shut up.
+All right, and now, our business is done.
+So, very simple.
+Okay, so, questions about anything in Whitman?
+So, and again, if you wanna start thinking about
+how Whitman would rationalize any policy,
+again, normally, of course,
+so he's gotta say the status quo
+is actually counter-exfficient,
+with, again, rare exceptions,
+or there could be like a short-run disequilibrium,
+but again, wants to say the status quo is efficient.
+So then, for any given policy that you think of
+as actually clearly inefficient,
+he needs to have a story about why it actually,
+when you really, fully understand what's going on,
+government policy is a sensible response
+to market failure or something like that.
+And again, Whitman explicitly doesn't wanna say,
+look, this is a terrible policy,
+but because there's no way of bribing everyone
+to make them all like it, there's nothing better,
+because again, that would be the Pareto standard.
+Whitman doesn't wanna defend anything
+by the Pareto standard,
+wants to defend it by the counter-extended.
+So, right, defending things by the Pareto standard,
+right, saying, well, look,
+it exists because it's Pareto efficient.
+Remember, that is a clear case of damning through praise,
+because remember, what in the world is Pareto efficient?
+The real world?
+Everything, everything's Pareto efficient.
+Syrian Civil War is Pareto efficient.
+How can you say such a horrible thing?
+Well, who's gonna lose if the Syrian Civil War gets ended?
+Yeah, well, I don't know, maybe he wins,
+but arms dealers, arms dealers are better off
+from the Syrian Civil War, right?
+So, and then how about just sadists, misanthropes,
+people who just want Arabs to die,
+and like, just get a sick thrill of watching it,
+they're worse off.
+Does anyone compensate them and say,
+well, dear, sick, hateful person,
+here's a $100 check to compensate you
+for the tragic early end of this war.
+No, we don't do any of those things.
+And, you know, and that would be what it would take
+for ending the war to be a Pareto improvement.
+But for a Calrix improvement,
+none of that stuff needs to be done, right?
+We could just go and like, okay, the war is over.
+That is it.
+So, these are the winners, these are the losers,
+it's all over, that's it, right?
+And that could be, would in fact,
+that would likely be the Calrix efficient, right?
+To just be clear, and again, like, there's,
+like, which ending?
+Well, there's so many endings
+that are big Calrix improvements over the status quo.
+Right, that's clear.
+All right, so, all right, so here's Whitman.
+Now, remember I was saying that,
+of course, we've got this miracle of creation here,
+which does hinge upon the assumption
+of rational expectations.
+And when Whitman complains about public choice economists
+assuming extreme voter stupidity,
+another way of putting his complaint is he's saying,
+we are assuming that voters
+don't have rational expectations.
+All right, and that's terrible, that's terrible.
+All right, now, this brings me to a question
+that weighed heavily on me after reading Whitman,
+which is, so what reasons are there to believe
+that the rational expectations assumption is true?
+Certainly to believe that it's always true.
+Okay, all right.
+Now, when I first started researching this,
+I will admit I didn't go into it with an open mind.
+It just always seemed crazy to me
+to think that voters had rational expectations.
+Right, just, the reason I got into economics
+was because I read so many things in economics
+that seemed so different from what I had heard.
+And not in, like, just like a variance reducing way,
+but in the sense that almost everybody
+I'd ever talked to said one thing,
+and economists said almost exactly the opposite.
+So, and that's why, that is my autobiography,
+why I got interested in economics.
+You know, I read some economists saying
+the minimum wage is a bad idea
+because it causes disemployment.
+And then I didn't say, huh,
+but what is this evidence that the disemployment effect
+is larger than what normal people think?
+And why didn't I say that?
+Because in my entire life, I had never, ever heard anyone
+claim there was any disemployment effect
+in the minimum wage at all.
+Right, and the normal view, rather,
+is just the higher, the better.
+And then I read some economists saying there's a downside,
+and I felt very cheated.
+Like, how could this information have been kept from me?
+All right, but anyway, so, I admit,
+when I went into the subject,
+I suspected that the rationalization assumption
+would not really, really work out.
+But I did think that I'd have to go
+and argue with the biggest empirical literature,
+but I actually found there really wasn't
+much empirical literature.
+Mostly, it was just the power of theory,
+saying, look, well, the rationalization assumption says this,
+and that's the definition of rationality,
+and economists, you're an economist,
+you don't wanna call people rational, do you?
+Maybe I do, I do.
+All right, so anyway, one of my main research ideas
+that came out of Whitman's work is to say,
+just like economists are used to thinking about
+people weighing the costs and benefits of information,
+or in other words, weighing how ignorant they wanna be,
+right, you can make a rational choice to be ignorant.
+How could it ever be rational to be ignorant?
+Well, you know this whenever you decide
+that you're not gonna spend 100% of your time studying.
+Right, spend more time studying, you would know more, right?
+But everyone here at some point is gonna say,
+I've studied enough, I know enough microeconomics,
+I'm not gonna put in any more time,
+and you are therefore choosing ignorance.
+Of course, hopefully, as PhD students,
+you achieve a very high level of knowledge,
+and then you say, I'm not gonna work any harder
+to remove the last little bit of ignorance,
+but still, you are accepting ignorance.
+Right, so just like it sometimes could be rational
+to be ignorant, to say it's not worth the value of my time
+to go and understand this material any better,
+I also think sometimes it could be rational to be irrational.
+It could be rational to deviate from full rationality
+to not have rational expectations.
+Right, or in other words, I say you can think about
+irrationalities being a normal good,
+something that people might want.
+Now, why would people want this?
+Well, there's plenty of reasons why.
+Right, so here's a really obvious one,
+which is that people get comfort, security,
+and identity from their beliefs.
+All right, so if you wanna make friends with someone,
+it's generally not a good idea to say,
+what's your religion, and then say, oh,
+well, here's all the things wrong with that religion.
+All right, so, and why not?
+Because it hurts their feelings.
+They won't like it, right?
+And so, and you say, well,
+why don't you want information here?
+Well, you're trying to deprive me of something I care,
+of beliefs that I care about, that give me meaning,
+that make my life feel important.
+Right, so I don't like that.
+So that is one big reason.
+And of course, in the modern world,
+religion has become less important,
+and politics has taken its place to a very large degree.
+So again, people get a lot of,
+a sense of being a good and right and decent person
+out of being a liberal, or being a conservative,
+or being a social justice warrior,
+or being an internet troll.
+Right, all these things make people feel
+like their life is worth living.
+Right, so when I was writing this book,
+I came across a book called The God That Failed,
+which is just a bunch of autobiographies
+of former communists.
+So every chapter is a person saying,
+I used to be a communist, now I'm not, here's what happened.
+Not one of these chapters had a former communist saying,
+and it was such a joy to learn new things
+about the eras of communism.
+Every time I learned a new thing, it was really fun,
+and I'm just a curious person, so I was saying,
+oh my God, Stalin's not the greatest person, I didn't know.
+Well, tell me more.
+Right, none of the people had that reaction.
+Instead, people said it hurt, it felt so bad,
+it felt like a deprivation of meaning in their lives,
+they just felt sick.
+Right, so one of them, I think, was Arthur Kessler.
+He said, you know, abandoning communism
+is like emotional harakiri, which is the Japanese term
+for the disrespectful Japanese term for ritual suicide.
+So he compared abandoning Stalinism
+to like putting a sword in your own stomach
+and stirring it around, and it hurts that much.
+Right, this is a very normal human reaction.
+reaction. So abandoning a belief normally is painful. Okay now what does this have
+to do with rationality? Well if you're irrational when do you have to abandon
+beliefs that you care about? Never. If you're just crazy, if you're just
+totally close to reason, you say no I'm not listening to you, no no. Or if
+your response to everything is that's just what people like you would say
+isn't it? Or it's like oh coctopus propagandist, I see. Right or whatever
+like whatever discrediting story you can tell so you never have to listen to any
+argument you disagree with, that gives you, gives the beliefs that give you
+meaning complete immunity. Just like every time someone argues, Satan
+told us, Satan said, Jesus said Satan would send people like you here
+to say words like this. I'm glad I was forewarned, I know not to listen. Right
+and then you can even do the thing where you say, the more you talk the
+even dumber that your belief is. I mean I thought it was already the maximum
+level of dumbness but you changed my mind about that. Right so it's easy to
+change your mind about how dumb your opponents are when you change the
+direction of they're even dumber than you thought. That's one of the beliefs
+that people don't feel bad to change. But all right now something else you're
+gonna say is even when you don't have an emotional attachment to the answer,
+there's also just the fact that rational thinking is hard, painful, and
+discouraging work. Ever work for like an hour on a math problem and you're like
+going and like I like you like saying okay okay here's and then like no it's
+wrong. You go back and like you work it again, oh it's wrong, and the third time
+you get it, yeah it's totally right now. All right I'm going to bed, I've got it
+right, that's perfect now. Right now very different reaction if you know that if
+you know that it's not for a grade or not. Right or if no one's ever gonna
+check then it's easy to say oh yeah I've got it all figured out now and let's
+never raise the subject again. So that could be uncomfortable. Right so there's
+just the discomfort of things being ambiguous and admitting that you're not
+omniscient. Right it's fun to just think that I just thought about figured it all
+out. I'm awesome. All right very popular idea. All right and then of course the
+indirect reason which I was alluding to is if you are too reasonable then you're
+gonna lose friends. You lose friends if you're too reasonable because people
+normally bond with other people based upon agreeing with some conclusions and
+if you start doubting the conclusions of your friends then they were are likely
+to like you less or maybe just cut you off entirely, purge you, you're not one of
+us anymore. Right yeah so I had a very good Mormon friend and I said so what
+would your family do if you stop becoming, if you decided told them I'm
+not a Mormon anymore. They actually thought about it and he said they
+wouldn't purge me but they would really hurt them. He's a super nice guy, he
+wouldn't want to hurt them. Of course there's always the option of just lying and
+pretending to believe something you don't but again if people have any kind
+of lie detection ability or if they might actually catch you saying the
+wrong thing then better just to not ask too many questions. So if you just
+don't, you say someone says yeah well the Bible says this and if you never ever
+open the Bible then you don't have to worry about coming across counter
+evidence which would then create conflict. You just say yeah you said it I
+believe you no need to look into this any further. He's totally trustworthy.
+How do you know he's totally trustworthy if you've never checked what he's saying?
+Something about his face. Seems like a trustworthy guy. All right so these are
+all reasons why people would actually desire to be rational. It's
+armor for your identity and also armor for your ego and then also protects your
+friendships and relationships from the disruption of apostasy, the disruption of
+the harsh questions. In general think about how few religions have a
+question-and-answer period at the end. Even Unitarians as far as I know don't
+have a question-answer period where you say it all sounds really good but not a
+normal thing to have. Okay again why not because even the Unitarians are not that
+fond of critical questions. Now once we accept that there is a reason for
+people to be irrational, in fact a very normal recognizable motivation or a set
+of very normal and recognizable motivations.
+Then we've got the question of how can we actually diagram this? Well we've got
+a quantity of rationality here. Of course if it's a normal good you'll have some.
+But then we need to put a price of rationality here and what would that
+price be? Well the obvious one is just to say the price is just the material
+success you give up if you hold a rational belief. So material success you
+give up by relaxing normal standards, normal intellectual hygiene. How clean
+do your beliefs have to be? How much do they have to be examined? Is this
+belief good? Is it acceptable? Is it edible? Is this an edible belief or is it
+poisonous junk? Get rid of it. It's a rot. I will throw this away. Okay yes
+obviously a good question there. All right okay so then we can go and just put down a
+demand curve here which has the pretty obvious result here saying look well
+then when the price is high, so up here, up here, right in that case
+and of course off of well-being, the price of being irrational can be really high.
+So if you believe that you can fly unaided, you will not believe this for very long.
+You will jump off a building and die. Right? Or if you are a surgeon who believes I am
+such a great surgeon, I'm better drunk than other surgeons are sober, you
+probably will destroy your career pretty quickly if that is your belief. So very
+costly. Or of course it's very costly saying that there's no cars coming. I don't
+need to look. All right so I have a special sense. I know when cars are coming.
+Step out. Don't do that. All right so these are all very dangerous, high-cost
+beliefs. Right? So on these, perhaps people are going to consume no
+rationality at all. So maybe some people, on some issues, people will be fully
+rational. Now my favorite example of this is a bet. So for really any statement you
+make or we can ever verify it, if someone offers to bet you that basically means
+the price is going to be very high. Right? Of course we'll spend some of the size of the bet.
+So is this fine? Let's bet a thousand dollars on this. Now anything can become
+a very expensive thing to be irrational about. Now on the other hand though, if the price is
+low you expect people to consume more. Right? And if the price of rationality is
+completely free, then people consume a whole lot. In fact we have a special name
+for where the demand curve intersects the x-axis. That's called the satiation point.
+Usually appears in the economics of the phase. It's like you pay $20 and you can
+eat as much food as you want. Right? And when do you go and, so how much do you eat?
+Well of course you don't eat an infinite amount even when the food is free. Instead
+you keep eating and eating and eating until the last mouthful of food is of zero
+value to you. So you keep going down to that point. The last piece of cake.
+Alright, oh I'm so full. Just one piece of cake. Alright, so that's what people do in the phase.
+Right? And similarly if the cost of a belief was zero, people would just go and
+believe whatever thing made them feel best about the world, no matter how crazy it was.
+Could be the world is 6,000 years old or that you are the greatest person who's ever lived.
+Right? Or that, you know, so, or that, you know, if we're free, say that all of your people love you.
+Under the rule of the country, everyone in this country loves me. There's all kinds of different beliefs you might hold.
+Which if they were free, that would be the crazy beliefs you want.
+Okay? Alright. Now, why go and make a big deal about the price of irrationality when the price is free?
+I guess I already erased it, but remember we talked about what is the probability of voter decisiveness in most real important elections?
+Roughly. Zero. Alright. So suppose that you believe something insane and you vote on the basis of your insanity.
+How much does that actually endanger your own well-being, so to speak? Zero.
+Approximately zero. Because the odds that you personally change the outcome are roughly zero.
+You could vote for the opposite of everything you want and what almost certainly happens anyway?
+Nothing. Yeah, well, well, well, well, well, well, well, something always happens, but the same thing that would have happened if you voted the other way.
+Right? And that is what's very special about democracy.
+Democracy essentially goes and fixes the price of irrational beliefs all the way down at zero.
+Okay. So this means that we should not be surprised at all voters of highly irrational beliefs.
+So not only is Whitman wrong just to go and say that could never happen,
+but in fact there's every reason to think that it would be a huge problem.
+Because you can believe any insane thing you want in politics and as long as you're just a regular person,
+what happens to you? The same thing that would have happened otherwise.
+So Hitler was actually elected on the slogan, National Socialism Means Peace.
+Now I would say even at that time it's pretty crazy to believe that.
+Of course, it was hindsight's 20-20, but Hitler had done and said many things that should make you very skeptical of that claim.
+And yet a lot of people believed it. So very few Germans wanted what happened to happen.
+Right? So they went, well, do we want to have maybe like an eighth of our country die?
+Probably not. All right? And yet if one person were reasonable, one reasonable voter under those conditions,
+what policies did the one person who said I see this man for the monster he is, I'm going to vote against him?
+And what happened to Germans like that? Assuming they stayed in Germany?
+All right. So one of them died. Roughly. The same thing happened to them that happened to everybody who voted for Hitler.
+So because being against a policy doesn't mean that you don't have to live under it.
+So a long-running argument that I've had with Pete Beckey, and Pete has often told me,
+Brian, you're saying that we get the policies that we deserve. I say, no, Pete.
+I'm saying that we, you and I, Pete, get the policies that they deserve.
+Right? That's the problem. So it's not that everyone is getting the policies that everyone deserves.
+The problem is that you and I have to live under these same policies.
+Or, of course, we could be Robert Higgs and flee for the country.
+That is our option. Either just accept the impositions of popular madness or leave the country.
+Or just go to another country where they have their own popular madness there.
+Higgs will tell you he found a part of Mexico that's really cool where people just don't bother people.
+Unless you want to cut down a tree on the beach. No, you're dead.
+Ten thousand dollars a tree. But he doesn't want to cut down any trees. He doesn't care.
+All right. So. There you have it. Now, again, just to go back to betting.
+Now, many people say, well, what's so you could, so I, anyway, call this rational irrationality.
+Many people say, well, what's so great about this idea as compared to old-fashioned regular plain irrationality?
+That's where I say, well, here's what my story is. If people were just totally crazy,
+then I could make a ton of money by betting crazy people.
+Because if people were just stubbornly and totally sincerely committed to their stupid views,
+then you could just go to them and say, hey, all right, well, you think that Hillary Clinton is going to win for sure?
+I'm going to give you a thousand dollars. Which, if you're sure, is still free money for you, right?
+And they would say, yeah, totally. And I'd say, all right, sign right here.
+And I would go around making bets like this with all of these different people with their ridiculous views,
+and I could be incredibly rich. And, of course, anyone else who was reasonable could be incredibly rich.
+But that's not what happens, unfortunately. Rather what happens, people who have crazy views,
+when you offer to bet them, suddenly they run away from their beliefs.
+Suddenly it's like, well, I mean, when I say she was certainly going to win, I didn't mean, I meant like 55 percent.
+I'll bet on that. Yeah, well, that's not really that good anymore.
+All right, so what you said was something different. Now, of course you like to say people are lying all the time.
+But, and again, I have no way of actually knowing whether there's just massive lying.
+But at least from looking at, from almost all the political arguments I've had with people,
+people seem so sincere to me when they make their dogmatic and ridiculous political views.
+And the bet doesn't seem to just make them say, oh, my God, I've been caught lying.
+Instead, the bet seems to make, to turn on a light bulb in their head for the first time in their lives on the issue.
+You suddenly think, well, wait a second. I said something that actually could be wrong.
+Never thought about that before. Never thought about how I might want to compare my view
+to the actual strength of the evidence before having one.
+Well, what do you do if you don't do that?
+Well, the way that it seems to me most people form their political views is you just say,
+well, what view really pleases me? That's true. The end.
+Until an obnoxious bettor comes along and starts challenging you.
+And that's when, oh, my God, I can't just go and believe that the demand elasticity is whatever I want it to be
+in order to make the result work out.
+So that's where people change.
+So as I think I mentioned, I have made a hobby out of publicly betting people who say things that I think are ridiculous.
+Normally they just won't bet. Normally they just run away.
+Or they change their position. And they don't change it just a little bit.
+They change it to something unrecognizable.
+So once there were three people who, this is 2008, so this is 2009.
+So the first time in 25 years, the US unemployment rate rose above the European unemployment rate that year.
+And there were three big fans of European labor market regulation put out a piece saying,
+this shows that all this triumphalism about how the US has better labor regulation leading to lower employment
+totally unjustified, and there's no real reason to think that the US system is better.
+And then I said, well, how about we bet on the average of US unemployment over the next 10 years?
+And one would write back, another said no, and the last one said,
+why don't we just bet on the Human Development Index instead, which has nothing to do with unemployment at all.
+Nothing. All right.
+So I did finally find a couple of other people who were willing to bet me,
+but they needed to get a big handicap, and they're going to lose.
+So pretty bad.
+So for a year or two I was getting slightly worried.
+Come on, it's lasting longer than normal.
+Actually when I looked, it wasn't really normal.
+It just took a little bit longer to reach the peak than normal.
+So to my mind, betting is what reveals that actually rationality itself responds to incentives.
+And by offering to bet, someone gets it,
+it actually is enough to change the intellectual effort people put into their beliefs
+and scrutinize them for the first time and realize that so many of the things they say,
+especially things like politics, are actually not justified.
+And just giant exercises of visual thinking.
+That was Ash.
+Just a really quick question.
+When two highly confident, experienced bettors bet against each other,
+what kind of odds could you expect?
+Ah, well, so you mean if they both, if it's symmetric, then even odds is reasonable,
+but if one person says five to one and another says three to one,
+then they should bet it somewhere in between, right?
+Say four to one, because that's the one that subjectively makes both better off.
+Right.
+Okay.
+All right.
+So anyway, remember how we talked about systematically biased beliefs about economics,
+and I made you read an article about that?
+So anyway, so I see this as a natural implication of this story.
+So we get stupid economic policies because voters have stupid beliefs about economics,
+and they have these stupid beliefs because if they vote on the basis of stupid beliefs,
+what happens to them as individuals?
+The same thing that happens to someone with a PhD in economics.
+So pretty simple.
+All right.
+And let's see.
+So another example that I like on the effect of incentives on rationality.
+So the basic economic point that labor market regulations,
+or especially pro-labor labor market regulations, reduce employment,
+it seems very intuitive, seems very well supported,
+and yet there are many people in the world who say,
+yeah, it's just right-wing ideology, that's the stuff you're making up.
+But anyway, of course you believe that.
+And yet my favorite reply to people like this is, well,
+have you ever filled out a job market application that had a line for salary requirements?
+Likely.
+Did you put a million dollars per hour as your salary requirement?
+No.
+Why not?
+If you don't just take for granted that there's labor demand elasticity,
+why not just ask for as much money as possible?
+Why not?
+Sky's the limit.
+And to me this shows that everybody actually realizes on a deep level when the stakes are significant,
+when there's a cost to them.
+That is when people's actual apply their self-discipline.
+They might actually like to put in a million dollars an hour.
+That would be fun, right?
+It would be fun to fill out the application.
+Hire me because I am awesome.
+And what is your experience?
+I'm great at everything.
+And to spill the whole application out, full wishful thinking.
+But you recognize that if you say these things that are mentally gratifying to you,
+that they will have very high personal costs.
+And so almost no one says things like this.
+And instead you go and try to constrain what you're saying to be truthy or true.
+And on the other hand, if you were voting for policy, this is where you can say,
+where do you get this idea that employers will hire fewer people when you raise the wage?
+It's just your made-up stuff.
+It's like, is it made-up stuff to think that if you enforce pollution regulations
+with harsher fines that there will be less pollution?
+Is that just made up?
+Is that something where we only believe it after there's massive evidence in its favor?
+Evidence that you'll never even, that's just too busy to ever look at?
+No.
+It is a presumption.
+Of course demand curves slope down.
+And if you want to say anything more about it, yes, fine, look at the evidence.
+But to start with the assumption of elasticity is just what I want,
+that's pretty crazy.
+All right.
+Questions about this?
+No one happy?
+Okay.
+All right.
+Now, one approach you can take to rational rationality is the puritanical one,
+where you just sit there saying, these despicable people defiling their minds with lies.
+This makes me sick.
+Sinners.
+Reprobates.
+All right.
+I'll confess.
+Many times I have that reaction.
+But if we're being economists about it, then if they enjoy it,
+if they're willing to pay something for it, then it counts in welfare calculations.
+So, yeah, even the sickest, most twisted pleasures go into the cost benefit calculations.
+You know, someone enjoys watching frogs get stepped on.
+That goes into the calculation.
+They make other calculations that people don't like that.
+That'll go in too.
+But at least we put in the calculations for the numbers for the people who enjoy these things.
+All right.
+So, if we're doing Calder Hicks efficiency analysis, then we should count the consumption value.
+But this in no way implies an efficient outcome.
+And why?
+Well, just think about the logic of externalities.
+So if you say, look, air pollution is efficient because it's convenient for people to pollute the air.
+Not true, right?
+It is true that it's convenient to pollute the air.
+Where does the inefficiency come from?
+Other people.
+Other people.
+It's not convenient for you, but you're causing problems for everybody else.
+And if you are selfish, you pollute as long as it's convenient for you,
+ignoring all of these other bystanders who are suffering.
+All right.
+So, just like polluters get the full selfish benefit of their pollution,
+but they are only a very tiny fraction of the cost.
+Anyone ever pollute and then the next day goes,
+the air smells a little worse because I drove yesterday.
+No. Right?
+But of course, if millions of people all make the air a little bit worse,
+the air can be terrible.
+Okay. But if you were to tell people, you fool,
+if you hadn't driven yesterday, none of this would have happened.
+Well, as long as the fool is an individual rather than a society, it's not true.
+Right? If you're the one person in a polluting society
+that doesn't pollute, what happens to you?
+You breathe the same black air that everybody else is breathing.
+In fact, you probably breathe more of it if you're walking,
+because then you're walking along, hyperventilating, coughing,
+taking in all the particulate.
+Okay. So, same story.
+Voters get the full benefit of their own irrationality.
+What is this benefit?
+It's the psychological benefit of protection and protecting your identity,
+not having to work too hard intellectually, not losing your friends.
+But you pay only this very tiny fraction of the cost.
+Right? So, just like a common story about pollution is something
+like everyone who pollutes is subconsciously thinking, well, nothing,
+my pollution doesn't really affect the total level,
+so I'm just going to do what's out there, the selfish thing.
+Similarly, the rational rationality story is everyone subconsciously thinking, well,
+if I were more reasonable, it wouldn't make anything any better, so I'm just going to go
+and believe whatever I feel like believing.
+Okay. All right.
+So, just like it's possible, not certain, but it's possible that all polluters could be better off
+if all polluters pollute less, similarly, it's possible that all voters could be better off
+if they were all less irrational.
+In fact, it's possible that all voters could be better off
+if the government ignored their request and just gave them a policy they didn't want.
+That's possible.
+There could be a democratic outcome, a military coup overthrows it,
+and the military coup could actually be efficiency enhancing.
+All right.
+So, remember once I told this to a guy from Egypt, and he says,
+that's just what Mubarak says about why we can't have democratic elections in Egypt,
+that the Muslim Brotherhood would take over and rule Egypt.
+And I said, what?
+I mean, is Mubarak right?
+And he said, yeah.
+I said, well, it's not my argument, it's your argument.
+Don't blame me.
+Just, you're like, I don't say whether the model applies to Egypt or not,
+but the model's out there, and if it applies, maybe it applies.
+I don't know.
+You tell me.
+All right.
+Or, you know, another application would be protectionism.
+So, the usual public choice story about protectionism is to blame special interests.
+The steel lobby is down in D.C. ripping off America, trying to keep regular Americans
+from getting the cheap steel that they have from Brazil that they crave.
+That is a story.
+All right.
+But the big puzzle for this is protectionism is very popular.
+Virtually all public opinion research says protectionism is popular.
+So, why go and say special interests are subverting democracy
+when the democratic outcome would appear to be to have protectionism?
+Seems like an odd conclusion.
+So, what's the other story?
+So, my story is people have rationally irrational beliefs about trade,
+and politicians offer protectionist policies to get their votes.
+I mean, why would people have these protectionist preferences?
+Well, who do protectionists normally blame for their country's economic troubles?
+Foreigners.
+Right. And is it, does it feel, and who does it feel good
+to blame your country's troubles on?
+Let me just say, does it feel better to say this is all our fault?
+Americans are dumb.
+Americans have messed everything up.
+Or is it to say Americans are great and wonderful and we're winners,
+but we've been stabbed in the back by foreigners.
+That story sounds a lot better to almost everyone on earth.
+Of course, it changed Americans to whatever country they're in.
+Right. So, Germans have been betrayed.
+Japanese have been betrayed.
+Mexicans have been betrayed.
+Afghans have been betrayed.
+All right.
+So, always have a story where the people in your country are virtuous,
+and the rest of the world is hurting your country.
+And that has great appeal.
+Right. And I will confess that a fair bit about this is just from growing up with my dad
+who just blames foreigners instinctively for anything he can think of.
+Right. So, again, my favorite bizarro one is, you know,
+it's because of immigrants that all the hospitals in LA have closed.
+All of your hospitals have closed?
+That's amazing.
+Everyone, there's no hospitals left here.
+All right.
+So, he blames foreigners for problems that don't even exist.
+But like, and why would a person do this?
+Because he has rage.
+His rage. And there's a bunch of people he doesn't like.
+Now, is it fair to say that my dad hates foreigners?
+I don't think so.
+The right word is antipathy.
+Hatred would be like he actually wants to like strangle them.
+No, it's just, but it's more just like a.
+All right.
+So, then that he very much has.
+Even that face is pretty much a direct imitation of him.
+Hard for him to even say the word foreigners without like sneer.
+Foreigners.
+Foreigners.
+All right.
+And now, this is not just my dad, of course.
+My dad is one of the closest things to a normal American I know.
+And yes, that seems to be exactly right.
+All right.
+So, anyway, empirical support.
+So, in that survey, Americans and economists on the economy.
+Public is much more pessimistic about foreign trade
+than economists controlling for everything else.
+And actually, the real puzzle is why isn't policy a lot more
+productionist than it is?
+So, why don't we have a lot more productionism?
+Of course, one story could be that we've been
+in disequilibrium and now we're going to get it.
+But, say, you're starting to look more dubious
+that much is going to happen.
+It seems like the main things Trump has done so far is he
+finds a company and says, that company,
+it's better not outsource 100 things.
+All right.
+And the things that Trump does divided
+by US GDP come out to what?
+Point zero, zero, zero.
+But then why does he do it if it makes a little difference?
+Americans love it.
+All right.
+You got something done.
+Do you hear that?
+Five companies didn't outsource stuff.
+Do you have any idea how many companies are in this country?
+And you didn't even, like,
+those companies are going to outsource other stuff.
+It's just that he stopped them
+from outsourcing the thing they were going to do that week.
+But then they stopped that week and then they don't do it.
+But then there's, what about the rest of the year?
+And like, the spotlight's off them.
+And then he just goes back to business as usual.
+Of course, because people are going to get bored
+if he keeps going back to the same company to pick the fight.
+Right? Maybe he heard, maybe like GM,
+like there's like a big story.
+But it's a company you've never heard of.
+And you pick a fight with it once, like, yeah.
+But like the second time you come back, it's like,
+I'm kind of bored with this story already.
+So pick a fight with somebody else.
+Move on. All right.
+So questions about this?
+Questions about irrationalities, political pollution?
+All right.
+So now we come to my particular weapon,
+which is a more moderate critique theme, I think.
+All right.
+So my critique of Whitman largely consists in,
+yeah, that's basically, oh,
+your critique is pretty right there and pretty right there.
+And instead, there's just an enormous X there.
+That's the part where I say Whitman is wrong.
+I say, look, voters are extremely stupid.
+Or, again, a better phrasing would just be,
+voters lack common sense.
+Or you could say voters are very far
+from rational expectations.
+Something like that.
+So, and you can then go and explain everything else going
+on as a response to this severe lack of voter common sense.
+So, and I agree with him.
+Like, you know, so politics looks very competitive to me.
+So, you know, if Hillary and Trump were colluding
+to ensure Trump's victory,
+that was one of the best performances in the history
+of our country, right?
+It sure seemed like there was a lot of genuine feeling
+on display and like they were doing whatever they could
+in order to win.
+Clawing for the power.
+You know, you just imagine there being like a sector of power
+and they're fighting over it.
+Like, no, give it to me.
+No, I want it.
+The ring will be the sector.
+It must be mine.
+No, it's mine.
+Or you just imagine the brutality
+of that metaphorical fight.
+That's what I feel like I see in every major election,
+is candidates desperately, viciously struggling for power.
+The only limit is you don't want to seem
+like a bad sport to voters.
+So, if you go a little bit too far,
+then maybe voters won't like you
+and then actually you'll have lost because of that.
+Because, you know, well, my opponent would stupid anything
+to win, but not me.
+Oh, no. I am a person of integrity.
+If you're looking.
+No, give me that.
+But integrity requires me to say, there are certain questions
+about whether or not you were born in this country.
+I'm just asking questions here.
+Questions mandated by my own integrity.
+Personally, I would rather not even answer these questions.
+I just like to be a nice person.
+I don't even want to win.
+I want you to win because it would be a burden on me.
+But I'll do this, throw myself at the sword,
+good of the country, good of mankind.
+All right.
+So, anyway, so Whitman, so I say Whitman is correct
+to accuse people of public choice of covertly,
+secretly smuggling in an assumption of voter stupidity.
+Brilliant.
+It's called lack of common sense or lack of rationalizations.
+But, so what?
+So, voters become extremely stupid.
+Even very smart ones are extremely stupid in politics
+because the price is so low.
+And again, I will say my dad was a big inspiration to me here.
+My dad is a very smart guy.
+He has a PhD in engineering and he has an enormous list
+of practical skills, but he is one
+of the most horrible economic illiterates I know.
+And he is totally ineditable, right?
+And has zero curiosity.
+And the fact that his son has a PhD in the subject is
+of absolutely no interest to him at all.
+None. Right?
+And so, and he literally will say things like,
+well I didn't agree with that.
+And that is his reputation of anything.
+Like, I don't agree with it.
+It makes me mad.
+So, it's wrong.
+Maybe, well how long have you spent studying it?
+Why would you think that, so that,
+like your knee jerk reaction is anywhere close to the truth.
+But, he feels that very strongly.
+Now, and yet when he runs his business,
+then sound economics are very due to him.
+And he sells used car parts to people all over the world.
+Never once saying this is some kind of a Swedish plot
+to suck up all of our car parts.
+And then destroy the American car collecting industry
+or anything else.
+But, money's money.
+Right? No problem.
+Gains to trade.
+Like that's perfectly fine with him.
+As long as it's actually a practical task.
+But when it comes to any kind of a policy question
+or analyzing society, that's where the heuristic
+of who do I have antipathy for is basically infallible for him.
+So, what I say is, you know,
+even smart people become extremely stupid
+in political matters because the costs are so low.
+And you can see how many pundits,
+generally very smart people, open up their mouths
+and say ridiculous things.
+And then when challenged to bet on it, either run for the hills,
+say ah, or ignore you.
+Or just go and change the subject or say, well,
+I'll bet on something that is totally different
+from what I originally said.
+Now, yet occasionally they'll say,
+well why should I give you odds?
+Well, why should I?
+I'd like to get good odds for my bets.
+You should give me good odds for my bet
+because you claim high confidence and I don't.
+So, you should give me good odds intermediate between even
+and yours to entice me to bet in order to sucker me in.
+That's why.
+It's the logic of trade in general.
+Right? If I can produce something for one-fifth
+of the cost that you can produce it for, I don't go and try
+to charge you the same price that you can make it
+for yourself, I offer you a price good enough to get you
+to go and trade with me.
+Right? And it's exactly the same.
+If I say, you know, if I say 50-50, you say 90%,
+then you should be happy to give me two to one odds in order
+to induce me to bet with you.
+And if you don't want to give odds like that, that is a sign
+that you don't have the confidence
+that we are planning to have.
+So, what I say is voter rationality is, first of all,
+plausible in theory because of this.
+You know, democracy is exactly the kind of institutional setting
+where people can be completely crazy
+without any noticeable effect on themselves.
+And first of all, and second of all,
+it's also easy to detect empirically on a large scale.
+In fact, our stereotypes that economists have
+about public opinion and public beliefs about economics,
+almost all are confirmed by systematic data.
+And if you take public choice class,
+you'll go over a bunch of other stereotypes
+about how people are clueless and how right those are.
+One fun one is there is a stereotype that there's a lot
+of that all you need to do
+to make a war popular is just declare war
+and then people rally around and wave flags.
+And this is very strongly borne out by the data.
+It's called the rally around the flag effect.
+If you just take a look at public opinion,
+even if the last poll before war is declared makes the war
+unpopular, just declaring it causes a big spike
+in popularity and then makes it popular.
+So, you know, like emotionally this makes perfect sense, right?
+Because you hear your country's at war
+and what is a normal human being's emotional reaction
+to that?
+USA, USA, right?
+Well, Americans' reaction.
+Like say, whatever country we're in, Guatemala.
+All right, so these are normal human reactions.
+You hear your country's at war and you want to support them
+and part of supporting them is saying it's a great idea
+and that we're going to win.
+Right? You've probably heard about the beginning
+of World War I.
+There are parades in all the big countries.
+Happy parades of imminent victory.
+They're all wrong.
+Right? Now, you might say, well, maybe some people thought
+that they were really likely to win.
+Yeah, but everyone seems to think they were likely to win.
+And that doesn't make sense.
+You know, if you're in France and you say, well,
+why are we so happy?
+The Germans are having a really big parade.
+Maybe they didn't beat us last time
+and they're going to beat us again.
+Right? That is not, that is the kind of thing
+that is going to make enemies and it's also the kind
+of thing that makes you feel like a traitor, even to think.
+Right? You know, just the thought of our country can lose.
+Those people, to think things like this normally.
+And things that hurt you to believe are things
+that people tend not to believe.
+Right? Now, Whitman is always demanding, if you read him,
+for, he's demanding those critics say,
+what is the key asymmetry between markets and politics?
+How are they really different?
+Isn't it all just a competitive interaction
+where people are trying to please customers or voters
+and why don't, why wouldn't both systems work equally well,
+at least within their sphere?
+And my answer is the key asymmetry is incentives
+for rationality.
+So, in markets, there are plenty of people
+who I will say are still irrational.
+But at least if you're rational, you get something out of it.
+You can avoid harm to yourself.
+You can get a better deal.
+Right? Whereas in politics,
+if you are the lone rational person, what happens to you?
+Same thing that happens to everybody else.
+Right? So, in markets, even when people are ignorant,
+they generally try to apply common sense,
+which is why internet scams generally don't work.
+Right? So, you know, you may not know a lot of details
+about Nigeria or why there's so many spam emails from them.
+But you do have common sense.
+And common sense tells you to delete those people.
+Right? And what are some common sense sayings
+that would advise you to go and just delete them?
+How about if it sounds too good to be true, it probably is.
+That's just common sense.
+Doesn't require much information to apply it.
+It's just like, who are you?
+I don't know you.
+You're offering me something that sounds really great.
+I don't believe it.
+Delete. Right?
+People do this all the time.
+But politicians do the same kind of thing, and it works.
+Politician comes along and says, this is going to be fantastic.
+I'm going to give you this great deal.
+Like, we're going to, like, everyone will be insured.
+The costs will go down.
+It's going to be wonderful.
+Right? And people believe them.
+Or someone says, look, we're going to go and invade Iraq.
+We're going to put a stall on democracy.
+And we're going to bring peace to the Middle East.
+And it's going to happen in our time.
+And we're going to do it.
+And you get to be part of it.
+That whole story, that sounds like a great story.
+It's going to be cheap.
+Cheap, fast.
+Right? Or let's see.
+Last night, I was seeing a clip
+from John F. Kennedy's Cuban Missile Crisis speech.
+And one line, I think it's like, this is almost word for word.
+He said, you know, the greatest risk
+of all would be to do nothing.
+That's it.
+How do you know?
+I mean, this never happened before.
+It seems like there's a really, there's one scenario
+where this causes a nuclear war,
+which we could have avoided just by appeasement.
+Maybe it'll be even worse if we don't fight now.
+But then again, maybe not.
+How do you really know?
+What, like, where's the, well, like, can we have a bet on this?
+And, you know, we, but, you know, none of that is there.
+And Stan, he just says that.
+And again, when, and of course, he says stuff like this
+because he knows, you know,
+as a very successful politician, this appeals to people.
+They want, you know, a forceful leader who tells them,
+like, we are going to act.
+We are going to solve the problem.
+And those naysayers who just want to leave well enough alone
+are going to make the whole, can only make the problem worse.
+Not just to say might or seems likely to be, you know,
+the kind of thing that would be the honest thing to say.
+Right? Say, well, you know, and again,
+just imagine a president saying, look, I've crunched the numbers.
+There's a 40% chance my action improves things.
+40% chance it leaves them the same.
+20% chance that it makes it worse.
+It's a favorable bet.
+So let's do it.
+That is not a war president.
+That is not someone who is rallying a country behind him
+for anything.
+Instead, people like a leader just says, look,
+victory is ours if we believe it.
+Dot. Like, okay, like, is that generally true?
+Is that only our country?
+Does every country get this amazing,
+this amazing Tinkerbell principle that if we just believe
+in fairies that it happens?
+No. Wrong.
+But, like, why would politicians say this ridiculous nonsense?
+And not just one person.
+They all do it.
+Why do they all say this ridiculous nonsense?
+Right? You know, like, just a bunch of literal,
+one literal falsehood after another.
+Right? And people believe this stuff.
+People like it.
+You know, maybe part of it is people are just, well,
+like, just like poetry.
+But, again, I've talked to enough people
+who tell me the poems with very, with great seriousness
+as if they've got it all figured out.
+I think that they actually believe the poems.
+Like, you know, it's, someone believes a poem is
+literally true.
+That's what it looks like to me.
+Like, every time someone says, this can only result in this.
+So you'll bet me on, like, a million to one odds.
+Or, no, even odds.
+Or no bet at all.
+Wow. One plus one can only equal two.
+Now, that I'll bet a lot of money on.
+But they don't want to bet a lot of money
+on all the things they claim can only be a certain way.
+All right.
+Now, last thing that we get out of my rationality story is
+it explains why a successful politician doesn't try
+to fix the voters.
+Successful politician isn't out to educate.
+Successful politician is out to pander.
+To tell people what they want to hear.
+want to hear.
+Right? And let's see, anyone here ever read Dale Carnegie's
+How to Win Friends and Influence People?
+You really don't have to read the book in order to get one
+of the main punchlines almost immediately.
+So, if you could A, tell people what they want to hear,
+or B, tell them what they don't want to hear,
+which is the better approach for making them like you?
+Tell them what they do want to hear.
+Well, what if what they want to hear is false?
+Yeah, then lie.
+Right? Or, of course, the easy thing is just don't investigate
+very closely, and then it's just speaking without,
+you know, it's like, well, it could be true, who knows?
+All right.
+So, anyway, voters who, voters like candidates
+who share the confusions, they don't want pedants
+who are going to lecture them.
+Can you imagine any major politician coming up
+and giving a speech before the American public,
+especially in a debate or something like that,
+and saying, look, I understand
+that most Americans are extremely concerned
+about the effects of international trade.
+They're worried about the hauling
+out of American industry.
+They're afraid for their future.
+I understand all this, but I'm here
+to tell you these fears are wrong.
+Like, you know, imagine, though,
+like what people would say to something like that,
+and then say, and here's why.
+Well, let's just go over to the Econ textbook here,
+page 233, comparative advantage.
+Let's go through this stuff, and we're, all right,
+and you have lost everybody.
+Even if you give the best version of comparative advantage
+that I've ever heard, which is the Iowa car crop,
+your most likely reaction is your opponent saying, look,
+so you think you can turn corn into cars, huh?
+Well, that sounds like an amazing magic trick,
+but most of us live in reality here
+where you can't turn corn into cars.
+You say, look, it's, you've lost the debate,
+you've lost the election, and you're out of luck, right?
+So, and instead, what you really want
+to say in an election is American people believe these
+things, and I believe them, too, with all my heart,
+and I will take decisive action.
+One other example that you almost never hear a politician
+saying, look, this is a horrible, terrible problem.
+Unfortunately, I've studied this issue very closely,
+and there's not a damn thing government can do about it,
+so we just have to live with the problem.
+I'll keep my ears, I'll keep my ears perked in case a new idea
+comes along, but any, if my rival says he can solve this
+for you, he's lying.
+No one ever says that, right?
+And it's got to be true sometimes, right?
+It can't always be wrong.
+It can't be that every problem people are talking
+about has a viable solution, but people don't like hearing
+that a problem doesn't have a solution, and so they vote
+for the person who tells them what they want to hear,
+even though the truth is going to be quite different.
+All right, and let's see here.
+So, yeah, last page, so those are just some diagrams,
+some different versions of the main curve.
+Don't worry about that.
+Let's see, I guess I've got time for one question
+about the material, possibly two.
+Again, of course, this is not your last chance to ask.
+I will be around for most of the time,
+so I guess I will be mostly away on May 10th and 12th,
+but other than that, I'm basically
+around almost all the time until the exam.
+So, anyone got a late night question that's burning?
+Yes, yeah, Ash?
+Didn't Ron Paul do this in 2008 where he starts off on the bed
+and low back, and then the standard?
+So, and did he win?
+Yeah, so there's one thing to, like, if you have an idea
+that appeals to a minority,
+then you might become a successful cult figure, right?
+Or, again, like, here's the thing, in a system
+of proportional representation,
+you might actually be, have a great career being the person
+who represents a certain kind of strange person.
+Well, the people that I know who, people I know who know a lot
+about Ron Paul will say a lot of his success has nothing to do
+with his strange views and a great deal to do with the fact
+that he delivered 5,000 babies
+in the district that he represented.
+So, there's a whole lot of people whose child was born
+to the world by this guy, and then he's a congressman,
+and he's like, all right, so, might not even be
+about the policy, it's just about that nice man
+who delivered the baby, right?
+So, that's another possibility.
+Let's see, one other time, one other question.
+Anything else?
+Yes?
+So, what is your response, a while back I think we were
+talking about biases and also it kind of pertains
+to what you sort of just mentioned
+about having an appropriate fear
+of an actual thing happening in the world.
+So, what is your response to that?
+Yes. I mean, that one's also, like,
+saying that crime rates are
+down because incarceration is up seems
+like at least a plausible theory you want to investigate.
+I think most people who have done the social science will say
+that there is an effect, although, of course,
+most of the change is due to other things,
+but at least that is one big effect.
+So, again, it just comes down, again,
+like inefficiencies just comes down to looking at the value
+of the crime that's been reduced versus full of all the costs.
+So, you know, you see a question number, see where it comes out.
+Of course, there's also the possibility, like,
+is there another way you could get the same result more cheaply?
+Again, like, we have one common one is just to, you know,
+like say, well, we don't keep people in jail for much more
+than 20 years because there's near zero percent violent crime
+for people who are over 40 anyway.
+So, and most people commit violent crimes,
+they're just not very, they're barely deterred at all
+by the additional marginal years in jail.
+So, there's something to that.
+Yeah, but, you know, that's one, right,
+say it's actually a much more complicated issue
+where you really need to go into the empirics to do it.
+Is it reasonable to say that about, like, oh,
+we're spending a trillion dollars overseas
+and that's why we're not having terrorism over here
+and if we were doing that.
+So, yeah, so, you know, that is a great question.
+So, there there is a literature on it
+where the main thing they focus is on near misses.
+So, cases where terrorism almost happened
+or almost didn't happen and there, you know,
+a very strong result is that there really is almost no
+effective terrorism prevention on terrorism.
+It is just illusory, right.
+So, you know, essentially there's just so many ways
+that terrorism could be committed
+and there's almost no money spent preventing 99%
+of possibilities.
+So, to say that it's the cause of lack really just,
+it's just very, very unlikely.
+All right.
+So, yeah, so why don't we stop there.
+Oh, yes, one of the things, so I think I may have mentioned it,
+but I will repeat.
+So, remember there is potential credit
+for class participation.
+So, if you first of all believe you deserve class participation
+credit and second of all fear I cannot actually match your name
+to your face, then if you email me a picture of yourself
+that would solve that problem.
+So, again, there's no requirement here.
+It's totally up to you.
+And actually, if I, when I'm doing it, if I can't figure
+out who you are, then I will actually Google you
+and try Facebook.
+But anyway, but if you send me your picture,
+then you don't have to rely upon things working out.
+But I do actually try to make sure that I give credit
+where credit is due.
+But once I've exhausted all the main ways of supplementing my
+highly imperfect 46-year-old memory, then, so anyway,
+but if you send me your picture,
+then you won't have that problem.
+All right.
+So, thanks everybody and good night.
+All right.
+Thanks.

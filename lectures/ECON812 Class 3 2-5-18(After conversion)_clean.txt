@@ -1,0 +1,3295 @@
+equilibrium before we proceed.
+So this is a macro model, but it's a general equilibrium
+macro model.
+And in fact, when you think about it,
+every general equilibrium model is a kind of macro model
+because it's describing what happens to an entire economy.
+Right?
+Sounds good.
+All right.
+So anyway, common in macroeconomics
+to analyze consumption over time.
+So how can you move from analysis
+of an individual or a small country
+to analysis of general equilibrium
+to a whole country or the world?
+So do you guys do small country models in macro at some point?
+And basically, this is where you apply
+for a perfect competition of countries.
+You say you're a small country, that's
+like being one firm in front of the competitive market.
+All right.
+So anyway.
+So the trick is we want to find whatever prices are required
+to induce agri-consumption to equal agri-endowments.
+People cannot consume more than exists,
+and why shouldn't they consume all that exists?
+Why not?
+All right.
+And then in intertemporal markets,
+we make special name for the price.
+So if you want to buy some money today,
+what kind of a price do you pay?
+Yes, you pay interest.
+Just a price.
+Right?
+So interest rates.
+OK.
+All right.
+So suppose we've got a world that's
+populated by identical infinitely-lived agents.
+So one of the very realistic assumptions
+that we usually make, but it gives you some ideas.
+So every one of these individuals
+lives forever, and they got a utility function
+given by the infinite sum of beta raised to the power of t
+times the log of consumption in period t.
+So you can write this out in long-hand.
+This is saying that utility is going
+to be equal to the log of consumption in period 0
+plus beta times the log of consumption in period 1
+plus beta squared times the log of consumption in period 2.
+And so.
+That doesn't make any sense, that's just the long-hand
+version of that.
+All right, and then I will just tell you the standard result.
+So the standard result is that every individual
+wants to set consumption in time t plus 1
+equal to beta times 1 plus r, their consumption in period t.
+So whatever is going on, you want
+to go and arrange your consumption
+to fit this pattern.
+So intuitively, this means that if you have a very low beta,
+then you know, so very low beta means that you
+are patient or impatient.
+We'll take a look here.
+What does a 0 beta mean?
+What does 0 beta mean?
+What counts?
+Only the first period.
+Only today and the future, hell with the future.
+All right, on the other hand, if beta were 1,
+then what does that mean?
+Future counts just as much as the present.
+So high beta means you're patient or impatient?
+Patient.
+Yeah, high beta means that you are patient.
+OK.
+So if you've got a high beta, then
+that means that you are going to tend
+to be consuming more in the future.
+On the other hand, if you've got a low beta,
+then you're going to be consuming less in the future.
+And then, of course, this 1 plus r,
+so where r is the interest rate.
+So that means that when interest rates are high,
+then you are tending to defer your consumption to the future.
+So it means that because there's a high interest rate,
+you may as well restrict what you're consuming now
+and then wait, leave it in the bank or wherever,
+and let it grow.
+And then you could have a bright future for yourself.
+OK.
+And then, of course, if this thing here
+happens to be less than 1, then you
+have a permanently declining consumption profile.
+So you're consuming less and less every period.
+And on the other hand, if this thing is greater than 1,
+that means you're consuming more and more every period.
+OK.
+All right, but so far, we've just
+done an easy intermediate micro or intermediate micro
+or micro macro problem.
+So this is one where we're just figuring out
+what one individual does.
+But this is a PhD class.
+And so we figure out what is implied
+if we figure out what happens to the entire society given
+these assumptions.
+And, of course, general equilibrium
+says that every period, the amount that you consume,
+this is an economy without any storage, by the way.
+So it says that every period, you
+got to consume whatever it is that you produce.
+So if, for example, people have constant endowments,
+so if you got a constant endowment,
+it's like every period you get 10, 10, 10, 10, 10, 10, 10,
+forever.
+If everyone's got the same preferences,
+then we need to figure out for what value of beta times 1
+plus r do we get an amount equal to 1?
+There's the same amount available in every period.
+Then people better actually be consuming the same amount
+every single period, right?
+So because otherwise, we will either
+be consuming more than we have, which is impossible,
+or we'll be consuming less than we have, which is pointless.
+This stuff is just going to rot.
+It's just going to waste.
+So if we got constant endowments and we know that we got beta,
+we get 1 plus r.
+So that has to equal 1.
+And then we are one step away from an amazing PhD result
+reached solely through algebra.
+So remember, which of these variables
+is supposed to be fixed and which one fluctuates
+in response to the fixed thing?
+So which thing is supposed to be a fact in the world
+and which one is a flexible thing about society?
+Beta is fixed.
+Beta is fixed.
+So people are either patient or impatient.
+That's their preference.
+So the thing that can vary, though, as usual, is the price.
+So then all you have to do is go and solve,
+and you'll see that we get 1 plus r is going
+to be equal to 1 over beta.
+And that's a general equilibrium result.
+This tells us if everyone follows these assumptions,
+what is the result that allows society to function
+in a consistent way, in a way consistent with everyone
+and everyone maximizing their own utility?
+It's a simple one.
+So 1 plus r equals 1 over beta, which, again,
+is super intuitive when you think about it.
+Because remember, so a high beta means
+you're patient or impatient.
+High beta means you are patient.
+So if you've got high beta, then what is the interest rate
+going to look like?
+High beta means high or low interest?
+Low interest.
+High patience, low interest.
+All right, and on the other hand, suppose beta were 0.01,
+then we need to have an astronomical interest rate
+to convince these super impatient people to save.
+So that's the idea.
+And then imagine a world where you've got growing endowments.
+Like suppose you've got technological progress, which
+is just a built-in fact of the universe.
+Every year, the technological progress,
+people are getting richer and richer over time.
+So if you've got endowments growing at a rate of, say,
+1 plus g, where g is the rate of growth of endowments,
+then people are going to want a smooth consumption
+by borrowing against the future income.
+Suppose you know that you've got an inheritance coming, say.
+What do you want to do today if you know you're
+going to inherit next year?
+Borrow.
+Borrow against that inheritance.
+And if there is this fundamental economic growth
+built into your future, then why?
+You say, well, I don't have to wait in order
+to enjoy the future today.
+I'll just borrow against the future, which
+works perfectly fine for any one human being.
+But can the entire society borrow against the future?
+Is there a time machine for goods where we can go forward?
+No.
+So if everyone is trying to borrow against the future,
+then what happens is not the people
+get to consume more than exists today, which is impossible.
+What it means is that something, the great social mechanism
+for changing people's minds, but it has to fill the gap.
+And what's that great social mechanism?
+Price.
+Price.
+Right.
+So people know they're going to be rich in the future.
+What do you need to do?
+What do you have to do?
+What does the industry have to do to persuade them
+to not consume it?
+Price.
+It's got to rise.
+So people know, well, we're going to get rich.
+Time to borrow?
+Oh, my god, the interest rate is so high,
+I don't want to do it anymore.
+So if we have a built-in rate of growth of endowments of 1 plus
+g, then we'll see that the interest rate is going
+to be equal to 1 plus r, or 1 plus r
+is going to be equal to 1 plus g over beta.
+So expected growth raises interest rates.
+Expected growth raises interest rates.
+It's a basic result here.
+Now, if you know anything about the history of interest rates,
+this raises interesting issues, because what
+is the general pattern over the last couple thousand years
+of interest?
+Have interest rates gone up, down, or stayed the same?
+They've gone way down, tremendously down.
+And what was economic growth thousands of years ago again?
+About zero.
+So, hmm, well, does it look like it's the g, the method,
+that's doing the work then?
+The g actually cuts the other way.
+The g should have raised our interest rates.
+So what is at least the simple model
+says what's happened to patients over time?
+Yeah, we've gotten tremendously more patient than we used to be.
+Is that the right story?
+I think that's at least a start.
+And so maybe, maybe that's the right story.
+Now, again, we start complicating the model.
+You could also add in other things,
+like maybe there's a greater fall risk in the past,
+like the world is so dangerous that people die a lot
+before they pay you back.
+There's all kinds of disasters.
+The mic's right, so maybe that's another big part of it.
+Yes?
+Do you think a lot of it could also be just life expectancy?
+So life expectancy could do, let's see,
+so what should life expectancy, let's see.
+Like you're almost forced to be more patient because you've
+got a longer span.
+Yeah, so yeah, so if you knew that you were going to die
+the day you stopped being productive,
+then that's a reason to save less, right?
+Yeah, so that could work.
+Although, again, a little bit complicated
+because we've got, we definitely live longer,
+but we also have more years of working life, right?
+And those extra years of working life
+means that you expect to have a larger lifetime wealth.
+So it's complicated.
+All right.
+Anyway, so this is just another application
+of general equilibrium showing you can easily take it over
+to a macro model.
+And it's in the late 70s, early 80s,
+the macro models like this became really popular.
+You may have even done some.
+All right, questions?
+Are you happy?
+OK.
+All right, now we're going to start with game theory.
+All right, so how many people here
+have done game theory at some point in your life?
+All right, good.
+All right, so a lot of this will be review.
+Hopefully, we will take it to a higher level.
+And yet, I will not torture you with math
+that you'll never need to know again.
+I'm going to try to give you enough math
+so that you understand the basics and can read papers,
+and then also give you enough additional information
+that you could write papers and do research.
+So we'll see.
+All right.
+So as I said, with general equilibrium theory,
+you can go pretty far.
+So we can analyze an economy with any number of people,
+any number of goods, any number of time periods,
+any number of states of affairs.
+So that sounds like we've got a pretty big set
+of possibilities.
+But in the end, most people who go explore general equilibrium
+long enough decide that there's too many questions that it
+leaves unanswered.
+There is a well-known book by Fisher Black,
+you may have heard of him, called Exploring General
+Equilibrium.
+And this is what's called an idiosyncratic book.
+This is a book where a famous economist just says, look,
+I'm going to explain everything in the whole universe
+using general equilibrium theory.
+Try to stop me.
+And it's the kind of book you're like, well,
+it's a very interesting book.
+And it's a powerful intellect behind it,
+somewhat dogmatic or maybe incredibly dogmatic.
+But still, there are a lot of people who read it
+and just kind of liked it.
+It's different.
+Anyway.
+But well, let's take a regret in the Fisher Black's world
+and move on.
+So what most people find general equilibrium very unsatisfying.
+And because in the real world, people usually
+stand somewhere in between a simple one-agent world,
+where it's like me hunting crawfish, where I figure out
+what the crawfish do, and then I eat them,
+and the crawfish keep being idiots.
+So that's one world.
+And the other world is the infinite agent world,
+or the near infinite agent world that we've been talking about.
+And that's another one.
+And then furthermore, even when you start out
+in this near infinite agent case, a lot of times in the end,
+things get narrowed down.
+So think about what life is like, first of all,
+for a single person.
+So even easier in the world of online dating.
+So how many people are available for online dating to you?
+Tens of millions of people.
+So it seems like general equilibrium is about right.
+And I don't think anyone is saying, well, look,
+if I'm a bad date, this might lead
+to a general decline in the quality of my opportunities.
+So I'd better be very careful here,
+lest I unseat the social balance.
+So probably no one, when they're doing online dating,
+is worrying that they personally are
+going to change the way that the world of dating works.
+No one says, look, if I'm really nice,
+this could lead to a general rise in expectations.
+So even though in the short run, it
+may appear that I benefit from my reputation
+for being a good person, in the long run,
+I will have so interfered with the market
+that my opportunities will be depressed and limited.
+All right, so this would be what a megalomaniac would think.
+But anyway, that same person says,
+I'm just one little person here.
+The world does not revolve around me.
+So I can just assume that whatever I do
+has no effect on general behavior.
+So that's what it's like to be single.
+On the other hand, suppose that you've
+been married for 10 years, you have three kids,
+and then you're thinking, well, look,
+I don't need to worry about being mistreated by my spouse
+because the market.
+There are millions of other people I could be dating.
+So if my spouse were to give me anything 1%
+below my opportunity cost, then this
+would lead to immediate dissolution.
+I'd switch to another person, and problem solved.
+So once you have put a lot of investment in the relationship,
+the fact that there's lots of other opportunities
+is no longer very much protection.
+On the other hand, if you were to say, look,
+I mean, there'd be no point in me being 1% nicer,
+because all that would happen was I would then
+get a million other dating opportunities.
+So there's no real reason for me to give flowers like an extra
+just because of flowers to your spouse.
+And of course, this is not what people who are married generally
+think is going on.
+Instead, they think, we both have a lot invested here.
+So on the one hand, either of us could fall quite short,
+and still we'd probably stay together.
+Or on the other hand, one of us could go and improve a lot
+and would not automatically lead to any better treatments.
+And then, well, simple, if I started to say,
+I cut back my wasteful spending, would this
+lead my spouse to cut back their wasteful spending?
+Or maybe they would just gobble up more of the free resources?
+What's going to happen here?
+And this is true even though there
+was one point in your life when you
+had millions of opportunities.
+But once you have been together for quite a while
+and made some common investments,
+then the market no longer is all that relevant.
+You say, well, things got extreme enough.
+Then it would matter.
+Yeah, so it's not saying the market doesn't matter at all.
+So your opportunity costs or your outside opportunities
+still matter to some degree.
+But within a big range, they might be totally irrelevant.
+And then you sit there saying, well, what am I going to do now?
+Do I just sit here and listen to my mother-in-law insult me?
+I mean, if this were a first date
+and I were being insulted by my date's mother,
+I'd probably just decide to move on.
+But now I'm at a point in my life
+where maybe I just need to sit here and shut up
+and take the abuse.
+OK, nothing to do with me.
+TV, movies, this is all my life experience.
+Once in a while, someone opens up to me, but not often.
+One friend who told me stuff.
+That's what's going on now.
+So game theory tries to analyze situations
+where strategy does matter and usually ends up
+with answers that are a lot vaguer or foggier
+than general equilibrium.
+But at least a lot of people think game theory is more
+realistic.
+And there is a line from famous behavioral economist
+and now Nobel Prize winner Richard Thaler, which
+is I'd rather be vaguely right than clearly wrong.
+And this is a motivation behind a lot of game theory
+compared to general equilibrium.
+So questions?
+Everyone happy?
+Satisfied?
+All right, good.
+So starting with game theory.
+So standard consumer theory provides the building blocks.
+So game theory retains the assumption
+that people have utility functions.
+Everybody's got a utility function.
+Sometimes game theorists talk about payoffs
+instead of utility.
+It's the same thing.
+Exactly the same thing.
+So you have the constant and the same.
+If you have a choice of different payoffs, which one
+do you take?
+The largest.
+Just like if you have a choice of different things
+that give you different utilities, which do you do?
+I think it gives you the highest utility.
+All right, now I'm going to say something
+that you don't need to know until after the midterm.
+But if you start getting theoretically nervous,
+like there's something that I'm doing that is not OK.
+It is OK, actually.
+So why is it OK?
+It's OK because actually it is normal to interpret payoffs
+as von Neumann-Morgenstern expected utility functions.
+If you don't know what von Neumann-Morgenstern expected
+utility functions are, well, these
+are utility functions named after the Nazi, Dr. Strangelove.
+Yeah, he was a Nazi.
+He was a rocket scientist who worked for Nazis.
+Anyway, so that guy was based on John von Neumann.
+In any case, we're going to talk about the details of what
+these utility functions are like after the midterm.
+But if there's ever a point where you think, wait a second,
+are you assuming risk neutrality or anything like that?
+No, no, no, actually I'm just assuming
+that they are von Neumann-Morgenstern expected
+utility functions.
+And if you are really bothered by what
+seems like the shaky theoretical foundations,
+you can read ahead about the old risk media article
+on von Neumann-Morgenstern expected utility functions.
+If you are content that what I'm doing
+is going to be justified later on,
+then we'll just move through and you don't need to worry about it.
+Either way, we're OK.
+So again, why?
+Because von Neumann-Morgenstern expected utility sideship
+all issues of risk aversion by building it into the numbers.
+And if you're confused by how this is possible,
+don't worry about it.
+I'm going to talk about it later.
+So now, there's two ways the identity game
+can be represented.
+And these are known as the extensive form
+and the normal form.
+Extensive form and normal.
+So what does an extensive form show?
+It shows every possible thing that can happen in the game
+turn by turn.
+Every possible thing that can happen in the game turn by turn.
+So it shows how behavior branches out from choice nodes.
+So a dot, that's a node.
+This is a chance for someone to make a decision.
+And then maybe that person has three decisions.
+And then how do we draw that?
+By showing three lines.
+And then where do the lines lead?
+To another node.
+Lines lead to another node.
+And at that next node, someone else, usually another player,
+will get to make choices.
+Maybe there could be two choices there, and only one choice there,
+and five choices there.
+And then each of those leads to a node, which then leads
+to other possible actions.
+And then finally, at the end, we go and show the payoffs
+for all the players.
+How do we show them?
+We just put a parenthesis, and then we list payoffs in 10-3.
+And player one gets the first payoff.
+Player two gets the second payoff.
+It's very normal in game theory to just call people player one,
+player two, player three.
+Normally, player one is the person who plays first.
+Player two is the player who plays second.
+Player three is the player who plays third.
+So it's very simple.
+OK.
+All right, so you could have your career game tree.
+So this could be a really boring one-player game, where
+you start off and you decide, do I
+want to either drop out of high school or finish?
+And then once you finish high school, you could say, OK,
+now do I want to go on to college or not?
+And then the other one, do I want to finish college or not?
+And then do I want to go and get a master's degree or not,
+get a PhD or not, get a second PhD or not?
+And you could show that branching out like one
+of these upside-down trees.
+Yes, because these game trees, by the way,
+are always drawn upside-down.
+Why?
+Well, practice, it's because it's
+normal to go and read from the top of the page
+to the bottom of the page when you're reading English
+or anywhere, or most Western.
+It's all Western languages, anyway.
+It's worked that way.
+OK.
+All right.
+OK.
+So we have a simple example.
+A more interesting one would be something
+based upon an old and pretty boring movie called
+Trench Connection, Gene Hackman in the 70s.
+You might like it.
+I don't know.
+It's one I saw as an adult.
+This is what they watched back then.
+It's a good job.
+Anyway, so there's a cop who's strangely named Popeye.
+And I don't know why.
+He's not a cartoon character.
+He does not like the spinach-eating cartoon
+character.
+Both his eyes are fine.
+But anyway, he's called Popeye.
+And he is pursuing a criminal onto a New York subway.
+And when this criminal notices Popeye,
+Popeye notices the criminal.
+And then they're trying to figure out what to do.
+Because Popeye, in order to follow the criminal,
+needs to do the same thing as the criminal.
+If the criminal's on the subway, Popeye must be on the subway.
+If the criminal's not on the subway,
+Popeye must not be on the subway.
+On the other hand, the criminal wants
+to do the opposite of what the cop who's following him
+is doing.
+If the cop is on the subway, the criminal wants to get off.
+And if the cop is not on the subway,
+the criminal wants to be on.
+So what you could do is start off with, first of all,
+the criminal, player one, decides
+whether to be on or off.
+And then Popeye comes along.
+And he decides whether he wants to be on or off.
+And then we could go and list the following payoffs.
+So say that if you get what you want,
+then you have a payoff of 10.
+If you don't, you have a payoff of 0.
+So if they're both on, then the criminal
+went first as a payoff of 0.
+And Popeye is 10.
+And if the criminal is on and Popeye is off,
+then the criminal gets 10.
+Popeye gets 0.
+If it's off-on, then you get 10, 0.
+Then finally, off-off would be 0, 10.
+And that is the extensive form for that game.
+Now, there's a few different complications
+that get worked into this approach.
+So one of them is, what if nature is playing?
+What if nature is playing?
+What if it can either be icy or not be icy?
+And the normal way of doing this is actually
+to just insert nature into the game
+as a player who randomizes.
+And why are they randomized?
+Well, intuitively, you just think nature
+gets the same payoff regardless.
+Because nature isn't different to our existence.
+Nature does not care about human affairs.
+And therefore, nature gets modeled
+as a player that acts randomly.
+So there are a lot of models where someone takes an action,
+and then nature plays.
+Nature could be, for example, there's either a hard earther,
+there's rainstorms or not.
+And then this determines whether the farmer invested well
+or poorly.
+Now, another thing you may be wondering about
+is, how does information work in this game?
+And the key insight here is that when you really think about it,
+there's no difference at all between moving simultaneously
+and moving sequentially but not knowing what
+your opponent did first.
+So for example, suppose that we could play rock, paper, scissors.
+We either do it simultaneously, which is the usual way,
+or I could go and write what I'm doing on a piece of paper
+secretly, put it down, walk away so I can't touch it anymore,
+and then you write down what you're going to do secretly
+so you don't get to see what I did
+and I can't change what I do, and then we open them.
+And what's the difference between doing it simultaneously
+with full information or doing it sequentially
+without the information?
+The answer is it's exactly the same thing.
+And that's nice because to do it as a tree,
+everything needs to be sequential.
+So anyway, we can go and model this,
+what appears to be simultaneity here.
+And we can make everything sequential.
+And what we do is that if, say, let's see,
+if this player doesn't get to see what happened there,
+then we just brought dots around that first thing.
+So basically, you put dots around there,
+and that shows that when player two is deciding,
+he doesn't know where he is in the tree.
+So we're still thinking of it as sequential,
+and then you might say, well, yeah,
+couldn't we just as well flip it around and change who player
+one and player two are?
+Yeah, that's true.
+But still, this means that we can go and model
+this in this nice tree shape.
+So if encyclopedias moves are equivalent sequentially,
+we're presenting potential moves with uncertainty.
+And then, again, the whole idea is
+if you learn something before you decide,
+then the node representing what's learned must precede
+the node the decision is taken.
+So this is extensive forms.
+Extensive forms are mainly used for very simple games
+because it's really hard to draw this
+when the game is really big.
+And it's very hard to draw it if there's a lot of players.
+But there are people who've gotten Nobel prizes
+for pretty simple models.
+So this can be done, say, on Reinhardt's Elm
+with the chain store model.
+That's a fairly simple model, but barely more complicated
+than this.
+Questions about extensive forms?
+Have you assessed forms yet?
+Under what conditions can we assume
+that everybody knows all the payoffs,
+no matter what decisions are made after their decisions?
+So that's a great question.
+And the game theory answer is, well,
+if people don't know the payoffs,
+then we just have to add more levels
+of complexity to the game.
+You say, man, but people can't even
+understand the simple version of the game.
+So that is the idea, is that if people don't know what
+the payoffs are, then you just add an extra level saying,
+well, then they think the payoffs
+could be a bunch of different possibilities.
+We just have to make it bigger.
+So that's how you would conventionally
+model any kind of confusion.
+And actually, there is a whole set of models
+that people use on the idea, well,
+maybe people are cooperating with Persona of Silence
+because they don't understand the payoffs.
+And so that's very similar, actually,
+to that self-managed chain store paradox I was mentioning.
+So there are models like that, I guess.
+So if you have a sequential game, and we let, for example,
+like the second player, the player two,
+assume that in each case the player one made,
+what the second player will choose, at the same time,
+is that still a sequential game or not?
+Let's see.
+So you're saying, so the second player
+does know what the first player did?
+He doesn't know, but he assumed that in this case,
+what he would choose.
+And if the player, if we assume that the first player chose
+on, then I would decide.
+So player two just makes an assumption
+about what the player one did?
+Yeah, they would.
+So I'd say, so then we're probably
+in the realm of psychology, which
+is great, and we'll talk about it after midterm.
+But if people make an assumption without any,
+people just assume that people are doing A,
+when actually, some time, actually,
+they're not doing A 100% of the time,
+then that's a systematic bias.
+And then we need psychology to go and analyze that.
+I mean, assume that the first player chose on,
+then the second player chose on or off.
+And then assume that the first player chose off,
+then the second player chose on or off.
+And then they will reveal the true decision.
+OK, so that's when they don't know what the other one did.
+Yeah, they know.
+But if the real decision is revealed,
+they will pay by the real decision.
+Possibly, we're going to answer your question when
+we do an abstract equilibrium.
+How about after we do an abstract equilibrium,
+can you tell me if you're happy or if you're still?
+No.
+No.
+OK.
+Yes, that's fine.
+No, no, no.
+It's a good question.
+OK, so anyway, so since it gets hard
+to draw these extensive forms, and they're generally
+only used for simpler problems, although simple
+doesn't mean trivial, you can get a Nobel Prize
+for simple problems.
+You do it well, and a lot of people say you.
+But more commonly, we do normal forms,
+which are also called strategic forms.
+So what's going on with normal forms
+is you get a complete grid of strategy profiles and payoffs.
+And the grid is one dimension per player.
+Right now, of course, that's also
+getting a little complicated.
+What if there's four players?
+We need a four-dimensional diagram.
+But you may notice, wow, there's not that many theory
+papers with four players.
+Is that because the world never has four people interacting?
+Or is it because it's too hard to go and draw
+a four-dimensional diagram?
+Interesting question.
+I won't resolve it here, but it's suspicious.
+OK, now an interesting thing about these normal forms
+that we're going to see is that there's often
+going to be irrelevant information contained
+in the grid.
+Why put in irrelevant information?
+Because mathematicians are into this stuff,
+and mathematicians love completeness.
+Mathematicians like to cover every possibility.
+It's like, what would we do if we randomly
+pick an irrational number?
+Don't we have a proof that only that happens
+with zero probability?
+Yes, but what's our contingency plan for this event?
+All right, so for the zero probability event,
+I still need to know what we would
+do if the thing that never happens happened.
+And you may say, who cares?
+I'm a mathematician.
+I care about what we do in every conceivable case.
+I don't care if the probability is zero or not.
+Anyway, so we can do a normal form of that one-player career
+game, which I will not transcribe because it's so simple.
+So again, it could be that if you drop out
+of high school, you get a pay-off of 10.
+Finish high school and then stop, you get 15.
+Finish a bachelor's degree and stop, you get 20.
+Finish a PhD and then stop, you get 30.
+Or finish two PhDs and stop, and you get a pay-off of zero.
+And you look at that and say, ah.
+So that's listed.
+Every payoff for every possible thing we'll have to do.
+And of course, people will do what you guys are doing,
+which is getting one PhD.
+That is exactly what all people should do, right?
+OK, good.
+Now, if we were to do a normal form of the French connection
+to the game, so then here, now we learn something
+that you can screw up.
+Even famous people screw up occasionally
+because it's like, wait, where do we put player one again?
+Where do we put player two?
+So the answer is player one goes in the front, goes on the left,
+and player two goes on the top.
+That's the way that we always do it.
+So it looks like this.
+Then we've got on, off, on, off.
+And then we can go into show.
+So 0, 10, 10, 0, 10, 0, 0, 10.
+And that is a normal form representation of that game.
+Showing every possible thing that every person could do,
+interact with every possible other thing
+that their partner could do.
+And notice we filled in, so we've got every base covered.
+Everybody's covered?
+Or we can do one from Kreps.
+So I think, yeah, so this should all be back here, yes.
+Yes, yes, yes, it is here.
+OK, so let's see.
+Oh, yeah.
+Oh, yeah, yeah, yeah, this is actually
+everything we need by default.
+All right, so Kreps has an example where player one
+chooses either capital A or capital D.
+He chooses D, the game ends.
+If he chooses capital A, then player two
+chooses either alpha or delta.
+He chooses delta, the game ends.
+And then he chooses alpha, player one chooses A or D.
+And then either way, the game ends.
+And then you can go and show what this looks like.
+So we've got, let's see, we've got little possibilities.
+And so we've got alpha, there's delta, and then we've
+got all of these other options.
+We've got four options here.
+So we've got capital A, little a, capital A, little d,
+capital D, little a, capital D, and then we
+have these payoffs here.
+So 3, 1, 2, 3, 1, 2, 2, 2, 2, 4, 3, 4, 3.
+And notice what's weird about this,
+because here we've already established
+that if player one chooses capital D, then the game ends.
+So then when does player two actually
+go and play alpha or delta?
+He never actually even has the opportunity
+to say what he wanted.
+But the way that the normal form works
+is we basically imagine that player two
+has what he would have done written down somewhere
+or in his head.
+And so then we can cover this all up.
+So notice all those four payoffs are the same,
+because if player one plays capital D, the game ends.
+So then it doesn't make the slightest difference
+for player two yet.
+And it certainly doesn't make a difference
+what player one would have done if player two had gotten that.
+Because here player one makes a decision
+which precludes the possibility that player one will ever
+do anything else in the game.
+And yet still, to be nice, clean, normal form,
+we still fill out the form.
+You've ever been filling out a form,
+and there's a bunch of things you fill out.
+And you say, look, if what I filled out in the last form
+is true, then there's no need for me
+to fill out this next form.
+And then a bureaucrat tells you to fill out every form.
+You've been in that situation?
+That's what this is like.
+Here's the form.
+So first of all, we fill out the form where you say that you
+don't have bubonic plague.
+And then there's a second form which
+describes what your treatment plan for bubonic plague is.
+It's like, well, I already said one form,
+so I don't have it.
+So there's a new treatment plan.
+We'll just fill out the form, including your name,
+and your phone number, and your address,
+and all this other information.
+And then when you get to the part that says,
+what is your treatment, say, I am consuming zero amounts
+of all these drugs.
+And then you fill out the stupid form.
+So just to get into George Mason,
+who is some garbage like this.
+My sons are in the high school gastrointestinal program.
+So of course, I filled out all their forms for them
+in duplicates.
+And yeah, all right, so it's just like this.
+I'm very sorry.
+And then from here, you could go and try
+to figure out what is this normal,
+what would the extensive form of this game look like.
+And then you could even back it out right from these payoffs
+here.
+So we start off, and we've got either A or D.
+And then if we choose D, the game ends.
+And then what are the payoffs according to this?
+Yeah, one, two.
+Easy.
+Two.
+And then if we get to here, then we have the choices of alpha
+or delta.
+And then if a player chooses delta, the game ends.
+And then what are our payoffs?
+Four, three.
+Four, three.
+And then if we get to alpha, then we're
+going to do either little a or little d.
+And then our payoffs will be three, one, or two, three.
+So that thing there and that thing there
+turn out to be the same.
+So so far, this is all just the grammar and vocabulary
+of game theory.
+I haven't told you anything about the world at all.
+It's just a way of talking.
+That's all we're doing, just like in comic books.
+You know someone is talking because there's a word bubble.
+So that's part of the grammar of how a comic book works.
+And once you know that, then you say, OK, so if that happens,
+then I know that person is supposed to be talking.
+And the arrow pointed at their mouth,
+that means it's that person who is the speaker.
+So that's all we've done here.
+Now we get to actually trying to say something about the world.
+This is with our first solution concepts.
+So the two concepts we're going to begin with
+are strict and weak dominance.
+So what in the world does game theory say people actually do?
+So game theory seems like it's going to make a prediction,
+just like general equilibrium theory makes a prediction.
+It says that the world will be at the general equilibrium,
+right?
+That's a prediction.
+So what does game theory say?
+Well, it begins with some weak assumptions
+and then gradually strengthens them to get a plausible answer.
+Plausible to who?
+Well, that's a really important question.
+Because often, it's just plausible to some game
+theorists who don't do any empirics
+and never have any opinion empirics.
+So that's a problem.
+But then, of course, sometimes, as people know the theory,
+that's an empirics.
+And that's where the problem comes from.
+So how many people here ever read the article in Dan Klein's
+Econ Policy Watch or Econ Journal Watch?
+This is the article which says that the journal of economic
+theory is a terrible journal.
+To me, this is one of the most hilarious articles
+ever published.
+It's an article to say the journal sucks.
+It's not any particular article.
+It's like, this whole journal is terrible,
+and I'm going to prove it.
+And what the article does is it just takes a bunch of years,
+and then it examines every article, and then it codes it.
+Did it mention any facts in the world at all?
+No.
+Did it state any real fact it's trying to explain?
+No.
+And then did it propose any way that the theory
+could be tested?
+No.
+And a very high proportion of the articles in the journal
+turned out to fail every possible test of what you
+might think theory would be for.
+And I think Dan got the editor of the journal to go
+and write a reply and say, my journal is good.
+Anyway, so that's something very good to keep in mind.
+Of course, you can get an article in this journal
+and still get your job.
+So don't forget that.
+And that's probably the main reason
+why people are writing articles for this journal.
+It's not because they feel like they're getting great insight
+into any of that.
+Maybe they do.
+Maybe they're so delusional as to think
+that this is a good approach.
+Anyway, and of course, if anyone has published in here,
+what I'm saying doesn't apply here.
+It has published in a journal, but not here.
+So the weakest assumption that people in game theory
+start with is this.
+People do not play strictly dominated strategies.
+People do not play strictly dominated strategies.
+What does that mean?
+If there's something that is always worse for you
+no matter what, you won't do it.
+Sounds like a really weak assumption, right?
+It's like, look, this is something
+that is bad under every possible situation.
+Then don't do it.
+So
+You might think about, what would some examples of this be?
+Well, let's see.
+Of course, any real world example, you may always dispute.
+One that comes to my mind is, if there is a person much bigger, tougher than you,
+and they're leaving you alone, you go right up to them and you offer to fight them.
+There's no one around or anything.
+It's like, look, either this person is as big a stuff as they seem,
+in which case they're going to crush you,
+or they weren't, in which case you would pick to fight with a total stranger for nothing.
+So just don't do it.
+Now you might say, that's more complicated than that maybe is,
+but anyway, that's the idea of the Strictly Dominant Strategy,
+something that is so stupid that it's never a good idea, no matter what.
+So, you may think of other examples from your own life.
+Like someone deliberately going and assaulting a person upon whose good will they rely.
+Why would you do that?
+Why would you say something like that to that person?
+Either they'll be really offended,
+or at least you'll have missed an opportunity to have said something that would be constructive.
+So either way, terrible idea.
+So anyway, the strategy that is worse for you no matter what your opponent does, play it.
+And then, if elimination of Strictly Dominant Strategies leaves you with a single equilibrium,
+so it doesn't have to,
+but if it so happens that once you delete everything that is never a good idea,
+you're left with only one thing,
+then you go out on a limb and say,
+you know what I'm going to predict happens?
+The one thing left.
+That's what I'm going to predict.
+And that is what the solution concept is like.
+And we call that a game that is dominant solvable.
+One where you can simply delete stuff that would always be a dumb idea,
+and once you've done all those deletions, you're left with one thing,
+and then you're back down to solvable.
+And the classic example of this is the Prisoner's Lemma.
+So you've all seen the Prisoner's Lemma at one point.
+The classic version has two prisoners.
+They both get caught, but they're separated,
+and each one is told, look, either,
+so if you confess, we will give you a reduced sentence.
+But there's only one plea bargain on the table here.
+So if your accomplice goes and confesses first,
+then he gets the good deal and you get the crummy deal.
+And if neither of you confesses, then you both get a light sentence.
+But of course if you both confess, then ha ha,
+then you're both going to get a pretty bad sentence.
+The worst one, though, is if you don't confess and your opponent does,
+then you get the really harsh punishment.
+So that's what the Prisoner's Lemma is all about.
+And the standard setup of the Prisoner's Lemma is people say, well, look,
+all right, well, can I control what my accomplice in the other room does?
+No. All right, so two possibilities.
+One is that he doesn't go and betray me.
+In this case, I could go and get off scot-free if I betray him,
+so that seems like a good idea.
+The other one is, well, maybe he is going to betray me.
+In that case, if I betray him, then at least I don't get the really bad sentence.
+So that means that whether your opponent is betraying you
+or cooperating with you, you are always better off strictly by betraying him.
+That is the case.
+And then the nice thing about the Prisoner's Lemma is your accomplice
+has exactly the same incentives.
+So the other player has exactly the same incentives.
+So since it's strictly dominant for you to never cooperate with him,
+it's strictly dominant for him to never cooperate with you,
+and the game is dominant-solvable,
+and the dominant-solvable result is no one ever cooperates with anyone.
+And there is actually an economic detective model called Murder of the Martian
+you may have heard about, written by Ken Elzinga from UVA
+under the pseudonym Marshall Jevons.
+And in the detective novel, there's a guy who goes and confesses to a crime
+for which he's innocent, and the economist comes along and says,
+well, why would he confess if he's innocent?
+And the economist says, have you ever heard of the Prisoner's Lemma?
+Why don't we go explain?
+Of course, when you read the book, it's like, well, if that's true,
+then why does anyone believe confessions ever?
+If everyone always confesses whether they're innocent or guilty,
+why does anybody think that confessions prove anything?
+And I don't think that's really resolved in the novel.
+If you read more widely, it's like if you read Roman philosopher Cicero,
+he even has a reply to a piece in defense of torturing confessions out of people.
+And if you think about this, it's like, look, if you torture someone,
+they will confess whether they're innocent or guilty,
+so actually torture is a terrible way of learning about who's guilty, right?
+And then Cicero says, well, it depends upon how you torture them.
+It's like, really? Right? And remember, he's a really smart guy.
+So he says, look, if you torture them just to say, yes, I did it,
+then of course torture is an idiotic way of finding out, of solving crimes.
+But suppose you torture them until they tell you something
+they couldn't possibly know unless they were guilty.
+Ha ha! All right.
+You torture them until they tell you where the murder weapon is.
+That actually, you learn something from that torture.
+And of course, it made them, wow, he died. I guess he was innocent.
+Or, it's like, wow, the third finger came off,
+and then he told us where the murder weapon was. See?
+It was justified.
+So this is what a smart person with a very different worldview from our own
+had to say about the strategic situation.
+I was like, I read it, and I was like, wow, this guy's pretty smart, actually.
+All right, so at least he's saying something much better
+than most modern defenders of torture would say.
+It's a winner.
+All right, so that's the prisoner's lemma.
+It's a classic example of a dominant, solvable game.
+Questions?
+Happy? Right? Yes?
+I guess I'm going through something.
+It's that the order of the iteration doesn't matter.
+I'm just thinking of, like, with different times,
+then you can predict...
+Actually, you're one line ahead of us.
+Oh, sorry.
+It's great.
+All right, so, next point.
+So if all players think like this,
+if all players sit around saying,
+I'm not going to play things that are always bad for me,
+and if other people know that other people are doing exactly the same reasoning,
+then you can actually often solve games that seem like they can't be solved at first glance.
+And this might actually lead to a situation where you are, like, untying a knot.
+Like, you're untying a knot, and how do we ever get through this?
+But then you untie one thing, and you're like,
+well, now that I've untied one thing, I see another thing I could do.
+And now that I've done that, pretty soon it's like, oh, my God, I've solved the problem.
+So that's an optimistic scenario, right?
+Sometimes it just gets worse and worse.
+But anyway, that's the idea, is that there are some games where once you eliminate something,
+then it turns out you can eliminate more.
+And once you eliminate that, you can eliminate more and more and more and more.
+So maybe the game that didn't look dominant solvable is.
+And then, yes, as you were questioning, a fun fact here is the order of iteration does not matter.
+It would probably matter when you're fixing really naughty shoelaces.
+But in game theory, it actually does not matter as long as you don't describe dominance.
+You can eliminate one thing that will not then, you know, whichever path you take,
+you're going to get to the same answer either way.
+Oh, no, that was just, yeah, go.
+Yes. All right.
+So here is a dominant solvable normal form for preps.
+All right. Let's see.
+And why don't I just, I'm not going to copy it.
+I'll just go and look at it.
+So we take a look here.
+Player 1 has two choices, S1 and S2.
+And Player 2 has three choices, T1, T2, T3.
+And when you go and take a look at it, say, well, let's see, for Player 1,
+neither S1 nor S2 is strictly dominant.
+Because S2 is better in some situations and S1 is better in other situations.
+But then you go over and look at the other one, and you can say here, well, so let's see.
+First of all, you could say that, yeah, so let's see, T3 is always worse than T2, right?
+So because, you know, so like rather, you know, so if Player 1 plays S1 and you do T2 instead of T3,
+then you get 7 instead of 4.
+That's better.
+And if Player 2 does S2, then you get negative 1 instead of negative 2.
+That's better.
+So you can lop off T3, right?
+So you can act as if T3 doesn't exist.
+And now, suddenly, we can take a look and we can see that S2 is actually strictly dominant, right?
+So why, so once you get rid of T3 as a possibility, then why should Player 1 ever play S1?
+So then he'll definitely play S2.
+And once you do that, then you can say why would Player 2 ever play T2 when he can do T1?
+And you can get 5 instead of negative 1.
+So it turns out then that 5, 5 is actually the only equilibrium in this game when we apply strict dominance.
+Make sense?
+So step one is we lop off T3, then we lop off S1, then we lop off T2, and then we're done.
+And we've narrowed it down.
+Even though at first it might seem like this is hopeless and we're not going to be able to use strict dominance at all this point.
+Okay.
+All right, now we come to a refinement.
+And this says if a probabilistic combination strategy strictly dominant is another for any probability distribution,
+and that last phrase is crucial, it's got to be for any probability distribution, right, then that too may be eliminated.
+And then this normal form again from Krabs becomes non-solvable.
+So what does that mean?
+It means, look, tell me any probabilities whatsoever that you might have,
+I'll tell you something better you can do than doing this thing.
+All right.
+So it's not just for one person's probabilities.
+It's got to be for any conceivable probabilities of something better.
+All right.
+So take a look at this.
+All right.
+So again, here we've got S1 and S2.
+We've got T1, T2, T3.
+Right.
+And at first you take a look and you say, well, you know, T3 can be better than T1 or T2.
+But then you can say, look, just tell me what probability you think the player one is going to,
+what probability do you think they're going to play S1 versus S2?
+And so suppose you say, well, fine, S1 they're going to play with probability greater than.5.
+In that case, you could say, well, then instead of doing T3, you should do T1 because on average that pays better.
+On the other hand, if you said, no, no, no, I think that they're going to play S2 with greater than.5 probability,
+then you say, well, fine, then I'll play T2 instead of T3.
+And you say, well, how about what if they're equal?
+Then say, look, either T1 or T2 would pay better than T3.
+So that's what allows you to get rid of T3 in this case.
+And then once we get rid of T3, then again this cleans up really nicely because then we can say,
+well, once we got rid of T3, then what is it that player one, then S1 is always better for player one.
+So then, and then if player one is always doing S1, then player two will definitely want to do T1.
+And again, we've unraveled the knot.
+All right.
+Now, it sometimes happens, may happen, that one strategy is strictly worse and sometimes strictly worse and never strictly better.
+All right.
+In that case, we have another criteria.
+This is called weak dominance.
+And, you know, like an example of this might be going and sending someone that, you know, whose help you need an insulting e-mail.
+And then you say, look, one possibility is they'll remember and they'll hate me.
+Another possibility is they'll forget and nothing will ever happen.
+It's like, so the best case scenario is you don't hurt yourself.
+Say, yes, well, then common sense would say don't do that.
+Like either it's going to hurt you or there's no help whatsoever, so don't do it.
+That makes sense.
+Have you often wanted to told someone, look, best case scenario is this accomplishes nothing and otherwise you've made yourself worse off, so do not do this thing.
+I beg of you.
+All right.
+If you pleaded with someone like this, you have applied the concept of weak dominance.
+So this is another way of doing it.
+Unfortunately, when you do weak dominance, the order of iteration may matter.
+So then we actually wind up getting different predictions depending upon how we did it.
+So that's kind of weird, but that's the math, so I'm just a messenger here.
+So again, it seems like a really promising solution concept, except it's one that gives you totally different, can give you totally different answers depending upon which of the steps of elimination.
+All right.
+Questions?
+Questions?
+All right.
+Okay.
+So now we're going to move into a closely related solution concept of backwards induction.
+So in any game where there's perfect information, you say that each node marks the beginning, well, you're going to think of it as another game.
+So like right here, we can say that once we're here, we can just think of that as a totally new game.
+Once we're there, we can say, all right, fine, that's a totally new game.
+So that's just a way of looking at things.
+All right.
+So what happens if we repeatedly apply strict dominance to each of these sub-games?
+So basically if we go to each sub-part of the tree and say, let's assume that whoever's making the choice applies strict dominance, and then we work our way back.
+So once we go to every end part and we apply strict dominance, then we go up a level and we apply strict dominance, then we go up a level and apply strict dominance as far as we possibly can.
+And what happens?
+All right, so again, the intuition is we want to very systematically reason.
+If we got to this point, no one would ever do these things.
+So let's erase them.
+And they don't have, they might just say it will never happen.
+And then once you've eliminated a bunch of things that will never happen, then it may be that you can actually figure out what's going on.
+But again, this is a lot like solving a hard math problem where if you can say, well, it starts off like, my God, I don't even know how to solve this thing.
+Like A could be greater than 1, equal to 1, less than 1.
+But then if you go and say, oh, wait a second, it's not possible for A to ever be less than 1.
+And then you say, okay, I'm going to throw out all the parts of the problem that never happen, and I'm only going to solve it for the part that does happen, and then I'm going to see if I can solve it.
+You may notice sometimes when you simplify a problem like that that it becomes easy.
+Okay, so the modest answer is we can eliminate more possibilities than before.
+All right, so here we go.
+So we got extensive and normal forms of preps.
+So here I'm only actually showing the extensive form.
+All right, so this is called the centipede game, the Rosenthal centipede game.
+All right, so if you take a look at this game, it looks like a centipede has got 100 nodes in it, or maybe 101, I can't remember.
+I think it is 100.
+Anyway, close enough.
+Approximately 100 nodes, like a centipede.
+All right, and the way that it works is in the last turn, both players get 100.
+But the whole idea of the game is you alternate deciding whether to end the game or not.
+And the way the payoffs are set up is that it can be advantageous for you to end the game early.
+So if you just take a look at the second to last turn, the second to last turn, player 2 is deciding,
+and if he ends it early, then instead of 100, he gets 101.
+So once you're at the second to last turn, what is it that player 2 wants to do?
+End the game. He said, I don't want to go to the last turn.
+I want to end it in turn, and I'm going to turn at minus 1.
+But if player 1 knows that player 2 is going to want to end the game a turn early,
+player 1 wants to go and end it two turns early, because then he'll get 99 instead of 98.
+But in that case, if player 2 knows that's going to happen, he wants to end it three turns early.
+Then player 1 wants to end it four turns early, and so on.
+We can reason backwards like this, and we get this bizarre result that actually,
+despite all of the advantages of cooperation, player 1 will immediately end the turn and get a payoff of 1 for both players.
+That is what comes of this backwards induction, where you say,
+look, if we ever got to that stage, here's what they would do.
+So what do I want to do at that point?
+What do you want to do at that point?
+And then, once you know, just work your way backwards.
+So the immodest answer is that if you've got any finite game of complete and perfect information,
+and there's no ties in the payoffs, then any game becomes dominant solvable.
+So remember, at first, dominant solvability sounds like something that hardly ever happened.
+And this says that as long as we've got perfect information, it always happens.
+What's the difference between complete and perfect information?
+It's a very picky distinction in game theory.
+I'm not going to worry about it.
+If you're really interested, you can go and Google it.
+Now, this implies, for example, that chess, which is a finite game of perfect information,
+it has a solution.
+There is an answer to chess.
+And the answer is either white always wins, black always wins, or it's always a stalemate.
+Now, what in fact is that answer?
+Nobody knows.
+Because the computer that would be required to actually solve this game
+would require more resources than exists in the universe.
+I think there's some efforts in there.
+The number of combinations of chess is so big.
+When I first heard this, I said, chess isn't finite.
+And then I actually did.
+Here's the rule book.
+It is finite.
+Because basically, if either things don't change or they cycle for a sufficient number of turns,
+then it's a stalemate.
+So actually, chess does have an upper bound on the number of turns that can happen.
+And then again, we have that centipede game.
+So the centipede game, let's see.
+Wait a second.
+I see what I did.
+I reversed the order of the two games in the notes.
+That was bad.
+So I already talked about the centipede game.
+So here is simple extensive form and its normal form.
+So here we've got the extensive form from Krebs.
+Just go and take a look at the normal form.
+So this little one on the right.
+And then you can say, well, let's see.
+So here we have what?
+Yeah, yeah.
+So you can't say that either U or D is going to be strictly dominant for player one.
+And then for player two, you can say that left is weakly dominant but not strictly dominant.
+So then we can't actually solve this using strut dominance.
+But if we go and map it out using the extensive form, we can use backwards induction.
+And we can say, well, look, if player one does U, then he'll get 2 for 2, 2 for 2 for sure.
+He plays D, then player two can either do little r or little d.
+And if player two is choosing little r and little d, what is he always going to do?
+Well, does he want 3 or 0?
+Would you like to have 3 or 0?
+3.
+So player two will always do little l.
+In which case, player one can say, well, if I play D, I'm going to get 1 instead of 2.
+So in that case, player one will always play U.
+And then we find out that the equilibrium is actually 2, 2 using backwards induction.
+All right, so anyway, so if there was confusion, it's because I just mixed it up.
+So 2, 5 is on the next page and 2, 6 is on the first page.
+Those should have been transposed.
+All right, so questions about that?
+Questions?
+By the way, so using these methods, chess was not chess, checkers was solved.
+So checkers has been solved.
+I don't remember what the answer is.
+But since checkers is a much simpler game than chess,
+they just waited until they got a computer big enough to do every possibility and then brute force.
+And then you learn to fight.
+Just do every possibility and then do backwards induction and then you got it.
+Does that make sense?
+All right.
+Okay.
+All right, now we move on to something that is more,
+at least in my view, more interesting.
+More, let's see, what's the right word?
+So, it's more profound.
+Even if it's wrong, still there's something deeper about it.
+So, that is the pure strategy Nash equilibrium.
+All right, so you guys know who John Nash was?
+So, here's a guy with so much wrong in his life
+that after a movie is made about his life,
+then he's killed in a free car accident.
+Right, so, if you redid the movie,
+then obviously you would change the scene.
+You'd change it, and then after everything else,
+then he dies in a taxi.
+But, anyway, so John Nash,
+the subject of the biography of Beautiful Minds.
+The movie diverges heavily from the actual autobiography.
+So, I do have a paper where I talk quite a bit about
+what the book actually says,
+which is very different from the movie.
+But, it says, my paper on the economics of mental illness.
+So, if you're curious about that,
+the divergences are quite interesting.
+There's numerous direct quotes from Nash
+that directly concordate a bunch of things in the movie.
+But, yes, stuff that would annoy people to bring it up.
+That's, you can't annoy people when you're a professor.
+Why are you in this business?
+You don't want to.
+All right, so the pure strategy Nash equilibrium.
+So, you can only get so far
+with strict dominance type reasoning.
+Right, and then backwards induction
+seems really cool at first,
+until you realize it's only for gains of perfect information.
+And, remind me, in the real world, again,
+when do we have perfect information?
+Never, yeah.
+Even in chess, you could say,
+you might actually have forgotten what's on,
+what the pieces are.
+You might throw in attention,
+think that the queen is a horse,
+or a knight, and then you've messed up.
+Right, so even there, it's like, oh, wait, oh my God,
+I didn't see that you had the queen there.
+Don't, right?
+So, or like, maybe there'll be a terrorist attack
+in the middle of your chess tournament,
+and then it turns out that it would have been better
+to have lost and gone home, and then missed the attack.
+So, there's lots of complexities.
+So, even chess, an actual game of chess,
+not a theoretical game of chess,
+because no one has ever actually played
+a theoretical game of chess.
+This always happens in the real world.
+All right, so anyway,
+so very few interesting situations,
+or I'm gonna go out on a limb and just say,
+no interesting situation, actually is perfect information.
+All right, so anyway, this leads us to a totally different
+and kind of counterintuitive concept of equilibrium,
+which is the pure strategy Nash equilibrium,
+named, of course, after John Nash.
+Okay, and this brings us to one of the abbreviations
+that you must memorize.
+All right, so the first abbreviation you must memorize
+is PSNE, which stands for pure strategy Nash equilibrium.
+Okay, a set of player strategies
+is a pure strategy Nash equilibrium,
+if and only if no player could do strictly better
+by changing strategies,
+holding all other players' actions fixed.
+All right, so that is a seemingly straightforward sentence
+that's really hard to understand,
+so let's try to work it through with some examples.
+So, to find out whether something is a Nash equilibrium,
+what we need to do is, you know, like suppose,
+like we're saying, like, is the seating in this room
+a Nash equilibrium?
+So, first thing to find out, start with Tucker and say,
+do you wanna change your seat,
+holding constant where everyone else
+in this room is sitting?
+And if you say no, good.
+All right, now you.
+Peter.
+Peter, Peter.
+Do you wanna change where you're sitting in this room,
+holding constant where everyone in this room is sitting,
+including Tucker?
+No.
+All right, now do you wanna change where you're sitting,
+you know, holding constant where everyone else
+in this room is sitting, including Tucker and Peter?
+And so, we go to every single person in this room,
+and if there's a single person who says,
+yes, I would like to change my seat,
+then we don't have a Nash equilibrium for seating.
+But, if every single person actually,
+I'm saying we have, if there's not a single one of you
+wants to change your seating,
+holding constant with everybody else is doing,
+then we've got a Nash equilibrium.
+Actually, Peter's seat's looking pretty nice right now.
+Yes.
+Yeah, what?
+Go for it.
+Don't, don't, don't.
+I was like, you'd ask.
+All right, now, this, like, at first,
+the first idea's like, well, yeah, well, of course,
+like, everything would be.
+But, the answer to that, the truth is actually,
+that's not necessary at all.
+Something could have, first of all,
+just when you think about the definition a little more,
+something could have multiple pure strategy
+Nash equilibria quite easily.
+Like, suppose you show up and you find that someone
+is in the seat you were gonna sit in.
+What is the normal reaction of people at this point?
+What is your reaction?
+Just find a different seat.
+And then, you're sitting in the seat
+someone else was gonna sit in.
+And what do they do when they show up?
+They sit in another seat.
+And pretty soon, you've thrown off
+the entire civilization of this room.
+But, life goes on, and everybody just sits
+in a different seat, and 10 minutes into class,
+you've probably forgotten about the whole thing.
+And we just have a new seating equilibrium.
+And if that first person is sat in a different seat,
+that probably would have led to a whole different
+set of chain reactions.
+So, there could be, there could be millions or billions
+of different pure strategy Nash equilibria for our seating.
+I have to go and do, go back to the permutations formula
+in probability to find out how many different ways
+we could rearrange ourselves in this room.
+But, if you remember what that formula's like,
+it comes, you know, factorials appear.
+And therefore, it's an enormous number
+of equilibria that we can get.
+All right.
+So, that is a way in which we'd have multiple equilibria.
+It's also possible that we could have zero equilibria.
+There could be zero equilibria.
+What would that be like?
+Well, suppose that there is one person
+who smells really bad.
+All right.
+So, that person sits down.
+And what does everybody, what does everybody
+within a four seat radius of them want to do?
+Move.
+Move.
+All right.
+So, but then suppose that the person who smells bad
+gets lonely very easily.
+All right.
+All right.
+So, after everyone has created a, what's the French word?
+You know, a cordon sanitaire, something like that.
+Oh, yeah.
+Yeah, yeah.
+A sanitary cord around that person.
+That person says, well, I'm lonely.
+And they move close.
+And then what do the people that are now
+in the smell zone do again?
+They move away.
+And then the smelly person moves closer to them.
+And we could have a whole class consisting
+in nothing but a smelly person chasing the other students
+around the room.
+Without ever actually, people,
+the people ever actually finding their seats
+or coming to any stable seating equilibria.
+That's totally possible too.
+All right.
+So, we've already learned something interesting
+about pure shagging and ash egg delivery.
+Like, there could be an incredible number.
+There could be none.
+But then a lot of times it seems like there's one.
+At least one, right?
+All right.
+So, and then sometimes it seems like there's really
+only one that you could ever imagine.
+And other times it seems like there could be a lot.
+And other times when you think about it,
+like there could be totally different ones,
+but it would be a lot of effort to switch over.
+Like, for example,
+suppose you're in a country where most people speak
+Yiddish or German,
+and you've got some ideological problem
+with the German language.
+What may, and then there's like,
+well, we can all switch to English.
+That would be super practical.
+Yeah, but let's not do that one.
+Let's do a dead language instead.
+Let's do Hebrew.
+All right.
+And that's what happened in Israel, right?
+You got a big population.
+Yes, you have a big population of refugees
+where the language or the most commonly spoken language
+would have been German.
+And then the language that would have made the most sense
+was English.
+But then there's people saying,
+now let's revive a dead language.
+It's never worked yet.
+And they did it.
+All right.
+And now, what are the odds that Hebrew stops being
+the language spoken in Israel?
+Seems very low.
+And the people move there, like,
+all right, I guess I've got to learn
+this formerly dead language.
+Different alphabet, different grammar.
+All right.
+And really, if you want to do much else in the world,
+you've got to learn English anyway.
+Thanks a lot.
+But this is what the scientists did to us.
+And we're like, yeah, we're here.
+All right, so.
+You're gonna make us think, scientists.
+So that's an example where,
+well, you can't,
+you're like, at the point that Israel's starting,
+you're saying, all right,
+there could be a bunch of different languages.
+I can see several different national equilibrium
+emerging here.
+It's like, that's the one that emerged?
+But then once it emerges, you're like,
+well, I guess it's just gonna stick around.
+All right, so that would be another example.
+Where, you know, so,
+whereas like right now,
+there's not any active conversation in the US,
+like, what's our language going to be?
+So it's just gonna be English and whatever,
+whatever fears people have,
+it's not gonna be something else.
+Like so.
+All right.
+So that's the basics of Nash Equilibrium.
+Right, you know, so I got one other example
+of Nash Equilibrium.
+So when I was in fourth grade,
+there was a weird present exchange system,
+where first of all,
+every kid had to go and bring in a present,
+and then the first kid went and randomly picked a present,
+and the second kid goes and he randomly picks a present,
+and then he decides if he wants to get the present
+he randomly picked,
+or does he want to do a forced exchange with the first kid?
+Right?
+And then, you know,
+and then there's a rule that forbids the looping,
+so you aren't allowed to just cycle through.
+And, but anyway, so like as it proceeds,
+there's one present open that every kid wanted,
+which is magic sand.
+All right, this is a really fun toy,
+and I actually managed to somehow win this.
+But it's a magic sand,
+it's sand, you pour it into water, it holds its shape,
+and then if you drain it out,
+then it dries out, and then you can do it again.
+But anyway, this was the most popular present.
+So any time that a kid got another present,
+they would go and try to swap it out for the magic sand,
+and then whoever got the magic sand taken away from them
+would go and get another present, and so on.
+Right, and again, here's one where,
+at least it looked like there might not be any equilibrium,
+because people would just keep trying
+to go and get the preferred present by doing the swaps,
+and people would try to cycle through.
+I think the cycling was only prevented in one round,
+so it was possible to just cycle through.
+So in the end, I think that it didn't happen.
+Maybe the teacher tried to say,
+no, no, you can't go and take the magic sand,
+because you already had the magic sand once.
+All right, so now let's go and take a look
+at a few different examples.
+All right, so let's see.
+So let's start with this one here,
+where player one can do up or down,
+player two can do left or right.
+All right, and I will actually write this down.
+So we've got up or down,
+we've got left or right,
+and then we've got,
+say, pay us out to 15, 10,
+15, 10, seven, and six, eight.
+And how do we check for Nash equilibrium?
+We gotta go to every single equilibrium
+and see whether either player wants to switch
+or it costs what the other player's doing.
+All right, so we take a look here.
+All right, so if we're here,
+does player one wanna switch?
+No, it's holding constant what player two is doing.
+He would go and get 10 instead of 15,
+so he doesn't wanna switch.
+But how about player two?
+If player two were to switch
+holding constant what player one is doing,
+he would get 15 instead of 10, right?
+So that's not an,
+this cannot be a pure strategy Nash equilibrium,
+because one of the two players wants to switch.
+What if both players wanted to switch?
+Could that then be a pure strategy Nash equilibrium?
+No, if one or more people wants to switch,
+then it's not good.
+All right, now over here.
+So over here, you can say, let's see.
+So if we were here,
+then would player one wanna switch?
+And let's see, if player one were to switch,
+then he would get six instead of eight,
+so he does not wanna switch.
+If player two were to switch,
+then he would get 10 instead of 15,
+so that one looks good.
+All right, now we go over here.
+Again, why do we not stop once we find one?
+It could be multiple.
+Because there could be multiple, exactly.
+All right, totally possible.
+So we go over here,
+and we say, would player one wanna switch?
+Definitely, because he'd get 15 instead of 10.
+That's not good.
+And we're over here.
+We say, would player one wanna switch?
+Definitely, because he'd get eight instead of six.
+So then we're down to an equal.
+All right, now, so that's what we solved,
+what we solved for the pure strategy Nash equilibrium.
+Now, how does this differ from strict dominance?
+And let's see, I believe the answer
+to this problem is it doesn't.
+It's two different ways of getting the same answer,
+so let me just double check that.
+So let's see, player one.
+Yeah, so up is strictly dominant,
+because 15's better than 10, eight's better than six.
+So player one would never wanna move down.
+And then player two, let's see, 15's better than 10,
+so he'd never wanna do that.
+So yeah, so this brings us to a key truth,
+which is that if something is strictly dominant,
+then it's automatically the Nash equilibrium.
+All right, now, if you go take a break,
+and you can hand in homework right here,
+and then we will return in 10 minutes.
+Can you get the door, please?
+Sorry, hello?
+Door, door, please.
+All right, so we just went through one normal form
+and found, no, we just went through one normal form
+and found the pure strategy Nash equilibrium,
+and now we'll try another one.
+Now, here we've got the same possible strategies.
+Here we got up, down, left, right,
+and now the payoffs are different, right?
+So if you take a look at this one,
+here we can go and take a look,
+and so could up, left be an equilibrium?
+Then you will see no, that it's not possible,
+because player one would wanna switch to down,
+and player two would wanna switch to up,
+so it's not gonna be 10, no, it won't be 10, 10.
+Could, it's not gonna be up, left, could it be up, right?
+And you take a look at that, and you say,
+well, yeah, that's possible,
+because if player one switched,
+he would get negative five instead of zero,
+so that's worse for him,
+and if player two were to switch, let's see,
+then if player two were to switch,
+then he would get 10 instead of 15,
+so that's worse for him, so that's gonna be zero, 15,
+and now we're done, right,
+because we found the Nash equilibrium.
+Wrong, right, we have found one.
+There could be more, right?
+So then we move on to, to down, left,
+and there we see that we got 15, zero,
+and that turns out to be another one,
+and then finally, if we take a look at down, right,
+that's negative five, negative five,
+so that one's never gonna happen.
+So it turns out we've got two Nash equilibria there,
+two Nash equilibria.
+All right, oh yeah, I'm sorry,
+I forgot you had a question right at the end of break.
+Oh, it's not a problem.
+I'm just curious why I finished two games
+with the pale blue theory.
+Oh, well, that's partly a joke,
+but if you've ever known someone who did two PhDs,
+I've almost never known them to say
+it was the best decision I ever made.
+It's more like, ugh, why did I do the real PhD
+the first time?
+Why did I have to do the second one?
+So yeah, this is what I said.
+Yeah, so there are a few careers
+where you might wanna have a law degree and a PhD,
+but very few where you wanna have two PhDs.
+It's just so much work,
+and the marginal payoff is quite low.
+But the other thing is remember that
+if you can regress or something using your PhD,
+you could also become an expert in a second thing
+without having to actually get credentialed.
+In terms of your job,
+it's not like there's a special department
+of economics and politics,
+so you're either being one or the other.
+So there's just very, very little benefit to you
+in terms of your career.
+And in terms of your enlightenment,
+you don't have to actually,
+you don't really need the credentials.
+I was gonna say, I know a guy
+who got to the end of a PhD program,
+never finished it,
+and then went to another PhD program
+for a different subject,
+got to the end of that,
+and never finished it.
+Yep, and his baby.
+Well, so in my education book,
+I talk about the Sheepskin Effect
+and how most of the payoff for education
+comes from crossing finish lines,
+and I'm guessing that he didn't get too much out
+of either PhD.
+How did it work out for him?
+He's being nominated for the President of the World Bank.
+Oh, so can you do it?
+All right, that sounds like it.
+So what degree did he have
+that he was able to,
+was it a bachelor's degree?
+He had a master's.
+Oh, he had a master's.
+So he really would have become President
+of the World Bank with a master's.
+Yes, and none of it was in economics.
+I mean, that's the whole point of averages.
+Sometimes people do way above average.
+Did you have a question back there?
+No, no, no, no.
+Oh yeah, yeah, oh, sorry, yeah,
+so you first?
+Yeah, just about the game we just went over
+is are both of those outcomes,
+15-0 and 0-15, pure strategy analysis?
+Oh yes, yes, yes, so that's all that we're looking,
+and actually, if you're wondering
+what is this pure strategy thing,
+it's easier to explain when we see
+what is not pure strategy,
+which is coming right up.
+Let's see, oh yes.
+So when there's more than one pure strategy analysis
+in a bachelor's program,
+that implies, or let me rephrase it,
+if there's only one,
+that implies that the word doesn't matter,
+like whoever goes first in the game doesn't matter,
+you're always gonna come up with the same strategy.
+So like it's here, like,
+Well, hold on, so actually we're gonna see
+that there could be equilibria
+that are not pure strategy,
+so that's not necessarily true.
+Because with this 15-0 and 0-15,
+the only, like, who goes first
+is gonna determine which one of them you get, right?
+So you can take one person going first is given,
+and there's only one. Sure, sure, right.
+But there's also, for example,
+it could be simultaneous,
+and then you're like, well then what's gonna happen?
+And as we're gonna see,
+a lot of it depends upon expectations.
+So people think that 0-15 is gonna happen,
+then that's probably gonna happen.
+People think 15-0 is gonna happen,
+that's probably gonna happen,
+just like if everybody thinks
+people are gonna be speaking Hebrew, right,
+then you'll learn Hebrew,
+but if you thought it was gonna be English,
+you'd be learning English.
+All right, now here's a third example.
+Oh yeah, so let's see,
+oh, there's one other thing on the two PhDs.
+Oh yeah, I think I was actually thinking
+of a class by Dana Prince
+who actually had been a math professor.
+He not only got a PhD in math,
+he was a math professor,
+but that was so competitive
+that he just gave up and went to econ grad school
+and became an econ professor.
+I never heard of what happened to him,
+but I mean, it can't be worse
+than what's happening to him in math,
+because math, he's like,
+he could only be like a junior college teacher,
+and it's terrible for him.
+So I'm like, why is that?
+Because math is an incredibly competitive field,
+because there's way too many smart people
+who think it's the only thing in the universe worth doing,
+and way too many who are almost totally unresponsive
+to incentives, who do anything,
+like work for minimum wage
+as long as they can be math professors.
+So I kind of had him in mind.
+Was there one other question there?
+Yeah, so if third one picks down,
+third one picks right,
+when will it end up in negative five?
+Let's see.
+Yeah, well, yeah, so the whole point is just
+that that is not a Nash equilibrium.
+But that'll be worse, I mean,
+that'll be worse off, though.
+Yeah, yeah, so, yeah, so,
+which is a further bad thing you can say about it.
+But yeah, so, but, so,
+like, it wouldn't be only,
+they'll be worse off,
+but also it's not a Nash equilibrium.
+All right, now here's the third one.
+This is, once again,
+exactly those payoffs from the French connection game.
+And if you take a look at this,
+you'll notice that there is no actual
+pure strategy Nash equilibrium.
+Because if we're an on-on,
+then who wants, then the criminal wants to switch.
+If we're an on-off, then Popeye wants to switch.
+If we're off-on, then it's going to be,
+you know, Popeye wants to switch.
+And if we're off-off, then the criminal wants to switch.
+So that is a case just like the one
+where there's the, you know,
+there's the malodorous student,
+the malodorous but social student
+who chases people around the room, who flee.
+And so that is, you know,
+so that example where there is no,
+where there is actually no pure strategy
+Nash equilibrium at all.
+Now, P, S, and E, these four letters are found throughout modern economics.
+So it's probably the most used in not only game theory but modern economics.
+If you read any theory paper, odds are very good that it will be Nash equilibrium that
+they are discussing.
+Sometimes they will go and say, well it's a perfect Bayesian equilibrium, but that is
+a subset of Nash equilibrium.
+So they're still talking about Nash equilibria but with some additional constraints on top,
+but it's still Nash equilibria.
+So Nash equilibria are all over modern economics.
+Okay.
+Let's see.
+Now, oh yeah, let me just, since I brought up a beautiful mind, here is, so in the movie,
+not the book, but in the movie, they have one of the worst examples, one of the worst
+applications of Nash equilibrium I have ever heard.
+And if you, once you understand the concept and then you hear Russell Crowe explaining
+it like he's a genius, when actually he's completely confused and what he's saying makes
+no sense.
+So, you know, like, it's a beautiful thing.
+But anyway, the basic setup is that there's Russell Crowe and four less attractive mathematicians
+at a Princeton bar.
+And then they look at a group of four female students, one of whom is obviously better
+looking than the other three.
+And then Russell Crowe explains that in equilibrium, the most beautiful woman will be completely
+ignored.
+And like, explain.
+And he's like, well, I'm a genius here, so, you see, if we all were to go and ask out
+the most attractive one, then we would block each other and she'd say no to all of us.
+And then none of the other one would be considerate because no one wants to be second choice.
+And so, therefore, the only equilibrium is one where we all go and approach the less
+attractive ones and ignore the most attractive one completely.
+And all the mathematicians are like, oh my God, Nash, you've solved it.
+All right.
+All right.
+Checkmate, Tinder.
+I think it was actually five females, so there might have been five women in Nash and three
+lesser mathematicians.
+The lesser in every respect.
+Male mathematicians, because this is set in the 1950s.
+Okay, so anyway, now, what would be a, like, I mean, anything would be a better Nash equilibrium
+than what he's proposing.
+But what would be, like, the most obvious equilibrium, I mean, it's hit.
+There's Russell Crowe and there's a woman who also looks like a movie star.
+And then there's a bunch of other people.
+So what seems like a reasonable equilibrium to you?
+Russell Crowe tells that story to his friends.
+Yeah, I'm sure it doesn't matter.
+Does he need the story?
+Can he just, oh, I'm Russell Crowe.
+I'm from West Virginia.
+In this movie, when you go out with me.
+Yeah, so, yeah.
+So yeah, like, the most obvious one would be what could be called, like, an A through
+Z pairing where, like, the two A's go out with each other, the two B's go out with each
+other, the two C's go out with each other, the two D's go out with each other, and then
+the straight E is alone.
+And that's an equilibrium.
+So that's one that seems pretty plausible, right?
+So anyway, so you could easily have gone and explained Nash equilibrium in a reasonable
+way, but instead it had to be this weird one where, like, strangely everyone ignores the
+most eligible woman in the bar.
+Which I'm assuming sounds like exactly the opposite of Nash equilibrium.
+Wouldn't one person say, wait a second, everyone's ignoring her, so I won't.
+So anyway, terrible application of Nash equilibrium.
+All right, so anyway, so PSNE is the most commonly used solution concept in not only
+game theory but all of economics.
+It's a little bit weird because it does kind of seem to assume away strategic interaction,
+which is the whole reason why we switched over to game theory is to have strategic interaction.
+All right, you think it's like a more strategic player might deliberately switch to something
+that isn't Nash equilibrium, hoping to get the other person to then go and do something
+else, which then through a series of transitions will lead to a really good outcome for yourself.
+That's what brought some problems.
+Yeah.
+So did that actually happen in the movie, or?
+Well, you got the other teenagers to go for the lesser.
+Yeah, but I think that she was ignored, you know, so completely.
+He left to work in a theater.
+Oh yeah, he left to work in a theater.
+That's a nice thing to say.
+So, yeah, so, yeah, so, yeah.
+So, yeah, so, yeah, so, yeah.
+So, yeah, so, yeah.
+So, yeah, so, yeah.
+So, yeah, so, yeah.
+So, yeah, so, yeah.
+So, yeah, so, yeah.
+So, yeah, so, yeah.
+Okay, all right.
+Now this brings us to the strangely neglected concept of the mixed strategy Nash equilibrium.
+So this I'm going to claim is actually the most empirically useful thing that you're
+likely to hear about game theory.
+Although it's often not used, and again, why?
+Because mathematicians feel dirty to go to use it, because it doesn't solve things in
+the way that they like to solve things.
+However, in terms of understanding the world, it's great.
+So, let's see. All right.
+So, once you start talking about
+the idea of a pure strategy Nash equilibrium,
+it suggests the possibility of something else.
+A mixed strategy Nash equilibrium.
+So, pure versus mixed,
+which is the other kind of Nash equilibrium.
+Every Nash equilibrium is either pure or mixed.
+All right. So, the idea.
+Instead of asking whether anyone
+is incented to change strategies,
+you ask them whether there's any incentive
+to change the probability of playing different strategies.
+And then we look for equilibrium not in what people do,
+but in the probabilities.
+So, that's the idea that we're looking for
+a stable set of probabilities of playing different things.
+Or you think about this, you think about it as
+a stable distribution of
+different strategies in a population.
+Another way to think about it.
+So, first of all, mathematically,
+how in the world do you solve for
+a mixed strategy Nash equilibrium?
+And to do this, you need to find,
+find what probabilities each player has
+to play to make everybody else indifferent.
+Because we only have an equilibrium if everyone's
+indifferent doing the mix that they're doing.
+Otherwise, people want to vary their mix.
+And then, when they vary it,
+that will change things again.
+All right. So, let's see.
+Here we've got, since we're turning the game,
+I think actually we can do this one.
+But, so consider this game.
+This is one where we got payoffs for up left,
+8, 10, for right, 1, 15,
+for down, 12, 0, and for right,
+negative 5, negative 9, negative 5.
+So, to find the mixed strategy Nash equilibrium,
+we need to first find out when is player two
+indifferent between playing left and playing right.
+All right. So, maybe we can do it either way.
+Let's start figuring out what does player one
+have to do to make player two indifferent?
+What do you have to do to make him indifferent?
+And what we need to do is this.
+Okay. So, let's see.
+So, if player one plays up with probability sigma,
+and plays down with probability one minus sigma,
+then when player two is going to be
+indifferent under what circumstances?
+Well, let's see. If player two goes and plays left,
+then he's going to get 10 with probability sigma, right?
+Because that's, there's a probability sigma that player one plays up.
+And then he's going to get zero with probability one minus sigma.
+We want to find out when that's equal to
+the payoff that he gets from doing the other one, right?
+So, if it's right, then he's going to get 15 with probability sigma,
+but he's going to get negative five with probability one minus sigma.
+Okay. So, that's what it takes to make player two indifferent.
+Okay. Now, you've probably seen problems like this in
+algebra one and say, it's great.
+All right. And all it is,
+one equation, one unknown.
+So, what do we get? Sigma equals 0.5.
+Now, we're only half done. All right.
+So, now we need to go and figure out what does
+player two have to do to make player one indifferent.
+And for that to occur,
+let's go and say that five is going to be the probability of left,
+and then one minus five is the probability of right.
+Okay. So, now we go through here and we see that a player one,
+player one will be indifferent.
+So, he will be indifferent between playing left,
+and or rather, rather playing up and playing down,
+but eight times five,
+times five plus one times one minus five,
+equals 12 times five minus nine times one minus five.
+Okay. And again, if you're wondering where we get the payoffs for,
+so these first ones come,
+so these are the payoffs that you'll get from playing up.
+So, you get eight with probability five,
+and one with probability one minus five.
+All right. So, we're just reading off player one's payoffs from the first row.
+And then for the second part of the equation,
+we're reading off player one's payoffs from the second row.
+So, eight, one, 12, and negative nine.
+And we go through that, and we find out that five is going to be equal to five-sevenths.
+Therefore, the mixed strategy Nash equilibrium for this game will be
+sigma five equals 0.5 and five-sevenths.
+There we are. Okay. And here's the key point.
+If we're there, neither player will do better by changing their mix.
+Since each player has made the other one indifferent,
+neither one will be better off by changing.
+Now, would either be worse off by changing?
+Would either player be worse off if they unilaterally changed?
+No, they're indifferent.
+So, here is where it's key that Nash equilibrium just builds in.
+You have to have an affirmative incentive to deviate.
+You can't just be indifferent.
+So, this is set up where they are both indifferent.
+Right? And there it is.
+Now, a lot of people find mixed strategy Nash equilibrium totally bizarre.
+And it's usually like, well,
+why do people sit around trying to make other people indifferent?
+Has anyone ever said, you know what I want to do?
+Make my opponent indifferent.
+And the other guy says, wow, what a coincidence.
+I want to make you indifferent and you want to make me indifferent.
+So, how weird. All right.
+So, I say, you know, like this,
+that's really, really not a good way of thinking about it.
+I'd say the better thing about it is when you make your opponents indifferent,
+you're eliminating behavioral,
+you're eliminating behavioral patterns that they could exploit.
+Okay. So, think about applying this to sports.
+Suppose you always hit the ball to the far outfield.
+In that case, where should all of the people on the other team go?
+To the far outfield.
+Right? Like I remember when I was a kid and I was not much of an athlete.
+This probably surprised you a lot.
+Anyway, so when I come up,
+everyone crowds in because they know I'm not going to be able to hit the ball very far.
+All right. Now, I just wasn't actually able to hit it any further,
+at least without putting in more effort and initiative than I was going to do.
+So, but if I were able to go and vary where I was putting it,
+if I always put in the front,
+then people will go to the front,
+which means I'm likely to get out.
+So, I actually want to go and do the opposite of what they expect.
+But of course, if they know that you're trying to do the opposite of what you're expecting,
+then the natural thing for them to do is just to spread out.
+Right? And once you have spread the different things you're trying to do,
+and they have spread the different things that they're trying to do to counter you,
+then you have as an indirect result,
+each made each other indifferent.
+So again, the main goal is not really to wake up in the morning and say,
+how can I make other people indifferent?
+The main goal rather is to eliminate exploitable patterns in your behavior.
+And you can see this in a wide variety of sports,
+like anytime, any game like tennis,
+where there's a player that always hits the left,
+he's always on the left side of the court,
+you just sit on the left side of the court and the ball comes to you.
+Right? And then someone who's coaching that person says,
+stop always sending it to the left, you dummy.
+Go and randomize a bit,
+mix it up so that your opponent cannot just be sitting there to instantly return the ball.
+All right. So predictable player is easy to beat.
+Right? And of course the same goes in warfare.
+Right? Which again, has a lot of similarities to sports if you think about it.
+So if you always say,
+if you always do a frontal assault,
+then people can organize their forces to be ready for frontal assault,
+and then it's going to be highly ineffective.
+On the other hand, if you always wake them out,
+then they'll just be ready for you to always wake them up.
+But if you mix it up,
+then they're going to have to go and prepare for
+a wide variety of different strategies.
+They're going to burn up their resources,
+trying to deal with lots of different scenarios.
+And this actually is going to improve your prospects for winning,
+because they won't have been able to deploy the perfect strategy for whatever you do.
+Instead, they're going to have a bunch of
+imperfect strategies for a bunch of possibilities,
+and then you're going to wind up choosing one.
+Right? Or of course the same goes for strategy games.
+Right? So like if you always attack in the same place in a strategy game,
+then your opponents want to concentrate their forces right there,
+build fortresses and mines and everything else,
+and then you're not going to win.
+Whereas if you are unpredictable,
+then you would sometimes circle around.
+Of course, if you always circle around,
+then they just figure out what's optimal to do to someone who always circles around.
+Right? Now, have you ever played a game called Diplomacy?
+One of my favorite games.
+This is a simultaneous move game,
+where if you know what the other player is going to do,
+it is very easy to win the game.
+And therefore, if you are a predictable player,
+then you're easy to beat.
+So once when my kids were little,
+I went and said, tell you what,
+you can have five countries,
+I will have two, but you move first,
+and I'm still going to beat you.
+And I played so well, they didn't want to play again for years.
+Now, it's one of the favorite games,
+but something to keep in mind when you're teaching kids new games is,
+they need to win at least some of the time,
+in order for them to realize what a good game it is.
+So, the best thing to do.
+So, you can either just lose on purpose,
+I don't like that, or you can just handicap yourself more.
+So, there's that. All right.
+Or in another example, so there's the game Rock, Paper, Scissors,
+which you probably played a bunch of times.
+Now, if there was ever a person who always played rock,
+it's really easy to beat that person.
+You just always play paper.
+Right? There is actually a big,
+a big national or international Rock, Paper, Scissors tournament,
+and there are some people who do predictably win this tournament.
+So, at least the final,
+a predictable, predictably finalists.
+So, there is something going on that seems pretty amazing.
+So, you think that the worst you could do would be to tie with the world champion, right?
+Don't you think you could at least beat the world champion half the time?
+Why wouldn't you? Why couldn't you?
+It seems like it would be pretty easy.
+Probably, if all you did was just roll a bunch of dice beforehand,
+and then do your strategy based on the dice,
+then it seems hard to believe that you could beat him more often chance.
+Can you really go and read the face of that's a guy who rolled a three,
+which in his playbook means paper?
+Maybe there is a person who's that
+insightful to other humans that they knew.
+But it's like, whenever he's playing paper,
+he blinks twice. All right.
+Anyway, although if you are playing someone and they appear to not be randomizing,
+if you know they're smart,
+then you might start worrying maybe he's deliberately
+appearing to create a pattern just to trick me for the final round.
+Wow, this is really tough. Yes. So, there's that.
+Or to take something really relevant in the real world,
+just how about how hard you bargain?
+There is a popular view that smart people bargain hard and dummies bargain easy.
+Right? Do you know anyone who's just a constant hard bargainer,
+and whenever you offer them,
+they just try to squeeze a little more out for themselves?
+It's like my younger son, just like that.
+No matter how generous the offer is, it's like,
+hey son, how about we go and take you to Disneyland and get you
+all the cotton candy and churros you want.
+Then it's like, will there be honey mustard?
+Like, what kind of honey mustard?
+It's like, ah. So, yeah.
+And so, now, he may think this actually is a good strategy,
+but I will just say,
+knowing more about the world than he does,
+there's a lot of opportunities he doesn't get offered because we know that he's so grasping,
+that he's so hard to please,
+that it's like, well, we could take him there and it'd be more fun than he was doing.
+Yeah, but then he would go and try to bargain for four more things,
+and I don't feel like listening to him bargain for four more things.
+So, he doesn't get it.
+So, now, he has heard this theory,
+and he has actually seen a lot of evidence because we said, look,
+when you are mature like your older brothers,
+then you can do anything you want at all.
+Your older brothers, do we ever tell them what to do?
+No. Do we ever punish them?
+No. They can do anything they want.
+Of course, we only say this because we know that the anything they want are
+all true things so it's not really an issue.
+But, so there is something a little bit misleading about the,
+when you're mature you can do whatever you want,
+but at that point you won't want anything that is bad.
+So, it's a great system.
+But, when we told them, look,
+when you're like them, you can do whatever you want.
+You can play video games whenever you want.
+You can stay up whenever you want.
+It will be completely up to you once you're as mature as they are.
+How do I accomplish this?
+So, I can stay up all night playing video games.
+But, anyway, so that's a game example I know of a hard bargainer.
+Here's the thing, when people bargain hard,
+there are advantages like you can get more for yourself if a deal still occurs.
+However, there's also the risk that you kill the deal.
+And those are the trade-offs.
+On the other end, if you're a soft bargainer,
+then you can almost always get to a deal,
+although the deals that you have will be relatively unfavorable.
+Okay. All right. Now, which strategy works better in equilibrium?
+And the mixed strategy and national equilibrium answer is neither.
+In equilibrium, they must be equally profitable.
+So, we need to get to probability such that
+the extra benefits that you get from
+bargaining hard are exactly balanced by the reduced probability that you get to a deal at all.
+On the other hand, for the soft bargainers,
+you get to a world where the loss and benefits that you could get from
+bargaining harder are exactly compensated by the extra deals that you get to make.
+So, that is the idea.
+All right. Now, let's see.
+So, questions about that? Questions? All right.
+Now, I would say in general,
+a rule is that the more people understand the world,
+I mean, my view is that people who understand the world are generally softer bargainers,
+and that hard bargainers have the naive view of the more I ask for,
+the more I get, which is often true.
+But they're forgetting the downside risk of alienating people,
+either preventing a deal or there's actually like the really bad thing,
+like you suppose you go to your boss and you say,
+look, here's what I want.
+Double the salary, I want your office,
+and you just make a bunch of demands,
+and then the worst you can do is say no.
+Actually, there's something worse that could happen.
+You could say, you're fired.
+You're crazy. I don't want to deal with you anymore.
+So, there's the risk of something really bad happening from being a hard bargainer.
+Right? So, think about Hitler.
+How did hard bargaining work out for him in the end?
+Worked out really well for a while actually,
+but then he said, you know,
+I just want Russia to get,
+I just want Russia for free right now.
+Right? And so, he didn't bother asking.
+I'll scrap it. No, it's going to work out.
+Everything always works out for me.
+It did not work out for him.
+Yes. So, let's say yes.
+Obscuring a movie like it was big in his time, Excalibur.
+Right? So, yes. King Uther's father,
+like his king was crumbling in Merlin says,
+you know that, you killed your enemy.
+You stole his castle. You took his wife.
+Now, no one trusts you.
+Right? Great point.
+Well, that seems very unfair.
+I was just trying to be a winner.
+It's not really a winning strategy overall.
+Now, you can also think about this in terms of a population distribution.
+So, imagine that there's a world of nothing but hard bargainers and you show up.
+So, all these hard bargainers,
+whenever they encounter each other,
+each one goes and ask for 60 percent of the pie,
+and if both people want 60 percent,
+then what happens every time?
+No deal. No deal because you can't get 120 percent.
+So, if you are the one person who shows up in this world,
+what kind of bargainer do you want to be?
+Do you want to be tough to survive in a tough world?
+No. No, you want to be a wuss to go and be the only person who runs a successful business.
+You want to go and get 40 percent of the surplus with every other person in the society,
+and you will be fabulously wealthy very quickly in a world where you're the one person who bargains out.
+So, and of course this means that say people are emulating more successful strategies,
+then people say, you know the one guy who says yes when people offer him an unfair deal,
+he's super rich, I'm going to be like that guy and I'm going to switch over.
+And then eventually of course you get to a world where both strategies are again equally profitable.
+Right. Or just to get a bit ahead of ourselves,
+so you may have heard that index funds outperform managed funds in the stock markets.
+Now there's at least some evidence that they outperform even ignoring management costs,
+but they definitely win county management costs.
+Now since index funds were first introduced,
+they have had this consistent advantage for about 50 years,
+and what has happened to the share of index funds in the market over time?
+It's gone from zero to like 40 percent of the markets.
+All right. We still don't see the reach equilibrium for index funds.
+But eventually, one day in the long future,
+when the sheer counter-intuitiveness of indexing has been overcome.
+Writing of my dad, like he indexes,
+but it just doesn't make any sense Brian.
+It's a crazy world where people who do plan lose out to people who don't plan.
+And then every time there's actually clear logic to it,
+because if it were predictable,
+then everyone would know it,
+and then you save money on the cost.
+Then it's just like, just doesn't make sense.
+So, we've had this conversation so many times.
+But anyway, once, so anyway,
+there's a point where like suppose we're up to like 99 percent index funds.
+At this point, there's hardly anyone that is actively trading stocks.
+And at this point, maybe you will be the first person who hears that there's
+a frost coming to Florida oranges and you should go and dump your rewards futures.
+So, there is a point where eventually index funds are going to equate accounting,
+management costs, but so far we haven't gotten there yet.
+So, equilibrium can take a long, long time to happen.
+Especially if the equilibrium is so counter-intuitive,
+which I say, say look,
+you know the best way to get rich in the stock market?
+Ran just buy and hold a random sample of stuff.
+That's your theory. If someone told you that were a general strategy to life,
+you know the best way to get the best groceries?
+Just go and buy a random sample of groceries and it'll be great.
+It isn't. You know how to make kids happy?
+Buy a random sample of toys.
+No. So, it is counter-intuitive,
+but as you probably heard,
+there is this whole random walk story which explains what and why makes sense.
+Okay. All right. So, questions.
+All right. So, now another nice thing about mixed strategy Nash equilibrium is it
+cuts through what you call the Gordian knot of second guessing and third guessing.
+So, again a lot of people look at that criminal Popeye game and they say, well look.
+So, if the criminal thinks,
+the Popeye thinks that he's going to get onto the subway,
+then the criminal won't get on the subway,
+which means that Popeye will also not get on the subway,
+which means the criminal will get on the subway,
+which means the Popeye will,
+which means the criminal won't.
+You may notice you could do this forever. Yes.
+I haven't seen the French Connection.
+What actually ended up happening?
+Well, the criminal got away at the last minute.
+He got away at the last minute.
+He did like a sudden,
+he ran to another door and then Popeye chased him,
+and then the guy waited for the doors to close and he leapt through.
+So, that's what occurred.
+Yes. Yes. Yes.
+Dammit. Yes. All right.
+Yeah. So, we're like, if you may have heard from Austrian economists,
+the Sherlock Holmes Moriarty problem,
+it's exactly the same thing, right?
+Because it's like, so, will Sherlock Holmes go to Moriarty's town?
+Be it a Moriarty knows Sherlock Holmes is going to do that,
+then he won't go to the town,
+but if Sherlock Holmes knows that he's not going to be there,
+then he won't go, and so on.
+So, you can sit there going and doing the pseudo reasoning,
+and then finally elementary Watson.
+After seven rounds of iteration,
+Moriarty was going to be right next door.
+But if Moriarty knew this,
+then he wouldn't be next door.
+That's eight, we're doing seven.
+Okay. So, there's something really bogus about solving this through logic,
+but it's totally reasonable to solve it with probability.
+So, we say, look, here's the solution.
+The probability, 50-50 chance,
+the reach in each place, so 50 percent chance,
+the great Sherlock Holmes is right, 50 percent chance he's wrong.
+It's like, wow, so Sherlock Holmes manages to be as good as anyone.
+Yeah. But I've got a lot more words to describe my 50 percent success rate.
+So, that's better.
+Okay. So, anyway, you think about all of these layers of
+thought as being a randomizing device like throwing dice or cards or whatever.
+It's all a game anyway.
+So, whatever way you choose to do it.
+Now, in things like sports,
+I think that people who are good at it will tell you that they can actually tell you,
+look at telltale science what you're going to do.
+It's like the way you shift your feet or whatever,
+at least if it's a novice.
+Although it's two experts playing each other,
+it is probably back to the world of,
+Lord only knows what's going to happen next.
+You saw the movie, at least in the movie version of Moneyball,
+I don't remember the book, Brad Pitt doesn't even bother going to the World Series.
+He said, at this point, it's just a toss-up.
+Like I've gone and influenced all the things that I'm systematically able to influence as a team manager,
+and now I don't even feel like watching the game because I know that at this point,
+it's just a toss-up. All right.
+So, questions? So, anyway, mixed strategy and equilibrium.
+I say this is actually something that is genuinely useful.
+By the way, I don't say that lightly because there's
+a lot of stuff in this class where I teach it to you because you're supposed to know it.
+But even at the time,
+I was like, that seems kind of lame.
+Then over time, definitely lame.
+When was this ever really used?
+It's still silly.
+Again, especially it drives me crazy when someone who knows
+the three facts about historical episodes says,
+I'm going to use gay theory to explain why things had to work out this way.
+Like, oh really?
+You've read the Wikipedia stuff on these events,
+and you're now going to shoehorn the little you know into some stupid model?
+Come on. I'm going to explain why Hitler had to invade the Soviet Union.
+Yeah, I'm really good. I really want to hear this one because I just read a book based
+on all the archives and I know,
+and so like, in the secret stuff,
+there's like, he's just writing for himself,
+and he's not thinking about what anyone else is ever going to say.
+And here's what he actually said.
+And here's a part where he changed his mind,
+then he changed it back, and it had nothing to do with any of the stuff you're talking about.
+So you're crazy. You're wrong anyway.
+Like, certainly arrogance.
+Like, shouldn't you go and learn a lot of facts before you say you figured out
+why the facts had to be the way they were?
+I know I did. All right.
+Of course, one great way of seeing whether people who claim they've got a model,
+but explain the facts, can predict anything at all.
+Yes. So, as you know about the world,
+well, you may not know him as the greatest political psychologist of all time,
+but he is, Philip Chatlock.
+So he's got multiple great books.
+So his famous one is Super Forecasting,
+where he actually has forecasting tournaments and find out who is
+genuinely good at forecasting and who is not.
+And then he had another book called Expert Political Judgment,
+How Good is It Now Can We Know,
+where he found that political experts greatly overestimated their ability to predict events,
+especially ones that were controversial among fellow experts.
+Right? And then, if you've ever heard the adage,
+often wrong but never in doubt,
+yeah, that described those people.
+That's just disgraceful.
+All right. I've got two great books which will give you
+an idea of what it's actually like to know something.
+Namely, if you can predict things before they happen,
+which is what prediction is.
+Okay. So, questions? Yes.
+What's the Hitler book called?
+The-
+The Hitler book you were referring to.
+Oh, so this is actually the new Stalin biography.
+So this is Kotkin's Stalin biography.
+Also, he's got like every scrap of paper that Stalin had.
+Everything. But then he's also got plenty of the Hitler archives too,
+that he's able to go and interweave.
+So it's like at this very moment,
+Stalin was planning the invasion of Finland.
+Hitler was saying, let's go and do this.
+And it's like, so. I mean,
+the book's amazing because if you know a lot of the other history,
+there's many mysteries where you can only surmise what was occurring up till now,
+because no one else had the archives,
+or at least no Western historian writing a book in the archives.
+But then when you see the archives, it's like,
+oh my God, the story is even weirder than I'd ever imagined.
+It's so, it's so complicated.
+And you know, like, the standard question is,
+how could Stalin, a man who was one of the most paranoid people who ever held power,
+who executed people for looking at him funny,
+how could a guy like this get double-crossed by Adolf Hitler,
+one of the most notorious liars in the history of politics?
+And the answer is,
+Stalin was so paranoid,
+he didn't, he thought the warnings were lies.
+So, when the warnings are coming,
+the Stalinist keep saying, yes sir, comrade,
+Hitler is going to double-cross me here against all his interests.
+This is British intelligence you are spreading.
+And there's only one possible explanation for why you're spreading British intelligence lies.
+I'm an idiot? Perhaps.
+Or perhaps!
+So, it's full of stuff,
+like documented facts that are so weird.
+And finally, when you see what was really going on,
+it's like, oh my God, I just can't believe what the real story is.
+It's so much more interesting.
+And if there had been someone who had tried to say
+what a rational choice model was going on before they read the book,
+all they could really do is, they could either say,
+I can't believe what Stalin wrote to himself.
+Like it's just a giant diary of lies.
+He was paranoid that people were going to read his diary.
+So like that.
+Or, I think people would probably do,
+which is go and cherry-pick the ten facts, the two-figure story,
+and ignore the hundred ones that don't,
+and then say total vindication.
+Anyway, so mixed strategy on the other hand,
+I will say does actually fit a lot of what's going on in the world,
+and you can use it in a wide variety of areas.
+So there is some question about,
+are people really that good at randomizing?
+So that's sort of the main problem,
+is can people really randomize as well as dice?
+So maybe when people try to eliminate predictability in their behavior,
+there's still a lingering element of predictability,
+but still just understanding strategic thinking,
+and how you, like so many problems,
+you don't want to be predictable,
+and also so many problems where you see the survival of a wide range of strategies,
+that all last.
+So in the real world we see hard bargaining strategies lasting,
+soft bargaining strategies lasting,
+we see them all coexisting,
+and working out for some people.
+Alright, so questions?
+Alright, then let us move on to sub-deeper faction.
+Right now this is all purely hypothetical,
+I'm not going to do any of this stuff to you guys,
+but suppose, just suppose,
+that I was so insecure,
+that I could not bear to have a student leave my class early,
+suppose this bummed me out for the whole next week,
+and I'm like, oh my god, a student left.
+So like, there's something more important in someone's life than this class,
+can't deal with it, and then I say, I know,
+I will fail any student that leaves early.
+Alright, now since you are PhD students,
+this class probably matters to you,
+so if you really believe that I would fail you for leaving early,
+probably this would mean that you would never leave early.
+Which is good news for me, because if no one ever leaves early,
+I never have to impose the punishment.
+Which is, why is that such good news for me?
+Well, of course I'd be making a lot of enemies,
+but on top of that, if I did impose the punishment,
+there'd probably be consequences for me.
+Because if I failed you for leaving early,
+you probably wouldn't go and just accept it as,
+well, the professor said that, that was his rule,
+so now I've failed, and that's it for a year of my life,
+and maybe my whole career, because I was late to one class,
+I left one class early,
+instead you would probably go to Dan Hauser, chairman,
+and you'd complain about how I'm a psycho,
+and then he would go and call me up,
+and Dan's a really nice guy, he says,
+Brian, I heard a strange story from a student.
+A student said that they left one minute early,
+and you failed them, failed them for the entire class,
+and at that point I could go and I could guess why,
+but then Dan would probably look into it more,
+or I could say, oh, yeah, I didn't realize
+that you would be bothered by that, Dan,
+sorry, I'll reverse my decision,
+or I could go and say, I'm the professor,
+the chairman has no authority here,
+and I refuse, absolutely refuse, to count out
+to your nappy-pappy ways, I could tell him that,
+but then that would make my life worse,
+and if Dan took my side, the student might go to the dean,
+and we're like, this could all blow out of control,
+but notice, if you believe my threat,
+and then you don't leave,
+then probably nothing will ever happen,
+because if you go to Dan and say,
+Kaplan threatens to bail people if we ever leave early,
+he's like, well, has he ever done it?
+No, well, come back to me if it ever happens.
+That's probably what his reaction would be.
+Okay, so anyway, so this makes,
+so in Nash equilibrium terms, this seems okay,
+because if I threaten and you believe me,
+then you will not leave early,
+and if I can impose the threat,
+and if the threat doesn't cost me anything to actually make,
+because I never have to impose the punishment,
+then I have no reason to withdraw the threat,
+so you have no reason to actually defy my rule,
+I have no reason to change the rule,
+seems like a Nash equilibrium, right?
+Okay, I get what I get, no cost to me,
+and you'd rather sit in class than fail.
+Okay, but there does seem to be something
+very weird about this prediction.
+Seems like an implausible prediction,
+because you think that I wouldn't actually
+carry out my threat, for all those reasons I just told you.
+All right, so how can a threat that you know
+I would never carry out actually change anything?
+That again seems odd.
+If I say, you know what, I'm about to,
+everyone listen up, I'm gonna make an empty threat now,
+are you ready for the empty threat?
+Here's my empty threat.
+All right, why would that change anyone's behavior?
+You know, empty threats generally don't even
+change the behavior of small children.
+Once they realize it, it takes about five minutes
+to realize your threats are empty,
+that's why my threats were carried out.
+All the other adults in my kids' life
+make empty threats, I'm the one person who does not,
+which makes my life a lot better.
+Of course, sometimes it makes other people's lives worse,
+because then they just go and ask the other person,
+so they're like, so if they want to steal candy,
+they go steal candy from somebody else.
+All right, well, I didn't say I would do it
+if you sold it for anybody, I said you could steal my candy.
+I would go and impose the threat.
+Okay, so anyway, how can an empty threat
+change behavior?
+Sounds bizarre.
+I'm gonna turn this car right away,
+and we're not going to Disneyland.
+All right, so classic parental threat.
+Maybe in history, there have been a few parents
+so mean as to turn the car around, whereas I would do
+something more like, as a result,
+there will be only one dessert at Disneyland.
+Right, now that sounds like a threat you might carry out.
+Right?
+It's like, only one dessert, no fair.
+Too bad, you're gonna have to live with one dessert.
+No desserts, that sounds too mean.
+Like, one dessert.
+It's like, well, how many was I gonna get?
+As many as you want, kid.
+Too bad, you're gonna have to live with one dessert.
+It was like unlimited dessert, but now it's one.
+You still have a good day at Disneyland,
+but it could have been way better.
+And that's a credible threat.
+Right?
+And you know, so like, why would you have another?
+Well, I still feel like a good dad.
+I took my kid to Disneyland, I got him dessert.
+What more does he want?
+It's more than I ever got when I was a kid.
+You know, you beg for dessert.
+I lived in a sugar-deprived household.
+Like, anything with sugar in it disappeared
+almost immediately.
+Like, ravenous wolves would descend.
+Sugar!
+Right?
+Okay.
+All right.
+So.
+Right, anyway.
+So this is a technical name for the effectiveness
+of empty threats.
+It's called the problem of out-of-equilibrium play.
+So which is, I can optimally choose bizarre behavior
+that's in situations that I know will never happen,
+but knowing what I would do in situations
+that never happen can, according to Nash equilibria,
+actually change what does occur.
+All right.
+Now, many people think this is a strange prediction,
+and so this gives rise to a refinement
+of Nash equilibria,
+which is called the sub-gain perfect Nash equilibria.
+The sub-gain perfect Nash equilibria is just add SGP,
+and yes, we can have SGP, PSNE, and SGP, MSNE.
+Those are all fair acronyms.
+All right, so SGP, PSNE, SGP, MSNE,
+sub-gain perfect pure strategy Nash equilibrium,
+sub-gain perfect pure strategy Nash equilibrium,
+all fine.
+Okay.
+All right.
+So the idea of this is that it requires Nash play
+in every sub-game.
+So we have to say, look,
+imagine we get to the scenario of empty threats.
+What would really happen in the empty threat scenario?
+Well, the whole idea of the empty threat
+is the empty threat would not be imposed.
+All right, then.
+So when people are planning out what they're going to do,
+rather than accepting the empty threat
+as a possibility,
+they're just going to take it for granted
+that, well, it's an empty threat.
+It'll never happen.
+So let's put in the empty threat payoff.
+How bad is it if your dad threatens
+to not take you to Disneyland and then takes you anyway?
+Seems pretty, basically fine, right?
+No big deal.
+All right.
+All right, so.
+Now, if you want to check for sub-gain perfection,
+you apply backwards induction as far as you go.
+And so if it's a game of complete and perfect information,
+then there's really no difference
+between sub-gain perfection and backwards induction.
+But on the other hand, if it's not a game of perfect information,
+then you just need to find all the Nash equilibrium,
+all the sub-gains,
+and that's as far as you go, and plug that in.
+All right, now there's a classic example
+which is motivated by that great place, the real world.
+So it's a great place to think about.
+And as I said, even when I am teaching you
+otherworldly theory in this class,
+I'm always hoping that we will keep the real world
+in the background.
+So, you know what I mean?
+The worst case scenario is we learn something
+that is totally irrelevant to the real world,
+we master it while remembering it is irrelevant
+to the real world.
+And then for other stuff, like, well,
+A-Z, you know, you can't do that.
+You can't do that.
+You can't do that.
+You can't do that.
+You can't do that.
+You can't do that.
+You can't do that.
+You can't do that.
+And then, when we finally hit upon something that we could really use, try to point that
+out.
+Of course, you can always dispute about that.
+How useful is it?
+But, again, of course, even to dispute the real world usefulness of something, you must
+think about the real world.
+And that is all for the good.
+Possibly I'm just an anti-theory philistine, always bringing up this real world thing.
+But, you know, it's where I live.
+I agree tower, I'm a subset of the real world.
+So one of the main applications of game perfection is what's called the entry game.
+So in the entry game, we basically picture two scenarios that I like to go with.
+There are two firms.
+One of the firms is going to be an entrant.
+So there's an entrant, and the entrant can decide to either go in or out of a market.
+And then, if the entrant stays out, then the incumbent has a nice monopoly.
+So the entrant gets zero profits, and the monopolist gets a good profit, say, 10.
+On the other hand, if the entrant goes in, then the monopolist has two options.
+He can either fight the entrant, or he can accommodate the entrant.
+So he can either go very competitive and try to punish the entrant, or he can just go and
+say, fine, I'll have to share the market with you.
+So in the scenario where there's a fight, then say both firms will have losses.
+So they compete down to marginal costs, say, their fixed costs are negative 10, so they
+both lose 10.
+Then on the other hand, in the accommodation scenario, that's one where they share the
+market, and then say they each get payoffs of, what, 4-4.
+So the total output's out, so total profits are less, and they each split them.
+Now, in terms of just regular Nash equilibria, there are actually two Nash equilibria in
+this game.
+So one, there's one equilibria, which is out-fight.
+This is one where the incumbent makes an empty threat to fight if the entrant enters, and
+then the entrant says, oh, I made an empty threat, I'm not entering.
+So that's one ending it.
+Why is this a Nash equilibrium?
+Because given that the entrant is staying out, is there any cost to the incumbent of
+making the empty threat?
+No, so like anything, there's no cost to anything.
+On the other hand, given that the incumbent has said, well, he has plans, I'm going to
+fight if you come in, then as long as the entrant believes the empty threat, does he
+want to enter?
+No, because if he stays out, he gets zero, it's a negative 10.
+So that is a Nash equilibrium where each one believes what the other, each one holds constant
+what the other one's plans are, then they want to stick to their plans.
+There is, of course, the other equilibrium, which is an accommodate.
+So that's a perfectly good equilibrium, too.
+So if the firm goes in, then the incumbent wants to accommodate, and if the entrant expects
+accommodation, then he definitely wants to go in.
+So these are two Nash equilibria, so they're both Nash equilibria, but only one is subgame
+perfect.
+How so?
+Well, the subgame perfect one requires to first go and figure out what will happen if
+this situation occurs.
+So if the entrant does play in, what will occur?
+Well, what will the incumbent actually do in that scenario?
+He'll accommodate, because he'd rather get four than negative 10.
+So in that case, we can just go and erase that as a viable possibility, and then the
+entrant isn't looking at the downside.
+Now the entrant's saying, I can have zero or four, what do I want?
+I'd rather have four.
+So in that case, the entrant's still saying, that's what I'm going to do.
+So this one is just a regular old Nash equilibrium, and this is a subgame perfect one.
+So they're both Nash equilibrium, but that is the one that rules out NP threats as having
+an effect on behavior.
+Yes, please.
+Would the figure 12.5 have a subgame perfect equilibrium?
+Let's see, 12.5, let's take a look.
+Let's see, so 12.5, oh yeah, yeah, yeah, definitely.
+So in that one, we can take a look and see that player two is definitely going to do
+left, and if player one knows he's definitely going to do left, then he'll do up.
+Yeah, absolutely.
+So that is a game of perfect information.
+So you can solve the backwards induction, which means it definitely has a subgame perfect
+Nash equilibrium.
+And in fact, as long as there's no ties in the payoffs, there's a unique one.
+There can only be one, because it comes where we go to the end of every tree and we erase
+everything except the one thing that happened.
+And we do that all the way up the tree until we're down to just one branch that goes a
+very definite way.
+Yes, over here, please, over the corner.
+Let's see, was out fight, so out, yeah, actually, the way that it's set up is that if the ender
+plays out, the other things don't even happen.
+So the incumbent doesn't actually even have to play those things.
+So you should think about fight and accommodate, these are hypothetical responses.
+What would you do if there were an entrant?
+Yes, so that's the best way of thinking about everything in these normal forms, is if this
+thing happens, then what's your plan for that?
+And again, so, the standard thing for a well-run military is they have a lot of contingency
+plans.
+It's like, what if Britain double-crossed us?
+So in the 1930s, the US did have a contingency plan for what if the British decide to sneak
+attack the US.
+All right, now, a normal form is even more extreme than just having a big file, tons
+of files, full of contingency plans.
+A normal form is one contingency plan for every conceivable situation in the universe,
+which again, of course, no one really does, but that is the basic structure of a normal
+form, is a contingency plan for every single conceivable possibility.
+And again, as I was saying, even possibilities where you could say that the whole model rules
+out will never happen.
+Well, we'll have a contingency plan just in case.
+The thing that never happens, happens.
+And again, if this just seems really weird to you, it seems like...
+I mean, to me, every time I explain it, it seems even stranger than the last time that
+I explained it.
+And the only way to really come to grips with this is realize these are mathematicians or
+wannabe mathematicians who have come up with this.
+And mathematicians love the idea of having a complete contingency plan for every conceivable
+possibility.
+That sounds really cool to a mathematician.
+Whereas to a more practical person, they would say, why not just have plans for the things
+that have one in a million chance of more happening and then forget the other ones?
+And then the mathematician might have a daffy duck, a fallacy.
+All right?
+So then the reaction will be like, oh, that's all you care about, things that happen.
+Well, very profound.
+Yes, please.
+Maybe I'm just missing something on 12.5, but if player one knows that player two will
+always choose left, then why wouldn't he choose down where his payoff is three as opposed
+to if he chooses up, his payoff is three?
+Let's see, so hold on, repeat that please.
+If player one knows that player two will always choose left, then why would it not be the
+case that player one chooses down where his payoff is three?
+I mean, oh, excuse me, I was reversing the payoffs.
+You're a dad.
+You're absolutely right.
+You're a dad.
+You're a dad.
+Yes, you're a dad.
+Yes, yes, yes.
+What I said is exactly wrong.
+Yes, so that is absolutely correct.
+I was just mixing up.
+It was one and two, which is excusable.
+Just because I did it in class doesn't mean you can do it on a test.
+Yes, you get partial credit, which is all I can give myself now.
+All right.
+So questions about subgame correction?
+So as we go on, we're going to talk about cases where maybe you would be able to actually
+make what seems like an empty threat into a viable threat.
+As you might, a clue you might get from my own self-description.
+So if you had people who were saying, you'll never do that, that's an empty threat, what
+might you do to change their minds about whether it's an evaluated?
+Do it.
+Do it.
+Do it.
+And they're like, there's no way you're going to do that.
+I just did it.
+All right.
+And then they're like, well, they know what you do a second time.
+They do it a second time.
+This guy is terrible.
+I hate him.
+And then the third time it comes up, maybe the stuff that's an empty threat for everyone
+else is real for this person.
+Man, I never had to deal with an adversary like this before.
+So you might try something like that.
+OK.
+Or another version of the serverless enemy game that I was showing you where the game
+perversely ends immediately, even though there's all of these opportunities for both sides
+to profit if you make the game last longer.
+Again, in the real world, if I were player one, I would just go and cooperate.
+The other guy would just say, what's wrong with this guy?
+He just cooperated when it was clearly in his best interest not to.
+What was he trying to pull?
+And then they're like, hmm.
+Well, I mean, if he understood the game, he wouldn't have done that.
+So maybe I should try playing a few more rounds with this guy and see what happens.
+And there are models where just the small probability that your opponent misunderstands
+the game, which can lead to a lot of cooperation in a world where you could have no cooperation
+if there were certitude about both players understanding the game.
+Or of course, you get the same result if you said, maybe there's a small chance my opponent
+is just a nice person.
+It's hard to believe, but what if there's a small chance that this person is just genuinely
+nice?
+Well, I don't want to go and stab them in the back right away and ruin all the opportunities
+that I could profit from playing with one of these genuinely nice people.
+Instead, I want to keep the game going and then stab them in the back right towards the
+end.
+That would be what I do to the nice guy.
+And of course, both sides might say there's a small probability the other person's a nice
+guy.
+And then at the very end, there's a sudden double crossing.
+And then it's like, ah, weren't really nice guys.
+No, of course not.
+Who is?
+I hate him.
+So that has been done.
+But once you see these models and how they play out under simple assumptions, you can
+start thinking about what you might do to actually get to a better result when playing
+with an actual human being.
+You'll get some old midterms, by the way, or old exams.
+Sometimes I actually do ask, after people have mastered what the game theory says, then
+I'll say, all right, so what should you really do to actually do well in this game?
+And in the real world, if you're actually playing as a human being.
+Or sometimes I will say, what would you do if you're really playing as a fellow student
+from a class versus, say, just a random person?
+And again, if you really understand the model, say, well, if I'm playing as another student
+from a class, then maybe I just have to rely on them.
+Maybe we would be stuck at double crossing each other.
+But a normal person wouldn't know this stuff.
+And so for them, maybe I could stretch the game out for a long time and make a great
+profit.
+All right.
+So now let's go over a few applied games.
+You've probably heard about some, but not all of them.
+So the first one that you've probably heard about a lot is the Prisoner's Dilemma.
+So this has got to be the most analyzed game in economics.
+I'm trying to think, like, how many economists have made their entire careers on doing slight
+variations of the Prisoner's Dilemma?
+I think there's at least 100 living economists who owe their careers to this game.
+All right.
+Of course, you can't just write another paper on the same game.
+You have to tweak it a bit.
+But still, an enormous number of people have built their careers on this.
+And even to this day, you can still go and do experiments on the Prisoner's Dilemma and
+get tenure on that.
+Again, it takes a lot of originality to come up with an experiment nobody's done before,
+but it can be done.
+So here's the standard representation.
+So you've got two people who can either cooperate with each other or not.
+They decide this independently.
+If they both cooperate, then they both get a pretty good payoff of, say, six.
+If one cooperates and one doesn't, the non-cooperator does great.
+And the person who did cooperate gets a terrible payoff.
+And if they don't and neither cooperates, then they both get a pretty bad payoff.
+So the basic set of the Prisoner's Dilemma is that you both get the second best payoff
+if you cooperate.
+If you cooperate and the other guy does not, then you get the worst payoff.
+But he gets the best payoff.
+And if, on the other hand, you both fail to cooperate, then both of you get the third
+worst payoff.
+That's the setup.
+So when you're dealing with this, the natural solution to what people refer to is for dominance.
+Player one's better off not cooperating no matter what player two does.
+Player two's better off not cooperating no matter what player one does.
+Therefore, as night follows day, neither cooperates.
+At least this is what most theorists would tell you.
+Most theorists would at least know, oh, yeah, by the way, that's not what you really do
+in experiments.
+But then there's like, oh, what's going on?
+All right, so, all right.
+Now, the Prisoner's Dilemma has a lot of applications.
+And even though it fails experimentally, you can still say it's one of these models that
+gives a lot of insight even though the prediction is too strong.
+All right?
+So people use it to understand public goods and externalities.
+Why is it that it's so hard to voluntarily supply public good?
+Well, there's a Prisoner's Dilemma story.
+So what happens to you if you voluntarily contribute to the public good and it still
+doesn't get produced?
+You wasted your time.
+What happens if you voluntarily contribute to a public good and it does get produced?
+You wasted your time because it would have happened without you.
+All right?
+So that's, you know, a standard story about public goods and externalities.
+And again, like, isn't it possible that what you do makes a difference?
+Yeah, if you like, your contribution is the crucial one.
+You tip the scales of the world.
+That's pretty hard to believe.
+Okay?
+Collusion, another standard case where people have applied the Prisoner's Dilemma.
+So if you have all the oil producing countries in the world all together in a meeting, what
+is their common interest to do?
+Race prices.
+Race prices restrict production.
+And yet, it is so hard in the real world to make that occur.
+Right?
+Because if you say, let's all just cut our oil production by a third, then there's a
+wide variety of reactions you get, all of which make it really a pain in the neck.
+There's the cheesiest one of all, which is everyone in the room says, absolutely, yay,
+cut one third.
+Everyone says, absolutely, I solemnly swear.
+And the second they're out of the room, they whip out their cell phones and start calling
+their best clients saying, now, you may have heard that prices are going way up, but not
+for my very best customers.
+I have a super special discount for you, but don't tell anyone.
+And everyone's doing that.
+And then once you've locked down your own customers, then you start calling up your
+competitor's best customers and saying, I've heard that you're facing an enormous price
+increase.
+I think that's very unfair.
+I think you deserve better treatment than that, and I would never treat you that way.
+So you do that.
+All right.
+So that's one thing that happens very dangerously with any kind of collusion.
+All right.
+Of course, in the real world, there's some people who are cheating and some people that
+don't.
+Some people that don't come away saying, what just happened?
+I did everything right.
+I tried to starve the peasantry, and then I lost money.
+And these other horrible people who maybe just grew more food so that everyone would
+have enough.
+Oh, my God.
+I don't want to live in a world with people like those farmers who lie.
+So there's that.
+But then even if everyone is above board, if you say, let's all cut our production by
+a third, there are some people who say that's a pretty good deal, but there's other people
+who are probably going to say, no way, that's a terrible deal for me.
+What kinds of firms do not want to cut their production by a third?
+What's that?
+Yes.
+How about new firms, which before the collusion had went, were rapidly increasing their market
+share?
+And you're like, so I have to cut to one third of what I'm currently doing, and then I can't
+increase anymore?
+Say, no, no, no, no, no.
+Here's what we should do.
+It should be based upon trend.
+And say, look, my trend was to go up to 100%.
+So I should cut one third relative to what I was going to be doing.
+Right now, if you are a large, successful firm, you're going to say, no, we're not going
+to give you credit for doing the anti-social thing that you were going to do anyway, that
+you claimed you were going to do.
+And say, I deny you were going to expand anymore.
+I say that you would reach your upper limit, and that was the end of the line for you.
+So anyway, these are all prisoners of limits scenarios where every colluder would like
+to be the one firm that doesn't collude.
+And then you get all these customers.
+And there's high prices and lots of customers.
+But if all firms think this way, then of course collusion cannot work.
+All right, voting.
+So if you believe that for some reason, and again, this is one where I am more and more
+mystified as to how anyone would think this.
+But you thought it was good just to have high levels of voting, regardless of how you're
+going to vote.
+I can see people saying that some kinds of voters are good and some are bad, and we should
+encourage the good voters and discourage the bad voters.
+That makes sense to me.
+And something that would horrify most people is the thing that I say is obvious.
+And on the other hand, the thing that I don't understand is someone saying, wouldn't it
+be great if everyone voted?
+What if Nazis voted?
+That would be better.
+What if like if senile people voted?
+That would be better.
+Like why is it better if they vote?
+Like wouldn't it be better if they didn't vote?
+Then decisions would be made by people who know something and don't want to kill other
+people.
+That seems like a better world.
+I do hate democracy.
+I like democracy.
+True.
+Well, I'm flexible.
+If someone says they could go and have done a coup d'etat against Hitler, and I wouldn't
+have been there, my reaction would have been, but will it work?
+Not.
+But isn't this undemocratic?
+Well, yeah, it's undemocratic.
+So what?
+It's going to save millions of lives.
+For what?
+Anyway, that's me.
+If you're curious about this perspective, Walser and Hayson Redding has a great book
+called Against Democracy.
+I've just explored these subjects.
+There's a less controversial one called The Ethics of Voting, where he tries not to really
+accept people.
+And then there's the subsequent follow-up, a much better one.
+The first one's good.
+The next one's awesome.
+It's against democracy.
+Anyway, so, but anyway, if you thought the more people voted, the better, then again,
+you might say, well, voting is like a British Jerusalem, because we all want to have high
+voter turnout, right?
+Let's just say we do.
+In that case, but no one individual has any appreciable effect on turnout, so therefore,
+you want other people to vote while you stay home and relax, right?
+And then this will apply to revolutions.
+So the late Gordon Tullock has a whole book on the theory of revolution, which just begins
+by saying, look, suppose there really were a revolution that were going to be great for
+most people.
+It still would not be in the interest of most people to participate, because either the
+revolution's going to see, with your help or without it, because you're not, the most
+important, you're not a crucial individual, probably.
+Like, almost certainly you're not a crucial individual.
+But if you participate in the revolution, you're risking your life.
+And if you don't participate, you're not.
+So again, it would seem like the prisoner's lemma says that everyone will stay home for
+the revolution.
+Now, Gordon Tullock is one of the rare people who actually basically bit the bullet, and
+he just said, look, the kinds of revolutions that you read, that you hear about, from,
+in civic textbooks, simply do not occur.
+And every revolution you think that you've heard about that is the people rising up against
+tyranny is actually another group of power-hungry people who want to replace the existing people
+with their own power-hungry selves.
+All in the name of the people and so on, but that's the real story, is it's just a fight
+between rival elites, and then there's a fig leaf of the public who really could bit on
+you.
+are not important. And that's the true story.
+All right. Now, if you, again, this is one where you know a lot of history revolutions.
+Here I will say Tulloch makes a pretty good point. He overstates. But the more you study it,
+the more you realize that the idea of all the people of a country hated the current leader
+and they rose up to overthrow it. That's never happened.
+Again, there is some tendency for people who are unpopular to get overthrown more.
+But it's not like the simple story of the people hating the other.
+There's always a big chunk of the population that thinks the current system is good,
+or at least better than the alternative.
+And also, it's very unusual for there to be a revolution without there being some group of people
+who were already kind of in the wings as a rival elite, who were angling to become that new elite.
+So, again, like, one of the most recent cases of a revolution that people painted as the people
+rising up against a hated dictator, the Egyptian revolution.
+So, Horrible Mubarak, he's ruled Egypt for 30 years.
+Apparently he doesn't have a friend in the entire country.
+Right? Everyone hates this guy.
+And, like, how do we know? Well, there's a bunch of people rioting in the streets.
+Well, what percentage of the people of Egypt are rioting in the streets?
+Several.
+Yes. Under 1% of the people of Egypt are actually rioting in the streets.
+Alright. So, maybe the very biggest protests, but also notably safe protests,
+might have had a bit more than 1%, but it's a small number of people.
+And then, who suspiciously was leading the protests?
+Is it just like your grandm- like, the Egyptian grandmas, like, other people?
+Other, like, fruit stand vendors, a bunch of people who had no prospect of getting to replace Mubarak?
+Now, the people that are leading it are the Muslim Brotherhood and a number of other groups,
+all of which have been wading the wings saying,
+wouldn't it be great if Mubarak weren't in charge so we could be?
+And then, it would be so great for everyone, right?
+Especially our enemies.
+We have many, many enemies, including people in this money little business, but they're our enemies.
+The copper Christians. My God, they're really getting me mad.
+Why? Because they're backing the guy that doesn't want to kill them.
+Alright, so, I may be slightly oversimplifying, but there is some, there's some little trues in this version.
+Right? And, and then you see, and at first, like, key players.
+Egyptian military, and at first, they're like, hmm, let's sit with Mubarak, our buddy.
+And they're like, hey, he's too unpopular, let's throw him to the dogs.
+Now let's try to work something out with the Muslim Brotherhood.
+And then they try that for a while.
+No, these guys, they're bad, they're crazy, and they might try to kill us.
+Like, has that ever happened? That, like, a revolutionary group adopts some moderate,
+some moderates as temporary allies and then throws them to the wolves, like, yeah, yeah, there's a bunch of times that's happened.
+Like, wait, do we still have the upper hand? I think we do.
+Okay, let's kill him!
+Alright, and then you've got that, so that's the Egyptian revolution in a nutshell, which, again,
+there is something to do with public opinion, but, you know, like, strikingly,
+there is one last giant massacre that occurs, that ends, that ends the revolution.
+More people were killed in that one than in Timan Square, if I remember correctly.
+It's like a big bloodbath by the standard of protestor bloodbaths, but it's still a
+couple thousand people out of a country of what, like, what's the population?
+70 million, something like that?
+All right, so it's not the case of people ready to die.
+There was one Egyptian immigrant who worked for Facebook who was there at the protest
+and said, I'm ready to die.
+I think he survived just fine.
+He got out one day.
+He got out before the blood started.
+Possibly he actually had, he changed his mind about it.
+I don't know.
+I didn't check.
+But that's what we've got there.
+So that's the application of prisoners of the Soviet Union to revolution.
+Plenty of other ones, of course, like how come the dishes in the sink and the work don't
+get cleaned up unless there's someone whose job it is to clean the dishes.
+Yes, please.
+Is there some difference between public good game and the principle of general activity?
+Like, for example, if you choose to not cooperate in the public good game, you are a free rider.
+But in the prisoner's dilemma, if you choose to not cooperate, we can't see you are a free rider.
+Well, in both games you could either do it anonymously or not, right?
+I guess in the prisoner's dilemma, if it's a two-person prisoner's dilemma, then the
+other player always knows.
+But there's also the end-person prisoner's dilemma.
+And, of course, we can also have a two-person public good game.
+So actually, in terms of the math, they're really the same thing, although they don't
+know the New Old Empire.
+You're right, it's more often that we think about the prisoner's dilemma being two people
+and public goods being a lot of people, but that's not necessary.
+Okay.
+Now, by the way, we have an economist here who actually has a voluntary solution with
+the public goods problem, and his idea was stolen by Kickstarter.
+Well, we don't know that it was stolen.
+Maybe they independently discovered it, but Alex Tabarrok, decades before, like 10 years
+before Internet commerce was even really a thing, much less anything like Kickstarter
+was around, Alex came up with the idea of the dominant insurance contract.
+And this just says, look, I'm raising money for public good, but here's the deal.
+You don't actually have to give me any money right now.
+All you have to do is give me your credit card number, and then if we get to the critical
+number of people we need to produce the public good, then your credit card swipes automatically.
+But otherwise, nothing happens.
+So basically, the setup in this dominant insurance contract is if you get enough people to contribute,
+then you pay, but you get.
+And if enough people don't, then you don't have to pay.
+And actually, there's a variant of Alex's thing where you entice people to sign up by
+saying, if it doesn't happen, then I'll actually give you 101% of your money back.
+Or it could be 110% of your money back.
+And in that case, you'll say, wow, either I get a public good or I make money.
+So not bad.
+Now, there are some extra assumptions that are built into Alex's model, such as you have
+to actually know people's true value for things.
+But nevertheless, it is basically the Kickstarter model.
+And I prefer the view that Alex was the original, because it was the original source.
+I could go proof of this, but it just seems like whenever a good idea gets out there and
+the first person I heard it from was one of my friends, that my friend deserves credit.
+All right.
+Anyway, like I said, there's a lot of experimental literature on the prison-office lemma.
+Extreme prediction very rarely borne out, because people do cooperate sometimes, even
+when the defection is strictly dominant.
+But people do leave money on the table, and there's a bunch of standard ways to reduce
+cooperation, things like make it more anonymous, reduce the level of contact between the people.
+I've heard of versions where you actually get people who have personal animosity playing
+against each other.
+So I've heard of a version where they actually had Israeli students play Palestinian students
+remotely.
+So you start with people who have a negative view of the other group, and yeah, as you
+might guess, you get less cooperation.
+Of course, flip side is there's some standard ways to raise cooperation.
+So if you want to get people to cooperate more, tell them to take out their phones and
+share pictures of their family members.
+And then you humanize your opponent, and this predictably does raise cooperation.
+All right.
+Now last.
+So there's no experiment, as far as I know, that's ever been done that's had people
+play for, say, a year.
+So it's common for experimenters to say, there's never been an experiment shown that
+cooperation goes to zero.
+Yeah, well, you've also never run an experiment lasting for more than a few days.
+So don't act like it's not that impressive to say there is no such experiment.
+When someone says no experiment shows this, worth asking, well, what experiment's been
+done?
+And you say, well, well, yeah, nothing that extreme has been done.
+So that's a surprise.
+All right.
+So we will continue with this next class.
+And as I said, so now remember, you're next over, and you have two weeks to do it.
+So you've got a little break.

@@ -1,0 +1,3577 @@
+Okay, so I'm around at least.
+If you've got questions about the museum, happy to take them.
+All right.
+So, where were we?
+Yes. So we've been going over the law hazard,
+and I was mentioning the great neglected topic
+of voluntary punishment.
+Like why can't you write a contract
+where you specify how you'll be punished
+if you break the contract?
+And why isn't a contract like that enforceable
+under Anglo-American law,
+which traditionally does not fit, right?
+And if you read the legal statements,
+it's even more confusing,
+because you'll just get some
+of the most question-begging comments like,
+well, it is not the purpose of the law to punish.
+This is the punishment that is least objectionable.
+This is punishment someone signed a contract
+and said they wanted to accept the punishment.
+And of course, basic compensating differentials,
+if a contract is very slanted against you, what does that do
+to the price you receive?
+Yeah, you get a better deal.
+So, if you say, you catch me playing Tetris,
+you can fine me $5,000.
+That makes it easier for you to get a high-paying job,
+because then people feel comfortable
+that they are not going to actually be playing a Tet,
+paying you to play Tetris all day.
+And as I said, Robin Henson has a chapter
+in his dissertation on this topic.
+I haven't heard anyone else doing anything more with this,
+even though it seems like an obvious and great idea.
+So, one day, someone in this class will take the idea
+and run with it, and this could be the year for this.
+All right.
+So, moving on.
+Adverse selection.
+All right, so we've already done moral hazard.
+Now, adverse selection.
+All right, this is a much more complex form
+of asymmetric information.
+Moral hazard is really very simple, right?
+It's just the idea, once you have insurance,
+then you're going to do, you're going to take more risks,
+do more on the way.
+If someone else is picking up the bill, then you're going
+to do more bad things.
+Like, no big surprise there.
+All right.
+But adverse selection is a little bit more complicated,
+and not really obvious at first to people what's going on.
+All right, so the basic idea
+of adverse selection, though, is you know what you are.
+You know the real you.
+But the world, however, does not know the real you.
+The world has to judge you based upon your superficial
+characteristics.
+What you look like.
+What you seem like on the surface.
+Which, of course, could be literal physical appearance.
+Like if I had a spider web face tattoo.
+That's as superficial a trait as you can get.
+And yet, you would judge me for it.
+Right? Or I remember once my, who was it?
+Once my daughter had lice, so I just decided to shave my head.
+And I'm walking around saying, wow, I look really tough now.
+Like Walter White.
+I'm walking around with a bald head.
+Someone, people should be scared to mess with me.
+And I look in the mirror, like I actually am a little scary now.
+Whereas normally, not scary at all.
+Right? And what's so scary about having a shaved head?
+I don't know.
+But, look, but simple story is that on average,
+the guys with the shaved heads are, in fact, scarier.
+So if you happen to shave your head
+for a totally unrelated reason, namely lice paranoia,
+like how can I be absolutely sure there isn't lice in my hair?
+I can't be, oh, every little feel,
+if you feel it in your scalp, oh, there could be lice.
+Or just take it off.
+Shave all the hair off.
+And now, I'm not trying to be scary.
+I'm just trying to get rid of the lice.
+But people walk near the street and they judge me
+as a scary guy, at least on average.
+They will think I'm scarier than I would normally anyway.
+So, you know, yes?
+Maybe they think you're scary because you might have lice.
+It's not normally, it's disgusting more than scary.
+But, yeah.
+All right.
+So, anyway, it could be a totally superficial trait.
+But it could also be superficial as in your resume.
+Your resume isn't the real you, is it?
+There's more to you than what you can put on one piece
+of paper about your signature strengths and so on.
+And yet, if someone's trying to decide to interview you,
+they're likely to do it just based purely upon the basis
+of what's on this piece of paper, right?
+Or when you're coming up for tenure.
+Yes, there are people who actually count the lines
+on the VITA, right?
+At least, normally, they only count the publication lines.
+And so, but, you know, other people might count even more.
+So, you know, he's got 10 publications.
+That's good enough here.
+You're like, what?
+They don't weight them by quality?
+Well, the higher the quality of the place
+that you're being evaluated at,
+the more weight you put on quality.
+There are plenty of places where publications
+and publication, hence the joke about getting published
+in capital A, capital R, refereed, capital J journal,
+A referee journal, right?
+So, where all you need is a publication somewhere or other,
+and that can count, right?
+And this is where someone is being very superficial.
+Like, well, I don't know the quality of the journals
+or the quality of the articles.
+I'm just going to hand out dream jobs for life based
+upon whether you got 10 publications
+in something or other.
+All right?
+So, that's another way that people might do it.
+Okay. So, there's lots of different kind
+of superficialities, physical appearance,
+what's written on a page, you know, your car,
+the clothes you're wearing, you know, like your family,
+your family name, your race, your gender.
+There's so many different ways that someone could just take two
+seconds to look at you and then say, yeah, all right,
+like a three out of 10.
+All right?
+Very simple.
+That's all I need to know.
+At least that's all I'm going to bother learning.
+Okay. All right.
+Now, so you know, however, what you're really like.
+You have your selection model.
+Other people are going to treat you based upon the average
+characteristics of people who superficially resemble you.
+Now, what does this mean?
+Well, suppose that you are above average.
+You're above average for people who look like you.
+Then you might decide that there's no point participating
+because you get treated like you're average even though you're
+better than average.
+Let's see if I can get that to fall.
+There. That's good.
+All right.
+So you get treated like you are average when, in fact,
+you're better than average.
+So if you have any options of whether you want to participate
+in something, above average people naturally want
+to drop out.
+Right? At least they are more inclined to drop out.
+Whereas below average people, on the other hand, say, hey,
+this is great.
+I love being treated like I'm average
+because I'm not average.
+I'm terrible, actually.
+But I can blend in.
+I can just blend in.
+Right? So if you are, say, what would it be?
+Yeah. So suppose that you look like me.
+Right? All right.
+So look at this here.
+But suppose that actually you are even more socially inept
+than someone who looks like me would normally be.
+In that case, you say, isn't it great I get judged
+as just being average because I'm not average, actually.
+On the other hand, if you are the unusually socially adept guy
+who wears a Mutants of Mastermind shirt, then,
+those are the cases where you say, well,
+maybe I don't want to participate
+because I get treated like scum.
+Right? So that's the idea.
+All right.
+Now, here's the problem.
+If enough above average people think this way,
+then the average goes down.
+And when the average goes down,
+then more people may want to drop out.
+And then when more people, and who wants to drop out again?
+The people that, the best of the remaining people.
+And then the best of the remaining people.
+And the best of the remaining people.
+As I think I said last class,
+imagine if I said I failed the bottom half of the class.
+Well, if you know where you're going to be,
+then the bottom half drops.
+But then I said, well, I didn't say I would fail the bottom half
+of the initial class.
+I said I'd fail the bottom half of the class,
+which is defined as people who are enrolled.
+And I said, all right, now I've got to worry
+from the bottom half of the top half, the original top half.
+And that group drops.
+And then the bottom half of the remainder may drop.
+And so on.
+Same idea.
+All right.
+Now, there's a classic example, which is surprising.
+Oh, can you close the door back there?
+So there's a classic example, which has also been
+done experimentally.
+And again, it's a very similar model with a result
+that is extremely surprising to almost everyone
+who hasn't actually worked through the model in detail.
+All right.
+And here's the idea.
+Suppose that there are companies with true values
+that are uniformly distributed between 0 and 100.
+All right.
+But, key point, every company is worth 50% more
+in the hands of the buyer.
+So there's sellers who have these companies.
+But if you can find a buyer,
+the buyer will actually be better at managing the company.
+And you just inherited this company, say.
+You inherited it, but you know how good it is.
+That's key.
+So you sell it to someone else who knows what they're doing,
+it'll be worth 50% more in their hands than in your hands.
+All right.
+So, now all that buyers know, let's assume,
+is the average value of companies that are being sold.
+They don't know whether your company is good or not.
+All they know is what's average.
+All right.
+So, of course, the average value of these companies,
+since it's a uniform distribution, is 50.
+Right? And a normal reaction people have is, well,
+why don't we, is that, why don't we just bid 50?
+Let's just bid 50.
+And then the idea is if we bid 50, then 50 plus 50% is 75.
+So then we're going to go and get, and we have a profit of 25.
+But that's wrong.
+That's so wrong.
+That's so wrong, because if you bid 50, which companies will not be sold?
+The ones that are worth more than 50.
+Yes. None of these companies are on the market when you offer 50.
+And, therefore, the companies that are going to be sold will have an average value of 25.
+And 50% more than 25 is 37.5.
+And since you bid 50, and on average you only, you get a company worth 37.5 to you,
+you have lost 12.5.
+All right.
+So that didn't work out.
+And you might say, well, why don't we go and up our bid?
+How about we go and bid 80?
+Well, if you bid 80, then you do have more good companies that are in the mix.
+But still, the top companies don't, are not going to be involved.
+And, therefore, you're going to have all companies that are worth between zero
+and 80 to the sellers.
+And the average of that is, of course, 40.
+Add 50%.
+60. So now we are paying, well, now we are offering 80 for companies worth 60.
+We've actually made our losses even worse.
+All right.
+So this is where you say, all right, fine.
+Let's not go and raise our bid.
+Let's cut our bid.
+How about we cut the bid down to 20?
+Cut the bid down to 20, average value, average company solds worth 10 to the seller,
+15 to the buyer.
+So now we're only losing five.
+So we're moving in the right direction, at least.
+All right.
+Now we cut the bid down to four.
+Now the average company sold two, we're three.
+We've only lost $1.
+All right.
+We're still going in the right direction.
+But keep going.
+And it turns out there's only one bid you can make that doesn't lose you money.
+And that's zero.
+Bid zero.
+No companies are sold with an average value of zero.
+50% more than zero is zero.
+So you bid zero.
+You get no companies that are worth zero each.
+And you amass the leading.
+Okay.
+So in equilibrium, zero is the equilibrium price.
+That's what happens.
+And the whole market has vanished.
+A market full of surplus.
+A market rich with surplus, where every company's worth 50% more to the buyer than it is to the seller.
+Now notice, with symmetric information, none of this would happen.
+So with symmetric information, if you offer 50, then which companies get sold?
+Well, so you use the symmetric information so the sellers don't know how good their company is.
+So if you offer 50 and the sellers don't know how good their company is,
+what do they believe their company's worth?
+It's 50.
+So you offer 50.
+Everyone sells.
+Because they don't know that the people with above average companies don't know their companies are
+above average.
+And then on average, the buyer gets the company worth 50 to the seller, but worth 50% more.
+So then it's worth 75.
+So with symmetric information, notice, symmetric imperfect information.
+Symmetric imperfect information, the market works perfectly.
+Further proving my point at the end of last class, which is that symmetric information is not an
+efficiency issue.
+If there were imperfect information on both sides to equal degrees, so buyers and sellers were equally
+ignorant about the true value of the companies, sellers offer 50, all companies are sold, all
+surpluses realized.
+Which is a pretty amazing result.
+Right?
+Because it's always tempting when you're learning economics to think that once you have one
+problem in a market, that adding another problem will make things even worse.
+Not so.
+It doesn't have to at all.
+If you have one problem, it can be better if you add on another problem, which then
+counterbalances those problems.
+Right?
+Just like if you have pollution, right?
+You may remember this.
+If you've already got pollution, you can get an efficiency gain from monopoly.
+Right?
+Because the monopoly effectively will produce less.
+The whole problem of negative externalities is firms are producing what?
+Too much.
+So yes.
+So a monopoly can correct a negative externality.
+And making the buyers ignorant can correct the problems caused by the sellers being,
+or rather making the sellers ignorant can correct the problem of the buyers being ignorant.
+Right?
+Now this is just one example.
+This is not always true.
+I have deliberately constructed the numbers, or actually I have borrowed numbers constructed
+by others to lead to total disaster.
+All right?
+You don't have to have total disaster.
+So for example, suppose that companies were worth not 50% more to the sellers, but what
+if they were worth 100% more to sellers?
+All right?
+So in that case, let's see.
+So in that case, there's no effect at all.
+Right?
+Because you could go and bid 50, and then, let's see, you could go and bid 100, and
+then all companies would be sold.
+And let's see.
+Then you would break even, I believe.
+I think actually if 100% more, then I think you break even no matter what you do.
+Let me just double check that.
+Yeah.
+So if you offer 50, then the average value of the company sold, of somebody sold is 25,
+but it's worth 100% more to you, so 50.
+Yeah.
+So if the companies are worth twice as much in the buyers' hands as the sellers, then
+everything's in equilibrium.
+Right?
+So every bid is going to be equally profitable.
+So then there is an equilibrium of full efficiency, where you just bid 100, and you get something
+that's worth 100.
+So that's a good deal.
+Right?
+Or you could imagine doing a change in the distribution.
+So imagine that instead of having a uniform distribution, we had a world where half the
+companies are worth 50, and half are worth 100.
+So there's this 50% weight here, 50% weight worth here, all right?
+But we're back to the world where it's worth 50% more to the sellers and the buyers.
+So in this world, you wouldn't want to go and offer 100, right?
+Because if you offered 100, then let's see.
+Actually, maybe you would.
+Let me just double check.
+So if you offer 100, now then the average value of the company sold will be 75, and
+let's see.
+Actually, no.
+Yeah, I guess, yeah.
+Then actually, yes, you would make a profit.
+Let's see.
+Maybe, yeah.
+So as you see, so if you offer 100, then the average value of the company sold is 75, and
+then the average value, the average to the sellers will be 112.5, right?
+Yes, so that would be right.
+And so you offer 75, and you make a profit there.
+And let's see.
+What if you went and offered 100?
+No, no, excuse me.
+That's actually when you offer 100.
+So you offer 100, all companies are sold, yes, and then you get perfect efficiency.
+If you went and offered 50, then what would it be, then half the companies would be sold.
+You would make, you'd pay 50, you'd make a bigger profit on each one.
+You'd make a profit.
+Actually, no.
+Actually, no.
+You'd make a higher average profit there.
+So yeah, in that case, was it with this distribution, then you want to go and actually pay 100.
+So you bid 100, and you get all the companies, and again, perfect efficiency.
+So you've got to get the distribution right and the value difference right in order to
+get a total disaster.
+Right, so when you hear about like the market for lemons, something like that, remember that
+it doesn't prove that you will always get a total market unraveling.
+Just proves that you could get a market unraveling, right?
+So that's an important distinction.
+There's a big distinction between there might be disaster and there will be disaster, right?
+One where if all of the, if everything comes out wrong, then there will be disaster, right?
+That's not surprising at all, right?
+But on the other hand, if there's normally disaster, that's more surprising.
+All right, so questions?
+Questions about the setup?
+All right, now the implications of adverse selection are very poorly understood because
+the model is normally applied to markets where people are very angry.
+All right, some of the markets where people are very angry.
+Well, there's the original market for lemons, which at least in the United States means
+the market for used cars.
+All right, so do other countries call bad cars lemons or is this even done in other
+English speaking countries or any idea?
+So like in England, do they call bad used cars lemons or not?
+I don't think so.
+No, all right, so just here.
+But anyway, so there's the original used car market.
+Now actually resentment of the used car market has gone down because many companies have
+figured out ways of reducing this adverse selection problem.
+But certainly when I was a kid, the stereotype of the correct use of used cars was that
+corrupt, evil used car dealers were very strong.
+And then similarly, another kind of market where people are generally very angry is insurance
+markets, especially health insurance.
+So that's another one where people are concerned about adverse selection.
+And again, people are very angry at these horrible, horrible health insurance companies
+and what they're doing.
+All right, so people often look at this model and say, aha, that's why health insurance
+market is terrible.
+That's why used car dealers are terrible.
+All right, and in particular, that's why they're always ripping us off.
+That's why they're able to go and bleed us dry, charging enormous prices for their
+shoddy products.
+A common view of how these markets work.
+But that model might be true, but this is not the model that justifies that story at
+all.
+All right, so if the used car market has an adverse selection problem, and it's not
+a problem, this does not mean that asymmetric information allows car sellers to take advantage
+of buyers and make lots of profits by selling junk.
+It's not the story.
+It's not the story.
+So it's not a model that is primarily about cheating.
+It's not a model about taking advantage of people.
+It's not a model about ripping people off.
+It's not a model about this is a wonderful industry to be in.
+You can make tons of money by selling junk.
+It's none of those things.
+Right?
+Key point, in these models, buyers on average benefit from purchasing the product.
+So conditional upon buying a used car, if there's adverse selection in the used car
+market, the buyer gains on average.
+Right?
+Conditional upon buying health insurance, the buyer gains on average.
+That's how these models work.
+So you say, well, some are dissatisfied.
+Yes, and some are over satisfied.
+Who are the people who are dissatisfied with their used cars, if this model is the right
+model?
+With the people who are dissatisfied.
+The people who buy the blank dash average cars.
+Below average cars.
+Who are the people who actually get a great deal and are super happy?
+People who get the blank dash average cars.
+The above average cars.
+So in a symmetric world, half the people, half the cars are going to be people who are
+are going to be above average, half will be below average.
+So this is not a market about consumers, on average,
+getting ripped off.
+It's a model where half the customers
+get less than they bargain for, half
+get more than they bargain for.
+Does that sound like a terrible market to be in?
+Well, 50-50 chance of getting more than I thought or less
+than I thought.
+That sounds like any other market
+where there's a symmetric distribution of outcomes.
+So no particular reason to be dissatisfied in the market
+if you, in fact, buy.
+So what's going wrong with these markets?
+The problem with the markets is all the exchanges
+that don't happen.
+It's not a market about the rip-offs that we see,
+but about the mutually beneficial trades
+that we don't see.
+Remember Bastiat, what is seen and what is not seen.
+In the adverse selection model, the problem
+is all the cars that actually don't get
+sold because they're too good.
+It's the people with the better cars,
+they're not going to go and sell that car
+and get that stupid low price, even though they actually
+don't really want the car that much,
+even though there's a buyer out there
+who, with perfect information, would totally buy that car.
+But due to the adverse selection problem,
+because the best stuff gets pulled off the market,
+the trades don't happen.
+Same thing with health insurance.
+The problem of the adverse selection problem
+implies not that you're ripped off
+if you buy health insurance.
+The problem is all the people who would like health insurance,
+but who nevertheless don't wind up buying it because they
+are the healthier people and they pull out of the market.
+So the idea is that if you're a healthy person
+and you could receive insurance that was accurately
+priced at a risk, then you would just
+go and get super cheap insurance.
+And you'd be happy saying, hey, I'm super healthy,
+but I love having insurance because it
+gives me peace of mind at a really low price
+because I'm so healthy.
+And the problem with adverse selection
+is those people don't buy insurance.
+And therefore, the gains to trade for the healthy people
+to buying insurance go out and disappear.
+Right now, of course, in the real world,
+when people complain about health insurance,
+the complaint is always that what kind of people
+can't get insurance?
+Sick people.
+That's not the adverse selection model at all.
+Complete opposite.
+The problem in the adverse selection problem
+would be that healthy people aren't getting insurance.
+Have you ever heard someone saying,
+I'm just so sad about all the healthy people who
+don't buy insurance because their health is so good that it's
+not worth it for them to pay these prices inflated
+by all the sick people?
+Is anyone going and having a day of sorrow
+for these healthy people who don't buy insurance?
+Yeah, very unusual.
+Yeah, Ash?
+Is this Jonathan Kruger?
+Yeah, Kruger.
+Yes.
+Well, let's see.
+I read his graphic novel.
+He didn't have any pages in the graphic novel shedding tears
+for them.
+In fact, in the graphic novel, so I
+wrote a review of the graphic novel on the theory
+that if you write it, it can be reviewed.
+And in the graphic novel, what he says
+is that, well, some young people don't buy it
+because they don't realize they could get sick too.
+That's one possible story.
+It's not a story that any economist else in the world
+is telling.
+It's like, well, there's the problem
+that young people believe they have zero probability
+of getting sick.
+It's like quite an error for people to be making.
+So why did he do that?
+Well, I believe that he was trying
+to give an argument that would be persuasive rather than one
+that would be strictly accurate.
+So at least that's my best story.
+I think that he would understand the model more than well
+enough to not make the mistake.
+Yes?
+Yeah, if it's the people who are healthy above average
+in the model that don't get satisfied and then it unravels,
+it also means that people who are unhealthy also
+don't get it.
+Yes, yes.
+So yeah, you could say the problem is that only the,
+but again, still, the complaint is that the sickest people
+don't get it.
+And no matter how, unless there's 100% unraveling,
+it's always the less sick people that are not buying.
+So essentially, the people that people are most worried about,
+most sad about, are the ones the model says
+will buy the insurance.
+And it's everybody else that actually is the problem
+according to the model.
+OK.
+All right.
+So anyway, the efficiency problem
+stands for exchanges that don't happen because buyers can't
+distinguish good cars from bad and health insurance companies
+can't distinguish the really sick people
+from the really healthy people.
+Now, here's the fun thing.
+So in a world of perfect information,
+what would happen in the insurance market?
+Because there'd be no insurance.
+Everyone would just be charged based
+upon their actual costs.
+Now, how about in a world of symmetric information
+where you know your general riskiness,
+but you don't know the actual details of how bad things will
+be?
+So in other words, imagine that you have a risk category, which
+you know, A through F. But then within the A category,
+there's another random variable that gets tacked on.
+Within the B category, there's another random variable
+that tacks on.
+So in that case, what would the pricing of LBLF?
+So insurance companies, they know your grade of health,
+but nobody knows this random variable, which literally
+has to be you have to throw the dice every year or whatever.
+So in a world like that, what does the health insurance
+market look like?
+Is there any health insurance sold then?
+Would it be according to your expected health?
+Yeah, exactly.
+So you would have a charger rate based upon your health grade.
+And then why do you want to buy insurance?
+Because you want to insure against that random variable
+part.
+So yeah, I'm A health.
+That's what I know.
+That's what insurance company knows.
+But I could get hit by a bus, and then I'd have a problem.
+So and again, of course, that A grade
+should in a world without asymmetric information
+would include knowledge of the riskiness of your behavior.
+So how often do you look before you cross the street?
+Are you a careful looker?
+Are you three way?
+Or do you look both way?
+Look left, right, left again?
+Or what do you do?
+Are you a skydiver?
+What's your diet like?
+So and then, yeah, so in a world where nobody had any clue
+at all about their health, suppose
+nobody had any idea what their health was,
+and the insurance company doesn't know, you don't know,
+then is there going to be any insurance in that world?
+Sure.
+And what do the rates look like in a world
+where nobody has any clue about anything?
+Yeah, then everyone just pays the average rate.
+All right, so what I think people really want
+is a world where we pretend that everyone's average.
+That's the dream that people have.
+And then everyone gets charged the same rate.
+Or of course, there's some people
+have a dream of enforcing it by regulation
+that everyone must be treated the same.
+So Charles Murray, in his book on the universal basic income,
+actually advocates a regulation saying
+that literally everyone, every adult in the country
+must be sold insurance at the same rate,
+not even adjusting for health.
+Not even adjusting for age.
+And but anyway, so this is the idea.
+Now, of course, in the real world,
+you pass a law like that.
+What does every health insurance?
+So if you basically say you must treat everyone
+as if they're identically risky, even though everybody knows
+they're not, so what does every health insurance
+company try to do in a world like this Charles Murray world?
+Drive the price up as high as they can.
+Well, if you drive the price up as high as you can,
+that by itself will, you know, so let's see.
+What's the right way?
+So that by itself doesn't actually,
+so that'll just mean that everyone will want to buy
+from the cheaper people.
+So by raising your price higher than everybody else
+doesn't actually differentially attract healthier people.
+But yeah, Nathan?
+About the services you offer, so if I don't have, say,
+a cancer provider, then someone like me
+with high risk of cancer, I'm not going to buy that insurance.
+Yeah, so you know, how about this?
+You just have like tons of like sports medicine
+and other stuff for like super physically active people,
+right?
+So you know, like we have basically a bunch of services
+that only young and healthy people would ever want,
+and then you just don't do anything else.
+So Murray didn't really deal with this,
+but that is the idea.
+All right, so when you actually think
+about what it is people are complaining about,
+the problem isn't really that it's a world where people are
+not being priced, so yeah, the real problem is that people,
+is that prices are not adequately tailored to risk.
+But the populist complaint about insurance
+has nothing to do with that at all.
+In fact, quite the opposite.
+I think most people's nightmare world
+is that everyone has insurance that is exactly
+tailored to your personal risk rate, right?
+And again, imagine a world where you actually
+are simultaneously solving adverse selection and moral
+hazard by say, charging people based upon their BMI.
+Charging people based upon like you monitor
+how often you go to the gym.
+You have a bunch of different measures, right?
+And go and charge people for all of these details
+about their actual riskiness.
+This is the kind of thing that would infuriate normal people.
+But economically, that's much better.
+That actually solves the problem.
+It actually is.
+That's solving the moral hazard problem
+and solving the adverse selection problem,
+just tailor rates to risk, and then there's no longer
+any problem.
+All right, now, so adverse selection
+is probably economists' favorite argument
+for insurance regulation.
+Moral hazard is often thrown in there,
+even though there are essentially
+no insurance regulations that do anything about moral hazard.
+If you really start thinking about it,
+then you have a few things like jail time for insurance fraud.
+All right, so that's a pretty good counter example.
+Although, say, wait a second, wasn't fraud illegal
+even before there was insurance fraud?
+There's just fraud.
+So it's just a normal law.
+It's not really anything special.
+But yeah, so imagine that you legalize insurance fraud.
+In that case, what does that do to the adverse selection
+problem?
+Makes it, yeah, it increases it.
+Yeah, it makes it worse, because now there's a bunch of people
+who are going to go and fake accidents and things like that.
+And they say, hey, there's not even
+any punishment for doing any more awesome,
+so time to fake an accident.
+You ever seen the movie Double Indemnity?
+All right, so, well, Double Indemnity,
+the title refers to insurance policies, which maybe still
+exist, but anyway, at the time in the 40s and 50s,
+there's a lot of insurance policies
+that would specify that you get double the payoff if people
+die in a rare and gruesome way, such as in a train accident.
+Then there's a woman who hates her husband,
+and she conspires with an insurance agent
+to go and sell her a very large policy with a double indemnity,
+and then gets him to murder her husband,
+and then they're going to fall in love and split the money,
+right?
+And then that's the way all these movies work out, right?
+Happily Ever After is the way that they all work out.
+But anyway, so if there were no law against going
+and trying to murder, getting an insurance policy on someone
+and then murdering them, so not only would this
+lead to more murders, right, but also would mess up the life
+insurance policy for the non-murderers,
+because you'd have a whole bunch of people say,
+oh, I want like a $50 million life insurance
+policy on my beloved enemy.
+And then you go and you take out a life insurance policy
+on someone you want dead.
+Or of course, it doesn't have to be
+that you're going to murder them.
+You might go and say, I'm just going to take out insurance
+policy on a friend that I know who's actually
+going to go and fight in Syria or something like that.
+I'm going to take out insurance policy on them.
+And if you can go and take out insurance policy on someone
+that you know is taking a lot of risks,
+then again, there's a bunch of people
+that are buying the policies because they
+expect to get a high payoff.
+And if they get to buy it for the same rate as everybody
+else, then there's a problem.
+So anyway, adverse selections probably become his favorite
+argument for insurance regulation,
+and especially for one kind of regulation,
+which is the mandated purchase, a law that
+requires you to buy insurance.
+You must buy insurance.
+Yeah, Ash?
+I was just going to say, if insurance fraud would
+be legal, wouldn't that create a market for rating insurance
+purchasers?
+Sure, but given that's legal right now,
+so it's very reasonable to say that insurance companies would
+try to compensate for the problems.
+But still, it seems unlikely they'd
+be able to compensate as well because insurance companies
+can't jail anybody.
+Remember what I said, you can't contractually
+agree to private punishments.
+So yeah, you can imagine saying, I signed the insurance contract,
+and if I'm found guilty of insurance fraud,
+you can go and take everything I own.
+Just based on credit.
+Yeah, so but yes, but if the harsher penalties
+are unavailable to private organizations,
+but government has them, if government
+stops providing them, then probably
+it's going to be hard for the other alternatives
+to be as effective.
+Although, maybe they would be.
+So adverse selection is a very common rationale
+economists have for a law requiring everybody
+to buy insurance, which of course
+would be for car insurance or for health insurance.
+Anytime the law says you have to have insurance,
+there is a very simple story behind it
+that economists have, which is adverse selection.
+So again, in this case, imagine there
+were laws saying you must sell your company.
+You can't keep your company.
+So in that case, everyone sells their company,
+even though they know that the companies are actually
+worth more than what they're selling, or some of them.
+So in that case, all are sold.
+So all companies from 0 to 100 are sold,
+and the average value to the buyers is 50.
+And then sellers will be happy to buy,
+because they know that on average,
+they get a company that's worth 50 to the seller, 75 to them.
+And again, the interesting thing is
+that a lot of the sellers gain, although of course not all.
+Who are the sellers who lose as a result of the mandate?
+Sellers whose company is going to win.
+What's that?
+Well, let's see.
+Well, so let's see.
+Yes, yes, yes.
+So the story that I told, yes, then exactly.
+So all these people lose.
+So then how is there an efficiency gain?
+Well, the answer is when you add up the gains to all
+of these people, plus the profits to the buyers,
+it exceeds the losses to the sellers.
+And that is our definition of which kind of efficiency?
+Gallery Hicks.
+Gallery Hicks.
+Right, yes.
+If it's mandatory to sell at the price offered,
+why wouldn't the buyers offer a lower price?
+So there could be competition there.
+So basically, the buyers bid for a car.
+And with perfect competition, you
+think they would actually bid the price up to $75.
+And then actually even more gain.
+In that case, all of these people gain.
+On average, the buyers have no profit
+because they're going to be paying $75 for companies that
+are worth $175 to them.
+And then everything comes out of the hides of these people.
+But they don't even lose that much.
+That's the amazing thing.
+So adverse selection, standard justification for a mandate.
+Now, if you're wondering, what is
+the deal with all the other parts of things like Obamacare?
+There's a great Paul Krugman column
+where he goes and tries to explain it.
+Because what, of course, is the part of Obamacare
+that almost everybody hates?
+The mandate.
+The mandate, which is the only part actually
+justified by adverse selection.
+So the part that actually has anything
+to do with the market failure that we're talking about
+is the part that most people hate.
+So there's actually a very good survey
+that breaks up the different components of Obamacare
+that are the popularity.
+And I think only like 30% of Americans support the mandate.
+All right, now, what are the other parts?
+So the parts that people like.
+All right, well, there's the ban on pre-existing conditions
+clauses.
+All right, and remember, so pre-existing conditions
+clause, this is a clause where an insurance company says,
+we don't pay for problems that you knew you had
+when you bought the insurance.
+Now, when you think about it, that's
+almost like banning the prevention of insurance fraud.
+Right?
+Because this is saying that it's like you.
+Well, you can't refuse to sell insurance to people
+just because they're already mortally ill.
+So this is a regulation that has something
+to do with adverse selection.
+Although, by itself, what is the connection
+between this and adverse selection?
+Means to force.
+Yes.
+So there's this part that actually
+is connected to the model.
+This part, where if you believe the model is actually
+intensifying the problem.
+And then finally, there's the third part,
+which also very popular.
+These are the subsidies.
+So this is the part where you say, well,
+once we mandate you have to have it,
+a lot of people can't afford it.
+So the subsidies are there to make
+sure everybody can afford it.
+And Krugman actually, very reasonably,
+goes and says that this is Obamacare here.
+And these are the three legs of Obamacare.
+It's a stool with three legs.
+And he needs all three legs to be stable.
+And the way that he explains it, well,
+once you ban pre-existing conditions clauses,
+and you can actually also think about this combined
+with people rates or pretty equal rates,
+not exactly equal, but think about this in general
+as rate regulation.
+So once you go and say that any person can get insurance,
+no matter what the state of their health is,
+and that you're not allowed to go and charge them
+much more money, then the obvious thing
+in terms of the adverse selection model,
+how will people respond?
+You can get insurance at the normal rate
+if you just wait around until you really, really need it.
+So adverse selection says that people will do what?
+Wait around.
+Wait around.
+So if you wait around, then the problem is that the market
+equilibrium will be certain high prices.
+So that's where Krugman says, well,
+once we've done this regulation, then we
+got to do that regulation to go and solve
+the problems created by the first regulation.
+And then we need this regulation to solve the problems created
+by the other regulation.
+And it is a reasonable package.
+So I like the case for it.
+It's a very clear case.
+Although to go and say that Obamacare is there
+because the free market doesn't work is a gross injustice.
+Because he said, well, how about we just
+have none of these regulations?
+Then would there still be a problem?
+In particular, there's something really weird about this one.
+Because if you believe that insurance companies couldn't
+figure out who was sick and who was healthy,
+would there be any point of that regulation?
+Yeah.
+Why do you have that regulation?
+Because insurance companies do know.
+Insurance companies have armies of actuaries
+to do the run of statistics to figure out
+what your health status is.
+They've got lots of information.
+They can do tests.
+They can use your age.
+They can use past expenses.
+There's tons of stuff that they can do in order to figure it
+out.
+So this is the regulation that, at minimum,
+it makes the adverse selection problem worse.
+And then tries to, at first, makes it worse
+and then solves it another way.
+But it's also a kind of confession of guilt
+and saying, all right, fine.
+It's actually not the case that insurance companies don't
+know what's going on.
+Insurance companies know a lot.
+That's why they're going to go and charge sick people more
+rates, which would solve the problem we're actually
+talking about.
+But that's not our actual complaint.
+And then this brings you back into the normal world
+that has nothing to do with economics.
+What does a normal person want to go and require
+either ban pre-existing conditions clauses
+and require equal rates?
+Normal, economically illiterate person.
+They find it unreasonable.
+for a sick person to find it hard to wake up.
+Yeah, that's all it is.
+It's got nothing to do with any complex model.
+It's just like, why these mean insurance companies
+are going and charging high rates to people
+who really need health care.
+Then there is the puzzle, well, but why
+is it that people who sell insurance
+are the ones who have the responsibility for taking
+care of sick people?
+Why is it like, so if I'm going to go and deal with a problem,
+then it's up to me to go and solve the problem
+for free for other people?
+Again, it's one thing to say that there
+needs to be a government program or charity
+to solve it as to why you go and charge your anger
+at insurance companies.
+That is, again, pretty odd.
+So in the end, you say, well, what could you do instead?
+Well, you could have a government voucher
+program for sick people.
+You could do that.
+And then you say, well, isn't that
+just going to create this adverse selection problem?
+Well, how about if you don't give the voucher to people
+who waited to buy insurance?
+So if you actually already, if you've
+been buying insurance your whole life,
+and then you suddenly get really sick,
+and then nobody wants to sell you
+insurance at an affordable rate, then you get the voucher.
+Worse, if you're just going along your whole life
+refusing to buy, then say, well, sorry.
+That's your problem.
+You should have been responsible.
+So you could do that.
+Of course, also, you could have charities
+that go and try to take care of the problem.
+Although, once you start thinking about that way,
+then there's the obvious thought of, well,
+isn't there a better way to spend the money?
+Which there almost certainly is, actually,
+if you looked into effective altruism.
+Because health care is so expensive.
+It's a really expensive way to solve problems.
+Whereas, you could just go and do
+deworming pills in rural countries
+and help a lot more people that way.
+All right, so questions about this?
+Questions?
+All right.
+All right, so in any case, so economists rarely
+notice all the insurance regulations
+that are on the books that seem to be designed
+to make adverse selection worse.
+So there are lots of regulations that specifically
+forbid insurers from conditioning rates on risks.
+So that's one.
+And in terms of the adverse selection model,
+that makes no sense.
+Because if there's really this adverse selection problem,
+then insurance companies wouldn't be able to do it.
+Or if it's a more moderate problem,
+then at least they reduce the problem.
+So you might say, well, look, there's
+not perfect information.
+There's some adverse selection.
+There isn't any reason to prevent insurance companies
+from solving the problem as well as they are able.
+And at that point, say, now we'll see what can be done.
+Now, here's one that I have a lot of trouble understanding,
+even from a normal point of view.
+There are a lot of states that actually subsidize insurance
+for high-risk drivers.
+It's one thing to go and say, they're sick people,
+can't afford insurance.
+I feel sorry for them.
+I totally get that.
+But saying, look, there's some people
+who have been in tons of accidents.
+And it's really expensive for them to get insurance.
+And I feel sorry for them.
+That's the one where like, those are
+the people you feel sorry for?
+I'm scared they're on the road.
+Look, those are the ones where if I were a philanthropist,
+I might go and pay insurance companies
+to not sell them insurance in order
+to get them off the road because they're a danger.
+Yes?
+When you say high-risk drivers, does that
+match any specific demographic?
+Well, young males.
+That's the big one.
+Not elderly?
+Elderly, too, although you have to get pretty old before you're
+as bad as a teenage male.
+But yeah, I think probably when you're in your 80s,
+then you're getting pretty comparable to a 16 or 17
+year old.
+Right?
+But again, do you really?
+So we actually have a bunch of things
+to try to get incompetent elderly drivers off the road.
+Like once you hit a certain age, you
+have to be tested every year.
+Right?
+There is a social moral about trying to get the keys away
+for grandma, both for her sake and for the sake of others
+and for not destroying the inheritance
+of the whole family in a lawsuit.
+So in the state of New Jersey, the system,
+at least when I was living there,
+is called something like mandatory risk, where basically,
+suppose you're an auto insurance company,
+you have 25% of the auto insurance market.
+The state of New Jersey would just say, fine,
+you have 25% of the market.
+Then you have to insure 25% of the worst drivers in the state
+at below market rates.
+And that's the system.
+Right now, when I go and talk to people about this,
+they say, well, look, you've got to do that,
+because people are going to drive no matter what.
+People have to drive.
+They have to drive.
+Especially where New Jersey, there's
+actually a lot of public transportation in New Jersey.
+But people have to drive.
+And therefore, you must make insurance affordable for them,
+because otherwise, people would not
+be able to do this thing they have to do.
+But then, of course, if you decide
+to drive without insurance, then you will lose your license.
+And then this you have to drive excuse
+is no longer acceptable.
+And then, of course, if you drive without a license,
+then eventually, if you do it repeatedly, you go to jail.
+And once again, well, people have to not be in jail.
+Theory, that doesn't go very far.
+So to me, again, it's all pretty confusing.
+Why not just say there's an insurance mandate,
+and if no one will sell you insurance that you can afford,
+then it is illegal to drive.
+And we will jail you for driving.
+I can see some libertarian objections,
+but in terms of just what a normal person in New Jersey
+thinks, I'm very puzzled that this hasn't happened.
+Because to me, reckless drivers are not sympathetic.
+Again, even though you're talking about the elderly,
+how many elderly people have been in multiple accidents?
+People say, oh, poor grandpa, but, and they say, but,
+and therefore, we really need to make sure
+we can afford insurance so we can keep driving.
+I don't know.
+That's strange to me, but obviously, I have not really
+gotten inside the head of people in New Jersey.
+Again, this argument of, look, people have to drive
+seems very convincing to people.
+And therefore, people have to have affordable insurance.
+So that sounds similar to an argument
+that I've heard about regarding health insurance and health
+market and health care usage, where people say that there is
+no, like there's a perfectly inelastic demand
+curve in health insurance, or health markets,
+where if you get sick, you must go.
+Right, right.
+Which I assume has to play into the emotional response
+that people have when they're discussing things like health
+insurance markets and whatnot.
+And I just wonder when the last time was
+that someone who got a cold had to go to the hospital for it
+and had to see a surgeon or something like that.
+And that was just, it reminded me of that sort of thing.
+And is that a common thing that you kind of see?
+Yeah.
+So during the Obama-era debates, the idea
+that people without insurance are going to emergency rooms
+and then at great expense was often voiced.
+Although, my memory is that in an emergency room,
+we're only absorbing a total of 2% of all health spending.
+So this problem is greatly exaggerated.
+I agree that when people talk about health care,
+they often sound like there's perfectly inelastic demand.
+And yet, the whole point of health insurance
+is supposed to be to improve access.
+So make up your mind.
+And of course, we should always make up our mind
+in direction of there being some elasticity for almost
+everything, right?
+So the real story, it's like a normative.
+You have to buy it.
+It's not that people will, in fact,
+but you should buy all the health care for your problem,
+regardless of price.
+Although, it's perfectly OK for people to not do it
+based upon convenience.
+So if someone says, well, I didn't go to the doctor
+because I didn't feel like taking time out
+of my working day.
+Oh, well, that's reasonable.
+I didn't do it because I couldn't afford it.
+Our society is evil.
+Our society is a corrupt and wicked society.
+I can't even bear to live in a world like this.
+And again, as to why elasticity with respect to time cost
+is OK, but respect to money cost is not, again,
+and clearly I have not adequately understood
+normal mankind well enough in order to explain it,
+but it's weird to me.
+So as I said, so other examples.
+So as I said, states often subsidize current insurance
+for reckless drivers.
+There's forcing insurers to cover the middle loss, which
+is the New Jersey way, and I think
+other states have the same laws.
+And then medical insurers often barred
+from denying coverage to customers
+with pre-existing conditions.
+Just to see the absurdity of this,
+imagine if for life insurance you
+said you couldn't have pre-existing conditions.
+Like, suppose you could take out life insurance on someone
+the day after they die.
+Say, why not?
+The person's dead.
+We need money.
+So let's get life insurance.
+All right, well, then obviously it
+would make sense for everyone to blank until after blank happens.
+Wait until after the person dies,
+and then the price would be astronomical.
+It would destroy the market, because to cover the overhead,
+you'd have to charge more than the value of the premium.
+Now, in practice, of course, insurance companies
+have all kinds of methods that they
+use to solve the problem.
+Here's one that actually isn't.
+There is an urban legend that life insurance
+doesn't cover suicide.
+So this is actually completely wrong.
+So what is true is that insurance company,
+life insurance will often have zero or heavily reduced
+benefit for one or two years.
+And again, apparently the theory is
+that people are not going to go and buy insurance planning
+suicide, planning to kill themselves in a couple of years.
+It's the kind of thing that you would only do with relatively
+little delay, or at least to say it's not a big problem,
+that someone might go and say, I'm
+going to buy a lot of insurance and then kill myself
+in two years.
+Rarely happens.
+But if I'm going to buy it, I'm going to kill myself tomorrow.
+And in order to get my family some money,
+that's a much bigger danger.
+So you might remember the book Super Freakonomics.
+So one of the subtitles was why suicide bombers should
+buy life insurance.
+And I had just actually been investigating
+the actual legality of the law and the general industry
+practice.
+So normally, life insurance does cover suicide.
+So I emailed them to say, actually,
+there's just a factual mistake on the cover of your book.
+And they said, we know that.
+We're trying to go and so they got,
+now I can tell you, because this is many years ago.
+They said, we're hoping that actually,
+we're hoping that some terrorist goes and gives himself away
+by buying a whole lot of insurance.
+And we've sort of tipped off some key people
+in the government to be watching out for this.
+And then they were hoping to get a giant dash of free publicity
+economists, prevent terrorist attack.
+But it didn't work.
+All right.
+But anyway, so I'm not sure, I don't
+think I'd be comfortable putting a deliberate error
+on the cover of a book on the hope of as a publicity stunt.
+But if it had worked, I would have shut up and say,
+well, that's really cool.
+But all right.
+I don't hear that idea.
+All right.
+So questions.
+So adverse selection, one of the most abused ideas
+in all of economics, used to rationalize a bunch of stuff
+that people want for totally different reasons that
+are actually inconsistent with the model.
+All right.
+And kind of embarrassing, really,
+how many economists have let to go and rationalize the status
+quo for solving a problem that seems to, in fact, be largely
+a product of regulation.
+All right.
+So at minimum, you think that you'd
+want to get rid of all the regulations that
+increase adverse selection and then see
+how bad the problem is.
+I think so.
+It's not much of a problem at all, actually.
+All right.
+Now, there's actually, even in our current world,
+where there's a lot of regulation that
+encourages adverse selection, there's
+some empirical studies that have found little evidence of it.
+So what kind of evidence?
+Well, so there's a big study in the market for life insurance
+that found a very strange industry practice.
+Bulk discounts.
+If you double the size of your policy,
+you generally pay less than double per dollar of insurance.
+In the adverse selection model, what
+do you think about the people who
+want to take out the massive policies?
+What's their risk like?
+Someone wants a billion dollar policy.
+High risk people.
+So given that on average they have higher risk,
+what should you charge them per dollar of insurance?
+More.
+Life insurance companies do the opposite.
+Weird.
+Then there is a small, very cutesy study
+of people involved in motorcycle accidents.
+Now, according to the adverse selection model,
+what would the typical level of insurance
+be of people who get into motorcycle accidents?
+Yes.
+Well, how much insurance would they
+have according to adverse selection?
+Very high.
+Yeah, very high.
+It's like, I drive a motorcycle and I get in accidents.
+I'd better have a lot of insurance
+to take care of this problem.
+In the real world, people who get in motorcycle accidents,
+how insured do you think they are?
+Very barely insured at all.
+Growing up in Los Angeles, there was a strong stereotype
+that I saw verified at least once,
+and I think twice, firsthand.
+It says that if you get in an auto insurance accident with,
+rather, an auto accident with someone else,
+they will be uninsured.
+Rule of thumb.
+And this is, of course, in a state where you legally
+had to have insurance, but it didn't matter.
+So often, of course, the laws are just not enforced that much.
+But still striking, you would think, well, gee,
+given that you get in all these accidents,
+you're accident prone, why don't you have insurance?
+And then here's another fun one.
+So you know that there are these policies
+you can get on your credit card where if the card is lost,
+then you have no liability for any false charges on it.
+You pay an extra $10 a month, and then you
+have total peace of mind.
+Never mind that your maximum liability's already
+capped at $50.
+So basically, you lose your card once every five months.
+But in any case, fun fact, people
+who buy this insurance policy, do
+they have an unusually high or low rate
+of losing their card?
+An unusually low rate.
+Is that what adverse selection predicts?
+Nope.
+All right, so there's all these anomalies out there.
+The main cases that we have of adverse selection
+do, in fact, seem to be the ones caused by regulation,
+where you have this ban on pre-existing conditions,
+you have a lot of rate equalization,
+although normally not full equalization,
+and then you either don't have a mandate
+or it's not very well enforced.
+Those are the places where we do see these big adverse selection
+problems.
+So that's what's actually going on,
+is there's a problem of regulation.
+But in any case, so there are two stories
+about what's going on in all these cases
+where we don't seem to be finding adverse selection
+or we're finding the opposite.
+So here's one.
+Our empirics are just screwed up.
+It is not true you know more about yourself
+than your insurance company knows about you.
+You say, how is that possible?
+I mean, it's not like they're following you around.
+Well, the right way of putting it
+is you know way more details about yourself
+than the insurance company knows,
+but they're wrong details.
+They're unimportant, irrelevant, innumerate details
+about yourself, whereas the insurance company
+knows a few hypernumerate facts about you,
+a few things that actually sum you up as a liability.
+So insurance companies, for example,
+have actuarial tables, they have actuaries.
+So they're good at figuring out what your risk is.
+So think about this.
+If someone, if a telemarketer calls you up
+and wants to sell you some insurance,
+well, how do they decide to go and sell the insurance to you?
+Who came up with this idea?
+Well, there's probably some actuaries who said,
+you know what?
+These people have low risk, but they like buying insurance.
+Let's go and find a bunch of people like this
+and make them an offer.
+See what happens.
+So let's go and find these people.
+And in that case, you say the adverse selection is actually
+going the other way.
+It's really you should be worried
+when someone hunts you down and tries
+to sell you some insurance.
+It's like, why do you want to sell it to me, you awful people?
+It's like, well, because we're really
+concerned about all the risks in your life.
+That's why you want to really sell me insurance?
+Isn't the real reason that you're not
+concerned about the risks of my life,
+that you think that I'm a very safe person?
+Maybe that would make more sense.
+Then there's another story, which also
+could be simultaneously true.
+And this says there's a certain type of person who
+buys lots of insurance.
+And this type of person, as we can think of as a cautious
+or a conscientious person, whatever adjective
+you want to use, but the kind of person
+that wants to buy a lot of insurance
+and is also very cautious generally.
+So again, look at me.
+Do I look like I'm living a high-risk lifestyle?
+So no.
+Really, the most dangerous thing I do is blog.
+Right?
+And if anything really bad ever happens to me,
+I think that's the most likely scenario.
+So yeah, if Tyler wasn't a blogger,
+he wouldn't have gotten attacked a few years ago.
+He was fine.
+But yeah, he seemed to be fine.
+But I would have had major PTSD after that.
+He got pepper sprayed in the eyes.
+So by a guy who said that he was hacking his computer,
+Tyler can barely hack his own computer.
+All right.
+So anyway, so you look at someone like a dad with four
+kids who, like, when I take a walk at night,
+I wear a flasher.
+All kinds of precautions that I take.
+I got so much to live for.
+So many people depending on me.
+So it doesn't surprise you to know
+that I have a supplemental $600,000 life insurance policy.
+Well, I do.
+All right.
+And it's cheap for me because people
+want those policies to fit my profile hardly ever die.
+So awesome.
+Awesome.
+Now, as you probably know, you are actually
+in the right profession for life over longevity.
+Notice all of those 90-plus Nobel laureates
+either walking around or like they get to codes.
+Well, like 103.
+All right.
+So an economist dies at 75.
+He's like, young life tragically cut short.
+All right.
+So you're entering the right field.
+I don't know whether the actuaries have actually
+figured out how good our occupation is,
+but they probably know their own occupation is a really good one
+to sell life insurance to.
+Actuaries, I know at least one.
+And those people, sell them insurance.
+They're not doing anything wild or crazy.
+They're sitting there calculating rates of death
+for other people all day long.
+So cautious people.
+All right.
+So anyway, and this conscientiousness model
+explains all the other ones.
+Like what kind of a person rides a motorcycle?
+You think I ride a motorcycle?
+Yes.
+So Steve Miller's an economist with six kids
+who rides a motorcycle.
+And they're like, whoa, that's really weird, Steve.
+But I think I actually told him I would never
+allow that if I were married to you, Steve.
+That's why I'm not married to you, Brian.
+All right.
+All right.
+So but anyway, so I don't ride motorcycles.
+I don't climb mountains.
+Don't do anything like I'll say.
+Like I don't go to bars.
+Don't go to parties where people drink alcohol.
+All of these things that other people
+might be doing that are endangering their lives,
+I'm not doing any of them.
+And I also am concerned that we have a sufficient insurance.
+And that's the profile of people who want to buy insurance.
+So in that case, again, it actually flips things around.
+So it is the lowest people want to buy,
+unless, of course, there's regulations
+that are twisting things around.
+And then there was no longer recent paper.
+Actually, good, I took out the recent paper line
+from the notes.
+So this paper in the Rand Journal
+that theoretically models.
+what can be called advantageous or also propitious selection,
+where it's actually the low-risk people want to buy
+because they have a personality trait that inclines them
+to caution and precaution.
+All right.
+So, questions about adverse selection in the real world?
+So, bottom line, like one of the most overused models,
+abused and overused, because when it's actually been tested
+out in markets where regulation's not a big deal,
+seems to not even be true, the opposite looks like it's true,
+and then uses an argument for regulation
+when if you look more closely,
+there's a regulation first caused the problem, right?
+And all of it really coming down to populist resentment
+that markets want to charge riskier people higher rates.
+So, again, you can understand in some way,
+like when it is a sick child
+where the parents can't buy insurance,
+why there's a lot of sympathy.
+Although, it's still hard to understand why there's
+so much blame directed specifically
+in insurance companies rather than at lack
+of human compassion more generally.
+Why is it that just because you're the provider
+of the insurance that it's your job to go and lose money?
+Right? You know, we don't go and expect farmers to go
+and be the people that feed the poor, right?
+So, normally that is either paid for by government programs
+or charity where just everybody goes and chips in to go and pay
+and provide food for the poor.
+We don't think that farmers have a special obligation to go
+and provide cheap or free food.
+So, why should health insurance companies be the ones
+that have the special obligation?
+Right? It's very hard to understand, at least to me.
+All right.
+Oh, yeah. Now, let's just go do a really fun one.
+So, you know, integral capitalism.
+A unpopular idea, even here at Mason I would say,
+but still less unpopular than at most places
+on earth by a wide margin, right?
+So, it is the idea of privatizing the last remaining
+functions of government, privatizing the police,
+privatizing the courts, privatizing the rule formation.
+All right.
+So, anyway, as you know, or as I say, this is not a popular idea,
+but the average selection model allows us to say
+that one argument against it is bad.
+All the other arguments might be right,
+but one common argument against this is
+that in this world insurance companies would try to pump
+up demand by loudly advertising
+that they will gladly defend axe murderers, hit men,
+and other criminal types.
+And, in fact, they said, we'll defend you
+to the death to pump up demand.
+All right.
+And people get worried about this.
+Oh, my God.
+Yeah. So, if this were private, then you'd go and try
+to get extra customers by promising, look,
+if you're my customer, you're my customer all the way.
+I take care of my people.
+Right? And no client of mine ever goes to jail
+or ever gets punished for anything they do.
+Right? That sounds like a pretty attractive appeal,
+but what does the average selection model say
+about that offer?
+Yes?
+So, the target is they feel like you're never going to go to jail.
+Yes. Yes.
+So, the people that want to go
+and buy the policy are your hit men, your axe murderers, right?
+And, therefore, you're going to have
+to charge extremely high rates to go
+and pretend to defend these people.
+No. So, this would be like running insurance companies
+saying, look, all of our customers have everything,
+every expense covered no matter what.
+We don't care whether you cause the problem yourself.
+We don't care what the danger of all.
+We don't care about the price.
+Come here.
+You're our people.
+We love you.
+That sounds like a good sales pitch,
+and it would attract a lot of people,
+but the wrong kind of people.
+Right? Then, you know,
+who do insurance companies really want?
+They want me.
+They want people like me who never get in any trouble.
+Everything's fine, but I like just cautious, bourgeois,
+middle-aged dads, maybe even better moms, right?
+You know, so once in a while,
+a middle-aged dad does something wild,
+but to get the middle-aged mom with six kids,
+she's not doing anything wild.
+So, and, of course, once in a long while, not true.
+But, if you're in the insurance industry,
+you're playing the odds, of course.
+All right.
+So, questions.
+Questions. All right.
+Yes.
+Anarcho-capitalism gets off your customers
+when they become too much trouble?
+Well, that's the interesting business model.
+That's also, well, so there's an adverse selection problem there,
+too.
+Who are the customers that are going to, you know,
+that's when we're at least, who are the people
+that might want to buy the insurance?
+Well, like, at least, well, the people,
+definitely the people with high risk don't want that policy.
+Well, they think about it, even the people
+with really low risk don't want that policy,
+because it's always, like, either they pay you money
+for nothing, or you kill them, so that doesn't sound
+like a very good deal.
+All right.
+Not to me, anyway.
+All right.
+So, now, moving on to the next form of asymmetric information.
+This is an issue that has consumed the last six years
+of my life.
+I'm finally at the end.
+I got the final green light from Princeton today, so, whew.
+All right.
+All right.
+So, let's just start with some puzzles
+to understand what the model's trying to explain.
+All right.
+So, first one.
+This is the main one that my book is all about.
+There's a whole lot of schooling that people do that appears
+to almost everyone to have nothing to do
+with any job you're ever going to do,
+other than maybe teaching the very subject
+that you're learning.
+All right.
+And yet, employers still seem to care.
+So, if you're one Aristotle class short of graduation
+from college, that one missing class sure seems
+like it can hold you back tremendously in your career,
+and yet, what possible job skills are you acquiring
+in this Aristotle class?
+Yes. Eudaimonia, right.
+Yeah, you really need that.
+I did have a big, once, like 10 years ago,
+I had a student who was a huge Aristotle fan
+and was claiming it was super useful.
+I said, well, I've read it.
+First of all, it doesn't seem super useful, but second of all,
+even if it were super useful, if you really understood it,
+almost no one who takes one class
+in Aristotle really understand it,
+so it still doesn't make any sense
+that people would pay for it.
+And yet, employers seem to make a big deal out of it.
+And when you start going down the list
+of the different things that you've had to study in life,
+the list gets very long, right.
+So, in the United States, how many years
+of high school foreign language did you have
+to do just to get into college?
+Yeah, two years.
+California, it's actually three if you go to either UC or CSU.
+So, like more elite colleges,
+you may actually need four years of foreign language.
+All right, now, four years of foreign language,
+if you like, is enough to get how many people to fluency?
+Yeah, almost nobody, right.
+So, yes, I mean, I looked at the general survey.
+So, out of people who only studied a foreign language
+in school, under 1% claim that they can speak the foreign
+language very well, right.
+Now, how many jobs are available to people
+who can half speak a foreign language?
+Yeah, very few.
+Maybe high school Spanish teacher, actually.
+You've seen King of the Hill, but even that,
+that's a little unclear.
+But, you know, and there's the obvious point of, look,
+thanks to immigration, there are tons of people
+who are totally fluent in the foreign language.
+You don't need to go and get a native made crummy imitation.
+So, there's like no real point of studying a foreign language
+for most people, but you need it to get into a good college.
+And then, and if you don't get the college degree,
+then you need it for a good job.
+So, you have to go and do this thing when you're a teenager
+that has no apparent effect on your productivity
+in almost any job you're going to do.
+And yet, if you don't do it, you are really hurting yourself.
+Yeah, so in my book, I point out I could not be a professor
+in this office if I had just said foreign language is stupid.
+You don't need it in America.
+Instead, I went and did three years
+of god awful foreign language instruction, which was both,
+failed to teach me the language, but also filled me
+with great anxiety about Spanish.
+Because, like, what they did to me.
+It was horrible.
+Once a month, you had to memorize a speech in Spanish
+and deliver it without any notes.
+Because that's a great way to learn a foreign language, right?
+Is to give a memorized five-minute speech
+in a foreign language.
+That's how you really learn to speak, right?
+Whereas, we never actually spoke to each other
+in the foreign language in class.
+Anyway, so I still get really freaked
+out when I remember these horrible times.
+I have them like nine times.
+And then, on the last one, the teacher,
+the teacher said it wasn't for a grade.
+And so, and then I did a really bad job.
+And then, she said, well, in that case,
+I'm going to drop you a full grade in the class.
+Like, you didn't say that was a possible effect.
+In fact, I specifically asked, what if you do a terrible job?
+And the effect, no, as long as you get up there.
+And then, after everyone else had gone,
+then she did the sub game imperfect thing of saying, no,
+I'm not really going to drop your grade.
+Anyway, that one, like, compounded the PTSD from that.
+Perhaps I'm more vulnerable to this than I am.
+All right.
+Anyway, and then, if you start making lists of other classes
+that you must take to advance along the educational pyramid,
+even though you are almost certain
+to never use it in real life.
+So, like, history, how often do you use that in real life?
+Like, regular social studies.
+You know, like, you guys,
+you're getting your PhD in economics.
+But, like, how was your social,
+how important was your social studies instruction
+in K through 12 for you being here today?
+Did you even learn supply and demand?
+Right. So, and yet, how many years
+of social studies did you have to do?
+Or, yeah, like, it was on and on and on.
+And yet, even, like, showing two lines crossing was beyond them
+to actually tell the students about this stuff.
+So, there's that.
+And then, there's things like you have to do gym.
+Like, if you just refuse to do gym,
+then you can't graduate from high school.
+And then, you can't go to college.
+So, all right, another weird thing.
+And then, you know, just go down the list
+of all the classes you've ever had to do.
+And, like, what was the point of them?
+So, people, you know, a lot of people assume I'm talking
+about college.
+I'm not talking about just college.
+I'm talking about from day one of kindergarten.
+This is the way the world seemed to me.
+Day one of kindergarten, there's a bunch of things we had to do
+where if you didn't do them, there was a big problem.
+And, you might even be held back a grade.
+And yet, when you need, so, like, what's that?
+Like, singing and dancing?
+Yeah. So, when my kids were in grades four through six,
+they had to do three different music classes.
+They had to do chorus, then music appreciation,
+and dance, all three.
+I actually tried calling up the school and saying,
+is there any way to get out of any of this?
+Could they just go to the library?
+And, no, there's no way to get out of it.
+You must do this stuff because there's so much
+of the modern economy is based on music and dancing.
+Now, you know, a lot of people want to say, oh, but it's,
+you know, like, people learn
+and people enjoy these subjects.
+First of all, there's a lot of people who don't enjoy them
+at all who are totally miserable, right?
+If you go and look at any mandatory dance class
+for young kids and look it out, the expressions on the boys' faces,
+at least, they are not only unhappy, they are having some
+of the worst experiences they will ever have in their lives.
+I've seen boys being forced to dance just like this.
+Like, not just one or two, they're just like,
+they're just so miserable and so humiliated.
+And yet, they have to do it.
+So, in any case, no matter how much most people enjoy it,
+there's still the puzzle, why do employers care?
+Do employers, are employers supposed to care
+if you enjoyed yourself when you were in kindergarten?
+No, they're supposed to care about your marginal productivity.
+So, unless you're going to say that these dance classes are
+somehow raising productivity in non-dance areas,
+seems like a real stretch, right?
+Again, there's always people to say, well, look, you can't,
+well, like, you know, like, who knows what
+if that raises productivity?
+Well, I suppose we don't have any definitive proof
+that dance doesn't make you a better investment banker.
+But, it's, that seems like one
+of those extraordinary claims requiring extraordinary evidence,
+not just something that you would believe
+if someone says so.
+All right.
+So, anyway, first puzzle where I have the longest book I think I'll
+ever write, why does non-job related schooling still raise
+your income?
+Or, in the words of the class smart aleck, what does this have
+to do with real life?
+What does trigonometry have to do with real life?
+All right.
+Well, now you know, right?
+Life has just been one giant trigonometry exam ever since,
+right?
+Not my experience.
+All right.
+Now, here are some other ones
+where the answer may be more obvious,
+but it's all part of the same model.
+So, why is it that people often won't buy a good
+without a warranty?
+Even if you know that you're not going to go and cash
+in the warranty or use the warranty.
+Like, suppose you're a tourist, you're driving through a town,
+you buy a good, and you look to see whether there's a warranty,
+even though you know that you're leaving town
+and it will be too inconvenient for you
+to go and return the product.
+Why do you look for a warranty even if you know
+that you're not going to be collecting the warranty?
+Or, here's one.
+Why use nice paper on a job application?
+So, when you are sending out resumes, people often advise you
+to go and get the nice paper, the 25% cotton paper.
+What's the big deal?
+Do you really think there's a person opens up the envelope
+and goes, oh, I like the paper.
+It's so good.
+I love this person.
+Is that the story?
+It seems hard to believe.
+That's the story, right?
+Or, why is it there's so many jobs where you have
+to wear a suit to work, right?
+Somewhere you deal with the public,
+you might think the public cares about how you look,
+but what about ones where you don't?
+Why do you have to wear the suit, which has got to be one
+of the dumbest uniforms ever made?
+Especially like summer in D.C., a lot of people were wearing suits
+in D.C. in the summer.
+Why not just say everyone has to wear an Eskimo outfit
+or something like that?
+Why is that the uniform?
+It's so uncomfortable, it's so unpleasant, it's horrible.
+But a lot of jobs, if you just say, look,
+I just don't wear that uniform, I don't like it, well,
+then you're going to not like it in a different place
+of employment because we're not hiring you.
+All right.
+Here's another one.
+Why are wedding rings so expensive?
+How else could two months' salary last forever?
+All right.
+And there's a place like, so that means that when the price
+of the rings goes down, I just have to buy a bigger ring.
+It's kind of a weird framing, and yet, it is actually a common attitude.
+Right? And in particular, just imagine that someone figures
+out a way to make diamonds that are chemically indistinguishable
+from natural diamonds, but they can make them for a penny a diamond.
+How long will people continue giving diamond engagement rings
+after this innovation?
+Like a day?
+Hours? Right?
+So probably not very long.
+There's something about it where it's got to be expensive.
+Or here's one that was often asked during the 1980s.
+Why are there so many countries that have arsenals of weapons sufficient
+to destroy their enemies 100 times over?
+What's the point of that?
+Right? Why would you have weapons that are more
+than enough to destroy the world?
+Right? And why go and have a big parade where you show them off?
+Like there's the classic military parade in Red Square
+where they just have like an endless row of scary-looking missiles
+and tanks and everything.
+And like you don't want to really launch those things.
+You'll be dead too.
+It's like look at our arsenal.
+Look. Right?
+And then here's the last one, which may seem really weird,
+but it's also been resolved using the same model.
+Why do male peacocks have such large tails?
+So have you ever been in a place that had both male peacocks
+and then female peahens, as they are called?
+So what do peahens look like?
+Yeah. Yeah.
+Yeah, they're like ugly chickens.
+All right?
+Like small.
+Like they don't look like, like you would never recognize
+as peacocks.
+They're just like, what is this thing?
+And then there's the peacocks going around with the tails,
+some of them like 15 feet long.
+And we're supposed to believe natural selection said
+that that's what's going to happen.
+I mean the peahens, like yeah, sure,
+they're like designed to survive.
+Right? But the peacocks look like they're designed to die.
+Like look at these things.
+Like anyone could catch these animals.
+Right? And like what are they, killing wolves?
+With their feathers?
+Like what in the world is going on?
+What is this creature?
+Which, is Darwin wrong?
+Like this creature could be here?
+Seems like it's a great counter example.
+It's an animal that is selected for almost instant death
+in the wild.
+Yet there they are.
+So how can that be?
+All right.
+So now we have these puzzles on the table.
+Why don't we take our 10 minute break,
+during which time you may resolve all the puzzles
+or anticipate the resolution.
+Ah, yes, yes.
+And why don't we go and turn in homework.
+And you can also at this point pick up the answer key
+for homework six, as well as homework seven.
+All right, let's get back to work, please.
+All right, let's get back to work.
+All right, so before the break we had the cliffhanger.
+And you've all been asking yourself,
+how will the economist solve these incredibly difficult
+seven puzzles?
+How will they, will he be, will he throw up his arms
+in total confusion?
+Or will he have devised a theory that explains each
+and every case?
+Right? And of course, the answer is, we've got a theory
+to explain each and every case.
+So at least a popular way to resolve all
+of these seemingly paradoxical results,
+those are the name of signaling.
+There's lots of signaling models,
+but they've all got three basic assumptions.
+First of all, there's the assumption
+that there are different types of people, firms, animals,
+things.
+All right, so the types might be able versus unable,
+smart versus dumb, honest and dishonest,
+hardworking and lazy, all sorts of possible types
+out there in the world.
+All right, so that's step one.
+All right, step two is that we've
+got asymmetric information about type.
+Why?
+Because you know whether you're hardworking or lazy, probably.
+But if you go to interview for a job,
+and they ask you, are you A, hardworking, or B, lazy?
+What does almost everybody say?
+Hardworking.
+Everyone's hardworking, which means
+that there's asymmetric information,
+because you know whether you're hardworking or not.
+But as far as employers are concerned, on the surface,
+everybody looks the same.
+It's a bunch of people all claiming
+to be married to their jobs.
+So there's that.
+Also hard to observe the types correctly.
+And then the last assumption, the key one,
+is that different types have different costs
+of doing something observable.
+So there's got to be different costs in observable activity.
+And then when you put these three together,
+the result is if you are the good type,
+then you know that you are not going
+to get credit for being good just because you say I'm good.
+Instead, what you're going to want to do
+is to find something to do that convinces outside observers
+that you're good.
+You want to do something that would be really
+expensive for a bad person to do,
+less expensive for a good person to do,
+so that it is believable that you actually are good.
+That's the whole idea.
+Now, if we have something like this,
+then it can be in the interest of whoever
+is in higher demand, whoever gets better treatment
+in the world, to go to school and study Aristotle.
+Not because you need to know it.
+Aristotle to do a good job, not because it has any effect
+on your productivity as a worker,
+but because you are showing off.
+Like, look at me, like Aristotle.
+All right, now that may seem like, well, who does that?
+Well, the Aristotle one in particular is unusual,
+but I have completed the college curriculum.
+Ta-da, that is a big deal, right?
+Whereas being, I'm one class short
+of completing the college curriculum,
+oh, fire me, not a very good pitch.
+All right, so I've completed a college curriculum.
+Right, that is a very compelling, right?
+And the idea there is that there are good and bad workers,
+right, but of course, everyone claims to be good.
+But if you are a good worker,
+you also probably find it easier in some sense
+to do well in school and to finish.
+Whereas if you're not so good,
+then you probably don't find it so easy, right?
+And the idea is there's a lot of overlap
+between the work ethic and the school ethic.
+Someone who's a good student is normally a good worker.
+Doesn't need to always be true, of course.
+It just needs to be a probabilistic relationship
+because in business, if business is not a logic class,
+you're not demanding certain proof
+that any strategy is going to pay.
+Instead, you're just looking for a good bet, a good gamble.
+Is this person going to be the best use of my money
+that I've got, that I can think of,
+that I've been able to find?
+All right, so if you're behind demand,
+then it's gonna be in the interest of your school,
+fill out an application for extra care,
+provide a warranty, and even if the effort
+is directly valued by neither buyer nor seller,
+even if by itself, no one actually
+really likes what's happening,
+even if nobody really likes sending the nice paper,
+nobody really likes receiving the nice paper,
+still the fact that you made the extra effort
+says something good about you.
+All right, so another way to think about it
+is people want what the effort proves
+you already had in the first place.
+The point of taking a bunch of pointless classes in school
+isn't that you're learning how to do a pointless job.
+The point is that you've shown,
+look, I have gone and jumped through all these hoops
+and that makes me the kind of person that you wanna hire.
+Right, so why does non-job-related schooling
+still raise your income?
+Because even if it's irrelevant,
+it still signals good stuff about you.
+Right, it still signals that you're smart,
+signals that you're hardworking,
+and I think probably the one that's most neglected
+is it signals that you are a conformist sheep.
+Right, that you will submit to social expectations
+and do what you're supposed to do
+because when you're hiring a worker,
+do you want someone who's sitting there
+questioning the relevance of the job?
+You want someone saying, well, I don't really see
+what the point of doing this is,
+I don't even know why we sell this product to people.
+Well, look, that person might be right,
+but do you wanna hire that person?
+I do not.
+Right, I don't wanna hire me.
+I don't, so I go, I wanna hire my wife.
+I didn't wanna work for my wife,
+but I'd like to hire her, like so.
+Like so, like when you say something needs to be done,
+just like, I'm going to do it to perfection.
+Not saying, but is it worthwhile?
+No, you don't want that person.
+Right, you said you want the conformist sheep,
+the person that follows the rules,
+does what they're told, conforms, complies.
+Right, all these things are highly desired,
+and of course, it's really hard to get through school
+if you don't have this stuff.
+You know, grad school, you may look around
+and see a few people look nonconformist
+in a few superficial ways,
+but they're still pretty conformist.
+I mean, look at me.
+I got through 21 years of school,
+and it wasn't by constantly fighting the system, right?
+It was by strategically saying,
+well, what parts of the system can I get away with breaking?
+I'll break those.
+But all the other stuff, well, what do I have to do?
+Really?
+And like sometimes I hear something,
+oh, I have to do three hours of foreign language?
+Yes, fine.
+I'll do three hours of foreign language.
+I won't like it, but I won't allow that dislike
+to prevent me from doing all the work
+and getting good grades.
+All right, and then why not buy goods without a warranty?
+A warranty is a signal of product quality,
+because it's really cheap to put a warranty
+for a product that nobody ever returns.
+It's really expensive to put a warranty
+in a product that people hate.
+So if all your customers are satisfied
+in saying I pay all the shipping costs,
+whatever, any slightest problem,
+get all your money back, no questions asked,
+that's a great promise to make if everyone loves your stuff.
+If your stuff is junk,
+it's a really expensive promise to make.
+And then like the nice paper on a job application,
+just showing that you're putting in this extra effort.
+I'm not claiming there's a huge return,
+but it's like 20 bucks worth of paper.
+So if there's a 0.1% chance of getting a better job
+because you put in the better paper, isn't that worth it?
+Like just proofreading your stupid resume,
+how many people don't do that?
+Right, like how hard is that?
+It's hard enough that maybe a quarter of people didn't do it.
+That's how hard it is.
+And that's all that matters.
+And often with signaling,
+there's a certain very reasonable kind
+of puzzlement at mankind,
+because it's like, you're telling me
+that there's some people who can't graduate
+from any college program at all.
+In all of George Mason,
+there's not a single major that would just wave you through.
+You haven't been able to find that major.
+And yet you go and look at the data
+and you see that only about a third of young people,
+like a third of you have finished a college degree.
+And you maybe say, how is that possible?
+Wrong question to ask.
+Right question to ask is,
+well, a college degree puts you in the top third.
+That pays off for me, good job.
+And like, what is keeping the two thirds from doing it?
+There's some majors that are so easy.
+The standards are so low.
+And yet they're not even doing that.
+Right, and you have to sort of look around
+at your friends who don't go to college.
+And you're like, why don't they just go
+and do the easiest stupid major,
+which doesn't pay that much,
+but compared to what they're doing,
+it's still a good deal, it would seem.
+But yeah.
+I'm sure this payoff is there.
+Ah, so that's a great question.
+And actually, let me just back up and say
+that next semester, I am going to be teaching
+a cross-listed seminar on my education book.
+So it'll be open to both undergraduates
+and graduate students.
+And the answer is, if you know for sure
+that you will finish the program,
+then even really crummy majors
+from crummy schools are a good investment.
+The main reason why college is a bad investment
+for most people, in fact,
+is most people just have a really low chance of finishing.
+So if you're in the bottom fifth
+of high school math scores,
+conditional on going to college,
+you have maybe a 5% chance of graduating in five years.
+There's still the puzzle, yeah,
+but that's given what they're doing,
+why don't they just find the easiest major on campus
+with the easiest teachers?
+Why don't they go to the Rate My Professor website
+and find which rates professors for easiness
+and just do all the easiest professors?
+I've noticed there is no ranking on Rate My Professor
+for amount of job skills taught,
+but there is one for easiness as well as hotness.
+Okay.
+I'd love to see where you are on this.
+Yeah.
+Yeah.
+Yeah.
+Hot tamales all the way for me.
+Yes.
+All right.
+So, and then like, why do you have to wear a suit to work?
+Well, wearing a suit, it signals conformity.
+And why does it have to be so uncomfortable?
+Well, if the conformist outfit were shorts
+and a t-shirt and flip flops, like anybody can do that.
+So, you know, like by making it an uncomfortable uniform,
+it actually makes it a better signal.
+Right, and then why are wedding rings so expensive?
+Well, a wedding ring is a symbol, is a signal of devotion.
+So, if wedding rings be suddenly became super cheap,
+you'd have to figure out a way of getting something
+that wasn't super cheap.
+Make it out of platinum, but like add extra gems,
+like do whatever it takes to go
+and make it worth too much salary,
+because that's what it takes to actually be convincing.
+Yes.
+Doesn't Robin Hanson have an example
+where you place a bet that you collect
+after a certain age or something to commit to like the-
+That sounds just like him.
+I don't remember that example,
+but that's totally another way.
+But as I was saying, like just as for a job,
+a lot of what you're signaling
+when you want to get a job is conformity.
+And I think that is actually very general.
+So, if almost everyone else in your society
+signals marital devotion with a wedding ring,
+if you come up with a different bet
+that someone collects at a certain age,
+that does signal that devotion in a sense,
+but also signals that you're really weird
+and that you either don't understand
+or don't care about social norms.
+And that does tend to reduce your marriageability
+among superficial people.
+Which is almost everybody.
+Yeah.
+And then you have tons of weapons
+that you don't even tend to use.
+It's like, don't mess with me.
+I've got a giant arsenal here.
+I'm scary.
+So, bend my will.
+Right, and then the peacocks.
+Now, here biologists, totally independently of economists,
+have like the general story is,
+if you can survive with that tail,
+you must be a really awesome peacock.
+You must be fast and vicious
+and you must have every other benefit.
+A more specific one that came along later
+is that it's a very strong signal
+that you don't have parasites.
+Because if a peacock looked like a pea head,
+you might be running with parasites.
+But if you have that lovely tail,
+that would have been eaten away by parasites.
+So that's a way of saying, look at me, parasite free.
+You know you want to mate with me
+and then we'll make peacock babies
+and it will be great.
+And you won't get parasites from me,
+the babies won't have parasites.
+It's gonna be great.
+All right, so.
+And of course it doesn't need to be conscious.
+It doesn't need to be that the peacocks
+are there looking and saying,
+huh, a giant tail, a strong signal of parasite freedom.
+Instead could just be that per everything else in Darwinism,
+that if you prefer the tails, that you get better mates.
+And if you have the tails, you get better mates.
+And that's all that Darwinism requires.
+You don't need any actual conscious understanding.
+Just like so many other things like,
+why is it that males are generally not attracted
+to 80 year old women?
+Well, most men don't actually have a theory about this.
+So they just don't, that's just,
+I just don't feel attraction.
+But Darwinism has an explanation for the emotion,
+which is, well, if your ancestors had that emotion,
+then you would have wasted a lot of mating energy
+on infertile women.
+And therefore you would not have
+a lot of descendants right now.
+So who are we?
+We're the descendants of the people
+that were attracted to fertile women
+and were not attracted to infertile ones.
+Okay.
+All right.
+So, questions, questions.
+All right.
+All right, now let's just,
+let me just give you a numerical example.
+It's a pretty simple one,
+but just to illustrate how these models work.
+All right, so suppose that we got two kinds of workers.
+So we've got good workers and bad workers.
+Of course, you could do it with a continuum,
+but then it's a lot more math.
+All right, so we've got two kinds of workers.
+We've got our good workers.
+So good workers are worth 100K to me,
+and bad workers are worth only 25K to me.
+Okay.
+All right, but it costs good workers
+only 25K to complete school,
+whereas it costs bad workers 50K to complete school.
+Right, and there's many different stories
+you can tell about that.
+One of them could just be that bad workers
+aren't very smart, and so they have to try more times
+to finish.
+Another could just be that people don't like doing things
+that are hard for them.
+Right, so we ever thought,
+what is it like to be a C student for K through 12?
+To spend 13 years having the adults in your life
+tell you that you are mediocre at best.
+Sounds very bitter, right?
+So, and you may notice with the younger kids,
+we try and make everyone feel good, right?
+Say, oh, everyone did great.
+Some people did especially well, right?
+So try to go and make people feel good,
+but just not doing that well is very bitter for people,
+so there could just be the sheer emotional pain
+of having to endure something that you're not very good at.
+So there's lots of ways that you can think about it.
+Or it could be a financial cost,
+where if you're a good student,
+you only have to go to college once.
+You just pay your tuition four years in a row,
+and you're done.
+But if you're a not so good student,
+you might be paying four-year college tuition
+for five, six, seven, or eight years, right?
+So normally the way that we report college completion rates
+is by like five or six-year graduation rates.
+So, like, well, what is the,
+so for full-time students,
+what is roughly the four-year graduation rate?
+So this is for full-time students,
+people who are only going to school for those four years.
+So what percentage actually can finish a four-year degree,
+do finish a four-year degree in four years, roughly?
+About 40.
+Yeah, so only about 40.
+So the 55 number is for five years.
+So five years, a four-year program completed in five years.
+But with five years tuition as well.
+And five years worth of foregone wages.
+So this means that whenever you see a calculation
+of the return to education,
+or return to college rather,
+that assumes that people finish in four years,
+well, that's true for some people.
+But for a lot of people,
+you should be dividing by four, by five,
+not four, or by six, or by seven, or by eight.
+So, yeah, I think by six,
+six-year graduation rate if you're full-time goes up to 60,
+and then it really inches up after that.
+So these are all things that would affect
+the expected cost of going to school
+based upon how good of a student you are.
+Okay?
+All right.
+Now, suppose that as an employer,
+I can tell whether you went to school or not,
+but I can't tell how good you are.
+So that is key.
+All right?
+And then finally, let's suppose that if you,
+that if you don't work for me,
+then you get 50% of your value to me.
+So that could be like what you earn in self-employment.
+So basically, suppose I'm the only employer,
+and you either work for me or you're self-employed,
+and if you work for yourself,
+then you're not as efficient.
+And so, in that case, a good worker makes 50,
+and a bad worker makes 12.5.
+Okay?
+All right.
+Now, in a single-equivalent agreement, what do we need?
+Well, we need, first of all,
+I, the employer, must maximize profits.
+All right, pretty simple point.
+But then, here are the signaling requirements.
+Good workers must not want to look like bad workers.
+Well, who would, right?
+But then, there's the real catch.
+Bad workers must not want to look like good workers.
+It's like, well, of course bad workers
+want to look like good workers.
+But at what cost?
+At what cost do they want to do that?
+The cost has to be high enough
+that they don't end up working.
+All right, so what happens?
+Well, we can go and think about a lot of silly strategies.
+Like, I could try going and just paying everyone
+the same amount.
+So, suppose I paid everyone the average.
+I can suppose it's like 50-50 splits here.
+So, they're equally likely.
+So, if I just paid the average,
+the average productivity would be,
+let's see, would be 62.5.
+So, if I just went and said,
+look, I'll hire workers for 62.5,
+then who's going, let's see, what am I gonna get?
+Let's see.
+So, I paid workers 62.5.
+Actually, I would get everybody working for me.
+That, because these good workers,
+they actually are only gonna make 50
+working in self-employment.
+But then I get a workforce that is,
+so I get a workforce that's all the good workers,
+all the bad workers, and I break even.
+So, that doesn't sound like a very good deal for me.
+Does it?
+Right, well, we'll see.
+So, we can find anything that would actually make a profit,
+then we have a better deal.
+All right.
+Now, in equilibrium, a key clue here
+is that the good workers,
+it costs them less to get education.
+So, of course, you'd expect the people
+who can get education at a lower cost
+are gonna be the ones more likely to do it, right?
+Okay, all right.
+So, you might think about an equilibrium.
+Well, how about we have one where I go and I pay good,
+and I pay educated workers,
+I pay educated workers, say,
+let's see, what would it be?
+So, let's see.
+So, if I want, so I want people to have education,
+then I'm gonna have to go and pay the good workers
+at least 75,000, right?
+Yes, because they can make 50,000 without me
+where they don't need school,
+and then there's 25,000 tuition cost.
+So, if I want to get any good workers,
+I gotta pay at least 75,000, all right?
+But if I pay 75,000,
+then I'm also gonna go and get all the bad workers.
+Right, so I don't like that.
+All right, so, right, and of course,
+if the bad workers won't want to work for me
+for under 12.5,000,
+because then they'd be better off self-employed.
+All right.
+So, what if I were to just go and offer everybody,
+so I would go and offer everybody the 75,000,
+and then the problem is that bad workers
+would want to be educated, right?
+Then bad workers would say,
+hey, well, then I'm educated too,
+and then I'm actually not getting educated workers,
+or I'm not getting good workers.
+When I buy educated workers,
+I'm getting an average worker.
+I'm getting 50% chance of good, 50% chance of bad.
+So, how about this as an equilibrium?
+So, I go and I offer good workers 75K, right?
+And I can go and then offer the bad workers,
+what do I offer?
+I offer the bad workers 25K.
+And then for the good workers,
+what I'm going to get now
+is I'm gonna make a profit of 25,000 off of each of them.
+And for the bad workers,
+for them, I'm just gonna break even.
+Right, for them, I'm just gonna break even.
+You know, I could go,
+and I could cut the pay that I offer bad workers,
+but then I just wouldn't get any bad workers.
+Right, so the bad workers would rather be self-employed.
+Oh, let's see, actually, hold on.
+Let's see, if I cut the pay, ah.
+Wait, if I cut the pay,
+no, actually, if I cut the pay for bad workers anymore,
+they'd want to get education and then pretend to be good.
+Right, suppose that I went and offered 24,000K
+for people who didn't have college degrees.
+If I did that, then how much of a,
+but I still offered 75,000 for people
+that have the education.
+Then, how much of a gain would a bad worker get
+from going to school?
+$1,000.
+Yeah, so gross gain of 51 and a net gain of 50,
+so they'd want to go.
+So in that case, bad workers would want
+to look like good workers,
+so that's going to be the problem.
+All right, so anyway, so my proposed Nash equilibrium
+is precisely this one here.
+Right, so let's see.
+I guess, so you could do just as well, actually,
+by offering bad workers, say, zero.
+So let's see, actually, if you offer,
+no, if you offer, excuse me.
+You shouldn't actually say good,
+you should say educated and not educated.
+So offer educated and not educated.
+Yeah, so if I were to go and offer
+non-educated workers zero,
+then the problem is that they would want
+to come work for me, but they would want
+to get education and come work for me,
+and then I'd be stuck going and paying
+these educated workers who aren't very good.
+So I think, so this here looks like our Nash equilibrium.
+Right, now we can look at the deadweight cost.
+All right, so expected surplus per hire
+is actually going to be 31.25K.
+Why?
+Because, remember, so half the workers are good,
+half the workers are bad, right,
+and for the good workers, the surplus is 100 minus 50,
+because remember, 50 is what they can get
+in self-employment, so there's 50,000
+in surplus working for me.
+And for the bad workers, there's going to be 25 minus 12.5,
+25K minus 12.5K, so it's going to be,
+well, I'm not gonna say bad,
+50k surplus for these guys and
+12.5k surplus for these guys and if we just go and multiply 0.5 times 50k
+plus 0.5 times 12.5k
+Then we get what then we get an average of 31.25k
+So an average higher is a surplus of 31,250
+right, but
+In the signaling like equilibrium, we're only going to have a surplus of 18,750
+Why? Because half the workers go to school and
+In the model school doesn't actually teach you anything useful
+So if half the workers go to school and pay a cost of 25,000 then we have to subtract out how much from total surplus
+What's half of 25,000
+Yeah, 12.5k minus 12.5k
+Which then equals what we actually realize which is 18.75k
+And then where did that where did the 12.5k go? Deadweight loss of the education
+Deadweight loss of the education, people put all this energy doing a useless thing
+Intrinsically useless thing in order to convince employers that the good workers are good and the bad workers are bad
+And that's the idea
+Okay, all right now in certain settings you might be able to actually set up a costless cash transfer as the signal
+So something so
+You might like that example where you go to like if I go and break my promise then you go and get some cash
+but
+That you know, so that might be an equilibrium too or if we go went and expanded the model to allow for other things maybe
+But at least in this setup, there's actually just a inefficient outcome
+And of course you say well, it's good to have some information
+So, you know, it can be better than nothing and yet still there can be a lot of waste going on
+A lot of waste relative to either a world of perfect information
+But also relative to a world of symmetric and perfect information
+So imagine that good workers didn't know they were good bad workers didn't know they were bad
+In that case there'd be no reason for anyone to go and break their promise
+There's no reason for anyone to go to school. You don't know whether you're good or bad
+So you don't have any problem. You don't have any qualities to go and prove to anybody else
+And in that case employers would just treat everybody like their average and then we wouldn't have to go to school
+Yes, what's that? Yippee, yippee. Yes. Well depending upon whether you're on the supply and demand side of this industry
+This may affect your view. Okay. Now, of course, this is just a model and
+I have never actually met anyone and I certainly don't believe that a hundred percent of all education is just meaningless jumping through hoops
+There's lots of things that you learn that actually do enhance your human capital in school
+But there's also so many things that don't
+There's so many things that don't
+And the point of the signaling model in my mind and in my book is precisely to talk about all the cases where human capital
+Doesn't seem like a very good explanation
+Now you might say well if there's no one who really believes that this is the theory 100% of the time
+Is there anyone who believes in this theory 0% of the time? And the answer is yes
+I know a lot of labor economists actually believe that signaling is empirically irrelevant and that
+The sole reason why education increases your earnings is because it actually improves your human capital
+Now when I bring like it gives you job skills now
+Whatever I've actually had a chance to talk to them and say well like what about foreign languages in America?
+Like how can you say that?
+Then they then this is the time the economists suddenly become big fans of psychology for the first and only time of their life
+and they say well
+Learning a foreign language expands your mind and it teaches you how to think outside the box and just improves you as a worker in so many
+incalculable ways
+Or so I assume I've never actually read any psychological research on any of this, but must be and
+Then if you said well actually I've gone and read the psychological literature on this they don't find any evidence of that at all
+What psychologists generally find is that learning is very narrow and that if you're lucky as a teacher students learn the material you teach them
+Their ability to actually go and take a foreign language and use it to go and think outside the box in business
+It's just wishful thinking
+Right and that's where the economist. I don't believe that show me the articles
+You can see you send them the links never hear from them again
+All right, or does that prove anything?
+so the people the people who study this have hundred years disagree with you and
+Common sense disagrees with you, but you're gonna stick to your guns
+You're lost I don't know what else I could do
+Yeah, so Ashley a question
+So there's a number so probably the one that's got the most attention recent years is the handbook of education economics
+there's a piece by
+Fabio manga and run and
+Robert Robert topple that looks at both it looks at both positive and negative externalities of education and
+Clay and claims not find either
+so and
+Right and and specific and specifically on the view this video
+So the look of this this actually implies there are negative externalities of signaling right because it's a zero-sum activity
+Right as it was actually negative some activity because when you go and you get more education you're making your you are
+Getting extra income of yourself, but you're making everybody else look bad by comparison without raising overall productivity
+Right so think about this so in this model does education raise worker productivity at all
+Now yet it does raise individual income. How can something raise your income without raising social productivity?
+Its redistribution yes the signaling model is a model of rent-seeking
+That's one where you go and do something that's totally socially wasteful
+But it let it improves your position and people do it
+You know why do people do something that doesn't have society? Same reason people litter same reason why people talk too loud in the restaurant
+Same reason the reason they pollute because the effect of themselves is that the negative effect is very small
+And the positive X very big and that's all and human beings are selfish QED
+Yes
+Yes, yeah, actually lowers the pie because you burn up resources do you know in the signaling so yes?
+So I actually negative some strictly speaking
+Yes
+Yes
+But is our model of like you saying oh, you know you've always forgotten ways to stop
+But is there a model of like at least higher level of higher education in college that it's really just it's a consumption good
+I mean four years drinking five or six years drinking beer and you know using drugs
+That that is that is a great question also
+Here's what I'd say certainly do like it's very hard to argue that the actual education part of it is
+Consumption for most people just look at attendance even when you want to even even when classes are getting when there's a great
+So you know not graduate school graduate students. They either they know either
+They were they really want to be here for one reason or another but go to undergraduate classes
+Mason is totally normal so typical attendance in college classes about is about 60%
+All right and notice
+Generally you are free to attend any college class you want, but there's almost no one doing it for the consumption value
+So I think you might say that the social aspect of school is consumption
+Yes, yes, but it's not the actual education process that people think of as being the thing that is actually valuable
+But the other thing is of course that you could be going and having that fun while making money instead of paying someone
+How many people would go and pay for college out of their own pockets for the consumption value?
+If you would get if you get if you could get started if the job that you're gonna get when you're when you're 22
+You can immediately get when you're 18
+So I'd say look you could like you could actually get more consumption value when you consider that you'll be a college student
+You could get more consumption value when you consider that you'll be getting paid instead of having to pay
+Right, so
+Yes, you do have to do that
+So in general people consider graduation to be a good thing on balance because whatever reduction fund you're getting
+You're getting is made up for by the extra money, which also allows you to have more fun with less parental supervision
+Also often enjoyed. Oh, you know something else that's very striking to me is that
+Whenever I pulled undergraduates about whether they live on campus where you can participate in campus life or off-campus an apartment
+Almost everyone says they want to live off campus
+Which also seems to cut against the idea that like this on-campus living is really is really super fun for people
+Again, I bet those answers do puzzle me a bit
+Yeah, and I say was there a difference between only freshmen and old and upperclassmen and you know
+There's some difference but even there like students seem to really like the idea of having their own apartments
+Which if you had a job?
+You would probably have
+So yeah, so consumption value for a person, you know, I wouldn't totally dismiss it
+But you know, I mean my view is it's mostly just because your parents are paying for it
+That people are really in the other people are really interested in doing if you had to pay for this consumption value out purely out
+of your own pockets
+It's like you know
+Like if you're just doing if you like if you had to pay for all out of student loans at market interest rates
+How many people consider that a good consumption deal?
+Sound like too great with you
+All right. Now if you go and take my cross-listed seminar on my book
+Which will be able to teach
+Almost all of the economics of education but through the lens of a single book that filters it all
+I think of it as a I think of the book in part is just a good introduction to education economics
+Anyway, go over a bunch of the arguments for why the signaling model is so empirically credible
+Not that it's 100% but that explains a lot
+So to me the most convincing argument is just simply that
+Most things most subjects are obviously useless or nearly useless and yet all subjects seem to pay
+So there's two literature. You know, so there's the literary
+You can just look at the basic facts about what subjects people study and when you just go and look at how many years people
+spend on subjects of incomprehensible uselessness
+Like in America foreign languages history like think about all the time spent on studying that like classic literature instead of business writing
+Like Shakespeare you learn English as a spoken 500 years ago
+And what job require what job and you're like actually uses that very very rare
+So just the contrast between what we what we learn
+But then there's a whole other literature estimate estimating the actual financial benefits in the labor market of all this education
+And the punchline is that there's a lot of people who are just like
+I'm not going to go into all this education and the punchline is that
+While the payoff varies it seems to be positive for almost everything
+so even art history fine arts
+Anthropology all these subjects that your parents would be horrified if you're if you want to major in them
+All of them do actually raise wages causally and substantially relative to just having high school degree
+Art history is way worse than logical engineering
+But they all have a clear payoff after you make all these physical adjustments that seem like it
+They seem like you should make so says like even the seemingly most useless coursework in the world still still pays and pays well
+Right so that to me is really the most powerful argument for signaling is just that and of course most of this
+You experience firsthand through in all of your years in the education system
+Yes, so like so many so many classes that you had to learn like why do I have to learn this stuff?
+Because it's up here. It's going to be on the test
+right this mentality, it's very strong and
+It's to me that someone would deny it after spending
+13 or 17 or 21 years in school like it was like come on
+This is like believe like it's like believing in Bigfoot
+It's like there's so much evidence that that you're wrong that this view is wrong
+and you keep sticking to it
+All right, so there's that so the book I spent a lot of time just going over
+Like how the subjects that people actually study
+But then I also have another argument. I put a lot a lot of weight on and that is
+So in the human capital model do employers pay you for what you used to know or what you know now?
+Pretty simple question do they pay you for what you used to be able to do or what you're able to do right now?
+Yes, they pay you for what you're able to do right now
+Now it is a very well established fact in educational psychology that students quickly forget most of what they learn
+In fact there are many subjects where you now know as little about it as the first as you did on the first day class
+Because you've forgotten it all
+or nearly all
+Right so how can we actually measure this?
+Well usually like an edgy and like an education research what they do is they might go and
+measure your learning at say the end of the summer or the beginning of the summer and then they measure at the end of the summer
+And then that's their or they might even measure what how much you remember a year later
+But in general there's not any long-term evaluation
+So like you know there's never for most people there's never a time where they go and see how much of your material
+From 10th grade you remember when you're 35
+Nobody bothers doing that
+So there's no data there, but I came up with a shortcut that I like and that is well
+Why don't we just go and look at how much adults know about different subjects they spent years studying in school
+And let's just make the assumption that they learned that 100% of what they know they learned in school
+And then see how much is that 100%
+For many subjects that people spent years studying that hundred they know if you give education credit for 100%
+You're giving it credit for next to nothing
+You're giving them giving it credit for a 50% chance of knowing there are three branches of government
+Stuff like that
+So on tests of civics history things like this
+People like the average American adults can usually get about half of the very most basic questions
+Questions so basic you might think it's impossible to not know the answer
+And if you're a phd student you almost certainly could get 100% on these tests
+But most people can't come close to 100% on even super easy tests
+Right and then here's my view so let me go this way so most someone knows only half the letters of the alphabet
+What do you call a person like that?
+Illiterate not half literate if you only know half the letters you cannot read at all
+Similarly I say if you only know half the most basic facts about American government or us history
+You don't know half of what you need to know you don't really know anything
+You are simply ignorant
+You know for all practical purposes, you know nothing
+So I say that's what you so even if you did think these subjects somehow were used on the job
+They have taught almost nothing
+Then there's also research on adult Americans reading and mathematical skills
+Many of these are so poor
+It's almost hard to believe how bad they are but a good rule of thumb is that
+If you like whatever you think that a college graduate should be able to do in terms of reading and writing
+That's about what someone with a with an advanced degree can do
+Whatever you think that a high school degree for someone with only high school you should be able to do
+That's about what the average college graduate in America can do
+So, you know
+This is just one random question, but I think it's very telling
+So if you just go and ask adult Americans to express
+1 1,000th in percentage terms. What is 1 1,000th in percentage terms?
+Only about 10 of Americans can do that problem
+adult Americans
+30 of Germans can do it actually
+So in some ways Americans are especially pathetic
+But it's mostly it's just that
+Americans are not that bad
+It's just like there's a stunning level of either not learning the material in the first place or simply forgetting it because you don't use it
+Because how often in real life
+Do you have to go and express 1 1,000th in percentage terms?
+Right. So besides this disconnect between learning and earning
+I talk about a number of other arguments
+So one of them that I find very convincing is the shared learning
+arguments, so one of them that I find very convincing is the sheepskin effect
+So yeah diplomas used to be printed on the skins of sheep
+So sheepskin effect is another word for diploma effect
+What does this mean? It means when you look at the financial payoff for education
+Most of the payoff seems to come from crossing the finish line of graduation and only a small amount from the from the preceding years
+In terms of the human capital model, this is very strange
+So you will do we withhold the job skills for senior year?
+Do we just make you waste time for three years and then finally senior year? All right, finally
+Now we're going to teach you some job skills
+At least you go to school in the United States
+This is the opposite of our stereotypes because senior year for both high school and college is generally called goof off year
+It's the year that you don't work hard and just sort of coast
+But in any case seems really odd to think that it's the last year where they finally teach you the job skills
+So if it really were about skills that it would seem like it should be that every year you get a
+Percentage point increase and that's totally not what we see
+So for high school, I mean, there's a lot of studies of this and there's plenty of dispersion, but still
+The average study finds that over half the payoff from high school comes from senior year
+For college average study finds that about 70 percent of the payoff comes from senior year
+Years one through three pay almost nothing and then graduation pays a giant bag of money
+Which is why it's what which is why it is sensible people freak out about low graduation rates
+Because if you don't graduate then you've got almost nothing out of the whole thing
+But remember tuition costs are proportional to years spent in college school
+But payoff is not payoff has this big non-linear payoff at the end
+Now the signaling model does not automatically tell you how much you're going to pay for a year
+The signaling model does not automatically imply that there will be this strange payoff at the end
+but
+the conformity version does
+So if a lot of what's going on with education is you're signaling that you're conformist
+And if the social norms of our society say that you are supposed to finish your degree
+Then if you refuse to finish that degree if you give up before short of the finish line
+There is an enormous stigma and a self-justifying stigma because if most people believe
+That only losers won't finish then on average it is the losers that don't finish
+Right and think about someone that gives up in their like after their junior year
+When 70 of the payment will be given to them if they just do one more year
+What is the mentality of a person who gives up so close to the end?
+What is wrong with them?
+I really don't know but all I can see is in the data
+Those people do very poorly. And yeah, so if any kid of mine was going to quit one year before
+No
+You are not quitting a year before we have paid for three years, maybe four or five years
+You are finishing over my dead body. Do you give up now?
+Right and this makes perfect sense because of course you're so close just a little bit more work
+How lazy are you? It's like it's not that I'm lazy. I just don't feel like it
+I refuse to submit to all this
+You will submit
+I am not going to put up with this terrible attitude but like the person who gives up in their junior year. I am not going to put up with it.
+just crosses their arms and says,
+no way, enough is enough,
+I refuse to finish my senior year.
+Do you wanna hire a person that stubborn,
+that big headed, that defiant?
+I don't.
+They're great friends, I love people like that,
+they're fun, but I'm not giving them my money.
+Yeah, Ash?
+Yeah.
+Is this, would this then be the only case
+where a sunk cost wouldn't be a fallacy?
+Well, so this is not a sunk cost,
+this is one where the benefit is unusually high over time.
+So, here's the thing is,
+it does make sense to get to a movie,
+think that it's not as good as you hoped,
+and then not leave.
+Because the marginal cost to you
+of finishing the movie is actually smaller
+once you're already there.
+You've already paid the commuting cost,
+you've already gone and paid the price.
+So it might be you only need $2 worth of surplus
+to justify staying in a movie
+once you've already shown up there.
+So similarly, here, as long as the value of your time
+isn't 70, of one year,
+isn't the discount of present value
+of 70% of the payoff of college for the rest of your life,
+then it would make sense to finish.
+Now, assuming in general,
+suppose that every year is equally costly,
+but the first year you get $1,
+second year you get $1,
+third year you get $1,
+and last year you get $7.
+It makes a lot of sense to go,
+and once you've already gotten to the last year
+stick it out because the payoff is unusually large.
+Yeah, you have a question there?
+Are there, I'm just trying to think
+about possible exceptions,
+and I was wondering like, you know,
+a nursing school or a-
+Yeah, absolutely.
+So like there are plenty of majors that earn more,
+and in general, higher earning majors
+do look more vocational.
+Yeah, but not just that,
+it seems like a nursing major,
+I mean, yes, there's some costly signaling involved
+in one's engineering degree.
+There are actually a few times
+when you might use something in class in your real life.
+Yes, so the might is key,
+but here's the thing is,
+in general people often think that if a subject is hard
+and they don't know about it,
+that it's all human capital,
+and they think signaling is just important
+in all the fields they personally know,
+but I found that whenever I talk to anyone in any subject,
+no matter how technical it is,
+no matter how vocational it is,
+they always will say they had to jump through
+a bunch of meaningless hoops
+that were irrelevant to the job.
+I'm not saying that's not true,
+I'm saying, you know,
+if the meaningless hoops to the actual information
+in art history is maybe 99.99.01,
+in nursing, if you had 10% of useful information.
+Yeah, sure, totally believable,
+and I'd say my only reason for doubting is that,
+so engineering is a higher absolute return,
+so it could be the signaling percentage is lower,
+it could be the signaling percentage is the same,
+but the human capital part is just more valuable.
+Like when they are teaching skills,
+they're much more valuable skills.
+So I mean, I know that,
+so my dad's a PhD in electrical engineering,
+he said the main thing they did was proofs,
+which are never used on the job by a practicing engineer.
+I mean, not surprising,
+like who teaches engineering PhDs?
+Yes, professors of engineering,
+and the professors of engineering don't generally,
+they have some connection to industry,
+but most of them are just professors
+who are like other professors,
+they like talking about abstract subjects
+of no practical interest to anyone.
+My dad never stops telling the story
+about a seminar he attended in grad school
+about the design of a non-realizable engine.
+And my dad is a super practical guy,
+stupid, non-realizable engine,
+why in God are you figuring out
+how to design a non-realizable engine?
+And I'm saying, well, as a professor,
+that sounds really interesting,
+maybe there's some interesting lesson
+that you can learn by studying the non-realizable ones,
+and maybe it teaches you fundamental principles.
+Ah, bah!
+Right?
+Right?
+And it's all right, well fine,
+maybe it is of no use to actually designing any machine,
+but it's still important and intellectually interesting.
+Right?
+And that's not, in the business world,
+not considered very important.
+So I'm curious to know how widely accepted
+these sorts of concepts and this idea,
+especially the signaling idea,
+is being accepted, not just within economics,
+but within the education establishment,
+and education scholarship, and among education PhDs.
+And if they-
+Which idea, signaling or human capital?
+As far as the signaling idea,
+the fact that we're basically getting a certification
+or a license of some sort.
+Yeah, so what I'd say is,
+economists, strangely, are probably the most hostile
+to the signaling model.
+So not economists in general,
+but specialists in labor and education economics
+are generally very hostile to signaling.
+In fields like education, sociology, psychology,
+they're much more open to it.
+Although what they're not open to
+is drawing the inference that then maybe
+we don't want to give everyone
+the best education in the world.
+Maybe we've actually created a horrible prisoner, Selena,
+and we should cut back.
+So that's sort of the policy implication
+is very hard for non-economists to accept.
+Economists are really quick to say,
+well, sure, if we're signaling,
+then yeah, we're really,
+well, government is going and pouring fuel
+in the fire of waste.
+But then most economists can see backwards induction
+and realize they'd have to embrace a very personally
+and politically unpalatable conclusion.
+And so then they, at least my uncharitable theory,
+is they then say, oh my God,
+well, we can't accept a theory
+that would logically imply something so horrifying.
+So there's that.
+And also based on what you were saying
+about how little is retained from one year to the next,
+when you're looking at the growth literature
+and with comparisons of countries
+that have X number of years of education
+and schooling and whatnot,
+and I'm sure you might be doing that here in the US,
+how applicable is that really
+if we're talking about the US, the number one economy,
+where you have 20, mid-20 somethings,
+you don't know what the three branches of government is,
+but they've had 12, 16 plus years of schooling.
+Can we say that that's really robust
+or is that gonna start?
+Yeah, well, I mean, if you're a diehard human capital fan,
+you could always just say, look,
+it's really disappointing
+that education doesn't improve people more,
+but the important thing is that it improves you enough
+to justify higher pay.
+So saying, look, someone who is half literate,
+well, not half literate,
+but someone who can read okay is much more employable
+than someone who can't read at all.
+Right, and then that makes sense.
+And so you might very well be willing to pay 30% more
+for someone who can read poorly
+than for someone who can't read at all.
+But then again, there's the puzzle
+of what about all these other subjects
+that people get penalized for not knowing?
+So, so, seems in effect to me
+is one of the most compelling arguments
+for the power of signaling.
+Another one, just as you're alluding to,
+so there are efforts to go and compare
+the effect of education on individuals
+versus the effect on countries.
+And the big punchline out of this literature
+is that if you raise an individual's income,
+by race, if you raise an individual's education by a year,
+income goes up by maybe 10%.
+If you raise a country's income by,
+the average income in a country by a year
+only seems to go up by about 2%.
+So in other words, the effect of education
+on individual income seems to be about five times as large
+as for national income, which makes perfect sense here.
+It's almost all of it signaling
+because if one person gets more education,
+you look better compared to the other people.
+But if everyone gets more education,
+you just need more education to look good.
+Now, a reply to this that some people have made
+is well, look, here's the real problem.
+Education in a lot of these,
+a lot of verbal countries is terrible.
+The teachers don't even show up.
+So of course, it isn't really helping their growth very much.
+But that would predict that in countries like India
+that have these horrible education systems,
+that the private return to education would also be low.
+It's not.
+So in India, where the teachers aren't even showing up,
+it still looks like an extra year of education
+is buying you an extra 10% of wages for the rest of your life.
+But the national effect seems to be very small.
+Another set of evidence that I really like
+is there's a whole literature,
+more in sociology than economics,
+although some economists can do it,
+on what's called malemployment,
+or sometimes called overeducation,
+or just called credential inflation.
+And it's the idea that over time,
+the educational credentials that you need to get
+a given job have gone up,
+even though the jobs themselves
+are no more complicated than they were before.
+All right, so you can look at this
+and see that now it is totally common
+for waiters to have college degrees.
+All right, so what's going on?
+Is it, well, it's the fancy restaurants,
+they wanna have waiters with college degrees
+who go and deal better with the customers.
+Do you need four years for that?
+Like, why couldn't you just do, like,
+one year of waiter school or something like that,
+if it's all about just being able to go
+and mingle with high-class customers?
+I mean, it seems much more like
+now that we have so many people with college degrees,
+some of them lined up not being able
+to get a regular college-type job,
+and so they became waiters.
+Right, so there's a little literature on this.
+Oh, yeah, and bottom line is that
+when people have tried to measure,
+or disaggregate how much of the rise in education
+is explained by changing of the jobs that we do
+into more cognitively demanding jobs,
+and how much of it can be explained
+or accounted by rising education requirements
+within given jobs, the rough breakdown looks like
+about 20% of the education rise accounted for
+with more cognitively demanding jobs,
+80% the giant remainder just that you now need
+more education to get a given job.
+You might need a high school degree
+to be a garbage man now.
+Things like this.
+Now, of course, sometimes you may say,
+well, maybe it's for government jobs
+or jobs where there's an education requirement
+for licensing.
+That may be a little bit of it,
+but we can actually go and look at all of the industries,
+like private sector employment or unlicensed industries,
+and we can still see, even there,
+it looks like employers are paying substantial premiums
+to go and get people with high school degrees
+or college degrees for jobs that common sense says
+are not college jobs,
+they're not even really high school jobs.
+And then there's one other literature,
+but it's a little complicated, so I won't go into it,
+but I'll leave something for the imagination
+in case you wanna take the class.
+All right, so bottom line is
+the signaling model for education
+seems to make a lot of sense.
+Oh yeah, one other thing.
+So I also have a bunch of appeals
+to firsthand experience that I like.
+So I've already kind of done one,
+which is why is it that you worry about
+failing a class, but you don't worry about
+forgetting the material in the class after the final exam?
+In human capital terms, that's pretty odd,
+because from the point of view of employers,
+there's no difference between someone
+who forgot the material and someone who never knew it.
+But in signaling terms, there's a big difference,
+because if you did a class that you didn't really like,
+got an A, and then forgot all the material,
+you still prove something about yourself.
+And as long as willingness to submit
+to boring, pointless tasks is persistent throughout life,
+the fact that this one person went
+and did a bunch of these things before
+and then forgot the material
+still makes them more employable
+than someone who just said,
+"'Screw you, I don't wanna do that stuff, it's stupid.'"
+Yeah?
+If you've learned something once and you forget it,
+you can learn it faster.
+That's very true, and there's plenty of literature on that,
+but what if you don't even use it on the job?
+Yeah, so why is it that you don't worry about that?
+It's like, I could always learn it again
+if I ever need to know it.
+Of course, I'm almost certainly never gonna need
+to know it again, unless maybe one day
+you're teaching your kid it's the same material.
+It's like, oh my God, trigonometry.
+Now I better teach my kids how to do it.
+Just saying, well, how did it go again?
+Yeah, so there's that one.
+Another one that I like is that actually,
+so let me do it this way.
+So you might be signaling
+if you bother to enroll or pay tuition.
+Now what do I mean by that?
+Well, if you go and try to go to a doctor
+and you show them your health insurance card,
+normally they want a second document from you right now.
+What document is that?
+They wanna see your ID.
+Why does the doctor wanna see your ID?
+It's the word you might be trying
+to get some free healthcare.
+All right, on the other hand,
+have you ever been carded at a college class?
+Has anyone ever tried to make sure
+that someone isn't learning for free?
+Never.
+Never, right?
+So why don't we have to do this?
+Because almost no one wants to.
+Almost no one on earth wants to come
+and learn a subject for free, unofficially, off the books.
+Why not?
+Well, he's saying, I'll tell you.
+What about at Princeton?
+You know, one of the top schools in the world.
+They only admit 7% of the applicants
+who are already really great.
+So you get turned down by Princeton.
+Why not just go anyway?
+Just move into Princeton, start attending classes.
+No one's gonna make sure that you're supposed to be there.
+And in fact, if you do feel, if you're compulsively honest
+and you go to the professor and say,
+I've gotta be honest, I'm not even supposed to be here.
+I just love labor economics.
+Is it all right with you if I study with you
+and learn at your feet, unofficially?
+The number of professors who will say, no, get out,
+it's very small, very small.
+Normally, professors, when they hear that,
+get a little tear in their eye.
+You want to learn what I have to teach
+for no reason other than a love of the subject.
+This has never happened before.
+This is a great day.
+All right, that's more the professor's reaction.
+So why don't people just go to whatever college
+they think is best in the world,
+learn all the material, and then you don't have
+to do enrollment, you don't have to pay any tuition.
+Why not?
+You don't get, yeah, there's no official record
+you were ever there.
+Now, sometimes people will say, well,
+you don't get the feedback from the professor,
+you don't get to interact with other students.
+If you were, like, look, you can save $200,000.
+I think you could meet some other students
+to talk to, I mean, like, who do they care
+if you're not officially there?
+You don't even have to tell them.
+And then, like, even, you could just tell the professor
+and he'll probably grade your work anyway.
+It's like, what does it cost me?
+A few minutes, a few minutes, and it means so much
+for this one strange lover of learning.
+And even there, you know, or how about
+you just don't tell the professor.
+Whenever the professor says, you're not supposed
+to be here, it's just a mix-up of the registrar.
+Mix-up of the registrar.
+Like, what professor's gonna go and pick up a phone
+and start saying, I have a question about student 10013721?
+He says that he's, you know, like, he claims
+that he's supposed to be here, but nothing ever changes
+no matter what I do.
+What's going on?
+Right, so no, no, professors don't have time for that.
+They don't care.
+So I'd say you could get an education
+in every sense of the word if you really were willing
+to go and just put in a little extra effort,
+and yet almost no one wants to, right?
+Now, this doesn't mean that the, you know,
+so, well, let me just say, like, a thought experiment
+I like is, would you rather have the Princeton diploma
+without the education, or the Princeton education
+with no diploma?
+Now, I'm not sure which answer is right,
+but just the fact that you have to think about it
+says a lot.
+It's not a no-brainer, as human capital theory
+would say that it is, right?
+I think I already mentioned how, you know,
+here's another fun one.
+Why is it that students so eagerly seek out easy graders?
+Yes, because employers don't know
+that you didn't work very hard for the grade.
+Now, they do know if you're in a hard major or not.
+That's one that people can guess at,
+and also some classes sound easier than others.
+So real analysis sounds harder
+than underwater basket weaving,
+but once you've picked your major and your subject,
+then you want to find the super easy person.
+Now, what about the possibility
+that the easy person won't teach you very much?
+That seems totally reasonable,
+and yet how many people decide
+to go take the harder grade for fear
+that they will miss out in terms of human capital creation?
+Very rare.
+All right, so that is a quick version of my book,
+The Case Understanding Against Education.
+There's tons more.
+I obsessively read because I don't like writing
+about a subject when I don't feel really knowledgeable
+about it, and education is so complicated,
+and also it's so thoroughly researched,
+there's just a lot to read,
+because so many people are interested in education.
+First of all, it's a huge industry,
+and second of all, of course,
+academics are navel gazers.
+We're obsessed with our own industry.
+So, all right.
+Now, just some other examples.
+So, healthcare.
+Robin Hansen has a well-known paper
+called Showing That You Care,
+The Evolution of Health Altruism,
+where he argues that a lot of healthcare
+is actually about signaling.
+This is one where I first heard it,
+I thought he was crazy.
+But over the time, he has won me over more and more.
+So, one thing that he told me that I had never heard before
+is that when empirical health economists
+estimate the effect of medical care on health,
+they find a much smaller effect
+than most people would expect.
+Much smaller.
+So, we can sort of have the whole idea
+that most of the rise in life expectancy
+is due to improving medical care.
+No one who knows the data believes that.
+Which I just took for granted until he told me that.
+So, there's that.
+Just in terms of the actual payoff for health,
+it's overrated.
+So, that's just getting started.
+But then he started pointing out how often people
+will go and pressure you to get healthcare
+even when medical science says
+there's almost nothing healthcare can do for you.
+Like if you have a virus,
+what can a doctor actually do for you?
+Like, give me antibiotics for my viruses.
+So, well, they can mess up your antibiotic resistance.
+That's what they can do for you.
+So, yeah, so there's a lot of conditions
+that doctors can't do much for.
+You may even notice when you go to doctors
+how rarely they can actually solve your problem
+or do anything for you.
+At least that's my experience.
+I've had a bunch of different weird medical problems.
+Nothing that serious, but like all in the vicinity
+of unpleasant aches and pains.
+And I have never had a doctor who has any help at all,
+really, for any of this stuff.
+You know, like, they're just useless.
+For back pain, knee pain, foot pain, neck pain, right?
+And so, in the end, what I did is,
+well, so whenever there were any products available
+at the pharmacy, I would just say,
+I'm gonna buy every possible foot orthotic,
+everyone, and try them all and see if anything works.
+So that was very useful and cost less than one doctor visit
+to buy every single foot orthotic in the entire store.
+Well, not like the entire stock,
+but like one of every product that was being offered.
+And that did way more for me.
+So, but then, Robin points out that health insurance
+often seems to be part of some kind of relationship
+where if you don't provide it, you're considered to be mean.
+So like an employer doesn't provide healthcare,
+you think they don't care about their employees.
+If a parent doesn't take to the kid at the doctor,
+they're a bad parent.
+So again, it seems, and it does seem like people
+have some sense of it would be embarrassing.
+It would be shameful to them if they didn't provide it.
+Now then, well, I mean, I thought more about this
+when I actually went to the doctor,
+noticed all the propaganda there.
+And the propaganda is so much about caring
+and loving people, not about numerous things like,
+73% of the people who come with this problem can be cured
+versus only 20% who go in the placebo group.
+There's no propaganda like that.
+It's always like, I love the doctor,
+the doctor cares about me.
+And like, even for stuff that it seems like
+the doctor probably has nothing to really offer still.
+And then you'll hear like, this I found striking too.
+So how many of you go and mention a problem
+and your friend will say, you gotta get that checked out
+versus don't worry.
+There's nothing medical science can do for you.
+The second thing sounds like,
+you know, like if they say it,
+they sound like they don't really love you, right?
+Although you might think,
+well maybe they love me more than other people.
+Maybe they love me enough to value my time.
+Maybe they love me enough to want to protect me
+against getting sick in a hospital,
+which is a very common occurrence, right?
+So there's a lot of research estimating
+how many people die of diseases they catch in a hospital.
+The numbers are always really large.
+It certainly should be enough to always tip the scales
+against going if you're unsure.
+Well, maybe I should go, maybe I shouldn't.
+But 10,000 people a year die because they went
+and they wouldn't have died otherwise
+because they caught a disease
+from a sick person in a hospital,
+which is where they are.
+So worth thinking about.
+Anyway, you can go and read Robin's paper
+for more of the argument.
+But over time, while I wouldn't say that I'm convinced,
+I'm definitely more convinced than I was at first
+and noticed a lot of facts that seems to fit.
+And then I'll just mention one small but fun one.
+Funerals.
+So think about embalming.
+This is a medical procedure we apply to the dead.
+It's clearly not for the benefit
+of the person that we're embalming, right?
+Unless you believe in ancient Egyptian religion
+and you think you can't go to the afterlife
+unless you're unembalmed or something,
+if you're unembalmed.
+So why do we go and spend all this money on funerals?
+It's a medical procedure for the dead.
+So of course, you may say, well, we do it to go and show
+that we cared about the person for closure.
+But then you realize, well, but what happens
+if you go and cheap out on a funeral?
+And why do people not cheap out on funerals nearly as much
+as they might like?
+Like I know my dad, my dad's a cheap guy
+and his dad before him was also very cheap
+and didn't inspire a lot of affection.
+But, and my dad actually very soon afterwards said,
+well, people wouldn't talk.
+I would just put them in a pine box, but if people talk,
+so I got to go and pretend to be a loving son.
+He didn't actually put it that way, but you've got,
+you've got to go and get this $5,000 coffin.
+People were expecting it, right?
+So there, it seemed very much like he felt
+like he had to signal devotion.
+If he went and did what was in his heart,
+people would have talked about what a terrible son he was.
+Right, and it seems plausible.
+This is common in funerals.
+The people go and spend way more than they actually want
+to spend in order to go and express their love.
+So a lot of what you're doing is feeling this pressure.
+I have to go and put a lot of money into this
+or else I will be considered unloving and a bad son,
+bad husband, bad whatever.
+All right, so you judge for yourself.
+But you know, I mean, I've always creeped out at funerals
+by how everyone who dies apparently was a wonderful person.
+Right, so it's like, he wasn't.
+Right, and you say, well, what are we supposed to say?
+How about the truth?
+Like what's, like if we can,
+if we only have five minutes of good truthing to say,
+let's make it five minutes and stop.
+That's how I feel.
+And to me, there's just something so Orwellian
+about making up a bunch of lies about a person.
+You know, that's, but anyway, that's also me.
+Probably another way in which I'm not a normal human being.
+Right, that's.
+That is a moving illustration right there.
+Yeah.
+Yeah.
+Yes, well, yes, I once tweeted,
+well, you can reverse and just say,
+don't do, never do anything that would make someone
+bend the truth at your funeral.
+Just live a life so admirable that no one has to lie.
+No one has to sit around making up stuff.
+But most people don't do that.
+All right, now, big question.
+So if singling is a deadweight cost,
+could government action make matters more efficient?
+And the answer is yes, government could tax the signal.
+Now, if there is some combination of useful good
+and signal going on, then maybe there's a problem.
+Of course, the same thing is true for any tax
+on any negative externality.
+You might say, well, what if this chemical
+is dangerous at high levels, but it's helpful at low levels,
+or it's good for some things, but bad for others?
+And of course, the normal thing is you just try
+to strike an average, right?
+So, you know, like carbon dioxide, it's bad for warming,
+but it's good for plants.
+So put it all together, good for plant growth.
+Okay, but anyway, the basic economics is you tax the signal
+and then everyone could, for example,
+get half as much education
+and still get the same job offers.
+So this is, again, this is basic economics.
+With singling, there's a negative externality.
+The negative externality is caused by the fact
+that if you unilaterally signal more,
+you improve your status and get more money
+without improving the productivity of mankind,
+and therefore, it is not only redistributive,
+it is redistribution with a negative sum,
+and with the tax, you would reduce
+this negative sum behavior, which is, of course,
+the whole point of Bergovian taxation, right?
+All right, right, and again, so when I mentioned,
+so in like the clearest cases,
+it's actually this credential inflation.
+So as the average number of years of education has gone up,
+the average number of years of education
+you need to get a job has gone up, too.
+So since World War II, roughly, for any given job,
+you need about four more years of education
+than you used to have.
+So basically, right now, jobs that used to go
+to high school dropouts go to high school graduates.
+Jobs that used to go to high school graduates
+now go to college graduates.
+Jobs that used to go to college graduates
+go to people with graduate degrees.
+Where's the negative externality here?
+Well, as education levels have risen,
+naturally, the market equilibrium has increased
+the amount of education you're expected to have,
+and what would be the point of the tax?
+Rollback, just like the Reagan doctrine.
+We're gonna roll back communism.
+We're gonna go and roll back education.
+We're gonna go back to a world
+where waiters don't have college degrees.
+We're gonna go back to a world where high school dropouts
+can get all kinds of jobs
+because they're a third of the population.
+And you can't be so picky in the world
+where high school dropouts are a third of the population,
+but also, it's just not as scary
+to hire a high school dropout
+when they're a third of the population.
+They're not that bad.
+Whereas in the modern world,
+you are very concerned
+because who doesn't finish high school in our day and age?
+Those people who have a bunch of different problems.
+Really not very smart, really lazy, or really defiant.
+You know, think about the smart person
+who hasn't finished high school.
+Anyone know a really smart high school dropout?
+How many problems do they have?
+Right, they are not good workers on average,
+but of course, implicitly signaling model
+is that there could be some people
+who are awesome even though they haven't sent the signal.
+But again, the problem is that you're judged
+based upon average levels,
+so by forcing the average level down,
+you are changing the way that everyone is perceived.
+So just imagine a world where you could be a professor
+when you, after a year or two of a master's degree.
+Like back in the 30s, there's people who would,
+they go and they start a master's
+and then they get hired as a professor.
+They don't even finish their master's,
+never mind the PhD.
+Now of course, almost all professors are the PhDs.
+Now this is an area where,
+like isn't government, doesn't government make this?
+So there's probably some accreditation thing
+where if you have too many non-PhD professors,
+you may have a problem,
+but most of it is, you know, it's a,
+when there's tons of PhDs going around,
+you naturally raise the educational credentials required
+because like we're trying to get people in the top 5%.
+So if there's 5% of the people have degrees this good,
+then we'll go and make that the cutoff.
+My dad actually told me that when,
+that he actually saw credential inflation
+right during his own career.
+So in his 30 years of an engineer,
+the first job that he got hired for
+is one where you only needed two years of college
+and they hire you.
+But 10 years later, for the very same job you needed
+to actually have the engineering degree in hand,
+then 10 years later, you needed the master's degree.
+And when he's on his way out,
+I think there was some talk,
+maybe you need a PhD to go and do this job.
+Right, and what's going on is just that
+as you ramp up the prevalence of degrees,
+you raise standards.
+And as a result, we wind up having this rat race.
+Right, people often say, well,
+they're like, it's like socially unjust
+to go and fight credential inflation.
+Well, here, people are always thinking about
+the person from a bad neighborhood
+who worked their way up and got a PhD, right?
+And like my best friend at Princeton
+was a guy who grew up in a log cabin
+that they built themselves in the Pocono Mountains.
+Right, and like his mom burned all their furniture,
+like terrible, terrible.
+Well, he felt his childhood was great.
+He had four brothers, they all had fun.
+But anyway, almost anyone would say
+he had an extremely disadvantaged childhood,
+but nevertheless, he wound up getting a PhD from Princeton.
+Right, and for him, of course, the system worked.
+But there's a whole lot of other people in his shoes
+for whom the system is way worse than it was in 1950.
+Like who is worse off, you know,
+like who has that background is worse off today
+than they were in 1950?
+How about people who dropped out of high school?
+Back in 1950, if one of my friend's brothers
+dropped out of high school,
+then he's in the bottom third of the distribution.
+That's not that bad.
+He just goes and gets a regular job.
+But today, if you have like that same person who drops out,
+who just doesn't wind up getting any of the credentials,
+right, is really in the bottom of the distribution.
+Like very few jobs would even be considered.
+So that's the difference,
+is that when people think about
+the social justice of the system,
+they're always focusing on the upside.
+People from humble backgrounds
+who managed to rise through education,
+they're never thinking about people of humble backgrounds
+who are judged much more harshly
+than they would have been in the past
+because average education levels are so much higher.
+See, I think we are out of time.
+Yes, we are actually.
+So I'm happy to take questions beginning next class.

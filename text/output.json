@@ -40,7 +40,7 @@
         "explanation": "Under Bertrand collusion, lowering the cartel price and profits does not make a difference. A defecting Bertrand firm slightly undercuts the reduced cartel price, stealing only the reduced cartel profits. The cooperation condition remains unchanged, requiring that N > 1. However, under Cournot collusion, the strategy could work. If the cartel expands output and the market price falls, the optimal defection quantity also falls (even more relative to the allowed higher level of output). As a result, defection profits fall relative to a 1/N share of cartel profits, making cooperation more sustainable."
     },
     {
-        "enuncate": "Suppose there is costless entry and exit in the lobbying/rent-seeking industry. True, False, and Explain: Repeated interaction between lobbyists will neither increase nor reduce the total social cost of rent-seeking.",
+        "enunciate": "Suppose there is costless entry and exit in the lobbying/rent-seeking industry. True, False, and Explain: Repeated interaction between lobbyists will neither increase nor reduce the total social cost of rent-seeking.",
         "answer": "TRUE",
         "explanation": "Without entry and exit barriers, repeated interactions could either increase or decrease the total social cost of rent-seeking. However, with costless entry and exit, the rate of return in the lobbying industry must equal the overall market rate of return. As a result, if lobbyists collude to raise the return to lobbying, they would attract new entrants until the return falls back to normal. Likewise, if lobbyists push returns below the normal level to build a tough reputation, firms would exit until the return rises back to normal."
     },
@@ -145,7 +145,7 @@
         "explanation": "It is not possible to determine whether the price of guns will equal the price of butter without more information about the market conditions and the relative supply and demand of guns and butter."
     },
     {
-        "enuncate": "True, False, and Explain: If everyone has lexicographic preferences for x over y, the conclusion of the First Welfare Theorem holds even though its assumptions do not.",
+        "enunciate": "True, False, and Explain: If everyone has lexicographic preferences for x over y, the conclusion of the First Welfare Theorem holds even though its assumptions do not.",
         "answer": "TRUE",
         "explanation": "With lexicographic preferences, no equilibrium price vector exists, because if the price of y is greater than 0, everyone wants to sell all their possessions, and if the price of y is 0, everyone wants an infinite amount. However, any distribution of resources is Pareto efficient, because reallocating y or x between people always leaves one person better off and another person worse off."
     },
@@ -215,7 +215,7 @@
         "explanation": "In the simultaneous Coordination game that we discussed in class, there is only one subgame, so both of the equilibria are subgame perfect. However, it is true that in a sequential version of the Coordination game, the Pareto-inferior equilibria are not subgame perfect. Partial credit was given for students who answered TRUE on this basis."
     },
     {
-        "enuncate": "True, False, and Explain: Landsburg's \"Indifference Principle\" (The Armchair Economist) is inconsistent with the concept of the MSNE.",
+        "enunciate": "True, False, and Explain: Landsburg's \"Indifference Principle\" (The Armchair Economist) is inconsistent with the concept of the MSNE.",
         "answer": "FALSE",
         "explanation": "MSNE is actually a special case of Landsburg's Indifference Principle. The Indifference Principle states that in equilibrium, people will be indifferent between all of their choices. If one choice were better than the others, everyone would choose it. This is precisely what happens in a MSNE: every agent is indifferent between every choice."
     },
@@ -290,12 +290,12 @@
         "explanation": "If the discount rate is 1, Bertrand collusion is definitely sustainable. If each firm gets an equal share of the monopoly profit, then splitting could increase a firm's profits from a 1/N share of the monopoly profit to a 2/(N+1) share, which is greater for N > 1. Firms might also want to split if there are diseconomies of scale, but this answer is less relevant because it doesn't use the information about repeated play and the discount rate."
     },
     {
-        "enuncate": "In Leviathan, Hobbes argues that, in the absence of government, individuals always prefer war to peace, leading to a \"war of all against all\" equilibrium. True, False, and Explain: This is precisely what the Hawk/Dove game predicts.",
+        "enunciate": "In Leviathan, Hobbes argues that, in the absence of government, individuals always prefer war to peace, leading to a \"war of all against all\" equilibrium. True, False, and Explain: This is precisely what the Hawk/Dove game predicts.",
         "answer": "FALSE",
         "explanation": "In the Pure Strategy Nash Equilibrium (PSNE) of the Hawk-Dove game, you will not see universal war; instead, you will see one individual acting aggressively and the other appeasing. In the Mixed Strategy Nash Equilibrium (MSNE) of the Hawk-Dove game, (War, War) can occur, but it is an unlucky coincidence rather than the typical result."
     },
     {
-        "enuncate": "Give an example of lexicographic preferences. How can lexicographic preferences preclude the existence of a general equilibrium? Is it possible for a general equilibrium to exist given the existence of lexicographic preferences? Explain.",
+        "enunciate": "Give an example of lexicographic preferences. How can lexicographic preferences preclude the existence of a general equilibrium? Is it possible for a general equilibrium to exist given the existence of lexicographic preferences? Explain.",
         "answer": "An example of lexicographic preferences is when someone values their son's life more than any amount of money.",
         "explanation": "Lexicographic preferences can preclude the existence of a general equilibrium because if everyone shares the same preferences, they won't sell the lexicographically preferred good to buy more of other goods at any price greater than 0. However, if the price of other goods falls to 0, they would want more of these other goods than exist. General equilibrium could co-exist with lexicographic preferences in multiple ways: (1) Some people have these preferences, while others don't, and the former buy all of the lexicographically preferred goods from the latter; (2) People have different lexicographic preferences; (3) People only have lexicographic preferences up to a certain quantity (e.g., everyone might have a lexicographic preference for one kidney, but not two)."
     },
@@ -314,16 +314,28 @@
         "answer": "FALSE",
         "explanation": "If there are zero fixed costs and the most efficient firm faces an equally efficient competitor, both situations yield the first-best efficient outcome of Price (P) being equal to Marginal Cost (MC). If there are fixed costs and the most efficient firm faces an equally efficient competitor, both situations yield the second-best efficient outcome of Price (P) being equal to Average Cost (AC). If the most efficient firm does not face an equally efficient competitor, then the price can exceed both Marginal Cost (MC) and Average Cost (AC)."
     },
-    "{\"enunciate\": \"There are two islands with equal numbers of agents. All agents live for two periods and are endowed with 1 unit of a consumption good in period 1 and 1 unit in period 2. The period 1 good spoils if not consumed in period 1. On Island #1, agents have U=ln c 1; on Island #2, agents have U=ln c 1 + ln c 2. True, False, and Explain: If trade between islands is possible, the interest rate will exceed 50%. If trade between islands is not possible, the interest rate on Island #1 will exceed the interest rate on Island #2 by less than 100 percentage-points.\", \"answer\": \"FALSE\", \"explanation\": \"With trade, the interest rate will indeed exceed 50%. Using the general equilibrium formula, the interest rate is 200%. However, with isolated islands, Island #1 will have an infinite interest rate (since no one values c 2), and Island #2 will have a 0% interest rate (since the two goods are equally abundant and equally valued). Thus, Island #1's interest rate infinitely exceeds Island #2's.\"}",
-    "{\"enunciate\": \"This game has two PSNE, plus a MSNE where players play (Truth, Trust) with probabilities (.5,.5).\", \"answer\": \"FALSE\", \"explanation\": \"There are zero PSNE, but the MSNE given is correct. For the PSNE, notice that at (Trust, Truth), Player 1 wants to switch; at (Truth, Doubt) Player 2 wants to switch; at (Trust, Lie) Player 2 wants to switch; and at (Lie, Doubt) Player 1 wants to switch. For the MSNE, similarly: Player 1 is indifferent when: 2 + 0(1 -) = 4 - 2(1 -), implying = .5. Player 2 is indifferent when: 2 - 2(1 -) = 0, implying = .5.\"}",
-    "{\"enunciate\": \"Suppose both players have a discount rate, =1, and play this game twice. True, False, and Explain: There is a NE where players play (Truth, Trust) in the first turn, and the MSNE of the one-shot game in the second turn.\", \"answer\": \"FALSE\", \"explanation\": \"Since this is a finitely-repeated game, and there is only one equilibrium in the second game, the only equilibrium is to play the MSNE each turn. After all, if Player 1 switches to Lie in turn 1, how is Player 2 going to punish him?\"}",
+    {
+        "enunciate": "There are two islands with equal numbers of agents. All agents live for two periods and are endowed with 1 unit of a consumption good in period 1 and 1 unit in period 2. The period 1 good spoils if not consumed in period 1. On Island #1, agents have U=ln c 1; on Island #2, agents have U=ln c 1 + ln c 2. True, False, and Explain: If trade between islands is possible, the interest rate will exceed 50%. If trade between islands is not possible, the interest rate on Island #1 will exceed the interest rate on Island #2 by less than 100 percentage-points.", 
+        "answer": "FALSE", 
+        "explanation": "With trade, the interest rate will indeed exceed 50%. Using the general equilibrium formula, the interest rate is 200%. However, with isolated islands, Island #1 will have an infinite interest rate (since no one values c 2), and Island #2 will have a 0% interest rate (since the two goods are equally abundant and equally valued). Thus, Island #1's interest rate infinitely exceeds Island #2's."
+    }, 
+    {
+        "enunciate": "This game has two PSNE, plus a MSNE where players play (Truth, Trust) with probabilities (.5,.5).", 
+        "answer": "FALSE", 
+        "explanation": "There are zero PSNE, but the MSNE given is correct. For the PSNE, notice that at (Trust, Truth), Player 1 wants to switch; at (Truth, Doubt) Player 2 wants to switch; at (Trust, Lie) Player 2 wants to switch; and at (Lie, Doubt) Player 1 wants to switch. For the MSNE, similarly: Player 1 is indifferent when: 2 + 0(1 -) = 4 - 2(1 -), implying = .5. Player 2 is indifferent when: 2 - 2(1 -) = 0, implying = .5."
+    }, 
+    {
+        "enunciate": "Suppose both players have a discount rate, =1, and play this game twice. True, False, and Explain: There is a NE where players play (Truth, Trust) in the first turn, and the MSNE of the one-shot game in the second turn.", 
+        "answer": "FALSE", 
+        "explanation": "Since this is a finitely-repeated game, and there is only one equilibrium in the second game, the only equilibrium is to play the MSNE each turn. After all, if Player 1 switches to Lie in turn 1, how is Player 2 going to punish him?"
+    },
     {
         "enunciate": "Two players play an Ultimatum game, followed by a Coordination game. True, False, and Explain: There are an infinite number of SGPPSNE, some of which have a 50/50 split in the first turn.",
         "answer": "TRUE",
         "explanation": "As long as there is at least one Coordination game with lower payoffs for Player 1, there is a viable threat. For instance, suppose that in turn 1 the players are splitting 2, and in turn 2, (Left, Left) yields a payoff of (5,5) and (Right, Right) yields a payoff of (3,3), while (Left, Right) and (Right, Left) yield (0,0). The following is an equilibrium: in turn 1, a 50/50 split is offered; in turn 2, (Left, Left) is played if Player 1 offered at least 50/50 in turn 1, and (Right, Right) is played otherwise. If Player 1 were to offer 100/0 instead of 50/50, he would gain 1 in turn 1 but lose 2 in turn 2. Since payoffs are continuous, there are an infinite number of equilibria, such as 50.01/49.99, 50.02/49.98, and so on. This approach can sustain various splits close to 50/50."
     },
     {
-        "enuncate": "Suppose there are two firms able to produce a good. Firm #1 has TC=$50 + $0Q; Firm #2 has TC= $0 + $10Q. The demand curve is given by Q=20 -P. True, False, and Explain: Firm #1 will drop out of the market and Firm #2 will charge the monopoly price.",
+        "enunciate": "Suppose there are two firms able to produce a good. Firm #1 has TC=$50 + $0Q; Firm #2 has TC= $0 + $10Q. The demand curve is given by Q=20 -P. True, False, and Explain: Firm #1 will drop out of the market and Firm #2 will charge the monopoly price.",
         "answer": "FALSE",
         "explanation": "By producing 10.01 units and charging $9.99, Firm #1 can make a profit of 10.01 * $9.99 - $50, which is approximately $50. However, Firm #2 would lose money at this price and drop out of the market. Intuitively, since Firm #1 has fixed costs but no marginal costs, and Firm #2 has marginal costs but no fixed costs, it's important to check whether Firm #1 remains profitable at a price just below Firm #2's marginal cost."
     },
@@ -373,7 +385,7 @@
         "explanation": "If both sides are certain of their respective candidate winning, they are willing to bet an infinite amount and put no value on claims that pay off if the other side is right. This situation can be viewed as a problem of lexicographic preferences. However, if short sales are not allowed, the most each side can bet is their total assets. In this case, a general equilibrium will exist, equal to the ratio of the amount each side bets. Both possibilities were considered for full credit."
     },
     {
-        "enuncate": "Suppose a pirate robs ten people and puts all of their money inside a treasure chest. When the police recover the chest (and before the pirate can spend a penny), they ask each of the ten victims to state how much money they lost. To discourage lying, the police announce that if the total losses claimed by the victims exceeds the total amount of money in the chest, none of the victims will get any money back. Is there a unique Nash equilibrium in which every victim says the truth?",
+        "enunciate": "Suppose a pirate robs ten people and puts all of their money inside a treasure chest. When the police recover the chest (and before the pirate can spend a penny), they ask each of the ten victims to state how much money they lost. To discourage lying, the police announce that if the total losses claimed by the victims exceeds the total amount of money in the chest, none of the victims will get any money back. Is there a unique Nash equilibrium in which every victim says the truth?",
         "answer": "FALSE",
         "explanation": "While truth-telling is one Nash equilibrium and might be considered a focal equilibrium, there are infinitely many Nash equilibria. Any set of claims that sums to the total amount of money present in the treasure chest would qualify as a Nash equilibrium."
     },
@@ -393,7 +405,7 @@
         "explanation": "With or without the coin flip, this game has a mixed strategy Nash equilibrium where expected profits are zero, and two pure strategy Nash equilibria where one firm earns monopoly profits and the other earns nothing. However, if firms play simultaneously, neither of the pure strategy Nash equilibria is focal. Flipping the coin creates a focal point: If the coin says heads, then firm 1 plays In and firm 2 plays out; if the coin says tails, the reverse happens. This doesn't change the set of equilibria, but it does make it easier for firms to reach the profitable equilibria."
     },
     {
-        "enuncate": "In a market with perfectly selfish consumers and producers, the existence of a public good implies both allocative and productive inefficiency.",
+        "enunciate": "In a market with perfectly selfish consumers and producers, the existence of a public good implies both allocative and productive inefficiency.",
         "answer": "FALSE",
         "explanation": "A public good implies that market output is approximately zero, resulting in no productive inefficiency. However, there will be substantial allocative inefficiency since the entire area between the supply and demand curve and the cost curve vanishes. When a good is not produced at all, the effective price becomes infinite, causing the price to be significantly greater than the marginal cost."
     },
@@ -683,7 +695,7 @@
         "explanation": "In experiments, 50/50 splits are observed frequently in both games. However, theoretically, the SGPPSNE (Subgame Perfect Pure Strategy Nash Equilibrium) of the Ultimatum game is (100 - \u03b5, \u03b5), where \u03b5 is the smallest amount the giver can offer. The giver has no incentive to offer more because the receiver will always accept any amount greater than 0. Similarly, in the Dictator game, the SGPPSNE is (100,0) because the Dictator has no motivation to share even a small amount."
     },
     {
-        "enuncate": "Suppose that a manufacturer does hold an unbreakable patent on a particular product. True, False, and Explain: Kreps says that firms may engage in entry deterrence even if they have a legal monopoly (such as a patent).",
+        "enunciate": "Suppose that a manufacturer does hold an unbreakable patent on a particular product. True, False, and Explain: Kreps says that firms may engage in entry deterrence even if they have a legal monopoly (such as a patent).",
         "answer": "TRUE",
         "explanation": "Even firms with a legal monopoly need to consider competition from similar products, which may lead them to lower their prices in order to discourage entry. As Kreps explains, patent protection does not always extend to cover close substitutes for the patented product, prompting the monopoly to act in a way that hinders the entry of producers of these substitute goods."
     },
@@ -743,7 +755,7 @@
         "explanation": "From the notes, the equilibrium number of firms is given by the integer immediately below 0.5 * (10*10)/2, so N=6, not 5. Since one firm could produce the entire output at the same cost as more firms, this implies a deadweight cost of 2 per additional firm, for a total of 10. Note: A few students correctly observed that there would be additional deadweight loss caused by equilibrium prices exceeding MC=0. Although full credit was given for saying that the deadweight cost is 10, full credit was also given for considering the allocative inefficiency of P>MC."
     },
     {
-        "enuncate": "Use Caplan's analysis of the connection between beliefs and actions to explain why you showed up for this evening's exam.",
+        "enunciate": "Use Caplan's analysis of the connection between beliefs and actions to explain why you showed up for this evening's exam.",
         "answer": "According to Mises, I showed up at the exam because I believe that showing up will cause me to succeed in the program. Caplan's point is that Mises overstates. I could easily attend even though I realize that I might get in a car accident en route, or enter the classroom and discover that the exam's been cancelled. I might attend even though I believe I'm likely to fail the exam, just as Caplan submits articles to the AER expecting rejection. Being here only shows that, in Caplan's words, I think being here leads to a better distribution of outcomes than any alternative plan. Nothing more and nothing less.",
         "explanation": "Caplan argues that Mises' statement about the connection between beliefs and actions is overstated. It's not necessary to have knowledge of causality or to believe in absolute causal laws for someone to take action. Instead, people act based on their beliefs about conditional probabilities, such as the likelihood that a particular action will lead to a better outcome than other options. In the context of attending an exam, even if there are uncertainties like potential car accidents or exam cancellations, the decision to show up indicates a belief that attending will lead to a better distribution of outcomes than not attending, rather than a belief in a direct causal relationship between attendance and success."
     },
@@ -873,12 +885,12 @@
         "explanation": "In a Cournot competition with rational, selfish players, some degree of tacit collusion may be possible even in a one-shot game. However, in a Bertrand competition, either explicit collusion or the perfectly competitive outcome would occur. The outcome of the Hawk-Dove game does not affect this result."
     },
     {
-        "enuncate": "In a \"market for lemons,\" the true value of cars to sellers is uniformly distributed on the interval [0,100]. Buyers value cars at 25% more than sellers. Buyers in this market do NOT have rational expectations, but sellers do; buyers believe the quality of the average car available for sale is as high as the quality of the average car not available for sale. Is this market with asymmetric information and irrational expectations as efficient as a comparable market with symmetric information and rational expectations?",
+        "enunciate": "In a \"market for lemons,\" the true value of cars to sellers is uniformly distributed on the interval [0,100]. Buyers value cars at 25% more than sellers. Buyers in this market do NOT have rational expectations, but sellers do; buyers believe the quality of the average car available for sale is as high as the quality of the average car not available for sale. Is this market with asymmetric information and irrational expectations as efficient as a comparable market with symmetric information and rational expectations?",
         "answer": "False",
         "explanation": "In theory, irrationality could potentially increase or decrease market efficiency. However, in practice, experiments show that irrationality makes the \"market for lemons\" less efficient. This market with asymmetric information and irrational expectations is not as efficient as a market with symmetric information and rational expectations, but it might be more efficient than a market with asymmetric information and rational expectations, which could result in the market \"unraveling\"."
     },
     {
-        "enuncate": "In a \"market for lemons,\" the true value of cars to sellers is uniformly distributed on the interval [0,100]. Buyers value cars at 25% more than sellers. Buyers in this market do NOT have rational expectations, but sellers do; buyers believe the quality of the average car available for sale is as high as the quality of the average car not available for sale. Will both markets, one with asymmetric information and irrational expectations, and the other with symmetric information and rational expectations, clear?",
+        "enunciate": "In a \"market for lemons,\" the true value of cars to sellers is uniformly distributed on the interval [0,100]. Buyers value cars at 25% more than sellers. Buyers in this market do NOT have rational expectations, but sellers do; buyers believe the quality of the average car available for sale is as high as the quality of the average car not available for sale. Will both markets, one with asymmetric information and irrational expectations, and the other with symmetric information and rational expectations, clear?",
         "answer": "True",
         "explanation": "Both markets will clear. The first market, where irrationality exists, will clear but with a transfer to sellers. The second market, where there is symmetric imperfect information, will clear fairly easily."
     },
@@ -898,7 +910,7 @@
         "explanation": "Fred does not suffer from representativeness bias because he adjusts his probability for a person being an engineer given they have a pocket protector according to changes in the base rates. By applying Bayes' Rule, we can see that Fred's updated probability equals 0.3, which shows he takes the base rate into account and thus does not suffer from representativeness bias."
     },
     {
-        "enuncate": "More educated workers tend to enjoy their work more and are less likely to be unemployed. Do both of these factors bias standard estimates of the return to education downwards?",
+        "enunciate": "More educated workers tend to enjoy their work more and are less likely to be unemployed. Do both of these factors bias standard estimates of the return to education downwards?",
         "answer": "False",
         "explanation": "Standard estimates of the return to education primarily focus on wages. Omitting the utility of work can bias the estimate upward, suggesting that the true relationship between education and income should actually be lower. Additionally, more educated workers tend to experience lower unemployment rates, which means they are more likely to earn higher income over their lifetime."
     },
@@ -1048,7 +1060,7 @@
         "explanation": "According to standard game theory, 'unraveling' implies that players play each stage of the game as if it were not repeated. In the last stage, which is the Prisoners' Dilemma game, the outcome will always be defect, defect regardless of prior actions."
     },
     {
-        "enuncate": "Suppose you have a 2-player version of the voluntary donation game from the notes, with one difference: Each agent cares somewhat about the other, so player one maximizes U1=c1D+.7*c2D, and player two maximizes U2=c2D+.7*c1D. In symmetric Nash equilibrium, is c1=c2>4/7?",
+        "enunciate": "Suppose you have a 2-player version of the voluntary donation game from the notes, with one difference: Each agent cares somewhat about the other, so player one maximizes U1=c1D+.7*c2D, and player two maximizes U2=c2D+.7*c1D. In symmetric Nash equilibrium, is c1=c2>4/7?",
         "answer": "True",
         "explanation": "Player one maximizes U1=(c1 + 0.7c2)D and player two maximizes U2=(c2 + 0.7c1)D. In symmetric Nash equilibrium, c1 and c2 should be equal. When finding the Nash equilibrium, we derive U1 with respect to c1 and set it to 0. U1 = (c1 + 0.7c2)(2 - c1 - c2). The derivative of U1 with respect to c1 is (2 - c1 - c2) - (c1 + 0.7c2) = 0. Solving for c1, we get c1 = 1 - 0.15c2, and since c1 and c2 are symmetric, c1=1 - 0.15(1 - 0.15c1). Solving for c1, we get c1 = 0.831, which is greater than 4/7."
     },
@@ -1073,7 +1085,7 @@
         "explanation": "The expected utility of the sure thing is 659.75, calculated as (50,000)^0.6. The expected utility of the second option with insurance is 691.39, calculated as 0.6*(100,000-10,000)^0.6 + 0.4*(25,000-10,000)^0.6. The expected utility of the second option without insurance is 600, calculated as 0.6*(100,000)^0.6. Since the expected utility of the second option with insurance is higher than the sure thing, you would prefer it over the sure thing."
     },
     {
-        "enuncate": "The U.S. stock market did not noticeably rise right after Saddam Hussein was captured. True or False, and explain according to the Efficient Markets Hypothesis.",
+        "enunciate": "The U.S. stock market did not noticeably rise right after Saddam Hussein was captured. True or False, and explain according to the Efficient Markets Hypothesis.",
         "answer": "False",
         "explanation": "If investors had rational expectations about Saddam's capture and assuming such an event could affect the stock market, prices might have already adjusted before the capture, according to the Efficient Markets Hypothesis."
     },
@@ -1283,7 +1295,7 @@
         "explanation": "Search theory may not necessarily add anything new to Landsburg's argument. Landsburg's main point is that we need more children because there will be more geniuses who will make more discoveries, and we are below the point where marginal benefit equals marginal cost due to the social benefits of having children being much greater than the private benefits."
     },
     {
-        "enuncate": "Consider a simple asymmetric information model: The true value of a company to sellers is uniformly distributed along [0,100], and the value to buyers is 50% more than to sellers. True, False, and Explain: In theory, irrationality could increase or decrease market efficiency; in practice, however, experiments show that irrationality makes this market for lemons less efficient.",
+        "enunciate": "Consider a simple asymmetric information model: The true value of a company to sellers is uniformly distributed along [0,100], and the value to buyers is 50% more than to sellers. True, False, and Explain: In theory, irrationality could increase or decrease market efficiency; in practice, however, experiments show that irrationality makes this market for lemons less efficient.",
         "answer": "True",
         "explanation": "If buyers are irrational and value the company at more than 100% of the value to the seller, the market could clear at the price of 100. Sellers may either overestimate or underestimate the value."
     },
@@ -1363,7 +1375,7 @@
         "explanation": "The question does not provide enough information about the relationship between school year completion and the increase in earnings. If the value of education is at least partially as a signal, rather than human capital gains, the social rate of return will be lower. The more earnings explained by the signal of education rather than human capital gains, the lower the social rate of return. In the real world, an accurate accounting of costs and benefits often leads to estimates of a negative rate of social return for education."
     },
     {
-        "enuncate": "True, False, and Explain: Wittman admits that in a federal system, restraining government spending is a public good.",
+        "enunciate": "True, False, and Explain: Wittman admits that in a federal system, restraining government spending is a public good.",
         "answer": "True",
         "explanation": "Wittman acknowledges that within a federal system, limiting government expenditures serves as a public good due to its potential benefits for the overall community."
     },
@@ -1473,7 +1485,7 @@
         "explanation": "Kahneman might suggest that Krugman's accusation could be influenced by the halo effect, availability bias, and confirmation bias. The halo effect occurs when people create a unified view of a person or entity based on one negative aspect, such as a mistaken opinion on economics, leading to the perception of someone being a fool or knave. Availability bias may also play a role if Krugman can easily recall examples of anti-Keynesians behaving foolishly or knavishly, causing him to evaluate them as such. Although experts are less likely to be affected by ease of retrieval, those in positions of power, like Krugman, are more likely to be influenced by this bias. Additionally, confirmation bias might affect Krugman, as he is more likely to seek out information confirming his pre-existing beliefs and resist updating his views."
     },
     {
-        "enuncate": "Some economists worry that economies will become increasingly unequal if the real interest rate r exceeds the rate of economic growth g. True, False, and Explain: In an intertemporal general equilibrium consumption model, the real interest rate r cannot exceed the rate of economic growth g.",
+        "enunciate": "Some economists worry that economies will become increasingly unequal if the real interest rate r exceeds the rate of economic growth g. True, False, and Explain: In an intertemporal general equilibrium consumption model, the real interest rate r cannot exceed the rate of economic growth g.",
         "answer": "False",
         "explanation": "In an intertemporal general equilibrium consumption model, the real interest rate r can exceed the rate of economic growth g if beta is less than 1. This is because interest rates in general equilibrium must rise high enough that people are content consuming their current endowment and no more. When beta is equal to 1, r must equal g. However, if beta is less than 1, then r can be greater than g. This is proved by the following inequality: 1 > (1+g)/(1+r) -> 1+r > 1+g -> r > g."
     },
@@ -1748,7 +1760,7 @@
         "explanation": "The expected utility with no child is 20, as EU = (400 ^ 0.5) + 0. With a price paid to guarantee a girl, the utility is (400 - p) ^ 0.5 + 5. If P > 87.5, the utility of having a girl is less than 20 ((400 - 87.5) ^ 0.5 + 5 < 20). Therefore, the woman would not pay a price higher than 87.5 and would remain childless."
     },
     {
-        "enuncate": "True, False, and Explain: In a general equilibrium framework, \"fiscal stimulus\" can't work, because the funding for the stimulus package has to come from somewhere.",
+        "enunciate": "True, False, and Explain: In a general equilibrium framework, \"fiscal stimulus\" can't work, because the funding for the stimulus package has to come from somewhere.",
         "answer": "False",
         "explanation": "Fiscal stimulus can work in a general equilibrium framework. By altering initial endowments and redistributing them appropriately, a Pareto efficient allocation can be sustained. The fiscal stimulus could be considered as such a distribution. The Second Welfare Theorem states that any Pareto efficient allocation can be a general equilibrium, provided there are certain initial endowments. Arrow-Debreu extends the Second Welfare Theorem to include intertemporal exchange, suggesting that a debt-financed fiscal stimulus is feasible."
     },

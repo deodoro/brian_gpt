@@ -1,0 +1,553 @@
+1
+00:00:00,000 --> 00:00:04,000
+So now, this is not going to be on the midterm.
+
+2
+00:00:04,020 --> 00:00:08,040
+This will not be on the midterm, but we're going to get started
+
+3
+00:00:08,040 --> 00:00:12,040
+because we have so much material to cover in this class.
+
+4
+00:00:24,080 --> 00:00:28,080
+One quick question. So, it looks like the Winters Curse and the
+
+5
+00:00:28,080 --> 00:00:32,080
+Monument Book are anonymous texts?
+
+6
+00:00:32,120 --> 00:00:36,120
+I don't think we've had any assignments.
+
+7
+00:00:36,160 --> 00:00:40,160
+I'm going to double check that he uses a syllabus, but that sounds true.
+
+8
+00:00:40,160 --> 00:00:44,160
+...
+
+9
+00:00:56,240 --> 00:01:00,240
+CREPs will be fun.
+
+10
+00:01:00,280 --> 00:01:04,280
+Alright, so week eight is on a topic
+
+11
+00:01:04,300 --> 00:01:08,320
+that is very rarely named. Symmetric information.
+
+12
+00:01:08,320 --> 00:01:12,320
+So, how many people have ever had a lecture on asymmetric information?
+
+13
+00:01:12,340 --> 00:01:16,340
+That's almost everybody. How many of you have ever had a lecture called symmetric information?
+
+14
+00:01:16,360 --> 00:01:20,360
+Now, it is likely that you have actually seen a bunch of symmetric information
+
+15
+00:01:20,380 --> 00:01:24,380
+models, but strangely they don't actually get labeled as symmetric information
+
+16
+00:01:24,400 --> 00:01:28,400
+models. They just get taught as something else.
+
+17
+00:01:28,420 --> 00:01:32,420
+So, I think it's worth pointing out that before we do asymmetric, we're going to do symmetric.
+
+18
+00:01:32,440 --> 00:01:36,440
+And that's what we're going to start with. Alright, and we're going to start with
+
+19
+00:01:36,440 --> 00:01:40,440
+the most basic model of symmetric information.
+
+20
+00:01:40,460 --> 00:01:44,460
+So, notice, now is perfect information symmetric?
+
+21
+00:01:44,480 --> 00:01:48,480
+Yes, because everyone has full information that's symmetric.
+
+22
+00:01:48,500 --> 00:01:52,500
+But you can also have imperfect information that is symmetric, where
+
+23
+00:01:52,520 --> 00:01:56,520
+everybody is going to be equally
+
+24
+00:01:56,540 --> 00:02:00,540
+ignorant. Everyone will be equally uninformed. And all
+
+25
+00:02:00,560 --> 00:02:04,560
+the models that we're doing in this week are going to be ones involving that kind of
+
+26
+00:02:04,560 --> 00:02:08,560
+equal lack of information. Alright, so, and starting
+
+27
+00:02:08,580 --> 00:02:12,580
+with expected utility theory.
+
+28
+00:02:12,600 --> 00:02:16,600
+Alright, so,
+
+29
+00:02:16,620 --> 00:02:20,620
+how do people choose between gambles? So, and
+
+30
+00:02:20,640 --> 00:02:24,640
+big question, so what's the relation between the value you put on having
+
+31
+00:02:24,660 --> 00:02:28,660
+X with certainty, so X with probability equal to one, versus
+
+32
+00:02:28,680 --> 00:02:32,680
+having X with probability less than one?
+
+33
+00:02:32,680 --> 00:02:36,680
+Alright, now, the very simplest theory that we could do
+
+34
+00:02:36,700 --> 00:02:40,700
+would be expected value maximization.
+
+35
+00:02:40,720 --> 00:02:44,720
+So, expected value maximization, so expectation of value.
+
+36
+00:02:44,740 --> 00:02:48,740
+So, this would just say that people choose whatever option gives them the highest
+
+37
+00:02:48,760 --> 00:02:52,760
+average monetary value. Alright, so
+
+38
+00:02:52,780 --> 00:02:56,780
+this implies that you would be indifferent between a thousand dollars with probability one,
+
+39
+00:02:56,800 --> 00:03:00,800
+or excuse me, probability 0.01, and one dollar with
+
+40
+00:03:00,800 --> 00:03:04,800
+probability 0.99, and 1099 with probability one.
+
+41
+00:03:04,820 --> 00:03:08,820
+So, just to clarify this, so basically you have a lottery ticket which is worth
+
+42
+00:03:08,840 --> 00:03:12,840
+a thousand dollars with probability one, or excuse me, probability 0.01.
+
+43
+00:03:12,860 --> 00:03:16,860
+So, probability one. And one dollar with probability
+
+44
+00:03:16,880 --> 00:03:20,880
+0.99. Alright, so this is one ticket.
+
+45
+00:03:20,900 --> 00:03:24,900
+See that box indicates that's the ticket. Or,
+
+46
+00:03:24,920 --> 00:03:28,920
+you could have a different ticket. You could have 1099
+
+47
+00:03:28,920 --> 00:03:32,920
+with probability one. And if you maximize
+
+48
+00:03:32,940 --> 00:03:36,940
+expected value, everyone would be indifferent between these two examples.
+
+49
+00:03:36,960 --> 00:03:40,960
+Alright, now this is a really tractable theory.
+
+50
+00:03:40,980 --> 00:03:44,960
+It's very simple, and we actually already know how to do the math.
+
+51
+00:03:44,980 --> 00:03:48,960
+Right, so just multiply the probability times the amount, plus the probability times
+
+52
+00:03:48,980 --> 00:03:52,960
+the other amount, and sum it all up, and there you are.
+
+53
+00:03:52,980 --> 00:03:56,960
+So, that would be a great theory if it were at all empirically accurate.
+
+54
+00:03:56,960 --> 00:04:00,960
+Unfortunately, it's very inaccurate.
+
+55
+00:04:00,980 --> 00:04:04,980
+So, for example, is there anyone here who if you had the
+
+56
+00:04:05,000 --> 00:04:09,000
+choice between a billion dollars with a one in a thousand chance, or a million dollars
+
+57
+00:04:09,020 --> 00:04:13,020
+for sure? Is there anyone here who would go for the billion dollars with a one in a thousand
+
+58
+00:04:13,040 --> 00:04:17,040
+chance? I don't know. Maybe I, I kind of
+
+59
+00:04:17,060 --> 00:04:21,040
+wonder about that. A million dollars wouldn't change my life that much, but a billion dollars
+
+60
+00:04:21,060 --> 00:04:25,060
+would be really different. So, but no, I'd probably settle for
+
+61
+00:04:25,060 --> 00:04:29,060
+the million dollars as well. Almost everybody would. And even with that, how about
+
+62
+00:04:29,080 --> 00:04:33,080
+a billion dollars for sure, or a trillion dollars with a one in a thousand chance?
+
+63
+00:04:33,100 --> 00:04:37,100
+Or,
+
+64
+00:04:37,120 --> 00:04:41,120
+how about a quadrillion dollars with a one in a thousand chance,
+
+65
+00:04:41,140 --> 00:04:45,140
+or a trillion dollars for sure? So, it's almost
+
+66
+00:04:45,160 --> 00:04:49,160
+everyone would have a pretty strong preference for the more certain result at these
+
+67
+00:04:49,180 --> 00:04:53,180
+amounts. And a lot of people, well, what would I do with a quadrillion dollars?
+
+68
+00:04:53,180 --> 00:04:57,180
+Push up the price level.
+
+69
+00:04:57,200 --> 00:05:01,200
+What's that? Push up the price level. Yeah, I think, I'm picturing
+
+70
+00:05:01,220 --> 00:05:05,220
+a quadrillion dollars worth of stuff rather than a quadrillion dollars worth of
+
+71
+00:05:05,240 --> 00:05:09,240
+paper. But, you know, it could go either way.
+
+72
+00:05:09,260 --> 00:05:13,260
+Alright. So, anyway, all this suggests that we need to get a
+
+73
+00:05:13,280 --> 00:05:17,280
+richer theory of choice and uncertainty, and that richer theory is called expected
+
+74
+00:05:17,300 --> 00:05:21,300
+utility theory. Right? Where utility is a key. Rather than going maximizing
+
+75
+00:05:21,300 --> 00:05:25,300
+the average value of the stuff,
+
+76
+00:05:25,320 --> 00:05:29,320
+the average number of dollars that we're getting, we're going to maximize our
+
+77
+00:05:29,340 --> 00:05:33,340
+average utility. Our average utility.
+
+78
+00:05:33,360 --> 00:05:37,360
+So, this is called expected utility theory, and it has, it's also
+
+79
+00:05:37,380 --> 00:05:41,380
+associated with two German names. It was also called von Neumann-Morgenstern
+
+80
+00:05:41,400 --> 00:05:45,400
+expected utility theory. Remember anything I mentioned? Von Neumann
+
+81
+00:05:45,420 --> 00:05:49,420
+was the inspiration for Dr. Strangelove.
+
+82
+00:05:49,420 --> 00:05:53,420
+Right? With the doomsday machine. You saw the movie.
+
+83
+00:05:53,440 --> 00:05:57,440
+Your game theoretic education is not complete until you see Dr. Strangelove.
+
+84
+00:05:57,460 --> 00:06:01,460
+It's actually neither your game theoretic education nor your behavioral economics education
+
+85
+00:06:01,480 --> 00:06:05,480
+can be complete without seeing the movie.
+
+86
+00:06:05,500 --> 00:06:09,500
+So, the intuition of expected utility theory is that instead of maximizing average wealth,
+
+87
+00:06:09,520 --> 00:06:13,520
+people maximize their average utility.
+
+88
+00:06:13,540 --> 00:06:17,540
+Now, what's the difference? Well,
+
+89
+00:06:17,540 --> 00:06:21,540
+the easiest is to go through and tell you the procedure, and then see
+
+90
+00:06:21,560 --> 00:06:25,560
+what the procedure means. Alright, so here is the three step procedure
+
+91
+00:06:25,580 --> 00:06:29,580
+for calculating expected utility. Alright, step one.
+
+92
+00:06:29,600 --> 00:06:33,600
+So, assign numerical weights to outcomes.
+
+93
+00:06:33,620 --> 00:06:37,620
+With better outcomes, getting higher
+
+94
+00:06:37,640 --> 00:06:41,640
+weights. We're getting better weights. Then two,
+
+95
+00:06:41,660 --> 00:06:45,660
+step two, is we linearly weight outcomes by their probability.
+
+96
+00:06:45,660 --> 00:06:49,660
+...
+
+97
+00:06:49,680 --> 00:06:53,680
+By their probability. And then three,
+
+98
+00:06:53,700 --> 00:06:57,700
+choose whatever has the highest
+
+99
+00:06:57,720 --> 00:07:01,720
+linearly weighted outcome. So, choose the highest
+
+100
+00:07:01,740 --> 00:07:05,740
+linearly weighted outcome.
+
+101
+00:07:05,760 --> 00:07:09,760
+...
+
+102
+00:07:09,780 --> 00:07:13,780
+Do I have time to give you an example? Yes. Alright. So,
+
+103
+00:07:13,780 --> 00:07:17,780
+here is one example, just one, of
+
+104
+00:07:17,800 --> 00:07:21,800
+assigning weights to outcomes. How about I say here is my function. Utility is
+
+105
+00:07:21,820 --> 00:07:25,820
+equal to the square root of my wealth.
+
+106
+00:07:25,840 --> 00:07:29,840
+Utility is going to be equal to the square root of my wealth. And then
+
+107
+00:07:29,860 --> 00:07:33,860
+suppose that I've got a 50% chance of 10,000 and a 50% chance of zero.
+
+108
+00:07:33,880 --> 00:07:37,880
+Or I could have 2,000 with certainty. How do we see
+
+109
+00:07:37,900 --> 00:07:41,900
+what I'm going to do? Alright. Well, the expected utility of the first gamble
+
+110
+00:07:41,900 --> 00:07:45,900
+is going to be equal to.5,
+
+111
+00:07:45,920 --> 00:07:49,920
+this is a 50% chance of the first outcome, times
+
+112
+00:07:49,940 --> 00:07:53,940
+$10,000 square rooted.
+
+113
+00:07:53,960 --> 00:07:57,960
+Plus.5 times
+
+114
+00:07:57,980 --> 00:08:01,980
+$0 square rooted. And that's the expected utility of the first thing.
+
+115
+00:08:02,000 --> 00:08:06,000
+So, it's the probability times the weighted outcome
+
+116
+00:08:06,020 --> 00:08:10,020
+plus the, times the weighted outcome of the first outcome, plus the
+
+117
+00:08:10,020 --> 00:08:14,020
+probability of the second outcome, times the weighted value of the second outcome.
+
+118
+00:08:14,040 --> 00:08:18,040
+Alright. And then, the expected utility of the second
+
+119
+00:08:18,060 --> 00:08:22,060
+gamble is going to be the probability, which is 1, times the square root
+
+120
+00:08:22,080 --> 00:08:26,080
+of 2,000. Alright. And,
+
+121
+00:08:26,100 --> 00:08:30,100
+let's see. So, this first one is 50. Comes out to 50. And the second one
+
+122
+00:08:30,120 --> 00:08:34,120
+comes out to 44.72. So, if these are my only two
+
+123
+00:08:34,140 --> 00:08:38,140
+options, do I want to go with gamble 1 or gamble 2? Gamble 1.
+
+124
+00:08:38,140 --> 00:08:42,140
+Gamble 1, because it has the higher expected value. And again, the components.
+
+125
+00:08:42,160 --> 00:08:46,160
+So, we've got this weighting function here. That tells us
+
+126
+00:08:46,180 --> 00:08:50,180
+how good every outcome is. And then, to get the expected utility, we take
+
+127
+00:08:50,200 --> 00:08:54,200
+the linear probability. So, notice, these.5's are straight off the lottery tickets.
+
+128
+00:08:54,220 --> 00:08:58,220
+Those just come out. So, it's 50% chance of the first thing, 50% chance
+
+129
+00:08:58,240 --> 00:09:02,240
+of the second thing. And if we're doing expected utility theory, we don't modify
+
+130
+00:09:02,260 --> 00:09:06,260
+them. Now, you can imagine all kinds of weird utility
+
+131
+00:09:06,260 --> 00:09:10,260
+theories. We could have one where we take those probabilities and we square them.
+
+132
+00:09:10,280 --> 00:09:14,280
+Or take their square roots. But, if you're doing that, you're not doing expected utility
+
+133
+00:09:14,300 --> 00:09:18,300
+theory. Expected utility theory is take them unaltered, linearly, put them in,
+
+134
+00:09:18,320 --> 00:09:22,320
+and then multiply them by the value function. And the value
+
+135
+00:09:22,340 --> 00:09:26,340
+function does not have to be linear. That is where expected utility theory diverges
+
+136
+00:09:26,360 --> 00:09:30,360
+from simpler theory of expected value maximization. Alright.
+
+137
+00:09:30,380 --> 00:09:34,380
+And in three weeks, we will pick up with this.
+
+138
+00:09:34,380 --> 00:09:36,380
+Thanks.
+
+

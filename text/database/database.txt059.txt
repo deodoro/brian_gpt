@@ -1,0 +1,16 @@
+4.  This game has a MSNE with expected payoffs  equal to (1.5, 1.5).  
+ 
+FALSE.  To make Player 2 indif ferent, Player 1 plays L with probability σ: 
+ 
+1σ+0=0+2(1 -σ), so σ=2/3  
+ 
+To make Player 1 indifferent, Player 2 plays L with probability φ:  
+ 
+2φ + 0=0 + (1 -φ), so φ=1/3  
+ 
+To find expected pay -offs, simply plug the probabilities back into the above equalities: the 
+expected payoffs in equilibrium are (2 /3, 2/3).  Alternately, you could note that (L,L) happens 2/9 
+of the time, (R,R ) happens 2/9 of the time, and something else happens 5/9 of the time, so 
+expected payoffs for Player 1 are 2/9*2+2/9*1+5/9*0=2/3, and expected payoffs for Player 2 are 
+2/9*1+2/ 9*2+5/9*0=2/3.  
+ 

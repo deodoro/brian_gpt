@@ -1,0 +1,1649 @@
+1
+00:00:00,000 --> 00:00:05,000
+It's mathematically necessary that bond prices and interest rates move in opposite directions.
+
+2
+00:00:05,000 --> 00:00:10,040
+So again, one of the most commonly misunderstood things in the world.
+
+3
+00:00:10,040 --> 00:00:13,320
+People, once people really know it, then they act like no one could ever be confused about
+
+4
+00:00:13,320 --> 00:00:14,320
+it.
+
+5
+00:00:14,320 --> 00:00:15,880
+It's really easy to be confused about this.
+
+6
+00:00:15,880 --> 00:00:16,880
+Right?
+
+7
+00:00:16,880 --> 00:00:20,360
+I'll even go so far as to say it's counterintuitive.
+
+8
+00:00:20,360 --> 00:00:22,080
+So same idea here.
+
+9
+00:00:22,080 --> 00:00:25,340
+This here is looking at the price.
+
+10
+00:00:25,340 --> 00:00:27,620
+This here is looking at the rate of return.
+
+11
+00:00:27,620 --> 00:00:32,520
+So it makes sense that when the price, that if risk is bringing the price down, it's bringing
+
+12
+00:00:32,520 --> 00:00:33,520
+the rate of return up.
+
+13
+00:00:33,520 --> 00:00:34,520
+You all feel good about that?
+
+14
+00:00:34,520 --> 00:00:35,520
+Same thing here.
+
+15
+00:00:35,520 --> 00:00:36,520
+Notice, that price could have gone up because the riskiness changed.
+
+16
+00:00:36,520 --> 00:00:37,520
+So me saying this, these are not two different things.
+
+17
+00:00:37,520 --> 00:00:39,600
+These could be the numbers that reflect exactly this.
+
+18
+00:00:39,600 --> 00:00:57,160
+So it could be that riskiness goes down and then the price of the asset goes from 90 to
+
+19
+00:00:57,160 --> 00:00:58,160
+95.
+
+20
+00:00:58,160 --> 00:01:00,880
+So that means the risk just steps lower.
+
+21
+00:01:00,880 --> 00:01:04,720
+And then when that happens, then we're going from a normal return.
+
+22
+00:01:04,720 --> 00:01:05,720
+So let's see.
+
+23
+00:01:05,720 --> 00:01:06,720
+So yeah.
+
+24
+00:01:06,720 --> 00:01:07,720
+So let's see.
+
+25
+00:01:07,720 --> 00:01:08,720
+Yes.
+
+26
+00:01:08,720 --> 00:01:11,720
+And then because it's less risky, then that means that we are getting a smaller risk premium.
+
+27
+00:01:11,720 --> 00:01:13,560
+We're getting a smaller risk premium.
+
+28
+00:01:13,560 --> 00:01:17,760
+So then that means the rate of return will be lower.
+
+29
+00:01:17,760 --> 00:01:18,760
+Let's see.
+
+30
+00:01:18,760 --> 00:01:21,280
+I'm getting some confused faces here.
+
+31
+00:01:21,280 --> 00:01:22,280
+Let's see.
+
+32
+00:01:22,280 --> 00:01:23,280
+You anyway.
+
+33
+00:01:23,280 --> 00:01:28,000
+So just to repeat, bond is a face value of 100.
+
+34
+00:01:28,000 --> 00:01:32,240
+When it sells for 90, what is the interest rate that you're earning on that bond?
+
+35
+00:01:32,240 --> 00:01:33,240
+11%.
+
+36
+00:01:33,240 --> 00:01:34,240
+Roughly 11%.
+
+37
+00:01:34,240 --> 00:01:40,720
+And then suppose that it turns out there's new information, like the socialists lose
+
+38
+00:01:40,720 --> 00:01:44,240
+power so there's not going to be a default on the bonds.
+
+39
+00:01:44,240 --> 00:01:49,640
+In this case, it makes sense the price goes up to $95 because the bond is no longer as
+
+40
+00:01:49,640 --> 00:01:50,640
+risky.
+
+41
+00:01:50,640 --> 00:01:51,640
+That means there's a lower risk discount.
+
+42
+00:01:51,640 --> 00:01:56,640
+But at the same time, just as a matter of pure math, this means that the interest rate
+
+43
+00:01:56,640 --> 00:01:59,840
+has fallen because the price went up.
+
+44
+00:01:59,840 --> 00:02:05,440
+So you now earn less per year holding onto this asset because there's a smaller gap between
+
+45
+00:02:05,440 --> 00:02:09,040
+the current price and the maturity price.
+
+46
+00:02:09,040 --> 00:02:11,360
+All right.
+
+47
+00:02:11,360 --> 00:02:17,080
+Now, this whole thing, though, is complicated by another fact, which is that there are many
+
+48
+00:02:17,080 --> 00:02:18,080
+risky assets in the world.
+
+49
+00:02:18,080 --> 00:02:22,640
+So this would all be fine in a world where there's just one safe asset and one risky
+
+50
+00:02:22,640 --> 00:02:23,640
+asset.
+
+51
+00:02:23,640 --> 00:02:25,640
+But in the real world, how many assets are there again?
+
+52
+00:02:25,640 --> 00:02:27,640
+Like is it like three, four?
+
+53
+00:02:27,640 --> 00:02:28,640
+We've got seven.
+
+54
+00:02:28,640 --> 00:02:29,640
+Yeah, there's millions of assets.
+
+55
+00:02:29,640 --> 00:02:30,640
+There's millions of assets.
+
+56
+00:02:30,640 --> 00:02:31,640
+You own billions, really.
+
+57
+00:02:31,640 --> 00:02:32,640
+Like every house is an asset, right?
+
+58
+00:02:32,640 --> 00:02:33,640
+So a huge number of assets.
+
+59
+00:02:33,640 --> 00:02:34,640
+All right.
+
+60
+00:02:34,640 --> 00:02:35,640
+Okay.
+
+61
+00:02:35,640 --> 00:02:47,960
+And we go back to basic probability tells us that the average riskiness of a bundle
+
+62
+00:02:47,960 --> 00:02:53,680
+of different risks is going to be less than the average riskiness of the same dollar value
+
+63
+00:02:53,680 --> 00:02:55,800
+of a single risk.
+
+64
+00:02:55,800 --> 00:03:01,360
+So the average riskiness of only owning Microsoft stock, of only owning $1,000 of Microsoft
+
+65
+00:03:01,360 --> 00:03:06,600
+stock, is going to be higher than the riskiness of having $1 of 1,000 different stocks, $1
+
+66
+00:03:06,600 --> 00:03:14,480
+each of 1,000 different stocks, because those stocks do not all move in perfect synchronicity.
+
+67
+00:03:14,480 --> 00:03:18,000
+Whereas Microsoft stock all does move in perfect synchronicity.
+
+68
+00:03:18,000 --> 00:03:19,000
+It's all the same.
+
+69
+00:03:19,000 --> 00:03:23,000
+There might be a few different kinds of Microsoft stock, but you get the idea.
+
+70
+00:03:23,000 --> 00:03:24,000
+All right.
+
+71
+00:03:24,000 --> 00:03:28,920
+And what this means is that to some extent, you can diversify away risk.
+
+72
+00:03:28,920 --> 00:03:31,920
+So you can diversify it away.
+
+73
+00:03:31,920 --> 00:03:37,920
+So you can take a bunch of assets, every single one of which is risky, but then you get a
+
+74
+00:03:37,920 --> 00:03:43,600
+small amount of each of them, put them all together, and that bundle may not be very
+
+75
+00:03:43,600 --> 00:03:44,600
+risky at all.
+
+76
+00:03:44,600 --> 00:03:45,600
+All right.
+
+77
+00:03:45,600 --> 00:03:50,800
+And suppose you're a highly risk-averse agent, but then you're given this very safe bundle.
+
+78
+00:03:50,800 --> 00:03:54,720
+How do you feel about this very safe bundle as a risk-averse agent?
+
+79
+00:03:54,720 --> 00:03:55,720
+Pretty good.
+
+80
+00:03:55,720 --> 00:03:59,360
+It's like, well, it doesn't scare me very much, because it's $1 each of 1,000 different
+
+81
+00:03:59,360 --> 00:04:00,360
+things.
+
+82
+00:04:00,360 --> 00:04:06,120
+So what this means is that there's a pretty simple thing that you can do to make a risk-averse
+
+83
+00:04:06,120 --> 00:04:09,080
+person feel safe.
+
+84
+00:04:09,080 --> 00:04:12,640
+And once they feel safe, you don't need to go and pay much of a premium to get the middle
+
+85
+00:04:12,640 --> 00:04:13,640
+of the asset.
+
+86
+00:04:13,640 --> 00:04:19,360
+So the result of this, then, or the general implication, is you shouldn't expect this
+
+87
+00:04:19,360 --> 00:04:22,000
+diversifiable risk to earn a premium.
+
+88
+00:04:22,000 --> 00:04:26,520
+So when we say that there's a risk premium that you earn, or a great return, or there's
+
+89
+00:04:26,520 --> 00:04:32,120
+a risk discount of the price, that doesn't refer to this diversifiable risk, where you
+
+90
+00:04:32,120 --> 00:04:36,560
+can basically do a simple strategy and get away from it.
+
+91
+00:04:36,560 --> 00:04:40,640
+This would be like, suppose that there were a simple hat that you could wear that would
+
+92
+00:04:40,640 --> 00:04:44,880
+completely protect you against getting hurt on a construction site.
+
+93
+00:04:44,880 --> 00:04:48,320
+In that case, how much would you have to pay someone who was worried about having being
+
+94
+00:04:48,320 --> 00:04:49,320
+crushed?
+
+95
+00:04:49,320 --> 00:04:50,320
+You wouldn't have to pay them anything extra.
+
+96
+00:04:50,320 --> 00:04:51,320
+It's like, look, here's the hat.
+
+97
+00:04:51,320 --> 00:04:52,320
+Solves the problem.
+
+98
+00:04:52,320 --> 00:04:53,320
+It's like, OK, well, I'm really scared of having my head crushed, but given that the
+
+99
+00:04:53,320 --> 00:04:54,320
+hat prevents my head from being crushed, you don't have to pay me anything extra to be
+
+100
+00:04:54,320 --> 00:04:55,320
+here.
+
+101
+00:04:55,320 --> 00:04:56,320
+So you only would need to pay that person for the risk of the accident that the hat
+
+102
+00:04:56,320 --> 00:04:57,320
+doesn't protect him from.
+
+103
+00:04:57,320 --> 00:04:58,320
+And similarly, you only need to go and pay this risk premium, and you don't need to pay
+
+104
+00:04:58,320 --> 00:04:59,320
+the person who's worried about having their head crushed.
+
+105
+00:04:59,320 --> 00:05:00,320
+So you don't have to pay them anything extra to be here.
+
+106
+00:05:00,320 --> 00:05:01,320
+So you only would need to pay that person for the risk of the accident that the hat
+
+107
+00:05:01,320 --> 00:05:20,760
+doesn't protect him from.
+
+108
+00:05:20,760 --> 00:05:27,520
+So when you earn a premium for what's called undiversifiable risk.
+
+109
+00:05:27,520 --> 00:05:28,520
+And what does this mean?
+
+110
+00:05:28,520 --> 00:05:36,400
+Well, if the return on an asset positively correlates with the average market rate return.
+
+111
+00:05:36,400 --> 00:05:39,800
+So if the asset positively correlates with the average market rate return, then you should
+
+112
+00:05:39,800 --> 00:05:40,800
+expect a risk premium.
+
+113
+00:05:40,800 --> 00:05:44,480
+Because the average market rate return, that's what you can get.
+
+114
+00:05:44,480 --> 00:05:45,480
+That's what you get for diversification.
+
+115
+00:05:45,480 --> 00:05:51,280
+But in the real world, the problem is that even if you do just have $1 each in 1,000
+
+116
+00:05:51,280 --> 00:05:55,600
+different stocks, you still don't have real certainty, because the whole market sometimes
+
+117
+00:05:55,600 --> 00:05:56,600
+moves.
+
+118
+00:05:56,600 --> 00:05:59,360
+In fact, every day, the whole market moves.
+
+119
+00:05:59,360 --> 00:06:03,360
+Right now, you're still unlikely to be wiped out if you have $1 each in 1,000 different
+
+120
+00:06:03,360 --> 00:06:07,440
+stocks, whereas you might really be wiped out if you put all $1,000 in one stock.
+
+121
+00:06:07,440 --> 00:06:14,760
+So it's not as risky, but still, it's not anything like a perfect solution either.
+
+122
+00:06:14,760 --> 00:06:17,800
+Now the further this means that if you could find something that actually had a negative
+
+123
+00:06:17,800 --> 00:06:24,360
+correlation with the market interest rate, then it would actually pay more than its present
+
+124
+00:06:24,360 --> 00:06:27,800
+kind of value.
+
+125
+00:06:27,800 --> 00:06:31,120
+I don't think this actually works, but you might think of something like resume services.
+
+126
+00:06:31,120 --> 00:06:35,320
+It's like resume services you might think would negatively correlate with the market
+
+127
+00:06:35,320 --> 00:06:36,320
+rate.
+
+128
+00:06:36,320 --> 00:06:37,320
+I don't think it's actually true.
+
+129
+00:06:37,320 --> 00:06:43,400
+I think it was the first big market crash in 2007.
+
+130
+00:06:43,400 --> 00:06:47,360
+In the entire S&P 500, there was one stock that went up that day.
+
+131
+00:06:47,360 --> 00:06:51,160
+$499 went down, one went up.
+
+132
+00:06:51,160 --> 00:06:55,600
+You won't be able to guess it, but it will make perfect sense when you hear it.
+
+133
+00:06:55,600 --> 00:06:58,560
+The one stock that went up plus Campbell's Soup.
+
+134
+00:06:58,560 --> 00:07:01,840
+So Campbell's Soup went up that day.
+
+135
+00:07:01,840 --> 00:07:05,160
+Now I have no evidence this happens generally.
+
+136
+00:07:05,160 --> 00:07:07,960
+It's just a very memorable example.
+
+137
+00:07:07,960 --> 00:07:13,560
+But the story that it's almost impossible not to tell is people say, well, there's going
+
+138
+00:07:13,560 --> 00:07:17,160
+to be a lot of people who are going to be cutting back on luxury foods and eating Campbell's
+
+139
+00:07:17,160 --> 00:07:18,160
+Soup.
+
+140
+00:07:18,160 --> 00:07:23,160
+So Campbell's Soup may actually increase its production during this period, possibly.
+
+141
+00:07:23,160 --> 00:07:24,160
+All right.
+
+142
+00:07:24,160 --> 00:07:25,160
+Questions?
+
+143
+00:07:25,160 --> 00:07:26,160
+Questions?
+
+144
+00:07:26,160 --> 00:07:27,160
+All right.
+
+145
+00:07:27,160 --> 00:07:28,160
+So these are some basics.
+
+146
+00:07:28,160 --> 00:07:33,160
+So I just did my talk with Nassim Taleb.
+
+147
+00:07:33,160 --> 00:07:34,160
+And he often did it.
+
+148
+00:07:34,160 --> 00:07:38,160
+So this is where he gets kind of angry at stuff like this.
+
+149
+00:07:38,160 --> 00:07:43,160
+Or the idea of, well, you're giving people this false sense of security.
+
+150
+00:07:43,160 --> 00:07:47,760
+And I'm always thinking, well, you're going and complaining about people that know a lot
+
+151
+00:07:47,760 --> 00:07:48,760
+who should know a bit more.
+
+152
+00:07:48,760 --> 00:07:53,160
+But you've got to remember, there's like a giant 95% of people who don't even understand
+
+153
+00:07:53,160 --> 00:07:54,160
+this thing.
+
+154
+00:07:54,160 --> 00:07:57,160
+And you don't seem to talk about those people at all.
+
+155
+00:07:57,160 --> 00:08:02,160
+So before you get really mad at people who understand this but take it too far, you might
+
+156
+00:08:02,160 --> 00:08:05,160
+want to remember there's a bunch of people who don't even know that.
+
+157
+00:08:05,160 --> 00:08:09,160
+But I didn't want to get very mad at you.
+
+158
+00:08:09,160 --> 00:08:13,160
+Plus, I had better things to talk about than Nassim Taleb.
+
+159
+00:08:13,160 --> 00:08:14,160
+All right.
+
+160
+00:08:14,160 --> 00:08:15,160
+So questions?
+
+161
+00:08:15,160 --> 00:08:16,160
+Questions?
+
+162
+00:08:16,160 --> 00:08:18,160
+I'm happy.
+
+163
+00:08:18,160 --> 00:08:19,160
+All right.
+
+164
+00:08:19,160 --> 00:08:20,160
+So now mean variance efficiency.
+
+165
+00:08:20,160 --> 00:08:21,160
+All right.
+
+166
+00:08:21,160 --> 00:08:23,160
+Now, a popular simplifying assumption.
+
+167
+00:08:23,160 --> 00:08:26,160
+So it doesn't mean it's true, but popular and it's in it.
+
+168
+00:08:26,160 --> 00:08:27,160
+And it's simplifying.
+
+169
+00:08:27,160 --> 00:08:28,160
+People use it in finance.
+
+170
+00:08:28,160 --> 00:08:30,160
+Say people care about only two things.
+
+171
+00:08:30,160 --> 00:08:35,160
+They care about the meaning of consumption and they care about the variance of consumption.
+
+172
+00:08:35,160 --> 00:08:36,160
+All right.
+
+173
+00:08:36,160 --> 00:08:40,160
+So they don't care about, say, the kurtosis of consumption or anything like that.
+
+174
+00:08:40,160 --> 00:08:41,160
+All right.
+
+175
+00:08:41,160 --> 00:08:45,160
+So the idea is that the higher the mean and the lower the variance, the higher utility.
+
+176
+00:08:45,160 --> 00:08:50,160
+So utility goes up when the mean goes up and utility goes up when the variance goes down.
+
+177
+00:08:50,160 --> 00:08:51,160
+All right.
+
+178
+00:08:51,160 --> 00:08:58,160
+And what this means is that people are going to be selecting portfolios that are on a mean
+
+179
+00:08:58,160 --> 00:08:59,160
+variance budget constraint.
+
+180
+00:08:59,160 --> 00:09:00,160
+All right.
+
+181
+00:09:00,160 --> 00:09:07,160
+So if this is mean, this is variance, then the only way you're going to take it other
+
+182
+00:09:07,160 --> 00:09:08,160
+than to be indifferent.
+
+183
+00:09:08,160 --> 00:09:10,160
+So you think about a point of indifference.
+
+184
+00:09:10,160 --> 00:09:12,160
+It could be something like this.
+
+185
+00:09:12,160 --> 00:09:16,160
+Where if mean goes up and the variance goes up, you could be indifferent.
+
+186
+00:09:16,160 --> 00:09:20,160
+So start off like moderate mean, moderate variance, high mean, high variance.
+
+187
+00:09:20,160 --> 00:09:23,160
+So all of these are possibilities for your indifference.
+
+188
+00:09:23,160 --> 00:09:27,160
+And then you always want to be on one of the frontier at least.
+
+189
+00:09:27,160 --> 00:09:32,160
+There's never a reason to go and say, go to here.
+
+190
+00:09:32,160 --> 00:09:34,160
+There's no reason to be there.
+
+191
+00:09:34,160 --> 00:09:39,160
+So look, if you're going to be at that level of variance, why not go out to that high mean?
+
+192
+00:09:39,160 --> 00:09:43,160
+Or at least, if you're going to be that mean, why not go down to that low variance?
+
+193
+00:09:43,160 --> 00:09:46,160
+All right.
+
+194
+00:09:46,160 --> 00:09:51,160
+Now, if you work through the assumptions of a model where people only care about mean
+
+195
+00:09:51,160 --> 00:09:57,160
+and variance, then you get a classic equation in finance.
+
+196
+00:09:57,160 --> 00:10:01,160
+And the equation is this.
+
+197
+00:10:01,160 --> 00:10:15,160
+R bar A is equal to R naught plus sigma E over sigma E times R E bar minus R naught.
+
+198
+00:10:15,160 --> 00:10:17,160
+Parenthesis, this can be proven.
+
+199
+00:10:17,160 --> 00:10:18,160
+I'm not going to prove it.
+
+200
+00:10:18,160 --> 00:10:19,160
+You won't have to prove it.
+
+201
+00:10:19,160 --> 00:10:21,160
+It's in the next book.
+
+202
+00:10:21,160 --> 00:10:25,160
+All right, now, the translation makes a lot more sense than the equation probably.
+
+203
+00:10:25,160 --> 00:10:30,160
+So left hand side, the expected return on asset A.
+
+204
+00:10:30,160 --> 00:10:31,160
+It's all bar A.
+
+205
+00:10:31,160 --> 00:10:34,160
+The expected return on asset A is equal to the risk-free rate.
+
+206
+00:10:34,160 --> 00:10:38,160
+So R naught is the risk-free rate, which when people do empirical finance, usually it is
+
+207
+00:10:38,160 --> 00:10:41,160
+put in the 30-year treasury bill or something like that.
+
+208
+00:10:41,160 --> 00:10:45,160
+So that's, of course, you might say, that's not really certain, is it?
+
+209
+00:10:45,160 --> 00:10:47,160
+Some countries default.
+
+210
+00:10:47,160 --> 00:10:51,160
+But usually in practice, people say, oh, it's probably narrow.
+
+211
+00:10:51,160 --> 00:10:52,160
+I don't know.
+
+212
+00:10:52,160 --> 00:10:53,160
+Let's just figure.
+
+213
+00:10:53,160 --> 00:10:59,160
+Of course, if you're in Greece, then you might say, well, it's the EU debt, not Greek debt.
+
+214
+00:10:59,160 --> 00:11:01,160
+Which is risk-free.
+
+215
+00:11:01,160 --> 00:11:07,160
+All right, so equals the risk-free rate plus the difference.
+
+216
+00:11:07,160 --> 00:11:12,160
+Let's see, plus the difference between the average market rate, which is R bar E, and
+
+217
+00:11:12,160 --> 00:11:13,160
+the risk-free rate.
+
+218
+00:11:13,160 --> 00:11:15,160
+So that's what those terms represent.
+
+219
+00:11:15,160 --> 00:11:18,160
+So that is the expected rate of return on the whole market.
+
+220
+00:11:18,160 --> 00:11:20,160
+And that's, again, the risk-free rate.
+
+221
+00:11:20,160 --> 00:11:26,160
+And then times the ratio of the covariance of A's return on the average market rate
+
+222
+00:11:26,160 --> 00:11:30,160
+to the variance of the average market return.
+
+223
+00:11:30,160 --> 00:11:37,160
+Now, this thing here, you might recognize that as a regression coefficient.
+
+224
+00:11:37,160 --> 00:11:40,160
+Remember the formula for regression coefficients?
+
+225
+00:11:40,160 --> 00:11:42,160
+So covariance over variance.
+
+226
+00:11:42,160 --> 00:11:43,160
+Remember that one?
+
+227
+00:11:43,160 --> 00:11:44,160
+Remember this?
+
+228
+00:11:44,160 --> 00:11:45,160
+All right.
+
+229
+00:11:45,160 --> 00:11:49,160
+That's actually the coefficient you would get if you regress asset A's return on the
+
+230
+00:11:49,160 --> 00:11:50,160
+average market return.
+
+231
+00:11:50,160 --> 00:11:55,160
+So just imagine we get a data set where we get the return on one asset.
+
+232
+00:11:55,160 --> 00:11:59,160
+And then we also get the return on whatever stock index you like.
+
+233
+00:11:59,160 --> 00:12:01,160
+And then you just go and do that regression.
+
+234
+00:12:01,160 --> 00:12:04,160
+And that thing is the coefficient you'll get.
+
+235
+00:12:04,160 --> 00:12:10,160
+And remember, what Greek letter do we usually give for the regression coefficient?
+
+236
+00:12:10,160 --> 00:12:11,160
+Beta.
+
+237
+00:12:11,160 --> 00:12:12,160
+Beta.
+
+238
+00:12:12,160 --> 00:12:13,160
+Yeah, beta.
+
+239
+00:12:13,160 --> 00:12:14,160
+Right?
+
+240
+00:12:14,160 --> 00:12:16,160
+And that's why this is called the beta of the asset.
+
+241
+00:12:16,160 --> 00:12:19,160
+Have you ever heard, you know, the asset's beta?
+
+242
+00:12:19,160 --> 00:12:20,160
+Yes, it's beta.
+
+243
+00:12:20,160 --> 00:12:24,160
+That is the regression coefficient of that asset's return on the overall market rate
+
+244
+00:12:24,160 --> 00:12:25,160
+return.
+
+245
+00:12:25,160 --> 00:12:32,160
+Yeah, so you know, like you got a beta of.8, that says that when the market goes up
+
+246
+00:12:32,160 --> 00:12:34,160
+by one, this thing goes up by.8.
+
+247
+00:12:34,160 --> 00:12:35,160
+Make sense?
+
+248
+00:12:35,160 --> 00:12:36,160
+Right?
+
+249
+00:12:36,160 --> 00:12:40,160
+And then of course, if beta were zero, it would indicate that the thing had no correlation
+
+250
+00:12:40,160 --> 00:12:42,160
+at all with the market rate return.
+
+251
+00:12:42,160 --> 00:12:43,160
+Right?
+
+252
+00:12:43,160 --> 00:12:45,160
+And that works.
+
+253
+00:12:45,160 --> 00:12:46,160
+Yeah?
+
+254
+00:12:46,160 --> 00:12:47,160
+Okay.
+
+255
+00:12:47,160 --> 00:12:48,160
+All right.
+
+256
+00:12:48,160 --> 00:12:51,160
+So questions about formula?
+
+257
+00:12:51,160 --> 00:12:58,160
+So, again, it's a little complicated, but makes intuitive sense once you break the piece
+
+258
+00:12:58,160 --> 00:12:59,160
+of art.
+
+259
+00:12:59,160 --> 00:13:03,160
+And proving it's art, but we're not going to break it.
+
+260
+00:13:03,160 --> 00:13:05,160
+So, here we go.
+
+261
+00:13:05,160 --> 00:13:08,160
+We go and take our 10-minute break now.
+
+262
+00:13:08,160 --> 00:13:11,160
+And then we'll see.
+
+263
+00:13:11,160 --> 00:13:12,160
+We'll see.
+
+264
+00:13:12,160 --> 00:13:14,160
+I've still got homework for Amy.
+
+265
+00:13:14,160 --> 00:13:15,160
+Please.
+
+266
+00:13:15,160 --> 00:13:16,160
+Oh.
+
+267
+00:13:16,160 --> 00:13:18,160
+Louie, can you get the door?
+
+268
+00:13:18,160 --> 00:13:21,160
+All right.
+
+269
+00:13:21,160 --> 00:13:30,160
+Now, moving on to something else that bothers my dad, the efficient markets hypothesis.
+
+270
+00:13:30,160 --> 00:13:32,160
+All right.
+
+271
+00:13:32,160 --> 00:13:37,160
+Now, once you've got this formula for return on assets, it's pretty obvious what's got
+
+272
+00:13:37,160 --> 00:13:41,160
+to happen when new information comes along, which is that market prices have to adjust.
+
+273
+00:13:41,160 --> 00:13:46,160
+So they rise if there's good news, and they fall if there's bad news.
+
+274
+00:13:46,160 --> 00:13:47,160
+Why?
+
+275
+00:13:47,160 --> 00:13:49,160
+Because otherwise the return equation wouldn't be satisfied.
+
+276
+00:13:49,160 --> 00:13:53,160
+So if you got some good news and prices didn't change, this would mean that you're paying
+
+277
+00:13:53,160 --> 00:13:56,160
+the same amount for an asset that's expected to be better.
+
+278
+00:13:56,160 --> 00:13:57,160
+Right?
+
+279
+00:13:57,160 --> 00:14:01,160
+And if you can expect an asset to do better than originally, this means that it's earning
+
+280
+00:14:01,160 --> 00:14:02,160
+a higher return.
+
+281
+00:14:02,160 --> 00:14:03,160
+All right?
+
+282
+00:14:03,160 --> 00:14:07,160
+So it makes sense that when new news comes in, that prices will go up.
+
+283
+00:14:07,160 --> 00:14:09,160
+When good news comes in, prices go up.
+
+284
+00:14:09,160 --> 00:14:11,160
+When bad news comes in, prices go down.
+
+285
+00:14:11,160 --> 00:14:17,160
+Even if the good or bad events are far in the future, as long as you can see them coming,
+
+286
+00:14:17,160 --> 00:14:21,160
+or as long as the probabilities even have altered, that's enough.
+
+287
+00:14:21,160 --> 00:14:22,160
+All right.
+
+288
+00:14:22,160 --> 00:14:28,160
+Now, this seems super obvious until you reflect deeply on what it means for information to
+
+289
+00:14:28,160 --> 00:14:29,160
+arrive.
+
+290
+00:14:29,160 --> 00:14:31,160
+When does information arrive?
+
+291
+00:14:31,160 --> 00:14:33,160
+When does it arrive?
+
+292
+00:14:33,160 --> 00:14:35,160
+The answer is, oh, sorry.
+
+293
+00:14:35,160 --> 00:14:37,160
+I thought there was a hand going up.
+
+294
+00:14:37,160 --> 00:14:39,160
+So when does information arrive?
+
+295
+00:14:39,160 --> 00:14:41,160
+Like, here's when information arrives.
+
+296
+00:14:41,160 --> 00:14:42,160
+Yes, now.
+
+297
+00:14:42,160 --> 00:14:43,160
+All right.
+
+298
+00:14:43,160 --> 00:14:44,160
+Information arrives.
+
+299
+00:14:44,160 --> 00:14:46,160
+So we like, anyway.
+
+300
+00:14:46,160 --> 00:14:50,160
+Information often arrives long before anything changes.
+
+301
+00:14:50,160 --> 00:14:54,160
+And on the other hand, very often if you look at the front page of the newspaper, there's
+
+302
+00:14:54,160 --> 00:14:56,160
+no news in the newspaper.
+
+303
+00:14:56,160 --> 00:15:01,160
+Like, if you go and open up the newspaper, like, no Israeli-Palestinian deal reached
+
+304
+00:15:01,160 --> 00:15:02,160
+again.
+
+305
+00:15:02,160 --> 00:15:05,160
+Well, that's just what I expected would occur.
+
+306
+00:15:05,160 --> 00:15:07,160
+So the news is not news.
+
+307
+00:15:07,160 --> 00:15:08,160
+All right?
+
+308
+00:15:08,160 --> 00:15:10,160
+It needed to be true news.
+
+309
+00:15:10,160 --> 00:15:13,160
+It would not have to, it doesn't mean that it appears in a newspaper.
+
+310
+00:15:13,160 --> 00:15:17,160
+It would have to be something different from what was foreseeable before.
+
+311
+00:15:17,160 --> 00:15:19,160
+All right.
+
+312
+00:15:19,160 --> 00:15:23,160
+So like, you find out a firm is going to have to pay a million dollars ten years from now.
+
+313
+00:15:23,160 --> 00:15:25,160
+The price has to fall now.
+
+314
+00:15:25,160 --> 00:15:28,160
+You don't wait around for the actual bill to come.
+
+315
+00:15:28,160 --> 00:15:29,160
+The bill is not the news.
+
+316
+00:15:29,160 --> 00:15:31,160
+You know, it's the legal ruling.
+
+317
+00:15:31,160 --> 00:15:36,160
+Or maybe it's the judgment of legal experts that a ruling is likely to come out a certain
+
+318
+00:15:36,160 --> 00:15:37,160
+way.
+
+319
+00:15:37,160 --> 00:15:42,160
+Or maybe it's the judgment of the forensic accountants that when people find out about
+
+320
+00:15:42,160 --> 00:15:46,160
+what's going to happen with the numbers, that then the legal experts will say something.
+
+321
+00:15:46,160 --> 00:15:47,160
+All right.
+
+322
+00:15:47,160 --> 00:15:51,160
+And of course, this applies totally to probabilistic news.
+
+323
+00:15:51,160 --> 00:15:55,160
+So if there's like a 30% chance of a hurricane coming and then it goes to 40, it's a reason
+
+324
+00:15:55,160 --> 00:15:58,160
+for prices to go and change right away.
+
+325
+00:15:58,160 --> 00:15:59,160
+Right?
+
+326
+00:15:59,160 --> 00:16:01,160
+Even though the hurricane hasn't even begun yet.
+
+327
+00:16:01,160 --> 00:16:05,160
+But say, well, just the odds of a hurricane are bigger and that's going to change the
+
+328
+00:16:05,160 --> 00:16:07,160
+prices of everything.
+
+329
+00:16:07,160 --> 00:16:08,160
+All right.
+
+330
+00:16:08,160 --> 00:16:11,160
+Now, of course, this means the occurrence of any expected pattern is not news.
+
+331
+00:16:11,160 --> 00:16:15,160
+So when you think about how many headlines are just like, duh, of course.
+
+332
+00:16:15,160 --> 00:16:17,160
+Like, how is that even news?
+
+333
+00:16:17,160 --> 00:16:18,160
+Right?
+
+334
+00:16:18,160 --> 00:16:22,160
+So, like, although of course it gets even worse for headlines saying that it's not.
+
+335
+00:16:22,160 --> 00:16:23,160
+Right?
+
+336
+00:16:23,160 --> 00:16:24,160
+But anyway.
+
+337
+00:16:24,160 --> 00:16:30,160
+But normally, there's a lot of so-called news where it's like, you know, Trump gets nomination
+
+338
+00:16:30,160 --> 00:16:34,160
+when a day before, like, he had all the votes, everything was lined up.
+
+339
+00:16:34,160 --> 00:16:38,160
+Journalists will still consider this news, but economically it's not really news.
+
+340
+00:16:38,160 --> 00:16:39,160
+Right?
+
+341
+00:16:39,160 --> 00:16:43,160
+Anyway, of course, you might say, well, there's always a little bit of news.
+
+342
+00:16:43,160 --> 00:16:46,160
+Because there was always a chance that he could die of a heart attack.
+
+343
+00:16:46,160 --> 00:16:47,160
+All right.
+
+344
+00:16:47,160 --> 00:16:48,160
+All right.
+
+345
+00:16:48,160 --> 00:16:49,160
+Fine.
+
+346
+00:16:49,160 --> 00:16:50,160
+All right.
+
+347
+00:16:50,160 --> 00:16:52,160
+But then what really should be reflected in the market isn't that he got the nomination,
+
+348
+00:16:52,160 --> 00:16:56,160
+which is already well known, but that he didn't die of a heart attack, which was a very small
+
+349
+00:16:56,160 --> 00:16:58,160
+lingering probability.
+
+350
+00:16:58,160 --> 00:17:00,160
+It was always there.
+
+351
+00:17:00,160 --> 00:17:01,160
+Right?
+
+352
+00:17:01,160 --> 00:17:02,160
+But still not much.
+
+353
+00:17:02,160 --> 00:17:03,160
+Yeah.
+
+354
+00:17:03,160 --> 00:17:04,160
+So, like, what's the audience?
+
+355
+00:17:04,160 --> 00:17:09,160
+Like, if somebody operates under the probability that something will happen versus somebody
+
+356
+00:17:09,160 --> 00:17:11,160
+operating that it won't happen.
+
+357
+00:17:11,160 --> 00:17:12,160
+Right.
+
+358
+00:17:12,160 --> 00:17:13,160
+Right.
+
+359
+00:17:13,160 --> 00:17:15,160
+And the official answer to that is it all depends on the information held by the marginal
+
+360
+00:17:15,160 --> 00:17:16,160
+trader.
+
+361
+00:17:16,160 --> 00:17:19,160
+So, the marginal trader and what he knows is what's crucial.
+
+362
+00:17:19,160 --> 00:17:20,160
+Yes.
+
+363
+00:17:20,160 --> 00:17:23,160
+In fact, there's some kindergarteners who don't know where everything is news to them.
+
+364
+00:17:23,160 --> 00:17:26,160
+Like, whatever you say is like, what?
+
+365
+00:17:26,160 --> 00:17:30,160
+Or, of course, they might not even understand what the claim is.
+
+366
+00:17:30,160 --> 00:17:31,160
+They don't matter.
+
+367
+00:17:31,160 --> 00:17:33,160
+They're not buying or selling assets anyway.
+
+368
+00:17:33,160 --> 00:17:36,160
+It's the marginal trader, the marginal person, and what that person knows that's actually
+
+369
+00:17:36,160 --> 00:17:37,160
+crucial.
+
+370
+00:17:37,160 --> 00:17:38,160
+All right.
+
+371
+00:17:38,160 --> 00:17:43,160
+Now, there's a surprising implication out of all this, and that is that asset changes
+
+372
+00:17:43,160 --> 00:17:45,160
+should be totally unpredictable.
+
+373
+00:17:45,160 --> 00:17:50,160
+Asset changes should be totally unpredictable, or technically they should follow a random
+
+374
+00:17:50,160 --> 00:17:57,160
+walk, such as expected value, expected price at time t plus 1 equals the price at time
+
+375
+00:17:57,160 --> 00:17:58,160
+t.
+
+376
+00:17:58,160 --> 00:18:04,160
+And equations like this, this is known as the efficient markets hypothesis, EMH.
+
+377
+00:18:04,160 --> 00:18:06,160
+All right.
+
+378
+00:18:06,160 --> 00:18:07,160
+Okay.
+
+379
+00:18:07,160 --> 00:18:13,160
+So, EMH was widely denounced during the last recession, and of course was widely denounced
+
+380
+00:18:13,160 --> 00:18:15,160
+before that as well.
+
+381
+00:18:15,160 --> 00:18:20,160
+But there's two kinds of denouncers of the efficient markets hypothesis.
+
+382
+00:18:20,160 --> 00:18:24,160
+There's the denouncers who just say, it's complete total garbage.
+
+383
+00:18:24,160 --> 00:18:26,160
+There's nothing to it.
+
+384
+00:18:26,160 --> 00:18:29,160
+And they don't know what they're talking about.
+
+385
+00:18:29,160 --> 00:18:34,160
+And then there are the actual quants who criticize it, where if you strip away the adjectives
+
+386
+00:18:34,160 --> 00:18:40,160
+and just read the actual appearance, it's like, fine, it's 95% true, but I found a 5%
+
+387
+00:18:40,160 --> 00:18:41,160
+deviation, so.
+
+388
+00:18:41,160 --> 00:18:44,160
+All right, so give me 10, all right?
+
+389
+00:18:44,160 --> 00:18:45,160
+Right?
+
+390
+00:18:45,160 --> 00:18:50,160
+But now, again, of course, that 5% deviation might be the basis of getting really rich
+
+391
+00:18:50,160 --> 00:18:52,160
+in a world where other people don't know about it.
+
+392
+00:18:52,160 --> 00:18:54,160
+So, it's not totally trivial.
+
+393
+00:18:54,160 --> 00:18:59,160
+But at the same time, when quants go and step back and say, well, like, how true is the
+
+394
+00:18:59,160 --> 00:19:02,160
+efficient markets hypothesis compared to being completely wrong?
+
+395
+00:19:02,160 --> 00:19:07,160
+And that's where very normal for even someone who has a reputation for being a critic, like
+
+396
+00:19:07,160 --> 00:19:12,160
+Richard Thaler or Robert Shiller, to go and say, well, of course, obviously this.
+
+397
+00:19:12,160 --> 00:19:16,160
+But then if you read the book, the obviously part might only be three sentences in a book
+
+398
+00:19:16,160 --> 00:19:20,160
+of 300 pages, because they want to talk about the 5% deviation.
+
+399
+00:19:20,160 --> 00:19:26,160
+But still, every now and then, they will go and someone will say, so according to you,
+
+400
+00:19:26,160 --> 00:19:27,160
+there's like a get-rich-quick scheme I could do.
+
+401
+00:19:27,160 --> 00:19:29,160
+And they're like, no, there's not a get-rich-quick scheme.
+
+402
+00:19:29,160 --> 00:19:36,160
+There is a get a little bit richer if you have a whole, a very long time to go and act
+
+403
+00:19:36,160 --> 00:19:38,160
+on this contrarian strategy.
+
+404
+00:19:38,160 --> 00:19:41,160
+But, you know, that's, of course, pretty disappointing.
+
+405
+00:19:41,160 --> 00:19:42,160
+Right?
+
+406
+00:19:42,160 --> 00:19:45,160
+You know, the people who want to say it's totally wrong are normally people who want
+
+407
+00:19:45,160 --> 00:19:47,160
+to sell you a get-rich-quick scheme.
+
+408
+00:19:47,160 --> 00:19:51,160
+Go and pay me $1,000 a month for my newsletter and I will tell you information and I'll get
+
+409
+00:19:51,160 --> 00:19:52,160
+you rich.
+
+410
+00:19:52,160 --> 00:19:56,160
+Gee, why are you giving this information away for $1,000 a month in a newsletter?
+
+411
+00:19:56,160 --> 00:19:59,160
+Like, why don't you just keep it to yourself and get really rich?
+
+412
+00:19:59,160 --> 00:20:18,160
+Oh, well.
+
+

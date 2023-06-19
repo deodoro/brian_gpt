@@ -1,0 +1,6 @@
+3. Suppose you have a 2-player version of the voluntary donation game from the notes, with one difference: Each agent dislikes the other, so player one maximizes U1=c1D-.2*c2D, and player two maximizes U2=c2D-.2*c1D. 
+ 
+True, False, and Explain: In symmetric Nash equilibrium, c1=c2<2/3.
+ 
+ 
+

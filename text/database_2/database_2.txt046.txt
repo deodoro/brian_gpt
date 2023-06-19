@@ -1,0 +1,10 @@
+4. An agent faces two choices: (1) A utility of 10 for sure; (2) A utility of 1 with 50% probability and a utility of 20 with 50% probability.
+
+True, False, and Explain: If the agent prefers (1) to (2), then in terms of Expected Utility Theory, he is risk-averse.
+ 
+False. Expected Utility theory states that individuals will maximize their expected utility. By expressing the choices in terms of utility, risk-preferences are already accounted for.
+ 
+Questions 5 and 6 refer to the following information:
+
+There are two kinds of workers, good and bad.  Both types are equally numerous.  Good workers are worth $100k to me; bad workers are worth $25k to me.  It costs good workers $25k to complete school, but $50k for bad workers to do so.  I can tell if a worker finished school, but cannot observe their quality directly.  Workers earn 75% of their value to me if they choose to be self-employed.
+

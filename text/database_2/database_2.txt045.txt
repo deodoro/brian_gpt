@@ -1,0 +1,12 @@
+3. Suppose firms in an industry have the same cost function, including a sunk cost. Product demand rises, leading to a doubling of potential monopoly profits. Two firms play mixed strategies to decide whether to enter.
+ f
+True, False, and Explain: The probability that both firms enter and lose money quadruples.
+ 
+ False? Assume sunk costs incurred if entry. *Week 5 notes, V
+False. For the non-double profits case (see homework #4 Question 4), The MSNE is to Enter with probability ?m/(?m+a). For the double profits case, let ?=probability that firm 1 enters. Then, -a?+2?m(1-?)=0?+0(1-?).
+2?m-2?m?=a?
+2?m=a?+2?m?
+2?m=(a+2?m)?
+?=2?m/(a+2?m), which is not ?m/(?m+a)quadrupled.
+
+ 

@@ -1,0 +1,8 @@
+8. Suppose that education causes a temporary increase in intelligence, but the effect "fades-out" after a year. 
+
+True, False, and Explain:  Controlling for intelligence, the estimated effect of education is downwardly biased.
+ 
+Scott would answer that this is true. Education drives some of the increase in IQ. When estimating how much you are now earning, some of this will be attributed to IQ and some will be attributed to education. But, if the increase is only because you were educated, this is underestimating the effect education has on earnings, because some of the effect is being picked up by IQ. Scott may be wrong.
+
+ *pg. 645 intelligence paper. Rate of return to education estimates that fail to control for intelligence are likely to be biased upwards. 
+ 

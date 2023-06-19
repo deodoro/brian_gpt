@@ -1,0 +1,4 @@
+5. True, False, and Explain: Asymmetric information problems do not require irrationality, but irrationality makes asymmetric information problems more severe.
+
+False. It could be the case that irrationality may make asymmetric information problems LESS severe. If I buy car insurance, and instead drive more safely instead of taking on more risks, I am making things better for other people in the insurance market--I am not behaving in the way a rational person in a situation of moral hazard would and not fully externalizing costs onto others.
+

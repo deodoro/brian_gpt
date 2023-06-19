@@ -1,0 +1,1921 @@
+1
+00:00:00,000 --> 00:00:02,600
+risk aversion are all mathematically equivalent.
+
+2
+00:00:02,600 --> 00:00:04,900
+And then it's sort of, put that and walk down.
+
+3
+00:00:04,900 --> 00:00:05,720
+Right?
+
+4
+00:00:05,720 --> 00:00:09,040
+So, and what I'll say is four out of five,
+
+5
+00:00:09,040 --> 00:00:11,320
+I never saw a GIN, I never need to know a GIN.
+
+6
+00:00:11,320 --> 00:00:12,640
+So I'm not gonna do that to you.
+
+7
+00:00:12,640 --> 00:00:15,160
+Instead, I'm going to just tell you
+
+8
+00:00:15,160 --> 00:00:17,520
+the most common method of measuring risk aversion
+
+9
+00:00:17,520 --> 00:00:18,860
+and explain how it works.
+
+10
+00:00:19,800 --> 00:00:22,720
+Okay, so, and the most common measurement
+
+11
+00:00:22,720 --> 00:00:24,360
+that people use, or economists use,
+
+12
+00:00:24,360 --> 00:00:26,160
+is the coefficient of absolute risk aversion,
+
+13
+00:00:26,160 --> 00:00:29,160
+sometimes abbreviated CARA,
+
+14
+00:00:29,160 --> 00:00:31,720
+coefficient of absolute risk aversion, right?
+
+15
+00:00:31,720 --> 00:00:33,920
+And the coefficient of absolute risk aversion
+
+16
+00:00:33,920 --> 00:00:38,920
+is equal to negative second derivative
+
+17
+00:00:38,920 --> 00:00:41,760
+of the utility function over the first derivative
+
+18
+00:00:41,760 --> 00:00:43,540
+of the utility function.
+
+19
+00:00:43,540 --> 00:00:44,680
+All right, now, at first glance,
+
+20
+00:00:44,680 --> 00:00:47,460
+it is not obvious why that would mean anything,
+
+21
+00:00:47,460 --> 00:00:49,240
+but I will show you some examples
+
+22
+00:00:49,240 --> 00:00:50,680
+that show you it means a lot.
+
+23
+00:00:53,680 --> 00:00:57,120
+All right, so, let's just start with
+
+24
+00:00:57,120 --> 00:00:59,760
+this one we've already seen of
+
+25
+00:00:59,760 --> 00:01:01,600
+U is equal to the square root of W,
+
+26
+00:01:01,600 --> 00:01:02,440
+so your utility function's equal
+
+27
+00:01:02,440 --> 00:01:04,480
+to the square root of your wealth.
+
+28
+00:01:04,480 --> 00:01:06,600
+All right, so, in that case,
+
+29
+00:01:06,600 --> 00:01:09,660
+so the coefficient of absolute risk aversion will be minus,
+
+30
+00:01:09,660 --> 00:01:12,720
+and then, let's see, let's do the first derivative first.
+
+31
+00:01:12,720 --> 00:01:16,360
+So remember, this is the same as W to the 0.5.
+
+32
+00:01:16,360 --> 00:01:21,360
+So, the first derivative of W to the 0.5 is going to be?
+
+33
+00:01:21,560 --> 00:01:25,120
+0.5 W raised to the minus 0.5, yes.
+
+34
+00:01:25,120 --> 00:01:28,080
+So, 0.5 W to the minus 0.5,
+
+35
+00:01:28,080 --> 00:01:29,120
+and then, the second derivative,
+
+36
+00:01:29,120 --> 00:01:30,880
+we just differentiate that again,
+
+37
+00:01:30,880 --> 00:01:35,880
+and we get minus 0.25 W raised to the minus 1.5.
+
+38
+00:01:36,640 --> 00:01:39,920
+All right, and then, if we go and simplify that,
+
+39
+00:01:39,920 --> 00:01:44,280
+we get 0.5 W to the negative one, right?
+
+40
+00:01:44,280 --> 00:01:46,680
+And what this says is that with this utility function,
+
+41
+00:01:46,680 --> 00:01:49,720
+you have positive risk aversion.
+
+42
+00:01:49,720 --> 00:01:50,880
+So, with this utility function,
+
+43
+00:01:50,880 --> 00:01:53,800
+any number of, any coefficient of absolute risk aversion
+
+44
+00:01:53,800 --> 00:01:56,360
+greater than zero indicates risk aversion.
+
+45
+00:01:56,360 --> 00:01:58,640
+Zero indicates no risk aversion.
+
+46
+00:01:58,640 --> 00:02:01,920
+Negative indicates that you're risk preferring, right?
+
+47
+00:02:01,920 --> 00:02:03,400
+This also says something interesting
+
+48
+00:02:03,400 --> 00:02:04,360
+about this utility function,
+
+49
+00:02:04,360 --> 00:02:06,960
+which is that the bigger your wealth,
+
+50
+00:02:06,960 --> 00:02:08,840
+what happens, as your wealth goes up,
+
+51
+00:02:08,840 --> 00:02:11,080
+what happens to your degree of risk aversion?
+
+52
+00:02:13,560 --> 00:02:17,920
+So, this is the same as 0.5 over W.
+
+53
+00:02:17,920 --> 00:02:23,920
+So, as wealth increases, what happens to your risk aversion?
+
+54
+00:02:24,680 --> 00:02:26,480
+It goes down, it goes down, right?
+
+55
+00:02:26,480 --> 00:02:29,480
+And as W goes to infinity, what happens to risk aversion?
+
+56
+00:02:30,400 --> 00:02:31,720
+Goes to zero, right?
+
+57
+00:02:31,720 --> 00:02:33,800
+So, this says that as your wealth becomes infinite,
+
+58
+00:02:33,800 --> 00:02:37,240
+then your risk aversion becomes non-existent, all right?
+
+59
+00:02:37,240 --> 00:02:39,120
+So, with this utility function,
+
+60
+00:02:39,120 --> 00:02:40,080
+you're definitely risk averse.
+
+61
+00:02:40,080 --> 00:02:41,720
+You risk aversion all levels of wealth,
+
+62
+00:02:41,720 --> 00:02:45,320
+but the wealthier you are, the less risk averse you are.
+
+63
+00:02:45,320 --> 00:02:48,640
+Now, what if we do U is equal to W?
+
+64
+00:02:48,640 --> 00:02:49,760
+So, remember, that's the same
+
+65
+00:02:49,760 --> 00:02:52,400
+as expected value maximization, right?
+
+66
+00:02:52,400 --> 00:02:54,160
+That's the same as expected value maximization.
+
+67
+00:02:54,160 --> 00:02:55,240
+It's gonna do whatever it is
+
+68
+00:02:55,240 --> 00:02:57,200
+that gives the highest average value.
+
+69
+00:02:57,200 --> 00:03:00,200
+And we then go and calculate some negative.
+
+70
+00:03:00,200 --> 00:03:02,360
+And then, what's the first derivative of W?
+
+71
+00:03:03,440 --> 00:03:05,880
+First derivative of a variable?
+
+72
+00:03:05,880 --> 00:03:06,720
+One.
+
+73
+00:03:06,720 --> 00:03:09,520
+One, right?
+
+74
+00:03:09,520 --> 00:03:11,400
+And then, what is the derivative of one?
+
+75
+00:03:11,400 --> 00:03:12,240
+Zero.
+
+76
+00:03:12,240 --> 00:03:13,080
+Yes, that's zero.
+
+77
+00:03:13,080 --> 00:03:17,880
+So, this says that when you have that utility function,
+
+78
+00:03:17,880 --> 00:03:19,960
+the expected value maximization utility function,
+
+79
+00:03:19,960 --> 00:03:22,000
+then you have no risk aversion.
+
+80
+00:03:22,000 --> 00:03:23,520
+All right, that makes sense.
+
+81
+00:03:23,520 --> 00:03:27,800
+And then, if you go and were to try and say W squared,
+
+82
+00:03:27,800 --> 00:03:30,200
+then you find out that will actually give you
+
+83
+00:03:30,200 --> 00:03:31,120
+negative risk aversion,
+
+84
+00:03:31,120 --> 00:03:35,200
+which means that you will, in fact, be risk-affording.
+
+85
+00:03:35,200 --> 00:03:37,840
+And so, and as long as you just have utility
+
+86
+00:03:37,840 --> 00:03:40,280
+as a function of W raised to some power,
+
+87
+00:03:40,280 --> 00:03:43,760
+then the breakdown is pretty simple.
+
+88
+00:03:43,760 --> 00:03:47,840
+Says that if the coefficient is less than one,
+
+89
+00:03:47,840 --> 00:03:49,080
+then you're risk-averse.
+
+90
+00:03:49,080 --> 00:03:50,840
+The current coefficient is exactly one,
+
+91
+00:03:50,840 --> 00:03:51,960
+then you're risk-neutral.
+
+92
+00:03:51,960 --> 00:03:53,160
+And the coefficient is more than one,
+
+93
+00:03:53,160 --> 00:03:55,200
+then you're risk-affording.
+
+94
+00:03:55,200 --> 00:03:56,040
+Okay.
+
+95
+00:03:57,120 --> 00:03:59,840
+All right, so, questions about that?
+
+96
+00:03:59,840 --> 00:04:01,880
+Everyone happy about that?
+
+97
+00:04:01,880 --> 00:04:03,320
+All right, so, and everyone happy
+
+98
+00:04:03,320 --> 00:04:04,880
+that we didn't do 90 minutes on this?
+
+99
+00:04:04,880 --> 00:04:08,720
+So, with this, you might actually use at some point.
+
+100
+00:04:08,720 --> 00:04:11,680
+So, the coefficient of absolute risk aversion
+
+101
+00:04:11,680 --> 00:04:13,720
+does come up every now and then.
+
+102
+00:04:13,720 --> 00:04:15,680
+And it is a rule where you can go
+
+103
+00:04:15,680 --> 00:04:18,360
+and just take any utility function and differentiate it
+
+104
+00:04:18,360 --> 00:04:20,480
+and see what, or whether this applies
+
+105
+00:04:20,480 --> 00:04:21,440
+to the person who's risk-averse,
+
+106
+00:04:21,440 --> 00:04:23,720
+or risk-neutral, or risk-affording.
+
+107
+00:04:23,720 --> 00:04:25,500
+So, useful to that extent.
+
+108
+00:04:26,440 --> 00:04:27,800
+All right.
+
+109
+00:04:27,800 --> 00:04:31,800
+Okay, so, questions, questions?
+
+110
+00:04:31,800 --> 00:04:32,680
+All right.
+
+111
+00:04:32,680 --> 00:04:35,120
+Now, application of what we've been doing
+
+112
+00:04:35,120 --> 00:04:37,360
+is demand for insurance.
+
+113
+00:04:37,360 --> 00:04:38,880
+So, let's try that.
+
+114
+00:04:40,680 --> 00:04:41,520
+All right.
+
+115
+00:04:46,760 --> 00:04:48,200
+Okay.
+
+116
+00:04:48,200 --> 00:04:51,760
+So, let's think about a simple insurance problem
+
+117
+00:04:51,760 --> 00:04:56,400
+with an agent who satisfies expected utility theory.
+
+118
+00:04:56,400 --> 00:04:58,920
+And to make it interesting, let's give him risk aversion
+
+119
+00:04:58,920 --> 00:05:01,120
+so he actually wants insurance.
+
+120
+00:05:01,120 --> 00:05:01,960
+Okay.
+
+121
+00:05:01,960 --> 00:05:04,320
+So, suppose we have someone who expects utility
+
+122
+00:05:04,320 --> 00:05:08,520
+given by U is equal to W raised to the 0.8 power.
+
+123
+00:05:08,520 --> 00:05:10,400
+So, as I said, so W raised to the 0.8,
+
+124
+00:05:10,400 --> 00:05:11,880
+is this person gonna be risk-preferring,
+
+125
+00:05:11,880 --> 00:05:13,320
+risk-neutral, or risk-averse?
+
+126
+00:05:13,320 --> 00:05:14,160
+Risk-averse.
+
+127
+00:05:14,160 --> 00:05:16,360
+They have risk-averse, that's correct.
+
+128
+00:05:16,360 --> 00:05:19,160
+All right, and then he wants to insure his income.
+
+129
+00:05:19,160 --> 00:05:20,920
+So, suppose that without insurance,
+
+130
+00:05:20,920 --> 00:05:25,360
+his income is $1,000 with probability of 0.6,
+
+131
+00:05:25,360 --> 00:05:28,980
+and $0 with probability of 0.4.
+
+132
+00:05:30,440 --> 00:05:33,240
+So, that's the lottery ticket that he's dealing with.
+
+133
+00:05:33,240 --> 00:05:35,000
+All right, and then there's an insurance company
+
+134
+00:05:35,000 --> 00:05:38,000
+that offers him I dollars worth of insurance.
+
+135
+00:05:38,000 --> 00:05:40,040
+So, I dollars worth of insurance,
+
+136
+00:05:40,040 --> 00:05:44,560
+and this insurance pays off if this thing happens.
+
+137
+00:05:44,560 --> 00:05:46,400
+So, if that happens, then the insurance company
+
+138
+00:05:46,400 --> 00:05:48,000
+gives you some money.
+
+139
+00:05:48,000 --> 00:05:48,880
+All right.
+
+140
+00:05:48,880 --> 00:05:50,320
+And let's see.
+
+141
+00:05:50,320 --> 00:05:52,800
+So, it offers I dollars worth of insurance,
+
+142
+00:05:52,800 --> 00:05:57,720
+and it offers it a price of 0.4 times X times I,
+
+143
+00:05:57,720 --> 00:05:59,520
+where I is the number of dollars,
+
+144
+00:05:59,520 --> 00:06:02,000
+and then if X is one, then this insurance
+
+145
+00:06:02,000 --> 00:06:03,800
+is what we call actuarially fair.
+
+146
+00:06:08,120 --> 00:06:10,480
+Actuarially fair means that the premiums
+
+147
+00:06:10,480 --> 00:06:14,320
+are exactly equal, the payouts are exactly equal
+
+148
+00:06:14,320 --> 00:06:15,960
+to the average premiums.
+
+149
+00:06:15,960 --> 00:06:18,360
+So, is it fair to expect a business
+
+150
+00:06:18,360 --> 00:06:21,200
+to provide actuarially fair insurance?
+
+151
+00:06:21,200 --> 00:06:22,040
+No.
+
+152
+00:06:22,040 --> 00:06:23,000
+Yeah, it's highly unfair,
+
+153
+00:06:23,000 --> 00:06:24,120
+because it would mean that they would have to
+
+154
+00:06:24,120 --> 00:06:25,960
+do their job for free, right?
+
+155
+00:06:25,960 --> 00:06:27,840
+And would have no money for their workers or anything else.
+
+156
+00:06:27,840 --> 00:06:31,280
+So, actuarially fair insurance is unfair.
+
+157
+00:06:31,280 --> 00:06:33,920
+By almost any standard, I guess you might just say,
+
+158
+00:06:33,920 --> 00:06:36,280
+look, people in the insurance industry
+
+159
+00:06:36,280 --> 00:06:39,160
+are our born servants, and they should just be happy
+
+160
+00:06:39,160 --> 00:06:43,920
+to go and provide us insurance for nothing, but otherwise.
+
+161
+00:06:43,920 --> 00:06:45,400
+So, the insurance company sells insurance
+
+162
+00:06:45,400 --> 00:06:47,920
+at a price of 0.4 times X times I,
+
+163
+00:06:47,920 --> 00:06:49,480
+where I is the number of dollars,
+
+164
+00:06:49,480 --> 00:06:53,600
+and X is this price variable.
+
+165
+00:06:53,600 --> 00:06:54,440
+All right.
+
+166
+00:06:54,440 --> 00:06:56,160
+So, now, when the customer decides
+
+167
+00:06:56,160 --> 00:06:58,040
+how much insurance does he want,
+
+168
+00:06:58,040 --> 00:07:00,560
+he's gotta go and solve the expected utility problem.
+
+169
+00:07:00,560 --> 00:07:03,360
+And again, remember, the way that insurance works is,
+
+170
+00:07:03,360 --> 00:07:04,960
+suppose that you get insurance
+
+171
+00:07:04,960 --> 00:07:06,000
+and the bad thing doesn't happen.
+
+172
+00:07:06,000 --> 00:07:07,300
+You still pay the premium?
+
+173
+00:07:08,600 --> 00:07:09,440
+Yeah.
+
+174
+00:07:09,440 --> 00:07:10,280
+Of course.
+
+175
+00:07:10,280 --> 00:07:11,100
+Yes?
+
+176
+00:07:11,100 --> 00:07:12,840
+In fact, that's what you're hoping for normally.
+
+177
+00:07:12,840 --> 00:07:14,440
+Yeah, I just hope that I send in my premium
+
+178
+00:07:14,440 --> 00:07:15,360
+and I get nothing for it.
+
+179
+00:07:15,360 --> 00:07:16,880
+So, that's the good case.
+
+180
+00:07:16,880 --> 00:07:18,160
+Is that you didn't get it in an accident,
+
+181
+00:07:18,160 --> 00:07:19,560
+your house didn't burn down,
+
+182
+00:07:19,560 --> 00:07:21,360
+so on, you didn't get cancer.
+
+183
+00:07:21,360 --> 00:07:22,200
+All right.
+
+184
+00:07:22,200 --> 00:07:26,200
+And then, similarly, suppose the bad thing does happen.
+
+185
+00:07:26,200 --> 00:07:27,600
+Do you still pay for your insurance
+
+186
+00:07:27,600 --> 00:07:29,400
+if the bad thing does happen?
+
+187
+00:07:29,400 --> 00:07:30,240
+Yeah.
+
+188
+00:07:30,240 --> 00:07:31,400
+So, what happens is you pay the premium,
+
+189
+00:07:31,400 --> 00:07:33,600
+but then they also give you some money, right?
+
+190
+00:07:33,600 --> 00:07:35,480
+Or whatever it is they're supposed to cover.
+
+191
+00:07:35,480 --> 00:07:36,320
+All right.
+
+192
+00:07:36,320 --> 00:07:39,080
+So, we're gonna go and maximize our utility
+
+193
+00:07:39,080 --> 00:07:40,520
+with respect to I.
+
+194
+00:07:40,520 --> 00:07:42,280
+Remember, I is the choice variable.
+
+195
+00:07:42,280 --> 00:07:44,200
+We're trying to find out how much insurance
+
+196
+00:07:44,200 --> 00:07:45,720
+a person is going to want.
+
+197
+00:07:45,720 --> 00:07:47,600
+What will be utility maximizing?
+
+198
+00:07:47,600 --> 00:07:50,320
+And this person satisfies expected utility theory,
+
+199
+00:07:50,320 --> 00:07:53,680
+so we're gonna maximize 0.6 times 1,000,
+
+200
+00:07:56,040 --> 00:07:58,920
+which is, what happens, 0.6 of the time,
+
+201
+00:07:58,920 --> 00:08:03,920
+minus 0.4xi, which is the premium.
+
+202
+00:08:07,840 --> 00:08:09,560
+All that raised to the 0.8 power,
+
+203
+00:08:10,520 --> 00:08:15,520
+plus 0.4 times minus 0.4xi, which is the premium,
+
+204
+00:08:18,360 --> 00:08:21,960
+plus I raised to the 0.8.
+
+205
+00:08:21,960 --> 00:08:24,080
+Remember, plus I because in the bad state,
+
+206
+00:08:24,080 --> 00:08:26,920
+which happens 40% of the time, you get to collect.
+
+207
+00:08:26,920 --> 00:08:29,520
+So, you buy I dollars worth of insurance,
+
+208
+00:08:29,520 --> 00:08:32,480
+and if the bad thing happens, you get a check for I dollars.
+
+209
+00:08:32,480 --> 00:08:34,800
+You still, of course, have to pay the premium.
+
+210
+00:08:35,880 --> 00:08:36,840
+All right.
+
+211
+00:08:36,840 --> 00:08:39,280
+So, that is what we're maximizing.
+
+212
+00:08:39,280 --> 00:08:41,520
+So, if we simplify and then differentiate
+
+213
+00:08:41,520 --> 00:08:44,480
+and set equal to zero, then we will get the first line
+
+214
+00:08:44,480 --> 00:08:46,160
+on the last page of the notes.
+
+215
+00:08:46,160 --> 00:08:49,600
+So, we get 0.6 times 0.8 times negative 0.4x,
+
+216
+00:08:49,600 --> 00:08:52,600
+all times 1,000 minus 0.4xi,
+
+217
+00:08:52,600 --> 00:08:54,440
+all raised to the negative 0.2 power,
+
+218
+00:08:54,440 --> 00:08:58,440
+plus 0.4 times 0.8 times one minus 0.4x,
+
+219
+00:08:58,440 --> 00:09:03,440
+all of this raised to, or all those times 1.4 of 1.4x,
+
+220
+00:09:04,440 --> 00:09:06,360
+that times that times I, all that raised
+
+221
+00:09:06,360 --> 00:09:08,880
+to the negative 0.2 power, set that equal to zero.
+
+222
+00:09:08,880 --> 00:09:10,000
+This simplifies to something
+
+223
+00:09:10,000 --> 00:09:12,000
+that still doesn't look very simple.
+
+224
+00:09:12,000 --> 00:09:14,920
+So, that's line E, right?
+
+225
+00:09:14,920 --> 00:09:16,040
+But then we get to do something
+
+226
+00:09:16,040 --> 00:09:17,360
+that we don't normally do in economics,
+
+227
+00:09:17,360 --> 00:09:20,880
+which is to take a negative 0.2 root of both sides.
+
+228
+00:09:20,880 --> 00:09:23,880
+All right, so we take a negative 0.2 root of both sides,
+
+229
+00:09:23,880 --> 00:09:28,280
+and then we can go and just define this variable theta,
+
+230
+00:09:28,280 --> 00:09:30,120
+just to go and capture everything going on.
+
+231
+00:09:30,120 --> 00:09:31,160
+I say, wait a second,
+
+232
+00:09:31,160 --> 00:09:34,660
+how did a negative five power get in here?
+
+233
+00:09:34,660 --> 00:09:38,160
+Well, remember, if we are taking a root of 0.2 power,
+
+234
+00:09:38,160 --> 00:09:41,320
+point to us that is the same as a 1 5th root.
+
+235
+00:09:41,320 --> 00:09:42,960
+So, when we invert that,
+
+236
+00:09:42,960 --> 00:09:44,980
+then we're going to get something raised to the 5th power.
+
+237
+00:09:44,980 --> 00:09:46,680
+Right, make sense?
+
+238
+00:09:46,680 --> 00:09:50,960
+Okay, and we solve, and then we do get our optimal I,
+
+239
+00:09:50,960 --> 00:09:54,840
+I star will be equal to $1,000
+
+240
+00:09:54,840 --> 00:09:59,840
+over theta times one minus 0.4 X plus 0.4 X.
+
+241
+00:10:03,480 --> 00:10:06,120
+Now, this may not mean that much even now,
+
+242
+00:10:06,120 --> 00:10:09,800
+but if we then go back to that actually fair assumption,
+
+243
+00:10:09,800 --> 00:10:11,640
+we get to an interesting result,
+
+244
+00:10:11,640 --> 00:10:13,680
+because if the insurance is actually fair,
+
+245
+00:10:13,680 --> 00:10:17,600
+then theta winds up being exactly equal to one.
+
+246
+00:10:17,600 --> 00:10:19,360
+And you say, like, how can that thing be one?
+
+247
+00:10:19,360 --> 00:10:20,520
+Well, take a look.
+
+248
+00:10:20,520 --> 00:10:25,520
+So, in there we've got five times one minus 0.4 X.
+
+249
+00:10:25,640 --> 00:10:28,600
+So, if X is one,
+
+250
+00:10:28,600 --> 00:10:32,200
+then we have one minus 0.4 is equal to 0.6.
+
+251
+00:10:32,200 --> 00:10:33,720
+And if we multiply that by five,
+
+252
+00:10:33,720 --> 00:10:36,580
+0.6 by five times five is three.
+
+253
+00:10:36,580 --> 00:10:39,560
+And then in the denominator, three times one is also three.
+
+254
+00:10:39,560 --> 00:10:41,640
+So, if three over three, the whole thing's one,
+
+255
+00:10:41,640 --> 00:10:44,600
+then one raised to any power, one.
+
+256
+00:10:44,600 --> 00:10:48,440
+So, if the insurance is actually fair, theta is zero.
+
+257
+00:10:48,440 --> 00:10:52,680
+And in that case, what do people want?
+
+258
+00:10:52,680 --> 00:10:53,800
+Let's see, well, in that case,
+
+259
+00:10:53,800 --> 00:10:56,440
+people are going to want amount of insurance
+
+260
+00:10:56,440 --> 00:11:01,440
+equal to $1,000 over one minus 0.4 X plus 0.4 X.
+
+261
+00:11:04,160 --> 00:11:05,880
+So, cancels, cancels.
+
+262
+00:11:05,880 --> 00:11:09,640
+So, this says that when the insurance is actually fair,
+
+263
+00:11:09,640 --> 00:11:11,080
+then everyone is gonna wanna buy
+
+264
+00:11:11,080 --> 00:11:12,660
+$1,000 worth of insurance.
+
+265
+00:11:14,080 --> 00:11:15,280
+All right, and that's interesting,
+
+266
+00:11:15,280 --> 00:11:18,880
+because the good outcome is $1,000.
+
+267
+00:11:18,880 --> 00:11:21,600
+Then people also want $1,000 worth of insurance
+
+268
+00:11:21,600 --> 00:11:23,600
+at the actually fair rate.
+
+269
+00:11:23,600 --> 00:11:26,240
+So, in other words, what this winds up saying
+
+270
+00:11:26,240 --> 00:11:29,360
+is that if people are risk averse,
+
+271
+00:11:29,360 --> 00:11:30,840
+so people are risk averse,
+
+272
+00:11:30,840 --> 00:11:33,960
+and they can get actually fair insurance,
+
+273
+00:11:33,960 --> 00:11:37,600
+they want to have absolute certainty about their income.
+
+274
+00:11:37,600 --> 00:11:40,000
+And so, how can you get absolute certainty
+
+275
+00:11:40,000 --> 00:11:42,500
+with actually fair insurance?
+
+276
+00:11:42,500 --> 00:11:46,160
+You just make income the same in both periods.
+
+277
+00:11:46,160 --> 00:11:47,960
+So, you buy enough insurance
+
+278
+00:11:47,960 --> 00:11:51,800
+so that after subtracting out the premiums,
+
+279
+00:11:51,800 --> 00:11:53,120
+your income in both periods are equal,
+
+280
+00:11:53,120 --> 00:11:54,040
+and it's actually fair.
+
+281
+00:11:54,040 --> 00:11:56,040
+This means that you're just going to have
+
+282
+00:11:57,000 --> 00:11:59,200
+the average in every period, in every situation.
+
+283
+00:11:59,200 --> 00:12:01,440
+So, since you have $1,000 with a 0.6 chance,
+
+284
+00:12:01,440 --> 00:12:02,760
+zero with a 0.4,
+
+285
+00:12:02,760 --> 00:12:04,680
+this means that you buy enough insurance
+
+286
+00:12:04,680 --> 00:12:06,860
+so you have 600 in every period.
+
+287
+00:12:09,520 --> 00:12:10,720
+In other words, if you're risk averse
+
+288
+00:12:10,720 --> 00:12:13,960
+and you can get rid of your risk for sure,
+
+289
+00:12:13,960 --> 00:12:15,480
+at no additional cost,
+
+290
+00:12:15,480 --> 00:12:19,300
+other than that you have to pay the actually fair amount,
+
+291
+00:12:19,300 --> 00:12:20,520
+what do you opt for?
+
+292
+00:12:20,520 --> 00:12:23,400
+A life of perfect certainty and perfect mediocrity,
+
+293
+00:12:23,400 --> 00:12:26,240
+where you get rid of all upside and downside risk
+
+294
+00:12:26,240 --> 00:12:29,920
+by just getting a flat amount of income in every scenario.
+
+295
+00:12:31,880 --> 00:12:34,160
+Okay, and then you can also go and show
+
+296
+00:12:34,160 --> 00:12:36,800
+that if theta, or rather, if X is,
+
+297
+00:12:36,800 --> 00:12:39,620
+that if X is actually greater than one,
+
+298
+00:12:39,620 --> 00:12:42,040
+so the insurance is not actually really fair,
+
+299
+00:12:42,040 --> 00:12:45,240
+then even risk averse agents don't fully insure.
+
+300
+00:12:45,240 --> 00:12:47,120
+So you can show that you can prove that as well.
+
+301
+00:12:47,120 --> 00:12:48,840
+So in other words, if X is, say, 1.1,
+
+302
+00:12:50,280 --> 00:12:54,240
+then you cannot get rid of all risk for no cost,
+
+303
+00:12:54,240 --> 00:12:56,480
+and this says that then even risk averse people
+
+304
+00:12:56,480 --> 00:12:58,280
+will live with some uncertainty.
+
+305
+00:12:59,620 --> 00:13:01,820
+And in fact, if X were big enough,
+
+306
+00:13:01,820 --> 00:13:04,360
+you could get risk averse people to sell insurance.
+
+307
+00:13:05,360 --> 00:13:07,720
+So if you had a really high price for insurance
+
+308
+00:13:07,720 --> 00:13:09,140
+in a barter market,
+
+309
+00:13:09,140 --> 00:13:11,760
+then very risk averse people would go and sell insurance,
+
+310
+00:13:11,760 --> 00:13:14,760
+and who would the risk averse people sell their insurance to?
+
+311
+00:13:15,760 --> 00:13:17,800
+Even more risk averse people.
+
+312
+00:13:17,800 --> 00:13:20,040
+Yes, so that's totally possible.
+
+313
+00:13:22,560 --> 00:13:26,280
+So, questions about problems like this?
+
+314
+00:13:29,280 --> 00:13:31,600
+All right, and now then let's move on
+
+315
+00:13:31,600 --> 00:13:33,440
+to efficiency implications
+
+316
+00:13:33,440 --> 00:13:35,480
+of symmetric or perfect information.
+
+317
+00:13:35,480 --> 00:13:36,800
+So remember, the title of this week
+
+318
+00:13:36,800 --> 00:13:40,440
+is symmetric information, not asymmetric, symmetric.
+
+319
+00:13:40,440 --> 00:13:43,000
+All these models that I'm talking about
+
+320
+00:13:43,000 --> 00:13:46,240
+act as if information is, although imperfect,
+
+321
+00:13:46,240 --> 00:13:48,700
+is equally imperfect for everybody, essentially.
+
+322
+00:13:50,440 --> 00:13:52,040
+Sorry, can you quiet down there, please?
+
+323
+00:13:52,040 --> 00:13:52,880
+Sorry.
+
+324
+00:13:54,240 --> 00:13:55,080
+All right.
+
+325
+00:13:55,080 --> 00:13:55,900
+Oh, sorry.
+
+326
+00:13:55,900 --> 00:13:57,940
+Yes, oh, did you have a question?
+
+327
+00:13:57,940 --> 00:14:02,600
+So when X equals to one, C doesn't equal to one.
+
+328
+00:14:02,600 --> 00:14:03,760
+Theta, so let's see.
+
+329
+00:14:03,760 --> 00:14:05,160
+I think that I just, you know,
+
+330
+00:14:05,160 --> 00:14:08,360
+so you're talking about line F?
+
+331
+00:14:08,360 --> 00:14:12,440
+So let's see, so we have theta equals.
+
+332
+00:14:12,440 --> 00:14:15,760
+When X equals to one, C doesn't equal to one.
+
+333
+00:14:15,760 --> 00:14:18,040
+Oh, let's see here, hold on.
+
+334
+00:14:18,040 --> 00:14:19,400
+Let's see.
+
+335
+00:14:19,400 --> 00:14:22,000
+So I think it does, but let's just double check.
+
+336
+00:14:22,000 --> 00:14:25,960
+So theta is equal to five times one minus.4X,
+
+337
+00:14:25,960 --> 00:14:28,400
+all this over three X, right,
+
+338
+00:14:28,400 --> 00:14:29,840
+raised to the negative.5 power.
+
+339
+00:14:29,840 --> 00:14:31,040
+It's a very minor question.
+
+340
+00:14:31,040 --> 00:14:32,440
+So, hold on.
+
+341
+00:14:32,440 --> 00:14:36,480
+So we have five minus, and we have one minus.4,
+
+342
+00:14:36,480 --> 00:14:39,440
+or no, it should be five times, five times.
+
+343
+00:14:39,440 --> 00:14:43,520
+It's five times that over three, right,
+
+344
+00:14:43,520 --> 00:14:45,280
+and raised to the negative.5,
+
+345
+00:14:45,280 --> 00:14:48,920
+and that will be equal to five times.6, right,
+
+346
+00:14:48,920 --> 00:14:52,640
+over, let's see, five times.6, yes, over three.
+
+347
+00:14:52,640 --> 00:14:56,040
+That equals three over three equals one.
+
+348
+00:14:57,280 --> 00:14:58,600
+And so I think it's right.
+
+349
+00:14:59,840 --> 00:15:00,680
+All right.
+
+350
+00:15:00,680 --> 00:15:05,680
+Okay, so why do a whole week on symmetric information?
+
+351
+00:15:06,600 --> 00:15:09,000
+Well, partly just because people normally skip
+
+352
+00:15:09,000 --> 00:15:10,680
+straight into asymmetric information
+
+353
+00:15:10,680 --> 00:15:12,360
+as if it's the only thing that happened,
+
+354
+00:15:12,360 --> 00:15:14,000
+and there's actually a bunch of models
+
+355
+00:15:14,000 --> 00:15:14,920
+where it's not asymmetric,
+
+356
+00:15:14,920 --> 00:15:17,760
+so it seems obvious to start with a symmetric one.
+
+357
+00:15:17,760 --> 00:15:20,320
+But in any case, here's the deeper reason.
+
+358
+00:15:20,320 --> 00:15:22,720
+It is very standard for textbooks to say
+
+359
+00:15:22,720 --> 00:15:25,160
+that the market outcomes are inefficient
+
+360
+00:15:25,160 --> 00:15:27,360
+if there's imperfect information.
+
+361
+00:15:27,360 --> 00:15:29,960
+It's a very standard claim in textbooks.
+
+362
+00:15:29,960 --> 00:15:33,920
+So there's a list of things, markets work unless,
+
+363
+00:15:33,920 --> 00:15:36,440
+and notice that they do not say it,
+
+364
+00:15:36,440 --> 00:15:37,960
+markets might not work.
+
+365
+00:15:37,960 --> 00:15:40,200
+Normally the phrasing is markets only work
+
+366
+00:15:40,200 --> 00:15:42,760
+as long as we have these conditions,
+
+367
+00:15:42,760 --> 00:15:45,440
+or markets work unless we have these problems,
+
+368
+00:15:45,440 --> 00:15:46,440
+so there's no other way of saying
+
+369
+00:15:46,440 --> 00:15:48,920
+that any one of these problems will mess markets up.
+
+370
+00:15:48,920 --> 00:15:50,240
+All right, and it turns out
+
+371
+00:15:50,240 --> 00:15:52,680
+this is actually a gross overstatement.
+
+372
+00:15:52,680 --> 00:15:55,680
+So market efficiency and imperfect information
+
+373
+00:15:55,680 --> 00:15:57,520
+are often totally compatible.
+
+374
+00:15:57,520 --> 00:15:59,120
+They're often totally compatible
+
+375
+00:15:59,120 --> 00:16:00,920
+contrary to what many textbooks say.
+
+376
+00:16:02,280 --> 00:16:04,680
+And so we're gonna see this particularly clear
+
+377
+00:16:04,680 --> 00:16:06,160
+when we got symmetric imperfect information,
+
+378
+00:16:06,160 --> 00:16:08,440
+so this is when everyone's equally in the dark.
+
+379
+00:16:08,440 --> 00:16:11,000
+So let me just give you some examples.
+
+380
+00:16:11,000 --> 00:16:11,840
+Suppose that I don't know
+
+381
+00:16:11,840 --> 00:16:14,080
+how much I'm gonna enjoy my consumption model.
+
+382
+00:16:14,080 --> 00:16:17,400
+So my utility is going to be x to the a
+
+383
+00:16:17,400 --> 00:16:20,000
+times y to the one minus a plus epsilon,
+
+384
+00:16:20,000 --> 00:16:22,600
+where epsilon is just a random variable,
+
+385
+00:16:22,600 --> 00:16:26,360
+zero mean, standard deviation, or a variance sigma squared.
+
+386
+00:16:26,360 --> 00:16:28,960
+So what is my optimal decision?
+
+387
+00:16:30,040 --> 00:16:31,520
+Despite the imperfect information,
+
+388
+00:16:31,520 --> 00:16:34,320
+my optimal decision is still completely clear,
+
+389
+00:16:34,320 --> 00:16:39,320
+and that is to spend a on a share of a times my,
+
+390
+00:16:39,960 --> 00:16:43,000
+or spend a times my income on x,
+
+391
+00:16:43,000 --> 00:16:45,080
+and one minus a times my income on y.
+
+392
+00:16:46,520 --> 00:16:48,440
+Because the uncertainty,
+
+393
+00:16:48,440 --> 00:16:50,480
+although it does make my utility higher or lower,
+
+394
+00:16:50,480 --> 00:16:53,680
+it is in no way even relevant to my behavior.
+
+395
+00:16:53,680 --> 00:16:55,320
+So you do whatever's optimal,
+
+396
+00:16:55,320 --> 00:16:56,960
+and then you just get a good day or a bad day
+
+397
+00:16:56,960 --> 00:16:58,360
+on top of that.
+
+398
+00:16:58,360 --> 00:17:01,560
+So that would be a case of symmetric imperfect information.
+
+399
+00:17:01,560 --> 00:17:04,720
+And in that case, market behavior's totally optimal.
+
+400
+00:17:05,880 --> 00:17:09,560
+Or imagine that you don't actually know your own tastes.
+
+401
+00:17:09,560 --> 00:17:12,120
+Suppose you don't know your own tastes.
+
+402
+00:17:12,120 --> 00:17:16,480
+So it's possible that the coefficient
+
+403
+00:17:16,480 --> 00:17:19,880
+in this utility function is.5,
+
+404
+00:17:19,880 --> 00:17:22,720
+so there's a 60% chance your coefficient's.5,
+
+405
+00:17:22,720 --> 00:17:25,560
+and then there's a 40% chance that it's.9.
+
+406
+00:17:25,560 --> 00:17:26,600
+So you don't really know
+
+407
+00:17:26,600 --> 00:17:29,000
+whether you like horror movies or not.
+
+408
+00:17:29,000 --> 00:17:29,880
+Who knows?
+
+409
+00:17:29,880 --> 00:17:31,440
+60% chance I like them.
+
+410
+00:17:31,440 --> 00:17:33,200
+40% chance I don't.
+
+411
+00:17:33,200 --> 00:17:34,520
+What should I do?
+
+412
+00:17:34,520 --> 00:17:35,360
+Right?
+
+413
+00:17:35,360 --> 00:17:38,440
+And the answer is you just want to maximize.6
+
+414
+00:17:38,440 --> 00:17:40,200
+times the one utility function,
+
+415
+00:17:40,200 --> 00:17:42,280
+plus.4 times the other utility function,
+
+416
+00:17:42,280 --> 00:17:44,040
+and that's the optimal thing to do.
+
+417
+00:17:46,480 --> 00:17:47,360
+All right.
+
+418
+00:17:47,360 --> 00:17:49,680
+Now, when would this not be optimal,
+
+419
+00:17:49,680 --> 00:17:50,960
+or might not be optimal?
+
+420
+00:17:50,960 --> 00:17:52,360
+Well, suppose that your mom knows
+
+421
+00:17:52,360 --> 00:17:54,120
+what you really want.
+
+422
+00:17:54,120 --> 00:17:56,560
+So your mom knows your real utility function,
+
+423
+00:17:56,560 --> 00:17:58,720
+and you only think you know it,
+
+424
+00:17:58,720 --> 00:18:00,600
+but you've got this uncertainty.
+
+425
+00:18:00,600 --> 00:18:02,400
+In that case, though, it's asymmetric.
+
+426
+00:18:02,400 --> 00:18:04,760
+So if someone knows better than you,
+
+427
+00:18:04,760 --> 00:18:07,280
+then you may do the wrong thing.
+
+428
+00:18:07,280 --> 00:18:10,360
+Although even there, there's a pretty obvious remedy.
+
+429
+00:18:10,360 --> 00:18:13,280
+So if I know better than you what is good for you,
+
+430
+00:18:13,280 --> 00:18:16,400
+and you don't, how could I help you?
+
+431
+00:18:16,400 --> 00:18:17,640
+And hire you.
+
+432
+00:18:17,640 --> 00:18:19,320
+Hire me, or I could just, how about that?
+
+433
+00:18:19,320 --> 00:18:20,640
+I could just tell you.
+
+434
+00:18:20,640 --> 00:18:23,120
+You don't like horror movies.
+
+435
+00:18:23,120 --> 00:18:24,520
+All right, you may think you do,
+
+436
+00:18:24,520 --> 00:18:26,120
+but I know more, and you don't.
+
+437
+00:18:27,000 --> 00:18:28,080
+Right, and you say, how do you know?
+
+438
+00:18:28,080 --> 00:18:29,720
+I know everything.
+
+439
+00:18:29,720 --> 00:18:31,240
+I know it all.
+
+440
+00:18:31,240 --> 00:18:32,480
+Right?
+
+441
+00:18:32,480 --> 00:18:34,440
+Yeah, so Robin Hanson used to have a cartoon
+
+442
+00:18:34,440 --> 00:18:36,760
+on his door where there's a kid playing video games
+
+443
+00:18:36,760 --> 00:18:38,960
+and a grandpa, and the grandpa comes up,
+
+444
+00:18:38,960 --> 00:18:40,680
+and he's like, grandson,
+
+445
+00:18:40,680 --> 00:18:42,560
+in my 80 years of life on this planet,
+
+446
+00:18:42,560 --> 00:18:44,560
+I've acquired a lot of wisdom and experience.
+
+447
+00:18:44,560 --> 00:18:46,520
+Would you like me to share any of it with you?
+
+448
+00:18:46,520 --> 00:18:47,480
+And then there's a panel,
+
+449
+00:18:47,480 --> 00:18:48,960
+and the kid just keeps playing video games,
+
+450
+00:18:48,960 --> 00:18:50,960
+and then doesn't even bother looking up.
+
+451
+00:18:50,960 --> 00:18:51,800
+No thanks.
+
+452
+00:18:54,360 --> 00:18:55,880
+This is Robin's view of the world.
+
+453
+00:18:55,880 --> 00:18:57,680
+Robin thinks that the old often do know more,
+
+454
+00:18:57,680 --> 00:18:59,680
+but the young just don't want to listen to them.
+
+455
+00:18:59,680 --> 00:19:02,440
+Right, as to why that would be is an interesting question.
+
+456
+00:19:02,440 --> 00:19:04,280
+In any case, so or, of course,
+
+457
+00:19:04,280 --> 00:19:07,000
+the policy relevant one is in politics,
+
+458
+00:19:07,000 --> 00:19:10,320
+who do people normally think knows better than individuals?
+
+459
+00:19:10,320 --> 00:19:11,280
+The government.
+
+460
+00:19:11,280 --> 00:19:13,360
+All right, and if this were true,
+
+461
+00:19:13,360 --> 00:19:15,440
+then the obvious remedy would be for the government
+
+462
+00:19:15,440 --> 00:19:17,040
+to simply announce what's true.
+
+463
+00:19:17,040 --> 00:19:20,160
+Say, hey, you people think that opioids are dangerous,
+
+464
+00:19:20,160 --> 00:19:21,720
+but they are.
+
+465
+00:19:21,720 --> 00:19:25,600
+All right, so just for consumption now, go.
+
+466
+00:19:25,600 --> 00:19:28,080
+All right, and the most the government might want to do
+
+467
+00:19:28,080 --> 00:19:29,800
+is, well, maybe everyone wasn't listening,
+
+468
+00:19:29,800 --> 00:19:32,040
+so let's go and track people down and say,
+
+469
+00:19:32,040 --> 00:19:34,520
+hey, excuse me, did you hear that according to the government
+
+470
+00:19:34,520 --> 00:19:36,160
+opioids are dangerous and the government knows better?
+
+471
+00:19:36,160 --> 00:19:38,040
+Do you hear the government knows better than you?
+
+472
+00:19:38,040 --> 00:19:40,520
+All right, well, you didn't know that, did you?
+
+473
+00:19:40,520 --> 00:19:42,760
+All right, re-optimize.
+
+474
+00:19:42,760 --> 00:19:45,360
+All right, so that would be a possibility.
+
+475
+00:19:45,360 --> 00:19:47,880
+But in any case, if, again, like this is the idea,
+
+476
+00:19:47,880 --> 00:19:50,920
+is if nobody actually knows any better than anyone else,
+
+477
+00:19:50,920 --> 00:19:54,000
+then it would be surprising if someone could still
+
+478
+00:19:54,000 --> 00:19:57,200
+make things better simply by going and requiring people
+
+479
+00:19:57,200 --> 00:19:59,840
+to do something when you don't know any better than me.
+
+480
+00:19:59,840 --> 00:20:15,800
+So if you do know better than the U.S., the U.S.
+
+

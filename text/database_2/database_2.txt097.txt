@@ -1,0 +1,6 @@
+3. Consider a simple auction.
+ 
+True, False, and Explain: As long as actors have RE, the Winner's Curse will not cause the market to unravel.
+
+
+

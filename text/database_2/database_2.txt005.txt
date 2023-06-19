@@ -1,0 +1,6 @@
+5. True, False, and Explain: One piece of empirical evidence against expected utility theory is that people gamble and play lotteries.
+
+False. EU theory answers the question "how do people choose between gambles?". It says that people will choose the gamble with the highest expected utility. Ultimately, EU max boils down to tastes for risk. Those who take gambles/bets that have a negative expected VALUE[4] might have risk-loving preferences. Although most people seem to be risk averse there may be the following behavioral explanations for thisÉ *fill in blank here. 
+Overall, the fact that people gamble and play lotteries is not evidence against expected utility theory. 
+
+

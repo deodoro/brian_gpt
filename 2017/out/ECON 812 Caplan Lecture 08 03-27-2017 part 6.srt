@@ -1,0 +1,1081 @@
+1
+00:00:00,000 --> 00:00:02,000
+50k surplus for these guys and
+
+2
+00:00:03,060 --> 00:00:08,840
+12.5k surplus for these guys and if we just go and multiply 0.5 times 50k
+
+3
+00:00:09,420 --> 00:00:12,040
+plus 0.5 times 12.5k
+
+4
+00:00:12,660 --> 00:00:18,140
+Then we get what then we get an average of 31.25k
+
+5
+00:00:18,620 --> 00:00:22,340
+So an average higher is a surplus of 31,250
+
+6
+00:00:23,140 --> 00:00:24,540
+right, but
+
+7
+00:00:24,540 --> 00:00:32,040
+In the signaling like equilibrium, we're only going to have a surplus of 18,750
+
+8
+00:00:32,260 --> 00:00:35,260
+Why? Because half the workers go to school and
+
+9
+00:00:36,260 --> 00:00:38,740
+In the model school doesn't actually teach you anything useful
+
+10
+00:00:39,580 --> 00:00:46,940
+So if half the workers go to school and pay a cost of 25,000 then we have to subtract out how much from total surplus
+
+11
+00:00:48,940 --> 00:00:50,940
+What's half of 25,000
+
+12
+00:00:50,940 --> 00:00:54,580
+Yeah, 12.5k minus 12.5k
+
+13
+00:00:55,780 --> 00:00:59,940
+Which then equals what we actually realize which is 18.75k
+
+14
+00:00:59,940 --> 00:01:05,660
+And then where did that where did the 12.5k go? Deadweight loss of the education
+
+15
+00:01:06,380 --> 00:01:10,880
+Deadweight loss of the education, people put all this energy doing a useless thing
+
+16
+00:01:12,060 --> 00:01:17,660
+Intrinsically useless thing in order to convince employers that the good workers are good and the bad workers are bad
+
+17
+00:01:17,660 --> 00:01:19,660
+And that's the idea
+
+18
+00:01:21,660 --> 00:01:28,500
+Okay, all right now in certain settings you might be able to actually set up a costless cash transfer as the signal
+
+19
+00:01:28,900 --> 00:01:30,900
+So something so
+
+20
+00:01:30,900 --> 00:01:36,460
+You might like that example where you go to like if I go and break my promise then you go and get some cash
+
+21
+00:01:37,140 --> 00:01:38,180
+but
+
+22
+00:01:38,180 --> 00:01:43,500
+That you know, so that might be an equilibrium too or if we go went and expanded the model to allow for other things maybe
+
+23
+00:01:43,500 --> 00:01:48,020
+But at least in this setup, there's actually just a inefficient outcome
+
+24
+00:01:48,020 --> 00:01:51,220
+And of course you say well, it's good to have some information
+
+25
+00:01:51,900 --> 00:01:55,940
+So, you know, it can be better than nothing and yet still there can be a lot of waste going on
+
+26
+00:01:55,940 --> 00:01:59,700
+A lot of waste relative to either a world of perfect information
+
+27
+00:02:00,420 --> 00:02:03,620
+But also relative to a world of symmetric and perfect information
+
+28
+00:02:03,620 --> 00:02:07,780
+So imagine that good workers didn't know they were good bad workers didn't know they were bad
+
+29
+00:02:08,860 --> 00:02:12,780
+In that case there'd be no reason for anyone to go and break their promise
+
+30
+00:02:12,780 --> 00:02:16,100
+There's no reason for anyone to go to school. You don't know whether you're good or bad
+
+31
+00:02:16,740 --> 00:02:21,220
+So you don't have any problem. You don't have any qualities to go and prove to anybody else
+
+32
+00:02:21,980 --> 00:02:27,100
+And in that case employers would just treat everybody like their average and then we wouldn't have to go to school
+
+33
+00:02:30,500 --> 00:02:36,500
+Yes, what's that? Yippee, yippee. Yes. Well depending upon whether you're on the supply and demand side of this industry
+
+34
+00:02:36,500 --> 00:02:42,620
+This may affect your view. Okay. Now, of course, this is just a model and
+
+35
+00:02:43,380 --> 00:02:50,180
+I have never actually met anyone and I certainly don't believe that a hundred percent of all education is just meaningless jumping through hoops
+
+36
+00:02:50,500 --> 00:02:55,540
+There's lots of things that you learn that actually do enhance your human capital in school
+
+37
+00:02:56,060 --> 00:02:58,260
+But there's also so many things that don't
+
+38
+00:02:58,940 --> 00:03:00,940
+There's so many things that don't
+
+39
+00:03:00,940 --> 00:03:08,220
+And the point of the signaling model in my mind and in my book is precisely to talk about all the cases where human capital
+
+40
+00:03:08,340 --> 00:03:10,340
+Doesn't seem like a very good explanation
+
+41
+00:03:11,060 --> 00:03:16,340
+Now you might say well if there's no one who really believes that this is the theory 100% of the time
+
+42
+00:03:16,500 --> 00:03:20,860
+Is there anyone who believes in this theory 0% of the time? And the answer is yes
+
+43
+00:03:20,860 --> 00:03:26,860
+I know a lot of labor economists actually believe that signaling is empirically irrelevant and that
+
+44
+00:03:26,860 --> 00:03:32,380
+The sole reason why education increases your earnings is because it actually improves your human capital
+
+45
+00:03:33,340 --> 00:03:37,500
+Now when I bring like it gives you job skills now
+
+46
+00:03:37,500 --> 00:03:41,580
+Whatever I've actually had a chance to talk to them and say well like what about foreign languages in America?
+
+47
+00:03:41,660 --> 00:03:43,380
+Like how can you say that?
+
+48
+00:03:43,380 --> 00:03:49,220
+Then they then this is the time the economists suddenly become big fans of psychology for the first and only time of their life
+
+49
+00:03:49,220 --> 00:03:51,220
+and they say well
+
+50
+00:03:51,220 --> 00:03:58,500
+Learning a foreign language expands your mind and it teaches you how to think outside the box and just improves you as a worker in so many
+
+51
+00:03:58,500 --> 00:04:00,220
+incalculable ways
+
+52
+00:04:00,220 --> 00:04:05,020
+Or so I assume I've never actually read any psychological research on any of this, but must be and
+
+53
+00:04:05,740 --> 00:04:11,940
+Then if you said well actually I've gone and read the psychological literature on this they don't find any evidence of that at all
+
+54
+00:04:12,380 --> 00:04:19,220
+What psychologists generally find is that learning is very narrow and that if you're lucky as a teacher students learn the material you teach them
+
+55
+00:04:19,220 --> 00:04:25,380
+Their ability to actually go and take a foreign language and use it to go and think outside the box in business
+
+56
+00:04:25,580 --> 00:04:27,460
+It's just wishful thinking
+
+57
+00:04:27,460 --> 00:04:31,580
+Right and that's where the economist. I don't believe that show me the articles
+
+58
+00:04:32,580 --> 00:04:34,860
+You can see you send them the links never hear from them again
+
+59
+00:04:35,380 --> 00:04:37,380
+All right, or does that prove anything?
+
+60
+00:04:37,900 --> 00:04:42,020
+so the people the people who study this have hundred years disagree with you and
+
+61
+00:04:42,740 --> 00:04:45,540
+Common sense disagrees with you, but you're gonna stick to your guns
+
+62
+00:04:45,540 --> 00:04:47,540
+You're lost I don't know what else I could do
+
+63
+00:04:50,340 --> 00:04:52,340
+Yeah, so Ashley a question
+
+64
+00:04:57,660 --> 00:05:02,660
+So there's a number so probably the one that's got the most attention recent years is the handbook of education economics
+
+65
+00:05:02,980 --> 00:05:04,980
+there's a piece by
+
+66
+00:05:05,060 --> 00:05:07,380
+Fabio manga and run and
+
+67
+00:05:08,140 --> 00:05:13,540
+Robert Robert topple that looks at both it looks at both positive and negative externalities of education and
+
+68
+00:05:13,540 --> 00:05:15,540
+Clay and claims not find either
+
+69
+00:05:15,820 --> 00:05:17,820
+so and
+
+70
+00:05:18,020 --> 00:05:21,660
+Right and and specific and specifically on the view this video
+
+71
+00:05:21,660 --> 00:05:26,580
+So the look of this this actually implies there are negative externalities of signaling right because it's a zero-sum activity
+
+72
+00:05:27,100 --> 00:05:33,300
+Right as it was actually negative some activity because when you go and you get more education you're making your you are
+
+73
+00:05:33,820 --> 00:05:39,380
+Getting extra income of yourself, but you're making everybody else look bad by comparison without raising overall productivity
+
+74
+00:05:39,380 --> 00:05:43,900
+Right so think about this so in this model does education raise worker productivity at all
+
+75
+00:05:44,420 --> 00:05:50,740
+Now yet it does raise individual income. How can something raise your income without raising social productivity?
+
+76
+00:05:53,060 --> 00:05:57,100
+Its redistribution yes the signaling model is a model of rent-seeking
+
+77
+00:05:57,780 --> 00:06:01,180
+That's one where you go and do something that's totally socially wasteful
+
+78
+00:06:01,180 --> 00:06:04,540
+But it let it improves your position and people do it
+
+79
+00:06:04,540 --> 00:06:11,540
+You know why do people do something that doesn't have society? Same reason people litter same reason why people talk too loud in the restaurant
+
+80
+00:06:11,540 --> 00:06:17,260
+Same reason the reason they pollute because the effect of themselves is that the negative effect is very small
+
+81
+00:06:17,820 --> 00:06:21,980
+And the positive X very big and that's all and human beings are selfish QED
+
+82
+00:06:27,140 --> 00:06:29,140
+Yes
+
+83
+00:06:29,140 --> 00:06:36,340
+Yes, yeah, actually lowers the pie because you burn up resources do you know in the signaling so yes?
+
+84
+00:06:36,340 --> 00:06:38,340
+So I actually negative some strictly speaking
+
+85
+00:06:39,700 --> 00:06:41,700
+Yes
+
+86
+00:06:42,020 --> 00:06:43,700
+Yes
+
+87
+00:06:43,700 --> 00:06:49,340
+But is our model of like you saying oh, you know you've always forgotten ways to stop
+
+88
+00:06:49,460 --> 00:06:56,860
+But is there a model of like at least higher level of higher education in college that it's really just it's a consumption good
+
+89
+00:06:56,860 --> 00:07:02,580
+I mean four years drinking five or six years drinking beer and you know using drugs
+
+90
+00:07:05,980 --> 00:07:09,180
+That that is that is a great question also
+
+91
+00:07:11,140 --> 00:07:15,740
+Here's what I'd say certainly do like it's very hard to argue that the actual education part of it is
+
+92
+00:07:16,060 --> 00:07:21,300
+Consumption for most people just look at attendance even when you want to even even when classes are getting when there's a great
+
+93
+00:07:21,300 --> 00:07:26,060
+So you know not graduate school graduate students. They either they know either
+
+94
+00:07:26,060 --> 00:07:29,300
+They were they really want to be here for one reason or another but go to undergraduate classes
+
+95
+00:07:30,300 --> 00:07:34,180
+Mason is totally normal so typical attendance in college classes about is about 60%
+
+96
+00:07:35,980 --> 00:07:37,980
+All right and notice
+
+97
+00:07:38,500 --> 00:07:43,300
+Generally you are free to attend any college class you want, but there's almost no one doing it for the consumption value
+
+98
+00:07:43,820 --> 00:07:47,540
+So I think you might say that the social aspect of school is consumption
+
+99
+00:07:47,540 --> 00:07:54,220
+Yes, yes, but it's not the actual education process that people think of as being the thing that is actually valuable
+
+100
+00:07:54,500 --> 00:07:59,500
+But the other thing is of course that you could be going and having that fun while making money instead of paying someone
+
+101
+00:07:59,700 --> 00:08:03,700
+How many people would go and pay for college out of their own pockets for the consumption value?
+
+102
+00:08:03,860 --> 00:08:08,140
+If you would get if you get if you could get started if the job that you're gonna get when you're when you're 22
+
+103
+00:08:08,380 --> 00:08:10,380
+You can immediately get when you're 18
+
+104
+00:08:10,940 --> 00:08:15,460
+So I'd say look you could like you could actually get more consumption value when you consider that you'll be a college student
+
+105
+00:08:15,460 --> 00:08:19,140
+You could get more consumption value when you consider that you'll be getting paid instead of having to pay
+
+106
+00:08:19,860 --> 00:08:21,860
+Right, so
+
+107
+00:08:22,660 --> 00:08:24,660
+Yes, you do have to do that
+
+108
+00:08:25,420 --> 00:08:31,980
+So in general people consider graduation to be a good thing on balance because whatever reduction fund you're getting
+
+109
+00:08:31,980 --> 00:08:37,380
+You're getting is made up for by the extra money, which also allows you to have more fun with less parental supervision
+
+110
+00:08:37,380 --> 00:08:41,500
+Also often enjoyed. Oh, you know something else that's very striking to me is that
+
+111
+00:08:41,500 --> 00:08:48,540
+Whenever I pulled undergraduates about whether they live on campus where you can participate in campus life or off-campus an apartment
+
+112
+00:08:48,700 --> 00:08:50,700
+Almost everyone says they want to live off campus
+
+113
+00:08:52,020 --> 00:08:57,420
+Which also seems to cut against the idea that like this on-campus living is really is really super fun for people
+
+114
+00:08:57,660 --> 00:08:59,860
+Again, I bet those answers do puzzle me a bit
+
+115
+00:09:00,300 --> 00:09:04,980
+Yeah, and I say was there a difference between only freshmen and old and upperclassmen and you know
+
+116
+00:09:04,980 --> 00:09:08,540
+There's some difference but even there like students seem to really like the idea of having their own apartments
+
+117
+00:09:08,540 --> 00:09:10,780
+Which if you had a job?
+
+118
+00:09:11,780 --> 00:09:13,780
+You would probably have
+
+119
+00:09:13,780 --> 00:09:18,500
+So yeah, so consumption value for a person, you know, I wouldn't totally dismiss it
+
+120
+00:09:18,500 --> 00:09:22,060
+But you know, I mean my view is it's mostly just because your parents are paying for it
+
+121
+00:09:22,540 --> 00:09:27,480
+That people are really in the other people are really interested in doing if you had to pay for this consumption value out purely out
+
+122
+00:09:27,480 --> 00:09:28,660
+of your own pockets
+
+123
+00:09:28,660 --> 00:09:29,420
+It's like you know
+
+124
+00:09:29,420 --> 00:09:32,900
+Like if you're just doing if you like if you had to pay for all out of student loans at market interest rates
+
+125
+00:09:33,140 --> 00:09:35,340
+How many people consider that a good consumption deal?
+
+126
+00:09:35,340 --> 00:09:37,340
+Sound like too great with you
+
+127
+00:09:37,660 --> 00:09:43,180
+All right. Now if you go and take my cross-listed seminar on my book
+
+128
+00:09:44,020 --> 00:09:46,020
+Which will be able to teach
+
+129
+00:09:46,380 --> 00:09:50,300
+Almost all of the economics of education but through the lens of a single book that filters it all
+
+130
+00:09:50,300 --> 00:09:56,140
+I think of it as a I think of the book in part is just a good introduction to education economics
+
+131
+00:09:56,140 --> 00:10:02,980
+Anyway, go over a bunch of the arguments for why the signaling model is so empirically credible
+
+132
+00:10:02,980 --> 00:10:05,820
+Not that it's 100% but that explains a lot
+
+133
+00:10:06,460 --> 00:10:09,940
+So to me the most convincing argument is just simply that
+
+134
+00:10:10,540 --> 00:10:16,380
+Most things most subjects are obviously useless or nearly useless and yet all subjects seem to pay
+
+135
+00:10:17,580 --> 00:10:20,100
+So there's two literature. You know, so there's the literary
+
+136
+00:10:20,100 --> 00:10:26,700
+You can just look at the basic facts about what subjects people study and when you just go and look at how many years people
+
+137
+00:10:26,700 --> 00:10:29,340
+spend on subjects of incomprehensible uselessness
+
+138
+00:10:29,340 --> 00:10:35,780
+Like in America foreign languages history like think about all the time spent on studying that like classic literature instead of business writing
+
+139
+00:10:36,300 --> 00:10:39,260
+Like Shakespeare you learn English as a spoken 500 years ago
+
+140
+00:10:40,020 --> 00:10:44,180
+And what job require what job and you're like actually uses that very very rare
+
+141
+00:10:44,180 --> 00:10:47,540
+So just the contrast between what we what we learn
+
+142
+00:10:47,540 --> 00:10:53,620
+But then there's a whole other literature estimate estimating the actual financial benefits in the labor market of all this education
+
+143
+00:10:53,620 --> 00:10:57,540
+And the punchline is that there's a lot of people who are just like
+
+144
+00:10:57,540 --> 00:11:00,900
+I'm not going to go into all this education and the punchline is that
+
+145
+00:11:00,900 --> 00:11:05,020
+While the payoff varies it seems to be positive for almost everything
+
+146
+00:11:05,620 --> 00:11:08,340
+so even art history fine arts
+
+147
+00:11:09,220 --> 00:11:13,180
+Anthropology all these subjects that your parents would be horrified if you're if you want to major in them
+
+148
+00:11:13,180 --> 00:11:19,060
+All of them do actually raise wages causally and substantially relative to just having high school degree
+
+149
+00:11:19,860 --> 00:11:21,860
+Art history is way worse than logical engineering
+
+150
+00:11:21,860 --> 00:11:28,220
+But they all have a clear payoff after you make all these physical adjustments that seem like it
+
+151
+00:11:28,220 --> 00:11:35,380
+They seem like you should make so says like even the seemingly most useless coursework in the world still still pays and pays well
+
+152
+00:11:36,740 --> 00:11:43,500
+Right so that to me is really the most powerful argument for signaling is just that and of course most of this
+
+153
+00:11:44,220 --> 00:11:47,780
+You experience firsthand through in all of your years in the education system
+
+154
+00:11:47,780 --> 00:11:53,020
+Yes, so like so many so many classes that you had to learn like why do I have to learn this stuff?
+
+155
+00:11:53,540 --> 00:11:55,540
+Because it's up here. It's going to be on the test
+
+156
+00:11:56,460 --> 00:11:59,020
+right this mentality, it's very strong and
+
+157
+00:12:00,140 --> 00:12:03,820
+It's to me that someone would deny it after spending
+
+158
+00:12:04,820 --> 00:12:09,180
+13 or 17 or 21 years in school like it was like come on
+
+159
+00:12:09,180 --> 00:12:11,620
+This is like believe like it's like believing in Bigfoot
+
+160
+00:12:11,620 --> 00:12:15,220
+It's like there's so much evidence that that you're wrong that this view is wrong
+
+161
+00:12:15,220 --> 00:12:18,020
+and you keep sticking to it
+
+162
+00:12:18,700 --> 00:12:23,220
+All right, so there's that so the book I spent a lot of time just going over
+
+163
+00:12:23,780 --> 00:12:26,620
+Like how the subjects that people actually study
+
+164
+00:12:27,260 --> 00:12:30,740
+But then I also have another argument. I put a lot a lot of weight on and that is
+
+165
+00:12:31,860 --> 00:12:37,900
+So in the human capital model do employers pay you for what you used to know or what you know now?
+
+166
+00:12:39,140 --> 00:12:44,260
+Pretty simple question do they pay you for what you used to be able to do or what you're able to do right now?
+
+167
+00:12:44,260 --> 00:12:46,260
+Yes, they pay you for what you're able to do right now
+
+168
+00:12:46,660 --> 00:12:53,940
+Now it is a very well established fact in educational psychology that students quickly forget most of what they learn
+
+169
+00:12:54,940 --> 00:13:01,020
+In fact there are many subjects where you now know as little about it as the first as you did on the first day class
+
+170
+00:13:01,020 --> 00:13:02,820
+Because you've forgotten it all
+
+171
+00:13:02,820 --> 00:13:04,580
+or nearly all
+
+172
+00:13:04,580 --> 00:13:06,580
+Right so how can we actually measure this?
+
+173
+00:13:06,820 --> 00:13:12,180
+Well usually like an edgy and like an education research what they do is they might go and
+
+174
+00:13:12,180 --> 00:13:16,820
+measure your learning at say the end of the summer or the beginning of the summer and then they measure at the end of the summer
+
+175
+00:13:16,820 --> 00:13:21,620
+And then that's their or they might even measure what how much you remember a year later
+
+176
+00:13:21,620 --> 00:13:24,100
+But in general there's not any long-term evaluation
+
+177
+00:13:25,060 --> 00:13:30,740
+So like you know there's never for most people there's never a time where they go and see how much of your material
+
+178
+00:13:31,140 --> 00:13:33,140
+From 10th grade you remember when you're 35
+
+179
+00:13:33,700 --> 00:13:35,380
+Nobody bothers doing that
+
+180
+00:13:35,380 --> 00:13:39,620
+So there's no data there, but I came up with a shortcut that I like and that is well
+
+181
+00:13:39,620 --> 00:13:46,900
+Why don't we just go and look at how much adults know about different subjects they spent years studying in school
+
+182
+00:13:47,460 --> 00:13:51,460
+And let's just make the assumption that they learned that 100% of what they know they learned in school
+
+183
+00:13:52,180 --> 00:13:54,180
+And then see how much is that 100%
+
+184
+00:13:55,540 --> 00:14:00,580
+For many subjects that people spent years studying that hundred they know if you give education credit for 100%
+
+185
+00:14:01,140 --> 00:14:03,140
+You're giving it credit for next to nothing
+
+186
+00:14:03,700 --> 00:14:07,460
+You're giving them giving it credit for a 50% chance of knowing there are three branches of government
+
+187
+00:14:07,460 --> 00:14:08,980
+Stuff like that
+
+188
+00:14:08,980 --> 00:14:12,820
+So on tests of civics history things like this
+
+189
+00:14:13,620 --> 00:14:19,220
+People like the average American adults can usually get about half of the very most basic questions
+
+190
+00:14:20,340 --> 00:14:24,260
+Questions so basic you might think it's impossible to not know the answer
+
+191
+00:14:24,980 --> 00:14:28,420
+And if you're a phd student you almost certainly could get 100% on these tests
+
+192
+00:14:28,420 --> 00:14:33,140
+But most people can't come close to 100% on even super easy tests
+
+193
+00:14:33,140 --> 00:14:38,260
+Right and then here's my view so let me go this way so most someone knows only half the letters of the alphabet
+
+194
+00:14:39,140 --> 00:14:41,140
+What do you call a person like that?
+
+195
+00:14:42,020 --> 00:14:47,460
+Illiterate not half literate if you only know half the letters you cannot read at all
+
+196
+00:14:48,900 --> 00:14:54,020
+Similarly I say if you only know half the most basic facts about American government or us history
+
+197
+00:14:54,740 --> 00:14:57,780
+You don't know half of what you need to know you don't really know anything
+
+198
+00:14:58,580 --> 00:15:00,580
+You are simply ignorant
+
+199
+00:15:00,580 --> 00:15:03,140
+You know for all practical purposes, you know nothing
+
+200
+00:15:04,180 --> 00:15:08,820
+So I say that's what you so even if you did think these subjects somehow were used on the job
+
+201
+00:15:09,380 --> 00:15:11,380
+They have taught almost nothing
+
+202
+00:15:11,380 --> 00:15:15,940
+Then there's also research on adult Americans reading and mathematical skills
+
+203
+00:15:16,900 --> 00:15:18,900
+Many of these are so poor
+
+204
+00:15:20,260 --> 00:15:24,740
+It's almost hard to believe how bad they are but a good rule of thumb is that
+
+205
+00:15:24,740 --> 00:15:29,620
+If you like whatever you think that a college graduate should be able to do in terms of reading and writing
+
+206
+00:15:29,940 --> 00:15:33,220
+That's about what someone with a with an advanced degree can do
+
+207
+00:15:34,020 --> 00:15:37,540
+Whatever you think that a high school degree for someone with only high school you should be able to do
+
+208
+00:15:37,700 --> 00:15:40,020
+That's about what the average college graduate in America can do
+
+209
+00:15:41,220 --> 00:15:42,900
+So, you know
+
+210
+00:15:42,900 --> 00:15:45,860
+This is just one random question, but I think it's very telling
+
+211
+00:15:46,420 --> 00:15:49,140
+So if you just go and ask adult Americans to express
+
+212
+00:15:49,140 --> 00:15:54,900
+1 1,000th in percentage terms. What is 1 1,000th in percentage terms?
+
+213
+00:15:55,620 --> 00:15:57,620
+Only about 10 of Americans can do that problem
+
+214
+00:15:58,580 --> 00:16:00,580
+adult Americans
+
+215
+00:16:00,580 --> 00:16:02,580
+30 of Germans can do it actually
+
+216
+00:16:03,380 --> 00:16:06,100
+So in some ways Americans are especially pathetic
+
+217
+00:16:08,980 --> 00:16:11,780
+But it's mostly it's just that
+
+218
+00:16:12,980 --> 00:16:14,980
+Americans are not that bad
+
+219
+00:16:14,980 --> 00:16:22,420
+It's just like there's a stunning level of either not learning the material in the first place or simply forgetting it because you don't use it
+
+220
+00:16:22,980 --> 00:16:24,980
+Because how often in real life
+
+221
+00:16:25,140 --> 00:16:27,620
+Do you have to go and express 1 1,000th in percentage terms?
+
+222
+00:16:28,580 --> 00:16:32,180
+Right. So besides this disconnect between learning and earning
+
+223
+00:16:32,900 --> 00:16:35,140
+I talk about a number of other arguments
+
+224
+00:16:36,740 --> 00:16:40,100
+So one of them that I find very convincing is the shared learning
+
+225
+00:16:40,100 --> 00:16:45,620
+arguments, so one of them that I find very convincing is the sheepskin effect
+
+226
+00:16:46,340 --> 00:16:49,860
+So yeah diplomas used to be printed on the skins of sheep
+
+227
+00:16:50,340 --> 00:16:52,660
+So sheepskin effect is another word for diploma effect
+
+228
+00:16:53,140 --> 00:16:56,520
+What does this mean? It means when you look at the financial payoff for education
+
+229
+00:16:57,140 --> 00:17:03,460
+Most of the payoff seems to come from crossing the finish line of graduation and only a small amount from the from the preceding years
+
+230
+00:17:04,740 --> 00:17:06,980
+In terms of the human capital model, this is very strange
+
+231
+00:17:06,980 --> 00:17:09,780
+So you will do we withhold the job skills for senior year?
+
+232
+00:17:10,500 --> 00:17:14,420
+Do we just make you waste time for three years and then finally senior year? All right, finally
+
+233
+00:17:14,980 --> 00:17:16,980
+Now we're going to teach you some job skills
+
+234
+00:17:17,540 --> 00:17:18,900
+At least you go to school in the United States
+
+235
+00:17:18,900 --> 00:17:24,820
+This is the opposite of our stereotypes because senior year for both high school and college is generally called goof off year
+
+236
+00:17:25,620 --> 00:17:28,660
+It's the year that you don't work hard and just sort of coast
+
+237
+00:17:29,700 --> 00:17:34,660
+But in any case seems really odd to think that it's the last year where they finally teach you the job skills
+
+238
+00:17:34,660 --> 00:17:38,660
+So if it really were about skills that it would seem like it should be that every year you get a
+
+239
+00:17:39,220 --> 00:17:41,940
+Percentage point increase and that's totally not what we see
+
+240
+00:17:42,740 --> 00:17:48,420
+So for high school, I mean, there's a lot of studies of this and there's plenty of dispersion, but still
+
+241
+00:17:50,020 --> 00:17:53,620
+The average study finds that over half the payoff from high school comes from senior year
+
+242
+00:17:55,940 --> 00:18:00,740
+For college average study finds that about 70 percent of the payoff comes from senior year
+
+243
+00:18:00,740 --> 00:18:06,260
+Years one through three pay almost nothing and then graduation pays a giant bag of money
+
+244
+00:18:08,260 --> 00:18:12,580
+Which is why it's what which is why it is sensible people freak out about low graduation rates
+
+245
+00:18:12,820 --> 00:18:15,380
+Because if you don't graduate then you've got almost nothing out of the whole thing
+
+246
+00:18:16,020 --> 00:18:19,540
+But remember tuition costs are proportional to years spent in college school
+
+247
+00:18:19,540 --> 00:18:23,700
+But payoff is not payoff has this big non-linear payoff at the end
+
+248
+00:18:24,900 --> 00:18:28,980
+Now the signaling model does not automatically tell you how much you're going to pay for a year
+
+249
+00:18:28,980 --> 00:18:33,940
+The signaling model does not automatically imply that there will be this strange payoff at the end
+
+250
+00:18:34,660 --> 00:18:35,460
+but
+
+251
+00:18:35,460 --> 00:18:37,460
+the conformity version does
+
+252
+00:18:38,500 --> 00:18:41,640
+So if a lot of what's going on with education is you're signaling that you're conformist
+
+253
+00:18:42,020 --> 00:18:46,900
+And if the social norms of our society say that you are supposed to finish your degree
+
+254
+00:18:47,780 --> 00:18:52,020
+Then if you refuse to finish that degree if you give up before short of the finish line
+
+255
+00:18:52,580 --> 00:18:57,700
+There is an enormous stigma and a self-justifying stigma because if most people believe
+
+256
+00:18:57,700 --> 00:19:02,180
+That only losers won't finish then on average it is the losers that don't finish
+
+257
+00:19:02,980 --> 00:19:06,980
+Right and think about someone that gives up in their like after their junior year
+
+258
+00:19:07,300 --> 00:19:10,900
+When 70 of the payment will be given to them if they just do one more year
+
+259
+00:19:12,260 --> 00:19:15,140
+What is the mentality of a person who gives up so close to the end?
+
+260
+00:19:16,180 --> 00:19:18,180
+What is wrong with them?
+
+261
+00:19:18,180 --> 00:19:21,540
+I really don't know but all I can see is in the data
+
+262
+00:19:21,540 --> 00:19:27,060
+Those people do very poorly. And yeah, so if any kid of mine was going to quit one year before
+
+263
+00:19:27,940 --> 00:19:29,460
+No
+
+264
+00:19:29,460 --> 00:19:33,860
+You are not quitting a year before we have paid for three years, maybe four or five years
+
+265
+00:19:33,860 --> 00:19:37,380
+You are finishing over my dead body. Do you give up now?
+
+266
+00:19:38,580 --> 00:19:44,100
+Right and this makes perfect sense because of course you're so close just a little bit more work
+
+267
+00:19:44,580 --> 00:19:47,780
+How lazy are you? It's like it's not that I'm lazy. I just don't feel like it
+
+268
+00:19:48,420 --> 00:19:50,420
+I refuse to submit to all this
+
+269
+00:19:50,420 --> 00:19:52,420
+You will submit
+
+270
+00:19:52,420 --> 00:20:19,780
+I am not going to put up with this terrible attitude but like the person who gives up in their junior year. I am not going to put up with it.
+
+

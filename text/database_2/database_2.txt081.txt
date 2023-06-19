@@ -1,0 +1,8 @@
+2. Suppose there are an infinite number of equally efficient potential producers.
+ 
+True, False, and Explain: With constant MC and zero fixed costs, there are an infinite number of PSNE and an infinite number of MSNE.
+ 
+  True. Any number of firms greater than one can enter the market and regardless of the number, every firm will remain indifferent to entering or exiting, i.e. unilaterally changing their decision, because at P=MC, profits will be zero.
+
+ 
+

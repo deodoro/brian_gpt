@@ -1,0 +1,8 @@
+4.  True, False, and Explain:   Landsburg's "Indifference Principle" ( The 
+Armchair Economist ) is inconsistent with the concept of the MSNE.  
+ 
+FALSE.  MSNE is actually a special case of Landsburg's Indiffere nce Principle.  The Indifference 
+Principle states that in equilibrium, people will be indifferent between all of their choices.  If one 
+were better than the other, everyone would do it.  And this is precisely what happens in a MSNE: 
+ever agent is indiffere nt between every choice.  
+ 

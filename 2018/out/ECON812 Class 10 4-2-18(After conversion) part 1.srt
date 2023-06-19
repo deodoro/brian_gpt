@@ -1,0 +1,1649 @@
+1
+00:00:00,000 --> 00:00:08,000
+As I am sure everyone else feels the same way, no better place to be at 7.20pm through 10pm on a Monday night.
+
+2
+00:00:08,000 --> 00:00:10,000
+And so we will proceed.
+
+3
+00:00:10,000 --> 00:00:14,000
+So we finished up with signaling last week.
+
+4
+00:00:14,000 --> 00:00:18,000
+Actually you could spend many years studying signaling if you were so inclined.
+
+5
+00:00:18,000 --> 00:00:22,000
+But this is all that we're going to do in this class on the subject.
+
+6
+00:00:22,000 --> 00:00:28,000
+In my view there's still plenty more to do on it, so we shall see.
+
+7
+00:00:28,000 --> 00:00:32,000
+But, and then we got a last topic.
+
+8
+00:00:32,000 --> 00:00:34,000
+So the winner's curse.
+
+9
+00:00:34,000 --> 00:00:44,000
+Another fun and kind of surprising case where economists did actually add something to practical decision making.
+
+10
+00:00:44,000 --> 00:00:46,000
+Not surprisingly.
+
+11
+00:00:46,000 --> 00:00:51,000
+Moral hazard, like I said, everyone in church knew about moral hazard before economists started talking about it.
+
+12
+00:00:51,000 --> 00:00:54,000
+Adverse selection, probably a bit more influence from economics.
+
+13
+00:00:54,000 --> 00:00:58,000
+But the winner's curse and other things, economists actually said something.
+
+14
+00:00:58,000 --> 00:00:59,000
+So, simple case.
+
+15
+00:00:59,000 --> 00:01:05,000
+So suppose we start with a second price auction.
+
+16
+00:01:05,000 --> 00:01:13,000
+A second price auction is one where the highest bidder wins and he pays the bid of the second highest bidder.
+
+17
+00:01:13,000 --> 00:01:21,000
+So if the bids are 10, 9, and 5, who wins?
+
+18
+00:01:21,000 --> 00:01:24,000
+What is the money bid 10 and the winner pays how much?
+
+19
+00:01:24,000 --> 00:01:25,000
+9.
+
+20
+00:01:25,000 --> 00:01:27,000
+That's a second price auction.
+
+21
+00:01:27,000 --> 00:01:29,000
+And if this were a first price auction, who would win?
+
+22
+00:01:29,000 --> 00:01:30,000
+10.
+
+23
+00:01:30,000 --> 00:01:31,000
+And what would he pay?
+
+24
+00:01:31,000 --> 00:01:32,000
+10.
+
+25
+00:01:32,000 --> 00:01:33,000
+10.
+
+26
+00:01:33,000 --> 00:01:38,000
+Now you may immediately realize there are different incentives for your bidding in a first versus second price auction.
+
+27
+00:01:38,000 --> 00:01:43,000
+So in a first price auction, if you truly value 10, do you want to bid 10?
+
+28
+00:01:43,000 --> 00:01:46,000
+Probably not, because then even if you win you get no surplus.
+
+29
+00:01:46,000 --> 00:01:48,000
+So you don't want to do that.
+
+30
+00:01:48,000 --> 00:01:52,000
+On the other hand, as you're going to prove on the homework, if it's a second price auction,
+
+31
+00:01:52,000 --> 00:01:55,000
+then normally it makes sense to just bid your true value.
+
+32
+00:01:55,000 --> 00:01:57,000
+Because you don't pay your true value.
+
+33
+00:01:57,000 --> 00:02:00,000
+You pay the value of the second highest person.
+
+34
+00:02:00,000 --> 00:02:04,000
+And you'll actually get a chance to prove that is a very good strategy.
+
+35
+00:02:04,000 --> 00:02:05,000
+Normally.
+
+36
+00:02:05,000 --> 00:02:06,000
+Yes.
+
+37
+00:02:06,000 --> 00:02:13,000
+So like if I want to blow up the boat and the guy bids 9, I could bid like 1,000.
+
+38
+00:02:13,000 --> 00:02:14,000
+Yeah, exactly.
+
+39
+00:02:14,000 --> 00:02:15,000
+I don't think he's going to bid 1,000 once.
+
+40
+00:02:15,000 --> 00:02:17,000
+Yeah, you could bid 10K and you still pay 9.
+
+41
+00:02:17,000 --> 00:02:19,000
+Because I can drop out, right?
+
+42
+00:02:19,000 --> 00:02:21,000
+If he bids 1,000, I can drop out.
+
+43
+00:02:21,000 --> 00:02:23,000
+So hold on, this is a first or second price auction?
+
+44
+00:02:23,000 --> 00:02:25,000
+This is a second price auction.
+
+45
+00:02:25,000 --> 00:02:26,000
+Yeah, second price auction.
+
+46
+00:02:26,000 --> 00:02:27,000
+But yeah, I mean you get the idea.
+
+47
+00:02:27,000 --> 00:02:32,000
+I could just bid 1,000 and then like assuming the guy is not going to want to bid 1,000 once,
+
+48
+00:02:32,000 --> 00:02:34,000
+he's going to have to pay at least 1,000.
+
+49
+00:02:34,000 --> 00:02:35,000
+Yeah, exactly.
+
+50
+00:02:35,000 --> 00:02:40,000
+So again, normally we picture this as sealed bids where you just write your number on a piece of paper
+
+51
+00:02:40,000 --> 00:02:41,000
+and then we sort them out.
+
+52
+00:02:41,000 --> 00:02:47,000
+But you could just as easily imagine that it's an auction where we raise the price by a penny a time
+
+53
+00:02:47,000 --> 00:02:49,000
+until finally there's only one person left.
+
+54
+00:02:49,000 --> 00:02:53,000
+And notice that's the same thing, right, for all practical purposes.
+
+55
+00:02:53,000 --> 00:02:59,000
+So again, imagine that we just start the price at zero and then we raise it by a penny per return
+
+56
+00:02:59,000 --> 00:03:05,000
+and then we finally get to $5.01 and this guy drops out, right?
+
+57
+00:03:05,000 --> 00:03:08,000
+And then we raise it up and we get to $9.01 and then this guy drops out
+
+58
+00:03:08,000 --> 00:03:12,000
+and then this person here pays $9.01.
+
+59
+00:03:12,000 --> 00:03:15,000
+Once there's only one person left, then that person wins.
+
+60
+00:03:15,000 --> 00:03:17,000
+So it's just the difference of a penny.
+
+61
+00:03:17,000 --> 00:03:22,000
+So anyway, first price auction is the one that we usually immediately think of
+
+62
+00:03:22,000 --> 00:03:24,000
+where you pay whatever you bid.
+
+63
+00:03:24,000 --> 00:03:29,000
+But second price auction is also effectively in pretty wide use
+
+64
+00:03:29,000 --> 00:03:34,000
+because any time you just raise the amount in small increments until only one person is left,
+
+65
+00:03:34,000 --> 00:03:37,000
+that's virtually the same as a second price auction.
+
+66
+00:03:37,000 --> 00:03:39,000
+Might make sense.
+
+67
+00:03:39,000 --> 00:03:40,000
+Okay.
+
+68
+00:03:40,000 --> 00:03:44,000
+So imagine we got a second price auction and we got N participants.
+
+69
+00:03:44,000 --> 00:03:49,000
+Now, of course there's many other fun auction rules.
+
+70
+00:03:49,000 --> 00:03:54,000
+There is the all-pay auction where everyone has to pay whatever they bid.
+
+71
+00:03:54,000 --> 00:03:57,000
+Some highest bidder wins, but everyone pays whatever they bid.
+
+72
+00:03:57,000 --> 00:04:01,000
+So all the people who don't win pay their money and then get nothing.
+
+73
+00:04:01,000 --> 00:04:03,000
+You can do that.
+
+74
+00:04:03,000 --> 00:04:07,000
+Why would anyone participate in an all-pay auction?
+
+75
+00:04:07,000 --> 00:04:09,000
+Bids are likely to be lower.
+
+76
+00:04:09,000 --> 00:04:11,000
+Yeah, bids tend to be really low in all-pay auctions,
+
+77
+00:04:11,000 --> 00:04:16,000
+so maybe you will get what you want for pennies on the door.
+
+78
+00:04:16,000 --> 00:04:21,000
+Of course there's all the losers, but you always take a chance there.
+
+79
+00:04:21,000 --> 00:04:23,000
+Okay.
+
+80
+00:04:23,000 --> 00:04:26,000
+Now, we got N participants,
+
+81
+00:04:26,000 --> 00:04:30,000
+and then let's suppose that every bidder has rational expectations
+
+82
+00:04:30,000 --> 00:04:33,000
+about the true value of the item being auctioned.
+
+83
+00:04:33,000 --> 00:04:34,000
+So what does this mean?
+
+84
+00:04:34,000 --> 00:04:36,000
+Well, it's something like an oil well, right,
+
+85
+00:04:36,000 --> 00:04:39,000
+where you're at least allowed to drill in an area and find the oil,
+
+86
+00:04:39,000 --> 00:04:44,000
+where the value to each person there is not based upon a personal interpretation
+
+87
+00:04:44,000 --> 00:04:46,000
+of the joy of the oil, right?
+
+88
+00:04:46,000 --> 00:04:50,000
+It's just based upon what is the market price of the oil that is below that ground.
+
+89
+00:04:50,000 --> 00:04:52,000
+Similarly, this can even be true for art collecting.
+
+90
+00:04:52,000 --> 00:04:55,000
+If we suppose that you are all investors in art,
+
+91
+00:04:55,000 --> 00:04:57,000
+so you're not buying it for enjoyment.
+
+92
+00:04:57,000 --> 00:05:00,000
+You're buying it to sell on the market at some point.
+
+93
+00:05:00,000 --> 00:05:02,000
+Okay, so that would work too.
+
+94
+00:05:02,000 --> 00:05:03,000
+All right.
+
+95
+00:05:03,000 --> 00:05:06,000
+So suppose that everybody goes and has rational expectations
+
+96
+00:05:06,000 --> 00:05:08,000
+about the true value of the auction.
+
+97
+00:05:08,000 --> 00:05:11,000
+So everyone is going to have their own valuation.
+
+98
+00:05:11,000 --> 00:05:14,000
+So your own valuation is VI, which is an equal to V,
+
+99
+00:05:14,000 --> 00:05:18,000
+which is the true value, plus your own personal error term,
+
+100
+00:05:18,000 --> 00:05:22,000
+your own random mistake, which could be high or low.
+
+101
+00:05:22,000 --> 00:05:23,000
+Okay.
+
+102
+00:05:23,000 --> 00:05:25,000
+And then since we got rational expectations,
+
+103
+00:05:25,000 --> 00:05:28,000
+assume that the mean of the error is zero,
+
+104
+00:05:28,000 --> 00:05:31,000
+and it's got a variance of sigma squared.
+
+105
+00:05:31,000 --> 00:05:32,000
+Okay.
+
+106
+00:05:32,000 --> 00:05:36,000
+Now, since your estimate is unbiased by assumption,
+
+107
+00:05:36,000 --> 00:05:40,000
+it seems like the sensible thing is just to bid your true value.
+
+108
+00:05:40,000 --> 00:05:43,000
+As I said, on the homework you'll get a chance to prove this.
+
+109
+00:05:43,000 --> 00:05:46,000
+But intuitively, suppose that, you know,
+
+110
+00:05:46,000 --> 00:05:52,000
+let's go back to, you know, so we got like true values are 10, 9, and 5.
+
+111
+00:05:52,000 --> 00:05:54,000
+These are true values.
+
+112
+00:05:54,000 --> 00:05:57,000
+Now, so this person here is, you know,
+
+113
+00:05:57,000 --> 00:05:59,000
+suppose this person here, they go and bid 10.
+
+114
+00:05:59,000 --> 00:06:00,000
+All right.
+
+115
+00:06:00,000 --> 00:06:02,000
+And then, of course, they're going to win,
+
+116
+00:06:02,000 --> 00:06:04,000
+because this person is not going to bid any more.
+
+117
+00:06:04,000 --> 00:06:06,000
+There's no reason to bid more than your true value, right?
+
+118
+00:06:06,000 --> 00:06:07,000
+Right.
+
+119
+00:06:07,000 --> 00:06:10,000
+If you bid more than your true value, then there's two scenarios.
+
+120
+00:06:10,000 --> 00:06:12,000
+One is you lose, in which case what happens?
+
+121
+00:06:12,000 --> 00:06:13,000
+Zero.
+
+122
+00:06:13,000 --> 00:06:14,000
+Nothing.
+
+123
+00:06:14,000 --> 00:06:15,000
+Right.
+
+124
+00:06:15,000 --> 00:06:16,000
+Easy come, easy go.
+
+125
+00:06:16,000 --> 00:06:18,000
+On the other hand, if you bid more than true value and you win,
+
+126
+00:06:18,000 --> 00:06:19,000
+what has just occurred?
+
+127
+00:06:19,000 --> 00:06:20,000
+You lost.
+
+128
+00:06:20,000 --> 00:06:21,000
+You lost.
+
+129
+00:06:21,000 --> 00:06:22,000
+Yes.
+
+130
+00:06:22,000 --> 00:06:25,000
+You have won the auction but lost the value race,
+
+131
+00:06:25,000 --> 00:06:29,000
+because you have paid, say, $9.50 for something you only vetted at $9.00.
+
+132
+00:06:29,000 --> 00:06:30,000
+That's stupid.
+
+133
+00:06:30,000 --> 00:06:32,000
+And that's the second highest price below your true value.
+
+134
+00:06:32,000 --> 00:06:33,000
+Yes.
+
+135
+00:06:33,000 --> 00:06:37,000
+I said, either you lose, in which case you're fine.
+
+136
+00:06:37,000 --> 00:06:38,000
+Right.
+
+137
+00:06:38,000 --> 00:06:40,000
+Or you win, in which case you regret it.
+
+138
+00:06:40,000 --> 00:06:41,000
+Oh, I see.
+
+139
+00:06:41,000 --> 00:06:42,000
+Oh, yeah, yeah, yeah.
+
+140
+00:06:42,000 --> 00:06:44,000
+You're absolutely right, which is why, yes, completely right,
+
+141
+00:06:44,000 --> 00:06:46,000
+which is why proving this is a little bit harder,
+
+142
+00:06:46,000 --> 00:06:48,000
+and that's why you get to do the homework.
+
+143
+00:06:48,000 --> 00:06:49,000
+Anyway.
+
+144
+00:06:49,000 --> 00:06:50,000
+All right.
+
+145
+00:06:50,000 --> 00:06:55,000
+So, anyway, so this person here,
+
+146
+00:06:55,000 --> 00:06:58,000
+so suppose that you're thinking about bidding $10.00,
+
+147
+00:06:58,000 --> 00:07:03,000
+and then there's a question of what do you gain if you go and cut your bid?
+
+148
+00:07:03,000 --> 00:07:04,000
+All right.
+
+149
+00:07:04,000 --> 00:07:07,000
+So, again, if you bid $10.00, and, you know,
+
+150
+00:07:07,000 --> 00:07:09,000
+the other person has no reason to go above $9.00,
+
+151
+00:07:09,000 --> 00:07:12,000
+so if you bid $10.00, then you're going to wind up paying $9.00.
+
+152
+00:07:12,000 --> 00:07:13,000
+Right.
+
+153
+00:07:13,000 --> 00:07:15,000
+Now, suppose you cut your bid down to $9.80.
+
+154
+00:07:15,000 --> 00:07:17,000
+Do you still win?
+
+155
+00:07:17,000 --> 00:07:20,000
+And what do you pay if you bid $9.80?
+
+156
+00:07:20,000 --> 00:07:22,000
+You still pay $9.00.
+
+157
+00:07:22,000 --> 00:07:24,000
+What if you go and you cut your bid to $9.50?
+
+158
+00:07:24,000 --> 00:07:25,000
+What do you pay?
+
+159
+00:07:25,000 --> 00:07:26,000
+$9.00.
+
+160
+00:07:26,000 --> 00:07:28,000
+What about if you cut your bid down to $9.01?
+
+161
+00:07:28,000 --> 00:07:29,000
+What do you pay?
+
+162
+00:07:29,000 --> 00:07:30,000
+$9.00.
+
+163
+00:07:30,000 --> 00:07:33,000
+What if you cut your bid down to $8.99?
+
+164
+00:07:33,000 --> 00:07:34,000
+Then what happens?
+
+165
+00:07:34,000 --> 00:07:38,000
+Then you lose, and you actually don't get the item.
+
+166
+00:07:38,000 --> 00:07:39,000
+Right.
+
+167
+00:07:39,000 --> 00:07:42,000
+On the other hand, if you were to go and raise your bid, what do you get?
+
+168
+00:07:42,000 --> 00:07:44,000
+Raising your bid doesn't get you anything either, right?
+
+169
+00:07:44,000 --> 00:07:47,000
+You could bid $1 million, and you still pay $9.00.
+
+170
+00:07:47,000 --> 00:07:48,000
+Right.
+
+171
+00:07:48,000 --> 00:07:53,000
+So, anyway, that's the basic intuition for why it actually is least weakly dominant
+
+172
+00:07:53,000 --> 00:07:55,000
+for you to bid your true value.
+
+173
+00:07:55,000 --> 00:07:56,000
+All right.
+
+174
+00:07:56,000 --> 00:08:00,000
+So, anyway, suppose that everyone goes and bids their true value, right,
+
+175
+00:08:00,000 --> 00:08:02,000
+and figuring, look, I've got rational expectations,
+
+176
+00:08:02,000 --> 00:08:05,000
+so if I bid my true value, what can go wrong?
+
+177
+00:08:05,000 --> 00:08:06,000
+What can go wrong?
+
+178
+00:08:06,000 --> 00:08:10,000
+And it turns out that, surprisingly, given the setup of this problem,
+
+179
+00:08:10,000 --> 00:08:15,000
+if you win, you should expect to lose money.
+
+180
+00:08:15,000 --> 00:08:16,000
+Why?
+
+181
+00:08:16,000 --> 00:08:24,000
+Well, so if this is your estimate, so the estimate is going to be your view of the value,
+
+182
+00:08:24,000 --> 00:08:27,000
+your best guess of the value, equal to the truth plus the error,
+
+183
+00:08:27,000 --> 00:08:30,000
+and you know everybody else is the same, right?
+
+184
+00:08:30,000 --> 00:08:33,000
+So if you look at this, who's actually going to win the auction?
+
+185
+00:08:33,000 --> 00:08:34,000
+The person with the highest error.
+
+186
+00:08:34,000 --> 00:08:37,000
+Yeah, the person with the biggest positive error is going to win the auction
+
+187
+00:08:37,000 --> 00:08:39,000
+if you've just bid your true value.
+
+188
+00:08:39,000 --> 00:08:42,000
+And then you lose a loss, right?
+
+189
+00:08:42,000 --> 00:08:46,000
+You basically lose, and you wind up paying that amount,
+
+190
+00:08:46,000 --> 00:08:50,000
+paying an amount equal to the true value plus the second biggest error.
+
+191
+00:08:50,000 --> 00:08:51,000
+Now, here's the thing.
+
+192
+00:08:51,000 --> 00:08:57,000
+The average error is zero, but the average error of the winner is positive,
+
+193
+00:08:57,000 --> 00:08:59,000
+and that is the danger.
+
+194
+00:08:59,000 --> 00:09:02,000
+That is the danger because if you, you know, so, of course, on average,
+
+195
+00:09:02,000 --> 00:09:06,000
+you just bid it and you're fine, but you just bid your true value,
+
+196
+00:09:06,000 --> 00:09:12,000
+and if your error is zero, as it is on average, you just almost certainly lose, right?
+
+197
+00:09:12,000 --> 00:09:14,000
+Because there's going to be someone with a positive error,
+
+198
+00:09:14,000 --> 00:09:18,000
+it could be a large group of people, right, a large group of bidders.
+
+199
+00:09:18,000 --> 00:09:22,000
+But if you win, on the other hand, you wind up overpaying.
+
+200
+00:09:22,000 --> 00:09:28,000
+Okay, so that is the problem that is known as the winner's curse.
+
+201
+00:09:28,000 --> 00:09:32,000
+Because if you win, you will wish you had lost.
+
+202
+00:09:32,000 --> 00:09:35,000
+If you win, you wish you had lost, but you know, be careful what you bid for,
+
+203
+00:09:35,000 --> 00:09:37,000
+you might get it.
+
+204
+00:09:37,000 --> 00:09:40,000
+So if you bid what seems like a good amount to you,
+
+205
+00:09:40,000 --> 00:09:42,000
+normally you just walk away with nothing,
+
+206
+00:09:42,000 --> 00:09:46,000
+but if you win it will be because you had a very high positive error,
+
+207
+00:09:46,000 --> 00:09:49,000
+and therefore you wind up overpaying because, again,
+
+208
+00:09:49,000 --> 00:09:52,000
+you will pay the value of the second most deluded person,
+
+209
+00:09:52,000 --> 00:09:54,000
+most overly optimistic person.
+
+210
+00:09:54,000 --> 00:10:00,000
+Does sellers having a negative error versus sellers just pricing low
+
+211
+00:10:00,000 --> 00:10:04,000
+to attract a number of buyers, or bidders rather,
+
+212
+00:10:04,000 --> 00:10:05,000
+does that come into this at all?
+
+213
+00:10:05,000 --> 00:10:07,000
+I mean, you could just, like,
+
+214
+00:10:07,000 --> 00:10:10,000
+principally you could reverse it and make this,
+
+215
+00:10:10,000 --> 00:10:12,000
+so this is all for ease of buyers.
+
+216
+00:10:12,000 --> 00:10:15,000
+You could just easily reverse it and make it sellers,
+
+217
+00:10:15,000 --> 00:10:19,000
+where as long as the seller doesn't know the true value of what they're selling,
+
+218
+00:10:19,000 --> 00:10:22,000
+then the problem is that the ones that are going to offer the lowest price
+
+219
+00:10:22,000 --> 00:10:26,000
+are going to be the ones where they are most likely to have underestimated
+
+220
+00:10:26,000 --> 00:10:28,000
+the cost of doing it.
+
+221
+00:10:28,000 --> 00:10:31,000
+So it's totally symmetric.
+
+222
+00:10:31,000 --> 00:10:34,000
+So the more serious your error, the more likely you are to win.
+
+223
+00:10:34,000 --> 00:10:36,000
+Where win does not mean make money.
+
+224
+00:10:36,000 --> 00:10:40,000
+Win means be declared the winner of the auction,
+
+225
+00:10:40,000 --> 00:10:42,000
+which are two quite different things, right?
+
+226
+00:10:42,000 --> 00:10:46,000
+Have you ever had the nightmare that you accidentally go to an auction
+
+227
+00:10:46,000 --> 00:10:50,000
+and you accidentally bid at the wrong time and then you owe $10 million?
+
+228
+00:10:50,000 --> 00:10:54,000
+How many Simpsons episodes are based on that?
+
+229
+00:10:54,000 --> 00:10:58,000
+I feel like there's been so many auctions on the Simpsons.
+
+230
+00:10:58,000 --> 00:11:02,000
+You just scratch your nose, but you accidentally put your bidding thing up,
+
+231
+00:11:02,000 --> 00:11:05,000
+and sold to this idiot over here.
+
+232
+00:11:05,000 --> 00:11:09,000
+You're like, what? Sold.
+
+233
+00:11:09,000 --> 00:11:11,000
+This was like three weeks ago.
+
+234
+00:11:11,000 --> 00:11:14,000
+There was a bad auction episode.
+
+235
+00:11:14,000 --> 00:11:16,000
+So that is the idea.
+
+236
+00:11:16,000 --> 00:11:19,000
+If you win, you're likely to make a serious error.
+
+237
+00:11:19,000 --> 00:11:21,000
+Now, what can you do about this?
+
+238
+00:11:21,000 --> 00:11:27,000
+Well, if everybody knew everybody's VI's, then there's a really easy solution.
+
+239
+00:11:27,000 --> 00:11:29,000
+So you just take the average of all of them,
+
+240
+00:11:29,000 --> 00:11:32,000
+and then that gives you a better estimate of the truth.
+
+241
+00:11:32,000 --> 00:11:35,000
+So basically, if you could just go to every person and say,
+
+242
+00:11:35,000 --> 00:11:37,000
+what's your estimate of the true value? What's your estimate?
+
+243
+00:11:37,000 --> 00:11:38,000
+Everyone will be honest.
+
+244
+00:11:38,000 --> 00:11:40,000
+Then you just go and you take them all and average them all,
+
+245
+00:11:40,000 --> 00:11:43,000
+and then on average that's going to be an accurate judgment.
+
+246
+00:11:43,000 --> 00:11:47,000
+Of course, in the real world, you would not expect people to go around
+
+247
+00:11:47,000 --> 00:11:52,000
+and answer truthfully whatever they believe the value of the object is, right?
+
+248
+00:11:52,000 --> 00:11:53,000
+Okay?
+
+249
+00:11:53,000 --> 00:11:56,000
+Now, there is another thing that you can do.
+
+250
+00:11:56,000 --> 00:11:59,000
+Another thing you can do, which is,
+
+251
+00:11:59,000 --> 00:12:01,000
+so of course you could actually release all the model,
+
+252
+00:12:01,000 --> 00:12:03,000
+or you could just notice, well, wait,
+
+253
+00:12:03,000 --> 00:12:07,000
+on average how much does the winner overbid by?
+
+254
+00:12:07,000 --> 00:12:10,000
+Suppose that the winner overbids by an average of 20%
+
+255
+00:12:10,000 --> 00:12:12,000
+when they're doing it naively.
+
+256
+00:12:12,000 --> 00:12:16,000
+Then all that you could need to do is take your estimate
+
+257
+00:12:16,000 --> 00:12:18,000
+and say bid.8 of that.
+
+258
+00:12:18,000 --> 00:12:19,000
+Well, let's see, hold on.
+
+259
+00:12:19,000 --> 00:12:22,000
+I said they're bidding 20% too high.
+
+260
+00:12:22,000 --> 00:12:24,000
+So that's 6 fifths.
+
+261
+00:12:24,000 --> 00:12:26,000
+So actually you want to have 5 sixths.
+
+262
+00:12:26,000 --> 00:12:28,000
+So if you were just to go and bid 5 sixths,
+
+263
+00:12:28,000 --> 00:12:30,000
+then at least on average you would,
+
+264
+00:12:30,000 --> 00:12:34,000
+if you won, you would be glad you won.
+
+265
+00:12:34,000 --> 00:12:37,000
+We're going to be seeing how many of you bid 5 sixths of your estimate
+
+266
+00:12:37,000 --> 00:12:39,000
+that you're probably going to lose.
+
+267
+00:12:39,000 --> 00:12:40,000
+Say, well, you'll lose, yes, you will.
+
+268
+00:12:40,000 --> 00:12:42,000
+So if everyone else keeps doing it, you'll lose,
+
+269
+00:12:42,000 --> 00:12:44,000
+but you'll be glad you lost.
+
+270
+00:12:44,000 --> 00:12:46,000
+And then if it so happens that you win,
+
+271
+00:12:46,000 --> 00:12:48,000
+you will not be sad that you won.
+
+272
+00:12:48,000 --> 00:12:53,000
+So it's better to lose auctions but not money
+
+273
+00:12:53,000 --> 00:12:56,000
+than it is to win auctions but lose money.
+
+274
+00:12:56,000 --> 00:12:58,000
+So anyway, basically, so intuitively,
+
+275
+00:12:58,000 --> 00:13:01,000
+if you look and see the winner is typically losing money,
+
+276
+00:13:01,000 --> 00:13:05,000
+then the obvious thing to do is to take your initial naive estimate
+
+277
+00:13:05,000 --> 00:13:12,000
+and then deflate it so that you can once again expect to make money.
+
+278
+00:13:12,000 --> 00:13:14,000
+So, basic point.
+
+279
+00:13:14,000 --> 00:13:17,000
+And then if you do win, you will not be burned.
+
+280
+00:13:17,000 --> 00:13:21,000
+Of course, if everybody does this, then all the bids get depressed,
+
+281
+00:13:21,000 --> 00:13:26,000
+but then on average, the winner is going to be happy that he won.
+
+282
+00:13:26,000 --> 00:13:28,000
+If you deflate it enough.
+
+283
+00:13:28,000 --> 00:13:30,000
+Now, how does this work in the real world?
+
+284
+00:13:30,000 --> 00:13:33,000
+Well, so some economists went and looked at what was going on,
+
+285
+00:13:33,000 --> 00:13:36,000
+and specifically they did bidding on petroleum,
+
+286
+00:13:36,000 --> 00:13:40,000
+or like potential petroleum, so an area believed in petroleum,
+
+287
+00:13:40,000 --> 00:13:45,000
+and then they noticed there were patterns of persistent overbidding.
+
+288
+00:13:45,000 --> 00:13:48,000
+But then, before too long, what firms started doing was
+
+289
+00:13:48,000 --> 00:13:50,000
+not going and explaining this whole problem,
+
+290
+00:13:50,000 --> 00:13:53,000
+and it's not clear that they understood at all what was going on.
+
+291
+00:13:53,000 --> 00:13:56,000
+All they would do is come up with a naive estimate,
+
+292
+00:13:56,000 --> 00:13:59,000
+and then just subtract a third, and then did that.
+
+293
+00:13:59,000 --> 00:14:01,000
+And if you ask them, why do you do that?
+
+294
+00:14:01,000 --> 00:14:04,000
+And they say, well, we went and calculated our thing,
+
+295
+00:14:04,000 --> 00:14:06,000
+and then we just do our standard industry thing,
+
+296
+00:14:06,000 --> 00:14:07,000
+and subtracting a third at the end.
+
+297
+00:14:07,000 --> 00:14:09,000
+But why do you do that?
+
+298
+00:14:09,000 --> 00:14:12,000
+Well, when we don't subtract a third, we lose money.
+
+299
+00:14:12,000 --> 00:14:17,000
+So this is one where they atheoretically hit on the right answer
+
+300
+00:14:17,000 --> 00:14:21,000
+without having much of a clear ability to explain what's going on.
+
+301
+00:14:21,000 --> 00:14:24,000
+So, I mean, this is something where the economists did not show up
+
+302
+00:14:24,000 --> 00:14:26,000
+and give them a new business strategy,
+
+303
+00:14:26,000 --> 00:14:30,000
+but they were able to show up and explain this weird fudge factor
+
+304
+00:14:30,000 --> 00:14:32,000
+happening at the second to last step,
+
+305
+00:14:32,000 --> 00:14:36,000
+where you just go, well, let's just go and subtract this thing
+
+306
+00:14:36,000 --> 00:14:40,000
+that everyone knows you have to subtract, or else you lose money.
+
+307
+00:14:40,000 --> 00:14:44,000
+So that's how they worked it out in practice.
+
+308
+00:14:44,000 --> 00:14:48,000
+So, let's see.
+
+309
+00:14:48,000 --> 00:14:49,000
+Yeah.
+
+310
+00:14:49,000 --> 00:14:53,000
+So, the unrelated example, I remember in the state of New Jersey,
+
+311
+00:14:53,000 --> 00:14:59,000
+if you were hiring a mover, they would go and calculate out the rate,
+
+312
+00:14:59,000 --> 00:15:02,000
+and then they would go and subtract somewhere between 40 and 60 percent
+
+313
+00:15:02,000 --> 00:15:05,000
+from whatever their second to last number was.
+
+314
+00:15:05,000 --> 00:15:08,000
+And I remember when I was asking them what's going on there,
+
+315
+00:15:08,000 --> 00:15:12,000
+and they said, well, so this is an interstate move,
+
+316
+00:15:12,000 --> 00:15:14,000
+and so we're allowed to discount.
+
+317
+00:15:14,000 --> 00:15:18,000
+I'm like, okay, but why is it like 40 to 60 percent?
+
+318
+00:15:18,000 --> 00:15:20,000
+And they said, well, it depends upon demand.
+
+319
+00:15:20,000 --> 00:15:24,000
+So if it's a slack time, then we'll take off 60 percent.
+
+320
+00:15:24,000 --> 00:15:28,000
+If it's a regular time, like 50, peak time would be like 45 percent.
+
+321
+00:15:28,000 --> 00:15:31,000
+I'm like, why is it so big?
+
+322
+00:15:31,000 --> 00:15:33,000
+Anyway, so when I looked into this,
+
+323
+00:15:33,000 --> 00:15:37,000
+the state of New Jersey does actually fix the prices for moves.
+
+324
+00:15:37,000 --> 00:15:39,000
+But then as long as it's a move between states,
+
+325
+00:15:39,000 --> 00:15:41,000
+you're allowed to put a discount on.
+
+326
+00:15:41,000 --> 00:15:43,000
+But if it were intrastate, in principle,
+
+327
+00:15:43,000 --> 00:15:48,000
+they would have to actually legally charge whatever that high number was.
+
+328
+00:15:48,000 --> 00:15:51,000
+Now, it seems like a pretty crummy price control for it from anyone's point of view
+
+329
+00:15:51,000 --> 00:15:55,000
+because they basically self-assess each item, like how many boxes,
+
+330
+00:15:55,000 --> 00:15:57,000
+and it didn't seem like there was any system
+
+331
+00:15:57,000 --> 00:15:59,000
+to make sure they put down the right number of boxes,
+
+332
+00:15:59,000 --> 00:16:02,000
+and I think it depended upon the size of the boxes.
+
+333
+00:16:02,000 --> 00:16:05,000
+You could just go and change large to medium boxes
+
+334
+00:16:05,000 --> 00:16:07,000
+and then get the price down that way.
+
+335
+00:16:07,000 --> 00:16:10,000
+But anyway, this is another case where they do all the math,
+
+336
+00:16:10,000 --> 00:16:14,000
+and then the second to last step, enormous discount,
+
+337
+00:16:14,000 --> 00:16:17,000
+and then final number, and this is the easiest way to practice.
+
+338
+00:16:17,000 --> 00:16:18,000
+My question?
+
+339
+00:16:18,000 --> 00:16:21,000
+So the winner's curse does apply to like a first price auction as well, right?
+
+340
+00:16:21,000 --> 00:16:24,000
+Yeah, it's just easiest to see in the case of a second price auction.
+
+341
+00:16:24,000 --> 00:16:29,000
+And notice, it does not apply if it's just a variation on how much you like the product.
+
+342
+00:16:29,000 --> 00:16:33,000
+So if instead of epsilon i being an error,
+
+343
+00:16:33,000 --> 00:16:36,000
+instead it is just an amount of utility that you get,
+
+344
+00:16:36,000 --> 00:16:38,000
+then it's no problem.
+
+345
+00:16:38,000 --> 00:16:41,000
+So again, if the person that wins the Picasso auction
+
+346
+00:16:41,000 --> 00:16:43,000
+is the person who loves Picasso the most,
+
+347
+00:16:43,000 --> 00:16:45,000
+that's just a normal efficient outcome.
+
+348
+00:16:45,000 --> 00:16:48,000
+But what's interesting about this is we are actually assuming
+
+349
+00:16:48,000 --> 00:16:51,000
+that there's a true value that you're doing,
+
+350
+00:16:51,000 --> 00:16:54,000
+say, for a firm that just wants to resell the oil,
+
+351
+00:16:54,000 --> 00:16:57,000
+and then the problem is not variation in the value you assign,
+
+352
+00:16:57,000 --> 00:17:02,000
+but a variation in your estimate of how much oil is there.
+
+353
+00:17:02,000 --> 00:17:04,000
+All right.
+
+354
+00:17:04,000 --> 00:17:06,000
+And then if you read Lansbury's chapter on this,
+
+355
+00:17:06,000 --> 00:17:09,000
+which I think is assigned, I don't remember, but anyway,
+
+356
+00:17:09,000 --> 00:17:13,000
+he uncharacteristically misstates the theory,
+
+357
+00:17:13,000 --> 00:17:15,000
+possibly just for entertainment value,
+
+358
+00:17:15,000 --> 00:17:17,000
+but begins with, if you're reading this book,
+
+359
+00:17:17,000 --> 00:17:19,000
+you probably overestimated how good it is.
+
+360
+00:17:19,000 --> 00:17:23,000
+And the idea is that when you're looking around for books on the shelf,
+
+361
+00:17:23,000 --> 00:17:25,000
+like what are the ones, you know,
+
+362
+00:17:25,000 --> 00:17:27,000
+who are the people who are going to pick up
+
+363
+00:17:27,000 --> 00:17:29,000
+the Armchair Economist off the shelf right away?
+
+364
+00:17:29,000 --> 00:17:33,000
+Are they going to be people who accurately forecast its value?
+
+365
+00:17:33,000 --> 00:17:35,000
+Are they going to be the optimists?
+
+366
+00:17:35,000 --> 00:17:37,000
+That sounds great, and then you get it.
+
+367
+00:17:37,000 --> 00:17:40,000
+But anyway, that's only if you act naively,
+
+368
+00:17:40,000 --> 00:17:46,000
+but on the other hand, if you realize that whatever you're picking up
+
+369
+00:17:46,000 --> 00:17:49,000
+will tend to be worse than you expected,
+
+370
+00:17:49,000 --> 00:17:50,000
+then you will make an adjustment,
+
+371
+00:17:50,000 --> 00:17:53,000
+lower your expectations down to a reasonable level,
+
+372
+00:17:53,000 --> 00:17:57,000
+and then you would not actually be disappointed by the results.
+
+373
+00:17:57,000 --> 00:17:59,000
+All right, so you can make your own judgment
+
+374
+00:17:59,000 --> 00:18:01,000
+about whether you're good at this.
+
+375
+00:18:01,000 --> 00:18:03,000
+Have you successfully lowered your expectations
+
+376
+00:18:03,000 --> 00:18:06,000
+down to a realistic level by this point in your life?
+
+377
+00:18:06,000 --> 00:18:09,000
+When you're a kid, like probably most people do,
+
+378
+00:18:09,000 --> 00:18:12,000
+most kids do have an overly optimistic view
+
+379
+00:18:12,000 --> 00:18:14,000
+of how much they're going to enjoy almost everything,
+
+380
+00:18:14,000 --> 00:18:18,000
+and then things can get pretty disappointing for those kids.
+
+381
+00:18:18,000 --> 00:18:20,000
+I thought this was going to be the best birthday ever,
+
+382
+00:18:20,000 --> 00:18:23,000
+but it's only like the third best birthday.
+
+383
+00:18:23,000 --> 00:18:25,000
+All right.
+
+384
+00:18:25,000 --> 00:18:29,000
+All right, so questions about The Winner's Curse?
+
+385
+00:18:29,000 --> 00:18:34,000
+Are you completely happy about The Winner's Curse and everything about it?
+
+386
+00:18:34,000 --> 00:18:36,000
+Yes, happy about it.
+
+387
+00:18:36,000 --> 00:18:40,000
+Intellectually satisfied by The Winner's Curse.
+
+388
+00:18:40,000 --> 00:18:45,000
+All right, in that case, we'll move on to efficiency implications.
+
+389
+00:18:45,000 --> 00:18:48,000
+So as I said, there are plenty of e-contact books,
+
+390
+00:18:48,000 --> 00:18:50,000
+and I think they're still being written,
+
+391
+00:18:50,000 --> 00:18:53,000
+that say that when there's imperfect information, markets fail.
+
+392
+00:18:53,000 --> 00:18:56,000
+And this is a gross overstatement and demonstrably wrong.
+
+393
+00:18:56,000 --> 00:19:00,000
+It's like weird GMU lore that says that it's wrong.
+
+394
+00:19:00,000 --> 00:19:04,000
+But there are ironclad counter-examples
+
+395
+00:19:04,000 --> 00:19:07,000
+that every economist who can do math will say,
+
+396
+00:19:07,000 --> 00:19:10,000
+yes, that is a counter-example of the claim that markets fail
+
+397
+00:19:10,000 --> 00:19:14,000
+when there's imperfect information, so that claim is wrong.
+
+398
+00:19:14,000 --> 00:19:15,000
+All right, so general rules.
+
+399
+00:19:15,000 --> 00:19:18,000
+First, if the imperfect information is symmetric,
+
+400
+00:19:18,000 --> 00:19:20,000
+so we've got symmetric imperfect information
+
+401
+00:19:20,000 --> 00:19:23,000
+where nobody knows any better than anybody else,
+
+402
+00:19:23,000 --> 00:19:26,000
+then we've got market efficiency.
+
+403
+00:19:26,000 --> 00:19:31,000
+At least in the sense that there's nothing that anyone can do to improve anything.
+
+404
+00:19:31,000 --> 00:19:36,000
+All right, now, what if all market agents are equally informed,
+
+405
+00:19:36,000 --> 00:19:40,000
+but the government knows more than all the people in the market?
+
+406
+00:19:40,000 --> 00:19:42,000
+Is that symmetric or asymmetric?
+
+407
+00:19:42,000 --> 00:19:47,000
+It's asymmetric, because to us, there's got to be anybody in the universe.
+
+408
+00:19:47,000 --> 00:19:51,000
+So if the government knows better than all the people in the market,
+
+409
+00:19:51,000 --> 00:19:53,000
+that would be a case of asymmetric information.
+
+410
+00:19:53,000 --> 00:19:56,000
+And you might very well say, well, of course, whenever a government says
+
+411
+00:19:56,000 --> 00:19:58,000
+there's a problem with imperfect information,
+
+412
+00:19:58,000 --> 00:20:23,000
+that's because the government knows better.
+
+

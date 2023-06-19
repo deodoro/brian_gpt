@@ -1,0 +1,12 @@
+6. Financial analysts often appeal to "herd behavior" to explain price movements in financial markets: Investors want to buy stocks that have been increasing in price, and sell stocks that have been decreasing in price.
+ 
+True, False, and Explain: According to Thaler (The Winner's Curse), herd behavior is not, on average, a profitable strategy for individual investors.
+
+*(See Chapter 12) p. 157: "Our own research on this topic (De Bondt and Thaler, 1985, 1987) was motivated by the hypothesis that the contrarian strategies are successful because of systematic investor overreaction. There is substantial evidence in the psychology literature that individuals tend to overweight recent data in making forecasts and judgments"
+
+False, Thaler doesn't discuss herd behavior in Winner's Curse. Instead, his research finds that systematic investor overreaction leads to mean reversion in the stock market. It is possible that this overreaction is not because of herd behavior--instead, individuals are over-reacting based on information from previous periods independently. Thus, the profitable strategy is to buy those stocks that have been doing poorly and sell those that have been doing well.
+
+The Q&A with Caplan revealed that this statement is true - herd behavior is not a profitable strategy on average. Rather, one can make money as a contrarian investor, taking into account mean reversion.
+
+Part 2: Short Answer
+

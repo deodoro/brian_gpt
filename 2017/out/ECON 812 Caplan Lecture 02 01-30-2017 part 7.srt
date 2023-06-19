@@ -1,0 +1,1897 @@
+1
+00:00:00,000 --> 00:00:04,000
+I think that there will be hope to find a solution.
+
+2
+00:00:04,000 --> 00:00:05,840
+And I'll turn around.
+
+3
+00:00:05,840 --> 00:00:09,640
+So a mathematician, a friend of mine,
+
+4
+00:00:09,640 --> 00:00:12,080
+once told me a joke along the lines of,
+
+5
+00:00:12,080 --> 00:00:14,360
+a mathematician is stuck in a bank vault
+
+6
+00:00:14,360 --> 00:00:17,080
+with a raging out of control fire.
+
+7
+00:00:17,080 --> 00:00:18,880
+He's on the verge of being burned alive.
+
+8
+00:00:18,880 --> 00:00:21,720
+And then he lights a match, turns on the sink,
+
+9
+00:00:21,720 --> 00:00:23,400
+throws the match in, and says,
+
+10
+00:00:23,400 --> 00:00:25,160
+I've proven a solution exists.
+
+11
+00:00:25,160 --> 00:00:31,720
+Yes, so, but that sink isn't enough to go and put out
+
+12
+00:00:31,720 --> 00:00:33,720
+the fire, so what difference does it make?
+
+13
+00:00:33,720 --> 00:00:37,840
+It made a difference to him before he was burned alive.
+
+14
+00:00:37,840 --> 00:00:41,960
+I died knowing it could be solved.
+
+15
+00:00:41,960 --> 00:00:48,000
+So, now, if you're wondering, so why is this theorem so great?
+
+16
+00:00:48,000 --> 00:00:50,560
+So the philosophical perspective to think about
+
+17
+00:00:50,560 --> 00:00:53,040
+is, imagine you're in the 1950s, where
+
+18
+00:00:53,040 --> 00:00:56,960
+the main philosophical debate would be between a normal Paul
+
+19
+00:00:56,960 --> 00:01:00,680
+Samuelson Keynesian liberal and a Marxist.
+
+20
+00:01:00,680 --> 00:01:02,800
+This would be the main range of intellectual opinion
+
+21
+00:01:02,800 --> 00:01:05,240
+that you'd be getting during that time.
+
+22
+00:01:05,240 --> 00:01:09,400
+And so both of them agree that the distribution of resources
+
+23
+00:01:09,400 --> 00:01:12,240
+under capitalism is terrible and something ought to be done.
+
+24
+00:01:12,240 --> 00:01:14,680
+But the Marxist says, look, the problem
+
+25
+00:01:14,680 --> 00:01:16,560
+is inherent in the market itself.
+
+26
+00:01:16,560 --> 00:01:19,400
+We need to have communist revolution and markets
+
+27
+00:01:19,400 --> 00:01:22,080
+for all time, and then have the government go and ensure
+
+28
+00:01:22,080 --> 00:01:24,720
+a fair distribution forever.
+
+29
+00:01:24,720 --> 00:01:27,840
+And then, if you are a Keynesian liberal economist,
+
+30
+00:01:27,840 --> 00:01:31,360
+you whip out the second welfare theorem and say, wrong Marxist.
+
+31
+00:01:31,360 --> 00:01:33,720
+The real story is that markets are perfectly fine.
+
+32
+00:01:33,720 --> 00:01:36,360
+We just need to have massive redistribution once,
+
+33
+00:01:36,360 --> 00:01:39,680
+and then the free market is actually
+
+34
+00:01:39,680 --> 00:01:41,960
+going to give us just as egalitarian result as you want.
+
+35
+00:01:45,960 --> 00:01:47,880
+So within that framework of those
+
+36
+00:01:47,880 --> 00:01:49,460
+being the two sides that are arguing,
+
+37
+00:01:49,460 --> 00:01:51,680
+it's easier to see what the second welfare theorem is
+
+38
+00:01:51,680 --> 00:01:52,180
+doing.
+
+39
+00:01:52,180 --> 00:01:54,720
+It's shifting the blame from the market mechanism
+
+40
+00:01:54,720 --> 00:01:56,280
+to the endowment problem.
+
+41
+00:01:56,280 --> 00:01:58,680
+And just saying the problem is that endowments
+
+42
+00:01:58,680 --> 00:02:03,800
+were sufficiently equal, or actually, if they all
+
+43
+00:02:03,800 --> 00:02:07,120
+are, to some extent, they must be unequal in the right way.
+
+44
+00:02:07,120 --> 00:02:10,320
+So in particular, so if there are some people, for example,
+
+45
+00:02:10,320 --> 00:02:15,560
+who are, if there's someone who, I don't know what it could be,
+
+46
+00:02:15,560 --> 00:02:18,440
+someone who is just super low skilled.
+
+47
+00:02:18,440 --> 00:02:20,200
+Well, in that case, just equalizing
+
+48
+00:02:20,200 --> 00:02:23,480
+the regular physical commodities is not actually
+
+49
+00:02:23,480 --> 00:02:26,160
+going to equalize his life prospects, right?
+
+50
+00:02:26,160 --> 00:02:27,800
+Because suppose there's Bill Gates,
+
+51
+00:02:27,800 --> 00:02:31,200
+and then there's a guy who has $1 million for Bill Gates'
+
+52
+00:02:31,200 --> 00:02:32,800
+guilt.
+
+53
+00:02:32,800 --> 00:02:35,480
+So will it suffice just to go and take Bill Gates'
+
+54
+00:02:35,480 --> 00:02:37,760
+current possessions and then equalize them,
+
+55
+00:02:37,760 --> 00:02:39,520
+and then make sure that Bill Gates will
+
+56
+00:02:39,520 --> 00:02:41,400
+have no more than this guy?
+
+57
+00:02:41,400 --> 00:02:43,120
+Will that do it?
+
+58
+00:02:43,120 --> 00:02:44,600
+What's going to happen?
+
+59
+00:02:44,600 --> 00:02:46,320
+Imagine you take all of Bill Gates' stuff
+
+60
+00:02:46,320 --> 00:02:48,400
+and give it to the guy who's not very skilled.
+
+61
+00:02:48,400 --> 00:02:50,760
+Does that mean, what is almost certainly going
+
+62
+00:02:50,760 --> 00:02:54,680
+to happen within a few hours?
+
+63
+00:02:54,680 --> 00:02:58,240
+Bill Gates is going to earn some income, which
+
+64
+00:02:58,240 --> 00:03:01,000
+will very quickly allow him to start gaining.
+
+65
+00:03:01,000 --> 00:03:03,240
+And if he works hard enough, he'll be able to regain.
+
+66
+00:03:03,240 --> 00:03:04,680
+So actually, what you really need
+
+67
+00:03:04,680 --> 00:03:07,680
+is not even just to equalize the initial endowments.
+
+68
+00:03:07,680 --> 00:03:13,000
+You need to equalize the ownership of labor and skill,
+
+69
+00:03:13,000 --> 00:03:15,240
+which means you would, like strictly speaking,
+
+70
+00:03:15,240 --> 00:03:17,200
+the second buffer theorem with production
+
+71
+00:03:17,200 --> 00:03:20,000
+would require that low-skilled people would
+
+72
+00:03:20,000 --> 00:03:26,200
+get to own Bill Gates, that Bill Gates would not
+
+73
+00:03:26,200 --> 00:03:28,600
+automatically get 100% ownership of Bill Gates,
+
+74
+00:03:28,600 --> 00:03:32,040
+but rather other people would get to own shares in him.
+
+75
+00:03:32,040 --> 00:03:33,920
+And then similarly, he could have said, well,
+
+76
+00:03:33,920 --> 00:03:35,840
+we'll compensate you by giving you some shares
+
+77
+00:03:35,840 --> 00:03:36,760
+and some janitors.
+
+78
+00:03:36,760 --> 00:03:38,720
+So can't I just be a free man?
+
+79
+00:03:38,720 --> 00:03:40,720
+No, because that's inconsistent with getting
+
+80
+00:03:40,720 --> 00:03:42,560
+equal life prospects for everybody,
+
+81
+00:03:42,560 --> 00:03:45,080
+because you are of super high skills,
+
+82
+00:03:45,080 --> 00:03:46,560
+and other people don't.
+
+83
+00:03:46,560 --> 00:03:49,400
+So the second buffer theorem, though people often
+
+84
+00:03:49,400 --> 00:03:52,040
+think of it as just a matter of we just sort of equalize
+
+85
+00:03:52,040 --> 00:03:53,520
+the physical stuff once.
+
+86
+00:03:53,520 --> 00:03:55,480
+But it goes way beyond that, because it
+
+87
+00:03:55,480 --> 00:03:57,520
+requires an equalization of really everything
+
+88
+00:03:57,520 --> 00:04:00,680
+in order to get that result.
+
+89
+00:04:00,680 --> 00:04:01,180
+All right.
+
+90
+00:04:01,180 --> 00:04:03,440
+So it sounds like Marxism has the win.
+
+91
+00:04:03,440 --> 00:04:03,940
+Yes.
+
+92
+00:04:03,940 --> 00:04:05,040
+Right, that did.
+
+93
+00:04:05,040 --> 00:04:08,080
+Well, if you think about it, Marxism is saying, look,
+
+94
+00:04:08,080 --> 00:04:12,280
+we need to also equalize labor, by saying that some people,
+
+95
+00:04:12,280 --> 00:04:15,280
+by saying that, no, you don't just get to go and own
+
+96
+00:04:15,280 --> 00:04:16,440
+your own labor.
+
+97
+00:04:16,440 --> 00:04:18,120
+We all are part of a community, and you
+
+98
+00:04:18,120 --> 00:04:19,520
+have to labor for the community.
+
+99
+00:04:19,520 --> 00:04:20,840
+Yeah.
+
+100
+00:04:20,840 --> 00:04:21,760
+All right.
+
+101
+00:04:21,760 --> 00:04:24,040
+Now, if you're wondering, so what does it really show?
+
+102
+00:04:24,040 --> 00:04:27,560
+Well, there are institutions that would actually
+
+103
+00:04:27,560 --> 00:04:30,080
+be self-reversing in a way that the second welfare theorem
+
+104
+00:04:30,080 --> 00:04:31,520
+shows markets are not.
+
+105
+00:04:31,520 --> 00:04:33,720
+So think about democracy, where we
+
+106
+00:04:33,720 --> 00:04:36,600
+have two wolves and a sheep voting over lunch.
+
+107
+00:04:36,600 --> 00:04:38,000
+Classic case.
+
+108
+00:04:38,000 --> 00:04:40,320
+All right, so you might say, well, look,
+
+109
+00:04:40,320 --> 00:04:41,480
+here's what we'll do.
+
+110
+00:04:41,480 --> 00:04:43,600
+So we don't like the democratic outcome.
+
+111
+00:04:43,600 --> 00:04:45,960
+Let's just go and take most of the wolves' assets
+
+112
+00:04:45,960 --> 00:04:48,600
+and just give them to the sheep, and that'll solve the problem,
+
+113
+00:04:48,600 --> 00:04:50,040
+right?
+
+114
+00:04:50,040 --> 00:04:52,680
+So every time there's an election,
+
+115
+00:04:52,680 --> 00:04:54,080
+and the wolves keep voting to say
+
+116
+00:04:54,080 --> 00:04:55,840
+the sheep has to do whatever we say,
+
+117
+00:04:55,840 --> 00:04:58,880
+and the sheep gets outvoted again and again and again,
+
+118
+00:04:58,880 --> 00:05:00,320
+and says the problem is democracy,
+
+119
+00:05:00,320 --> 00:05:04,480
+you say, no, let's just go and take most of the wolves' stuff
+
+120
+00:05:04,480 --> 00:05:08,240
+and give it to the sheep, and then that'll be fine, right?
+
+121
+00:05:08,240 --> 00:05:10,480
+And the answer is, no, that won't be fine.
+
+122
+00:05:10,480 --> 00:05:11,960
+Suppose you expropriate the wolves,
+
+123
+00:05:11,960 --> 00:05:14,200
+give everything they own to the sheep,
+
+124
+00:05:14,200 --> 00:05:16,200
+and then you have another election.
+
+125
+00:05:16,200 --> 00:05:18,400
+What are the wolves going to immediately vote to do?
+
+126
+00:05:18,400 --> 00:05:19,480
+Take all their stuff back.
+
+127
+00:05:19,480 --> 00:05:20,680
+Give back what you just took.
+
+128
+00:05:20,680 --> 00:05:22,840
+So that is a case where the institution of democracy
+
+129
+00:05:22,840 --> 00:05:26,920
+actually is not amenable to simply changing
+
+130
+00:05:26,920 --> 00:05:29,240
+the endowments of assets, unless, of course,
+
+131
+00:05:29,240 --> 00:05:31,640
+you count the votes themselves as assets.
+
+132
+00:05:31,640 --> 00:05:32,840
+You'd have to go to the pipes.
+
+133
+00:05:32,840 --> 00:05:35,400
+To most people, that is, by definition, not democracy
+
+134
+00:05:35,400 --> 00:05:38,360
+anymore, if you can actually say the wolves have
+
+135
+00:05:38,360 --> 00:05:40,200
+to give up some of their votes to the sheep,
+
+136
+00:05:40,200 --> 00:05:41,160
+or parts of their votes.
+
+137
+00:05:41,160 --> 00:05:44,440
+So that's a case where the institution of democracy itself
+
+138
+00:05:44,440 --> 00:05:47,720
+will reverse what you try to do in order to fix it.
+
+139
+00:05:47,720 --> 00:05:49,480
+And what the second law of the theorem says
+
+140
+00:05:49,480 --> 00:05:51,320
+is that markets are not that way.
+
+141
+00:05:51,320 --> 00:05:55,680
+If you do a sufficiently extreme redistribution once,
+
+142
+00:05:55,680 --> 00:05:57,520
+it won't reverse itself.
+
+143
+00:05:57,520 --> 00:05:59,320
+Now, of course, in the real world,
+
+144
+00:05:59,320 --> 00:06:01,400
+the idea of people who like the second law of the theorem
+
+145
+00:06:01,400 --> 00:06:02,440
+imagine there's going to be something
+
+146
+00:06:02,440 --> 00:06:04,560
+like monthly redistribution, monthly transfer payments,
+
+147
+00:06:04,560 --> 00:06:06,480
+and redistributive taxes, and stuff like that.
+
+148
+00:06:06,480 --> 00:06:09,600
+But the theorem itself is really just a once and for all thing.
+
+149
+00:06:09,600 --> 00:06:11,280
+If you're wondering, why in the real world
+
+150
+00:06:11,280 --> 00:06:13,200
+don't we just do once and for all?
+
+151
+00:06:13,200 --> 00:06:15,080
+Again, probably four reasons.
+
+152
+00:06:15,080 --> 00:06:16,720
+We'll tell you the kind of reasons
+
+153
+00:06:16,720 --> 00:06:18,560
+we'll talk about after the midterm, namely,
+
+154
+00:06:18,560 --> 00:06:21,640
+some of the people realize that a lot of people who are poor,
+
+155
+00:06:21,640 --> 00:06:23,640
+if you did give them one giant lump sum,
+
+156
+00:06:23,640 --> 00:06:25,080
+they would go and immediately blow
+
+157
+00:06:25,080 --> 00:06:28,120
+it all on the lottery, or racetrack, or alcohol.
+
+158
+00:06:28,120 --> 00:06:33,160
+And then, once again, you'd be back to a very unequal world.
+
+159
+00:06:33,160 --> 00:06:34,520
+In general, I hate documentaries.
+
+160
+00:06:34,520 --> 00:06:37,960
+I find them very boring, and the plots are bad.
+
+161
+00:06:37,960 --> 00:06:41,120
+But one of my very favorite documentaries,
+
+162
+00:06:41,120 --> 00:06:42,960
+which violates this, there's actually
+
+163
+00:06:42,960 --> 00:06:45,000
+a documentary where they just gave $100,000 cash
+
+164
+00:06:45,000 --> 00:06:47,000
+to a homeless guy, and then followed him around
+
+165
+00:06:47,000 --> 00:06:48,880
+to see what he did.
+
+166
+00:06:48,880 --> 00:06:53,960
+And he blew through that money in a matter of maybe two months.
+
+167
+00:06:53,960 --> 00:06:55,440
+And he spent essentially none of it
+
+168
+00:06:55,440 --> 00:06:56,960
+on any of his long-term plans.
+
+169
+00:06:56,960 --> 00:06:59,640
+Like he said, well, my teeth are rotting out of my mouth,
+
+170
+00:06:59,640 --> 00:07:00,920
+and they were.
+
+171
+00:07:00,920 --> 00:07:02,480
+And he said, so what I'm going to do
+
+172
+00:07:02,480 --> 00:07:04,520
+is I know if I just go down to Mexico for $2,000,
+
+173
+00:07:04,520 --> 00:07:06,480
+I can get all my teeth fixed, and this is really
+
+174
+00:07:06,480 --> 00:07:08,040
+a horrible problem.
+
+175
+00:07:08,040 --> 00:07:10,480
+He blew through all that money before he got even
+
+176
+00:07:10,480 --> 00:07:12,920
+thought about buying a bus ticket to get to Mexico.
+
+177
+00:07:12,920 --> 00:07:14,920
+None of that happened.
+
+178
+00:07:14,920 --> 00:07:17,240
+And actually, a lot of what he spent the money on
+
+179
+00:07:17,240 --> 00:07:21,360
+was on gifts, and not just to poor other homeless people.
+
+180
+00:07:21,360 --> 00:07:24,360
+He would just go and just see someone on the street who
+
+181
+00:07:24,360 --> 00:07:25,520
+was clearly doing fine.
+
+182
+00:07:25,520 --> 00:07:27,080
+He said, I want to buy that guy a car,
+
+183
+00:07:27,080 --> 00:07:28,920
+and all kinds of weird stuff.
+
+184
+00:07:28,920 --> 00:07:30,720
+But anyway, I looked at that and said, wow,
+
+185
+00:07:30,720 --> 00:07:33,160
+that's a pretty interesting movie anyway.
+
+186
+00:07:33,160 --> 00:07:35,160
+I get to say, well, on the one hand,
+
+187
+00:07:35,160 --> 00:07:37,240
+you might say, well, if you'd spent it prudently,
+
+188
+00:07:37,240 --> 00:07:38,320
+that wouldn't be a movie.
+
+189
+00:07:38,320 --> 00:07:39,480
+You can still get a movie out of that.
+
+190
+00:07:39,480 --> 00:07:40,640
+That'd still be interesting.
+
+191
+00:07:40,640 --> 00:07:42,320
+In any case, how many times do you
+
+192
+00:07:42,320 --> 00:07:44,440
+think that they ran this experiment?
+
+193
+00:07:44,440 --> 00:07:47,960
+How many $100,000 in cash did they give to homeless people
+
+194
+00:07:47,960 --> 00:07:50,480
+do you think the guys had before they finally
+
+195
+00:07:50,480 --> 00:07:53,320
+came up with a story that was worth filming?
+
+196
+00:07:53,320 --> 00:07:54,480
+I bet they only did it once.
+
+197
+00:07:54,480 --> 00:07:56,640
+So I don't think they were just going and trying it
+
+198
+00:07:56,640 --> 00:07:59,440
+over and over until finally they found a train wreck.
+
+199
+00:07:59,440 --> 00:08:02,400
+I think they found a train wreck the first time.
+
+200
+00:08:02,400 --> 00:08:04,240
+Do you remember the night that doctor did it?
+
+201
+00:08:04,240 --> 00:08:05,200
+I did blog it.
+
+202
+00:08:05,200 --> 00:08:07,320
+So if you just go to Econlog and just
+
+203
+00:08:07,320 --> 00:08:12,960
+Google homeless and lined by cash or something like that.
+
+204
+00:08:12,960 --> 00:08:14,040
+Yeah, I just Googled it.
+
+205
+00:08:14,040 --> 00:08:15,000
+Reversal of fortune?
+
+206
+00:08:15,000 --> 00:08:16,040
+Is that how I'm familiar?
+
+207
+00:08:16,040 --> 00:08:17,520
+Yeah, that's it.
+
+208
+00:08:17,520 --> 00:08:20,320
+Yep, reversal of fortune.
+
+209
+00:08:20,320 --> 00:08:21,320
+Reversal of reversal.
+
+210
+00:08:26,320 --> 00:08:28,320
+All right.
+
+211
+00:08:28,320 --> 00:08:30,120
+So the second law of the theorem,
+
+212
+00:08:30,120 --> 00:08:34,200
+very important if it is a debate between the liberal
+
+213
+00:08:34,200 --> 00:08:36,840
+comments of the 1950s and the Marxist economists.
+
+214
+00:08:36,840 --> 00:08:38,480
+Of course, if you're someone that is just
+
+215
+00:08:38,480 --> 00:08:41,160
+sympathetic to market distribution of income anyway,
+
+216
+00:08:41,160 --> 00:08:44,000
+then you may say, well, I don't see what the big deal is.
+
+217
+00:08:44,000 --> 00:08:46,280
+Or if you're also someone who knows anything
+
+218
+00:08:46,280 --> 00:08:48,040
+about the history of inequality and says,
+
+219
+00:08:48,040 --> 00:08:51,280
+look, the main inequalities are caused by governments going
+
+220
+00:08:51,280 --> 00:08:53,920
+and looting and enslaving the rest of the population.
+
+221
+00:08:53,920 --> 00:08:56,120
+Get rid of that, and the objectionable inequality is
+
+222
+00:08:56,120 --> 00:08:57,080
+gone.
+
+223
+00:08:57,080 --> 00:09:00,240
+Or if you are familiar with the current global distribution
+
+224
+00:09:00,240 --> 00:09:03,000
+income, the single main determinant
+
+225
+00:09:03,000 --> 00:09:04,400
+of your income in the modern world
+
+226
+00:09:04,400 --> 00:09:08,280
+is which country you happen to be born in.
+
+227
+00:09:08,280 --> 00:09:09,880
+And why is that?
+
+228
+00:09:09,880 --> 00:09:12,320
+Because of immigration restrictions, of course.
+
+229
+00:09:12,320 --> 00:09:14,880
+Because all you really need to do in this world,
+
+230
+00:09:14,880 --> 00:09:17,240
+if you are an able-bodied adult, is
+
+231
+00:09:17,240 --> 00:09:19,400
+to go and get steers passes to rich country
+
+232
+00:09:19,400 --> 00:09:20,600
+and get a job shedding shoes.
+
+233
+00:09:20,600 --> 00:09:23,640
+And you are no longer anywhere near absolute poverty
+
+234
+00:09:23,640 --> 00:09:25,920
+as it's globally defined.
+
+235
+00:09:25,920 --> 00:09:26,960
+Why doesn't this happen?
+
+236
+00:09:26,960 --> 00:09:28,400
+Because it's illegal.
+
+237
+00:09:28,400 --> 00:09:30,560
+How can this be with all the illegal immigration?
+
+238
+00:09:30,560 --> 00:09:31,960
+The amount of illegal immigration
+
+239
+00:09:31,960 --> 00:09:33,680
+is a pittance compared to the amount that
+
+240
+00:09:33,680 --> 00:09:35,560
+would happen if it were legal.
+
+241
+00:09:35,560 --> 00:09:39,600
+So if you say there's like 11 million illegal immigrants
+
+242
+00:09:39,600 --> 00:09:42,600
+currently in the US, so anyone can come,
+
+243
+00:09:42,600 --> 00:09:45,840
+how many do you think would be here if anybody could come?
+
+244
+00:09:45,840 --> 00:09:47,800
+Well, there's a lot of estimates,
+
+245
+00:09:47,800 --> 00:09:50,040
+but generally in the hundreds of millions,
+
+246
+00:09:50,040 --> 00:09:52,760
+saying that the laws that exist, whatever you think about them,
+
+247
+00:09:52,760 --> 00:09:58,800
+are way over 90% effective in preventing immigration.
+
+248
+00:09:58,800 --> 00:10:01,240
+OK, so questions, questions.
+
+249
+00:10:01,240 --> 00:10:04,280
+All right, so that's the first and second level of theorems.
+
+250
+00:10:04,280 --> 00:10:10,040
+All right, now moving on to something more fun stuff.
+
+251
+00:10:10,040 --> 00:10:13,160
+All right, so Aaron DeBrow contingent claims markets.
+
+252
+00:10:13,160 --> 00:10:15,840
+So general equilibrium seems pretty general
+
+253
+00:10:15,840 --> 00:10:17,880
+because you've got a model that fits
+
+254
+00:10:17,880 --> 00:10:21,360
+the economy with any number of people, any number of goods.
+
+255
+00:10:21,360 --> 00:10:23,880
+So that sounds like a big deal.
+
+256
+00:10:23,880 --> 00:10:26,380
+But Aaron DeBrow noticed that it's actually way more general
+
+257
+00:10:26,380 --> 00:10:28,800
+than it seems on the surface because general equilibrium
+
+258
+00:10:28,800 --> 00:10:31,200
+can handle intertemporal exchange.
+
+259
+00:10:31,200 --> 00:10:34,560
+It can handle a trade of dollars today for dollars
+
+260
+00:10:34,560 --> 00:10:36,800
+and 20 years ago, for bananas today,
+
+261
+00:10:36,800 --> 00:10:38,800
+for squashes in three minutes.
+
+262
+00:10:38,800 --> 00:10:41,280
+All of these intertemporal trades can be handled.
+
+263
+00:10:41,280 --> 00:10:43,800
+All you need to do is take the model
+
+264
+00:10:43,800 --> 00:10:48,120
+and then say let's define good k at time t
+
+265
+00:10:48,120 --> 00:10:52,200
+as being a different good than good k at time t plus 1.
+
+266
+00:10:52,200 --> 00:10:55,680
+So let's just go and multiply all the physical goods
+
+267
+00:10:55,680 --> 00:10:58,520
+by all the possible times in which those goods could exist
+
+268
+00:10:58,520 --> 00:11:00,960
+and then rescale the model so that no longer
+
+269
+00:11:00,960 --> 00:11:01,960
+is the number of goods k.
+
+270
+00:11:01,960 --> 00:11:06,160
+It's equal to k times the number of possible time periods.
+
+271
+00:11:06,160 --> 00:11:07,920
+So in other words, instead of trading current goods,
+
+272
+00:11:07,920 --> 00:11:09,780
+you'd be trading slips of paper with promises
+
+273
+00:11:09,780 --> 00:11:12,640
+to deliver any good at any time period.
+
+274
+00:11:12,640 --> 00:11:16,200
+And now we've got intertemporal markets covered.
+
+275
+00:11:16,200 --> 00:11:19,680
+So I could go and see actually I wrote these earlier.
+
+276
+00:11:19,680 --> 00:11:21,480
+So I could give you a piece of paper
+
+277
+00:11:21,480 --> 00:11:24,640
+that is good for a bundle of bananas in 2018
+
+278
+00:11:24,640 --> 00:11:26,440
+and I could sell this to you.
+
+279
+00:11:26,440 --> 00:11:29,760
+Now obviously, I can't sell you 2018 bananas right now
+
+280
+00:11:29,760 --> 00:11:30,640
+in a physical sense.
+
+281
+00:11:30,640 --> 00:11:33,160
+I can't go and say here are some 2018 bananas.
+
+282
+00:11:33,160 --> 00:11:35,800
+If I handed you some bananas, right now
+
+283
+00:11:35,800 --> 00:11:37,320
+they wouldn't be 2018 bananas.
+
+284
+00:11:37,320 --> 00:11:40,400
+They'd be 2017 bananas.
+
+285
+00:11:40,400 --> 00:11:43,600
+But I could give you a piece of paper, which is good for a bushel
+
+286
+00:11:43,600 --> 00:11:45,280
+of bananas in 2018.
+
+287
+00:11:45,280 --> 00:11:46,860
+And there's a certain amount of money
+
+288
+00:11:46,860 --> 00:11:48,440
+if you're willing to pay me for that.
+
+289
+00:11:51,400 --> 00:11:53,200
+Furthermore, general equilibrium can
+
+290
+00:11:53,200 --> 00:11:55,360
+handle an arbitrary amount of uncertainty.
+
+291
+00:11:55,360 --> 00:11:57,560
+So think about good k if x happens
+
+292
+00:11:57,560 --> 00:12:02,720
+as being a different good than if not x happens.
+
+293
+00:12:02,720 --> 00:12:06,080
+And actually, we can go and list every possible event,
+
+294
+00:12:06,080 --> 00:12:09,000
+every possible good, multiply those two things together,
+
+295
+00:12:09,000 --> 00:12:12,080
+and then we have a new number of goods.
+
+296
+00:12:12,080 --> 00:12:14,600
+And we could do it number of physical goods
+
+297
+00:12:14,600 --> 00:12:17,200
+times number of time periods times number
+
+298
+00:12:17,200 --> 00:12:18,720
+of states of the world.
+
+299
+00:12:18,720 --> 00:12:21,800
+And then that could come up to some enormous number
+
+300
+00:12:21,800 --> 00:12:24,280
+when you multiply those three variables together and say
+
+301
+00:12:24,280 --> 00:12:25,840
+that's the number of goods.
+
+302
+00:12:25,840 --> 00:12:28,880
+And then plug that into Arrow to Brow.
+
+303
+00:12:28,880 --> 00:12:31,720
+So I can have an endowment of bananas in 2018
+
+304
+00:12:31,720 --> 00:12:34,080
+if average temperatures exceed 80 degrees.
+
+305
+00:12:34,080 --> 00:12:35,880
+And then I can have another piece of paper
+
+306
+00:12:35,880 --> 00:12:38,120
+that's good for those bananas if average temperatures
+
+307
+00:12:38,120 --> 00:12:40,120
+are less than 80 degrees.
+
+308
+00:12:40,120 --> 00:12:42,240
+And then we could go and sell all these little slips
+
+309
+00:12:42,240 --> 00:12:45,200
+of paper, good under certain conditions,
+
+310
+00:12:45,200 --> 00:12:48,800
+otherwise non-joy.
+
+311
+00:12:48,800 --> 00:12:52,720
+When you have a coupon saying only good on these dates,
+
+312
+00:12:52,720 --> 00:12:55,640
+only good with the purchase of a hamburger,
+
+313
+00:12:55,640 --> 00:12:57,800
+so you've seen coupons like that.
+
+314
+00:12:57,800 --> 00:13:00,000
+So again, you can imagine going and auctioning off
+
+315
+00:13:00,000 --> 00:13:02,440
+all kinds of slips of paper, good for different commodities
+
+316
+00:13:02,440 --> 00:13:07,480
+at different times under different circumstances.
+
+317
+00:13:07,480 --> 00:13:09,840
+And in fact, if a piece of paper represents
+
+318
+00:13:09,840 --> 00:13:11,560
+an unconditional good, then I could
+
+319
+00:13:11,560 --> 00:13:14,080
+go and separate the piece of paper
+
+320
+00:13:14,080 --> 00:13:16,320
+into 1,000 different regions, cut them all up
+
+321
+00:13:16,320 --> 00:13:17,820
+with a pair of scissors, and then I
+
+322
+00:13:17,820 --> 00:13:20,240
+could sell each one for, of course,
+
+323
+00:13:20,240 --> 00:13:25,680
+much less than the value of the good under all conditions.
+
+324
+00:13:25,680 --> 00:13:28,200
+So anyway, the idea is that in both cases,
+
+325
+00:13:28,200 --> 00:13:30,560
+the complex problem is isomorphic
+
+326
+00:13:30,560 --> 00:13:31,760
+to the standard problem.
+
+327
+00:13:31,760 --> 00:13:33,880
+It's mathematically identical.
+
+328
+00:13:33,880 --> 00:13:35,680
+So on the surface, it looks different.
+
+329
+00:13:35,680 --> 00:13:37,120
+But when you really think about it,
+
+330
+00:13:37,120 --> 00:13:38,520
+there's no fundamental difference
+
+331
+00:13:38,520 --> 00:13:42,320
+between the complex problem and the simple problem.
+
+332
+00:13:42,320 --> 00:13:44,480
+And therefore, all the standard results go through.
+
+333
+00:13:44,480 --> 00:13:47,280
+All right, now, I would say that none of this
+
+334
+00:13:47,280 --> 00:13:50,720
+would impress me if it weren't for an incredible application
+
+335
+00:13:50,720 --> 00:13:55,560
+of this idea, which is the idea of the betting market.
+
+336
+00:13:59,360 --> 00:14:01,120
+Right here at George Mason, we have
+
+337
+00:14:01,120 --> 00:14:06,280
+one of the world's most prominent scholars
+
+338
+00:14:06,280 --> 00:14:07,080
+on betting markets.
+
+339
+00:14:07,080 --> 00:14:08,360
+That's Robin Hanson.
+
+340
+00:14:08,360 --> 00:14:10,520
+So he really was one of the earliest people
+
+341
+00:14:10,520 --> 00:14:12,320
+to talk about the ideas of betting markets.
+
+342
+00:14:12,320 --> 00:14:14,400
+He's been involved in some of the key experiments
+
+343
+00:14:14,400 --> 00:14:16,120
+with betting markets.
+
+344
+00:14:16,120 --> 00:14:20,760
+The idea of a betting market is that I could actually
+
+345
+00:14:20,760 --> 00:14:23,960
+go and say, look, here is a asset which
+
+346
+00:14:23,960 --> 00:14:28,880
+will pay $1 if Donald Trump wins re-election.
+
+347
+00:14:28,880 --> 00:14:32,000
+And then we can go and sell it.
+
+348
+00:14:32,000 --> 00:14:34,880
+And we can look at that market price.
+
+349
+00:14:34,880 --> 00:14:38,640
+And we can then go and use that market price
+
+350
+00:14:38,640 --> 00:14:40,520
+to estimate what is the actual market
+
+351
+00:14:40,520 --> 00:14:42,880
+estimate of the probability of this event happening.
+
+352
+00:14:42,880 --> 00:14:44,680
+And we can do this for anything.
+
+353
+00:14:44,680 --> 00:14:48,240
+We could go and have all kinds of submarkets.
+
+354
+00:14:48,240 --> 00:14:52,440
+There is, so what is it?
+
+355
+00:14:52,440 --> 00:14:55,560
+There's the price of this asset.
+
+356
+00:14:55,560 --> 00:14:58,000
+So it says this pays $1 if Donald Trump wins,
+
+357
+00:14:58,000 --> 00:15:02,200
+if he goes and kills more than 1,000 people in wars.
+
+358
+00:15:02,200 --> 00:15:03,320
+And there's another asset.
+
+359
+00:15:03,320 --> 00:15:06,880
+This is the price of $1 if he gets re-elected,
+
+360
+00:15:06,880 --> 00:15:09,760
+if he kills less than or equal to 1,000 people.
+
+361
+00:15:09,760 --> 00:15:12,560
+And we could have both these assets circulating.
+
+362
+00:15:12,560 --> 00:15:14,640
+We could have thousands of assets circulating.
+
+363
+00:15:14,640 --> 00:15:18,360
+All with very precise conditions of a payoff.
+
+364
+00:15:18,360 --> 00:15:21,200
+And we can go and do a little bit of math
+
+365
+00:15:21,200 --> 00:15:24,840
+to use all this to get a market estimate of what people
+
+366
+00:15:24,840 --> 00:15:27,120
+actually think.
+
+367
+00:15:27,120 --> 00:15:28,880
+Now, of course, the fact that you get a market estimate
+
+368
+00:15:28,880 --> 00:15:30,920
+doesn't mean the market estimate is good.
+
+369
+00:15:30,920 --> 00:15:33,760
+Could be the markets are run by idiots.
+
+370
+00:15:33,760 --> 00:15:36,800
+But if you talk to Robin or read some of his research,
+
+371
+00:15:36,800 --> 00:15:39,520
+there is a big literature to try to see
+
+372
+00:15:39,520 --> 00:15:42,280
+how good are betting markets as actual predictors
+
+373
+00:15:42,280 --> 00:15:44,320
+of future events.
+
+374
+00:15:44,320 --> 00:15:47,160
+And the answer is, I guess there's two answers.
+
+375
+00:15:47,160 --> 00:15:49,280
+One is, they're not that great.
+
+376
+00:15:49,280 --> 00:15:52,040
+Second of all, they're better than anything else.
+
+377
+00:15:52,040 --> 00:15:56,880
+So they are the least bad method of predicting future events.
+
+378
+00:15:56,880 --> 00:15:58,480
+And how good are they?
+
+379
+00:15:58,480 --> 00:16:00,400
+There's all kinds of weird results out there.
+
+380
+00:16:00,400 --> 00:16:03,800
+Like, so betting markets for, well actually,
+
+381
+00:16:03,800 --> 00:16:06,000
+so this is actually, like, commodities markets
+
+382
+00:16:06,000 --> 00:16:09,320
+for oranges, which are essentially a betting
+
+383
+00:16:09,320 --> 00:16:11,720
+market on the price of oranges.
+
+384
+00:16:11,720 --> 00:16:13,800
+These predict the weather in Florida
+
+385
+00:16:13,800 --> 00:16:17,720
+above and beyond all meteorological forecasts.
+
+386
+00:16:17,720 --> 00:16:19,560
+So you could know everything meteorologists
+
+387
+00:16:19,560 --> 00:16:21,440
+have to say about the weather in Florida.
+
+388
+00:16:21,440 --> 00:16:23,760
+And then you go and you get a prediction of the weather.
+
+389
+00:16:23,760 --> 00:16:26,680
+And then you go and you look at the market price.
+
+390
+00:16:26,680 --> 00:16:28,080
+And of course, with good weather,
+
+391
+00:16:28,080 --> 00:16:29,560
+you expect there to be low prices of oranges.
+
+392
+00:16:29,560 --> 00:16:30,960
+With bad prices, you expect there
+
+393
+00:16:30,960 --> 00:16:32,600
+to be high prices of oranges in Florida.
+
+394
+00:16:32,600 --> 00:16:34,600
+Bad Florida weather, that is.
+
+395
+00:16:34,600 --> 00:16:38,040
+And it gives you additional predictive value there.
+
+396
+00:16:38,040 --> 00:16:40,320
+So looking at that commodity market,
+
+397
+00:16:40,320 --> 00:16:44,640
+that tells you more than all the meteorologists know.
+
+398
+00:16:44,640 --> 00:16:46,480
+Weird.
+
+399
+00:16:46,480 --> 00:16:49,640
+And many other experiments along these lines,
+
+400
+00:16:49,640 --> 00:16:53,120
+all coming down to if you are limited to information
+
+401
+00:16:53,120 --> 00:16:56,240
+that you actually possess, that human beings have,
+
+402
+00:16:56,240 --> 00:16:58,200
+and you want to go and make a prediction,
+
+403
+00:16:58,200 --> 00:17:00,000
+you can only have one piece of information,
+
+404
+00:17:00,000 --> 00:17:04,120
+betting markets are the best thing you can get.
+
+405
+00:17:04,120 --> 00:17:07,880
+Now, broadband is very famously associated with not just
+
+406
+00:17:07,880 --> 00:17:13,440
+betting markets, but the terrorism betting market.
+
+407
+00:17:13,440 --> 00:17:15,120
+Right, yes, there was.
+
+408
+00:17:15,120 --> 00:17:17,800
+It was not, of course, called the terrorism betting market.
+
+409
+00:17:17,800 --> 00:17:21,920
+And the betting market was not only about terrorism.
+
+410
+00:17:21,920 --> 00:17:24,160
+But it was about terrorism.
+
+411
+00:17:24,160 --> 00:17:27,280
+Now, if you talk to Robin, he will dispute that last claim
+
+412
+00:17:27,280 --> 00:17:28,600
+and with the following argument.
+
+413
+00:17:28,600 --> 00:17:31,000
+He said, look, a terrorism betting market
+
+414
+00:17:31,000 --> 00:17:34,360
+would mean that we were betting on specific terrorist attacks.
+
+415
+00:17:34,360 --> 00:17:35,480
+But we weren't doing that.
+
+416
+00:17:35,480 --> 00:17:37,720
+We were only betting on things like overall terrorist
+
+417
+00:17:37,720 --> 00:17:39,720
+fatalities in a year.
+
+418
+00:17:39,720 --> 00:17:43,280
+That's not a terrorism betting market, is it?
+
+419
+00:17:43,280 --> 00:17:46,120
+This is the case where I tell Robin, you are a genius,
+
+420
+00:17:46,120 --> 00:17:49,800
+but you don't understand any normal human being.
+
+421
+00:17:49,800 --> 00:17:52,040
+To any normal human being, of course, your distinction
+
+422
+00:17:52,040 --> 00:17:55,320
+makes no difference at all if human lives are being bet on,
+
+423
+00:17:55,320 --> 00:17:57,720
+and whether it's a specific event or an aggregate
+
+424
+00:17:57,720 --> 00:17:59,000
+or whatever, it doesn't matter.
+
+425
+00:17:59,000 --> 00:18:00,420
+That's a terrorism betting market,
+
+426
+00:18:00,420 --> 00:18:01,580
+and it's offensive to them.
+
+427
+00:18:04,720 --> 00:18:06,040
+Sometimes Robin goes, OK.
+
+428
+00:18:06,040 --> 00:18:07,840
+And sometimes he's like, I don't see that.
+
+429
+00:18:07,840 --> 00:18:10,000
+Well, I don't know.
+
+430
+00:18:10,000 --> 00:18:11,840
+Do you have to go and find some normal people
+
+431
+00:18:11,840 --> 00:18:13,580
+and talk to them to see what they'll say?
+
+432
+00:18:13,580 --> 00:18:15,600
+Because they will say this.
+
+433
+00:18:15,600 --> 00:18:16,560
+You can bet on it.
+
+434
+00:18:19,360 --> 00:18:23,740
+But anyway, so he was part of some betting markets
+
+435
+00:18:23,740 --> 00:18:25,760
+where you bet on the total number of fatalities
+
+436
+00:18:25,760 --> 00:18:26,840
+from terrorism in a year.
+
+437
+00:18:29,400 --> 00:18:32,720
+Now, what's the point of this supposed to be?
+
+438
+00:18:32,720 --> 00:18:34,320
+Well, first of all, to get an estimate
+
+439
+00:18:34,320 --> 00:18:37,440
+of how bad terrorism is going to be,
+
+440
+00:18:37,440 --> 00:18:40,080
+and then furthermore, as I was suggesting,
+
+441
+00:18:40,080 --> 00:18:44,280
+you can go and create submarkets to try to find out,
+
+442
+00:18:44,280 --> 00:18:47,400
+is a government policy going to make terrorism better or worse?
+
+443
+00:18:47,400 --> 00:18:49,040
+So you could say terrorism fatalities,
+
+444
+00:18:49,040 --> 00:18:51,480
+if we invade Iraq in 2003, terrorism fatalities
+
+445
+00:18:51,480 --> 00:18:54,480
+if we don't invade Iraq in 2003, and do a little bit of math,
+
+446
+00:18:54,480 --> 00:18:56,960
+and then you could actually come up with a market estimate
+
+447
+00:18:56,960 --> 00:18:59,240
+about whether a given course of action
+
+448
+00:18:59,240 --> 00:19:01,560
+is actually going to be an effective way of dealing
+
+449
+00:19:01,560 --> 00:19:04,320
+with the problem or counterproductive or have no
+
+450
+00:19:04,320 --> 00:19:04,820
+effect.
+
+451
+00:19:04,820 --> 00:19:05,320
+I get it.
+
+452
+00:19:05,320 --> 00:19:08,320
+It's like if you were actually a terrorist,
+
+453
+00:19:08,320 --> 00:19:10,600
+it would make a lot of sense to get on this market.
+
+454
+00:19:10,600 --> 00:19:11,320
+Absolutely.
+
+455
+00:19:11,320 --> 00:19:14,000
+So that was one of the main reasons
+
+456
+00:19:14,000 --> 00:19:17,800
+why this was shut down in two days.
+
+457
+00:19:17,800 --> 00:19:20,840
+However, as you might guess, there
+
+458
+00:19:20,840 --> 00:19:22,680
+were very smart people involved who
+
+459
+00:19:22,680 --> 00:19:24,840
+thought of that and 1,000 other objections,
+
+460
+00:19:24,840 --> 00:19:28,000
+and they worked it all into the market in order to deal with it.
+
+461
+00:19:28,000 --> 00:19:30,640
+There were many things they did in order to avoid this problem.
+
+462
+00:19:30,640 --> 00:19:33,180
+First of all, to participate in the terrorism betting market,
+
+463
+00:19:33,180 --> 00:19:35,600
+you had to be registered with the CIA under your real name,
+
+464
+00:19:35,600 --> 00:19:37,960
+or you could never collect any money.
+
+465
+00:19:37,960 --> 00:19:38,480
+All right.
+
+466
+00:19:38,480 --> 00:19:41,440
+So what this meant is if you bet on terrorism
+
+467
+00:19:41,440 --> 00:19:44,000
+and you made a ton of money, while you would be paid,
+
+468
+00:19:44,000 --> 00:19:46,120
+there would be a very thorough investigation of you
+
+469
+00:19:46,120 --> 00:19:47,480
+to see whether you would possibly
+
+470
+00:19:47,480 --> 00:19:49,840
+have anything to do with it.
+
+471
+00:19:49,840 --> 00:19:52,280
+Interestingly enough, after the 9-11 attacks,
+
+472
+00:19:52,280 --> 00:19:53,820
+part of what the 9-11 Commission did
+
+473
+00:19:53,820 --> 00:19:58,800
+was to look into whether any investment strategies appeared
+
+474
+00:19:58,800 --> 00:20:01,560
+to be based on prior knowledge of the event.
+
+

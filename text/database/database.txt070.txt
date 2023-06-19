@@ -1,0 +1,27 @@
+3.  There are two islands with equal numbers of agents.  All agents live for two 
+periods and are endowed with 1 unit of a co nsumption good in period 1 and 1 
+unit  in period 2.  The period 1 good spoils if not consumed in period 1.  On the 
+Island #1, agents have U=ln c 1; on Island #2, agents have U=ln c 1 + ln c 2. 
+ 
+True, False, and Explain:  If trade between islands is possible, the interest 
+rate will exceed 50%.   If trade betwe en islands is not possible, the interest 
+rate on Island #1 will exceed the interest rate on Island #2 by less than 100 
+percentage -points.   
+
+FALSE.  With trade, the interest rate will indeed exceed 50%.  Using the GE formula:  
+ 
+31*5. 1*01*5. 1*1
+21
+cc
+pp
+, an i nterest rate of 200%.  However, with isolated islands, Island #1 will 
+have an infinite interest rate (since no one values c 2), and Island #2 will have a 0% interest rate 
+(since the two goods are equally abundant and equally valued).  Thus, Island #1's inte rest rate 
+infinitely exceeds Island #2's. 
+ 
+Questions 4 and 5  refer to the following game:    
+ Trust  Doubt  
+Truth  2,2  0,0  
+Lie 4,-2 -2,0  
+ 
+ 

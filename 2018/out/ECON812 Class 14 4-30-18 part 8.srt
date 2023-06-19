@@ -1,0 +1,601 @@
+1
+00:00:00,000 --> 00:00:05,000
+My dad was an engineer, so he was a beaver about the proper hierarchy of the world.
+
+2
+00:00:05,000 --> 00:00:08,000
+I was tempted to say, well, what should be done for this engineer?
+
+3
+00:00:08,000 --> 00:00:12,000
+Should there be a program to give sub-slave houses to engineers?
+
+4
+00:00:12,000 --> 00:00:14,000
+They're like, what are you talking about?
+
+5
+00:00:14,000 --> 00:00:17,000
+I know he said, yeah, you should let people build more houses.
+
+6
+00:00:17,000 --> 00:00:19,000
+No, you should let there be more traffic.
+
+7
+00:00:19,000 --> 00:00:23,000
+Well, what do you want from me?
+
+8
+00:00:23,000 --> 00:00:33,000
+Anyway, even smart people lose their intelligence, they lose lots of IQ points when they deliberate on political and non-questions.
+
+9
+00:00:33,000 --> 00:00:36,000
+They approach them in this very religious way.
+
+10
+00:00:36,000 --> 00:00:38,000
+And so I say voter rationality is two things.
+
+11
+00:00:38,000 --> 00:00:46,000
+It's plausible in theory because the cost is so low, and when we go and just do very simple tests, we can see huge amounts of it.
+
+12
+00:00:46,000 --> 00:00:49,000
+So, looking pretty good.
+
+13
+00:00:49,000 --> 00:00:56,000
+Now, Whitman likes to go and offer a challenge to critics, and he says, tell me the asymmetry between politics and markets.
+
+14
+00:00:56,000 --> 00:01:01,000
+Why aren't they basically just two different ways that people get what they want?
+
+15
+00:01:01,000 --> 00:01:03,000
+With similar efficiency properties.
+
+16
+00:01:03,000 --> 00:01:09,000
+Why would it be that shopping for policies is worse than shopping for groceries?
+
+17
+00:01:09,000 --> 00:01:15,000
+And my answer there is there's a big asymmetry, which is incentives for rationality.
+
+18
+00:01:15,000 --> 00:01:19,000
+So in markets, people at least try to use some common sense.
+
+19
+00:01:19,000 --> 00:01:23,000
+They don't know everything, in fact they often know very little, but at least there's common sense.
+
+20
+00:01:23,000 --> 00:01:25,000
+Normally.
+
+21
+00:01:25,000 --> 00:01:27,000
+And not forgetting, but for other stuff.
+
+22
+00:01:27,000 --> 00:01:34,000
+So I'm not saying common sense is always operative, but in general, consumers have common sense, and I do play the game when I go to the grocery store,
+
+23
+00:01:34,000 --> 00:01:37,000
+of just eavesdropping on people talking.
+
+24
+00:01:37,000 --> 00:01:40,000
+Even people who I think would do terribly on economics exam,
+
+25
+00:01:40,000 --> 00:01:45,000
+they're very subtle comparisons, saying this one looks better, but you get more per ounce.
+
+26
+00:01:45,000 --> 00:01:49,000
+If you only look at it like that, you only look at the more expensive, but you get more per ounce this way, so actually it's cheaper.
+
+27
+00:01:49,000 --> 00:01:54,000
+Or saying yes, this one is ten cents more per ounce, but the quality is much better and it lasts longer.
+
+28
+00:01:54,000 --> 00:02:01,000
+Comparisons that are so much more thoughtful than anything they would ever make for any government policy.
+
+29
+00:02:01,000 --> 00:02:06,000
+I mean, I can't imagine a person like this saying, look, the Iraq war was better for Iraq, but worse for Syria.
+
+30
+00:02:06,000 --> 00:02:11,000
+You never hear an old person say, make a distinction that fine or subtle.
+
+31
+00:02:11,000 --> 00:02:14,000
+You might say, that's not that fine or subtle. Exactly.
+
+32
+00:02:14,000 --> 00:02:19,000
+But just to get to that level, of saying, look, three out of the seven affected countries are worse off.
+
+33
+00:02:19,000 --> 00:02:23,000
+I think that's a good deal, because those are lower population countries.
+
+34
+00:02:23,000 --> 00:02:26,000
+What kind of person would say such a thing?
+
+35
+00:02:26,000 --> 00:02:29,000
+And yet it's a totally reasonable point to make.
+
+36
+00:02:29,000 --> 00:02:34,000
+So anyway, markets ignorant actors are still at least trying to do the best with what they've got.
+
+37
+00:02:34,000 --> 00:02:36,000
+In politics, they scarcely try.
+
+38
+00:02:36,000 --> 00:02:41,000
+So in markets, if someone says, I have a great idea, I can't really explain it to you, but give me all your money,
+
+39
+00:02:41,000 --> 00:02:44,000
+and you'll find out how great it is after I get your money.
+
+40
+00:02:44,000 --> 00:02:46,000
+You will say, no, no money.
+
+41
+00:02:46,000 --> 00:02:50,000
+In politics, if someone says, hey, I want a trillion dollars, I'm going to fix the health care system, it's going to be great, trust me.
+
+42
+00:02:50,000 --> 00:02:53,000
+You'll find out how it works later.
+
+43
+00:02:53,000 --> 00:02:56,000
+Okay, yeah, sounds like a good deal.
+
+44
+00:02:56,000 --> 00:02:58,000
+No, it doesn't.
+
+45
+00:02:58,000 --> 00:03:04,000
+I refuse, that does not sound like the kind of pitch that would win over a reasonable person.
+
+46
+00:03:04,000 --> 00:03:07,000
+What, do you want children to die?
+
+47
+00:03:07,000 --> 00:03:11,000
+No, I guess I have to do whatever you say, because I don't want children to die.
+
+48
+00:03:11,000 --> 00:03:13,000
+Your plan.
+
+49
+00:03:13,000 --> 00:03:20,000
+And then I go on and say, this rational rationality story explains why, contrary to Whitman,
+
+50
+00:03:20,000 --> 00:03:26,000
+you can't go and fix society by mailing your articles to politicians.
+
+51
+00:03:26,000 --> 00:03:28,000
+You know what happens when they get it.
+
+52
+00:03:28,000 --> 00:03:31,000
+Say, will this help me keep and gain power?
+
+53
+00:03:31,000 --> 00:03:33,000
+No, throw it away, who needs it?
+
+54
+00:03:33,000 --> 00:03:36,000
+What's the point?
+
+55
+00:03:36,000 --> 00:03:40,000
+Rather, politicians cater their prejudices, they don't try to educate them,
+
+56
+00:03:40,000 --> 00:03:45,000
+and voters like candidates who share their confusions, they don't want patents for real life.
+
+57
+00:03:45,000 --> 00:03:48,000
+So now, let's quickly go over and talk about the test.
+
+58
+00:03:48,000 --> 00:03:50,000
+Main things to know about the test.
+
+59
+00:03:50,000 --> 00:03:51,000
+First of all, it is cumulative.
+
+60
+00:03:51,000 --> 00:03:53,000
+You're responsible for everything we've done in the class.
+
+61
+00:03:53,000 --> 00:03:59,000
+It will be weighted towards the second half, so about one-third for before the midterm, two-thirds after.
+
+62
+00:03:59,000 --> 00:04:04,000
+I like to do questions that have a little piece from each part of the class combined.
+
+63
+00:04:04,000 --> 00:04:08,000
+So I think those are fun, and see whether you really understand the material.
+
+64
+00:04:08,000 --> 00:04:12,000
+The book, the final, is still open book and open notes.
+
+65
+00:04:12,000 --> 00:04:14,000
+So remember that.
+
+66
+00:04:14,000 --> 00:04:19,000
+The best way to study is still to take all exams under time pressure.
+
+67
+00:04:19,000 --> 00:04:21,000
+So we recommend that.
+
+68
+00:04:21,000 --> 00:04:31,000
+In terms of the content, again, still basically the same as before, roughly 50% from lecture, 30% from homework, 20% from readings.
+
+69
+00:04:31,000 --> 00:04:32,000
+Remember there are readings.
+
+70
+00:04:32,000 --> 00:04:34,000
+You are free to read the readings.
+
+71
+00:04:34,000 --> 00:04:35,000
+That's perfectly fine.
+
+72
+00:04:35,000 --> 00:04:40,000
+But you cannot use an electronic device, because that could put you into contact with someone else.
+
+73
+00:04:40,000 --> 00:04:41,000
+So not allowed.
+
+74
+00:04:41,000 --> 00:04:44,000
+You may print your hard drive if you want.
+
+75
+00:04:44,000 --> 00:04:50,000
+You may read a dictionary, any books, anything you want, all fine.
+
+76
+00:04:50,000 --> 00:04:51,000
+Let's see.
+
+77
+00:04:51,000 --> 00:04:53,000
+Anything else to know about it?
+
+78
+00:04:53,000 --> 00:04:55,000
+Yes, and then, you know, so I will be around.
+
+79
+00:04:55,000 --> 00:04:57,000
+I'm sorry, I'm going to go to the notes.
+
+80
+00:04:57,000 --> 00:04:58,000
+I'll be around the notes.
+
+81
+00:04:58,000 --> 00:04:59,000
+So most days I will be around.
+
+82
+00:04:59,000 --> 00:05:04,000
+So you can start by the office, or you can email me to make sure that I'm going to be around for questions.
+
+83
+00:05:04,000 --> 00:05:07,000
+I'm happy to be able to give people guidance on questions.
+
+84
+00:05:07,000 --> 00:05:09,000
+I won't write full answer keys for all exams.
+
+85
+00:05:09,000 --> 00:05:15,000
+But if you, certainly if you go and try and send me your answer, I will tell you whether you're on the right track.
+
+86
+00:05:15,000 --> 00:05:19,000
+And if you're also just saying, I'm hopelessly stumped, I don't know where to start, I will take pity and find you a job.
+
+87
+00:05:19,000 --> 00:05:22,000
+I will take pity and find you a start here.
+
+88
+00:05:22,000 --> 00:05:23,000
+Yes?
+
+89
+00:05:23,000 --> 00:05:25,000
+Two hours for the length for this one?
+
+90
+00:05:25,000 --> 00:05:28,000
+So I'm 95% sure that's correct.
+
+91
+00:05:28,000 --> 00:05:30,000
+Yes, actually, hold on.
+
+92
+00:05:30,000 --> 00:05:31,000
+In my calendar I have the correct time.
+
+93
+00:05:31,000 --> 00:05:40,000
+So if I check the calendar, it will say.
+
+94
+00:05:40,000 --> 00:05:42,000
+Yes, two hours, exactly.
+
+95
+00:05:42,000 --> 00:05:44,000
+So our 720 to 2.
+
+96
+00:05:44,000 --> 00:05:46,000
+Oh, actually, hold on.
+
+97
+00:05:46,000 --> 00:05:47,000
+There's one error there.
+
+98
+00:05:47,000 --> 00:05:50,000
+Actually, the final start is 730, don't they?
+
+99
+00:05:50,000 --> 00:05:53,000
+So let me change that, actually.
+
+100
+00:05:53,000 --> 00:05:58,000
+So yes, it would be 730 to 930, not 720.
+
+101
+00:05:58,000 --> 00:06:06,000
+There's a weird thing where final goes from 730 to 1015, but you will stop working at 930.
+
+102
+00:06:06,000 --> 00:06:12,000
+Probably a few people would get anything right in the last 45 minutes anyway, a marginal 27.
+
+103
+00:06:12,000 --> 00:06:17,000
+Anyway, you want more time for the question than you did on the chart.
+
+104
+00:06:17,000 --> 00:06:19,000
+Let's see, other questions?
+
+105
+00:06:19,000 --> 00:06:30,000
+So let me just email myself that blank slide.
+
+106
+00:06:30,000 --> 00:06:31,000
+Good.
+
+107
+00:06:31,000 --> 00:06:32,000
+All right.
+
+108
+00:06:32,000 --> 00:06:34,000
+So other questions about the structure of the test?
+
+109
+00:06:34,000 --> 00:06:35,000
+Questions about the structure?
+
+110
+00:06:35,000 --> 00:06:36,000
+Yes?
+
+111
+00:06:36,000 --> 00:06:38,000
+So it would be, are you going to have similar length?
+
+112
+00:06:38,000 --> 00:06:40,000
+Yeah, yeah, very similar length, same length.
+
+113
+00:06:40,000 --> 00:06:44,000
+So if you look at final exams in the last few years, it will be the same length as this.
+
+114
+00:06:44,000 --> 00:06:50,000
+If you go back many years, there used to be longer exams, but no one seemed to want longer exams.
+
+115
+00:06:50,000 --> 00:06:54,000
+So I figured why make them longer.
+
+116
+00:06:54,000 --> 00:06:59,000
+Let's see, other questions about the contents of the structure of the exam, the purifying questions?
+
+117
+00:06:59,000 --> 00:07:02,000
+All right, everyone happy with that part?
+
+118
+00:07:02,000 --> 00:07:04,000
+All right, let's see.
+
+119
+00:07:04,000 --> 00:07:08,000
+And I've got time for one substantive question about anything we've done in this class.
+
+120
+00:07:08,000 --> 00:07:10,000
+This is obviously not your only chance.
+
+121
+00:07:10,000 --> 00:07:11,000
+Yes?
+
+122
+00:07:11,000 --> 00:07:17,000
+I was looking over, again, if you're just the systemic bias that these people have,
+
+123
+00:07:17,000 --> 00:07:20,000
+and, you know, like the anti-market bias.
+
+124
+00:07:20,000 --> 00:07:24,000
+But it also seemed that people had an anti-government bias.
+
+125
+00:07:24,000 --> 00:07:31,000
+It seemed that they were more pessimistic about taxes, more pessimistic about deficits, more pessimistic about regulations.
+
+126
+00:07:31,000 --> 00:07:33,000
+And I think it was the fourth one by Cameron.
+
+127
+00:07:33,000 --> 00:07:34,000
+Yeah, yeah, yeah.
+
+128
+00:07:34,000 --> 00:07:38,000
+But so do those cancel out or is it?
+
+129
+00:07:38,000 --> 00:07:41,000
+Yeah, yeah, I mean, like those are fair points.
+
+130
+00:07:41,000 --> 00:07:45,000
+And, again, like so, like in the write-up, I acknowledge those as the other guys.
+
+131
+00:07:45,000 --> 00:07:50,000
+So, again, I think of those as reflecting pessimism rather than being anti-government.
+
+132
+00:07:50,000 --> 00:07:54,000
+So, again, the normal reaction people have is, so there should be less government.
+
+133
+00:07:54,000 --> 00:07:55,000
+That's not a normal reaction.
+
+134
+00:07:55,000 --> 00:07:59,000
+It's more just like, you know, we're not getting the government we pay for.
+
+135
+00:07:59,000 --> 00:08:05,000
+But, again, like it would be very usual for someone to say, therefore, let's go and give them less money because they're wasting it.
+
+136
+00:08:05,000 --> 00:08:11,000
+But, yeah, so, I mean, I think it would be, you know, so I don't know if anyone has actually bothered to go and flesh out that argument.
+
+137
+00:08:11,000 --> 00:08:14,000
+But when I was writing it, I was thinking, yeah, that could be someone who thought a reasonable argument.
+
+138
+00:08:14,000 --> 00:08:16,000
+Someone could be someone I think.
+
+139
+00:08:16,000 --> 00:08:21,000
+Again, like ultimately, I just, I don't think so, but maybe.
+
+140
+00:08:21,000 --> 00:08:26,000
+Yeah, so, you know, there's, so, yeah, so I guess I'll just leave it there.
+
+141
+00:08:26,000 --> 00:08:29,000
+It's a very good point.
+
+142
+00:08:29,000 --> 00:08:30,000
+Someone could definitely do something with that.
+
+143
+00:08:30,000 --> 00:08:34,000
+All right, so, again, I went around to take your questions through all formats.
+
+144
+00:08:34,000 --> 00:08:43,000
+And, so, the exam is, of course, on, let's see, what day is it?
+
+145
+00:08:43,000 --> 00:08:44,000
+Monday the 14th.
+
+146
+00:08:44,000 --> 00:08:45,000
+Monday the 14th.
+
+147
+00:08:45,000 --> 00:08:47,000
+So, that will be the last time we get together.
+
+148
+00:08:47,000 --> 00:08:48,000
+But, of course, don't be strangers.
+
+149
+00:08:48,000 --> 00:08:52,000
+And if you like today's lecture, then sign up for Miller Choice.
+
+150
+00:08:52,000 --> 00:08:56,000
+Roger Miller Choice.
+
+

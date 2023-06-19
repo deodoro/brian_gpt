@@ -1,0 +1,31 @@
+2. Suppose that two players play this PD game, followed by this Coordination game.
+ 
+ 
+Defect
+Don't
+ 
+ 
+L
+R
+Defect
+3,3
+4,0
+ 
+L
+5,5
+0,0
+Don't
+0,4
+2,2
+ 
+R
+0,0
+5,5
+ 
+ 
+True, False, and Explain: If §=.9, the only SGPNE are (Defect, Defect), (L,L) and (Defect, Defect), (R, R).b
+
+  SGPE requires Nash play in every subgame. 
+Provisional answer: True, the first game is not a PD because there is no benefit to Don't-ing. Thus, there is no need for punishment. (Defect, Defect), (L,L) and (Defect, Defect), (R,R) will be the SGPNE for any beta.
+
+

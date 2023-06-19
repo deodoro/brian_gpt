@@ -1,0 +1,1869 @@
+1
+00:00:00,000 --> 00:00:02,380
+but you would have to have no discounting in the future
+
+2
+00:00:02,380 --> 00:00:04,000
+at all to have collusion.
+
+3
+00:00:04,000 --> 00:00:04,500
+Right.
+
+4
+00:00:04,500 --> 00:00:06,700
+So it's almost a disqualifying act.
+
+5
+00:00:06,700 --> 00:00:07,700
+Right.
+
+6
+00:00:07,700 --> 00:00:08,980
+OK.
+
+7
+00:00:08,980 --> 00:00:12,900
+And a further thing, a striking result,
+
+8
+00:00:12,900 --> 00:00:15,980
+is how many firms do you need to fall
+
+9
+00:00:15,980 --> 00:00:18,740
+below the critical value for collusion to break down?
+
+10
+00:00:21,780 --> 00:00:24,500
+So how many firms does it take for cheating?
+
+11
+00:00:24,500 --> 00:00:28,900
+How many firms have to cheat before the cheating happens?
+
+12
+00:00:28,900 --> 00:00:29,660
+One.
+
+13
+00:00:29,660 --> 00:00:30,260
+Right.
+
+14
+00:00:30,260 --> 00:00:35,140
+So if there is a distribution of betas, then who actually,
+
+15
+00:00:35,140 --> 00:00:37,820
+is it the average beta that matters?
+
+16
+00:00:37,820 --> 00:00:38,320
+No.
+
+17
+00:00:38,320 --> 00:00:38,820
+No.
+
+18
+00:00:38,820 --> 00:00:40,180
+Which beta is it that matters?
+
+19
+00:00:40,180 --> 00:00:41,020
+The one that's not.
+
+20
+00:00:41,020 --> 00:00:42,380
+Yeah, the minimum beta.
+
+21
+00:00:42,380 --> 00:00:43,740
+The minimum beta.
+
+22
+00:00:43,740 --> 00:00:45,900
+And that's another way in which having more firms
+
+23
+00:00:45,900 --> 00:00:47,260
+makes collusion harder.
+
+24
+00:00:47,260 --> 00:00:49,900
+It's more likely you'll have one impatient firm.
+
+25
+00:00:49,900 --> 00:00:51,780
+More likely to have one firm run by a guy who
+
+26
+00:00:51,780 --> 00:00:53,280
+thinks he's going to die soon, so he
+
+27
+00:00:53,280 --> 00:00:55,660
+doesn't care about the future.
+
+28
+00:00:55,660 --> 00:00:59,180
+So that is another way in which collusion
+
+29
+00:00:59,180 --> 00:01:01,780
+tends to break down.
+
+30
+00:01:01,780 --> 00:01:02,280
+OK.
+
+31
+00:01:02,280 --> 00:01:02,780
+All right.
+
+32
+00:01:02,780 --> 00:01:04,740
+So Bertrand is really easy.
+
+33
+00:01:04,740 --> 00:01:07,620
+And if you look at old midterms, sometimes
+
+34
+00:01:07,620 --> 00:01:09,160
+the Liebertrand problem will usually
+
+35
+00:01:09,160 --> 00:01:11,820
+make it a little bit harder, because it's too easy in a way.
+
+36
+00:01:11,820 --> 00:01:13,380
+Although I've also noticed by the time
+
+37
+00:01:13,380 --> 00:01:14,860
+people take the preliminary exams,
+
+38
+00:01:14,860 --> 00:01:17,860
+then even the basic one is generally forgotten.
+
+39
+00:01:17,860 --> 00:01:19,460
+So it's depressing.
+
+40
+00:01:19,460 --> 00:01:22,300
+But don't depress me.
+
+41
+00:01:22,300 --> 00:01:24,100
+So you guys can all remember it.
+
+42
+00:01:24,100 --> 00:01:26,180
+No reason, just because all previous groups
+
+43
+00:01:26,180 --> 00:01:29,140
+have poorly remembered it, doesn't mean you have to.
+
+44
+00:01:29,140 --> 00:01:30,020
+OK.
+
+45
+00:01:30,020 --> 00:01:32,780
+Now, what about Cournot collusion?
+
+46
+00:01:32,780 --> 00:01:34,500
+What about Cournot collusion?
+
+47
+00:01:34,500 --> 00:01:37,860
+So Cournot collusion, and what would be the trigger strategy
+
+48
+00:01:37,860 --> 00:01:38,580
+in Cournot?
+
+49
+00:01:38,580 --> 00:01:40,220
+It would just be threatening to go back
+
+50
+00:01:40,220 --> 00:01:43,820
+to regular old Cournot behavior.
+
+51
+00:01:43,820 --> 00:01:46,820
+So a bunch of Cournot firms say, let's all go and agree
+
+52
+00:01:46,820 --> 00:01:51,260
+that we're each going to produce one-nth of the monopoly output.
+
+53
+00:01:51,260 --> 00:01:53,780
+And then if any of us breaks that deal,
+
+54
+00:01:53,780 --> 00:01:58,740
+then we will all produce the Cournot output forever.
+
+55
+00:01:58,740 --> 00:02:01,340
+So there are two big differences between this Cournot collusion
+
+56
+00:02:01,340 --> 00:02:02,620
+and Bertrand collusion.
+
+57
+00:02:02,620 --> 00:02:06,180
+So first one is the punishments can't
+
+58
+00:02:06,180 --> 00:02:08,340
+drive profits below the non-cooperative stage
+
+59
+00:02:08,340 --> 00:02:11,260
+gain profits, which means, and since in the simple Cournot
+
+60
+00:02:11,260 --> 00:02:15,300
+model, firms do earn profits, the threat to revert to Cournot
+
+61
+00:02:15,300 --> 00:02:16,700
+is not that bad.
+
+62
+00:02:16,700 --> 00:02:19,460
+Because so like in the Bertrand collusion,
+
+63
+00:02:19,460 --> 00:02:22,100
+either monopoly profits or nothing.
+
+64
+00:02:22,100 --> 00:02:24,660
+In the Cournot collusion, either monopoly profits
+
+65
+00:02:24,660 --> 00:02:26,060
+or Cournot profits.
+
+66
+00:02:26,060 --> 00:02:29,220
+So the punishment isn't as bad in Cournot.
+
+67
+00:02:29,220 --> 00:02:32,300
+But in Bertrand, the defector gets
+
+68
+00:02:32,300 --> 00:02:34,020
+to steal the entire market.
+
+69
+00:02:34,020 --> 00:02:35,540
+But in Cournot, the defector does not
+
+70
+00:02:35,540 --> 00:02:36,840
+get to steal the entire market.
+
+71
+00:02:36,840 --> 00:02:40,860
+Because in Cournot, a defector just produces a larger output.
+
+72
+00:02:40,860 --> 00:02:43,860
+And when you produce a larger output, you get more money,
+
+73
+00:02:43,860 --> 00:02:46,460
+but you don't get all the money.
+
+74
+00:02:46,460 --> 00:02:49,660
+So if you sell your oil for a penny less per barrel
+
+75
+00:02:49,660 --> 00:02:52,100
+than everybody else, then everybody buys your oil.
+
+76
+00:02:52,100 --> 00:02:54,380
+But if you just produce double your quota,
+
+77
+00:02:54,380 --> 00:02:58,100
+everybody, you are not the other oil, gets sold too.
+
+78
+00:02:58,100 --> 00:03:01,620
+So we don't have to give it to them as large.
+
+79
+00:03:01,620 --> 00:03:04,500
+Second, now formerly you get Cournot collusion,
+
+80
+00:03:04,500 --> 00:03:06,060
+or referred to be sustainable.
+
+81
+00:03:06,060 --> 00:03:08,500
+Again, on the left-hand side, it's the same equation,
+
+82
+00:03:08,500 --> 00:03:10,540
+or it's the same expression, rather.
+
+83
+00:03:10,540 --> 00:03:13,860
+So 1 over n times 2 from the summation from t
+
+84
+00:03:13,860 --> 00:03:18,980
+equals 0 to infinity of beta over h of t times pi n.
+
+85
+00:03:18,980 --> 00:03:21,420
+I guess I've been doing it as superscript c
+
+86
+00:03:21,420 --> 00:03:22,140
+or superscripts.
+
+87
+00:03:22,140 --> 00:03:24,260
+I'm just going to go with the new subscripts.
+
+88
+00:03:24,260 --> 00:03:25,460
+All right.
+
+89
+00:03:25,460 --> 00:03:28,100
+So anyway, the left-hand side is exactly the same.
+
+90
+00:03:28,100 --> 00:03:30,180
+But the right-hand side is hard.
+
+91
+00:03:30,180 --> 00:03:32,020
+And I think this is the most horrible algebra
+
+92
+00:03:32,020 --> 00:03:33,940
+we'll ever do in this class.
+
+93
+00:03:33,940 --> 00:03:37,060
+All right, so I think I've lost like nine hours of my life
+
+94
+00:03:37,060 --> 00:03:39,300
+doing this, because I kept messing it up.
+
+95
+00:03:39,300 --> 00:03:41,420
+Anyway, I'm simplifying the algebra for you,
+
+96
+00:03:41,420 --> 00:03:44,740
+because I don't want you to suffer like I did.
+
+97
+00:03:44,740 --> 00:03:47,300
+I don't think I learned anything extra from the suffering.
+
+98
+00:03:47,300 --> 00:03:50,660
+So I think I had to do it with having marginal cost
+
+99
+00:03:50,660 --> 00:03:51,220
+be something.
+
+100
+00:03:51,220 --> 00:03:52,980
+And then that can only be by the theorem.
+
+101
+00:03:52,980 --> 00:03:55,060
+I'm just going to do it with zero marginal cost.
+
+102
+00:03:55,060 --> 00:03:56,300
+All right.
+
+103
+00:03:56,300 --> 00:03:59,620
+So anyway, so that monopoly of profits
+
+104
+00:03:59,620 --> 00:04:04,500
+must be greater than the defection profits, so defection
+
+105
+00:04:04,500 --> 00:04:09,660
+profits, plus the summation from t equals 1 to infinity
+
+106
+00:04:09,660 --> 00:04:15,180
+of the discounted sum of the kernel profits.
+
+107
+00:04:15,180 --> 00:04:16,300
+OK.
+
+108
+00:04:16,300 --> 00:04:18,260
+So that pi d is defection profits,
+
+109
+00:04:18,260 --> 00:04:21,860
+and pi c is ordinary kernel profits.
+
+110
+00:04:21,860 --> 00:04:25,140
+So if we use the functional forms from just a few minutes
+
+111
+00:04:25,140 --> 00:04:27,700
+ago, actually, from week five notes,
+
+112
+00:04:27,700 --> 00:04:34,660
+then we know pi m is just going to be a squared over 4b.
+
+113
+00:04:34,660 --> 00:04:43,300
+And pi c is equal to a squared over b times n plus 1 squared.
+
+114
+00:04:43,300 --> 00:04:47,780
+Just as a consistency check, remember that n equals 1,
+
+115
+00:04:47,780 --> 00:04:51,260
+or monopoly is just a kernel with n equal to 1.
+
+116
+00:04:51,260 --> 00:04:54,100
+So does that work?
+
+117
+00:04:54,100 --> 00:04:57,260
+So if n equals 1, then kernel profits are what?
+
+118
+00:04:57,260 --> 00:04:59,980
+a squared over b times that squared.
+
+119
+00:04:59,980 --> 00:05:01,180
+And that's what?
+
+120
+00:05:01,180 --> 00:05:02,060
+4?
+
+121
+00:05:02,060 --> 00:05:02,940
+Yes, OK.
+
+122
+00:05:02,940 --> 00:05:03,940
+All right, consistency.
+
+123
+00:05:03,940 --> 00:05:05,580
+Good.
+
+124
+00:05:05,580 --> 00:05:06,620
+OK.
+
+125
+00:05:06,620 --> 00:05:10,740
+But figuring out pi d is a giant pain in the neck.
+
+126
+00:05:10,740 --> 00:05:12,700
+And we're going to do it anyway.
+
+127
+00:05:12,700 --> 00:05:13,500
+OK.
+
+128
+00:05:13,500 --> 00:05:16,500
+So how do we figure it out?
+
+129
+00:05:16,500 --> 00:05:17,340
+Why are we doing it?
+
+130
+00:05:17,340 --> 00:05:20,340
+Not just to suffer, but I think it actually does teach you
+
+131
+00:05:20,340 --> 00:05:22,740
+about Nash reasoning to some degree.
+
+132
+00:05:22,740 --> 00:05:23,220
+All right.
+
+133
+00:05:23,220 --> 00:05:24,100
+So here's the thing.
+
+134
+00:05:24,100 --> 00:05:27,740
+So remember, the collusive slash monopoly output
+
+135
+00:05:27,740 --> 00:05:30,740
+is a over 2b.
+
+136
+00:05:30,740 --> 00:05:31,740
+So remember that?
+
+137
+00:05:31,740 --> 00:05:34,260
+That is what monopolies produce.
+
+138
+00:05:34,260 --> 00:05:37,980
+So if all firms other than yourself produce that,
+
+139
+00:05:37,980 --> 00:05:40,660
+or if all firms other than yourself
+
+140
+00:05:40,660 --> 00:05:45,100
+do produce one nth of that, then the total production
+
+141
+00:05:45,100 --> 00:05:48,060
+of all firms other than yourself will be that times n minus 1
+
+142
+00:05:48,060 --> 00:05:49,380
+over n.
+
+143
+00:05:49,380 --> 00:05:51,780
+Like if there's 10 firms, and all of you
+
+144
+00:05:51,780 --> 00:05:54,660
+say, let's each produce 1 10th of the market, 1 10th
+
+145
+00:05:54,660 --> 00:05:57,580
+of the monopoly outputs, then how much do the firms
+
+146
+00:05:57,580 --> 00:05:59,420
+other than yourself produce?
+
+147
+00:05:59,420 --> 00:05:59,940
+9 10ths.
+
+148
+00:05:59,940 --> 00:06:02,820
+9 10ths of the monopoly output.
+
+149
+00:06:02,820 --> 00:06:06,180
+If there were three firms, and you all agree,
+
+150
+00:06:06,180 --> 00:06:08,300
+then the firms other than yourself produce 2 3rds
+
+151
+00:06:08,300 --> 00:06:09,580
+of the monopoly output.
+
+152
+00:06:09,580 --> 00:06:11,700
+And then you decide what to do.
+
+153
+00:06:11,700 --> 00:06:12,220
+Ha ha.
+
+154
+00:06:12,220 --> 00:06:16,220
+Were they suckers, or were you going along with it?
+
+155
+00:06:16,220 --> 00:06:16,700
+All right.
+
+156
+00:06:16,700 --> 00:06:21,580
+So that is the summed output of everybody other than yourself.
+
+157
+00:06:21,580 --> 00:06:27,940
+So what a defecting firm will maximize is going to be a.
+
+158
+00:06:27,940 --> 00:06:30,700
+Remember, we have the same demand function.
+
+159
+00:06:30,700 --> 00:06:36,420
+So now we've got p is equal to a minus bq.
+
+160
+00:06:36,420 --> 00:06:38,340
+So we've got the same demand function.
+
+161
+00:06:38,340 --> 00:06:47,100
+So a minus b times your little q plus that mess there.
+
+162
+00:06:47,100 --> 00:06:51,500
+Plus n minus 1 over n times a over 2b.
+
+163
+00:06:54,260 --> 00:06:58,140
+Square bracket, curvy bracket, and qi.
+
+164
+00:06:58,140 --> 00:06:58,940
+OK.
+
+165
+00:06:58,940 --> 00:07:00,940
+So that's what we're doing here.
+
+166
+00:07:00,940 --> 00:07:04,620
+So again, this is just maximizing that thing.
+
+167
+00:07:04,620 --> 00:07:07,020
+But we're plugging in for everything.
+
+168
+00:07:07,020 --> 00:07:08,460
+So this is p.
+
+169
+00:07:08,460 --> 00:07:11,620
+And if all firms other than you collude,
+
+170
+00:07:11,620 --> 00:07:16,420
+then p is going to be given by a minus b times quantity,
+
+171
+00:07:16,420 --> 00:07:21,700
+your output, plus n minus 1 over n of the monopoly output.
+
+172
+00:07:21,700 --> 00:07:24,060
+And then take all that and multiply it by your output.
+
+173
+00:07:24,060 --> 00:07:26,140
+And that will be your profit.
+
+174
+00:07:26,140 --> 00:07:27,140
+OK.
+
+175
+00:07:27,140 --> 00:07:28,820
+So there.
+
+176
+00:07:28,820 --> 00:07:30,180
+You're maximizing that.
+
+177
+00:07:30,180 --> 00:07:33,260
+And once you do that, then it's not that bad.
+
+178
+00:07:33,260 --> 00:07:35,420
+So if you differentiate and simplify,
+
+179
+00:07:35,420 --> 00:07:39,700
+then you find out that your q, your optimal q,
+
+180
+00:07:39,700 --> 00:07:45,540
+is going to be a times n plus 1 over 4bn.
+
+181
+00:07:45,540 --> 00:07:49,020
+And then we have to do even more algebra just
+
+182
+00:07:49,020 --> 00:07:53,020
+to find out total market output is now
+
+183
+00:07:53,020 --> 00:07:57,140
+the output of all firms other than yourself plus your output.
+
+184
+00:07:57,140 --> 00:07:59,980
+So it's that algebra, which isn't that horrible,
+
+185
+00:07:59,980 --> 00:08:00,740
+plus that.
+
+186
+00:08:00,740 --> 00:08:02,220
+But summing those two things, it's
+
+187
+00:08:02,220 --> 00:08:04,740
+a pretty ugly algebra, right?
+
+188
+00:08:04,740 --> 00:08:06,740
+Maybe you can do this all in your head.
+
+189
+00:08:06,740 --> 00:08:07,900
+I cannot.
+
+190
+00:08:07,900 --> 00:08:09,100
+All right.
+
+191
+00:08:09,100 --> 00:08:12,620
+And that gives us the messy expression at the bottom.
+
+192
+00:08:12,620 --> 00:08:14,700
+So I'm sure all of you can just look at this
+
+193
+00:08:14,700 --> 00:08:16,120
+and say, of course, big Q is going
+
+194
+00:08:16,120 --> 00:08:21,260
+to be equal to a times 3n minus 1 all over 4bn.
+
+195
+00:08:21,260 --> 00:08:22,260
+Duh.
+
+196
+00:08:22,260 --> 00:08:24,500
+I can't do that, but you can.
+
+197
+00:08:24,500 --> 00:08:28,700
+And then finally, we go back to the demand equation.
+
+198
+00:08:28,700 --> 00:08:32,180
+p is equal to a minus bq.
+
+199
+00:08:32,180 --> 00:08:34,580
+Plug that thing in.
+
+200
+00:08:34,580 --> 00:08:37,860
+And then we find out that when you defect,
+
+201
+00:08:37,860 --> 00:08:44,620
+that will drive price down to a n plus 1 over 4n.
+
+202
+00:08:44,620 --> 00:08:46,500
+And here, I don't have any intuition
+
+203
+00:08:46,500 --> 00:08:48,040
+to offer you other than you just have
+
+204
+00:08:48,040 --> 00:08:50,940
+to work through all the algebra.
+
+205
+00:08:50,940 --> 00:08:54,300
+That thing at the top, there I have some intuition.
+
+206
+00:08:54,300 --> 00:08:55,580
+All right.
+
+207
+00:08:55,580 --> 00:08:57,860
+So then we go and multiply together.
+
+208
+00:08:57,860 --> 00:09:01,940
+We find out that we've got that p and that q.
+
+209
+00:09:01,940 --> 00:09:06,500
+So the defection profits will be given by, of course,
+
+210
+00:09:06,500 --> 00:09:09,380
+line i on the notes, on the second major notes,
+
+211
+00:09:09,380 --> 00:09:11,620
+a squared times n plus 1 squared, all of it
+
+212
+00:09:11,620 --> 00:09:13,220
+over 16bn squared.
+
+213
+00:09:16,180 --> 00:09:20,380
+And now, we go back, back in time,
+
+214
+00:09:20,380 --> 00:09:23,900
+to the original inequality right here.
+
+215
+00:09:23,900 --> 00:09:27,740
+We go and we plug in every term, and we solve.
+
+216
+00:09:27,740 --> 00:09:30,100
+So we put in monopoly profits.
+
+217
+00:09:30,100 --> 00:09:31,500
+We put in defection profits.
+
+218
+00:09:31,500 --> 00:09:33,420
+We put in curtail profits.
+
+219
+00:09:33,420 --> 00:09:38,740
+And then we get the inequality on line j,
+
+220
+00:09:38,740 --> 00:09:39,980
+for sustainable collusion.
+
+221
+00:09:42,820 --> 00:09:45,020
+And I'm not going to read it aloud.
+
+222
+00:09:45,020 --> 00:09:46,780
+You can take a look at that yourselves.
+
+223
+00:09:46,780 --> 00:09:48,240
+Now, if you're looking at this, you
+
+224
+00:09:48,240 --> 00:09:51,300
+may be getting a brief moment of mathematical terror,
+
+225
+00:09:51,300 --> 00:09:53,140
+because at first glance, it looks like it's
+
+226
+00:09:53,140 --> 00:09:55,100
+a fourth degree equation.
+
+227
+00:09:55,100 --> 00:09:59,300
+And economists don't know how to solve fourth degree equations.
+
+228
+00:09:59,300 --> 00:10:01,780
+And if you've ever looked up the formula for a fourth degree
+
+229
+00:10:01,780 --> 00:10:05,340
+equation, it is multiple pages.
+
+230
+00:10:05,340 --> 00:10:06,260
+It goes on and on.
+
+231
+00:10:06,260 --> 00:10:10,300
+So there is a formula for it, but nobody knows this formula.
+
+232
+00:10:10,300 --> 00:10:11,940
+Nobody uses it.
+
+233
+00:10:11,940 --> 00:10:13,660
+And then there's a really weird proof
+
+234
+00:10:13,660 --> 00:10:15,860
+saying there can't be an equation for a fifth degree
+
+235
+00:10:15,860 --> 00:10:17,620
+equation.
+
+236
+00:10:17,620 --> 00:10:19,860
+All right, I'll just take mathematicians' word for it.
+
+237
+00:10:19,860 --> 00:10:21,740
+But anyway, you're looking at this,
+
+238
+00:10:21,740 --> 00:10:23,320
+and you may be sitting there, my god,
+
+239
+00:10:23,320 --> 00:10:24,700
+I must have done something wrong,
+
+240
+00:10:24,700 --> 00:10:26,740
+or this model should not have ever
+
+241
+00:10:26,740 --> 00:10:28,820
+been done in the first place, because it leads us
+
+242
+00:10:28,820 --> 00:10:29,860
+to a fourth degree equation, and we
+
+243
+00:10:29,860 --> 00:10:31,460
+don't know what to do with it.
+
+244
+00:10:31,460 --> 00:10:34,300
+So instead of feeling smart, we feel stupid at the end.
+
+245
+00:10:34,300 --> 00:10:35,780
+But then you go, oh, wait a second.
+
+246
+00:10:35,780 --> 00:10:37,660
+We're not solving for n.
+
+247
+00:10:37,660 --> 00:10:39,140
+We're solving for beta.
+
+248
+00:10:39,140 --> 00:10:41,020
+And this equation is only quadratic.
+
+249
+00:10:41,020 --> 00:10:44,340
+This equation is not fourth degree and beta.
+
+250
+00:10:44,340 --> 00:10:46,260
+So then we're OK.
+
+251
+00:10:46,260 --> 00:10:46,920
+All right, fine.
+
+252
+00:10:46,920 --> 00:10:48,380
+The thing that we want to solve for
+
+253
+00:10:48,380 --> 00:10:50,340
+is not actually fourth degree.
+
+254
+00:10:50,340 --> 00:10:52,660
+So then we get this equation for beta.
+
+255
+00:10:52,660 --> 00:10:54,660
+So and again, it's very messy.
+
+256
+00:10:54,660 --> 00:10:57,540
+But if you look at it, it's perfectly solvable.
+
+257
+00:10:57,540 --> 00:11:00,900
+There is nothing that you, conceptually,
+
+258
+00:11:00,900 --> 00:11:03,060
+there's nothing to solving it that you haven't done
+
+259
+00:11:03,060 --> 00:11:04,380
+a bunch of other times before.
+
+260
+00:11:04,380 --> 00:11:07,460
+And probably actually even in first year algebra.
+
+261
+00:11:07,460 --> 00:11:09,140
+And you look at it, and I will say
+
+262
+00:11:09,140 --> 00:11:11,580
+there's no good intuition for this.
+
+263
+00:11:11,580 --> 00:11:13,700
+But you can just go and put in some numbers
+
+264
+00:11:13,700 --> 00:11:15,220
+and convince yourself.
+
+265
+00:11:15,220 --> 00:11:19,300
+So n equals 2, and beta star is 0.53.
+
+266
+00:11:19,300 --> 00:11:20,860
+And if you go and put in a bigger n,
+
+267
+00:11:20,860 --> 00:11:24,500
+then you'll get a bigger beta star.
+
+268
+00:11:24,500 --> 00:11:27,300
+So let's see.
+
+269
+00:11:27,300 --> 00:11:29,780
+And I believe if you put an infinite n,
+
+270
+00:11:29,780 --> 00:11:34,340
+then beta will asymptote it to 1.
+
+271
+00:11:34,340 --> 00:11:36,740
+OK, so questions?
+
+272
+00:11:36,740 --> 00:11:38,020
+Questions?
+
+273
+00:11:38,020 --> 00:11:38,780
+All right, 7A.
+
+274
+00:11:38,780 --> 00:11:39,420
+If I guess n.
+
+275
+00:11:39,420 --> 00:11:41,460
+I think I can honestly promise we'll never
+
+276
+00:11:41,460 --> 00:11:45,700
+have to do any worse algebra than this in this whole class.
+
+277
+00:11:45,700 --> 00:11:50,500
+All right, now remember, these examples, these models,
+
+278
+00:11:50,500 --> 00:11:54,060
+they abstract from a great many problems with collusion.
+
+279
+00:11:54,060 --> 00:11:56,620
+And again, if you had a good industrial organization
+
+280
+00:11:56,620 --> 00:11:58,740
+teacher ever, then they will tell you
+
+281
+00:11:58,740 --> 00:12:01,700
+that the fundamental problem with collusion is do entry.
+
+282
+00:12:01,700 --> 00:12:03,340
+Collusion attracts entry.
+
+283
+00:12:03,340 --> 00:12:04,780
+And then in the real world, there
+
+284
+00:12:04,780 --> 00:12:10,100
+is a great dilemma faced by the cartel, to cut the entrance in
+
+285
+00:12:10,100 --> 00:12:11,980
+or not to cut them in.
+
+286
+00:12:11,980 --> 00:12:16,140
+And both are evil from the point of view of the cartel.
+
+287
+00:12:16,140 --> 00:12:18,820
+Because if you don't cut them in, what happens?
+
+288
+00:12:18,820 --> 00:12:20,180
+They'll out-compete you.
+
+289
+00:12:20,180 --> 00:12:22,860
+Yeah, they compete against you, and they ruin the cartel.
+
+290
+00:12:22,860 --> 00:12:25,340
+And if you do let them in, they've got to cut the money.
+
+291
+00:12:25,340 --> 00:12:26,620
+Yes, you have less money.
+
+292
+00:12:26,620 --> 00:12:30,260
+And also, you have just created a very perverse incentive
+
+293
+00:12:30,260 --> 00:12:33,060
+to create new firms and say, hey, let me in,
+
+294
+00:12:33,060 --> 00:12:35,980
+or else I'm going to have to compete with you.
+
+295
+00:12:35,980 --> 00:12:36,620
+Yes?
+
+296
+00:12:36,620 --> 00:12:39,540
+Has anyone ever applied this model
+
+297
+00:12:39,540 --> 00:12:42,700
+to big tent versus small tent political movements?
+
+298
+00:12:42,700 --> 00:12:45,860
+Big tent versus small tent political movements, probably.
+
+299
+00:12:45,860 --> 00:12:50,580
+I don't remember anything specific on it.
+
+300
+00:12:50,580 --> 00:12:53,180
+Again, of course, with political movements,
+
+301
+00:12:53,180 --> 00:12:57,420
+you're not generally trying to say, the thing you're maximizing
+
+302
+00:12:57,420 --> 00:12:59,500
+is probably very different in the functional form
+
+303
+00:12:59,500 --> 00:13:00,660
+than profits.
+
+304
+00:13:00,660 --> 00:13:03,100
+So for power, for example, you just
+
+305
+00:13:03,100 --> 00:13:04,260
+want to be the most powerful.
+
+306
+00:13:04,260 --> 00:13:09,140
+You want to have highest relative power.
+
+307
+00:13:09,140 --> 00:13:11,780
+Whereas when in business, you're concerned
+
+308
+00:13:11,780 --> 00:13:15,220
+about your absolute profits, at least normally.
+
+309
+00:13:15,220 --> 00:13:17,420
+There are some weird models where firms are concerned
+
+310
+00:13:17,420 --> 00:13:21,420
+with their market share rather than profits.
+
+311
+00:13:21,420 --> 00:13:23,740
+Although, there have to be some limits to these models,
+
+312
+00:13:23,740 --> 00:13:28,220
+because what is the simplest way to get a great market share?
+
+313
+00:13:28,220 --> 00:13:30,700
+The really easy way to get 100% market share.
+
+314
+00:13:30,700 --> 00:13:32,420
+Just throw the new product in for free?
+
+315
+00:13:32,420 --> 00:13:34,100
+Yes, give your product away for free,
+
+316
+00:13:34,100 --> 00:13:36,900
+and tell you you're going to go bankrupt, at least.
+
+317
+00:13:36,900 --> 00:13:41,060
+So there's something fishy about market share models,
+
+318
+00:13:41,060 --> 00:13:43,740
+because it's too easy to get a really high market share.
+
+319
+00:13:43,740 --> 00:13:45,860
+You might say, well, it's maximized market share
+
+320
+00:13:45,860 --> 00:13:48,180
+conditional on not going bankrupt.
+
+321
+00:13:48,180 --> 00:13:51,300
+I don't think I've ever seen that one tried, but you're
+
+322
+00:13:51,300 --> 00:13:53,100
+right.
+
+323
+00:13:53,100 --> 00:13:54,860
+So anyway, these models are totally
+
+324
+00:13:54,860 --> 00:13:56,780
+abstracting from new entry, which
+
+325
+00:13:56,780 --> 00:13:59,220
+in any real world analysis of collusion
+
+326
+00:13:59,220 --> 00:14:00,260
+is incredibly important.
+
+327
+00:14:03,340 --> 00:14:03,840
+Questions?
+
+328
+00:14:09,620 --> 00:14:11,500
+And furthermore, people often think,
+
+329
+00:14:11,500 --> 00:14:13,620
+well, you don't really need to worry about new entry
+
+330
+00:14:13,620 --> 00:14:15,140
+when entry is hard.
+
+331
+00:14:15,140 --> 00:14:17,980
+But normally, when entry is hard, exit is hard too.
+
+332
+00:14:17,980 --> 00:14:20,220
+So for example, you're OPEC.
+
+333
+00:14:20,220 --> 00:14:22,220
+You push up the world price of oil.
+
+334
+00:14:22,220 --> 00:14:24,900
+And at first, this doesn't cause the sudden discovery
+
+335
+00:14:24,900 --> 00:14:26,020
+of any new oil.
+
+336
+00:14:26,020 --> 00:14:28,340
+But eventually, when the price is high for a long time,
+
+337
+00:14:28,340 --> 00:14:29,620
+it does get countries looking around.
+
+338
+00:14:29,620 --> 00:14:30,620
+Do we have any oil here?
+
+339
+00:14:30,620 --> 00:14:31,740
+It's really expensive.
+
+340
+00:14:31,740 --> 00:14:34,140
+And then once they find oil, then OPEC
+
+341
+00:14:34,140 --> 00:14:36,060
+is in a worse position than it was before it
+
+342
+00:14:36,060 --> 00:14:37,900
+got the price high, because now you
+
+343
+00:14:37,900 --> 00:14:42,580
+have a bunch of places with new oil producers who can either
+
+344
+00:14:42,580 --> 00:14:45,100
+be invited to join OPEC, in which case
+
+345
+00:14:45,100 --> 00:14:47,260
+you're cutting down the share of all the members,
+
+346
+00:14:47,260 --> 00:14:52,220
+or they stay out, and then they ruin OPEC.
+
+347
+00:14:52,220 --> 00:14:56,860
+So according to all of the normal energy economists
+
+348
+00:14:56,860 --> 00:14:59,660
+that I've talked to, so not George Mason, weird people,
+
+349
+00:14:59,660 --> 00:15:03,140
+anything like that, just normal, boring, vanilla energy
+
+350
+00:15:03,140 --> 00:15:05,820
+economists, I was very surprised to find out
+
+351
+00:15:05,820 --> 00:15:10,340
+very standard view is OPEC accomplishes nothing on balance
+
+352
+00:15:10,340 --> 00:15:12,340
+other than provide jobs for some bureaucrats who
+
+353
+00:15:12,340 --> 00:15:14,180
+work at OPEC, I guess.
+
+354
+00:15:14,180 --> 00:15:17,100
+So anyway, that is a very common view.
+
+355
+00:15:17,100 --> 00:15:19,380
+And again, it would fit with, in the long run,
+
+356
+00:15:19,380 --> 00:15:21,820
+when you go and push prices up, then all you're really doing
+
+357
+00:15:21,820 --> 00:15:24,300
+is creating a period when prices are going to be even lower,
+
+358
+00:15:24,300 --> 00:15:26,420
+because you've incurred this new entry, which
+
+359
+00:15:26,420 --> 00:15:27,940
+took a while to enter, but now it's
+
+360
+00:15:27,940 --> 00:15:30,980
+going to take a long time to disappear.
+
+361
+00:15:30,980 --> 00:15:33,140
+Could that be why it persists, and why it still
+
+362
+00:15:33,140 --> 00:15:36,980
+sticks around, even though it's sort of like a facade?
+
+363
+00:15:36,980 --> 00:15:41,180
+They're just like, we don't want to lose face, I guess?
+
+364
+00:15:41,180 --> 00:15:43,860
+Yeah, at least the usual story is it's all political,
+
+365
+00:15:43,860 --> 00:15:45,780
+and it would be humiliating for the governments
+
+366
+00:15:45,780 --> 00:15:48,220
+to admit that what they're doing hasn't been working.
+
+367
+00:15:48,220 --> 00:15:52,500
+And again, it is an old-fashioned public choice
+
+368
+00:15:52,500 --> 00:15:56,220
+special interest story, where a lot of members
+
+369
+00:15:56,220 --> 00:15:58,780
+of the royal Saudi family are probably working for OPEC.
+
+370
+00:15:58,780 --> 00:16:01,100
+And then for the Saudis to say, well, it's kind of dumb,
+
+371
+00:16:01,100 --> 00:16:02,620
+it doesn't work.
+
+372
+00:16:02,620 --> 00:16:04,200
+They are undermining their own regime.
+
+373
+00:16:04,200 --> 00:16:05,900
+And yeah, they could go and buy them out,
+
+374
+00:16:05,900 --> 00:16:09,340
+but then they are publicly admitting
+
+375
+00:16:09,340 --> 00:16:11,100
+that they're parasites, whereas now they
+
+376
+00:16:11,100 --> 00:16:13,500
+can claim that they're working for the good of the people
+
+377
+00:16:13,500 --> 00:16:15,380
+of Saudi Arabia.
+
+378
+00:16:15,380 --> 00:16:17,060
+Yeah.
+
+379
+00:16:17,060 --> 00:16:18,100
+OK.
+
+380
+00:16:18,100 --> 00:16:20,180
+All right, so questions about collusion?
+
+381
+00:16:20,180 --> 00:16:21,660
+No one happy?
+
+382
+00:16:21,660 --> 00:16:24,860
+OK, then let's keep forging ahead.
+
+383
+00:16:24,860 --> 00:16:26,900
+All right, so I assume everyone here
+
+384
+00:16:26,900 --> 00:16:29,580
+is familiar with all the basic concepts of public goods
+
+385
+00:16:29,580 --> 00:16:30,620
+and externalities, right?
+
+386
+00:16:30,620 --> 00:16:32,660
+You've heard this stuff before.
+
+387
+00:16:32,660 --> 00:16:36,100
+All right, now many of you, oh, yes?
+
+388
+00:16:36,100 --> 00:16:39,420
+I haven't come to the notes, so maybe I'm at a miss list.
+
+389
+00:16:39,420 --> 00:16:41,460
+Are many of these Stackelberg-type?
+
+390
+00:16:41,460 --> 00:16:43,780
+Let's see, I think that there may be a homework
+
+391
+00:16:43,780 --> 00:16:45,980
+problem involving Stackelberg, but we're not actually
+
+392
+00:16:45,980 --> 00:16:47,340
+going to do it in class.
+
+393
+00:16:47,340 --> 00:16:50,540
+Yes, so yeah, I'm pretty sure we don't do it in class.
+
+394
+00:16:50,540 --> 00:16:54,860
+But yes, with Stackelberg, it's essentially just like Cournot,
+
+395
+00:16:54,860 --> 00:16:57,300
+except there's a first mover.
+
+396
+00:16:57,300 --> 00:16:59,540
+So you go and you get the equation
+
+397
+00:16:59,540 --> 00:17:01,300
+for what a Cournot firm does.
+
+398
+00:17:01,300 --> 00:17:04,900
+And then the first mover goes and sets its output
+
+399
+00:17:04,900 --> 00:17:08,340
+in order to take advantage of the other firm's behavior,
+
+400
+00:17:08,340 --> 00:17:10,660
+in order to take advantage of the other firm's reaction
+
+401
+00:17:10,660 --> 00:17:11,300
+function.
+
+402
+00:17:11,300 --> 00:17:14,580
+And punchline, so even though people
+
+403
+00:17:14,580 --> 00:17:16,080
+have looked at the Stackelberg model
+
+404
+00:17:16,080 --> 00:17:18,040
+as saying, ah, this shows how things are really
+
+405
+00:17:18,040 --> 00:17:20,340
+bad in this first mover, Stackelberg actually
+
+406
+00:17:20,340 --> 00:17:22,660
+gives you a higher level of output than regular Cournot.
+
+407
+00:17:22,660 --> 00:17:25,340
+So it's the opposite of what people want the result to be.
+
+408
+00:17:28,660 --> 00:17:31,820
+All right, so we assume you've all
+
+409
+00:17:31,820 --> 00:17:34,980
+heard about public goods and externality at some point.
+
+410
+00:17:34,980 --> 00:17:37,940
+Now, it is common for textbooks to talk
+
+411
+00:17:37,940 --> 00:17:40,660
+about two different features of public goods,
+
+412
+00:17:40,660 --> 00:17:44,340
+namely non-excludability and non-rivalry.
+
+413
+00:17:44,340 --> 00:17:47,700
+Non-rivalry, in my view, is just a distraction
+
+414
+00:17:47,700 --> 00:17:50,500
+because we see non-rivalry everywhere.
+
+415
+00:17:50,500 --> 00:17:53,420
+So you go to a movie theater in a matinee,
+
+416
+00:17:53,420 --> 00:17:55,900
+look, witness the non-rivalry.
+
+417
+00:17:55,900 --> 00:17:57,940
+There's a ton of empty seats.
+
+418
+00:17:57,940 --> 00:18:03,580
+So non-rivalry is all over the regular for-profit sector,
+
+419
+00:18:03,580 --> 00:18:05,200
+things that we never think of as having
+
+420
+00:18:05,200 --> 00:18:07,060
+anything to do with public goods.
+
+421
+00:18:07,060 --> 00:18:09,140
+Non-rivalry is all over the place.
+
+422
+00:18:09,140 --> 00:18:12,380
+So talking about it as being a special feature of public goods
+
+423
+00:18:12,380 --> 00:18:13,820
+is just distracting and confusing.
+
+424
+00:18:13,820 --> 00:18:15,940
+And if we really wanted our students to understand,
+
+425
+00:18:15,940 --> 00:18:17,700
+we would have stopped doing it that way.
+
+426
+00:18:17,700 --> 00:18:19,940
+But anyway, all I can do is try to help you
+
+427
+00:18:19,940 --> 00:18:21,660
+once you're in graduate school and to say,
+
+428
+00:18:21,660 --> 00:18:23,580
+you remember all the stuff about non-rivalry?
+
+429
+00:18:23,580 --> 00:18:27,380
+It really was just a distraction.
+
+430
+00:18:27,380 --> 00:18:29,940
+Non-excludability is the real key
+
+431
+00:18:29,940 --> 00:18:31,460
+because with non-excludability, there
+
+432
+00:18:31,460 --> 00:18:35,220
+is a basic logic of selfishness that it says, look,
+
+433
+00:18:35,220 --> 00:18:37,940
+if a good is not excludable, then by definition,
+
+434
+00:18:37,940 --> 00:18:41,380
+there is no feasible way to exclude non-payers.
+
+435
+00:18:41,380 --> 00:18:42,860
+So it's not excludable.
+
+436
+00:18:42,860 --> 00:18:45,100
+So there's no way you can stop someone who has not
+
+437
+00:18:45,100 --> 00:18:47,620
+paid from enjoying the good.
+
+438
+00:18:47,620 --> 00:18:49,460
+Next, so that's just a definition.
+
+439
+00:18:49,460 --> 00:18:51,300
+Assumption one is just a definition.
+
+440
+00:18:51,300 --> 00:18:53,820
+Assumption two, though, is a behavioral assumption
+
+441
+00:18:53,820 --> 00:18:57,580
+and says that since you don't have to pay to use it,
+
+442
+00:18:57,580 --> 00:18:59,500
+selfish people will not pay to use it.
+
+443
+00:18:59,500 --> 00:19:01,940
+And of course, in the end, there is a blah.
+
+444
+00:19:01,940 --> 00:19:04,540
+I guess that's just a definition too until you add on
+
+445
+00:19:04,540 --> 00:19:07,180
+the key thing, which is human beings are selfish.
+
+446
+00:19:07,180 --> 00:19:09,460
+That's what makes it empirical.
+
+447
+00:19:09,460 --> 00:19:12,060
+So but anyway, if you don't have to pay to use something
+
+448
+00:19:12,060 --> 00:19:14,700
+and you're selfish, someone comes to you and says,
+
+449
+00:19:14,700 --> 00:19:17,140
+well, you don't have to pay to use it, and you're selfish.
+
+450
+00:19:17,140 --> 00:19:18,660
+Do you want to pay anyway?
+
+451
+00:19:18,660 --> 00:19:19,700
+No.
+
+452
+00:19:19,700 --> 00:19:20,660
+I don't want to pay for something
+
+453
+00:19:20,660 --> 00:19:21,900
+that I don't have to pay for.
+
+454
+00:19:24,420 --> 00:19:25,740
+And then the last step.
+
+455
+00:19:25,740 --> 00:19:29,740
+So if no one will pay for it, why would a selfish producer
+
+456
+00:19:29,740 --> 00:19:31,140
+produce it?
+
+457
+00:19:31,140 --> 00:19:34,500
+So just imagine going and passing a hat to collect donations
+
+458
+00:19:34,500 --> 00:19:37,700
+and how much money do selfish people put in in total?
+
+459
+00:19:37,700 --> 00:19:38,460
+None.
+
+460
+00:19:38,460 --> 00:19:40,420
+And then if you go to a producer and say,
+
+461
+00:19:40,420 --> 00:19:42,140
+if you agree to produce this public good,
+
+462
+00:19:42,140 --> 00:19:45,060
+I will give you the entire contents of this hat.
+
+463
+00:19:45,060 --> 00:19:47,100
+And you're like, show me the hat.
+
+464
+00:19:47,100 --> 00:19:49,460
+All right, there's nothing in the hat.
+
+465
+00:19:49,460 --> 00:19:51,100
+All right.
+
+466
+00:19:51,100 --> 00:19:54,700
+Now, there are two different ways
+
+467
+00:19:54,700 --> 00:20:04,660
+you can go and diagram these non-extremal benefits and costs.
+
+

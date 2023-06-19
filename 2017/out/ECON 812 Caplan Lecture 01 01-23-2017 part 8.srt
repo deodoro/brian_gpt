@@ -1,0 +1,709 @@
+1
+00:00:00,000 --> 00:00:07,000
+Before I do the last topic, let me hand out the first homework, which is due next week.
+
+2
+00:00:30,000 --> 00:00:37,000
+Last topic, conditional probability basis rule.
+
+3
+00:00:44,800 --> 00:00:50,280
+So subject and probability puts no constraints on what we call pre-eventual beliefs, where
+
+4
+00:00:50,280 --> 00:00:55,480
+you start. Whatever probability you start out with, subjective probability theory lets
+
+5
+00:00:55,480 --> 00:01:01,160
+you be subjective, whatever you want it to be. But it still mathematically imposes restrictions
+
+6
+00:01:01,160 --> 00:01:06,920
+on how you have to update your beliefs when new evidence comes in. So there is the conditional
+
+7
+00:01:06,920 --> 00:01:12,160
+probability formula, which says the probability of A given B, and whenever you see a probability
+
+8
+00:01:12,160 --> 00:01:17,480
+P with A and a vertical line and another one, always read that probability of A given B.
+
+9
+00:01:17,480 --> 00:01:24,080
+So probability of A given B is equal to the probability that A and B happen divided by
+
+10
+00:01:24,080 --> 00:01:28,560
+the probability of B. So for example, the probability that you get two heads given that
+
+11
+00:01:28,560 --> 00:01:33,000
+the first flip of a coin is heads equals the probability of two heads divided by the probability
+
+12
+00:01:33,000 --> 00:01:40,000
+of the first flip is heads, which equals 0.25 over 0.5, which equals 0.5. Then of course
+
+13
+00:01:40,000 --> 00:01:47,160
+we can apply this to more fanciful examples like, how about the probability that a child
+
+14
+00:01:47,160 --> 00:01:51,520
+really saw a monster given that he says he saw a monster. So you may have heard children
+
+15
+00:01:51,520 --> 00:01:55,000
+claim to see monsters at some point. You may have even claimed to have seen a monster at
+
+16
+00:01:55,000 --> 00:02:00,600
+some point. So what's the probability that he really did given that he says he did? So
+
+17
+00:02:00,600 --> 00:02:04,160
+this is equal to the probability that he saw a monster and there was a monster divided
+
+18
+00:02:04,160 --> 00:02:07,680
+by the probability that he says he saw a monster. So for example, the probability that he saw
+
+19
+00:02:07,680 --> 00:02:14,400
+a monster and there is a monster is one in a billion. So one in a billion, and that seems
+
+20
+00:02:14,400 --> 00:02:18,440
+if anything low. There's all kinds of weird things the kid might encounter. So what is
+
+21
+00:02:18,440 --> 00:02:25,440
+the weirdest animal that qualifies as a monster? So certainly a dinosaur would have to be a
+
+22
+00:02:25,440 --> 00:02:29,600
+monster, right? So if a kid said there's a monster in my room and there's a dinosaur
+
+23
+00:02:29,600 --> 00:02:35,800
+in there, what do you say? Wrong, it's a dinosaur, not a monster? No, of course it's a monster.
+
+24
+00:02:35,800 --> 00:02:41,640
+That's a monster of the kind dinosaur, without a doubt. And you might go down the list of
+
+25
+00:02:41,640 --> 00:02:45,800
+other weird animals which could possibly qualify as a monster, but a lion isn't a monster,
+
+26
+00:02:45,800 --> 00:02:49,600
+an elephant, no. Even a snake, not really a monster. But anyway, if it gets extreme
+
+27
+00:02:49,600 --> 00:02:54,160
+enough, monster. And then what about the possibility that it's just an animal you've never encountered
+
+28
+00:02:54,160 --> 00:03:00,160
+before? Like a really scary looking one, that could be a monster. My sister always tells
+
+29
+00:03:00,160 --> 00:03:06,120
+me that my brother believes in Bigfoot, which I'm scared to ask. But, alright, so anyway,
+
+30
+00:03:06,120 --> 00:03:10,040
+if you were right and Bigfoot showed up, that's a monster right there. I just called a big
+
+31
+00:03:10,040 --> 00:03:16,800
+primate, it's Bigfoot. How could Bigfoot not be a monster? So anyway, so that's going on,
+
+32
+00:03:16,800 --> 00:03:21,280
+so if the probability says he saw a monster is 10% because kids make stuff up to get attention,
+
+33
+00:03:21,280 --> 00:03:25,640
+then the conditional probability comes out to 1 in 100 million. Important point, conjunctions
+
+34
+00:03:25,640 --> 00:03:29,800
+can never be more probable than either component, so we'll talk about this after when we do
+
+35
+00:03:29,800 --> 00:03:33,880
+psychology and economics. Now there's a more advanced formula called Bayes' Rule, which
+
+36
+00:03:33,880 --> 00:03:39,720
+is the one that economists talk about a lot more. So, Bayes' Rule links the probability
+
+37
+00:03:39,720 --> 00:03:44,720
+of A given B to the probability of B given A. So Bayes' Rule states the probability of
+
+38
+00:03:44,720 --> 00:03:52,440
+A given B is equal to the probability of B given A times the probability of A all over
+
+39
+00:03:52,440 --> 00:04:01,840
+the probability of B given A times the probability of A plus the probability of B given not A
+
+40
+00:04:01,840 --> 00:04:07,760
+, tilde means not, times the probability of not A. And that is Bayes' Rule, which I'm
+
+41
+00:04:07,760 --> 00:04:11,120
+I'm sure everyone just immediately looks at it and sees that's got to be true, of course.
+
+42
+00:04:11,120 --> 00:04:12,680
+I use this all the time.
+
+43
+00:04:12,680 --> 00:04:18,080
+Whenever I get new information, I just plug the facts into the formula and then do it.
+
+44
+00:04:18,080 --> 00:04:19,080
+All right.
+
+45
+00:04:19,080 --> 00:04:21,400
+So anyway, that is Bayes' rule.
+
+46
+00:04:21,400 --> 00:04:24,640
+So here we can have something like the probability of the child saw a monster given that he says
+
+47
+00:04:24,640 --> 00:04:28,400
+he saw a monster is equal to the probability of the child says he saw a monster given he
+
+48
+00:04:28,400 --> 00:04:31,320
+saw a monster times the probability he saw a monster.
+
+49
+00:04:31,320 --> 00:04:35,000
+All this divided by probability he says he saw a monster given he saw a monster times
+
+50
+00:04:35,000 --> 00:04:38,660
+the probability you saw a monster plus the probability of the child says he saw a monster
+
+51
+00:04:38,660 --> 00:04:42,000
+if did not see a monster times the probability he did not see a monster.
+
+52
+00:04:42,000 --> 00:04:45,380
+So for example, if the probability he says he saw a monster is given he saw a monster
+
+53
+00:04:45,380 --> 00:04:49,800
+is 1, he's not going to keep it a secret, he's going to scream, and the probability
+
+54
+00:04:49,800 --> 00:04:53,680
+saw a monster if he'd not see a monster is.1, 10% chance the kid will make something
+
+55
+00:04:53,680 --> 00:04:55,560
+up to get attention.
+
+56
+00:04:55,560 --> 00:05:00,200
+Say the probability you saw a monster, let's make it the 1 in 10 million, the probability
+
+57
+00:05:00,200 --> 00:05:04,800
+he didn't see a monster is 1-1 in 10 million, then the initial probability works out to
+
+58
+00:05:04,800 --> 00:05:08,900
+to 9.999991 times 10 to the negative 7.
+
+59
+00:05:10,800 --> 00:05:14,520
+Now, why are economists so interested in Bayes' rule?
+
+60
+00:05:15,080 --> 00:05:16,180
+Many reasons.
+
+61
+00:05:16,180 --> 00:05:18,500
+One of them is it gives a very natural framework
+
+62
+00:05:18,500 --> 00:05:21,340
+for relating scientific hypotheses to evidence.
+
+63
+00:05:21,940 --> 00:05:24,320
+So let A be your hypothesis and B be some evidence,
+
+64
+00:05:24,320 --> 00:05:28,900
+and then we can calculate A given B. So let's take one
+
+65
+00:05:28,900 --> 00:05:29,880
+that economists have been talking
+
+66
+00:05:29,880 --> 00:05:31,340
+about for 20 years now.
+
+67
+00:05:31,340 --> 00:05:35,540
+So back in the early 90s, economist David Cardin
+
+68
+00:05:35,540 --> 00:05:38,420
+and Alan Kruger did some studies on the minimum wage that found
+
+69
+00:05:38,420 --> 00:05:40,020
+that the minimum wage did not cause unemployment.
+
+70
+00:05:40,020 --> 00:05:40,980
+All right?
+
+71
+00:05:40,980 --> 00:05:42,780
+You can go and read the details if you want.
+
+72
+00:05:43,280 --> 00:05:45,860
+But, you know, keep on Googling and get a large discussion
+
+73
+00:05:45,860 --> 00:05:48,800
+of what they found and all the criticisms, subsequent work,
+
+74
+00:05:48,800 --> 00:05:49,160
+and so on.
+
+75
+00:05:49,300 --> 00:05:52,760
+But anyway, so they went and did some studies on fast food,
+
+76
+00:05:52,760 --> 00:05:54,660
+found no disappointment effect on the minimum wage,
+
+77
+00:05:55,100 --> 00:05:56,500
+and then published the results.
+
+78
+00:05:57,800 --> 00:05:58,040
+All right.
+
+79
+00:05:58,040 --> 00:06:02,180
+Now, so how do we apply Bayes' rules to this?
+
+80
+00:06:02,660 --> 00:06:04,560
+Well, so the probability
+
+81
+00:06:04,560 --> 00:06:06,160
+that the minimum wage causes unemployment,
+
+82
+00:06:10,920 --> 00:06:13,360
+given the Cardin-Kruger results.
+
+83
+00:06:14,380 --> 00:06:16,120
+This is what we're interested in, right?
+
+84
+00:06:16,120 --> 00:06:17,540
+So we've got some science.
+
+85
+00:06:18,020 --> 00:06:18,940
+We've got an hypothesis.
+
+86
+00:06:18,940 --> 00:06:19,780
+We've got some science.
+
+87
+00:06:20,140 --> 00:06:21,960
+What's the probability of the hypothesis given the science?
+
+88
+00:06:21,960 --> 00:06:23,040
+All right?
+
+89
+00:06:23,040 --> 00:06:26,480
+And then to figure this out, we need to go
+
+90
+00:06:26,480 --> 00:06:27,100
+and apply the formula.
+
+91
+00:06:27,100 --> 00:06:30,340
+So suppose that the probability that Cardin-Kruger findings,
+
+92
+00:06:30,340 --> 00:06:31,660
+that you get Cardin-Kruger findings,
+
+93
+00:06:31,980 --> 00:06:34,740
+minimum wage does cause unemployment is.3.
+
+94
+00:06:35,540 --> 00:06:36,980
+Now, why would you get?
+
+95
+00:06:38,700 --> 00:06:42,360
+So as I said, the results found
+
+96
+00:06:42,360 --> 00:06:43,820
+that the minimum wage did not cause unemployment.
+
+97
+00:06:44,300 --> 00:06:46,600
+Suppose that minimum wage really did cause unemployment,
+
+98
+00:06:47,000 --> 00:06:49,660
+but Cardin-Kruger studies said the opposite.
+
+99
+00:06:49,800 --> 00:06:50,560
+Well, how could that happen?
+
+100
+00:06:50,560 --> 00:06:55,680
+An empirical study that's wrong, how could that ever happen?
+
+101
+00:06:57,620 --> 00:06:57,840
+Yes?
+
+102
+00:06:58,180 --> 00:07:00,240
+There might be some sort of emitted variable bias.
+
+103
+00:07:00,240 --> 00:07:01,460
+Yeah, there could be emitted variable.
+
+104
+00:07:01,920 --> 00:07:03,660
+That could be emitted variable.
+
+105
+00:07:03,800 --> 00:07:06,820
+Could be that there was a data coding error.
+
+106
+00:07:07,100 --> 00:07:08,760
+Could be a graduate student messed up.
+
+107
+00:07:09,200 --> 00:07:11,600
+Could be that the econometric software was bad.
+
+108
+00:07:12,060 --> 00:07:13,820
+Could be, I'm certainly not saying this,
+
+109
+00:07:13,820 --> 00:07:15,060
+but could be that they lied.
+
+110
+00:07:15,500 --> 00:07:17,740
+Could be that they had a subconscious bias towards
+
+111
+00:07:17,740 --> 00:07:18,520
+getting their results.
+
+112
+00:07:18,520 --> 00:07:20,640
+There's so many reasons that it could happen.
+
+113
+00:07:21,240 --> 00:07:24,800
+Right? So even very good econometric studies probably
+
+114
+00:07:24,800 --> 00:07:25,540
+aren't that good.
+
+115
+00:07:26,040 --> 00:07:27,960
+So in that case, there's definitely a chance
+
+116
+00:07:27,960 --> 00:07:32,620
+that a study could go and confirm the view that is wrong.
+
+117
+00:07:33,320 --> 00:07:35,220
+Right? Similarly, suppose you get the probability
+
+118
+00:07:35,220 --> 00:07:37,020
+that Cardin-Kruger findings give the minimum wage does not cause
+
+119
+00:07:37,020 --> 00:07:38,600
+unemployment, so that could be.8.
+
+120
+00:07:39,020 --> 00:07:39,820
+Why not 1?
+
+121
+00:07:40,220 --> 00:07:45,740
+Because again, it could very well be that the minimum wage
+
+122
+00:07:45,740 --> 00:07:49,480
+does not cause unemployment, so it could be that they're right,
+
+123
+00:07:49,800 --> 00:07:51,380
+but nevertheless, you wouldn't get the findings
+
+124
+00:07:51,380 --> 00:07:53,440
+because there could be some emitted variable bias
+
+125
+00:07:53,440 --> 00:07:56,300
+or coding errors or econometric software errors
+
+126
+00:07:56,300 --> 00:07:57,920
+or anything else that mess things up.
+
+127
+00:07:58,800 --> 00:07:59,040
+All right?
+
+128
+00:07:59,040 --> 00:08:02,940
+And then, suppose we start off with a very strong prior
+
+129
+00:08:02,940 --> 00:08:05,180
+to the minimum wage does cause unemployment, like 99%,
+
+130
+00:08:06,240 --> 00:08:08,740
+which to me, I will confess, sounds perfectly reasonable.
+
+131
+00:08:09,080 --> 00:08:09,740
+Why is it reasonable?
+
+132
+00:08:09,740 --> 00:08:13,500
+Well, I've got a 99% chance, a 99% probability the price
+
+133
+00:08:13,500 --> 00:08:16,120
+control on asparagus would have the usual effect,
+
+134
+00:08:16,540 --> 00:08:18,440
+99% probability the price control
+
+135
+00:08:18,440 --> 00:08:21,440
+on bottled water would have that effect, 99% probability
+
+136
+00:08:21,440 --> 00:08:23,540
+that all these other things would, so why not this?
+
+137
+00:08:24,040 --> 00:08:25,500
+Seems totally reasonable that would be set.
+
+138
+00:08:26,460 --> 00:08:26,660
+All right?
+
+139
+00:08:26,960 --> 00:08:27,820
+In which case, the probability
+
+140
+00:08:27,820 --> 00:08:29,760
+of minimum wage does not cause unemployment would be 1%.
+
+141
+00:08:30,240 --> 00:08:32,700
+Then, when we go and plug all this into Bayes' rule,
+
+142
+00:08:33,080 --> 00:08:41,060
+we will get.3 times.99 over.3 times.99 plus.8 times.01,
+
+143
+00:08:41,740 --> 00:08:42,720
+and what do we get?
+
+144
+00:08:42,720 --> 00:08:48,100
+We get 97.4% that the minimum wage causes unemployment
+
+145
+00:08:48,100 --> 00:08:48,880
+despite the results.
+
+146
+00:08:49,600 --> 00:08:50,380
+How is that possible?
+
+147
+00:08:50,380 --> 00:08:53,560
+Because if you start off with a strong prior, and if the test is
+
+148
+00:08:53,560 --> 00:08:57,480
+not that great to begin with, either way, then you are going
+
+149
+00:08:57,480 --> 00:09:00,100
+to move in the direction of the results.
+
+150
+00:09:00,640 --> 00:09:03,000
+So, we move from 99% chance the minimum wage causes
+
+151
+00:09:03,000 --> 00:09:04,960
+unemployment down to 97.4.
+
+152
+00:09:05,400 --> 00:09:08,360
+So, Bayes' rule moved us in the expected direction,
+
+153
+00:09:08,660 --> 00:09:10,060
+but it didn't move us that much
+
+154
+00:09:10,060 --> 00:09:15,000
+because we actually started off very confident, at least I did,
+
+155
+00:09:15,500 --> 00:09:19,800
+and we also started off with relatively pessimistic views
+
+156
+00:09:19,800 --> 00:09:22,260
+about how good econometrics actually is.
+
+157
+00:09:23,200 --> 00:09:23,380
+All right?
+
+158
+00:09:23,380 --> 00:09:24,920
+And now, we will stop.
+
+159
+00:09:25,540 --> 00:09:27,540
+So, homework one is due next week,
+
+160
+00:09:28,280 --> 00:09:29,720
+and you should know enough to do it,
+
+161
+00:09:29,720 --> 00:09:31,400
+even though we have a little bit to finish up here.
+
+162
+00:09:32,780 --> 00:09:32,960
+All right?
+
+163
+00:09:32,960 --> 00:09:36,360
+And see, I still have a couple of spare copies of the syllabus.
+
+164
+00:09:36,360 --> 00:09:39,760
+So, anyone missing the syllabus, we're going to get them.
+
+165
+00:09:43,940 --> 00:09:48,380
+Oh, yes. So, there are two options for turning in homework.
+
+166
+00:09:48,380 --> 00:09:50,360
+You may turn in a hard copy in class.
+
+167
+00:09:50,940 --> 00:09:53,180
+You may also directly email your homework
+
+168
+00:09:53,180 --> 00:09:56,040
+to the class teaching assistant, Julia Norgaard.
+
+169
+00:09:56,580 --> 00:09:59,700
+So, I will email you her email address so you can send it.
+
+170
+00:09:59,700 --> 00:10:03,140
+You should either hand it to me in class or through her
+
+171
+00:10:03,140 --> 00:10:03,880
+by email.
+
+172
+00:10:03,880 --> 00:10:06,360
+Email it to me, and then that just increases one link
+
+173
+00:10:06,360 --> 00:10:08,660
+in the possible chain of mistakes
+
+174
+00:10:08,660 --> 00:10:10,660
+that would lead you to that particular thing.
+
+175
+00:10:10,660 --> 00:10:12,300
+But I will send an email to remind you
+
+176
+00:10:12,300 --> 00:10:14,000
+of the process of doing that.
+
+177
+00:10:14,000 --> 00:10:37,600
+I'm going to register my selfishness.
+
+

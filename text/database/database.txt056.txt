@@ -1,0 +1,7 @@
+1.  Situation A is a Kaldor -Hicks improvement over Situation B.  Situation A is 
+Pareto efficient.  
+True, False, and Explain:  Situation A must also be Kaldor -Hicks efficient.  
+FALSE.  Just because A is a Kaldor -Hicks improvement over  B does not imply that there isn't 
+another situation that would be a Kaldor -Hicks improvement over A.  The additional information 
+that A is Pareto efficient is irrelevant, because virtually all situations are Pareto efficient.  
+ 

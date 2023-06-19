@@ -1,0 +1,19 @@
+2.  Coordination equilib ria are often persistent, but they also change.  Give a 
+real -world example.  Then use game theory to explain how this change 
+happened, paying particularly close attention to the incentives of the "first -
+movers."  
+ 
+My example: It used to be almost impossible  to publish survey research in economics, and as 
+long as no one would publish it, no economist wanted to do it.  This is no longer true.  The reason 
+is probably that there were some economists who were burning  to do survey research, so they 
+worked on it ev en when the chance of publication was low.  But once they published some work, 
+this raised the payoff.  This led slightly less enthusiastic economists to try survey research, which 
+raised the chance of publication, which led to more survey research...  Het erogeneous 
+preferences were the lever that got the survey research ball rolling.  
+ 
+Another class of good answer focused on the importance of market leaders.  A market leader 
+thinks that other peopl e will change if he changes  too, so he feels safer doing som ething different.  
+Continuing with my example, many of the economists who started doing survey research – like 
+Alan Blinder – were already famous for other accomplishments.  So they could expect people to 
+take them seriously even if they "broke the rules,"  which helped change the rules.  
+ 

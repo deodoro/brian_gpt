@@ -1,0 +1,7 @@
+7. True, False, and Explain: In signaling models, selfish agents might voluntarily supply public goods.
+
+True[25]. 
+
+Selfish agents who care about their social status might contribute to public goods because of what their contribution signals, namely trustworthiness or loyalty to the community. Despite the public goods themselves, benefitting society not just the selfish agent, the signalling value can be captured by the agent. 
+
+

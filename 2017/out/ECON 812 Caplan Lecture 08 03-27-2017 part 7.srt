@@ -1,0 +1,2145 @@
+1
+00:00:00,000 --> 00:00:02,320
+just crosses their arms and says,
+
+2
+00:00:02,320 --> 00:00:04,600
+no way, enough is enough,
+
+3
+00:00:04,600 --> 00:00:07,100
+I refuse to finish my senior year.
+
+4
+00:00:07,100 --> 00:00:09,360
+Do you wanna hire a person that stubborn,
+
+5
+00:00:09,360 --> 00:00:11,880
+that big headed, that defiant?
+
+6
+00:00:11,880 --> 00:00:13,080
+I don't.
+
+7
+00:00:13,080 --> 00:00:14,760
+They're great friends, I love people like that,
+
+8
+00:00:14,760 --> 00:00:17,660
+they're fun, but I'm not giving them my money.
+
+9
+00:00:19,360 --> 00:00:20,200
+Yeah, Ash?
+
+10
+00:00:20,200 --> 00:00:21,040
+Yeah.
+
+11
+00:00:21,040 --> 00:00:23,560
+Is this, would this then be the only case
+
+12
+00:00:23,560 --> 00:00:26,480
+where a sunk cost wouldn't be a fallacy?
+
+13
+00:00:26,480 --> 00:00:27,960
+Well, so this is not a sunk cost,
+
+14
+00:00:27,960 --> 00:00:31,640
+this is one where the benefit is unusually high over time.
+
+15
+00:00:31,640 --> 00:00:33,720
+So, here's the thing is,
+
+16
+00:00:33,720 --> 00:00:35,960
+it does make sense to get to a movie,
+
+17
+00:00:35,960 --> 00:00:37,240
+think that it's not as good as you hoped,
+
+18
+00:00:37,240 --> 00:00:38,600
+and then not leave.
+
+19
+00:00:38,600 --> 00:00:41,800
+Because the marginal cost to you
+
+20
+00:00:41,800 --> 00:00:45,240
+of finishing the movie is actually smaller
+
+21
+00:00:45,240 --> 00:00:46,320
+once you're already there.
+
+22
+00:00:46,320 --> 00:00:47,720
+You've already paid the commuting cost,
+
+23
+00:00:47,720 --> 00:00:52,200
+you've already gone and paid the price.
+
+24
+00:00:52,200 --> 00:00:54,600
+So it might be you only need $2 worth of surplus
+
+25
+00:00:54,600 --> 00:00:55,920
+to justify staying in a movie
+
+26
+00:00:55,920 --> 00:00:58,160
+once you've already shown up there.
+
+27
+00:00:58,160 --> 00:01:01,440
+So similarly, here, as long as the value of your time
+
+28
+00:01:01,440 --> 00:01:03,480
+isn't 70, of one year,
+
+29
+00:01:03,480 --> 00:01:05,480
+isn't the discount of present value
+
+30
+00:01:05,480 --> 00:01:09,560
+of 70% of the payoff of college for the rest of your life,
+
+31
+00:01:10,600 --> 00:01:13,440
+then it would make sense to finish.
+
+32
+00:01:13,440 --> 00:01:14,320
+Now, assuming in general,
+
+33
+00:01:14,320 --> 00:01:17,200
+suppose that every year is equally costly,
+
+34
+00:01:17,200 --> 00:01:19,000
+but the first year you get $1,
+
+35
+00:01:19,000 --> 00:01:19,840
+second year you get $1,
+
+36
+00:01:19,840 --> 00:01:20,660
+third year you get $1,
+
+37
+00:01:20,660 --> 00:01:22,360
+and last year you get $7.
+
+38
+00:01:22,360 --> 00:01:24,080
+It makes a lot of sense to go,
+
+39
+00:01:24,080 --> 00:01:25,880
+and once you've already gotten to the last year
+
+40
+00:01:25,880 --> 00:01:28,640
+stick it out because the payoff is unusually large.
+
+41
+00:01:28,640 --> 00:01:30,280
+Yeah, you have a question there?
+
+42
+00:01:30,280 --> 00:01:32,040
+Are there, I'm just trying to think
+
+43
+00:01:32,040 --> 00:01:33,360
+about possible exceptions,
+
+44
+00:01:33,360 --> 00:01:35,040
+and I was wondering like, you know,
+
+45
+00:01:35,040 --> 00:01:36,920
+a nursing school or a-
+
+46
+00:01:36,920 --> 00:01:37,760
+Yeah, absolutely.
+
+47
+00:01:37,760 --> 00:01:40,880
+So like there are plenty of majors that earn more,
+
+48
+00:01:40,880 --> 00:01:43,200
+and in general, higher earning majors
+
+49
+00:01:43,200 --> 00:01:45,120
+do look more vocational.
+
+50
+00:01:45,120 --> 00:01:46,520
+Yeah, but not just that,
+
+51
+00:01:46,520 --> 00:01:49,200
+it seems like a nursing major,
+
+52
+00:01:50,160 --> 00:01:53,000
+I mean, yes, there's some costly signaling involved
+
+53
+00:01:53,000 --> 00:01:55,200
+in one's engineering degree.
+
+54
+00:01:55,200 --> 00:01:56,760
+There are actually a few times
+
+55
+00:01:56,760 --> 00:01:59,600
+when you might use something in class in your real life.
+
+56
+00:01:59,600 --> 00:02:01,240
+Yes, so the might is key,
+
+57
+00:02:01,240 --> 00:02:02,520
+but here's the thing is,
+
+58
+00:02:02,520 --> 00:02:04,960
+in general people often think that if a subject is hard
+
+59
+00:02:04,960 --> 00:02:05,960
+and they don't know about it,
+
+60
+00:02:05,960 --> 00:02:07,480
+that it's all human capital,
+
+61
+00:02:07,480 --> 00:02:09,160
+and they think signaling is just important
+
+62
+00:02:09,160 --> 00:02:11,400
+in all the fields they personally know,
+
+63
+00:02:11,400 --> 00:02:14,760
+but I found that whenever I talk to anyone in any subject,
+
+64
+00:02:14,760 --> 00:02:16,480
+no matter how technical it is,
+
+65
+00:02:16,480 --> 00:02:18,240
+no matter how vocational it is,
+
+66
+00:02:18,240 --> 00:02:20,320
+they always will say they had to jump through
+
+67
+00:02:20,320 --> 00:02:21,600
+a bunch of meaningless hoops
+
+68
+00:02:21,600 --> 00:02:23,600
+that were irrelevant to the job.
+
+69
+00:02:23,600 --> 00:02:24,800
+I'm not saying that's not true,
+
+70
+00:02:24,800 --> 00:02:26,840
+I'm saying, you know,
+
+71
+00:02:26,840 --> 00:02:30,440
+if the meaningless hoops to the actual information
+
+72
+00:02:30,440 --> 00:02:35,440
+in art history is maybe 99.99.01,
+
+73
+00:02:35,880 --> 00:02:38,000
+in nursing, if you had 10% of useful information.
+
+74
+00:02:38,000 --> 00:02:40,480
+Yeah, sure, totally believable,
+
+75
+00:02:40,480 --> 00:02:43,360
+and I'd say my only reason for doubting is that,
+
+76
+00:02:43,360 --> 00:02:46,120
+so engineering is a higher absolute return,
+
+77
+00:02:46,120 --> 00:02:48,480
+so it could be the signaling percentage is lower,
+
+78
+00:02:48,480 --> 00:02:50,080
+it could be the signaling percentage is the same,
+
+79
+00:02:50,080 --> 00:02:52,480
+but the human capital part is just more valuable.
+
+80
+00:02:52,480 --> 00:02:55,520
+Like when they are teaching skills,
+
+81
+00:02:55,520 --> 00:02:57,480
+they're much more valuable skills.
+
+82
+00:02:57,480 --> 00:02:58,320
+So I mean, I know that,
+
+83
+00:02:58,320 --> 00:03:00,320
+so my dad's a PhD in electrical engineering,
+
+84
+00:03:00,320 --> 00:03:02,560
+he said the main thing they did was proofs,
+
+85
+00:03:02,560 --> 00:03:05,560
+which are never used on the job by a practicing engineer.
+
+86
+00:03:05,560 --> 00:03:06,520
+I mean, not surprising,
+
+87
+00:03:06,520 --> 00:03:08,560
+like who teaches engineering PhDs?
+
+88
+00:03:09,520 --> 00:03:11,520
+Yes, professors of engineering,
+
+89
+00:03:11,520 --> 00:03:13,520
+and the professors of engineering don't generally,
+
+90
+00:03:13,520 --> 00:03:14,800
+they have some connection to industry,
+
+91
+00:03:14,800 --> 00:03:16,840
+but most of them are just professors
+
+92
+00:03:16,840 --> 00:03:18,560
+who are like other professors,
+
+93
+00:03:18,560 --> 00:03:20,240
+they like talking about abstract subjects
+
+94
+00:03:20,240 --> 00:03:22,200
+of no practical interest to anyone.
+
+95
+00:03:22,200 --> 00:03:23,960
+My dad never stops telling the story
+
+96
+00:03:23,960 --> 00:03:26,120
+about a seminar he attended in grad school
+
+97
+00:03:26,120 --> 00:03:28,400
+about the design of a non-realizable engine.
+
+98
+00:03:29,280 --> 00:03:30,920
+And my dad is a super practical guy,
+
+99
+00:03:30,920 --> 00:03:32,640
+stupid, non-realizable engine,
+
+100
+00:03:32,640 --> 00:03:34,040
+why in God are you figuring out
+
+101
+00:03:34,040 --> 00:03:36,000
+how to design a non-realizable engine?
+
+102
+00:03:36,000 --> 00:03:38,240
+And I'm saying, well, as a professor,
+
+103
+00:03:38,240 --> 00:03:39,280
+that sounds really interesting,
+
+104
+00:03:39,280 --> 00:03:41,040
+maybe there's some interesting lesson
+
+105
+00:03:41,040 --> 00:03:43,120
+that you can learn by studying the non-realizable ones,
+
+106
+00:03:43,120 --> 00:03:45,280
+and maybe it teaches you fundamental principles.
+
+107
+00:03:45,280 --> 00:03:46,360
+Ah, bah!
+
+108
+00:03:46,360 --> 00:03:47,200
+Right?
+
+109
+00:03:47,200 --> 00:03:48,040
+Right?
+
+110
+00:03:48,040 --> 00:03:48,880
+And it's all right, well fine,
+
+111
+00:03:48,880 --> 00:03:51,600
+maybe it is of no use to actually designing any machine,
+
+112
+00:03:51,600 --> 00:03:55,200
+but it's still important and intellectually interesting.
+
+113
+00:03:55,200 --> 00:03:56,040
+Right?
+
+114
+00:03:56,040 --> 00:03:58,400
+And that's not, in the business world,
+
+115
+00:03:58,400 --> 00:04:00,840
+not considered very important.
+
+116
+00:04:00,840 --> 00:04:03,280
+So I'm curious to know how widely accepted
+
+117
+00:04:03,280 --> 00:04:05,840
+these sorts of concepts and this idea,
+
+118
+00:04:05,840 --> 00:04:07,280
+especially the signaling idea,
+
+119
+00:04:07,280 --> 00:04:09,360
+is being accepted, not just within economics,
+
+120
+00:04:09,360 --> 00:04:11,680
+but within the education establishment,
+
+121
+00:04:11,680 --> 00:04:15,160
+and education scholarship, and among education PhDs.
+
+122
+00:04:15,160 --> 00:04:16,200
+And if they-
+
+123
+00:04:16,200 --> 00:04:18,280
+Which idea, signaling or human capital?
+
+124
+00:04:18,280 --> 00:04:19,920
+As far as the signaling idea,
+
+125
+00:04:19,920 --> 00:04:21,800
+the fact that we're basically getting a certification
+
+126
+00:04:21,800 --> 00:04:23,680
+or a license of some sort.
+
+127
+00:04:23,680 --> 00:04:25,320
+Yeah, so what I'd say is,
+
+128
+00:04:25,320 --> 00:04:27,320
+economists, strangely, are probably the most hostile
+
+129
+00:04:27,320 --> 00:04:28,440
+to the signaling model.
+
+130
+00:04:28,440 --> 00:04:29,520
+So not economists in general,
+
+131
+00:04:29,520 --> 00:04:32,480
+but specialists in labor and education economics
+
+132
+00:04:32,480 --> 00:04:35,000
+are generally very hostile to signaling.
+
+133
+00:04:35,000 --> 00:04:37,600
+In fields like education, sociology, psychology,
+
+134
+00:04:37,600 --> 00:04:39,200
+they're much more open to it.
+
+135
+00:04:39,200 --> 00:04:40,600
+Although what they're not open to
+
+136
+00:04:40,600 --> 00:04:42,320
+is drawing the inference that then maybe
+
+137
+00:04:42,320 --> 00:04:43,240
+we don't want to give everyone
+
+138
+00:04:43,240 --> 00:04:45,040
+the best education in the world.
+
+139
+00:04:45,040 --> 00:04:48,080
+Maybe we've actually created a horrible prisoner, Selena,
+
+140
+00:04:48,080 --> 00:04:49,640
+and we should cut back.
+
+141
+00:04:49,640 --> 00:04:51,480
+So that's sort of the policy implication
+
+142
+00:04:51,480 --> 00:04:53,960
+is very hard for non-economists to accept.
+
+143
+00:04:53,960 --> 00:04:55,240
+Economists are really quick to say,
+
+144
+00:04:55,240 --> 00:04:56,400
+well, sure, if we're signaling,
+
+145
+00:04:56,400 --> 00:04:57,960
+then yeah, we're really,
+
+146
+00:04:57,960 --> 00:04:59,840
+well, government is going and pouring fuel
+
+147
+00:04:59,840 --> 00:05:01,000
+in the fire of waste.
+
+148
+00:05:02,600 --> 00:05:05,600
+But then most economists can see backwards induction
+
+149
+00:05:05,600 --> 00:05:08,440
+and realize they'd have to embrace a very personally
+
+150
+00:05:08,440 --> 00:05:10,520
+and politically unpalatable conclusion.
+
+151
+00:05:10,520 --> 00:05:12,920
+And so then they, at least my uncharitable theory,
+
+152
+00:05:12,920 --> 00:05:13,840
+is they then say, oh my God,
+
+153
+00:05:13,840 --> 00:05:15,800
+well, we can't accept a theory
+
+154
+00:05:15,800 --> 00:05:18,640
+that would logically imply something so horrifying.
+
+155
+00:05:18,640 --> 00:05:20,040
+So there's that.
+
+156
+00:05:20,040 --> 00:05:21,320
+And also based on what you were saying
+
+157
+00:05:21,320 --> 00:05:25,200
+about how little is retained from one year to the next,
+
+158
+00:05:25,200 --> 00:05:27,200
+when you're looking at the growth literature
+
+159
+00:05:27,200 --> 00:05:28,960
+and with comparisons of countries
+
+160
+00:05:28,960 --> 00:05:31,520
+that have X number of years of education
+
+161
+00:05:31,520 --> 00:05:32,720
+and schooling and whatnot,
+
+162
+00:05:32,720 --> 00:05:35,320
+and I'm sure you might be doing that here in the US,
+
+163
+00:05:36,240 --> 00:05:38,120
+how applicable is that really
+
+164
+00:05:38,120 --> 00:05:41,560
+if we're talking about the US, the number one economy,
+
+165
+00:05:41,560 --> 00:05:45,640
+where you have 20, mid-20 somethings,
+
+166
+00:05:45,640 --> 00:05:48,000
+you don't know what the three branches of government is,
+
+167
+00:05:48,000 --> 00:05:52,200
+but they've had 12, 16 plus years of schooling.
+
+168
+00:05:55,000 --> 00:05:56,400
+Can we say that that's really robust
+
+169
+00:05:56,400 --> 00:05:57,240
+or is that gonna start?
+
+170
+00:05:57,240 --> 00:06:00,360
+Yeah, well, I mean, if you're a diehard human capital fan,
+
+171
+00:06:00,360 --> 00:06:01,960
+you could always just say, look,
+
+172
+00:06:01,960 --> 00:06:03,120
+it's really disappointing
+
+173
+00:06:03,120 --> 00:06:05,560
+that education doesn't improve people more,
+
+174
+00:06:05,560 --> 00:06:09,160
+but the important thing is that it improves you enough
+
+175
+00:06:09,160 --> 00:06:10,200
+to justify higher pay.
+
+176
+00:06:10,200 --> 00:06:13,320
+So saying, look, someone who is half literate,
+
+177
+00:06:14,520 --> 00:06:15,680
+well, not half literate,
+
+178
+00:06:15,680 --> 00:06:18,640
+but someone who can read okay is much more employable
+
+179
+00:06:18,640 --> 00:06:20,720
+than someone who can't read at all.
+
+180
+00:06:20,720 --> 00:06:22,520
+Right, and then that makes sense.
+
+181
+00:06:22,520 --> 00:06:24,920
+And so you might very well be willing to pay 30% more
+
+182
+00:06:24,920 --> 00:06:27,680
+for someone who can read poorly
+
+183
+00:06:27,680 --> 00:06:29,680
+than for someone who can't read at all.
+
+184
+00:06:29,680 --> 00:06:33,600
+But then again, there's the puzzle
+
+185
+00:06:33,600 --> 00:06:34,840
+of what about all these other subjects
+
+186
+00:06:34,840 --> 00:06:37,320
+that people get penalized for not knowing?
+
+187
+00:06:37,320 --> 00:06:38,680
+So, so, seems in effect to me
+
+188
+00:06:38,680 --> 00:06:40,160
+is one of the most compelling arguments
+
+189
+00:06:40,160 --> 00:06:41,520
+for the power of signaling.
+
+190
+00:06:42,880 --> 00:06:44,040
+Another one, just as you're alluding to,
+
+191
+00:06:44,040 --> 00:06:46,400
+so there are efforts to go and compare
+
+192
+00:06:46,400 --> 00:06:48,240
+the effect of education on individuals
+
+193
+00:06:48,240 --> 00:06:50,200
+versus the effect on countries.
+
+194
+00:06:50,200 --> 00:06:51,760
+And the big punchline out of this literature
+
+195
+00:06:51,760 --> 00:06:54,760
+is that if you raise an individual's income,
+
+196
+00:06:54,760 --> 00:06:57,560
+by race, if you raise an individual's education by a year,
+
+197
+00:06:57,560 --> 00:06:59,880
+income goes up by maybe 10%.
+
+198
+00:06:59,880 --> 00:07:02,640
+If you raise a country's income by,
+
+199
+00:07:02,640 --> 00:07:04,620
+the average income in a country by a year
+
+200
+00:07:04,620 --> 00:07:07,840
+only seems to go up by about 2%.
+
+201
+00:07:07,840 --> 00:07:10,800
+So in other words, the effect of education
+
+202
+00:07:10,800 --> 00:07:13,360
+on individual income seems to be about five times as large
+
+203
+00:07:13,360 --> 00:07:16,320
+as for national income, which makes perfect sense here.
+
+204
+00:07:16,320 --> 00:07:20,040
+It's almost all of it signaling
+
+205
+00:07:20,040 --> 00:07:22,040
+because if one person gets more education,
+
+206
+00:07:22,040 --> 00:07:23,680
+you look better compared to the other people.
+
+207
+00:07:23,680 --> 00:07:25,080
+But if everyone gets more education,
+
+208
+00:07:25,080 --> 00:07:27,600
+you just need more education to look good.
+
+209
+00:07:27,600 --> 00:07:29,440
+Now, a reply to this that some people have made
+
+210
+00:07:29,440 --> 00:07:31,840
+is well, look, here's the real problem.
+
+211
+00:07:31,840 --> 00:07:33,200
+Education in a lot of these,
+
+212
+00:07:33,200 --> 00:07:34,640
+a lot of verbal countries is terrible.
+
+213
+00:07:34,640 --> 00:07:36,240
+The teachers don't even show up.
+
+214
+00:07:36,240 --> 00:07:39,480
+So of course, it isn't really helping their growth very much.
+
+215
+00:07:39,480 --> 00:07:42,200
+But that would predict that in countries like India
+
+216
+00:07:42,200 --> 00:07:44,400
+that have these horrible education systems,
+
+217
+00:07:44,400 --> 00:07:47,320
+that the private return to education would also be low.
+
+218
+00:07:47,320 --> 00:07:49,040
+It's not.
+
+219
+00:07:49,040 --> 00:07:51,040
+So in India, where the teachers aren't even showing up,
+
+220
+00:07:51,040 --> 00:07:52,880
+it still looks like an extra year of education
+
+221
+00:07:52,880 --> 00:07:56,040
+is buying you an extra 10% of wages for the rest of your life.
+
+222
+00:07:57,240 --> 00:08:00,440
+But the national effect seems to be very small.
+
+223
+00:08:00,440 --> 00:08:02,880
+Another set of evidence that I really like
+
+224
+00:08:02,880 --> 00:08:04,320
+is there's a whole literature,
+
+225
+00:08:04,320 --> 00:08:06,040
+more in sociology than economics,
+
+226
+00:08:06,040 --> 00:08:07,620
+although some economists can do it,
+
+227
+00:08:07,620 --> 00:08:12,620
+on what's called malemployment,
+
+228
+00:08:14,080 --> 00:08:16,080
+or sometimes called overeducation,
+
+229
+00:08:16,080 --> 00:08:17,920
+or just called credential inflation.
+
+230
+00:08:22,560 --> 00:08:24,880
+And it's the idea that over time,
+
+231
+00:08:24,880 --> 00:08:27,080
+the educational credentials that you need to get
+
+232
+00:08:27,080 --> 00:08:28,960
+a given job have gone up,
+
+233
+00:08:28,960 --> 00:08:30,720
+even though the jobs themselves
+
+234
+00:08:30,720 --> 00:08:33,020
+are no more complicated than they were before.
+
+235
+00:08:34,120 --> 00:08:35,880
+All right, so you can look at this
+
+236
+00:08:35,880 --> 00:08:37,760
+and see that now it is totally common
+
+237
+00:08:37,760 --> 00:08:40,200
+for waiters to have college degrees.
+
+238
+00:08:40,200 --> 00:08:42,760
+All right, so what's going on?
+
+239
+00:08:42,760 --> 00:08:43,920
+Is it, well, it's the fancy restaurants,
+
+240
+00:08:43,920 --> 00:08:45,360
+they wanna have waiters with college degrees
+
+241
+00:08:45,360 --> 00:08:48,600
+who go and deal better with the customers.
+
+242
+00:08:48,600 --> 00:08:50,320
+Do you need four years for that?
+
+243
+00:08:51,440 --> 00:08:52,840
+Like, why couldn't you just do, like,
+
+244
+00:08:52,840 --> 00:08:55,080
+one year of waiter school or something like that,
+
+245
+00:08:55,080 --> 00:08:57,040
+if it's all about just being able to go
+
+246
+00:08:57,040 --> 00:08:59,520
+and mingle with high-class customers?
+
+247
+00:08:59,520 --> 00:09:01,120
+I mean, it seems much more like
+
+248
+00:09:01,120 --> 00:09:04,560
+now that we have so many people with college degrees,
+
+249
+00:09:04,560 --> 00:09:06,400
+some of them lined up not being able
+
+250
+00:09:06,400 --> 00:09:07,800
+to get a regular college-type job,
+
+251
+00:09:07,800 --> 00:09:09,240
+and so they became waiters.
+
+252
+00:09:10,280 --> 00:09:12,840
+Right, so there's a little literature on this.
+
+253
+00:09:12,840 --> 00:09:16,040
+Oh, yeah, and bottom line is that
+
+254
+00:09:16,040 --> 00:09:17,880
+when people have tried to measure,
+
+255
+00:09:17,880 --> 00:09:21,560
+or disaggregate how much of the rise in education
+
+256
+00:09:21,560 --> 00:09:24,680
+is explained by changing of the jobs that we do
+
+257
+00:09:24,680 --> 00:09:27,000
+into more cognitively demanding jobs,
+
+258
+00:09:27,000 --> 00:09:29,320
+and how much of it can be explained
+
+259
+00:09:29,320 --> 00:09:32,400
+or accounted by rising education requirements
+
+260
+00:09:32,400 --> 00:09:35,360
+within given jobs, the rough breakdown looks like
+
+261
+00:09:35,360 --> 00:09:38,360
+about 20% of the education rise accounted for
+
+262
+00:09:38,360 --> 00:09:40,440
+with more cognitively demanding jobs,
+
+263
+00:09:40,440 --> 00:09:44,680
+80% the giant remainder just that you now need
+
+264
+00:09:44,680 --> 00:09:46,400
+more education to get a given job.
+
+265
+00:09:47,480 --> 00:09:48,600
+You might need a high school degree
+
+266
+00:09:48,600 --> 00:09:50,280
+to be a garbage man now.
+
+267
+00:09:50,280 --> 00:09:51,200
+Things like this.
+
+268
+00:09:51,200 --> 00:09:52,440
+Now, of course, sometimes you may say,
+
+269
+00:09:52,440 --> 00:09:53,840
+well, maybe it's for government jobs
+
+270
+00:09:53,840 --> 00:09:55,360
+or jobs where there's an education requirement
+
+271
+00:09:55,360 --> 00:09:56,680
+for licensing.
+
+272
+00:09:56,680 --> 00:09:58,000
+That may be a little bit of it,
+
+273
+00:09:58,000 --> 00:10:01,200
+but we can actually go and look at all of the industries,
+
+274
+00:10:01,200 --> 00:10:04,080
+like private sector employment or unlicensed industries,
+
+275
+00:10:04,080 --> 00:10:06,120
+and we can still see, even there,
+
+276
+00:10:06,120 --> 00:10:09,960
+it looks like employers are paying substantial premiums
+
+277
+00:10:09,960 --> 00:10:11,920
+to go and get people with high school degrees
+
+278
+00:10:11,920 --> 00:10:15,000
+or college degrees for jobs that common sense says
+
+279
+00:10:15,000 --> 00:10:17,360
+are not college jobs,
+
+280
+00:10:17,360 --> 00:10:19,400
+they're not even really high school jobs.
+
+281
+00:10:20,680 --> 00:10:23,000
+And then there's one other literature,
+
+282
+00:10:23,000 --> 00:10:24,640
+but it's a little complicated, so I won't go into it,
+
+283
+00:10:24,640 --> 00:10:26,320
+but I'll leave something for the imagination
+
+284
+00:10:26,320 --> 00:10:29,320
+in case you wanna take the class.
+
+285
+00:10:29,320 --> 00:10:32,280
+All right, so bottom line is
+
+286
+00:10:32,280 --> 00:10:33,360
+the signaling model for education
+
+287
+00:10:33,360 --> 00:10:34,200
+seems to make a lot of sense.
+
+288
+00:10:34,200 --> 00:10:35,040
+Oh yeah, one other thing.
+
+289
+00:10:35,040 --> 00:10:37,040
+So I also have a bunch of appeals
+
+290
+00:10:37,040 --> 00:10:38,800
+to firsthand experience that I like.
+
+291
+00:10:38,800 --> 00:10:40,200
+So I've already kind of done one,
+
+292
+00:10:40,200 --> 00:10:43,120
+which is why is it that you worry about
+
+293
+00:10:44,240 --> 00:10:46,040
+failing a class, but you don't worry about
+
+294
+00:10:46,040 --> 00:10:48,800
+forgetting the material in the class after the final exam?
+
+295
+00:10:49,680 --> 00:10:51,920
+In human capital terms, that's pretty odd,
+
+296
+00:10:51,920 --> 00:10:54,280
+because from the point of view of employers,
+
+297
+00:10:54,280 --> 00:10:55,520
+there's no difference between someone
+
+298
+00:10:55,520 --> 00:10:58,280
+who forgot the material and someone who never knew it.
+
+299
+00:10:58,280 --> 00:11:01,400
+But in signaling terms, there's a big difference,
+
+300
+00:11:01,400 --> 00:11:04,560
+because if you did a class that you didn't really like,
+
+301
+00:11:04,560 --> 00:11:07,040
+got an A, and then forgot all the material,
+
+302
+00:11:07,040 --> 00:11:09,440
+you still prove something about yourself.
+
+303
+00:11:09,440 --> 00:11:11,480
+And as long as willingness to submit
+
+304
+00:11:11,480 --> 00:11:15,280
+to boring, pointless tasks is persistent throughout life,
+
+305
+00:11:15,280 --> 00:11:16,880
+the fact that this one person went
+
+306
+00:11:16,880 --> 00:11:18,400
+and did a bunch of these things before
+
+307
+00:11:18,400 --> 00:11:19,680
+and then forgot the material
+
+308
+00:11:19,680 --> 00:11:21,000
+still makes them more employable
+
+309
+00:11:21,000 --> 00:11:21,840
+than someone who just said,
+
+310
+00:11:21,840 --> 00:11:24,680
+"'Screw you, I don't wanna do that stuff, it's stupid.'"
+
+311
+00:11:24,680 --> 00:11:25,520
+Yeah?
+
+312
+00:11:25,520 --> 00:11:28,360
+If you've learned something once and you forget it,
+
+313
+00:11:28,360 --> 00:11:29,360
+you can learn it faster.
+
+314
+00:11:29,360 --> 00:11:31,640
+That's very true, and there's plenty of literature on that,
+
+315
+00:11:31,640 --> 00:11:34,040
+but what if you don't even use it on the job?
+
+316
+00:11:34,040 --> 00:11:36,800
+Yeah, so why is it that you don't worry about that?
+
+317
+00:11:36,800 --> 00:11:37,920
+It's like, I could always learn it again
+
+318
+00:11:37,920 --> 00:11:39,320
+if I ever need to know it.
+
+319
+00:11:39,320 --> 00:11:40,800
+Of course, I'm almost certainly never gonna need
+
+320
+00:11:40,800 --> 00:11:42,320
+to know it again, unless maybe one day
+
+321
+00:11:42,320 --> 00:11:44,040
+you're teaching your kid it's the same material.
+
+322
+00:11:44,040 --> 00:11:46,320
+It's like, oh my God, trigonometry.
+
+323
+00:11:46,320 --> 00:11:47,800
+Now I better teach my kids how to do it.
+
+324
+00:11:47,800 --> 00:11:50,480
+Just saying, well, how did it go again?
+
+325
+00:11:50,480 --> 00:11:52,000
+Yeah, so there's that one.
+
+326
+00:11:52,000 --> 00:11:56,840
+Another one that I like is that actually,
+
+327
+00:11:57,880 --> 00:11:58,720
+so let me do it this way.
+
+328
+00:11:58,720 --> 00:11:59,560
+So you might be signaling
+
+329
+00:11:59,560 --> 00:12:01,720
+if you bother to enroll or pay tuition.
+
+330
+00:12:02,840 --> 00:12:04,200
+Now what do I mean by that?
+
+331
+00:12:04,200 --> 00:12:08,240
+Well, if you go and try to go to a doctor
+
+332
+00:12:08,240 --> 00:12:09,960
+and you show them your health insurance card,
+
+333
+00:12:09,960 --> 00:12:12,760
+normally they want a second document from you right now.
+
+334
+00:12:12,760 --> 00:12:13,880
+What document is that?
+
+335
+00:12:15,480 --> 00:12:17,160
+They wanna see your ID.
+
+336
+00:12:17,160 --> 00:12:19,040
+Why does the doctor wanna see your ID?
+
+337
+00:12:20,240 --> 00:12:21,120
+It's the word you might be trying
+
+338
+00:12:21,120 --> 00:12:22,800
+to get some free healthcare.
+
+339
+00:12:22,800 --> 00:12:24,000
+All right, on the other hand,
+
+340
+00:12:24,000 --> 00:12:26,920
+have you ever been carded at a college class?
+
+341
+00:12:26,920 --> 00:12:28,680
+Has anyone ever tried to make sure
+
+342
+00:12:28,680 --> 00:12:30,160
+that someone isn't learning for free?
+
+343
+00:12:30,160 --> 00:12:31,000
+Never.
+
+344
+00:12:31,000 --> 00:12:32,000
+Never, right?
+
+345
+00:12:33,080 --> 00:12:35,280
+So why don't we have to do this?
+
+346
+00:12:36,680 --> 00:12:38,920
+Because almost no one wants to.
+
+347
+00:12:38,920 --> 00:12:40,640
+Almost no one on earth wants to come
+
+348
+00:12:40,640 --> 00:12:44,160
+and learn a subject for free, unofficially, off the books.
+
+349
+00:12:44,160 --> 00:12:45,240
+Why not?
+
+350
+00:12:45,240 --> 00:12:46,760
+Well, he's saying, I'll tell you.
+
+351
+00:12:46,760 --> 00:12:48,000
+What about at Princeton?
+
+352
+00:12:48,000 --> 00:12:49,760
+You know, one of the top schools in the world.
+
+353
+00:12:49,760 --> 00:12:52,280
+They only admit 7% of the applicants
+
+354
+00:12:52,280 --> 00:12:53,920
+who are already really great.
+
+355
+00:12:53,920 --> 00:12:55,200
+So you get turned down by Princeton.
+
+356
+00:12:55,200 --> 00:12:56,160
+Why not just go anyway?
+
+357
+00:12:56,160 --> 00:12:58,800
+Just move into Princeton, start attending classes.
+
+358
+00:12:58,800 --> 00:13:02,840
+No one's gonna make sure that you're supposed to be there.
+
+359
+00:13:02,840 --> 00:13:06,040
+And in fact, if you do feel, if you're compulsively honest
+
+360
+00:13:06,040 --> 00:13:07,640
+and you go to the professor and say,
+
+361
+00:13:07,640 --> 00:13:09,440
+I've gotta be honest, I'm not even supposed to be here.
+
+362
+00:13:09,440 --> 00:13:12,480
+I just love labor economics.
+
+363
+00:13:12,480 --> 00:13:14,640
+Is it all right with you if I study with you
+
+364
+00:13:14,640 --> 00:13:17,520
+and learn at your feet, unofficially?
+
+365
+00:13:17,520 --> 00:13:21,720
+The number of professors who will say, no, get out,
+
+366
+00:13:21,720 --> 00:13:24,280
+it's very small, very small.
+
+367
+00:13:24,280 --> 00:13:26,400
+Normally, professors, when they hear that,
+
+368
+00:13:26,400 --> 00:13:28,400
+get a little tear in their eye.
+
+369
+00:13:28,400 --> 00:13:31,280
+You want to learn what I have to teach
+
+370
+00:13:31,280 --> 00:13:35,000
+for no reason other than a love of the subject.
+
+371
+00:13:35,000 --> 00:13:36,960
+This has never happened before.
+
+372
+00:13:36,960 --> 00:13:38,560
+This is a great day.
+
+373
+00:13:38,560 --> 00:13:41,160
+All right, that's more the professor's reaction.
+
+374
+00:13:41,160 --> 00:13:45,200
+So why don't people just go to whatever college
+
+375
+00:13:45,200 --> 00:13:46,960
+they think is best in the world,
+
+376
+00:13:46,960 --> 00:13:51,280
+learn all the material, and then you don't have
+
+377
+00:13:51,280 --> 00:13:52,960
+to do enrollment, you don't have to pay any tuition.
+
+378
+00:13:52,960 --> 00:13:53,800
+Why not?
+
+379
+00:13:55,560 --> 00:13:57,680
+You don't get, yeah, there's no official record
+
+380
+00:13:57,680 --> 00:13:59,040
+you were ever there.
+
+381
+00:13:59,040 --> 00:14:00,120
+Now, sometimes people will say, well,
+
+382
+00:14:00,120 --> 00:14:01,560
+you don't get the feedback from the professor,
+
+383
+00:14:01,560 --> 00:14:04,320
+you don't get to interact with other students.
+
+384
+00:14:04,320 --> 00:14:08,760
+If you were, like, look, you can save $200,000.
+
+385
+00:14:08,760 --> 00:14:10,640
+I think you could meet some other students
+
+386
+00:14:10,640 --> 00:14:12,240
+to talk to, I mean, like, who do they care
+
+387
+00:14:12,240 --> 00:14:13,080
+if you're not officially there?
+
+388
+00:14:13,080 --> 00:14:14,480
+You don't even have to tell them.
+
+389
+00:14:14,480 --> 00:14:17,520
+And then, like, even, you could just tell the professor
+
+390
+00:14:17,520 --> 00:14:19,120
+and he'll probably grade your work anyway.
+
+391
+00:14:19,120 --> 00:14:20,080
+It's like, what does it cost me?
+
+392
+00:14:20,080 --> 00:14:22,400
+A few minutes, a few minutes, and it means so much
+
+393
+00:14:22,400 --> 00:14:24,840
+for this one strange lover of learning.
+
+394
+00:14:26,360 --> 00:14:29,640
+And even there, you know, or how about
+
+395
+00:14:29,640 --> 00:14:30,680
+you just don't tell the professor.
+
+396
+00:14:30,680 --> 00:14:32,560
+Whenever the professor says, you're not supposed
+
+397
+00:14:32,560 --> 00:14:34,600
+to be here, it's just a mix-up of the registrar.
+
+398
+00:14:34,600 --> 00:14:35,520
+Mix-up of the registrar.
+
+399
+00:14:35,520 --> 00:14:38,360
+Like, what professor's gonna go and pick up a phone
+
+400
+00:14:38,360 --> 00:14:43,000
+and start saying, I have a question about student 10013721?
+
+401
+00:14:43,000 --> 00:14:46,120
+He says that he's, you know, like, he claims
+
+402
+00:14:46,120 --> 00:14:49,120
+that he's supposed to be here, but nothing ever changes
+
+403
+00:14:49,120 --> 00:14:50,400
+no matter what I do.
+
+404
+00:14:50,400 --> 00:14:51,760
+What's going on?
+
+405
+00:14:51,760 --> 00:14:54,120
+Right, so no, no, professors don't have time for that.
+
+406
+00:14:54,120 --> 00:14:55,240
+They don't care.
+
+407
+00:14:55,240 --> 00:14:57,800
+So I'd say you could get an education
+
+408
+00:14:57,800 --> 00:15:01,000
+in every sense of the word if you really were willing
+
+409
+00:15:01,000 --> 00:15:03,880
+to go and just put in a little extra effort,
+
+410
+00:15:03,880 --> 00:15:06,480
+and yet almost no one wants to, right?
+
+411
+00:15:06,480 --> 00:15:09,840
+Now, this doesn't mean that the, you know,
+
+412
+00:15:09,840 --> 00:15:11,560
+so, well, let me just say, like, a thought experiment
+
+413
+00:15:11,560 --> 00:15:14,840
+I like is, would you rather have the Princeton diploma
+
+414
+00:15:14,840 --> 00:15:17,040
+without the education, or the Princeton education
+
+415
+00:15:17,040 --> 00:15:17,880
+with no diploma?
+
+416
+00:15:19,120 --> 00:15:21,600
+Now, I'm not sure which answer is right,
+
+417
+00:15:21,600 --> 00:15:24,680
+but just the fact that you have to think about it
+
+418
+00:15:24,680 --> 00:15:26,640
+says a lot.
+
+419
+00:15:26,640 --> 00:15:30,640
+It's not a no-brainer, as human capital theory
+
+420
+00:15:30,640 --> 00:15:32,800
+would say that it is, right?
+
+421
+00:15:32,800 --> 00:15:34,080
+I think I already mentioned how, you know,
+
+422
+00:15:34,080 --> 00:15:35,640
+here's another fun one.
+
+423
+00:15:35,640 --> 00:15:39,040
+Why is it that students so eagerly seek out easy graders?
+
+424
+00:15:39,040 --> 00:15:42,760
+Yes, because employers don't know
+
+425
+00:15:42,760 --> 00:15:44,640
+that you didn't work very hard for the grade.
+
+426
+00:15:44,640 --> 00:15:46,600
+Now, they do know if you're in a hard major or not.
+
+427
+00:15:46,600 --> 00:15:48,600
+That's one that people can guess at,
+
+428
+00:15:48,600 --> 00:15:51,280
+and also some classes sound easier than others.
+
+429
+00:15:51,280 --> 00:15:53,240
+So real analysis sounds harder
+
+430
+00:15:53,240 --> 00:15:55,080
+than underwater basket weaving,
+
+431
+00:15:55,080 --> 00:15:57,920
+but once you've picked your major and your subject,
+
+432
+00:15:57,920 --> 00:16:00,120
+then you want to find the super easy person.
+
+433
+00:16:00,960 --> 00:16:02,880
+Now, what about the possibility
+
+434
+00:16:02,880 --> 00:16:05,160
+that the easy person won't teach you very much?
+
+435
+00:16:05,160 --> 00:16:06,640
+That seems totally reasonable,
+
+436
+00:16:06,640 --> 00:16:08,160
+and yet how many people decide
+
+437
+00:16:08,160 --> 00:16:09,800
+to go take the harder grade for fear
+
+438
+00:16:09,800 --> 00:16:13,320
+that they will miss out in terms of human capital creation?
+
+439
+00:16:13,320 --> 00:16:14,640
+Very rare.
+
+440
+00:16:14,640 --> 00:16:18,600
+All right, so that is a quick version of my book,
+
+441
+00:16:18,600 --> 00:16:20,400
+The Case Understanding Against Education.
+
+442
+00:16:20,400 --> 00:16:21,640
+There's tons more.
+
+443
+00:16:21,640 --> 00:16:23,960
+I obsessively read because I don't like writing
+
+444
+00:16:23,960 --> 00:16:25,760
+about a subject when I don't feel really knowledgeable
+
+445
+00:16:25,760 --> 00:16:28,000
+about it, and education is so complicated,
+
+446
+00:16:28,000 --> 00:16:29,560
+and also it's so thoroughly researched,
+
+447
+00:16:29,560 --> 00:16:30,440
+there's just a lot to read,
+
+448
+00:16:30,440 --> 00:16:34,120
+because so many people are interested in education.
+
+449
+00:16:34,120 --> 00:16:35,200
+First of all, it's a huge industry,
+
+450
+00:16:35,200 --> 00:16:36,120
+and second of all, of course,
+
+451
+00:16:36,120 --> 00:16:37,400
+academics are navel gazers.
+
+452
+00:16:37,400 --> 00:16:39,600
+We're obsessed with our own industry.
+
+453
+00:16:39,600 --> 00:16:41,320
+So, all right.
+
+454
+00:16:41,320 --> 00:16:44,200
+Now, just some other examples.
+
+455
+00:16:44,200 --> 00:16:45,520
+So, healthcare.
+
+456
+00:16:45,520 --> 00:16:48,440
+Robin Hansen has a well-known paper
+
+457
+00:16:48,440 --> 00:16:49,480
+called Showing That You Care,
+
+458
+00:16:49,480 --> 00:16:51,280
+The Evolution of Health Altruism,
+
+459
+00:16:51,280 --> 00:16:52,840
+where he argues that a lot of healthcare
+
+460
+00:16:52,840 --> 00:16:54,360
+is actually about signaling.
+
+461
+00:16:54,360 --> 00:16:55,320
+This is one where I first heard it,
+
+462
+00:16:55,320 --> 00:16:57,160
+I thought he was crazy.
+
+463
+00:16:57,160 --> 00:17:00,120
+But over the time, he has won me over more and more.
+
+464
+00:17:00,120 --> 00:17:03,560
+So, one thing that he told me that I had never heard before
+
+465
+00:17:03,560 --> 00:17:05,560
+is that when empirical health economists
+
+466
+00:17:05,560 --> 00:17:08,680
+estimate the effect of medical care on health,
+
+467
+00:17:08,680 --> 00:17:10,120
+they find a much smaller effect
+
+468
+00:17:10,120 --> 00:17:11,760
+than most people would expect.
+
+469
+00:17:11,760 --> 00:17:13,040
+Much smaller.
+
+470
+00:17:13,040 --> 00:17:14,240
+So, we can sort of have the whole idea
+
+471
+00:17:14,240 --> 00:17:16,640
+that most of the rise in life expectancy
+
+472
+00:17:16,640 --> 00:17:18,520
+is due to improving medical care.
+
+473
+00:17:18,520 --> 00:17:20,520
+No one who knows the data believes that.
+
+474
+00:17:21,760 --> 00:17:24,560
+Which I just took for granted until he told me that.
+
+475
+00:17:24,560 --> 00:17:26,840
+So, there's that.
+
+476
+00:17:28,400 --> 00:17:30,160
+Just in terms of the actual payoff for health,
+
+477
+00:17:30,160 --> 00:17:31,000
+it's overrated.
+
+478
+00:17:31,920 --> 00:17:34,400
+So, that's just getting started.
+
+479
+00:17:34,400 --> 00:17:37,560
+But then he started pointing out how often people
+
+480
+00:17:37,560 --> 00:17:39,240
+will go and pressure you to get healthcare
+
+481
+00:17:39,240 --> 00:17:41,840
+even when medical science says
+
+482
+00:17:41,840 --> 00:17:43,680
+there's almost nothing healthcare can do for you.
+
+483
+00:17:43,680 --> 00:17:45,520
+Like if you have a virus,
+
+484
+00:17:45,520 --> 00:17:47,680
+what can a doctor actually do for you?
+
+485
+00:17:47,680 --> 00:17:50,560
+Like, give me antibiotics for my viruses.
+
+486
+00:17:50,560 --> 00:17:53,680
+So, well, they can mess up your antibiotic resistance.
+
+487
+00:17:53,680 --> 00:17:55,160
+That's what they can do for you.
+
+488
+00:17:55,160 --> 00:17:56,920
+So, yeah, so there's a lot of conditions
+
+489
+00:17:56,920 --> 00:17:58,880
+that doctors can't do much for.
+
+490
+00:17:58,880 --> 00:18:00,600
+You may even notice when you go to doctors
+
+491
+00:18:00,600 --> 00:18:02,600
+how rarely they can actually solve your problem
+
+492
+00:18:02,600 --> 00:18:04,320
+or do anything for you.
+
+493
+00:18:04,320 --> 00:18:05,280
+At least that's my experience.
+
+494
+00:18:05,280 --> 00:18:08,400
+I've had a bunch of different weird medical problems.
+
+495
+00:18:08,400 --> 00:18:11,080
+Nothing that serious, but like all in the vicinity
+
+496
+00:18:11,080 --> 00:18:13,640
+of unpleasant aches and pains.
+
+497
+00:18:13,640 --> 00:18:17,080
+And I have never had a doctor who has any help at all,
+
+498
+00:18:17,080 --> 00:18:19,080
+really, for any of this stuff.
+
+499
+00:18:19,080 --> 00:18:21,040
+You know, like, they're just useless.
+
+500
+00:18:22,160 --> 00:18:27,160
+For back pain, knee pain, foot pain, neck pain, right?
+
+501
+00:18:27,600 --> 00:18:31,280
+And so, in the end, what I did is,
+
+502
+00:18:31,280 --> 00:18:34,440
+well, so whenever there were any products available
+
+503
+00:18:34,440 --> 00:18:35,280
+at the pharmacy, I would just say,
+
+504
+00:18:35,280 --> 00:18:37,520
+I'm gonna buy every possible foot orthotic,
+
+505
+00:18:37,520 --> 00:18:40,960
+everyone, and try them all and see if anything works.
+
+506
+00:18:40,960 --> 00:18:44,520
+So that was very useful and cost less than one doctor visit
+
+507
+00:18:44,520 --> 00:18:48,080
+to buy every single foot orthotic in the entire store.
+
+508
+00:18:48,080 --> 00:18:49,400
+Well, not like the entire stock,
+
+509
+00:18:49,400 --> 00:18:51,760
+but like one of every product that was being offered.
+
+510
+00:18:51,760 --> 00:18:53,800
+And that did way more for me.
+
+511
+00:18:53,800 --> 00:18:58,760
+So, but then, Robin points out that health insurance
+
+512
+00:18:58,760 --> 00:19:02,320
+often seems to be part of some kind of relationship
+
+513
+00:19:02,320 --> 00:19:06,400
+where if you don't provide it, you're considered to be mean.
+
+514
+00:19:06,400 --> 00:19:07,800
+So like an employer doesn't provide healthcare,
+
+515
+00:19:07,800 --> 00:19:10,000
+you think they don't care about their employees.
+
+516
+00:19:10,000 --> 00:19:11,840
+If a parent doesn't take to the kid at the doctor,
+
+517
+00:19:11,840 --> 00:19:13,480
+they're a bad parent.
+
+518
+00:19:13,480 --> 00:19:15,880
+So again, it seems, and it does seem like people
+
+519
+00:19:15,880 --> 00:19:18,040
+have some sense of it would be embarrassing.
+
+520
+00:19:18,040 --> 00:19:21,080
+It would be shameful to them if they didn't provide it.
+
+521
+00:19:22,040 --> 00:19:23,960
+Now then, well, I mean, I thought more about this
+
+522
+00:19:23,960 --> 00:19:24,960
+when I actually went to the doctor,
+
+523
+00:19:24,960 --> 00:19:26,880
+noticed all the propaganda there.
+
+524
+00:19:26,880 --> 00:19:28,720
+And the propaganda is so much about caring
+
+525
+00:19:28,720 --> 00:19:33,240
+and loving people, not about numerous things like,
+
+526
+00:19:33,240 --> 00:19:36,680
+73% of the people who come with this problem can be cured
+
+527
+00:19:36,680 --> 00:19:40,080
+versus only 20% who go in the placebo group.
+
+528
+00:19:40,080 --> 00:19:41,960
+There's no propaganda like that.
+
+529
+00:19:41,960 --> 00:19:43,840
+It's always like, I love the doctor,
+
+530
+00:19:43,840 --> 00:19:45,920
+the doctor cares about me.
+
+531
+00:19:45,920 --> 00:19:48,000
+And like, even for stuff that it seems like
+
+532
+00:19:48,000 --> 00:19:51,160
+the doctor probably has nothing to really offer still.
+
+533
+00:19:51,160 --> 00:19:54,400
+And then you'll hear like, this I found striking too.
+
+534
+00:19:54,400 --> 00:19:56,440
+So how many of you go and mention a problem
+
+535
+00:19:56,440 --> 00:19:59,000
+and your friend will say, you gotta get that checked out
+
+536
+00:19:59,000 --> 00:20:27,000
+versus don't worry.
+
+

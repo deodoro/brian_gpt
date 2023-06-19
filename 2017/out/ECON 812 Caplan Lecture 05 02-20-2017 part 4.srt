@@ -1,0 +1,1925 @@
+1
+00:00:00,000 --> 00:00:03,440
+that makes sense, because you're losing this on every unit.
+
+2
+00:00:03,440 --> 00:00:08,040
+Every unit that gets produced by the incompetent firm has waste.
+
+3
+00:00:08,040 --> 00:00:10,800
+So if the firm that is in the market
+
+4
+00:00:10,800 --> 00:00:15,480
+is producing at 10% above the minimum social minimum average
+
+5
+00:00:15,480 --> 00:00:19,280
+cost, then every unit has its 10% waste.
+
+6
+00:00:19,280 --> 00:00:21,280
+And that is a problem.
+
+7
+00:00:21,280 --> 00:00:23,360
+So again, if you're curious about, well,
+
+8
+00:00:23,360 --> 00:00:26,480
+I guess these estimates are like 30 years old from the Robert
+
+9
+00:00:26,480 --> 00:00:27,680
+Borg's Antitrust Paradox.
+
+10
+00:00:27,680 --> 00:00:29,800
+Although I don't think there have been many efforts
+
+11
+00:00:29,800 --> 00:00:31,260
+to make further estimates of this,
+
+12
+00:00:31,260 --> 00:00:33,760
+people just lost interest in the subject.
+
+13
+00:00:33,760 --> 00:00:34,640
+Same with me.
+
+14
+00:00:34,640 --> 00:00:36,400
+Why?
+
+15
+00:00:36,400 --> 00:00:39,120
+There's an element of fashion in academia.
+
+16
+00:00:39,120 --> 00:00:40,320
+I don't know.
+
+17
+00:00:40,320 --> 00:00:42,080
+This may come as a terrible shock.
+
+18
+00:00:42,080 --> 00:00:44,360
+But sometimes people aren't interested in a topic
+
+19
+00:00:44,360 --> 00:00:46,360
+because nobody else is doing it, even though it's
+
+20
+00:00:46,360 --> 00:00:47,240
+really important.
+
+21
+00:00:47,240 --> 00:00:48,680
+And sometimes people devote their lives
+
+22
+00:00:48,680 --> 00:00:50,640
+to topics that are of no importance whatsoever,
+
+23
+00:00:50,640 --> 00:00:53,360
+because other people are doing it.
+
+24
+00:00:53,360 --> 00:00:56,480
+You can try to either game the system or approve it.
+
+25
+00:00:56,480 --> 00:00:58,840
+That will be up to you.
+
+26
+00:00:58,840 --> 00:01:00,720
+All right.
+
+27
+00:01:00,720 --> 00:01:01,220
+Yes?
+
+28
+00:01:01,220 --> 00:01:02,960
+Why do you draw your marginal cost curves
+
+29
+00:01:02,960 --> 00:01:04,600
+horizontally instead of vertically?
+
+30
+00:01:04,600 --> 00:01:07,000
+So the answer is that it's easier.
+
+31
+00:01:07,000 --> 00:01:08,280
+And it's not wrong.
+
+32
+00:01:08,280 --> 00:01:09,760
+It's just a special case.
+
+33
+00:01:09,760 --> 00:01:13,320
+But yes, we could go and do these as,
+
+34
+00:01:13,320 --> 00:01:14,880
+we could go and draw them like that.
+
+35
+00:01:14,880 --> 00:01:17,160
+And then the diagram just gets harder.
+
+36
+00:01:17,160 --> 00:01:20,040
+But everything I was saying still goes through.
+
+37
+00:01:20,040 --> 00:01:23,160
+There is a common question about this, which is,
+
+38
+00:01:23,160 --> 00:01:26,280
+why don't we go and say that that's the allocated,
+
+39
+00:01:26,280 --> 00:01:27,720
+that's the productive inefficiency,
+
+40
+00:01:27,720 --> 00:01:30,120
+and then call that the new allocated inefficiency
+
+41
+00:01:30,120 --> 00:01:31,480
+or something like that?
+
+42
+00:01:31,480 --> 00:01:33,320
+And the answer is, we could totally do that.
+
+43
+00:01:33,320 --> 00:01:34,560
+But it's confusing.
+
+44
+00:01:34,560 --> 00:01:39,000
+So it is less confusing to say that everything that
+
+45
+00:01:39,000 --> 00:01:42,280
+is caused by not letting the lowest cost producer produce,
+
+46
+00:01:42,280 --> 00:01:44,720
+we'll call all that productive inefficiency.
+
+47
+00:01:44,720 --> 00:01:48,880
+And then we'll only call allocated inefficiency
+
+48
+00:01:48,880 --> 00:01:51,640
+the deadweight costs that come from your price being greater
+
+49
+00:01:51,640 --> 00:01:53,880
+than your own marginal cost.
+
+50
+00:01:53,880 --> 00:01:56,840
+So now, going back to the scenario,
+
+51
+00:01:56,840 --> 00:01:59,960
+imagine that after you go and put the entrant out
+
+52
+00:01:59,960 --> 00:02:03,000
+of business, you say, I also want to make some money here.
+
+53
+00:02:03,000 --> 00:02:07,800
+In that case, you're going to go and set the price that
+
+54
+00:02:07,800 --> 00:02:11,040
+is above not only the minimum marginal cost,
+
+55
+00:02:11,040 --> 00:02:14,000
+but you're going to set it above your own marginal cost.
+
+56
+00:02:14,000 --> 00:02:18,320
+So if you are a high-cost firm and you want to make money,
+
+57
+00:02:18,320 --> 00:02:22,320
+you need to charge a price higher than your own high cost.
+
+58
+00:02:22,320 --> 00:02:25,080
+And in fact, you will go and set marginal revenue
+
+59
+00:02:25,080 --> 00:02:28,520
+equal to the incumbent marginal cost, this high one.
+
+60
+00:02:28,520 --> 00:02:31,960
+And then we will have two kinds of inefficiency.
+
+61
+00:02:31,960 --> 00:02:37,560
+We'll have a trapezoid of productive inefficiency.
+
+62
+00:02:37,560 --> 00:02:40,200
+And then we'll also have the triangle
+
+63
+00:02:40,200 --> 00:02:43,800
+of allocated inefficiency.
+
+64
+00:02:43,800 --> 00:02:46,600
+Is it overlap?
+
+65
+00:02:46,600 --> 00:02:47,240
+No, actually.
+
+66
+00:02:47,240 --> 00:02:49,040
+It's designed to not have overlap.
+
+67
+00:02:49,040 --> 00:02:51,840
+So we only call the price being greater
+
+68
+00:02:51,840 --> 00:02:54,160
+than your own marginal cost, the allocated.
+
+69
+00:02:54,160 --> 00:02:57,880
+And then we call everything else the productive.
+
+70
+00:02:57,880 --> 00:02:58,920
+Could you relabel it?
+
+71
+00:02:58,920 --> 00:02:59,560
+Yes, you could.
+
+72
+00:02:59,560 --> 00:03:00,720
+But it's confusing.
+
+73
+00:03:00,720 --> 00:03:01,680
+It's more confusing.
+
+74
+00:03:01,680 --> 00:03:04,080
+It is clearer if you do it this way.
+
+75
+00:03:04,080 --> 00:03:06,560
+So what's determining that point?
+
+76
+00:03:06,560 --> 00:03:07,200
+This one here?
+
+77
+00:03:07,200 --> 00:03:07,700
+Yeah.
+
+78
+00:03:07,700 --> 00:03:10,440
+Oh, well, so that's just the standard equation
+
+79
+00:03:10,440 --> 00:03:12,400
+for the monopolist, where you put in your own,
+
+80
+00:03:12,400 --> 00:03:13,960
+the monopolist's own marginal cost.
+
+81
+00:03:13,960 --> 00:03:15,240
+So the marginal revenue curve.
+
+82
+00:03:15,240 --> 00:03:16,640
+Yeah, so the marginal revenue curve
+
+83
+00:03:16,640 --> 00:03:19,920
+is the same either way, because there's just one demand curve.
+
+84
+00:03:19,920 --> 00:03:22,600
+But there are two different monopoly prices
+
+85
+00:03:22,600 --> 00:03:24,440
+that you'll get, depending upon whether you
+
+86
+00:03:24,440 --> 00:03:27,720
+have an efficient monopolist or an inefficient monopolist.
+
+87
+00:03:27,720 --> 00:03:30,800
+So yes, an important point for understanding
+
+88
+00:03:30,800 --> 00:03:32,040
+the basic theory of monopoly.
+
+89
+00:03:32,040 --> 00:03:35,200
+So let's take the worst monopoly in the world.
+
+90
+00:03:35,200 --> 00:03:37,600
+Does standard monopoly theory predict that the,
+
+91
+00:03:37,600 --> 00:03:39,880
+what does standard monopoly theory predict they will do
+
+92
+00:03:39,880 --> 00:03:42,600
+if their own marginal costs fall?
+
+93
+00:03:42,600 --> 00:03:44,600
+So this is like the really crummy monopolist,
+
+94
+00:03:44,600 --> 00:03:47,280
+where it's illegal for anyone to compete with them.
+
+95
+00:03:47,280 --> 00:03:50,200
+And then, say, the cost of oil goes down.
+
+96
+00:03:50,200 --> 00:03:53,440
+What does standard monopoly theory predict they will do?
+
+97
+00:03:53,440 --> 00:03:54,920
+Lower price.
+
+98
+00:03:54,920 --> 00:03:55,600
+Yes.
+
+99
+00:03:55,600 --> 00:03:57,600
+Why would they lower price on their monopoly?
+
+100
+00:03:57,600 --> 00:03:59,800
+Because they want to go and set a price equal to,
+
+101
+00:03:59,800 --> 00:04:01,400
+marginal revenue equals marginal cost,
+
+102
+00:04:01,400 --> 00:04:05,000
+is what maximizes a monopolist's profit.
+
+103
+00:04:05,000 --> 00:04:08,120
+So if marginal cost goes down, even the worst monopolist
+
+104
+00:04:08,120 --> 00:04:11,280
+in the world wants to cut his price.
+
+105
+00:04:11,280 --> 00:04:12,200
+As long as it's profit.
+
+106
+00:04:12,200 --> 00:04:14,040
+As long as it's profit maximizing.
+
+107
+00:04:14,040 --> 00:04:15,760
+If it were a regulated monopoly that's
+
+108
+00:04:15,760 --> 00:04:17,280
+not allowed to earn profits, then it
+
+109
+00:04:17,280 --> 00:04:20,960
+would not decide to do it.
+
+110
+00:04:20,960 --> 00:04:21,960
+All right.
+
+111
+00:04:21,960 --> 00:04:25,440
+So now, I'm just thinking about examples of this.
+
+112
+00:04:25,440 --> 00:04:27,960
+My favorite one of a regulated monopolist
+
+113
+00:04:27,960 --> 00:04:32,360
+that doesn't allow competition is the post office.
+
+114
+00:04:32,360 --> 00:04:34,920
+So as you probably know, it is illegal for anyone
+
+115
+00:04:34,920 --> 00:04:36,760
+to compete with the United States Post Office
+
+116
+00:04:36,760 --> 00:04:39,600
+for delivery of first class mail.
+
+117
+00:04:39,600 --> 00:04:43,120
+So the post office first bans competition.
+
+118
+00:04:43,120 --> 00:04:45,040
+But then, it has its prices regulated.
+
+119
+00:04:45,040 --> 00:04:47,720
+So it is not allowed to earn really high profits.
+
+120
+00:04:47,720 --> 00:04:49,880
+And this makes for great public relations.
+
+121
+00:04:49,880 --> 00:04:52,800
+Because you can always say, all of these ignorant critics
+
+122
+00:04:52,800 --> 00:04:55,000
+of the post office who act like they're making money, hand
+
+123
+00:04:55,000 --> 00:04:55,560
+them a fist.
+
+124
+00:04:55,560 --> 00:04:56,200
+We're not.
+
+125
+00:04:56,200 --> 00:04:59,240
+We're just barely scraping by here.
+
+126
+00:04:59,240 --> 00:05:01,440
+And the point of this is a, that's true,
+
+127
+00:05:01,440 --> 00:05:04,760
+and yet you're still screwing us over.
+
+128
+00:05:04,760 --> 00:05:08,520
+Because you are depriving us of alternatives that are better.
+
+129
+00:05:08,520 --> 00:05:12,520
+All right.
+
+130
+00:05:12,520 --> 00:05:13,020
+All right.
+
+131
+00:05:17,160 --> 00:05:19,320
+Now, this also gives us some great insight
+
+132
+00:05:19,320 --> 00:05:20,840
+into government created monopolies
+
+133
+00:05:20,840 --> 00:05:23,400
+versus private monopoly versus market monopolies.
+
+134
+00:05:23,400 --> 00:05:27,000
+So both of them have potential for allocating inefficiency.
+
+135
+00:05:27,000 --> 00:05:29,200
+So remember, we go back over here.
+
+136
+00:05:29,200 --> 00:05:31,680
+So here, if there's a whole distribution
+
+137
+00:05:31,680 --> 00:05:33,800
+of different costs, and the firm that
+
+138
+00:05:33,800 --> 00:05:37,840
+happens to be the lowest cost will be the monopolist.
+
+139
+00:05:37,840 --> 00:05:40,200
+And what price will they charge?
+
+140
+00:05:40,200 --> 00:05:42,320
+You're already established?
+
+141
+00:05:42,320 --> 00:05:44,200
+So what price will the incumbent firm charge
+
+142
+00:05:44,200 --> 00:05:46,080
+in this simple contestability model?
+
+143
+00:05:46,080 --> 00:05:46,720
+Marginal cost.
+
+144
+00:05:46,720 --> 00:05:49,920
+Yeah, just below the marginal cost of the potential firm.
+
+145
+00:05:49,920 --> 00:05:52,560
+Suppose there's 100 potential entrants.
+
+146
+00:05:52,560 --> 00:05:54,560
+Do you take an average, or what do you do?
+
+147
+00:05:54,560 --> 00:05:55,920
+Go by whatever the lowest is.
+
+148
+00:05:55,920 --> 00:05:57,920
+Yes, the second best.
+
+149
+00:05:57,920 --> 00:05:58,480
+Second best.
+
+150
+00:05:58,480 --> 00:06:02,520
+Intuitively, what do you need to do to win a running race?
+
+151
+00:06:02,520 --> 00:06:05,680
+You need to run faster than the second fastest person.
+
+152
+00:06:05,680 --> 00:06:06,840
+Then you win.
+
+153
+00:06:06,840 --> 00:06:09,680
+So similarly, to be the monopolist,
+
+154
+00:06:09,680 --> 00:06:15,160
+you need to have lower cost than the second lowest cost firm.
+
+155
+00:06:15,160 --> 00:06:17,200
+So anyway, we take a look over here.
+
+156
+00:06:17,200 --> 00:06:19,760
+So we charge that price.
+
+157
+00:06:19,760 --> 00:06:22,280
+So is there going to be any allocated inefficiency
+
+158
+00:06:22,280 --> 00:06:24,320
+in this model?
+
+159
+00:06:24,320 --> 00:06:24,840
+Well, sure.
+
+160
+00:06:24,840 --> 00:06:25,920
+Here's your marginal cost.
+
+161
+00:06:25,920 --> 00:06:27,240
+There's your price.
+
+162
+00:06:27,240 --> 00:06:29,160
+So there's allocated inefficiency.
+
+163
+00:06:29,160 --> 00:06:31,760
+Because you've got price greater than your own marginal cost,
+
+164
+00:06:31,760 --> 00:06:33,640
+so you do have that allocated inefficiency.
+
+165
+00:06:33,640 --> 00:06:36,120
+But is there any productive inefficiency?
+
+166
+00:06:36,120 --> 00:06:39,280
+No, because in this model, the productively inefficient firms
+
+167
+00:06:39,280 --> 00:06:42,200
+are out-competed and die, or they simply never
+
+168
+00:06:42,200 --> 00:06:43,680
+form in the first place.
+
+169
+00:06:43,680 --> 00:06:47,080
+And the firm that stays around is the lowest cost firm.
+
+170
+00:06:50,240 --> 00:06:52,560
+So this says that with money monopoly,
+
+171
+00:06:52,560 --> 00:06:54,680
+you may very well get allocated inefficiency.
+
+172
+00:06:54,680 --> 00:06:57,880
+In fact, you should expect allocated inefficiency.
+
+173
+00:06:57,880 --> 00:07:01,760
+Unless the two best firms in the world
+
+174
+00:07:01,760 --> 00:07:05,160
+are tied for awesomeness.
+
+175
+00:07:05,160 --> 00:07:07,840
+If the two best firms in the world have the very same cost,
+
+176
+00:07:07,840 --> 00:07:10,320
+then you get allocated inefficiency.
+
+177
+00:07:10,320 --> 00:07:13,040
+Otherwise, you always do.
+
+178
+00:07:13,040 --> 00:07:16,800
+But at least then you don't get productive inefficiency.
+
+179
+00:07:16,800 --> 00:07:19,760
+On the other hand, when you have a government-created monopoly,
+
+180
+00:07:19,760 --> 00:07:22,200
+then if the prices are not regulated,
+
+181
+00:07:22,200 --> 00:07:25,280
+should you still expect allocated inefficiency?
+
+182
+00:07:25,280 --> 00:07:27,840
+So you can charge any price that you want,
+
+183
+00:07:27,840 --> 00:07:30,280
+and the government makes competition illegal.
+
+184
+00:07:30,280 --> 00:07:33,440
+Will you raise price above your own marginal cost?
+
+185
+00:07:33,440 --> 00:07:35,120
+That make sense?
+
+186
+00:07:35,120 --> 00:07:38,080
+But is there likely to be productive inefficiency
+
+187
+00:07:38,080 --> 00:07:40,120
+in this scenario?
+
+188
+00:07:40,120 --> 00:07:43,080
+In fact, you should expect there to almost always
+
+189
+00:07:43,080 --> 00:07:44,840
+be productive inefficiency.
+
+190
+00:07:44,840 --> 00:07:47,080
+There's only one way that productive inefficiency
+
+191
+00:07:47,080 --> 00:07:48,440
+will be avoided.
+
+192
+00:07:48,440 --> 00:07:51,680
+That's if the government hands the monopoly to?
+
+193
+00:07:51,680 --> 00:07:52,440
+Markets.
+
+194
+00:07:52,440 --> 00:07:55,640
+Yes, the lowest cost firm in the world.
+
+195
+00:07:55,640 --> 00:07:59,200
+And why would it do that?
+
+196
+00:07:59,200 --> 00:08:02,560
+That seems like wishful thinking.
+
+197
+00:08:02,560 --> 00:08:06,320
+So it just so happens to be that all the dictator's brother-in-laws
+
+198
+00:08:06,320 --> 00:08:09,400
+are the best at producing stuff.
+
+199
+00:08:09,400 --> 00:08:11,080
+Why else would I make my brother-in-law,
+
+200
+00:08:11,080 --> 00:08:12,880
+unless he was a really low-cost producer?
+
+201
+00:08:15,360 --> 00:08:20,760
+So the idea there is that the very fact that you
+
+202
+00:08:20,760 --> 00:08:22,360
+are going to the government and crying
+
+203
+00:08:22,360 --> 00:08:24,040
+about needing production from competition
+
+204
+00:08:24,040 --> 00:08:25,840
+suggests that you probably aren't that good.
+
+205
+00:08:29,000 --> 00:08:30,800
+And that aside, there's just the fact, well,
+
+206
+00:08:30,800 --> 00:08:33,120
+what are the odds that the government will pick the firm
+
+207
+00:08:33,120 --> 00:08:34,800
+that has the very lowest costs?
+
+208
+00:08:34,800 --> 00:08:37,320
+Unless there's a mechanism that ensures the government always
+
+209
+00:08:37,320 --> 00:08:41,680
+picks them, then there is going to be a very high probability
+
+210
+00:08:41,680 --> 00:08:43,800
+that somebody else gets picked.
+
+211
+00:08:43,800 --> 00:08:46,720
+Furthermore, in the real dynamic world,
+
+212
+00:08:46,720 --> 00:08:51,040
+suppose the government initially picks the most efficient firm.
+
+213
+00:08:51,040 --> 00:08:53,520
+Is productive inefficiency likely to emerge later
+
+214
+00:08:53,520 --> 00:08:57,280
+on in a dynamic world?
+
+215
+00:08:57,280 --> 00:08:57,800
+Sure.
+
+216
+00:08:57,800 --> 00:08:58,300
+Why?
+
+217
+00:08:58,300 --> 00:09:00,600
+Yeah.
+
+218
+00:09:00,600 --> 00:09:02,120
+New firms with lower costs.
+
+219
+00:09:02,120 --> 00:09:04,520
+Yes, new firms with lower costs are born.
+
+220
+00:09:04,520 --> 00:09:06,160
+And the government doesn't immediately
+
+221
+00:09:06,160 --> 00:09:07,480
+grab the license of the monopolist
+
+222
+00:09:07,480 --> 00:09:08,880
+and hand it to the new firm.
+
+223
+00:09:08,880 --> 00:09:10,920
+Instead, they stand by their firm.
+
+224
+00:09:10,920 --> 00:09:15,440
+They say, well, this firm represents France itself.
+
+225
+00:09:15,440 --> 00:09:18,880
+So no, we can't just go and give the license away
+
+226
+00:09:18,880 --> 00:09:21,160
+to some other firm, who supposedly
+
+227
+00:09:21,160 --> 00:09:24,040
+has lower costs and everything.
+
+228
+00:09:24,040 --> 00:09:25,800
+People act like just because it's illegal
+
+229
+00:09:25,800 --> 00:09:28,520
+that we're scared of something, which we're totally not.
+
+230
+00:09:28,520 --> 00:09:31,600
+So that is the idea.
+
+231
+00:09:31,600 --> 00:09:34,320
+So the key difference between government-created monopolies
+
+232
+00:09:34,320 --> 00:09:36,720
+and market monopolies, both of them
+
+233
+00:09:36,720 --> 00:09:39,080
+allow for allocated inefficiency.
+
+234
+00:09:39,080 --> 00:09:41,280
+But government-created monopolies
+
+235
+00:09:41,280 --> 00:09:44,000
+are much more likely to have productive inefficiency, too,
+
+236
+00:09:44,000 --> 00:09:46,760
+which, as we said, in the real world seems to be much worse.
+
+237
+00:09:50,440 --> 00:09:53,280
+So why don't we go and take our 10-minute break now.
+
+238
+00:09:53,280 --> 00:09:54,560
+And let's see.
+
+239
+00:09:54,560 --> 00:09:58,640
+So yes, you've got homework due today, correct?
+
+240
+00:09:58,640 --> 00:09:59,840
+Just due today?
+
+241
+00:09:59,840 --> 00:10:00,340
+Yes.
+
+242
+00:10:00,340 --> 00:10:00,840
+Yes.
+
+243
+00:10:00,840 --> 00:10:02,640
+So there's a look of non-recognition.
+
+244
+00:10:02,640 --> 00:10:06,520
+And when you go and, yes, and when you get it,
+
+245
+00:10:06,520 --> 00:10:08,800
+then please pick up the answer key.
+
+246
+00:10:08,800 --> 00:10:11,360
+And also, let's see.
+
+247
+00:10:14,520 --> 00:10:17,400
+And yes, also, never stops.
+
+248
+00:10:17,400 --> 00:10:21,320
+The hunger for econ cannot be quenched.
+
+249
+00:10:21,320 --> 00:10:22,960
+OK.
+
+250
+00:10:22,960 --> 00:10:23,480
+All right.
+
+251
+00:10:23,480 --> 00:10:25,520
+So moving on.
+
+252
+00:10:25,520 --> 00:10:27,560
+All right, so predation, end-returns, and mixed
+
+253
+00:10:27,560 --> 00:10:28,920
+strategies.
+
+254
+00:10:28,920 --> 00:10:32,080
+Now, predation is one of those very vague words
+
+255
+00:10:32,080 --> 00:10:34,440
+that gets thrown around a lot.
+
+256
+00:10:34,440 --> 00:10:37,640
+So what insight can mean theory shed
+
+257
+00:10:37,640 --> 00:10:41,040
+on what predation ought to mean, or the way
+
+258
+00:10:41,040 --> 00:10:42,520
+that we might interpret predation?
+
+259
+00:10:42,520 --> 00:10:44,680
+Actually, could you please close the door back there?
+
+260
+00:10:47,600 --> 00:10:49,120
+Before I do this, I have to tell you
+
+261
+00:10:49,120 --> 00:10:50,960
+one other thing about sunk costs.
+
+262
+00:10:50,960 --> 00:10:53,160
+So you know the standard story about once you really
+
+263
+00:10:53,160 --> 00:10:55,920
+understand economics, you walk out of movies freely,
+
+264
+00:10:55,920 --> 00:10:58,960
+because you realize you've already made it at some cost.
+
+265
+00:10:58,960 --> 00:11:02,880
+And so why sit there enjoying, or why sit there not enjoying
+
+266
+00:11:02,880 --> 00:11:06,760
+a movie, when just because you wasted some money on it?
+
+267
+00:11:06,760 --> 00:11:08,360
+By then, you're wasting doubly.
+
+268
+00:11:08,360 --> 00:11:12,800
+Then the last time that I was in California, as I often do,
+
+269
+00:11:12,800 --> 00:11:15,720
+I learned something new and strange about my brother.
+
+270
+00:11:15,720 --> 00:11:20,280
+My brother is so cheap that he actually
+
+271
+00:11:20,280 --> 00:11:23,680
+asks for his money back for any movie he doesn't like.
+
+272
+00:11:23,680 --> 00:11:29,480
+Which means that for him, even though it is not a sunk cost.
+
+273
+00:11:29,480 --> 00:11:30,880
+Now, think about this.
+
+274
+00:11:30,880 --> 00:11:33,160
+So should this make you more or less likely to walk out
+
+275
+00:11:33,160 --> 00:11:34,840
+of a movie if when you walk out, you
+
+276
+00:11:34,840 --> 00:11:38,080
+feel like you also feel entitled to get your money back?
+
+277
+00:11:38,080 --> 00:11:39,600
+Or, of course, is that what you want?
+
+278
+00:11:39,600 --> 00:11:40,960
+Yes.
+
+279
+00:11:40,960 --> 00:11:46,600
+So the fact that if a cost is sunk,
+
+280
+00:11:46,600 --> 00:11:48,640
+it should make you more inclined to stay.
+
+281
+00:11:48,640 --> 00:11:51,400
+So you might say, I paid $7 for this.
+
+282
+00:11:51,400 --> 00:11:53,160
+I only like it at $2, but it sunk,
+
+283
+00:11:53,160 --> 00:11:54,680
+so I guess I'll spend the last $2,
+
+284
+00:11:54,680 --> 00:11:56,280
+and I'll get $2 surplus out of it.
+
+285
+00:11:56,280 --> 00:11:57,960
+But yeah, if you get the whole $7 back,
+
+286
+00:11:57,960 --> 00:11:59,160
+you'll walk out right away.
+
+287
+00:11:59,160 --> 00:12:00,360
+Apparently, this works, too.
+
+288
+00:12:00,360 --> 00:12:01,680
+I mean, the people are confused.
+
+289
+00:12:01,680 --> 00:12:05,200
+But all right, strange, cheap, middle-aged man.
+
+290
+00:12:05,200 --> 00:12:08,560
+I'm going to give you a little bit of money.
+
+291
+00:12:08,560 --> 00:12:09,800
+Pardon me, please.
+
+292
+00:12:09,800 --> 00:12:12,080
+How often does it work?
+
+293
+00:12:12,080 --> 00:12:13,840
+Apparently, whenever he has.
+
+294
+00:12:13,840 --> 00:12:16,000
+I think he even asks sometimes at the end of a movie
+
+295
+00:12:16,000 --> 00:12:20,080
+and feels that he was there because his family made
+
+296
+00:12:20,080 --> 00:12:21,640
+him stay there.
+
+297
+00:12:21,640 --> 00:12:23,440
+Well, I won't ask to bring it for my wife.
+
+298
+00:12:23,440 --> 00:12:25,280
+She liked it, but I want my money back.
+
+299
+00:12:25,280 --> 00:12:26,200
+And I have to suffer.
+
+300
+00:12:26,200 --> 00:12:26,700
+Yeah.
+
+301
+00:12:26,700 --> 00:12:28,680
+Or, all right.
+
+302
+00:12:28,680 --> 00:12:29,640
+Let's just go back.
+
+303
+00:12:29,640 --> 00:12:33,320
+So the fact, all right, yeah, yes?
+
+304
+00:12:33,320 --> 00:12:36,040
+I think it might be because some movie theaters have
+
+305
+00:12:36,040 --> 00:12:39,680
+an agreement that the ticket price goes exclusively
+
+306
+00:12:39,680 --> 00:12:42,480
+to the movie producers.
+
+307
+00:12:42,480 --> 00:12:44,720
+Well, it's not normally exclusively.
+
+308
+00:12:44,720 --> 00:12:47,240
+But yeah, it's true that at first it's usually at 90%,
+
+309
+00:12:47,240 --> 00:12:49,000
+and then the percentage goes down.
+
+310
+00:12:49,000 --> 00:12:49,880
+Yeah.
+
+311
+00:12:49,880 --> 00:12:50,400
+All right.
+
+312
+00:12:50,400 --> 00:12:51,560
+But they're still confused.
+
+313
+00:12:51,560 --> 00:12:55,040
+It's really unusual to do this for someone to ask.
+
+314
+00:12:55,040 --> 00:12:56,240
+All right.
+
+315
+00:12:56,240 --> 00:12:58,760
+So now, going back to predation.
+
+316
+00:12:58,760 --> 00:12:59,240
+All right.
+
+317
+00:12:59,240 --> 00:13:01,160
+So the very simplest model of predation
+
+318
+00:13:01,160 --> 00:13:04,960
+is just that it is a hostile phrase that
+
+319
+00:13:04,960 --> 00:13:06,800
+means limit pricing.
+
+320
+00:13:06,800 --> 00:13:09,480
+All right, so imagine we've got a world just like this one.
+
+321
+00:13:09,480 --> 00:13:12,040
+We already drew it, where we've got lots of different cost
+
+322
+00:13:12,040 --> 00:13:14,880
+curves, marginal cost one, two, marginal cost three,
+
+323
+00:13:14,880 --> 00:13:17,920
+marginal cost four, marginal cost five, so on.
+
+324
+00:13:17,920 --> 00:13:19,800
+It's all the different costs.
+
+325
+00:13:19,800 --> 00:13:22,600
+And the most efficient firms charge the price
+
+326
+00:13:22,600 --> 00:13:26,080
+just low enough to keep everyone else out of the market.
+
+327
+00:13:26,080 --> 00:13:26,920
+All right.
+
+328
+00:13:26,920 --> 00:13:32,840
+So now, you can understand why you might call it predation,
+
+329
+00:13:32,840 --> 00:13:34,560
+because you charge the price low enough
+
+330
+00:13:34,560 --> 00:13:37,760
+to make it impossible for anyone to profitably compete with you.
+
+331
+00:13:37,760 --> 00:13:40,600
+It sounds kind of like you're being a predator, a wolf.
+
+332
+00:13:40,600 --> 00:13:42,360
+You're like, argh, all right, I'm
+
+333
+00:13:42,360 --> 00:13:45,320
+going to charge a price so none of you will be able to compete.
+
+334
+00:13:45,320 --> 00:13:49,120
+I'm still profitable, but none of you are.
+
+335
+00:13:49,120 --> 00:13:49,880
+All right.
+
+336
+00:13:49,880 --> 00:13:53,440
+Now, in the real world, this probably happens all the time.
+
+337
+00:13:53,440 --> 00:13:57,200
+As to whether or not it is done self-consciously
+
+338
+00:13:57,200 --> 00:13:58,840
+is an interesting question.
+
+339
+00:13:58,840 --> 00:14:00,000
+So who really cares?
+
+340
+00:14:00,000 --> 00:14:01,920
+Well, the law cares a lot.
+
+341
+00:14:01,920 --> 00:14:04,400
+So if you are suing someone under the antitrust law,
+
+342
+00:14:04,400 --> 00:14:07,560
+and you've got to remember the way I'm going to show you,
+
+343
+00:14:07,560 --> 00:14:10,560
+so suppose you can either sue someone
+
+344
+00:14:10,560 --> 00:14:14,040
+for breach of contract or for breaking the antitrust laws.
+
+345
+00:14:14,040 --> 00:14:16,400
+Which one do you definitely want to sue them under?
+
+346
+00:14:16,400 --> 00:14:17,760
+Breach of contract.
+
+347
+00:14:17,760 --> 00:14:19,480
+No, breach of contract.
+
+348
+00:14:19,480 --> 00:14:22,360
+And age old law says that if you prove that they breach
+
+349
+00:14:22,360 --> 00:14:25,360
+contract, they have to pay you their wages.
+
+350
+00:14:25,360 --> 00:14:28,200
+But if you can sue them under antitrust law,
+
+351
+00:14:28,200 --> 00:14:30,640
+then what do you get?
+
+352
+00:14:30,640 --> 00:14:32,560
+Treble damages.
+
+353
+00:14:32,560 --> 00:14:33,520
+Treble damages.
+
+354
+00:14:33,520 --> 00:14:37,520
+So I believe that's originally in the Clayton Act.
+
+355
+00:14:37,520 --> 00:14:41,040
+And this is why one of the most common kinds of private antitrust
+
+356
+00:14:41,040 --> 00:14:45,560
+cases is actually franchisees suing the mother corporation.
+
+357
+00:14:45,560 --> 00:14:47,680
+Because if you sue the mother corporation for breach
+
+358
+00:14:47,680 --> 00:14:49,560
+of contract, you only get your money back.
+
+359
+00:14:49,560 --> 00:14:51,260
+But if you can sell them under antitrust,
+
+360
+00:14:51,260 --> 00:14:53,480
+you get three times the whatever harm they did to you.
+
+361
+00:14:56,080 --> 00:14:58,560
+Now, so why are we talking about this?
+
+362
+00:14:58,560 --> 00:15:03,600
+Because in the eyes of the law, intent matters a lot.
+
+363
+00:15:03,600 --> 00:15:05,520
+Because remember, whenever you are actually
+
+364
+00:15:05,520 --> 00:15:07,720
+taking someone to trial, you need to convince 12 people not
+
+365
+00:15:07,720 --> 00:15:10,520
+smart enough to get out of jury duty.
+
+366
+00:15:10,520 --> 00:15:14,800
+And therefore, what is likely to be very convincing to a jury
+
+367
+00:15:14,800 --> 00:15:15,320
+like this?
+
+368
+00:15:15,320 --> 00:15:17,560
+A bunch of diagrams and statistics and stuff?
+
+369
+00:15:17,560 --> 00:15:18,360
+No.
+
+370
+00:15:18,360 --> 00:15:21,480
+Far better is you want a one memo taken out
+
+371
+00:15:21,480 --> 00:15:25,040
+of the archives of the accused firm that says,
+
+372
+00:15:25,040 --> 00:15:27,040
+we will destroy the competition!
+
+373
+00:15:27,040 --> 00:15:28,600
+Exclamation point.
+
+374
+00:15:28,600 --> 00:15:30,240
+And then you wave it around and say,
+
+375
+00:15:30,240 --> 00:15:32,040
+we don't need to talk about bad statistics.
+
+376
+00:15:32,040 --> 00:15:34,520
+We have it in there from their own mouths.
+
+377
+00:15:34,520 --> 00:15:37,120
+And that is where your lawyer's like, oh, god.
+
+378
+00:15:37,120 --> 00:15:39,320
+Let's settle this now.
+
+379
+00:15:39,320 --> 00:15:42,080
+Because in the eyes of the law, as well as
+
+380
+00:15:42,080 --> 00:15:44,640
+the human beings that are involved in the law,
+
+381
+00:15:44,640 --> 00:15:47,000
+intentions are enormously important,
+
+382
+00:15:47,000 --> 00:15:50,520
+even though economically you might do this just because you
+
+383
+00:15:50,520 --> 00:15:51,020
+are civil.
+
+384
+00:15:51,020 --> 00:15:52,880
+Like, we just chose the brightest and nicest
+
+385
+00:15:52,880 --> 00:15:53,480
+vice-profits.
+
+386
+00:15:53,480 --> 00:15:54,120
+I don't know.
+
+387
+00:15:54,120 --> 00:15:55,720
+I'm not trying to hurt anybody.
+
+388
+00:15:55,720 --> 00:15:57,560
+And then there might be another person,
+
+389
+00:15:57,560 --> 00:16:01,280
+say, like a former athlete, who's like, yeah, crush them!
+
+390
+00:16:01,280 --> 00:16:01,960
+Crush them!
+
+391
+00:16:01,960 --> 00:16:04,080
+Crack them in the ground!
+
+392
+00:16:04,080 --> 00:16:07,920
+And the behavior is identical in both cases.
+
+393
+00:16:07,920 --> 00:16:09,760
+But the attitude is different.
+
+394
+00:16:09,760 --> 00:16:14,480
+And if you put it in writing, then the legal outcome
+
+395
+00:16:14,480 --> 00:16:16,120
+is likely to be very different, too.
+
+396
+00:16:20,480 --> 00:16:23,800
+So you're saying this is illegal under antitrust
+
+397
+00:16:23,800 --> 00:16:27,240
+to intentionally undercut the prices of your company?
+
+398
+00:16:27,240 --> 00:16:31,040
+Well, so if you do it and you very clearly say,
+
+399
+00:16:31,040 --> 00:16:32,640
+we are doing it in order to destroy,
+
+400
+00:16:32,640 --> 00:16:35,760
+in order to acquire a monopoly and destroy the competition,
+
+401
+00:16:35,760 --> 00:16:39,360
+then you are likely to be in big trouble.
+
+402
+00:16:39,360 --> 00:16:41,080
+Of course, as to what happens, again,
+
+403
+00:16:41,080 --> 00:16:44,120
+it always depends upon what the jury will find.
+
+404
+00:16:44,120 --> 00:16:47,120
+The jury is generally so economically ignorant,
+
+405
+00:16:47,120 --> 00:16:49,320
+I mean, to an almost unbelievable degree.
+
+406
+00:16:49,320 --> 00:16:50,720
+And yet, they are making decisions
+
+407
+00:16:50,720 --> 00:16:52,640
+that could cost billions of dollars.
+
+408
+00:16:52,640 --> 00:16:57,240
+So of course, in most cases, they're a lot smaller than that.
+
+409
+00:16:57,240 --> 00:16:59,960
+Yeah, so even like the biggest antitrust cases,
+
+410
+00:16:59,960 --> 00:17:01,960
+those are just regular old juries.
+
+411
+00:17:01,960 --> 00:17:03,360
+They don't need to go and even go
+
+412
+00:17:03,360 --> 00:17:05,400
+get a bachelor's degree in economics
+
+413
+00:17:05,400 --> 00:17:07,960
+to sit on the Microsoft case.
+
+414
+00:17:07,960 --> 00:17:11,160
+They sit there doing, well, I don't know a lot about this.
+
+415
+00:17:11,160 --> 00:17:17,040
+But what I do know is Microsoft is good.
+
+416
+00:17:17,040 --> 00:17:19,560
+And then they fail.
+
+417
+00:17:19,560 --> 00:17:20,320
+Or bad.
+
+418
+00:17:20,320 --> 00:17:21,120
+And then they lose.
+
+419
+00:17:24,800 --> 00:17:26,800
+So this kind of thing probably happens all the time,
+
+420
+00:17:26,800 --> 00:17:28,280
+with or without predatory intent,
+
+421
+00:17:28,280 --> 00:17:31,640
+although the intent matters a lot if you're getting sued.
+
+422
+00:17:31,640 --> 00:17:34,480
+Now, a more interesting model than this,
+
+423
+00:17:34,480 --> 00:17:37,200
+this one is so basic that I'm going to admit
+
+424
+00:17:37,200 --> 00:17:38,680
+that it probably happens a lot.
+
+425
+00:17:38,680 --> 00:17:40,840
+But a more interesting model is something like this.
+
+426
+00:17:40,840 --> 00:17:44,960
+The incumbent has entry-dependent prices.
+
+427
+00:17:44,960 --> 00:17:47,000
+Where, so the incumbent has a policy, well,
+
+428
+00:17:47,000 --> 00:17:47,720
+here's what I do.
+
+429
+00:17:47,720 --> 00:17:49,400
+I price high if there's no entrant,
+
+430
+00:17:49,400 --> 00:17:50,800
+and low if there's an entrant.
+
+431
+00:17:50,800 --> 00:17:53,160
+And then the entrant decides whether or not to enter.
+
+432
+00:17:53,160 --> 00:17:54,680
+And of course, if you are the entrant
+
+433
+00:17:54,680 --> 00:17:57,680
+and the incumbent has convinced you it's going to do this,
+
+434
+00:17:57,680 --> 00:17:59,200
+again, you will look and you'll see
+
+435
+00:17:59,200 --> 00:18:00,640
+that he's making a lot of money right now.
+
+436
+00:18:00,640 --> 00:18:01,800
+He said, well, yeah, but I'm not going
+
+437
+00:18:01,800 --> 00:18:03,440
+to make a lot of money if I go in,
+
+438
+00:18:03,440 --> 00:18:05,440
+because the incumbent is going to change what he does if I go
+
+439
+00:18:05,440 --> 00:18:08,600
+in, and then there's no point of entering.
+
+440
+00:18:08,600 --> 00:18:10,360
+So, and remember, we already talked
+
+441
+00:18:10,360 --> 00:18:11,680
+about this model earlier on.
+
+442
+00:18:11,680 --> 00:18:14,720
+So this is often called the entry deterrence game.
+
+443
+00:18:14,720 --> 00:18:20,320
+So here's one where we got the options of in or out
+
+444
+00:18:20,320 --> 00:18:21,480
+for the entrant.
+
+445
+00:18:21,480 --> 00:18:27,760
+And then we have the options of accommodate or fight.
+
+446
+00:18:27,760 --> 00:18:30,920
+And then over here, the entrant makes nothing,
+
+447
+00:18:30,920 --> 00:18:33,400
+and the monopolist makes the monopoly profits.
+
+448
+00:18:33,400 --> 00:18:36,800
+And then over here, if the entrant goes in
+
+449
+00:18:36,800 --> 00:18:39,160
+and the incumbent decides to fight,
+
+450
+00:18:39,160 --> 00:18:43,280
+then they both make minus A, minus A.
+
+451
+00:18:43,280 --> 00:18:45,360
+And then on the other hand, if the entrant goes in
+
+452
+00:18:45,360 --> 00:18:48,320
+and they accommodate, then maybe they each make,
+
+453
+00:18:48,320 --> 00:18:53,200
+say, one third of the monopoly profits each,
+
+454
+00:18:53,200 --> 00:18:55,640
+something like that.
+
+455
+00:18:55,640 --> 00:18:57,920
+And as you may recall, there is a problem
+
+456
+00:18:57,920 --> 00:19:02,040
+with this story, which is that this equilibrium here,
+
+457
+00:19:02,040 --> 00:19:05,480
+this one over here, is not something perfect,
+
+458
+00:19:05,480 --> 00:19:08,080
+because the incumbent would not want to fight once
+
+459
+00:19:08,080 --> 00:19:10,200
+the entrant actually enters.
+
+460
+00:19:10,200 --> 00:19:13,840
+So that is the problem with this.
+
+461
+00:19:13,840 --> 00:19:16,560
+So this would be a case of the incumbent cutting off
+
+462
+00:19:16,560 --> 00:19:18,880
+his nose to spite his face, because once the entrant has
+
+463
+00:19:18,880 --> 00:19:20,880
+already entered, why not just go and settle
+
+464
+00:19:20,880 --> 00:19:22,420
+for a third of the monopoly profits?
+
+465
+00:19:22,420 --> 00:19:24,760
+Why insist on getting revenge and saying,
+
+466
+00:19:24,760 --> 00:19:28,280
+I'm going to hurt you for doing this?
+
+467
+00:19:28,280 --> 00:19:32,280
+Now, if you had a good teacher for industrialization
+
+468
+00:19:32,280 --> 00:19:34,480
+at some point who talked about predation,
+
+469
+00:19:34,480 --> 00:19:36,560
+they will have told you a bunch of other problems
+
+470
+00:19:36,560 --> 00:19:38,040
+with standard predation stories.
+
+471
+00:19:38,040 --> 00:19:39,480
+And they might have even told you
+
+472
+00:19:39,480 --> 00:19:42,000
+about some actual economic history of predation,
+
+473
+00:19:42,000 --> 00:19:46,000
+like what actually happened with standard oil, things like that.
+
+474
+00:19:46,000 --> 00:19:46,960
+All right.
+
+475
+00:19:46,960 --> 00:19:49,480
+So in this less formal literature that's out there,
+
+476
+00:19:49,480 --> 00:19:52,040
+but it's worth knowing that it exists,
+
+477
+00:19:52,040 --> 00:19:54,400
+people often emphasize that predation is especially
+
+478
+00:19:54,400 --> 00:19:56,280
+costly for the incumbents.
+
+479
+00:19:56,280 --> 00:19:56,880
+And why?
+
+480
+00:19:56,880 --> 00:19:59,480
+Well, if you have 95% of the markets,
+
+481
+00:19:59,480 --> 00:20:27,460
+and then you can predatorize like a dog towards $1,000,
+
+

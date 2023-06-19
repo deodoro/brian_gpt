@@ -1,0 +1,18 @@
+7.  Suppose there is a Cournot industry with the demand function Q=a -bP, 8 
+firms, 0 MC, and no fixed cost . 
+ 
+True, False, and Explain:   A firm would want to split into two firms because it 
+would earn 62 % more profit as a result.  
+ 
+TRUE.  From the hw, we know that p rofits as a function of N equals 
+b Na
+22
+)1 ( .  So profits for 
+one firm in a industry with 8 firms are 
+ba
+812 , while profits for two firms in a industry with 9 firms are 
+ba
+10022
+.  The latter is 62% greater than the former.  
+ 
+ 

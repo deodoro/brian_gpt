@@ -1,0 +1,6 @@
+7. Thaler (The Winner's Curse) presents evidence that people violate basic economic assumptions.
+ 
+True, False, and Explain: Thaler nevertheless embraces basic economic assumptions as "normative"; he believes that people should act like standard economic agents. 
+
+False: Thaler believes that there are some cases where NOT acting like a standard economic agent is beneficial--for example, when deciding to cooperate in certain situations. Economic assumptions are "normative" in that they describe how homo economicus should act, but not prescriptive in telling how people actually act.
+

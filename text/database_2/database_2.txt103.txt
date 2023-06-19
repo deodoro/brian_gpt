@@ -1,0 +1,16 @@
+3.  Consider a risk-neutral farmer with the cost function TC=q2.  The market price is 10 with p=.7, and 1 with p=.3.   
+ 
+True, False, and Explain:  If the farmer has RE, his profit-maximizing level of output is 4.
+ 
+ *HW #6 -- similar question
+
+MC=2q
+E(Px)=.7(10)+.3(1)=7.3
+2q=7.3
+
+False, q* is not 4[28]
+
+
+
+
+

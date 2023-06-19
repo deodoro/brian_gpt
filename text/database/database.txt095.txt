@@ -1,0 +1,12 @@
+2.  Agents live for two per iods.  They are endowed with 1 unit of a consumption 
+good in period 1 and 2 units in period 2.  The period 1 good spoils if not 
+consumed in period 1.  There are two types of agents:  
+ 
+Type A:  10% of the agents have U=ln c 2.   
+ 
+Type B:  The other 90% have U =ln c 1 + ln c 2 
+ 
+True, False, and Explain:  The general equilibrium interest rate will exceed 
+200%.  
+ 
+FALSE.  Normalize the two utility functions, then apply the formula from the notes to get 

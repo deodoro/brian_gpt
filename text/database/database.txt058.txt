@@ -1,0 +1,12 @@
+3. True, False, and Explain:  According to Kreps, economic experiments 
+confirm that general equilibrium analysis has little predictive value.  
+ 
+FALSE.  On p.198, Kreps says exactly the opposite: "The results obtained ar e usually 
+striking in their support of Walrasian equilibrium."  
+ 
+ 
+Questions 4 and 5 refer to the following game:    
+ Left  Right  
+Left  2,1 0,0  
+Right  0,0  1,2  20 
+ 

@@ -1,0 +1,18 @@
+6.  Suppose the government gives one car manufacturer a monopoly privilege.  
+The lobbying process leads to  full rent dissipation.  Each firm has the same 
+constant marginal cost of production, and demand is linear.  
+ 
+True, False, and Explain:   Dead weight costs fall when demand falls or firms’ 
+costs increase.  
+ 
+TRUE.  Under the se assumptions, deadweight costs equal the usual Harberger triangle plus the 
+Tullock rectangle – and output equals half the competitive level.  (There’s no productive 
+inefficien cy because firms have the same costs, and the shift involves an increase in firms’  costs).  
+If demand falls, both the triangle and rectangle shrink.  The same happens if costs rise.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

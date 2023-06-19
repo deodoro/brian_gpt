@@ -1,0 +1,1921 @@
+1
+00:00:00,000 --> 00:00:03,200
+of the indignity of Crowley, the victim of a crime.
+
+2
+00:00:03,200 --> 00:00:07,000
+All right, so that's one answer that a lot of people give.
+
+3
+00:00:07,000 --> 00:00:09,800
+Say, well, then how can we live in this neighborhood
+
+4
+00:00:09,800 --> 00:00:12,600
+where the rent is $100 less than that neighborhood
+
+5
+00:00:12,600 --> 00:00:15,600
+where the crime is, even though the crime here is 5% higher?
+
+6
+00:00:15,600 --> 00:00:19,000
+Well, I mean, I can't afford to live in a place $100 more expensive.
+
+7
+00:00:19,000 --> 00:00:22,100
+Really? But you have cable television, you know, you have a phone,
+
+8
+00:00:22,100 --> 00:00:23,000
+that comes out tomorrow.
+
+9
+00:00:23,000 --> 00:00:25,400
+Well, you can't live without cable television and a phone.
+
+10
+00:00:25,400 --> 00:00:28,600
+So, in other words, you can put a price on it.
+
+11
+00:00:28,600 --> 00:00:33,000
+It's worth cable TV plus a phone to endure this risk.
+
+12
+00:00:33,000 --> 00:00:37,400
+Okay, so there is a literature trying to use actual market behavior
+
+13
+00:00:37,400 --> 00:00:40,000
+to get a better measure of how much people value things.
+
+14
+00:00:40,000 --> 00:00:44,200
+Although, of course, that only shows you what the marginal person thinks.
+
+15
+00:00:44,200 --> 00:00:48,800
+So, it's possible that there is one really extreme weirdo
+
+16
+00:00:48,800 --> 00:00:50,800
+who is not the marginal person at all,
+
+17
+00:00:50,800 --> 00:00:53,200
+who really does put some enormous value on the things that they claim.
+
+18
+00:00:53,200 --> 00:00:55,600
+So, maybe there is a person out there who really,
+
+19
+00:00:55,600 --> 00:01:01,200
+I would rather die than see one acre of Alaska be blackened by soot.
+
+20
+00:01:01,200 --> 00:01:04,000
+All right, maybe.
+
+21
+00:01:04,000 --> 00:01:08,000
+So, when you really think about it,
+
+22
+00:01:08,000 --> 00:01:11,200
+to do perfectly accurate cost-benefit analysis,
+
+23
+00:01:11,200 --> 00:01:13,000
+you would need to have a superpower.
+
+24
+00:01:13,000 --> 00:01:14,400
+You would have to have migrating.
+
+25
+00:01:14,400 --> 00:01:16,800
+You would have to have telepathy to do it perfectly.
+
+26
+00:01:16,800 --> 00:01:19,400
+Of course, that does not mean that you can't do a,
+
+27
+00:01:19,400 --> 00:01:23,400
+that you can't try to make a reasonable guess at it.
+
+28
+00:01:23,400 --> 00:01:25,600
+In the same way that you're trying to figure out
+
+29
+00:01:25,600 --> 00:01:27,400
+what would make this child happier,
+
+30
+00:01:27,400 --> 00:01:31,400
+a party at Puppet Up or a party at home.
+
+31
+00:01:31,400 --> 00:01:35,000
+So, you have a lot, you could ask the child.
+
+32
+00:01:35,000 --> 00:01:36,000
+That's one thing you could do,
+
+33
+00:01:36,000 --> 00:01:37,600
+but maybe the child doesn't know what's going on,
+
+34
+00:01:37,600 --> 00:01:41,200
+or maybe the child lies for his own nefarious reasons.
+
+35
+00:01:41,200 --> 00:01:43,400
+And then you could try to go and figure,
+
+36
+00:01:43,400 --> 00:01:45,200
+and then you could take other signs.
+
+37
+00:01:45,200 --> 00:01:47,200
+So, you might go, let's go and look at,
+
+38
+00:01:47,200 --> 00:01:49,800
+like, what was his face, you might look at his face.
+
+39
+00:01:49,800 --> 00:01:51,200
+You might go and see,
+
+40
+00:01:51,200 --> 00:01:54,000
+and look at how hard he tries to get one result versus another.
+
+41
+00:01:54,000 --> 00:01:55,800
+There's a lot of things that you might do
+
+42
+00:01:55,800 --> 00:01:57,800
+to try to figure out whether someone's lying.
+
+43
+00:01:57,800 --> 00:02:00,000
+And in fact, of course, we have a whole list of tools
+
+44
+00:02:00,000 --> 00:02:01,200
+that we use to try to figure out
+
+45
+00:02:01,200 --> 00:02:03,400
+whether someone is being honest with us.
+
+46
+00:02:03,400 --> 00:02:07,200
+Right, which, you know, some of them don't work that well.
+
+47
+00:02:07,200 --> 00:02:08,800
+Actually, there's a whole literature on that, too.
+
+48
+00:02:08,800 --> 00:02:12,200
+Like, lie detection, how good are we at it?
+
+49
+00:02:12,200 --> 00:02:14,000
+And then, of course, once in a while,
+
+50
+00:02:14,000 --> 00:02:15,400
+we get these golden opportunities
+
+51
+00:02:15,400 --> 00:02:17,200
+to contrast what people say with what they do.
+
+52
+00:02:17,200 --> 00:02:18,600
+Like, someone who says,
+
+53
+00:02:18,600 --> 00:02:21,400
+I will leave the country if Trump gets elected.
+
+54
+00:02:21,400 --> 00:02:23,400
+And then we can see whether they really leave.
+
+55
+00:02:23,400 --> 00:02:25,800
+So, those people, at least,
+
+56
+00:02:25,800 --> 00:02:27,600
+were overstating how much they cared.
+
+57
+00:02:27,600 --> 00:02:29,200
+They might have changed their mind.
+
+58
+00:02:29,200 --> 00:02:32,200
+I realize that as much as I would like to leave the country,
+
+59
+00:02:32,200 --> 00:02:34,000
+the country needs me.
+
+60
+00:02:34,000 --> 00:02:37,600
+So, I cannot do what I wanted to do.
+
+61
+00:02:37,600 --> 00:02:40,200
+I must do what the country now requires of me.
+
+62
+00:02:40,200 --> 00:02:42,600
+So, there's always these stories,
+
+63
+00:02:42,600 --> 00:02:45,200
+but nevertheless, there are ways
+
+64
+00:02:45,200 --> 00:02:47,400
+you might try to do quality empirical work
+
+65
+00:02:47,400 --> 00:02:51,200
+by sorting through what seems more or less like to be true.
+
+66
+00:02:51,200 --> 00:02:52,200
+Yes?
+
+67
+00:02:52,200 --> 00:02:54,400
+Is this Hicks, the same Hicks of the Slutsky decomposition?
+
+68
+00:02:54,400 --> 00:02:55,600
+Yep, sure is.
+
+69
+00:02:55,600 --> 00:02:58,000
+Yep, he did a bunch of things.
+
+70
+00:02:58,000 --> 00:03:00,200
+Yes, Calver, like, there's one or two other things
+
+71
+00:03:00,200 --> 00:03:01,400
+he's kind of known for,
+
+72
+00:03:01,400 --> 00:03:05,400
+but nothing as famous as the Hicks-Slutsky decomposition,
+
+73
+00:03:05,400 --> 00:03:08,200
+which, of course, is discussed very heatedly in the media
+
+74
+00:03:08,200 --> 00:03:11,000
+on a daily basis.
+
+75
+00:03:11,000 --> 00:03:13,400
+All right, now, Calver, oh, yes, by the way,
+
+76
+00:03:13,400 --> 00:03:14,800
+so one thing that I did not tell you
+
+77
+00:03:14,800 --> 00:03:18,200
+on the bureaucratic issue of this class
+
+78
+00:03:18,200 --> 00:03:20,800
+is you are entitled to two things in this class.
+
+79
+00:03:20,800 --> 00:03:24,000
+First of all, you are entitled to a 10-minute break,
+
+80
+00:03:24,000 --> 00:03:26,200
+not less, but not more, either.
+
+81
+00:03:26,200 --> 00:03:27,800
+So, the break will be the middle class,
+
+82
+00:03:27,800 --> 00:03:31,200
+normally at 8.35 every day, from 8.35 to 8.45.
+
+83
+00:03:31,200 --> 00:03:32,800
+So, you are entitled to that.
+
+84
+00:03:32,800 --> 00:03:34,400
+If I appear to not be giving that to you,
+
+85
+00:03:34,400 --> 00:03:35,800
+you have every right to interrupt me
+
+86
+00:03:35,800 --> 00:03:38,000
+and say, stop on break time.
+
+87
+00:03:38,000 --> 00:03:41,600
+And also, I will strive to land on time down to the minute
+
+88
+00:03:41,600 --> 00:03:44,200
+because while, as graduate students,
+
+89
+00:03:44,200 --> 00:03:46,200
+you are expected to be willing to do economics
+
+90
+00:03:46,200 --> 00:03:50,000
+until 10 o'clock, regardless of how much you are suffering,
+
+91
+00:03:50,000 --> 00:03:52,600
+you are not expected to do it at 10.01.
+
+92
+00:03:52,600 --> 00:03:55,800
+So, that is why we will go to the end of every class,
+
+93
+00:03:55,800 --> 00:03:58,000
+no matter how tired we may seem,
+
+94
+00:03:58,000 --> 00:04:02,600
+but I ask all that of you, but no more.
+
+95
+00:04:02,600 --> 00:04:05,800
+And if I am at 10.01, totally appropriate to go
+
+96
+00:04:05,800 --> 00:04:09,200
+and call time on me to signal that you have dealt with it
+
+97
+00:04:09,200 --> 00:04:11,000
+and there's enough, because there's also some people
+
+98
+00:04:11,000 --> 00:04:12,200
+who have to catch buses and things,
+
+99
+00:04:12,200 --> 00:04:15,800
+so it's even worse than just discourteous to go over
+
+100
+00:04:15,800 --> 00:04:17,000
+the allotted time.
+
+101
+00:04:17,000 --> 00:04:17,800
+Good question.
+
+102
+00:04:17,800 --> 00:04:18,200
+Yes.
+
+103
+00:04:18,200 --> 00:04:21,600
+Is it always going exactly to time inefficient?
+
+104
+00:04:21,600 --> 00:04:23,000
+Let's see.
+
+105
+00:04:23,000 --> 00:04:26,200
+Possibly, probably a little bit.
+
+106
+00:04:26,200 --> 00:04:27,800
+Good question.
+
+107
+00:04:27,800 --> 00:04:29,800
+Homework problem now.
+
+108
+00:04:29,800 --> 00:04:30,400
+All right.
+
+109
+00:04:30,400 --> 00:04:31,900
+Now, counter-exhibitionism naturally
+
+110
+00:04:31,900 --> 00:04:33,600
+gives rise to another concept that you're
+
+111
+00:04:33,600 --> 00:04:38,200
+likely to have heard about more, which is the deadweight cost.
+
+112
+00:04:38,200 --> 00:04:40,400
+So, how many people have heard about deadweight cost
+
+113
+00:04:40,400 --> 00:04:42,600
+at some point in their economic education?
+
+114
+00:04:42,600 --> 00:04:45,400
+All right, so if the value of social resources
+
+115
+00:04:45,400 --> 00:04:47,600
+did not maximize, deadweight costs exist.
+
+116
+00:04:47,600 --> 00:04:49,000
+Deadweight costs are by definition
+
+117
+00:04:49,000 --> 00:04:51,400
+the difference between the actual dollar value
+
+118
+00:04:51,400 --> 00:04:54,000
+of social resources and the potential value.
+
+119
+00:04:54,000 --> 00:04:57,600
+So, take the maximum value, subtract the actual,
+
+120
+00:04:57,600 --> 00:05:00,200
+that difference is equal to the deadweight cost.
+
+121
+00:05:00,200 --> 00:05:03,000
+So, any time you saw a diagram of monopoly,
+
+122
+00:05:03,000 --> 00:05:06,600
+something like this, marginal cost, demand,
+
+123
+00:05:06,600 --> 00:05:11,800
+marginal revenue, any time you saw that,
+
+124
+00:05:11,800 --> 00:05:13,600
+that deadweight loss triangle was
+
+125
+00:05:13,600 --> 00:05:17,300
+the difference between maximizing the dollar value
+
+126
+00:05:17,300 --> 00:05:21,200
+of social resources, which would occur here,
+
+127
+00:05:21,200 --> 00:05:24,200
+and the actual dollar value of social resource, which is that.
+
+128
+00:05:24,200 --> 00:05:26,600
+And the difference is that deadweight loss triangle.
+
+129
+00:05:26,600 --> 00:05:28,400
+All right, so that's what deadweight losses
+
+130
+00:05:28,400 --> 00:05:29,200
+are by definition.
+
+131
+00:05:29,200 --> 00:05:33,900
+It is the difference between reality and potentiality
+
+132
+00:05:33,900 --> 00:05:37,100
+in terms of dollar value of social resources.
+
+133
+00:05:37,100 --> 00:05:41,600
+All right, now, why is this so important or interesting?
+
+134
+00:05:41,600 --> 00:05:44,000
+So, here is my favorite way of thinking about it.
+
+135
+00:05:44,000 --> 00:05:46,400
+Suppose that someone comes to you and says,
+
+136
+00:05:46,400 --> 00:05:49,600
+tell us what economists know that normal people don't.
+
+137
+00:05:49,600 --> 00:05:51,200
+All right, now, hopefully the following
+
+138
+00:05:51,200 --> 00:05:52,800
+will not be your answer.
+
+139
+00:05:52,800 --> 00:05:55,200
+Here's what economists know that no one else does.
+
+140
+00:05:55,200 --> 00:05:58,400
+It's possible to take resources from one person
+
+141
+00:05:58,400 --> 00:05:59,900
+and give them to another.
+
+142
+00:05:59,900 --> 00:06:03,200
+All right, so that is the case of transferring resources.
+
+143
+00:06:03,200 --> 00:06:05,500
+And it's something you don't need any economics in order
+
+144
+00:06:05,500 --> 00:06:06,100
+to understand.
+
+145
+00:06:06,100 --> 00:06:09,300
+Everybody knows about transferring resources.
+
+146
+00:06:09,300 --> 00:06:12,100
+Something that is a better answer to this question,
+
+147
+00:06:12,100 --> 00:06:15,100
+that resources can be destroyed, leaving no one better off.
+
+148
+00:06:15,100 --> 00:06:16,800
+And those resources that are destroyed,
+
+149
+00:06:16,800 --> 00:06:19,700
+leaving no one better off, are the deadweight costs.
+
+150
+00:06:19,700 --> 00:06:21,800
+All right, so here's an example that I actually
+
+151
+00:06:21,800 --> 00:06:24,300
+taught to Peter Leeson when he was in your shoes,
+
+152
+00:06:24,300 --> 00:06:26,100
+or in your seat, in a different room.
+
+153
+00:06:26,100 --> 00:06:29,300
+But, so, here's an example that I actually
+
+154
+00:06:29,300 --> 00:06:31,500
+taught to Peter Leeson when he was in your shoes.
+
+155
+00:06:31,500 --> 00:06:33,500
+So, you know, Peter Leeson has his book on piracy.
+
+156
+00:06:33,500 --> 00:06:35,300
+So I don't think my book about this lecture
+
+157
+00:06:35,300 --> 00:06:36,900
+inspired his book on piracy.
+
+158
+00:06:36,900 --> 00:06:38,900
+But I think he had other interests in piracy.
+
+159
+00:06:38,900 --> 00:06:40,500
+But anyway, piracy.
+
+160
+00:06:40,500 --> 00:06:43,900
+So if you were to go and just give a really simple minded
+
+161
+00:06:43,900 --> 00:06:46,100
+theory of piracy, it would just be
+
+162
+00:06:46,100 --> 00:06:50,100
+pirates transfer resources from victims to themselves.
+
+163
+00:06:50,100 --> 00:06:52,300
+That's what piracy is.
+
+164
+00:06:52,300 --> 00:06:54,500
+But there are also deadweight costs of piracy,
+
+165
+00:06:54,500 --> 00:06:56,500
+which when you really start listing them,
+
+166
+00:06:56,500 --> 00:06:59,500
+they overshadow whatever it is the pirates are transferring.
+
+167
+00:06:59,500 --> 00:07:01,900
+So just for starters, if there's ever
+
+168
+00:07:01,900 --> 00:07:04,300
+any treasure that gets destroyed during the fight,
+
+169
+00:07:04,300 --> 00:07:05,700
+if the pirates shoot their cannon
+
+170
+00:07:05,700 --> 00:07:08,500
+and it hits a treasure chest and blows it out of the ship
+
+171
+00:07:08,500 --> 00:07:11,700
+and it's destroyed, then who got that treasure chest?
+
+172
+00:07:11,700 --> 00:07:12,500
+Davy Jones.
+
+173
+00:07:12,500 --> 00:07:14,700
+Yes, Davy Jones is lost.
+
+174
+00:07:14,700 --> 00:07:18,700
+And which is slang for nobody, right?
+
+175
+00:07:18,700 --> 00:07:21,700
+So the victims lost it, but the pirates did not gain it.
+
+176
+00:07:21,700 --> 00:07:23,200
+And then you get damage to the ships.
+
+177
+00:07:23,200 --> 00:07:24,800
+Who gained the damage?
+
+178
+00:07:24,800 --> 00:07:27,000
+Who gained the hole in the hull?
+
+179
+00:07:27,000 --> 00:07:28,700
+No one gained the hole in the hull.
+
+180
+00:07:28,700 --> 00:07:29,700
+It's just destroyed.
+
+181
+00:07:29,700 --> 00:07:31,100
+It's lost to mankind.
+
+182
+00:07:31,100 --> 00:07:34,800
+Or how about some people die in the fight, pirates and victims.
+
+183
+00:07:34,800 --> 00:07:36,300
+Who gained those deaths?
+
+184
+00:07:36,300 --> 00:07:39,300
+Who is now the proud owner of those souls?
+
+185
+00:07:39,300 --> 00:07:39,800
+No one.
+
+186
+00:07:39,800 --> 00:07:42,000
+They're just lost.
+
+187
+00:07:42,000 --> 00:07:46,200
+And then if you start going and thinking about incentives,
+
+188
+00:07:46,200 --> 00:07:47,700
+then you realize, well, so what might
+
+189
+00:07:47,700 --> 00:07:52,000
+victims do if they know that the Caribbean is a center of piracy?
+
+190
+00:07:52,000 --> 00:07:54,900
+How might potential victims revise their behavior?
+
+191
+00:07:54,900 --> 00:07:55,700
+Circumvent.
+
+192
+00:07:55,700 --> 00:07:58,100
+You'd go around the Caribbean, then you
+
+193
+00:07:58,100 --> 00:08:00,700
+have deadweight costs of the extra transportation costs
+
+194
+00:08:00,700 --> 00:08:02,700
+that are spent circumventing the piracy.
+
+195
+00:08:02,700 --> 00:08:04,300
+Or they might go buy land.
+
+196
+00:08:04,300 --> 00:08:07,500
+Or it might be that they decide not to bother trading at all
+
+197
+00:08:07,500 --> 00:08:09,400
+because the costs are so high.
+
+198
+00:08:09,400 --> 00:08:12,500
+I remember when I was in high school,
+
+199
+00:08:12,500 --> 00:08:16,400
+in Los Angeles, theft of car CD players was rampant.
+
+200
+00:08:16,400 --> 00:08:18,900
+So if you had a CD player in your car,
+
+201
+00:08:18,900 --> 00:08:20,800
+the odds that your car would be broken into
+
+202
+00:08:20,800 --> 00:08:25,200
+and it would be stolen was probably about 50% per year.
+
+203
+00:08:25,200 --> 00:08:29,200
+And then one result was that people
+
+204
+00:08:29,200 --> 00:08:31,600
+would get extra alarm systems, things like that.
+
+205
+00:08:31,600 --> 00:08:34,100
+Another one is people had this weird kind of CD player
+
+206
+00:08:34,100 --> 00:08:35,700
+where every time you left your car,
+
+207
+00:08:35,700 --> 00:08:38,500
+you'd press a button and pop off the front of the CD player
+
+208
+00:08:38,500 --> 00:08:42,600
+and you would carry in your pocket 10% of the device
+
+209
+00:08:42,600 --> 00:08:44,000
+every time you left.
+
+210
+00:08:44,000 --> 00:08:46,400
+And the device was useless without it.
+
+211
+00:08:46,400 --> 00:08:49,700
+I guess a thief could go and steal and try
+
+212
+00:08:49,700 --> 00:08:51,600
+to pickpocket someone else for that piece
+
+213
+00:08:51,600 --> 00:08:53,100
+and then they would have two pieces.
+
+214
+00:08:53,100 --> 00:08:54,600
+But that would make it useless.
+
+215
+00:08:54,600 --> 00:08:56,900
+But probably the biggest fact is just a lot of people
+
+216
+00:08:56,900 --> 00:08:58,800
+that would have liked to get a CD player just
+
+217
+00:08:58,800 --> 00:09:01,500
+didn't buy a CD player at all because of it.
+
+218
+00:09:01,500 --> 00:09:03,100
+So this is another deadly cost of it.
+
+219
+00:09:07,600 --> 00:09:13,700
+Now the point of this is not a new agey one of piracy
+
+220
+00:09:13,700 --> 00:09:16,600
+hurts you deep inside, man.
+
+221
+00:09:16,600 --> 00:09:18,900
+When you go and hurt another person, you hurt yourself.
+
+222
+00:09:18,900 --> 00:09:20,900
+We're all part of a circle of being.
+
+223
+00:09:20,900 --> 00:09:22,900
+One man is not an island.
+
+224
+00:09:22,900 --> 00:09:24,500
+So it's nothing like that.
+
+225
+00:09:24,500 --> 00:09:27,800
+That might all be true too.
+
+226
+00:09:27,800 --> 00:09:32,300
+But that is not the point of talking about deadly costs.
+
+227
+00:09:32,300 --> 00:09:36,100
+And it's not saying that piracy is bad for the pirates.
+
+228
+00:09:36,100 --> 00:09:38,800
+So ex-ante, the expectation is that pirates
+
+229
+00:09:38,800 --> 00:09:40,900
+are doing it because on average, it's better
+
+230
+00:09:40,900 --> 00:09:43,100
+for them than anything else.
+
+231
+00:09:43,100 --> 00:09:45,900
+The point is that pirates are gaining only a small fraction
+
+232
+00:09:45,900 --> 00:09:48,500
+when the non-pirates are losing.
+
+233
+00:09:48,500 --> 00:09:50,500
+This does, again, make some assumptions
+
+234
+00:09:50,500 --> 00:09:54,300
+that ultimately require mind reading to be certain of,
+
+235
+00:09:54,300 --> 00:09:57,000
+such as that the pirates don't enjoy the sight of gold
+
+236
+00:09:57,000 --> 00:09:59,700
+falling to the ocean floor.
+
+237
+00:09:59,700 --> 00:10:03,100
+That the pirates are not truly sadistic people,
+
+238
+00:10:03,100 --> 00:10:05,100
+just love watching other people die.
+
+239
+00:10:05,100 --> 00:10:06,400
+They're not misanthropes who like
+
+240
+00:10:06,400 --> 00:10:08,400
+seeing their fellow pirates die.
+
+241
+00:10:08,400 --> 00:10:11,100
+So there are always background assumptions
+
+242
+00:10:11,100 --> 00:10:13,900
+that are being made, which normally are plausible.
+
+243
+00:10:13,900 --> 00:10:18,700
+Although, again, if you really go and scour,
+
+244
+00:10:18,700 --> 00:10:19,700
+not just the internet.
+
+245
+00:10:19,700 --> 00:10:22,500
+This would also go to Wikipedia to see all the weird things
+
+246
+00:10:22,500 --> 00:10:25,000
+people have done, all of the serial killers that have
+
+247
+00:10:25,000 --> 00:10:26,000
+existed.
+
+248
+00:10:26,000 --> 00:10:28,900
+What was motivating those people?
+
+249
+00:10:28,900 --> 00:10:31,300
+You may not want to think about it too much late at night.
+
+250
+00:10:31,300 --> 00:10:34,800
+But it appears that there are some people who really
+
+251
+00:10:34,800 --> 00:10:38,300
+do enjoy torturing a human being that they have never met
+
+252
+00:10:38,300 --> 00:10:40,300
+and has done them no harm to death.
+
+253
+00:10:40,300 --> 00:10:42,500
+It's not common, but they exist.
+
+254
+00:10:42,500 --> 00:10:43,900
+These are not made up people.
+
+255
+00:10:43,900 --> 00:10:45,000
+They're out there.
+
+256
+00:10:45,000 --> 00:10:48,200
+So you do.
+
+257
+00:10:48,200 --> 00:10:50,400
+Would people like that have been relatively inclined
+
+258
+00:10:50,400 --> 00:10:52,400
+to go into piracy backwards around?
+
+259
+00:10:52,400 --> 00:10:53,600
+Seems likely.
+
+260
+00:10:53,600 --> 00:10:57,000
+So maybe there were a few people like that.
+
+261
+00:10:57,000 --> 00:11:01,100
+Now let's just quickly do Steve Landsberg's analysis
+
+262
+00:11:01,100 --> 00:11:02,400
+of drug legalization.
+
+263
+00:11:02,400 --> 00:11:06,300
+This is Steve Landsberg doing cost-benefit analysis.
+
+264
+00:11:06,300 --> 00:11:08,800
+Now the point of this is the end of chapter,
+
+265
+00:11:08,800 --> 00:11:10,500
+is the science, one of the readings.
+
+266
+00:11:10,500 --> 00:11:12,900
+The point of this is not that Steve did it perfectly,
+
+267
+00:11:12,900 --> 00:11:15,200
+but Steve thinks the right way.
+
+268
+00:11:15,200 --> 00:11:18,200
+And if you want to improve upon Steve, what you should do
+
+269
+00:11:18,200 --> 00:11:20,700
+is not challenge Steve for being too Steve,
+
+270
+00:11:20,700 --> 00:11:23,000
+but challenge Steve for not being Steve enough.
+
+271
+00:11:23,000 --> 00:11:25,500
+You need to be more Steve Landsberg if you want
+
+272
+00:11:25,500 --> 00:11:27,000
+to improve upon Steve Landsberg.
+
+273
+00:11:30,500 --> 00:11:32,400
+And the piece was interesting because it
+
+274
+00:11:32,400 --> 00:11:35,300
+begins with a piece in favor of drug legalization, which
+
+275
+00:11:35,300 --> 00:11:38,200
+Landsberg says, I totally favor drug legalization.
+
+276
+00:11:38,200 --> 00:11:44,000
+But there's no excuse for bad cost-benefit analysis.
+
+277
+00:11:44,000 --> 00:11:45,900
+You might think that's self-contradictory.
+
+278
+00:11:45,900 --> 00:11:47,900
+Well, what if bad cost-benefit analysis
+
+279
+00:11:47,900 --> 00:11:51,300
+passes a cost-benefit test?
+
+280
+00:11:51,300 --> 00:11:55,500
+But in any case, so he says, look, I agree with inclusion,
+
+281
+00:11:55,500 --> 00:12:00,900
+but the reasoning is so poor, so shoddy, so lacking
+
+282
+00:12:00,900 --> 00:12:02,900
+in any understanding of real cost-benefit analysis
+
+283
+00:12:02,900 --> 00:12:04,900
+and what it's actually supposed to look like,
+
+284
+00:12:04,900 --> 00:12:06,400
+I cannot remain silent.
+
+285
+00:12:06,400 --> 00:12:09,500
+I must speak out against this horrifyingly bad cost-benefit
+
+286
+00:12:09,500 --> 00:12:11,600
+analysis.
+
+287
+00:12:11,600 --> 00:12:15,400
+So some of the main problems that Landsberg finds.
+
+288
+00:12:15,400 --> 00:12:18,900
+The author just declares that taxes are a benefit.
+
+289
+00:12:18,900 --> 00:12:20,360
+So he says, we've legalized drugs.
+
+290
+00:12:20,360 --> 00:12:22,060
+We can tax them, and that's a benefit.
+
+291
+00:12:22,060 --> 00:12:23,980
+And Landsberg says, no, they're not a benefit.
+
+292
+00:12:23,980 --> 00:12:25,900
+Taxes are a transfer, not a benefit.
+
+293
+00:12:25,900 --> 00:12:27,800
+What are you talking about?
+
+294
+00:12:27,800 --> 00:12:34,360
+Secondly, the author of the analysis
+
+295
+00:12:34,360 --> 00:12:37,800
+counts imprisonment as a cost.
+
+296
+00:12:37,800 --> 00:12:39,120
+And Landsberg says, that's fine.
+
+297
+00:12:39,120 --> 00:12:42,800
+So the cost of keeping someone in jail is an affidavit cost.
+
+298
+00:12:42,800 --> 00:12:46,680
+He says, but we should also go and count
+
+299
+00:12:46,680 --> 00:12:52,040
+the disutility of being in prison, which vastly outweighs
+
+300
+00:12:52,040 --> 00:12:56,300
+the cost of keeping someone in the actual fiscal cost
+
+301
+00:12:56,300 --> 00:12:57,480
+of keeping someone in prison.
+
+302
+00:12:57,480 --> 00:12:58,980
+Think about, what would someone have
+
+303
+00:12:58,980 --> 00:13:04,280
+to pay you to do a year in maximum security voluntarily?
+
+304
+00:13:04,280 --> 00:13:07,240
+For me, I think I could really say,
+
+305
+00:13:07,240 --> 00:13:10,520
+I don't know of any price someone would get me to do this.
+
+306
+00:13:10,520 --> 00:13:12,400
+What about $1 billion?
+
+307
+00:13:12,400 --> 00:13:13,320
+I don't think so.
+
+308
+00:13:13,320 --> 00:13:15,000
+I don't think $1 billion would be enough.
+
+309
+00:13:15,000 --> 00:13:16,920
+It's like, what would I do with the $1 billion
+
+310
+00:13:16,920 --> 00:13:19,400
+that I can't do already?
+
+311
+00:13:19,400 --> 00:13:21,940
+How much could it really improve my life to have $1 billion
+
+312
+00:13:21,940 --> 00:13:22,600
+once I'm free?
+
+313
+00:13:22,600 --> 00:13:23,680
+And that would be a year.
+
+314
+00:13:23,680 --> 00:13:25,960
+I mean, think about me in prison.
+
+315
+00:13:25,960 --> 00:13:27,120
+I would make that exchange.
+
+316
+00:13:27,120 --> 00:13:27,620
+Yes.
+
+317
+00:13:27,620 --> 00:13:28,120
+Yeah.
+
+318
+00:13:28,120 --> 00:13:29,080
+So if you know anyone.
+
+319
+00:13:29,080 --> 00:13:29,580
+Yeah.
+
+320
+00:13:29,580 --> 00:13:33,080
+So if you're younger, I mean, if you're just bigger and more
+
+321
+00:13:33,080 --> 00:13:36,040
+muscular and tougher than me, you don't have a bunch of,
+
+322
+00:13:36,040 --> 00:13:40,960
+my knees hurt, my feet hurt, and all these other problems.
+
+323
+00:13:40,960 --> 00:13:43,600
+I do have a DGC plan where I introduce Dungeons and Dragons
+
+324
+00:13:43,600 --> 00:13:44,360
+to the players.
+
+325
+00:13:44,360 --> 00:13:46,480
+And I don't know, to the prisoners, excuse me.
+
+326
+00:13:46,480 --> 00:13:52,880
+I've heard federal prisons ban D&D or something.
+
+327
+00:13:52,880 --> 00:13:56,960
+So apparently it was causing violence, real violence.
+
+328
+00:13:56,960 --> 00:13:59,160
+It was causing real violence.
+
+329
+00:13:59,160 --> 00:14:00,880
+From under.
+
+330
+00:14:00,880 --> 00:14:02,120
+Yes.
+
+331
+00:14:02,120 --> 00:14:03,120
+All right.
+
+332
+00:14:03,120 --> 00:14:03,920
+Let's see.
+
+333
+00:14:03,920 --> 00:14:07,120
+So anyway, so the main cost of imprisonment,
+
+334
+00:14:07,120 --> 00:14:09,520
+according to Lenzberg, is almost certainly
+
+335
+00:14:09,520 --> 00:14:11,120
+that people don't like being in prison,
+
+336
+00:14:11,120 --> 00:14:14,360
+not that it costs taxpayers a lot
+
+337
+00:14:14,360 --> 00:14:15,880
+to go and put someone in prison.
+
+338
+00:14:15,880 --> 00:14:17,360
+That might be $50,000 a year.
+
+339
+00:14:17,360 --> 00:14:19,600
+But $50,000 a year is a really lowball price
+
+340
+00:14:19,600 --> 00:14:21,680
+to get someone to live in prison, which, again,
+
+341
+00:14:21,680 --> 00:14:25,200
+is the right thing that you should be putting in there.
+
+342
+00:14:25,200 --> 00:14:27,680
+Then the piece goes and also counts
+
+343
+00:14:27,680 --> 00:14:28,640
+theft as being a cost.
+
+344
+00:14:28,640 --> 00:14:31,320
+Lenzberg says theft by itself is just a transfer.
+
+345
+00:14:31,320 --> 00:14:33,320
+Really, the real deadweight cost of theft
+
+346
+00:14:33,320 --> 00:14:35,480
+is all the resources that are used to steal
+
+347
+00:14:35,480 --> 00:14:37,440
+and to avoid theft.
+
+348
+00:14:37,440 --> 00:14:41,040
+And then the really big one that Lenzberg mentions
+
+349
+00:14:41,040 --> 00:14:43,320
+is you manage to do a cost-benefit analysis
+
+350
+00:14:43,320 --> 00:14:45,760
+in favor of legalizing drugs without ever mentioning
+
+351
+00:14:45,760 --> 00:14:48,960
+that anybody likes drugs, without ever mentioning
+
+352
+00:14:48,960 --> 00:14:50,840
+the consumption benefits.
+
+353
+00:14:50,840 --> 00:14:52,560
+I mean, you could do a cost-benefit analysis
+
+354
+00:14:52,560 --> 00:14:54,940
+of the existence of movies, and if your analysis forgets
+
+355
+00:14:54,940 --> 00:14:58,080
+that anybody likes movies, you have heavily biased the analysis
+
+356
+00:14:58,080 --> 00:15:00,320
+towards the abolition of movies.
+
+357
+00:15:00,320 --> 00:15:03,200
+The whole point of this is a product people like,
+
+358
+00:15:03,200 --> 00:15:06,200
+and the willingness to pay that they have for that product
+
+359
+00:15:06,200 --> 00:15:09,280
+should have been factored in, Lenzberg says.
+
+360
+00:15:09,280 --> 00:15:11,760
+And then finally, the author goes and counts
+
+361
+00:15:11,760 --> 00:15:16,760
+whatever harm is done to productivity as being a loss.
+
+362
+00:15:16,760 --> 00:15:21,560
+And Lenzberg says, well, as long as lost productivity
+
+363
+00:15:21,560 --> 00:15:24,040
+is factored into your wages, then that's double-counting.
+
+364
+00:15:24,040 --> 00:15:26,200
+We've already factored in that your wages are lower,
+
+365
+00:15:26,200 --> 00:15:27,840
+so we don't need to also go and look
+
+366
+00:15:27,840 --> 00:15:30,760
+at how productivity is lower, because employers have already
+
+367
+00:15:30,760 --> 00:15:33,800
+paid you less because of lower productivity.
+
+368
+00:15:33,800 --> 00:15:35,640
+All right, so we'll come back and finish up
+
+369
+00:15:35,640 --> 00:15:36,920
+with this after the break.
+
+370
+00:15:36,920 --> 00:15:39,080
+So we've got 10 minutes, so please do.
+
+371
+00:15:44,520 --> 00:15:48,800
+All right, so Lenzberg on drug legalization.
+
+372
+00:15:48,800 --> 00:15:51,640
+There are plenty of other things that Lenzberg didn't mention
+
+373
+00:15:51,640 --> 00:15:55,800
+that within the framework of counter-hicks analysis
+
+374
+00:15:55,800 --> 00:15:57,680
+would make perfect sense.
+
+375
+00:15:57,680 --> 00:16:02,120
+So he certainly could have mentioned,
+
+376
+00:16:02,120 --> 00:16:05,400
+how about strangers don't like other people using drugs?
+
+377
+00:16:05,400 --> 00:16:07,320
+And they have some willingness to pay for that.
+
+378
+00:16:07,320 --> 00:16:09,920
+Now, my personal view is that that actually is mostly
+
+379
+00:16:09,920 --> 00:16:12,720
+just people talking, and they don't actually care very much,
+
+380
+00:16:12,720 --> 00:16:14,800
+as evidenced by things like people actually
+
+381
+00:16:14,800 --> 00:16:16,460
+pay very little attention to finding out
+
+382
+00:16:16,460 --> 00:16:18,440
+how many drugs people in their area are using.
+
+383
+00:16:18,440 --> 00:16:20,440
+As long as it appears to be peaceful,
+
+384
+00:16:20,440 --> 00:16:21,840
+what people are actually doing in the privacy
+
+385
+00:16:21,840 --> 00:16:24,320
+of their own homes, they don't really care that much about.
+
+386
+00:16:24,320 --> 00:16:27,200
+Although I would then focus more narrowly and say,
+
+387
+00:16:27,200 --> 00:16:29,400
+for each adult, there are generally two people
+
+388
+00:16:29,400 --> 00:16:31,500
+that care a lot about whether using drugs.
+
+389
+00:16:32,560 --> 00:16:34,040
+Who might those two people be?
+
+390
+00:16:35,240 --> 00:16:36,680
+Your parents, right?
+
+391
+00:16:36,680 --> 00:16:39,120
+And they plausibly do have a pretty high willingness
+
+392
+00:16:39,120 --> 00:16:40,440
+to pay to have you not using drugs,
+
+393
+00:16:40,440 --> 00:16:43,120
+depending upon what kind of parents you have.
+
+394
+00:16:43,120 --> 00:16:46,920
+I guess my neighbors went to Colorado
+
+395
+00:16:46,920 --> 00:16:48,480
+with his son to smoke pot, and I was like,
+
+396
+00:16:48,480 --> 00:16:50,840
+oh, all right, so that didn't happen when I was a kid.
+
+397
+00:16:50,840 --> 00:16:54,600
+It's kind of unusual, but so he clearly
+
+398
+00:16:54,600 --> 00:16:55,880
+had a positive willingness to pay
+
+399
+00:16:55,880 --> 00:16:58,240
+to get his son to smoke pot with him.
+
+400
+00:16:58,240 --> 00:17:00,640
+But I bet a lot of people's parents
+
+401
+00:17:00,640 --> 00:17:02,920
+would feel quite differently about it.
+
+402
+00:17:02,920 --> 00:17:05,240
+And that would not just be hot air,
+
+403
+00:17:05,240 --> 00:17:07,640
+but in fact, you would probably find it hard
+
+404
+00:17:07,640 --> 00:17:09,400
+to get away, imagine a legal system
+
+405
+00:17:09,400 --> 00:17:11,280
+where your parents had to give you permission
+
+406
+00:17:11,280 --> 00:17:13,660
+to smoke pot, for example.
+
+407
+00:17:13,660 --> 00:17:15,200
+How many people here think that you could get,
+
+408
+00:17:15,200 --> 00:17:17,160
+that you could bargain your parents
+
+409
+00:17:17,160 --> 00:17:18,640
+with anything that you could offer them
+
+410
+00:17:18,640 --> 00:17:20,440
+into signing that paper?
+
+411
+00:17:21,640 --> 00:17:23,800
+So yeah, so some people could, but a lot of people,
+
+412
+00:17:23,800 --> 00:17:26,200
+like, I mean, like my parents,
+
+413
+00:17:26,200 --> 00:17:28,200
+I think it'd be really hard to get my dad.
+
+414
+00:17:28,200 --> 00:17:29,700
+It's like, all right, dad, I will go
+
+415
+00:17:29,700 --> 00:17:33,120
+and help you in your cars for 1,000 hours a year
+
+416
+00:17:33,120 --> 00:17:35,160
+if I can smoke pot.
+
+417
+00:17:35,160 --> 00:17:38,840
+No, all right, and so I wouldn't worry
+
+418
+00:17:38,840 --> 00:17:40,400
+so much about pot, but if my kids needed
+
+419
+00:17:40,400 --> 00:17:42,320
+my permission to climb Mount Everest,
+
+420
+00:17:43,400 --> 00:17:46,120
+no, that's the stupidest thing I've ever heard.
+
+421
+00:17:46,120 --> 00:17:47,080
+I'm talking about Everest.
+
+422
+00:17:47,080 --> 00:17:48,840
+Didn't you see that movie Everest?
+
+423
+00:17:48,840 --> 00:17:52,240
+His hands had to be removed,
+
+424
+00:17:52,240 --> 00:17:55,800
+all because he felt bad about his normal life.
+
+425
+00:17:55,800 --> 00:17:57,520
+Now he feels really bad.
+
+426
+00:17:57,520 --> 00:17:58,360
+No.
+
+427
+00:17:58,360 --> 00:17:59,180
+No.
+
+428
+00:17:59,180 --> 00:18:00,020
+No.
+
+429
+00:18:00,020 --> 00:18:00,860
+No.
+
+430
+00:18:00,860 --> 00:18:01,680
+No.
+
+431
+00:18:01,680 --> 00:18:02,520
+No.
+
+432
+00:18:02,520 --> 00:18:04,200
+That is one horrifying movie.
+
+433
+00:18:04,200 --> 00:18:08,200
+And I checked, totally accurate too, so.
+
+434
+00:18:09,080 --> 00:18:12,080
+Not nothing, and it didn't seem to exaggerate at all.
+
+435
+00:18:12,080 --> 00:18:14,560
+All right, so and then you could also go,
+
+436
+00:18:14,560 --> 00:18:16,320
+on like the number five, you might sit around
+
+437
+00:18:16,320 --> 00:18:18,080
+thinking for a scene more about it,
+
+438
+00:18:18,080 --> 00:18:19,920
+and then there's a question of, well,
+
+439
+00:18:19,920 --> 00:18:22,520
+so what if employers don't know who's actually
+
+440
+00:18:22,520 --> 00:18:24,720
+using drugs and who has lower productivity?
+
+441
+00:18:24,720 --> 00:18:27,000
+Then there might very well be a deadweight loss,
+
+442
+00:18:27,000 --> 00:18:28,880
+because suppose that one employee out of 10
+
+443
+00:18:28,880 --> 00:18:31,120
+is too drugged up to actually do their job,
+
+444
+00:18:31,120 --> 00:18:33,440
+but employers can't figure out who to blame.
+
+445
+00:18:33,440 --> 00:18:36,560
+In that case, an employer might decide
+
+446
+00:18:36,560 --> 00:18:38,700
+that they don't want to hire another employee,
+
+447
+00:18:38,700 --> 00:18:41,680
+a perfectly sober employee, because the employer
+
+448
+00:18:41,680 --> 00:18:43,920
+only on average gets 90% of an employee
+
+449
+00:18:43,920 --> 00:18:47,540
+when he pays the market wage for an employee.
+
+450
+00:18:47,540 --> 00:18:49,440
+So in that case, there could be a deadweight cost
+
+451
+00:18:49,440 --> 00:18:52,440
+of your drug use caused by reducing demand
+
+452
+00:18:52,440 --> 00:18:54,920
+for workers in general, so that some other people
+
+453
+00:18:54,920 --> 00:18:59,120
+don't get hired because your behavior,
+
+454
+00:18:59,120 --> 00:19:01,880
+reflect, your behavior statistically gets transferred
+
+455
+00:19:01,880 --> 00:19:03,120
+over to them because they can't tell quite
+
+456
+00:19:03,120 --> 00:19:04,360
+who's actually doing it.
+
+457
+00:19:04,360 --> 00:19:06,380
+So in that case, there very well might be
+
+458
+00:19:06,380 --> 00:19:08,840
+some deadweight cost for productivity after all.
+
+459
+00:19:08,840 --> 00:19:11,760
+So, and knowing Lindsberg, I am confident
+
+460
+00:19:11,760 --> 00:19:13,120
+that he would say, yes, these are all
+
+461
+00:19:13,120 --> 00:19:15,120
+interesting possibilities, these are all fine,
+
+462
+00:19:15,120 --> 00:19:16,800
+unlike that crummy article in The Atlantic
+
+463
+00:19:16,800 --> 00:19:18,720
+that I critiqued, which is worthless.
+
+464
+00:19:18,720 --> 00:19:21,160
+Or worse than worthless, it just confuses people.
+
+465
+00:19:23,120 --> 00:19:25,600
+Now, one other way to think, or one of the reflections
+
+466
+00:19:25,600 --> 00:19:28,600
+on Cal-Rate's efficiency, so economists often criticize
+
+467
+00:19:28,600 --> 00:19:30,800
+non-economists for their fixed pie thinking.
+
+468
+00:19:30,800 --> 00:19:33,600
+Have you ever said, you think there's a fixed pie of wealth?
+
+469
+00:19:33,600 --> 00:19:35,320
+Well, aren't you ignorant?
+
+470
+00:19:35,320 --> 00:19:38,400
+Have you ever had that tone with anyone else?
+
+471
+00:19:40,040 --> 00:19:41,840
+Well, there's something to this, but,
+
+472
+00:19:43,200 --> 00:19:46,320
+so in that sense, economists are more optimistic
+
+473
+00:19:46,320 --> 00:19:47,840
+than the public because economists see
+
+474
+00:19:47,840 --> 00:19:50,520
+their mutual gains of trade, but a corollary
+
+475
+00:19:50,520 --> 00:19:52,360
+to the pie can also shrink.
+
+476
+00:19:52,360 --> 00:19:54,480
+In that way, economists are more pessimistic
+
+477
+00:19:54,480 --> 00:19:56,440
+than normal people because normal people see a conflict
+
+478
+00:19:56,440 --> 00:19:58,160
+and they say, who won?
+
+479
+00:19:58,160 --> 00:19:59,880
+Who's winning, who won?
+
+480
+00:19:59,880 --> 00:20:18,880
+Right?
+
+

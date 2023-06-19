@@ -1,0 +1,34 @@
+5.  Suppose firms in an industry have the same cost function, including a sunk 
+cost .  Product demand falls, leading to a halvin g of potential monopoly profits.  
+Two firms play mixed strategies to decide whether to enter.  
+ 
+True, False, and Explain:   The probability that both  firms enter and lose 
+money falls by a factor of four.  
+
+FALSE.  From the homework, we know that the probabil ity that ONE firm plays enter is 
+amm
+ , 
+so the probability that BOTH firms do so is 
+2
+
+
+
+
+
+amm .  Halving monopoly profits reduces the 
+entry probability to 
+a amm
+mm
+2 5.5.
+ .  This clearly reduces the probability of entr y, but by 
+LESS than half.  (To halve the probability, the entire denominator, not just part of it, would have to 
+double).  Since the probability that one firm enters falls by less than half, the probability that two 
+firms enter , 
+2
+2
+
+
+
+
+amm  , falls by LESS than a factor of four. 
+ 

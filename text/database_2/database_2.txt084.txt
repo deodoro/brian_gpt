@@ -1,0 +1,6 @@
+5. True, False, and Explain: Moral hazard models predict that the people with the most insurance will take the most risks, but adverse selection models predict the opposite.
+ 
+False. Moral hazard models do predict that, ceteris paribus, those with more insurance will take more risks, but adverse selection does not predict the opposite. Rather, it predicts that people who are "less risky" than average will find insurance to be a bad deal and choose to forgo it, leaving only riskier individuals remaining in the pool. Therefore, igiven the market doesn't completely unravel, only risky people will hold insurance.
+
+ 
+ 

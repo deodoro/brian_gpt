@@ -1,0 +1,8 @@
+6. Senior #1 and Senior #2 are both undergraduates in their final year of college.  Senior #1 knows he has a 90% chance of successfully graduating this year.  Senior #2 knows he has a 90% chance of failing out.  Both students satisfy the Permanent Income Hypothesis.
+ 
+True, False, and Explain: Both students will increase their consumption if they successfully graduate, but Senior #1 will increase his post-graduation consumption by a smaller fraction than Senior #2.
+
+True. After graduation (or when the chance of graduating increases  from their prior expectation to 100%), both students will increase their expected permanent income. Senior #1 will have a smaller change in expected permanent income than Senior #2. Since both satisfy the Permanent Income Hypothesis, they will have smoothed consumption according to their expected permanent income. Since Senior #1 has a smaller change in expected income, his consumption will change by a smaller fraction than Senior #2
+
+Part 2: 
+

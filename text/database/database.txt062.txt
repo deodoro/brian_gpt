@@ -1,0 +1,11 @@
+7.  True , False, and Explain:  If firms set prices (as opposed to quantities), 
+firms would never  want to split into additional firms, even if the game were 
+infinitely repeated and β=1.  
+ 
+FALSE.  If β=1, Bertrand collusion is definitely sustainable, and if each firm gets an equal share of 
+the monopoly profit, then splitting could increase your profits from a 1/N share of the monopoly 
+profit to a 2/(N+1)  share, which is greater for N> 1. 
+ 
+Firms might also want to split if there are diseconomies of scale, though I gave less credit for this 
+answer since it didn't use the information about repeated play and the discount rate.  
+

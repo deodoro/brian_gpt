@@ -1,0 +1,12 @@
+1. According to Caplan (SEJ 1999), "[I]f there is a small probability that one is delusional, the perception of a zero-probability event would rationally provoke one to doubt one's own perception rather than believe that the impossible has occurred."
+ 
+True, False, and Explain: Caplan's conclusion can be logically deduced from Bayes' Rule if delusional people have a strictly positive probability of thinking they observe 0-probability events, non-delusional people have a 0 probability of thinking they observe 0-probability events, and P(you're sane)>P(you're insane)>0.
+
+Refer to the impossible event as D. Your prior probability is P(D)=0. After thinking you saw the impossible event, your conditional probability that the impossible has occurred is P(D|B)=(P(B|D)P(D))/P(B)=0. So you do not Bayesian update in favor of the impossible having occurred. 
+
+By contrast, consider the situation where B is perceiving the impossible event, and A  is being insane. In this case, P(B|~A)=0,  so P(A|B)=(P(B|A)P(A))/((P(B|A)P(A))=1, so you will Bayesian update to become CERTAIN that you are insane! QED
+
+True. *Pg. 831 footnote #17  -  "If one literally assigned a probability of zero (or failed to assign a positive probability) to an event that actually happens, one would be yet more surprised. But, continuity aside, why would a rational agent assign a zero probability to a conceivable event? Moreover, if there is a small probability that one is delusional, the perception of a zero-probability event would rationally provoke one to doubt one's own perception rather than believe that the impossible has occurred."
+
+ 
+

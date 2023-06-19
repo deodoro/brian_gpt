@@ -1,0 +1,20 @@
+3. Suppose you play a 5 -turn Centipede Game with (a) a random American, and 
+(b) a random Ph.D. Micro student at GMU .  How would you personally play in 
+each of these cases?  What percentage of the theoretical maximum payoff 
+woul d you receive in each case?  Explain your answer.  
+ 
+If I played a random American, I would definitely NOT expect him to do backwards induction.  I 
+would however expect the random American to cheat on his last turn, so I would cheat one before 
+that.   (If I liked the person, or if I were playing a child, I would probably just cooperate the whole 
+way through... depending on the sum at stake).  
+ 
+If I played a random Ph.D. Micro student at GMU, my strategy would heavily depend on 
+anonymity.  If the student and I knew or expected to discover each others’ identities, then I would 
+cooperate the whole way through... unless there was a lot of money at stake.  If we were 
+anonymous, however, I would expect my opponent to cheat on the round right before my last turn , 
+so I would cheat one round before that .  With a 5 -turn game, that basically means I would cheat at 
+the first opportunity – but if the game were longer, I would definitely try cooperating until the last 
+five turns or so.   53 
+
+
+

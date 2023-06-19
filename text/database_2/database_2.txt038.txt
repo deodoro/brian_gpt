@@ -1,0 +1,6 @@
+5. Critics of the RE assumption often complain that it leads economists to underestimate the chance of market failure. It is not surprising, they maintain, that markets work well if everyone is "hyper-rational." 
+
+True, False, and Explain: The critics are correct given symmetric information, but the opposite might be true under asymmetric information.
+ 
+ False? Caplan seems to think economists overestimate the existence of market failure in situations of symmetric imperfect information (see Week 8, VII). However, "if information is not only imperfect but also assymmetric, inefficient outcomes may be the consequence." (Week 9, I, A.)
+ 

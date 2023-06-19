@@ -1,0 +1,18 @@
+2.  Sup pose 50% of all agents are certain (p=1) that occupation of Iraq will 
+reduce terrorism, and 50% of all agents are certain (p=1) that occupation of Iraq 
+will increase terrorism.  A betting market exists where agents can bet on their 
+beliefs . 
+ 
+True, False, a nd Explain:  A general equilibrium can  only exist if the prices of 
+the two bets are equal.  
+ 
+FALSE.  Assuming agents cannot sell short, the price ratio will depend upon the amount that 
+people are willing to bet , which in turn depends upon wealth.  If the peo ple who believe that the 
+invasion will reduce terrorism  are willing on average to bet twice as much as the people who 
+believe the opposite, for example, the betting market will clear when the "reduce" bet pays half as 
+much as the "increase" bet.  
+ 
+In agents  can sell short (or, equivalently, jus t issue notes offering to pay $1  if X happens), there is 
+no equilibrium.  Due to their certainty, both sides would happily offer offer  an infinite amount of 
+notes that pay off if the other side turns  out to be right, so the price ratio would be undefined.  
+ 

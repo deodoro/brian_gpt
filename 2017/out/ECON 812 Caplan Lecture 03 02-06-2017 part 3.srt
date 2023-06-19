@@ -1,0 +1,1801 @@
+1
+00:00:00,000 --> 00:00:03,600
+like the Everglades, but with multiple roots going in.
+
+2
+00:00:03,600 --> 00:00:04,800
+And we're like, that's weird.
+
+3
+00:00:04,800 --> 00:00:07,240
+But anyway, normal trees have one root,
+
+4
+00:00:07,240 --> 00:00:09,680
+and then they spread out from there.
+
+5
+00:00:09,680 --> 00:00:13,080
+That's the idea of extensive forms.
+
+6
+00:00:13,080 --> 00:00:16,000
+So a simple example could be your career game tree.
+
+7
+00:00:16,000 --> 00:00:19,080
+So each node, you can choose, you can keep going to school,
+
+8
+00:00:19,080 --> 00:00:20,960
+or you can get a job and get your payout.
+
+9
+00:00:20,960 --> 00:00:23,080
+So this would be a one-person game
+
+10
+00:00:23,080 --> 00:00:25,120
+where there's two choices.
+
+11
+00:00:25,120 --> 00:00:29,040
+You can drop out or go on.
+
+12
+00:00:29,040 --> 00:00:32,240
+If you drop out, then you might get your high school dropout
+
+13
+00:00:32,240 --> 00:00:33,160
+wage.
+
+14
+00:00:33,160 --> 00:00:36,240
+And then if you go on, then you'll
+
+15
+00:00:36,240 --> 00:00:40,240
+have the further choice of stop or go on.
+
+16
+00:00:40,240 --> 00:00:42,440
+And then if you stop, then you'll get your high school
+
+17
+00:00:42,440 --> 00:00:47,520
+wage, or you go on, and then you could go and stop and go on.
+
+18
+00:00:47,520 --> 00:00:52,320
+Go on, and then you could either get the college wage,
+
+19
+00:00:52,320 --> 00:00:55,120
+or you keep going on to your PhD, say.
+
+20
+00:00:55,120 --> 00:00:56,440
+And this is go on.
+
+21
+00:00:56,440 --> 00:00:59,120
+Let's see what I'm doing here.
+
+22
+00:00:59,120 --> 00:01:01,360
+Let's see here.
+
+23
+00:01:01,360 --> 00:01:03,120
+That's high school dropout.
+
+24
+00:01:03,120 --> 00:01:04,680
+That is finished high school.
+
+25
+00:01:04,680 --> 00:01:06,240
+That's finished college.
+
+26
+00:01:06,240 --> 00:01:09,840
+And yes, actually, you could just stop there.
+
+27
+00:01:09,840 --> 00:01:12,080
+Or you could go on to that, say, your PhD.
+
+28
+00:01:12,080 --> 00:01:14,480
+And then we could add on with getting a second PhD,
+
+29
+00:01:14,480 --> 00:01:15,880
+and that would be worse.
+
+30
+00:01:15,880 --> 00:01:20,160
+So you get exactly one PhD, no more, no less.
+
+31
+00:01:20,160 --> 00:01:23,600
+Anyone getting a second PhD right now?
+
+32
+00:01:23,600 --> 00:01:26,240
+When I was getting my PhD, there was
+
+33
+00:01:26,240 --> 00:01:29,120
+a guy there who had actually not only already had a PhD in math,
+
+34
+00:01:29,120 --> 00:01:31,520
+he had been a math professor.
+
+35
+00:01:31,520 --> 00:01:34,880
+And we're there taking PhD microwave with a math
+
+36
+00:01:34,880 --> 00:01:37,080
+professor.
+
+37
+00:01:37,080 --> 00:01:39,640
+But he was saying, I could barely
+
+38
+00:01:39,640 --> 00:01:41,640
+get any kind of decent job as a math professor.
+
+39
+00:01:41,640 --> 00:01:44,440
+Whereas here, I'm just like a titan towering over you.
+
+40
+00:01:44,440 --> 00:01:48,920
+So you guys don't understand any of this stuff, do you?
+
+41
+00:01:52,600 --> 00:01:54,720
+So that is a case of extensive form
+
+42
+00:01:54,720 --> 00:01:56,560
+where you've only got one player.
+
+43
+00:01:56,560 --> 00:01:58,400
+Now, a more interesting case, there
+
+44
+00:01:58,400 --> 00:02:01,320
+is a movie from the 70s with Gene Hackman called
+
+45
+00:02:01,320 --> 00:02:03,040
+The French Connection, where there's
+
+46
+00:02:03,040 --> 00:02:06,000
+a policeman who is strangely named Popeye.
+
+47
+00:02:06,000 --> 00:02:09,520
+I don't, and I still am confused by why he's named Popeye.
+
+48
+00:02:09,520 --> 00:02:12,120
+Why did someone write the story like this?
+
+49
+00:02:12,120 --> 00:02:13,640
+Where they say, well, no one's going
+
+50
+00:02:13,640 --> 00:02:16,040
+to confuse Gene Hackman, the policeman,
+
+51
+00:02:16,040 --> 00:02:18,560
+with the cartoon character of Popeye.
+
+52
+00:02:18,560 --> 00:02:20,760
+Some of you don't even know who Popeye is.
+
+53
+00:02:20,760 --> 00:02:21,880
+You know who the person is?
+
+54
+00:02:21,880 --> 00:02:22,800
+Popeye.
+
+55
+00:02:22,800 --> 00:02:23,920
+All right.
+
+56
+00:02:23,920 --> 00:02:27,560
+Anyway, so there's a character, a policeman named Popeye.
+
+57
+00:02:27,560 --> 00:02:29,600
+And he's hunting a criminal in New York.
+
+58
+00:02:29,600 --> 00:02:32,400
+And the criminal runs onto a subway.
+
+59
+00:02:32,400 --> 00:02:34,360
+And then Popeye gets onto the subway.
+
+60
+00:02:34,360 --> 00:02:36,200
+But then the criminal gets off the subway.
+
+61
+00:02:36,200 --> 00:02:37,200
+Then Popeye gets off.
+
+62
+00:02:37,200 --> 00:02:39,320
+And then they just sit there looking at each other.
+
+63
+00:02:39,320 --> 00:02:41,800
+Because Popeye wants to be on the subway with the criminal
+
+64
+00:02:41,800 --> 00:02:43,520
+to find out what's going on.
+
+65
+00:02:43,520 --> 00:02:46,560
+And the criminal does not want to be on the same subway,
+
+66
+00:02:46,560 --> 00:02:48,560
+be on the same place as Popeye.
+
+67
+00:02:48,560 --> 00:02:50,840
+Because the criminal does not want the cop
+
+68
+00:02:50,840 --> 00:02:53,480
+to know what is going on.
+
+69
+00:02:53,480 --> 00:02:56,040
+So you can think about it as an extensive form
+
+70
+00:02:56,040 --> 00:02:58,560
+where we start off with, let's see,
+
+71
+00:02:58,560 --> 00:03:03,120
+with the criminal decides to be on or off of the subway.
+
+72
+00:03:03,120 --> 00:03:05,400
+And then Popeye decides to be on or off.
+
+73
+00:03:09,800 --> 00:03:12,920
+And then when we're thinking about the payoffs,
+
+74
+00:03:12,920 --> 00:03:14,760
+so the criminal is the first actor.
+
+75
+00:03:14,760 --> 00:03:17,080
+So the criminal is their number one.
+
+76
+00:03:17,080 --> 00:03:20,160
+And the cop, Popeye, is number two.
+
+77
+00:03:20,160 --> 00:03:25,080
+So if they were both on, then which person
+
+78
+00:03:25,080 --> 00:03:27,800
+is going to be getting the low payoff?
+
+79
+00:03:27,800 --> 00:03:28,400
+The criminal.
+
+80
+00:03:28,400 --> 00:03:29,760
+Yeah, the criminal's getting the low payoff.
+
+81
+00:03:29,760 --> 00:03:30,640
+Let's call that zero.
+
+82
+00:03:30,640 --> 00:03:32,600
+And the policeman's getting the good one of 10.
+
+83
+00:03:32,600 --> 00:03:34,240
+He's happy.
+
+84
+00:03:34,240 --> 00:03:35,600
+But then there's the other part.
+
+85
+00:03:35,600 --> 00:03:37,680
+So if they're both on, on the other hand,
+
+86
+00:03:37,680 --> 00:03:41,600
+if the criminal is on the subway and the cop is off the subway,
+
+87
+00:03:41,600 --> 00:03:45,000
+then the criminal is happy and the cop is unhappy.
+
+88
+00:03:45,000 --> 00:03:47,440
+If the criminal is off and the cop is on,
+
+89
+00:03:47,440 --> 00:03:49,040
+then it's the same thing.
+
+90
+00:03:49,040 --> 00:03:51,040
+So the criminal is happy and the cop is unhappy.
+
+91
+00:03:51,040 --> 00:03:52,720
+And if they're both off, then it is
+
+92
+00:03:52,720 --> 00:03:56,960
+the cop that is happy and the criminal that is unhappy.
+
+93
+00:03:56,960 --> 00:04:01,200
+So we have all of those possibilities.
+
+94
+00:04:01,200 --> 00:04:02,700
+Now, there's a bunch of complications
+
+95
+00:04:02,700 --> 00:04:05,640
+about how you would deal with extensive forms.
+
+96
+00:04:05,640 --> 00:04:09,040
+So one of them is, what about nature?
+
+97
+00:04:09,040 --> 00:04:11,080
+What if there's also a possibility
+
+98
+00:04:11,080 --> 00:04:13,960
+that lightning strikes the subway?
+
+99
+00:04:13,960 --> 00:04:15,920
+And how does that change the game?
+
+100
+00:04:15,920 --> 00:04:18,880
+And the way that you normally model nature
+
+101
+00:04:18,880 --> 00:04:23,040
+is just put it in as a player that plays everything randomly.
+
+102
+00:04:23,040 --> 00:04:25,880
+So sometimes you actually put nature in as a player.
+
+103
+00:04:25,880 --> 00:04:27,960
+And then you'll say, well, either we're
+
+104
+00:04:27,960 --> 00:04:30,840
+in state of the world one or state of the world two
+
+105
+00:04:30,840 --> 00:04:32,360
+randomly.
+
+106
+00:04:32,360 --> 00:04:35,800
+And so if nature is a player, why does it act randomly?
+
+107
+00:04:35,800 --> 00:04:37,300
+Well, it would have to be that nature
+
+108
+00:04:37,300 --> 00:04:39,000
+has the same payoffs in every situation,
+
+109
+00:04:39,000 --> 00:04:41,240
+so it's indifferent between all outcomes, which
+
+110
+00:04:41,240 --> 00:04:44,000
+is just a philosophical claim.
+
+111
+00:04:44,000 --> 00:04:46,080
+The universe doesn't care about you.
+
+112
+00:04:46,080 --> 00:04:48,960
+It's either one way or the other.
+
+113
+00:04:48,960 --> 00:04:52,160
+Now, there's also an issue with information sets.
+
+114
+00:04:52,160 --> 00:04:56,720
+And that is, well, what about simultaneous moves?
+
+115
+00:04:56,720 --> 00:04:59,040
+And the way that it is handled with extensive forms
+
+116
+00:04:59,040 --> 00:05:01,460
+is to say, well, there's really no difference
+
+117
+00:05:01,460 --> 00:05:05,920
+between moving simultaneously and moving sequentially
+
+118
+00:05:05,920 --> 00:05:09,440
+without knowing what your opponent did.
+
+119
+00:05:09,440 --> 00:05:10,320
+So think about this.
+
+120
+00:05:10,320 --> 00:05:12,960
+Suppose we either play rock, paper, scissors sequentially,
+
+121
+00:05:12,960 --> 00:05:15,720
+where we both play and we reveal at the same time.
+
+122
+00:05:15,720 --> 00:05:19,480
+Or you could go and secretly write down
+
+123
+00:05:19,480 --> 00:05:21,040
+what you want on your strategy.
+
+124
+00:05:21,040 --> 00:05:22,880
+And then I go, and then I, without seeing
+
+125
+00:05:22,880 --> 00:05:24,800
+what you wrote down, announce what I'm doing,
+
+126
+00:05:24,800 --> 00:05:26,840
+and then you open up the paper.
+
+127
+00:05:26,840 --> 00:05:29,920
+For all practical purposes, those are the same thing.
+
+128
+00:05:29,920 --> 00:05:33,880
+Either we play simultaneously or we play sequentially,
+
+129
+00:05:33,880 --> 00:05:36,320
+but I don't know what you did.
+
+130
+00:05:36,320 --> 00:05:41,000
+So the way that we handle this simultaneous play
+
+131
+00:05:41,000 --> 00:05:43,600
+with extensive forms is simply to say,
+
+132
+00:05:43,600 --> 00:05:46,840
+that's just the same as making a decision without information.
+
+133
+00:05:46,840 --> 00:05:51,560
+So then it's conventional to go and draw a dotted box
+
+134
+00:05:51,560 --> 00:05:57,040
+around different places if you can't tell
+
+135
+00:05:57,040 --> 00:05:58,880
+the difference between them.
+
+136
+00:05:58,880 --> 00:06:00,560
+So if you don't know, did he do rock?
+
+137
+00:06:00,560 --> 00:06:01,320
+Did he do paper?
+
+138
+00:06:01,320 --> 00:06:02,640
+Or did he do scissors?
+
+139
+00:06:02,640 --> 00:06:05,080
+If you don't know what he did, then rather than saying
+
+140
+00:06:05,080 --> 00:06:06,120
+that you know what node you're at,
+
+141
+00:06:06,120 --> 00:06:08,400
+we just draw a dotted line around all the nodes
+
+142
+00:06:08,400 --> 00:06:11,080
+that you can't distinguish from each other,
+
+143
+00:06:11,080 --> 00:06:14,360
+and then play strategically from there.
+
+144
+00:06:14,360 --> 00:06:17,680
+So simultaneous moves are equivalent to sequential moves
+
+145
+00:06:17,680 --> 00:06:19,640
+with uncertainty, which means that we
+
+146
+00:06:19,640 --> 00:06:22,280
+can keep the nice tree format even if people
+
+147
+00:06:22,280 --> 00:06:23,480
+are moving at the same time.
+
+148
+00:06:23,480 --> 00:06:25,200
+Because if you, because otherwise it
+
+149
+00:06:25,200 --> 00:06:26,960
+would be hard to understand what do you do if people
+
+150
+00:06:26,960 --> 00:06:27,880
+move at the same time.
+
+151
+00:06:27,880 --> 00:06:29,440
+How can you show that in a tree?
+
+152
+00:06:29,440 --> 00:06:33,880
+The answer is we just treat that as if everything is sequential,
+
+153
+00:06:33,880 --> 00:06:36,680
+but sometimes you don't know what's happening.
+
+154
+00:06:36,680 --> 00:06:39,120
+And then we sort of spray paint some of the nodes
+
+155
+00:06:39,120 --> 00:06:41,760
+to show that you don't know where you are in the tree,
+
+156
+00:06:41,760 --> 00:06:43,720
+but it still looks like a tree.
+
+157
+00:06:43,720 --> 00:06:47,560
+You just don't know where in the tree you are.
+
+158
+00:06:47,560 --> 00:06:49,920
+All right, so extensive forms are done occasionally,
+
+159
+00:06:49,920 --> 00:06:51,640
+especially for simple games.
+
+160
+00:06:51,640 --> 00:06:55,320
+But it is more common for economists
+
+161
+00:06:55,320 --> 00:06:58,520
+to use what are called moral forms.
+
+162
+00:06:58,520 --> 00:07:00,840
+Someone write on that?
+
+163
+00:07:00,840 --> 00:07:02,080
+Yes, someone write on that?
+
+164
+00:07:02,080 --> 00:07:05,040
+Oh, that is, yes.
+
+165
+00:07:05,040 --> 00:07:06,000
+All right.
+
+166
+00:07:06,000 --> 00:07:07,320
+I didn't do it.
+
+167
+00:07:07,320 --> 00:07:09,320
+If you draw over it with the whiteboard marker,
+
+168
+00:07:09,320 --> 00:07:10,000
+it should erase.
+
+169
+00:07:10,000 --> 00:07:10,500
+Yeah.
+
+170
+00:07:10,500 --> 00:07:14,720
+It's mine.
+
+171
+00:07:14,720 --> 00:07:16,080
+As long as it stays wet.
+
+172
+00:07:16,080 --> 00:07:17,120
+Ah.
+
+173
+00:07:17,120 --> 00:07:19,560
+Oh, wow.
+
+174
+00:07:19,560 --> 00:07:20,920
+All right.
+
+175
+00:07:20,920 --> 00:07:22,640
+Amazing.
+
+176
+00:07:22,640 --> 00:07:24,520
+How could that be?
+
+177
+00:07:24,520 --> 00:07:26,120
+You broke the rules of the simulation.
+
+178
+00:07:26,120 --> 00:07:28,360
+Yeah.
+
+179
+00:07:28,360 --> 00:07:30,680
+It's a solid.
+
+180
+00:07:30,680 --> 00:07:31,760
+It's a legitimate change.
+
+181
+00:07:31,760 --> 00:07:32,800
+Does this work generally?
+
+182
+00:07:32,800 --> 00:07:37,360
+Can you get rid of stains on clothes the same way?
+
+183
+00:07:37,360 --> 00:07:40,320
+Mark on it with a marker.
+
+184
+00:07:40,320 --> 00:07:41,240
+All right.
+
+185
+00:07:41,240 --> 00:07:45,360
+Well, before I throw something out, I'll try it.
+
+186
+00:07:45,360 --> 00:07:48,720
+OK, so now the other way of value-driven games
+
+187
+00:07:48,720 --> 00:07:53,440
+is what is called a moral form, also called a strategic form.
+
+188
+00:07:53,440 --> 00:07:59,200
+Same concept, different word, different phrase.
+
+189
+00:07:59,200 --> 00:08:01,600
+So what you do here is you display a complete grid
+
+190
+00:08:01,600 --> 00:08:04,400
+of strategy profiles and payoffs.
+
+191
+00:08:04,400 --> 00:08:07,400
+It's a complete grid of strategy profiles and payoffs.
+
+192
+00:08:07,400 --> 00:08:10,640
+And the grid is one dimension per player.
+
+193
+00:08:10,640 --> 00:08:14,520
+As you might guess, then, very often used for two-player games
+
+194
+00:08:14,520 --> 00:08:16,360
+because it's really hard to go and draw
+
+195
+00:08:16,360 --> 00:08:19,600
+three-dimensional grids.
+
+196
+00:08:19,600 --> 00:08:21,520
+So if you just imagine what it would be like,
+
+197
+00:08:21,520 --> 00:08:23,080
+so you'd have to actually be putting the payoffs
+
+198
+00:08:23,080 --> 00:08:24,120
+in this three-dimensional grid.
+
+199
+00:08:24,120 --> 00:08:26,520
+And then four-dimensional grids are really hard to draw.
+
+200
+00:08:26,520 --> 00:08:30,200
+So when people do things like that,
+
+201
+00:08:30,200 --> 00:08:32,440
+normally they'll just go and give you the equations,
+
+202
+00:08:32,440 --> 00:08:38,280
+and they'll give up on actually trying to draw the grid.
+
+203
+00:08:38,280 --> 00:08:40,240
+So the grid is one dimension per player.
+
+204
+00:08:40,240 --> 00:08:43,680
+And the interesting thing about moral forms and moral forms
+
+205
+00:08:43,680 --> 00:08:46,800
+is that they will often contain irrelevant information
+
+206
+00:08:46,800 --> 00:08:49,880
+about what you would have done in situations that would never
+
+207
+00:08:49,880 --> 00:08:53,840
+happen, even where you ended up, which is strange at first.
+
+208
+00:08:53,840 --> 00:08:57,640
+But there is actually good reason for doing this.
+
+209
+00:08:57,640 --> 00:09:00,200
+And as we're going to see, actually,
+
+210
+00:09:00,200 --> 00:09:02,840
+your behavior in situations that don't occur
+
+211
+00:09:02,840 --> 00:09:04,800
+can actually strategically change
+
+212
+00:09:04,800 --> 00:09:08,480
+what happens in situations that do occur, which at first
+
+213
+00:09:08,480 --> 00:09:09,760
+sounds totally counterintuitive.
+
+214
+00:09:09,760 --> 00:09:12,560
+But I'm going to try to make it intuitive as we go on.
+
+215
+00:09:16,480 --> 00:09:19,800
+So let's think about normal form of your one-player career game.
+
+216
+00:09:19,800 --> 00:09:21,120
+There could just be, I don't think
+
+217
+00:09:21,120 --> 00:09:21,960
+I'll even bother writing it down.
+
+218
+00:09:21,960 --> 00:09:24,080
+So if you drop out before high school,
+
+219
+00:09:24,080 --> 00:09:25,360
+that could be a payoff of 10.
+
+220
+00:09:25,360 --> 00:09:27,240
+Finish high school and stuff, 15.
+
+221
+00:09:27,240 --> 00:09:29,400
+Finish your bachelor's degree and stuff, then 20.
+
+222
+00:09:29,400 --> 00:09:31,320
+Finish your PhD and stuff, then 30.
+
+223
+00:09:31,320 --> 00:09:34,000
+And finish two PhDs and stuff, that would be zero.
+
+224
+00:09:34,000 --> 00:09:37,560
+And then, of course, what you should do is get one PhD.
+
+225
+00:09:37,560 --> 00:09:38,080
+Exactly.
+
+226
+00:09:38,080 --> 00:09:40,280
+Now, number of PhDs exactly equal to one.
+
+227
+00:09:40,280 --> 00:09:42,160
+All right, now for the French connection game
+
+228
+00:09:42,160 --> 00:09:43,400
+gets a little more interesting.
+
+229
+00:09:43,400 --> 00:09:50,760
+So there, again, we can show criminal, followed by the cop.
+
+230
+00:09:50,760 --> 00:09:55,040
+And then we go and we show, here's the third possibility.
+
+231
+00:09:55,040 --> 00:09:59,880
+So they can go on or off, on or off.
+
+232
+00:09:59,880 --> 00:10:02,120
+And then we just go and put down what the payoffs are.
+
+233
+00:10:02,120 --> 00:10:06,560
+So 0, 10, 10, 0, 10, 0, 0, 10.
+
+234
+00:10:09,560 --> 00:10:12,160
+Now, let's see here.
+
+235
+00:10:12,160 --> 00:10:14,040
+Now, an important thing is player one
+
+236
+00:10:14,040 --> 00:10:16,200
+is always shown on the left.
+
+237
+00:10:16,200 --> 00:10:18,160
+This, of course, is not a law of nature.
+
+238
+00:10:18,160 --> 00:10:20,360
+But it is a convention that is universally followed.
+
+239
+00:10:20,360 --> 00:10:24,760
+So you should learn it, too, so that no one is confused.
+
+240
+00:10:24,760 --> 00:10:27,360
+So I was teaching game theory to my 14-year-olds.
+
+241
+00:10:27,360 --> 00:10:29,960
+And one of them did switch the axes.
+
+242
+00:10:29,960 --> 00:10:32,080
+And then, well, he said, well, why can't I do that?
+
+243
+00:10:32,080 --> 00:10:34,800
+Well, you can, but you will confuse everyone else
+
+244
+00:10:34,800 --> 00:10:35,400
+who knows this.
+
+245
+00:10:35,400 --> 00:10:40,480
+So you just need to do it the conventional way for clarity.
+
+246
+00:10:40,480 --> 00:10:42,360
+So anyway, this is always player one there.
+
+247
+00:10:42,360 --> 00:10:44,240
+That's always player two.
+
+248
+00:10:44,240 --> 00:10:46,920
+Every time I've ever seen it, it's been that way.
+
+249
+00:10:46,920 --> 00:10:50,560
+So you should do it the same way.
+
+250
+00:10:50,560 --> 00:10:52,480
+All right, now there's an example for preps.
+
+251
+00:10:52,480 --> 00:10:57,080
+So here he has player one chooses capital A or capital D.
+
+252
+00:10:57,080 --> 00:10:59,480
+And then he plays D, the game ends.
+
+253
+00:10:59,480 --> 00:11:02,200
+If he plays capital A, then player two
+
+254
+00:11:02,200 --> 00:11:06,480
+chooses alpha or delta, alpha, alpha, or delta.
+
+255
+00:11:06,480 --> 00:11:08,400
+And if he plays delta, the game ends.
+
+256
+00:11:08,400 --> 00:11:10,880
+And if he plays alpha, player one chooses little a or little
+
+257
+00:11:10,880 --> 00:11:11,360
+d.
+
+258
+00:11:11,360 --> 00:11:12,920
+And then either way, the game ends.
+
+259
+00:11:12,920 --> 00:11:15,680
+And then we can write down the normal form.
+
+260
+00:11:15,680 --> 00:11:17,800
+And notice this normal form is going
+
+261
+00:11:17,800 --> 00:11:21,440
+to do what I mentioned, which is include information
+
+262
+00:11:21,440 --> 00:11:24,320
+about irrelevant possibilities.
+
+263
+00:11:24,320 --> 00:11:26,920
+So here we've got all the possible combinations
+
+264
+00:11:26,920 --> 00:11:30,480
+of capital A, little a, capital A, little d, capital D,
+
+265
+00:11:30,480 --> 00:11:33,480
+little a, capital D, little d.
+
+266
+00:11:33,480 --> 00:11:36,040
+And those are all player one's options.
+
+267
+00:11:36,040 --> 00:11:39,920
+And then here we've got alpha and delta.
+
+268
+00:11:39,920 --> 00:11:42,600
+And here we have 3, 1, 4, 3.
+
+269
+00:11:42,600 --> 00:11:49,160
+2, 3, 4, 3, 1, 2, 1, 2, 1, 2, and 1, 2.
+
+270
+00:11:49,160 --> 00:11:50,160
+All right.
+
+271
+00:11:50,160 --> 00:11:54,480
+So in terms of common sense, you might say, well, look.
+
+272
+00:11:54,480 --> 00:11:56,840
+If he plays capital D, the game ends.
+
+273
+00:11:56,840 --> 00:11:59,560
+So what does it mean to say that he would have done a or b
+
+274
+00:11:59,560 --> 00:12:02,560
+or a, little a or little d in a situation where he never
+
+275
+00:12:02,560 --> 00:12:04,960
+does those things?
+
+276
+00:12:04,960 --> 00:12:07,960
+And that is an important question, which we'll come to.
+
+277
+00:12:07,960 --> 00:12:09,040
+But never mind.
+
+278
+00:12:09,040 --> 00:12:12,680
+And that is an important question, which we'll come to.
+
+279
+00:12:12,680 --> 00:12:15,640
+But notice that the normal form includes that information.
+
+280
+00:12:15,640 --> 00:12:23,320
+So every possible scenario, so what's the right way?
+
+281
+00:12:23,320 --> 00:12:25,760
+Even things that could never happen given earlier choice,
+
+282
+00:12:25,760 --> 00:12:30,200
+still we go and write them down in the grid for completeness.
+
+283
+00:12:30,200 --> 00:12:33,840
+Now, is this purely a mathematical fetishism thing
+
+284
+00:12:33,840 --> 00:12:35,720
+where we go in, which you wouldn't put it past
+
+285
+00:12:35,720 --> 00:12:37,320
+mathematicians, just saying.
+
+286
+00:12:37,320 --> 00:12:39,640
+We need to cover all our basics, including the basics that
+
+287
+00:12:39,640 --> 00:12:42,680
+cannot be occupied.
+
+288
+00:12:42,680 --> 00:12:44,520
+But no, actually, it turns out there's
+
+289
+00:12:44,520 --> 00:12:47,760
+some economic intuition to doing this, which I think
+
+290
+00:12:47,760 --> 00:12:51,920
+we'll be able to get to around the end of today.
+
+291
+00:12:51,920 --> 00:12:53,080
+All right.
+
+292
+00:12:53,080 --> 00:12:55,080
+All right, so you can look at the situation now.
+
+293
+00:12:55,080 --> 00:12:58,600
+From this, can you write down the sense of form?
+
+294
+00:12:58,600 --> 00:13:00,720
+And of course, the answer is yes.
+
+295
+00:13:00,720 --> 00:13:02,520
+All right, so as I said, so player one
+
+296
+00:13:02,520 --> 00:13:06,600
+chooses a, capital A or capital D. And he plays D,
+
+297
+00:13:06,600 --> 00:13:07,720
+the game ends.
+
+298
+00:13:07,720 --> 00:13:09,080
+Now, based upon this normal form,
+
+299
+00:13:09,080 --> 00:13:13,840
+what are the payoffs from over there?
+
+300
+00:13:13,840 --> 00:13:15,760
+What happens?
+
+301
+00:13:15,760 --> 00:13:17,880
+What always happens when capital D gets played?
+
+302
+00:13:17,880 --> 00:13:18,560
+1, 2.
+
+303
+00:13:18,560 --> 00:13:20,040
+1, 2, yes.
+
+304
+00:13:20,040 --> 00:13:21,400
+So 1, 2.
+
+305
+00:13:21,400 --> 00:13:23,120
+All right, and then if you play capital A,
+
+306
+00:13:23,120 --> 00:13:26,400
+then there's alpha or delta possibilities.
+
+307
+00:13:26,400 --> 00:13:29,120
+And again, if you play delta, the game ends.
+
+308
+00:13:29,120 --> 00:13:30,960
+So what happens then?
+
+309
+00:13:30,960 --> 00:13:35,040
+So what are the payoffs if the first person plays A,
+
+310
+00:13:35,040 --> 00:13:37,000
+second person plays delta?
+
+311
+00:13:37,000 --> 00:13:37,680
+4, 3.
+
+312
+00:13:37,680 --> 00:13:39,880
+So we got that.
+
+313
+00:13:39,880 --> 00:13:41,920
+And then finally, for this, then there's
+
+314
+00:13:41,920 --> 00:13:44,280
+capital A or little a, little d.
+
+315
+00:13:44,280 --> 00:13:48,240
+And then for those, we've got, so A, alpha, A.
+
+316
+00:13:48,240 --> 00:13:52,080
+So that's 3, 1, and 2, 3.
+
+317
+00:13:52,080 --> 00:13:56,320
+So that is the sense of form of that normal form.
+
+318
+00:13:56,320 --> 00:13:57,320
+OK.
+
+319
+00:13:57,320 --> 00:13:59,000
+All right, questions?
+
+320
+00:13:59,000 --> 00:13:59,500
+Yes?
+
+321
+00:13:59,500 --> 00:14:02,920
+So how do we know if the players play simultaneously?
+
+322
+00:14:02,920 --> 00:14:05,560
+So the answer is, if we don't actually
+
+323
+00:14:05,560 --> 00:14:10,480
+put those dotted lines around two or more of the nodes,
+
+324
+00:14:10,480 --> 00:14:12,240
+they play sequentially.
+
+325
+00:14:12,240 --> 00:14:16,200
+Is what we're seeing here.
+
+326
+00:14:18,720 --> 00:14:20,920
+So in other words, if you didn't know where you were,
+
+327
+00:14:20,920 --> 00:14:25,960
+then we'd have to go and put dotted lines here around them.
+
+328
+00:14:25,960 --> 00:14:27,840
+OK, all right.
+
+329
+00:14:27,840 --> 00:14:30,240
+Now, all that we've done so far is
+
+330
+00:14:30,240 --> 00:14:34,000
+we've learned some vocabulary, some notation.
+
+331
+00:14:34,000 --> 00:14:36,240
+So none of this actually tells us anything
+
+332
+00:14:36,240 --> 00:14:38,200
+about the real world so far.
+
+333
+00:14:38,200 --> 00:14:44,120
+Now we get to the first answer to a really big question that
+
+334
+00:14:44,120 --> 00:14:46,280
+has many answers.
+
+335
+00:14:46,280 --> 00:14:48,400
+There are many answers to this question.
+
+336
+00:14:48,400 --> 00:14:50,200
+But the first answer to the question,
+
+337
+00:14:50,200 --> 00:14:54,160
+so what does game theory say that people actually do?
+
+338
+00:14:54,160 --> 00:14:54,960
+All right.
+
+339
+00:14:54,960 --> 00:14:56,840
+Well, normally in game theory, people
+
+340
+00:14:56,840 --> 00:14:59,680
+begin trying to solve a game using the weakest
+
+341
+00:14:59,680 --> 00:15:02,400
+possible assumptions and see if they get an answer.
+
+342
+00:15:02,400 --> 00:15:04,560
+And if they get an answer, then they say, all right,
+
+343
+00:15:04,560 --> 00:15:07,000
+let's test to see whether that answer is true.
+
+344
+00:15:07,000 --> 00:15:09,440
+If they can't get an answer using weak assumptions,
+
+345
+00:15:09,440 --> 00:15:11,760
+then they strengthen the assumptions a bit
+
+346
+00:15:11,760 --> 00:15:13,640
+and then see if they get an answer
+
+347
+00:15:13,640 --> 00:15:16,040
+and then test if that assumption is true.
+
+348
+00:15:16,040 --> 00:15:18,000
+And so on.
+
+349
+00:15:18,000 --> 00:15:20,560
+So start with some relatively weak assumptions,
+
+350
+00:15:20,560 --> 00:15:24,640
+then strengthen them until a plausible answer emerges.
+
+351
+00:15:24,640 --> 00:15:28,480
+Now, the weakest assumption that game theorists use.
+
+352
+00:15:28,480 --> 00:15:32,320
+The weakest assumption is that nobody
+
+353
+00:15:32,320 --> 00:15:34,960
+plays what are called strictly dominated strategies.
+
+354
+00:15:42,960 --> 00:15:46,240
+So slash through it.
+
+355
+00:15:46,240 --> 00:15:48,080
+Nobody does those.
+
+356
+00:15:48,080 --> 00:15:51,000
+All right, that is the first and weakest assumption
+
+357
+00:15:51,000 --> 00:15:54,840
+that game theorists use to try to solve models in game theory.
+
+358
+00:15:54,840 --> 00:15:57,480
+So what is a strictly dominated strategy?
+
+359
+00:15:57,480 --> 00:15:59,040
+A strictly dominated strategy is one
+
+360
+00:15:59,040 --> 00:16:02,760
+that is worse for you in all conditions of the world.
+
+361
+00:16:02,760 --> 00:16:05,160
+No matter what your opponents do,
+
+362
+00:16:05,160 --> 00:16:07,240
+if a strategy is worse for you than another one,
+
+363
+00:16:07,240 --> 00:16:09,280
+that strategy is strictly dominated.
+
+364
+00:16:09,280 --> 00:16:11,040
+And the assumption is that people
+
+365
+00:16:11,040 --> 00:16:13,720
+don't play that strategy.
+
+366
+00:16:13,720 --> 00:16:15,680
+All right, that sounds really reasonable, right?
+
+367
+00:16:15,680 --> 00:16:17,640
+If there's something that is always a bad idea,
+
+368
+00:16:17,640 --> 00:16:20,360
+no one will ever do it.
+
+369
+00:16:20,360 --> 00:16:25,160
+So of course, if you know any psychology or psychology
+
+370
+00:16:25,160 --> 00:16:29,120
+economics, you will know some counter examples.
+
+371
+00:16:29,120 --> 00:16:32,160
+But people do do things that are bad for them no matter what.
+
+372
+00:16:32,160 --> 00:16:36,400
+So in any case, we're just starting out in a simple place.
+
+373
+00:16:36,400 --> 00:16:40,080
+All right, so people don't play strictly dominated strategies.
+
+374
+00:16:40,080 --> 00:16:42,240
+And so if there's a strategy that is worse for you,
+
+375
+00:16:42,240 --> 00:16:44,840
+no matter what your opponent does, you don't play it.
+
+376
+00:16:44,840 --> 00:16:47,680
+Now, the way you get more mileage out of this
+
+377
+00:16:47,680 --> 00:16:50,840
+is that if nobody plays strictly dominated strategies,
+
+378
+00:16:50,840 --> 00:16:53,680
+then sometimes once you realize, well,
+
+379
+00:16:53,680 --> 00:16:56,840
+that guy will never play that strategy, then you'll say, ah.
+
+380
+00:16:56,840 --> 00:16:59,600
+So then actually, I can eliminate something else
+
+381
+00:16:59,600 --> 00:17:01,680
+because I know that he'll never do that thing that
+
+382
+00:17:01,680 --> 00:17:02,680
+is always bad for him.
+
+383
+00:17:02,680 --> 00:17:05,520
+So I can ignore it when I figure out what to do.
+
+384
+00:17:05,520 --> 00:17:08,880
+And I'll act as if that possibility doesn't even exist.
+
+385
+00:17:08,880 --> 00:17:11,960
+And then I will perhaps be able to eliminate some strategies,
+
+386
+00:17:11,960 --> 00:17:14,480
+which might mean that he'll be able to eliminate some more.
+
+387
+00:17:14,480 --> 00:17:16,320
+And then I'll be able to eliminate some more.
+
+388
+00:17:16,320 --> 00:17:19,960
+And so on, it may be that we wind up with only one thing
+
+389
+00:17:19,960 --> 00:17:21,480
+that we do, right?
+
+390
+00:17:21,480 --> 00:17:24,000
+Even though on the surface, it looks really complicated,
+
+391
+00:17:24,000 --> 00:17:26,960
+it might not actually be very complicated after a while
+
+392
+00:17:26,960 --> 00:17:29,400
+when we really play through.
+
+393
+00:17:29,400 --> 00:17:30,080
+OK.
+
+394
+00:17:30,080 --> 00:17:34,000
+Now, if eliminating all the strictly dominated strategies
+
+395
+00:17:34,000 --> 00:17:36,120
+finally leaves you with only one equilibrium,
+
+396
+00:17:36,120 --> 00:17:37,640
+then we have a special name for that.
+
+397
+00:17:37,640 --> 00:17:40,160
+We say that the game is dominant solvable.
+
+398
+00:17:40,160 --> 00:17:41,880
+It's dominant solvable.
+
+399
+00:17:41,880 --> 00:17:44,880
+The classic example, of course, is the prisoner's lemma.
+
+400
+00:17:44,880 --> 00:17:47,560
+Everyone here has seen the prisoner's lemma at some point.
+
+401
+00:17:47,560 --> 00:17:49,520
+So the whole idea of the prisoner's lemma,
+
+402
+00:17:49,520 --> 00:17:52,400
+or there's many versions, but the classic version is,
+
+403
+00:17:52,400 --> 00:17:55,080
+the policeman has two suspects for a crime.
+
+404
+00:17:55,080 --> 00:17:57,320
+And he tells each of them, look, you can either
+
+405
+00:17:57,320 --> 00:17:59,280
+confess or not confess.
+
+406
+00:17:59,280 --> 00:18:04,120
+If you confess and your partner doesn't,
+
+407
+00:18:04,120 --> 00:18:05,880
+then you're going to get a light sentence.
+
+408
+00:18:05,880 --> 00:18:08,960
+And your partner, rather, is going to get a heavy sentence.
+
+409
+00:18:08,960 --> 00:18:10,760
+If he confesses and you don't, then you're
+
+410
+00:18:10,760 --> 00:18:11,720
+going to get a heavy sentence.
+
+411
+00:18:11,720 --> 00:18:13,320
+And he's going to get off lightly.
+
+412
+00:18:13,320 --> 00:18:14,920
+If neither of you confesses, then I'll
+
+413
+00:18:14,920 --> 00:18:16,640
+go and pin on a small crime to you.
+
+414
+00:18:16,640 --> 00:18:18,960
+You'll both get a traffic ticket or something.
+
+415
+00:18:18,960 --> 00:18:22,080
+But if both of you confess, then you both get a harsh penalty,
+
+416
+00:18:22,080 --> 00:18:24,320
+although not quite as harsh as being
+
+417
+00:18:24,320 --> 00:18:26,400
+the person that refused to testify when
+
+418
+00:18:26,400 --> 00:18:29,560
+your partner did testify.
+
+419
+00:18:29,560 --> 00:18:31,800
+So it's all based upon the criminal justice system.
+
+420
+00:18:31,800 --> 00:18:33,920
+That's why it's called the prisoner's lemma.
+
+421
+00:18:33,920 --> 00:18:36,960
+And notice where the apostrophe comes.
+
+422
+00:18:36,960 --> 00:18:39,680
+Is it before the S or after the S?
+
+423
+00:18:39,680 --> 00:18:42,760
+It's after to show it is a lemma that collectively belongs
+
+424
+00:18:42,760 --> 00:18:44,720
+to the two prisoners.
+
+425
+00:18:44,720 --> 00:18:50,000
+And the prisoners are in a difficult strategic situation.
+
+426
+00:18:50,000 --> 00:18:53,880
+Right now, there's a very strong intuition
+
+427
+00:18:53,880 --> 00:18:57,160
+that if the prisoners can just talk and say, don't talk, OK,
+
+428
+00:18:57,160 --> 00:19:00,560
+no way I would ever talk, that this changes the game.
+
+429
+00:19:00,560 --> 00:19:04,440
+But in terms of the actual payoffs and the logic of the game,
+
+430
+00:19:04,440 --> 00:19:06,040
+it doesn't change it at all.
+
+431
+00:19:06,040 --> 00:19:08,720
+We think that talking would change the outcome.
+
+432
+00:19:08,720 --> 00:19:10,760
+By the way, is there experimental evidence that
+
+433
+00:19:10,760 --> 00:19:12,880
+talking does change outcomes?
+
+434
+00:19:12,880 --> 00:19:14,200
+Yeah, there is.
+
+435
+00:19:14,200 --> 00:19:17,320
+But it's not because of the economics or the game theory.
+
+436
+00:19:17,320 --> 00:19:19,320
+It's because of psychology.
+
+437
+00:19:19,320 --> 00:19:22,600
+It's because when people talk, this changes the way they feel.
+
+438
+00:19:22,600 --> 00:19:26,480
+It's not because it changes what is actually in your interest.
+
+439
+00:19:26,480 --> 00:19:29,440
+Because again, in terms of the actual payoffs
+
+440
+00:19:29,440 --> 00:19:33,040
+in the prisoner's lemma, after you say,
+
+441
+00:19:33,040 --> 00:19:36,080
+I promise I would never betray you, so don't betray me, OK?
+
+442
+00:19:36,080 --> 00:19:37,040
+OK, brother.
+
+443
+00:19:37,040 --> 00:19:39,360
+And then as soon as you leave the room, say, all right,
+
+444
+00:19:39,360 --> 00:19:41,840
+you totally did it.
+
+445
+00:19:41,840 --> 00:19:47,840
+And that is, again, in terms of the game theory, what happens.
+
+446
+00:19:47,840 --> 00:19:50,840
+So part of it's that sentimental commitment that you've made.
+
+447
+00:19:50,840 --> 00:19:54,920
+I think you're also identifying the probability
+
+448
+00:19:54,920 --> 00:19:56,240
+that these boxes are different.
+
+449
+00:19:56,240 --> 00:19:57,760
+Well, in other words, you could also
+
+450
+00:19:57,760 --> 00:20:00,160
+say you're just identifying whether the person underneath
+
+

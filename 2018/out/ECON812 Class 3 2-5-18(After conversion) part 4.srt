@@ -1,0 +1,2309 @@
+1
+00:00:00,000 --> 00:00:05,000
+All right, now we move on to something that is more,
+
+2
+00:00:05,740 --> 00:00:07,640
+at least in my view, more interesting.
+
+3
+00:00:08,640 --> 00:00:10,960
+More, let's see, what's the right word?
+
+4
+00:00:10,960 --> 00:00:13,880
+So, it's more profound.
+
+5
+00:00:13,880 --> 00:00:18,280
+Even if it's wrong, still there's something deeper about it.
+
+6
+00:00:18,280 --> 00:00:20,880
+So, that is the pure strategy Nash equilibrium.
+
+7
+00:00:20,880 --> 00:00:23,600
+All right, so you guys know who John Nash was?
+
+8
+00:00:23,600 --> 00:00:27,000
+So, here's a guy with so much wrong in his life
+
+9
+00:00:27,000 --> 00:00:29,380
+that after a movie is made about his life,
+
+10
+00:00:29,380 --> 00:00:31,680
+then he's killed in a free car accident.
+
+11
+00:00:32,680 --> 00:00:34,800
+Right, so, if you redid the movie,
+
+12
+00:00:34,800 --> 00:00:36,400
+then obviously you would change the scene.
+
+13
+00:00:36,400 --> 00:00:38,000
+You'd change it, and then after everything else,
+
+14
+00:00:38,000 --> 00:00:40,600
+then he dies in a taxi.
+
+15
+00:00:40,600 --> 00:00:43,680
+But, anyway, so John Nash,
+
+16
+00:00:43,680 --> 00:00:46,840
+the subject of the biography of Beautiful Minds.
+
+17
+00:00:46,840 --> 00:00:50,140
+The movie diverges heavily from the actual autobiography.
+
+18
+00:00:50,140 --> 00:00:52,680
+So, I do have a paper where I talk quite a bit about
+
+19
+00:00:52,680 --> 00:00:53,600
+what the book actually says,
+
+20
+00:00:53,600 --> 00:00:55,560
+which is very different from the movie.
+
+21
+00:00:55,560 --> 00:00:59,960
+But, it says, my paper on the economics of mental illness.
+
+22
+00:00:59,960 --> 00:01:02,160
+So, if you're curious about that,
+
+23
+00:01:02,160 --> 00:01:03,840
+the divergences are quite interesting.
+
+24
+00:01:03,840 --> 00:01:06,240
+There's numerous direct quotes from Nash
+
+25
+00:01:06,240 --> 00:01:09,160
+that directly concordate a bunch of things in the movie.
+
+26
+00:01:09,160 --> 00:01:12,600
+But, yes, stuff that would annoy people to bring it up.
+
+27
+00:01:12,600 --> 00:01:15,920
+That's, you can't annoy people when you're a professor.
+
+28
+00:01:17,440 --> 00:01:18,800
+Why are you in this business?
+
+29
+00:01:18,800 --> 00:01:19,720
+You don't want to.
+
+30
+00:01:19,720 --> 00:01:22,160
+All right, so the pure strategy Nash equilibrium.
+
+31
+00:01:22,160 --> 00:01:24,280
+So, you can only get so far
+
+32
+00:01:24,280 --> 00:01:26,240
+with strict dominance type reasoning.
+
+33
+00:01:26,240 --> 00:01:27,400
+Right, and then backwards induction
+
+34
+00:01:27,400 --> 00:01:29,120
+seems really cool at first,
+
+35
+00:01:29,120 --> 00:01:31,200
+until you realize it's only for gains of perfect information.
+
+36
+00:01:31,200 --> 00:01:33,200
+And, remind me, in the real world, again,
+
+37
+00:01:33,200 --> 00:01:35,440
+when do we have perfect information?
+
+38
+00:01:35,440 --> 00:01:36,480
+Never, yeah.
+
+39
+00:01:36,480 --> 00:01:38,800
+Even in chess, you could say,
+
+40
+00:01:38,800 --> 00:01:41,520
+you might actually have forgotten what's on,
+
+41
+00:01:41,520 --> 00:01:42,520
+what the pieces are.
+
+42
+00:01:42,520 --> 00:01:43,440
+You might throw in attention,
+
+43
+00:01:43,440 --> 00:01:45,360
+think that the queen is a horse,
+
+44
+00:01:45,360 --> 00:01:49,520
+or a knight, and then you've messed up.
+
+45
+00:01:49,520 --> 00:01:53,000
+Right, so even there, it's like, oh, wait, oh my God,
+
+46
+00:01:53,000 --> 00:01:54,560
+I didn't see that you had the queen there.
+
+47
+00:01:54,560 --> 00:01:56,320
+Don't, right?
+
+48
+00:01:56,320 --> 00:01:58,400
+So, or like, maybe there'll be a terrorist attack
+
+49
+00:01:58,400 --> 00:01:59,640
+in the middle of your chess tournament,
+
+50
+00:01:59,640 --> 00:02:01,560
+and then it turns out that it would have been better
+
+51
+00:02:01,560 --> 00:02:05,280
+to have lost and gone home, and then missed the attack.
+
+52
+00:02:05,280 --> 00:02:07,680
+So, there's lots of complexities.
+
+53
+00:02:07,680 --> 00:02:10,440
+So, even chess, an actual game of chess,
+
+54
+00:02:10,440 --> 00:02:12,920
+not a theoretical game of chess,
+
+55
+00:02:12,920 --> 00:02:14,080
+because no one has ever actually played
+
+56
+00:02:14,080 --> 00:02:15,480
+a theoretical game of chess.
+
+57
+00:02:16,400 --> 00:02:18,640
+This always happens in the real world.
+
+58
+00:02:20,720 --> 00:02:21,960
+All right, so anyway,
+
+59
+00:02:21,960 --> 00:02:23,800
+so very few interesting situations,
+
+60
+00:02:23,800 --> 00:02:24,880
+or I'm gonna go out on a limb and just say,
+
+61
+00:02:24,880 --> 00:02:27,800
+no interesting situation, actually is perfect information.
+
+62
+00:02:29,440 --> 00:02:32,840
+All right, so anyway, this leads us to a totally different
+
+63
+00:02:32,840 --> 00:02:36,800
+and kind of counterintuitive concept of equilibrium,
+
+64
+00:02:36,800 --> 00:02:38,680
+which is the pure strategy Nash equilibrium,
+
+65
+00:02:38,680 --> 00:02:41,080
+named, of course, after John Nash.
+
+66
+00:02:42,040 --> 00:02:44,520
+Okay, and this brings us to one of the abbreviations
+
+67
+00:02:44,520 --> 00:02:46,040
+that you must memorize.
+
+68
+00:02:46,040 --> 00:02:48,800
+All right, so the first abbreviation you must memorize
+
+69
+00:02:48,800 --> 00:02:53,800
+is PSNE, which stands for pure strategy Nash equilibrium.
+
+70
+00:02:54,480 --> 00:02:55,920
+Okay, a set of player strategies
+
+71
+00:02:55,920 --> 00:02:58,120
+is a pure strategy Nash equilibrium,
+
+72
+00:02:58,120 --> 00:03:01,160
+if and only if no player could do strictly better
+
+73
+00:03:01,160 --> 00:03:02,160
+by changing strategies,
+
+74
+00:03:02,160 --> 00:03:04,360
+holding all other players' actions fixed.
+
+75
+00:03:05,360 --> 00:03:09,040
+All right, so that is a seemingly straightforward sentence
+
+76
+00:03:09,040 --> 00:03:10,200
+that's really hard to understand,
+
+77
+00:03:10,200 --> 00:03:12,760
+so let's try to work it through with some examples.
+
+78
+00:03:12,760 --> 00:03:15,720
+So, to find out whether something is a Nash equilibrium,
+
+79
+00:03:15,720 --> 00:03:17,800
+what we need to do is, you know, like suppose,
+
+80
+00:03:17,800 --> 00:03:19,520
+like we're saying, like, is the seating in this room
+
+81
+00:03:19,520 --> 00:03:20,920
+a Nash equilibrium?
+
+82
+00:03:20,920 --> 00:03:24,200
+So, first thing to find out, start with Tucker and say,
+
+83
+00:03:24,200 --> 00:03:25,200
+do you wanna change your seat,
+
+84
+00:03:25,200 --> 00:03:26,360
+holding constant where everyone else
+
+85
+00:03:26,360 --> 00:03:27,960
+in this room is sitting?
+
+86
+00:03:27,960 --> 00:03:29,600
+And if you say no, good.
+
+87
+00:03:29,600 --> 00:03:30,800
+All right, now you.
+
+88
+00:03:32,120 --> 00:03:32,960
+Peter.
+
+89
+00:03:32,960 --> 00:03:33,800
+Peter, Peter.
+
+90
+00:03:33,800 --> 00:03:36,560
+Do you wanna change where you're sitting in this room,
+
+91
+00:03:36,560 --> 00:03:38,160
+holding constant where everyone in this room is sitting,
+
+92
+00:03:38,160 --> 00:03:39,600
+including Tucker?
+
+93
+00:03:39,600 --> 00:03:40,520
+No.
+
+94
+00:03:40,520 --> 00:03:42,840
+All right, now do you wanna change where you're sitting,
+
+95
+00:03:42,840 --> 00:03:44,040
+you know, holding constant where everyone else
+
+96
+00:03:44,040 --> 00:03:47,400
+in this room is sitting, including Tucker and Peter?
+
+97
+00:03:47,400 --> 00:03:49,840
+And so, we go to every single person in this room,
+
+98
+00:03:49,840 --> 00:03:51,680
+and if there's a single person who says,
+
+99
+00:03:51,680 --> 00:03:53,600
+yes, I would like to change my seat,
+
+100
+00:03:53,600 --> 00:03:56,520
+then we don't have a Nash equilibrium for seating.
+
+101
+00:03:56,520 --> 00:03:58,680
+But, if every single person actually,
+
+102
+00:03:58,680 --> 00:04:00,600
+I'm saying we have, if there's not a single one of you
+
+103
+00:04:00,600 --> 00:04:01,880
+wants to change your seating,
+
+104
+00:04:01,880 --> 00:04:04,280
+holding constant with everybody else is doing,
+
+105
+00:04:04,280 --> 00:04:06,080
+then we've got a Nash equilibrium.
+
+106
+00:04:06,080 --> 00:04:07,960
+Actually, Peter's seat's looking pretty nice right now.
+
+107
+00:04:07,960 --> 00:04:09,240
+Yes.
+
+108
+00:04:09,240 --> 00:04:10,160
+Yeah, what?
+
+109
+00:04:10,160 --> 00:04:11,600
+Go for it.
+
+110
+00:04:11,600 --> 00:04:13,080
+Don't, don't, don't.
+
+111
+00:04:13,080 --> 00:04:17,480
+I was like, you'd ask.
+
+112
+00:04:17,480 --> 00:04:19,880
+All right, now, this, like, at first,
+
+113
+00:04:19,880 --> 00:04:21,680
+the first idea's like, well, yeah, well, of course,
+
+114
+00:04:21,680 --> 00:04:23,080
+like, everything would be.
+
+115
+00:04:23,080 --> 00:04:25,240
+But, the answer to that, the truth is actually,
+
+116
+00:04:25,240 --> 00:04:26,960
+that's not necessary at all.
+
+117
+00:04:26,960 --> 00:04:28,480
+Something could have, first of all,
+
+118
+00:04:28,480 --> 00:04:30,680
+just when you think about the definition a little more,
+
+119
+00:04:30,680 --> 00:04:32,520
+something could have multiple pure strategy
+
+120
+00:04:32,520 --> 00:04:34,160
+Nash equilibria quite easily.
+
+121
+00:04:34,160 --> 00:04:35,920
+Like, suppose you show up and you find that someone
+
+122
+00:04:35,920 --> 00:04:38,280
+is in the seat you were gonna sit in.
+
+123
+00:04:38,280 --> 00:04:41,680
+What is the normal reaction of people at this point?
+
+124
+00:04:41,680 --> 00:04:42,960
+What is your reaction?
+
+125
+00:04:42,960 --> 00:04:44,680
+Just find a different seat.
+
+126
+00:04:44,680 --> 00:04:46,000
+And then, you're sitting in the seat
+
+127
+00:04:46,000 --> 00:04:47,080
+someone else was gonna sit in.
+
+128
+00:04:47,080 --> 00:04:49,200
+And what do they do when they show up?
+
+129
+00:04:49,200 --> 00:04:50,480
+They sit in another seat.
+
+130
+00:04:50,480 --> 00:04:51,800
+And pretty soon, you've thrown off
+
+131
+00:04:51,800 --> 00:04:54,160
+the entire civilization of this room.
+
+132
+00:04:54,160 --> 00:04:56,760
+But, life goes on, and everybody just sits
+
+133
+00:04:56,760 --> 00:04:59,040
+in a different seat, and 10 minutes into class,
+
+134
+00:04:59,040 --> 00:05:00,800
+you've probably forgotten about the whole thing.
+
+135
+00:05:00,800 --> 00:05:03,120
+And we just have a new seating equilibrium.
+
+136
+00:05:03,120 --> 00:05:05,320
+And if that first person is sat in a different seat,
+
+137
+00:05:05,320 --> 00:05:06,520
+that probably would have led to a whole different
+
+138
+00:05:06,520 --> 00:05:08,000
+set of chain reactions.
+
+139
+00:05:08,000 --> 00:05:11,200
+So, there could be, there could be millions or billions
+
+140
+00:05:11,200 --> 00:05:14,640
+of different pure strategy Nash equilibria for our seating.
+
+141
+00:05:14,640 --> 00:05:18,000
+I have to go and do, go back to the permutations formula
+
+142
+00:05:18,000 --> 00:05:20,160
+in probability to find out how many different ways
+
+143
+00:05:20,160 --> 00:05:22,160
+we could rearrange ourselves in this room.
+
+144
+00:05:22,160 --> 00:05:23,720
+But, if you remember what that formula's like,
+
+145
+00:05:23,720 --> 00:05:25,680
+it comes, you know, factorials appear.
+
+146
+00:05:25,680 --> 00:05:27,600
+And therefore, it's an enormous number
+
+147
+00:05:27,600 --> 00:05:29,120
+of equilibria that we can get.
+
+148
+00:05:30,000 --> 00:05:31,040
+All right.
+
+149
+00:05:31,040 --> 00:05:34,840
+So, that is a way in which we'd have multiple equilibria.
+
+150
+00:05:34,840 --> 00:05:38,120
+It's also possible that we could have zero equilibria.
+
+151
+00:05:38,120 --> 00:05:39,680
+There could be zero equilibria.
+
+152
+00:05:39,680 --> 00:05:40,960
+What would that be like?
+
+153
+00:05:40,960 --> 00:05:43,480
+Well, suppose that there is one person
+
+154
+00:05:43,480 --> 00:05:45,240
+who smells really bad.
+
+155
+00:05:45,240 --> 00:05:46,080
+All right.
+
+156
+00:05:46,080 --> 00:05:47,440
+So, that person sits down.
+
+157
+00:05:47,440 --> 00:05:49,640
+And what does everybody, what does everybody
+
+158
+00:05:49,640 --> 00:05:51,720
+within a four seat radius of them want to do?
+
+159
+00:05:51,720 --> 00:05:52,560
+Move.
+
+160
+00:05:52,560 --> 00:05:53,400
+Move.
+
+161
+00:05:53,400 --> 00:05:54,240
+All right.
+
+162
+00:05:54,240 --> 00:05:55,880
+So, but then suppose that the person who smells bad
+
+163
+00:05:55,880 --> 00:05:57,640
+gets lonely very easily.
+
+164
+00:05:57,640 --> 00:05:58,840
+All right.
+
+165
+00:05:58,840 --> 00:05:59,680
+All right.
+
+166
+00:05:59,680 --> 00:06:03,840
+So, after everyone has created a, what's the French word?
+
+167
+00:06:03,840 --> 00:06:07,240
+You know, a cordon sanitaire, something like that.
+
+168
+00:06:07,240 --> 00:06:08,080
+Oh, yeah.
+
+169
+00:06:08,080 --> 00:06:08,920
+Yeah, yeah.
+
+170
+00:06:08,920 --> 00:06:11,600
+A sanitary cord around that person.
+
+171
+00:06:11,600 --> 00:06:13,000
+That person says, well, I'm lonely.
+
+172
+00:06:13,000 --> 00:06:14,320
+And they move close.
+
+173
+00:06:14,320 --> 00:06:17,160
+And then what do the people that are now
+
+174
+00:06:17,160 --> 00:06:18,880
+in the smell zone do again?
+
+175
+00:06:18,880 --> 00:06:19,960
+They move away.
+
+176
+00:06:19,960 --> 00:06:21,960
+And then the smelly person moves closer to them.
+
+177
+00:06:21,960 --> 00:06:24,120
+And we could have a whole class consisting
+
+178
+00:06:24,120 --> 00:06:27,360
+in nothing but a smelly person chasing the other students
+
+179
+00:06:27,360 --> 00:06:28,200
+around the room.
+
+180
+00:06:28,200 --> 00:06:30,600
+Without ever actually, people,
+
+181
+00:06:30,600 --> 00:06:33,120
+the people ever actually finding their seats
+
+182
+00:06:33,120 --> 00:06:35,800
+or coming to any stable seating equilibria.
+
+183
+00:06:35,800 --> 00:06:37,240
+That's totally possible too.
+
+184
+00:06:37,240 --> 00:06:38,080
+All right.
+
+185
+00:06:38,080 --> 00:06:41,160
+So, we've already learned something interesting
+
+186
+00:06:41,160 --> 00:06:42,760
+about pure shagging and ash egg delivery.
+
+187
+00:06:42,760 --> 00:06:44,920
+Like, there could be an incredible number.
+
+188
+00:06:44,920 --> 00:06:46,520
+There could be none.
+
+189
+00:06:46,520 --> 00:06:49,080
+But then a lot of times it seems like there's one.
+
+190
+00:06:49,080 --> 00:06:50,720
+At least one, right?
+
+191
+00:06:50,720 --> 00:06:51,560
+All right.
+
+192
+00:06:51,560 --> 00:06:53,760
+So, and then sometimes it seems like there's really
+
+193
+00:06:53,760 --> 00:06:55,720
+only one that you could ever imagine.
+
+194
+00:06:55,720 --> 00:06:58,360
+And other times it seems like there could be a lot.
+
+195
+00:06:58,360 --> 00:06:59,720
+And other times when you think about it,
+
+196
+00:06:59,720 --> 00:07:01,040
+like there could be totally different ones,
+
+197
+00:07:01,040 --> 00:07:04,320
+but it would be a lot of effort to switch over.
+
+198
+00:07:04,320 --> 00:07:05,560
+Like, for example,
+
+199
+00:07:05,560 --> 00:07:07,960
+suppose you're in a country where most people speak
+
+200
+00:07:07,960 --> 00:07:09,520
+Yiddish or German,
+
+201
+00:07:09,520 --> 00:07:12,440
+and you've got some ideological problem
+
+202
+00:07:12,440 --> 00:07:13,960
+with the German language.
+
+203
+00:07:13,960 --> 00:07:15,640
+What may, and then there's like,
+
+204
+00:07:15,640 --> 00:07:17,320
+well, we can all switch to English.
+
+205
+00:07:17,320 --> 00:07:19,240
+That would be super practical.
+
+206
+00:07:19,240 --> 00:07:21,560
+Yeah, but let's not do that one.
+
+207
+00:07:21,560 --> 00:07:24,400
+Let's do a dead language instead.
+
+208
+00:07:24,400 --> 00:07:25,480
+Let's do Hebrew.
+
+209
+00:07:26,480 --> 00:07:27,320
+All right.
+
+210
+00:07:27,320 --> 00:07:29,160
+And that's what happened in Israel, right?
+
+211
+00:07:29,160 --> 00:07:30,000
+You got a big population.
+
+212
+00:07:30,000 --> 00:07:33,000
+Yes, you have a big population of refugees
+
+213
+00:07:33,000 --> 00:07:37,120
+where the language or the most commonly spoken language
+
+214
+00:07:37,120 --> 00:07:38,720
+would have been German.
+
+215
+00:07:39,560 --> 00:07:41,320
+And then the language that would have made the most sense
+
+216
+00:07:41,320 --> 00:07:42,800
+was English.
+
+217
+00:07:42,800 --> 00:07:43,840
+But then there's people saying,
+
+218
+00:07:43,840 --> 00:07:46,920
+now let's revive a dead language.
+
+219
+00:07:46,920 --> 00:07:49,040
+It's never worked yet.
+
+220
+00:07:49,040 --> 00:07:50,360
+And they did it.
+
+221
+00:07:50,360 --> 00:07:51,200
+All right.
+
+222
+00:07:51,200 --> 00:07:53,840
+And now, what are the odds that Hebrew stops being
+
+223
+00:07:53,840 --> 00:07:55,040
+the language spoken in Israel?
+
+224
+00:07:55,040 --> 00:07:56,320
+Seems very low.
+
+225
+00:07:56,320 --> 00:07:57,480
+And the people move there, like,
+
+226
+00:07:57,480 --> 00:07:58,440
+all right, I guess I've got to learn
+
+227
+00:07:58,440 --> 00:08:00,280
+this formerly dead language.
+
+228
+00:08:00,280 --> 00:08:02,920
+Different alphabet, different grammar.
+
+229
+00:08:02,920 --> 00:08:04,080
+All right.
+
+230
+00:08:04,080 --> 00:08:06,800
+And really, if you want to do much else in the world,
+
+231
+00:08:06,800 --> 00:08:08,680
+you've got to learn English anyway.
+
+232
+00:08:08,680 --> 00:08:09,960
+Thanks a lot.
+
+233
+00:08:09,960 --> 00:08:12,440
+But this is what the scientists did to us.
+
+234
+00:08:12,440 --> 00:08:13,840
+And we're like, yeah, we're here.
+
+235
+00:08:13,840 --> 00:08:15,000
+All right, so.
+
+236
+00:08:15,000 --> 00:08:17,760
+You're gonna make us think, scientists.
+
+237
+00:08:17,760 --> 00:08:20,280
+So that's an example where,
+
+238
+00:08:20,280 --> 00:08:21,120
+well, you can't,
+
+239
+00:08:21,120 --> 00:08:23,920
+you're like, at the point that Israel's starting,
+
+240
+00:08:23,920 --> 00:08:24,760
+you're saying, all right,
+
+241
+00:08:24,760 --> 00:08:25,880
+there could be a bunch of different languages.
+
+242
+00:08:25,880 --> 00:08:28,160
+I can see several different national equilibrium
+
+243
+00:08:28,160 --> 00:08:29,320
+emerging here.
+
+244
+00:08:29,320 --> 00:08:31,040
+It's like, that's the one that emerged?
+
+245
+00:08:31,040 --> 00:08:32,200
+But then once it emerges, you're like,
+
+246
+00:08:32,200 --> 00:08:34,720
+well, I guess it's just gonna stick around.
+
+247
+00:08:34,720 --> 00:08:37,480
+All right, so that would be another example.
+
+248
+00:08:37,480 --> 00:08:38,520
+Where, you know, so,
+
+249
+00:08:38,520 --> 00:08:39,360
+whereas like right now,
+
+250
+00:08:39,360 --> 00:08:41,160
+there's not any active conversation in the US,
+
+251
+00:08:41,160 --> 00:08:42,880
+like, what's our language going to be?
+
+252
+00:08:42,880 --> 00:08:44,960
+So it's just gonna be English and whatever,
+
+253
+00:08:44,960 --> 00:08:46,200
+whatever fears people have,
+
+254
+00:08:46,200 --> 00:08:48,360
+it's not gonna be something else.
+
+255
+00:08:48,360 --> 00:08:49,200
+Like so.
+
+256
+00:08:50,520 --> 00:08:51,360
+All right.
+
+257
+00:08:51,360 --> 00:08:55,160
+So that's the basics of Nash Equilibrium.
+
+258
+00:08:55,160 --> 00:08:56,880
+Right, you know, so I got one other example
+
+259
+00:08:56,880 --> 00:08:57,720
+of Nash Equilibrium.
+
+260
+00:08:57,720 --> 00:09:00,320
+So when I was in fourth grade,
+
+261
+00:09:00,320 --> 00:09:03,080
+there was a weird present exchange system,
+
+262
+00:09:03,080 --> 00:09:03,920
+where first of all,
+
+263
+00:09:03,920 --> 00:09:06,360
+every kid had to go and bring in a present,
+
+264
+00:09:06,360 --> 00:09:08,880
+and then the first kid went and randomly picked a present,
+
+265
+00:09:08,880 --> 00:09:11,160
+and the second kid goes and he randomly picks a present,
+
+266
+00:09:11,160 --> 00:09:12,760
+and then he decides if he wants to get the present
+
+267
+00:09:12,760 --> 00:09:13,720
+he randomly picked,
+
+268
+00:09:13,720 --> 00:09:17,200
+or does he want to do a forced exchange with the first kid?
+
+269
+00:09:17,200 --> 00:09:18,040
+Right?
+
+270
+00:09:18,040 --> 00:09:20,000
+And then, you know,
+
+271
+00:09:20,000 --> 00:09:22,680
+and then there's a rule that forbids the looping,
+
+272
+00:09:22,680 --> 00:09:25,160
+so you aren't allowed to just cycle through.
+
+273
+00:09:25,160 --> 00:09:28,400
+And, but anyway, so like as it proceeds,
+
+274
+00:09:28,400 --> 00:09:30,080
+there's one present open that every kid wanted,
+
+275
+00:09:30,080 --> 00:09:32,160
+which is magic sand.
+
+276
+00:09:32,160 --> 00:09:33,360
+All right, this is a really fun toy,
+
+277
+00:09:33,360 --> 00:09:35,360
+and I actually managed to somehow win this.
+
+278
+00:09:35,360 --> 00:09:36,680
+But it's a magic sand,
+
+279
+00:09:36,680 --> 00:09:39,080
+it's sand, you pour it into water, it holds its shape,
+
+280
+00:09:39,080 --> 00:09:40,120
+and then if you drain it out,
+
+281
+00:09:40,120 --> 00:09:42,320
+then it dries out, and then you can do it again.
+
+282
+00:09:42,320 --> 00:09:45,160
+But anyway, this was the most popular present.
+
+283
+00:09:45,160 --> 00:09:47,240
+So any time that a kid got another present,
+
+284
+00:09:47,240 --> 00:09:49,240
+they would go and try to swap it out for the magic sand,
+
+285
+00:09:49,240 --> 00:09:51,320
+and then whoever got the magic sand taken away from them
+
+286
+00:09:51,320 --> 00:09:54,040
+would go and get another present, and so on.
+
+287
+00:09:54,040 --> 00:09:56,280
+Right, and again, here's one where,
+
+288
+00:09:56,280 --> 00:09:58,280
+at least it looked like there might not be any equilibrium,
+
+289
+00:09:58,280 --> 00:09:59,600
+because people would just keep trying
+
+290
+00:09:59,600 --> 00:10:02,520
+to go and get the preferred present by doing the swaps,
+
+291
+00:10:02,520 --> 00:10:04,480
+and people would try to cycle through.
+
+292
+00:10:04,480 --> 00:10:07,840
+I think the cycling was only prevented in one round,
+
+293
+00:10:07,840 --> 00:10:11,120
+so it was possible to just cycle through.
+
+294
+00:10:11,120 --> 00:10:13,280
+So in the end, I think that it didn't happen.
+
+295
+00:10:13,280 --> 00:10:14,440
+Maybe the teacher tried to say,
+
+296
+00:10:14,440 --> 00:10:16,240
+no, no, you can't go and take the magic sand,
+
+297
+00:10:16,240 --> 00:10:18,400
+because you already had the magic sand once.
+
+298
+00:10:19,520 --> 00:10:22,680
+All right, so now let's go and take a look
+
+299
+00:10:22,680 --> 00:10:25,400
+at a few different examples.
+
+300
+00:10:25,400 --> 00:10:27,120
+All right, so let's see.
+
+301
+00:10:27,120 --> 00:10:28,800
+So let's start with this one here,
+
+302
+00:10:28,800 --> 00:10:30,240
+where player one can do up or down,
+
+303
+00:10:30,240 --> 00:10:32,400
+player two can do left or right.
+
+304
+00:10:32,400 --> 00:10:35,680
+All right, and I will actually write this down.
+
+305
+00:10:35,680 --> 00:10:38,160
+So we've got up or down,
+
+306
+00:10:39,680 --> 00:10:41,400
+we've got left or right,
+
+307
+00:10:41,400 --> 00:10:43,400
+and then we've got,
+
+308
+00:10:43,400 --> 00:10:45,720
+say, pay us out to 15, 10,
+
+309
+00:10:45,720 --> 00:10:49,680
+15, 10, seven, and six, eight.
+
+310
+00:10:49,680 --> 00:10:51,040
+And how do we check for Nash equilibrium?
+
+311
+00:10:51,040 --> 00:10:53,160
+We gotta go to every single equilibrium
+
+312
+00:10:53,160 --> 00:10:56,160
+and see whether either player wants to switch
+
+313
+00:10:56,160 --> 00:10:58,560
+or it costs what the other player's doing.
+
+314
+00:10:58,560 --> 00:11:00,320
+All right, so we take a look here.
+
+315
+00:11:00,320 --> 00:11:02,400
+All right, so if we're here,
+
+316
+00:11:02,400 --> 00:11:03,840
+does player one wanna switch?
+
+317
+00:11:04,800 --> 00:11:07,080
+No, it's holding constant what player two is doing.
+
+318
+00:11:07,080 --> 00:11:08,680
+He would go and get 10 instead of 15,
+
+319
+00:11:08,680 --> 00:11:10,240
+so he doesn't wanna switch.
+
+320
+00:11:10,240 --> 00:11:11,480
+But how about player two?
+
+321
+00:11:11,480 --> 00:11:12,520
+If player two were to switch
+
+322
+00:11:12,520 --> 00:11:13,880
+holding constant what player one is doing,
+
+323
+00:11:13,880 --> 00:11:15,840
+he would get 15 instead of 10, right?
+
+324
+00:11:15,840 --> 00:11:17,200
+So that's not an,
+
+325
+00:11:17,200 --> 00:11:20,360
+this cannot be a pure strategy Nash equilibrium,
+
+326
+00:11:20,360 --> 00:11:23,040
+because one of the two players wants to switch.
+
+327
+00:11:23,040 --> 00:11:24,640
+What if both players wanted to switch?
+
+328
+00:11:24,640 --> 00:11:27,840
+Could that then be a pure strategy Nash equilibrium?
+
+329
+00:11:27,840 --> 00:11:31,160
+No, if one or more people wants to switch,
+
+330
+00:11:31,160 --> 00:11:32,600
+then it's not good.
+
+331
+00:11:32,600 --> 00:11:34,560
+All right, now over here.
+
+332
+00:11:34,560 --> 00:11:36,360
+So over here, you can say, let's see.
+
+333
+00:11:36,360 --> 00:11:38,160
+So if we were here,
+
+334
+00:11:38,160 --> 00:11:40,240
+then would player one wanna switch?
+
+335
+00:11:40,240 --> 00:11:41,920
+And let's see, if player one were to switch,
+
+336
+00:11:41,920 --> 00:11:44,160
+then he would get six instead of eight,
+
+337
+00:11:44,160 --> 00:11:45,720
+so he does not wanna switch.
+
+338
+00:11:45,720 --> 00:11:46,720
+If player two were to switch,
+
+339
+00:11:46,720 --> 00:11:48,040
+then he would get 10 instead of 15,
+
+340
+00:11:48,040 --> 00:11:49,920
+so that one looks good.
+
+341
+00:11:49,920 --> 00:11:51,240
+All right, now we go over here.
+
+342
+00:11:51,240 --> 00:11:54,160
+Again, why do we not stop once we find one?
+
+343
+00:11:54,160 --> 00:11:55,000
+It could be multiple.
+
+344
+00:11:55,000 --> 00:11:57,040
+Because there could be multiple, exactly.
+
+345
+00:11:57,040 --> 00:11:59,160
+All right, totally possible.
+
+346
+00:11:59,160 --> 00:12:00,200
+So we go over here,
+
+347
+00:12:00,200 --> 00:12:01,880
+and we say, would player one wanna switch?
+
+348
+00:12:01,880 --> 00:12:03,480
+Definitely, because he'd get 15 instead of 10.
+
+349
+00:12:03,480 --> 00:12:04,520
+That's not good.
+
+350
+00:12:04,520 --> 00:12:05,640
+And we're over here.
+
+351
+00:12:05,640 --> 00:12:06,920
+We say, would player one wanna switch?
+
+352
+00:12:06,920 --> 00:12:08,680
+Definitely, because he'd get eight instead of six.
+
+353
+00:12:08,680 --> 00:12:10,600
+So then we're down to an equal.
+
+354
+00:12:10,600 --> 00:12:12,920
+All right, now, so that's what we solved,
+
+355
+00:12:12,920 --> 00:12:16,200
+what we solved for the pure strategy Nash equilibrium.
+
+356
+00:12:16,200 --> 00:12:18,440
+Now, how does this differ from strict dominance?
+
+357
+00:12:18,440 --> 00:12:19,880
+And let's see, I believe the answer
+
+358
+00:12:19,880 --> 00:12:21,280
+to this problem is it doesn't.
+
+359
+00:12:21,280 --> 00:12:23,200
+It's two different ways of getting the same answer,
+
+360
+00:12:23,200 --> 00:12:24,760
+so let me just double check that.
+
+361
+00:12:24,760 --> 00:12:26,280
+So let's see, player one.
+
+362
+00:12:26,280 --> 00:12:27,840
+Yeah, so up is strictly dominant,
+
+363
+00:12:27,840 --> 00:12:30,320
+because 15's better than 10, eight's better than six.
+
+364
+00:12:30,320 --> 00:12:32,680
+So player one would never wanna move down.
+
+365
+00:12:32,680 --> 00:12:35,640
+And then player two, let's see, 15's better than 10,
+
+366
+00:12:35,640 --> 00:12:36,640
+so he'd never wanna do that.
+
+367
+00:12:36,640 --> 00:12:39,960
+So yeah, so this brings us to a key truth,
+
+368
+00:12:39,960 --> 00:12:42,360
+which is that if something is strictly dominant,
+
+369
+00:12:42,360 --> 00:12:45,000
+then it's automatically the Nash equilibrium.
+
+370
+00:12:45,000 --> 00:12:47,600
+All right, now, if you go take a break,
+
+371
+00:12:47,600 --> 00:12:51,240
+and you can hand in homework right here,
+
+372
+00:12:51,240 --> 00:12:56,240
+and then we will return in 10 minutes.
+
+373
+00:12:59,880 --> 00:13:01,160
+Can you get the door, please?
+
+374
+00:13:01,160 --> 00:13:03,040
+Sorry, hello?
+
+375
+00:13:03,040 --> 00:13:04,040
+Door, door, please.
+
+376
+00:13:11,320 --> 00:13:14,840
+All right, so we just went through one normal form
+
+377
+00:13:14,840 --> 00:13:19,840
+and found, no, we just went through one normal form
+
+378
+00:13:19,840 --> 00:13:22,960
+and found the pure strategy Nash equilibrium,
+
+379
+00:13:22,960 --> 00:13:24,200
+and now we'll try another one.
+
+380
+00:13:24,200 --> 00:13:26,480
+Now, here we've got the same possible strategies.
+
+381
+00:13:26,480 --> 00:13:28,240
+Here we got up, down, left, right,
+
+382
+00:13:28,240 --> 00:13:30,160
+and now the payoffs are different, right?
+
+383
+00:13:30,160 --> 00:13:32,120
+So if you take a look at this one,
+
+384
+00:13:32,120 --> 00:13:34,520
+here we can go and take a look,
+
+385
+00:13:34,520 --> 00:13:38,960
+and so could up, left be an equilibrium?
+
+386
+00:13:38,960 --> 00:13:41,120
+Then you will see no, that it's not possible,
+
+387
+00:13:41,120 --> 00:13:43,240
+because player one would wanna switch to down,
+
+388
+00:13:43,240 --> 00:13:44,600
+and player two would wanna switch to up,
+
+389
+00:13:44,600 --> 00:13:47,800
+so it's not gonna be 10, no, it won't be 10, 10.
+
+390
+00:13:47,800 --> 00:13:51,960
+Could, it's not gonna be up, left, could it be up, right?
+
+391
+00:13:51,960 --> 00:13:53,160
+And you take a look at that, and you say,
+
+392
+00:13:53,160 --> 00:13:54,240
+well, yeah, that's possible,
+
+393
+00:13:54,240 --> 00:13:56,400
+because if player one switched,
+
+394
+00:13:56,400 --> 00:13:57,840
+he would get negative five instead of zero,
+
+395
+00:13:57,840 --> 00:13:59,160
+so that's worse for him,
+
+396
+00:13:59,160 --> 00:14:02,040
+and if player two were to switch, let's see,
+
+397
+00:14:02,040 --> 00:14:03,360
+then if player two were to switch,
+
+398
+00:14:03,360 --> 00:14:04,720
+then he would get 10 instead of 15,
+
+399
+00:14:04,720 --> 00:14:08,600
+so that's worse for him, so that's gonna be zero, 15,
+
+400
+00:14:08,600 --> 00:14:09,520
+and now we're done, right,
+
+401
+00:14:09,520 --> 00:14:11,440
+because we found the Nash equilibrium.
+
+402
+00:14:12,320 --> 00:14:15,000
+Wrong, right, we have found one.
+
+403
+00:14:15,000 --> 00:14:16,560
+There could be more, right?
+
+404
+00:14:16,560 --> 00:14:20,120
+So then we move on to, to down, left,
+
+405
+00:14:20,120 --> 00:14:21,920
+and there we see that we got 15, zero,
+
+406
+00:14:21,920 --> 00:14:23,880
+and that turns out to be another one,
+
+407
+00:14:23,880 --> 00:14:26,120
+and then finally, if we take a look at down, right,
+
+408
+00:14:26,120 --> 00:14:27,320
+that's negative five, negative five,
+
+409
+00:14:27,320 --> 00:14:28,720
+so that one's never gonna happen.
+
+410
+00:14:28,720 --> 00:14:31,920
+So it turns out we've got two Nash equilibria there,
+
+411
+00:14:32,840 --> 00:14:33,840
+two Nash equilibria.
+
+412
+00:14:35,120 --> 00:14:36,280
+All right, oh yeah, I'm sorry,
+
+413
+00:14:36,280 --> 00:14:38,280
+I forgot you had a question right at the end of break.
+
+414
+00:14:38,280 --> 00:14:39,560
+Oh, it's not a problem.
+
+415
+00:14:39,560 --> 00:14:42,760
+I'm just curious why I finished two games
+
+416
+00:14:42,760 --> 00:14:44,600
+with the pale blue theory.
+
+417
+00:14:44,600 --> 00:14:48,080
+Oh, well, that's partly a joke,
+
+418
+00:14:48,080 --> 00:14:50,960
+but if you've ever known someone who did two PhDs,
+
+419
+00:14:50,960 --> 00:14:52,680
+I've almost never known them to say
+
+420
+00:14:52,680 --> 00:14:54,080
+it was the best decision I ever made.
+
+421
+00:14:54,080 --> 00:14:57,600
+It's more like, ugh, why did I do the real PhD
+
+422
+00:14:57,600 --> 00:14:58,440
+the first time?
+
+423
+00:14:58,440 --> 00:14:59,760
+Why did I have to do the second one?
+
+424
+00:14:59,760 --> 00:15:01,640
+So yeah, this is what I said.
+
+425
+00:15:03,240 --> 00:15:06,480
+Yeah, so there are a few careers
+
+426
+00:15:06,480 --> 00:15:09,480
+where you might wanna have a law degree and a PhD,
+
+427
+00:15:09,480 --> 00:15:11,880
+but very few where you wanna have two PhDs.
+
+428
+00:15:11,880 --> 00:15:12,960
+It's just so much work,
+
+429
+00:15:12,960 --> 00:15:15,480
+and the marginal payoff is quite low.
+
+430
+00:15:15,480 --> 00:15:17,320
+But the other thing is remember that
+
+431
+00:15:17,320 --> 00:15:20,960
+if you can regress or something using your PhD,
+
+432
+00:15:20,960 --> 00:15:23,840
+you could also become an expert in a second thing
+
+433
+00:15:23,840 --> 00:15:26,000
+without having to actually get credentialed.
+
+434
+00:15:27,520 --> 00:15:28,600
+In terms of your job,
+
+435
+00:15:28,600 --> 00:15:30,600
+it's not like there's a special department
+
+436
+00:15:30,600 --> 00:15:31,920
+of economics and politics,
+
+437
+00:15:31,920 --> 00:15:34,040
+so you're either being one or the other.
+
+438
+00:15:34,040 --> 00:15:37,720
+So there's just very, very little benefit to you
+
+439
+00:15:37,720 --> 00:15:38,960
+in terms of your career.
+
+440
+00:15:38,960 --> 00:15:40,440
+And in terms of your enlightenment,
+
+441
+00:15:40,440 --> 00:15:41,560
+you don't have to actually,
+
+442
+00:15:41,560 --> 00:15:43,640
+you don't really need the credentials.
+
+443
+00:15:43,640 --> 00:15:44,720
+I was gonna say, I know a guy
+
+444
+00:15:44,720 --> 00:15:46,880
+who got to the end of a PhD program,
+
+445
+00:15:46,880 --> 00:15:47,720
+never finished it,
+
+446
+00:15:47,720 --> 00:15:49,160
+and then went to another PhD program
+
+447
+00:15:49,160 --> 00:15:50,000
+for a different subject,
+
+448
+00:15:50,000 --> 00:15:50,840
+got to the end of that,
+
+449
+00:15:50,840 --> 00:15:51,680
+and never finished it.
+
+450
+00:15:51,680 --> 00:15:53,400
+Yep, and his baby.
+
+451
+00:15:53,400 --> 00:15:54,800
+Well, so in my education book,
+
+452
+00:15:54,800 --> 00:15:56,080
+I talk about the Sheepskin Effect
+
+453
+00:15:56,080 --> 00:15:58,560
+and how most of the payoff for education
+
+454
+00:15:58,560 --> 00:16:00,400
+comes from crossing finish lines,
+
+455
+00:16:00,400 --> 00:16:02,600
+and I'm guessing that he didn't get too much out
+
+456
+00:16:02,600 --> 00:16:04,840
+of either PhD.
+
+457
+00:16:04,840 --> 00:16:06,240
+How did it work out for him?
+
+458
+00:16:07,200 --> 00:16:10,080
+He's being nominated for the President of the World Bank.
+
+459
+00:16:10,080 --> 00:16:14,040
+Oh, so can you do it?
+
+460
+00:16:14,040 --> 00:16:16,720
+All right, that sounds like it.
+
+461
+00:16:16,720 --> 00:16:18,560
+So what degree did he have
+
+462
+00:16:18,560 --> 00:16:19,880
+that he was able to,
+
+463
+00:16:19,880 --> 00:16:20,720
+was it a bachelor's degree?
+
+464
+00:16:20,720 --> 00:16:21,760
+He had a master's.
+
+465
+00:16:21,760 --> 00:16:22,600
+Oh, he had a master's.
+
+466
+00:16:22,600 --> 00:16:23,440
+So he really would have become President
+
+467
+00:16:23,440 --> 00:16:25,320
+of the World Bank with a master's.
+
+468
+00:16:25,320 --> 00:16:27,280
+Yes, and none of it was in economics.
+
+469
+00:16:28,920 --> 00:16:31,600
+I mean, that's the whole point of averages.
+
+470
+00:16:31,600 --> 00:16:34,240
+Sometimes people do way above average.
+
+471
+00:16:34,240 --> 00:16:35,960
+Did you have a question back there?
+
+472
+00:16:35,960 --> 00:16:37,200
+No, no, no, no.
+
+473
+00:16:37,200 --> 00:16:38,640
+Oh yeah, yeah, oh, sorry, yeah,
+
+474
+00:16:38,640 --> 00:16:39,480
+so you first?
+
+475
+00:16:39,480 --> 00:16:41,760
+Yeah, just about the game we just went over
+
+476
+00:16:41,760 --> 00:16:44,640
+is are both of those outcomes,
+
+477
+00:16:44,640 --> 00:16:47,920
+15-0 and 0-15, pure strategy analysis?
+
+478
+00:16:47,920 --> 00:16:50,200
+Oh yes, yes, yes, so that's all that we're looking,
+
+479
+00:16:50,200 --> 00:16:51,040
+and actually, if you're wondering
+
+480
+00:16:51,040 --> 00:16:52,920
+what is this pure strategy thing,
+
+481
+00:16:52,920 --> 00:16:54,200
+it's easier to explain when we see
+
+482
+00:16:54,200 --> 00:16:55,360
+what is not pure strategy,
+
+483
+00:16:55,360 --> 00:16:56,960
+which is coming right up.
+
+484
+00:16:58,320 --> 00:17:00,080
+Let's see, oh yes.
+
+485
+00:17:00,080 --> 00:17:03,440
+So when there's more than one pure strategy analysis
+
+486
+00:17:03,440 --> 00:17:04,760
+in a bachelor's program,
+
+487
+00:17:04,760 --> 00:17:06,840
+that implies, or let me rephrase it,
+
+488
+00:17:06,840 --> 00:17:08,080
+if there's only one,
+
+489
+00:17:08,080 --> 00:17:09,680
+that implies that the word doesn't matter,
+
+490
+00:17:09,680 --> 00:17:11,560
+like whoever goes first in the game doesn't matter,
+
+491
+00:17:11,560 --> 00:17:14,440
+you're always gonna come up with the same strategy.
+
+492
+00:17:14,440 --> 00:17:15,560
+So like it's here, like,
+
+493
+00:17:15,560 --> 00:17:17,400
+Well, hold on, so actually we're gonna see
+
+494
+00:17:17,400 --> 00:17:19,040
+that there could be equilibria
+
+495
+00:17:19,040 --> 00:17:20,040
+that are not pure strategy,
+
+496
+00:17:20,040 --> 00:17:21,640
+so that's not necessarily true.
+
+497
+00:17:23,080 --> 00:17:24,800
+Because with this 15-0 and 0-15,
+
+498
+00:17:24,800 --> 00:17:28,360
+the only, like, who goes first
+
+499
+00:17:28,360 --> 00:17:30,760
+is gonna determine which one of them you get, right?
+
+500
+00:17:30,760 --> 00:17:33,240
+So you can take one person going first is given,
+
+501
+00:17:33,240 --> 00:17:34,960
+and there's only one. Sure, sure, right.
+
+502
+00:17:34,960 --> 00:17:36,040
+But there's also, for example,
+
+503
+00:17:36,040 --> 00:17:37,080
+it could be simultaneous,
+
+504
+00:17:37,080 --> 00:17:39,000
+and then you're like, well then what's gonna happen?
+
+505
+00:17:39,000 --> 00:17:39,840
+And as we're gonna see,
+
+506
+00:17:39,840 --> 00:17:42,360
+a lot of it depends upon expectations.
+
+507
+00:17:42,360 --> 00:17:44,960
+So people think that 0-15 is gonna happen,
+
+508
+00:17:44,960 --> 00:17:46,320
+then that's probably gonna happen.
+
+509
+00:17:46,320 --> 00:17:47,560
+People think 15-0 is gonna happen,
+
+510
+00:17:47,560 --> 00:17:48,400
+that's probably gonna happen,
+
+511
+00:17:48,400 --> 00:17:49,680
+just like if everybody thinks
+
+512
+00:17:49,680 --> 00:17:51,560
+people are gonna be speaking Hebrew, right,
+
+513
+00:17:51,560 --> 00:17:52,840
+then you'll learn Hebrew,
+
+514
+00:17:52,840 --> 00:17:54,000
+but if you thought it was gonna be English,
+
+515
+00:17:54,000 --> 00:17:55,280
+you'd be learning English.
+
+516
+00:17:56,600 --> 00:17:58,920
+All right, now here's a third example.
+
+517
+00:17:58,920 --> 00:17:59,760
+Oh yeah, so let's see,
+
+518
+00:17:59,760 --> 00:18:02,280
+oh, there's one other thing on the two PhDs.
+
+519
+00:18:03,360 --> 00:18:04,800
+Oh yeah, I think I was actually thinking
+
+520
+00:18:04,800 --> 00:18:05,640
+of a class by Dana Prince
+
+521
+00:18:05,640 --> 00:18:08,200
+who actually had been a math professor.
+
+522
+00:18:08,200 --> 00:18:09,400
+He not only got a PhD in math,
+
+523
+00:18:09,400 --> 00:18:10,720
+he was a math professor,
+
+524
+00:18:10,720 --> 00:18:12,200
+but that was so competitive
+
+525
+00:18:12,200 --> 00:18:14,080
+that he just gave up and went to econ grad school
+
+526
+00:18:14,080 --> 00:18:15,720
+and became an econ professor.
+
+527
+00:18:15,720 --> 00:18:16,880
+I never heard of what happened to him,
+
+528
+00:18:16,880 --> 00:18:18,200
+but I mean, it can't be worse
+
+529
+00:18:18,200 --> 00:18:19,320
+than what's happening to him in math,
+
+530
+00:18:19,320 --> 00:18:20,160
+because math, he's like,
+
+531
+00:18:20,160 --> 00:18:21,840
+he could only be like a junior college teacher,
+
+532
+00:18:21,840 --> 00:18:23,280
+and it's terrible for him.
+
+533
+00:18:23,280 --> 00:18:25,000
+So I'm like, why is that?
+
+534
+00:18:25,000 --> 00:18:27,000
+Because math is an incredibly competitive field,
+
+535
+00:18:27,000 --> 00:18:28,440
+because there's way too many smart people
+
+536
+00:18:28,440 --> 00:18:31,240
+who think it's the only thing in the universe worth doing,
+
+537
+00:18:31,240 --> 00:18:34,800
+and way too many who are almost totally unresponsive
+
+538
+00:18:34,800 --> 00:18:36,600
+to incentives, who do anything,
+
+539
+00:18:36,600 --> 00:18:37,720
+like work for minimum wage
+
+540
+00:18:37,720 --> 00:18:39,920
+as long as they can be math professors.
+
+541
+00:18:39,920 --> 00:18:41,960
+So I kind of had him in mind.
+
+542
+00:18:41,960 --> 00:18:43,120
+Was there one other question there?
+
+543
+00:18:43,120 --> 00:18:46,200
+Yeah, so if third one picks down,
+
+544
+00:18:46,200 --> 00:18:47,920
+third one picks right,
+
+545
+00:18:47,920 --> 00:18:50,360
+when will it end up in negative five?
+
+546
+00:18:50,360 --> 00:18:51,480
+Let's see.
+
+547
+00:18:51,480 --> 00:18:53,640
+Yeah, well, yeah, so the whole point is just
+
+548
+00:18:53,640 --> 00:18:55,800
+that that is not a Nash equilibrium.
+
+549
+00:18:55,800 --> 00:18:56,640
+But that'll be worse, I mean,
+
+550
+00:18:56,640 --> 00:18:58,000
+that'll be worse off, though.
+
+551
+00:18:58,000 --> 00:18:59,880
+Yeah, yeah, so, yeah, so,
+
+552
+00:18:59,880 --> 00:19:02,680
+which is a further bad thing you can say about it.
+
+553
+00:19:02,680 --> 00:19:06,840
+But yeah, so, but, so,
+
+554
+00:19:06,840 --> 00:19:08,560
+like, it wouldn't be only,
+
+555
+00:19:08,560 --> 00:19:09,960
+they'll be worse off,
+
+556
+00:19:09,960 --> 00:19:11,800
+but also it's not a Nash equilibrium.
+
+557
+00:19:16,360 --> 00:19:18,200
+All right, now here's the third one.
+
+558
+00:19:18,200 --> 00:19:19,120
+This is, once again,
+
+559
+00:19:19,120 --> 00:19:21,800
+exactly those payoffs from the French connection game.
+
+560
+00:19:21,800 --> 00:19:22,640
+And if you take a look at this,
+
+561
+00:19:22,640 --> 00:19:24,560
+you'll notice that there is no actual
+
+562
+00:19:24,560 --> 00:19:26,360
+pure strategy Nash equilibrium.
+
+563
+00:19:26,360 --> 00:19:28,360
+Because if we're an on-on,
+
+564
+00:19:28,360 --> 00:19:31,720
+then who wants, then the criminal wants to switch.
+
+565
+00:19:31,720 --> 00:19:35,240
+If we're an on-off, then Popeye wants to switch.
+
+566
+00:19:35,240 --> 00:19:38,640
+If we're off-on, then it's going to be,
+
+567
+00:19:38,640 --> 00:19:40,120
+you know, Popeye wants to switch.
+
+568
+00:19:40,120 --> 00:19:43,160
+And if we're off-off, then the criminal wants to switch.
+
+569
+00:19:43,160 --> 00:19:45,240
+So that is a case just like the one
+
+570
+00:19:45,240 --> 00:19:47,080
+where there's the, you know,
+
+571
+00:19:47,080 --> 00:19:48,600
+there's the malodorous student,
+
+572
+00:19:48,600 --> 00:19:50,200
+the malodorous but social student
+
+573
+00:19:50,200 --> 00:19:52,480
+who chases people around the room, who flee.
+
+574
+00:19:52,480 --> 00:19:55,320
+And so that is, you know,
+
+575
+00:19:55,320 --> 00:19:57,280
+so that example where there is no,
+
+576
+00:19:57,280 --> 00:19:58,800
+where there is actually no pure strategy
+
+577
+00:19:58,800 --> 00:20:01,800
+Nash equilibrium at all.
+
+

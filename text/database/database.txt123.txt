@@ -1,0 +1,12 @@
+5.  True, False, and Explain:   Bertrand competition between identical firms 
+with fixed costs yields a second -best efficient outcome.  
+ 
+TRUE.  The first -best outcome  is when one firm produces at MC, avoiding any allocative 
+inefficiency from P>MC (the Harberger triangle).  But in Bertrand competition with fixed costs, 
+competition leads one  firm to drop out, and the other to set P=AC – a standard second -best result.  
+At lower prices, firms would lose money and exit.  Bertrand competition will NOT lead to wasteful 
+duplication of fixed costs; if it did, either firm could profit by slightly cutting its price and stealing all 
+its competitors’ customers.  
+ 
+ 
+ 

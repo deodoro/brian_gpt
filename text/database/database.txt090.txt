@@ -1,0 +1,12 @@
+9.  Suppose that two fir ms compete in a market with linear demand and zero 
+costs.  
+ 
+True, False, and Explain:   Collusion is easier to sustain in the Cournot model 
+than it is in the Bertrand model.  
+ 
+FALSE.  From the notes, Bertrand collusion is feasible as long as β≥.5, but Cournot  collusion is 
+feasible as long as β≥.53.  This means that greater patience is necessary to sustain Cournot 
+collusion.  
+
+
+ 

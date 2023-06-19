@@ -1,0 +1,1117 @@
+1
+00:00:00,000 --> 00:00:06,000
+In some sense, I feel like I have a greater breadth of knowledge than any other economist on this,
+
+2
+00:00:06,000 --> 00:00:12,000
+because normally when you're trying to publish a paper, you go and do one tweak and then you recalculate the present discounted value.
+
+3
+00:00:12,000 --> 00:00:16,000
+Whereas I tried to take all the tweaks and put them together at the same time.
+
+4
+00:00:16,000 --> 00:00:18,000
+Because I was trying to give people useful advice.
+
+5
+00:00:18,000 --> 00:00:25,000
+If you want to give useful advice, you take all the complications that matter and put it all together and then give the people an answer.
+
+6
+00:00:25,000 --> 00:00:28,000
+Whereas if you just want to publish a paper, what's the point of that?
+
+7
+00:00:28,000 --> 00:00:32,000
+If you just want to publish a paper, you just do one very technically sophisticated tweak,
+
+8
+00:00:32,000 --> 00:00:35,000
+and then you write another paper and just start from scratch and do a different tweak.
+
+9
+00:00:35,000 --> 00:00:46,000
+So anyway, I tried to go and take all the research and make it relevant for both personal educational decisions as well as for public policy.
+
+10
+00:00:46,000 --> 00:00:49,000
+Which almost no economist does.
+
+11
+00:00:49,000 --> 00:00:55,000
+Sometimes people think tanks will go and do present discounted value of the sort,
+
+12
+00:00:55,000 --> 00:01:00,000
+but normally they do a really crummy job where they'll do like three complications and then they're done.
+
+13
+00:01:00,000 --> 00:01:09,000
+Why would you do a policy analysis with three complications and then declare victory when there's a thousand research papers on the topic?
+
+14
+00:01:09,000 --> 00:01:13,000
+Well, what happens to a policy analysis with a thousand complications in it?
+
+15
+00:01:13,000 --> 00:01:15,000
+No one wants to read that thing.
+
+16
+00:01:15,000 --> 00:01:21,000
+And then, you know, part A, three, sub-circuit through alpha, delta, alright?
+
+17
+00:01:21,000 --> 00:01:25,000
+That's pretty boring to most people. So people would rather get simple advice,
+
+18
+00:01:25,000 --> 00:01:29,000
+which is actually not really taking into account a bunch of important factors.
+
+19
+00:01:29,000 --> 00:01:35,000
+So I do try to go and narrow down the factors that really change the result a lot versus the ones that don't change very much.
+
+20
+00:01:35,000 --> 00:01:46,000
+But I will say that my judgment is all the main think tank pieces published on the private and social returns to education ignore multiple huge problems.
+
+21
+00:01:46,000 --> 00:01:51,000
+And the biggest one of all is just completion probability.
+
+22
+00:01:51,000 --> 00:01:57,000
+Almost all policy analysis just figure out how much education pays by looking at the people who graduated.
+
+23
+00:01:57,000 --> 00:02:02,000
+Which is a lot like figuring out whether loans are good by looking at loans that are repaid.
+
+24
+00:02:02,000 --> 00:02:09,000
+No. If you're figuring out whether a loan is profitable, you must consider the loans that don't get repaid.
+
+25
+00:02:09,000 --> 00:02:15,000
+In fact, that is probably the single most important predictor of profitability of lending money is figuring,
+
+26
+00:02:15,000 --> 00:02:18,000
+is the share of bad loans.
+
+27
+00:02:18,000 --> 00:02:25,000
+So remember, if you've got loans of 5% interest, but 5% of the loans are not repaid at all,
+
+28
+00:02:25,000 --> 00:02:28,000
+then approximately you're making nothing on those loans on average.
+
+29
+00:02:28,000 --> 00:02:33,000
+And then, say, well, is non-completion of school really a big deal?
+
+30
+00:02:33,000 --> 00:02:38,000
+Let's see, well, for high school it's about 80% completion rate.
+
+31
+00:02:38,000 --> 00:02:40,000
+That's not bad, is it?
+
+32
+00:02:40,000 --> 00:02:43,000
+Well, if loans had an 80% repayment rate, you'd consider that pretty bad, right?
+
+33
+00:02:43,000 --> 00:02:47,000
+That would be sub-junk. It would be terrible.
+
+34
+00:02:47,000 --> 00:02:53,000
+And then for college, the completion rate is way lower than that.
+
+35
+00:02:53,000 --> 00:03:03,000
+So the four-year completion rate for full-time students, like doing bachelor's degrees, is about 35%.
+
+36
+00:03:03,000 --> 00:03:07,000
+So five-year completion rate for a four-year program goes up to 55%.
+
+37
+00:03:07,000 --> 00:03:13,000
+But think about this, well, suppose that in reality you spend five years doing a four-year program,
+
+38
+00:03:13,000 --> 00:03:18,000
+what does that, to a rough approximation, do to your rate of return?
+
+39
+00:03:18,000 --> 00:03:21,000
+If you actually have to pay five years of investment to get a four-year pay-off?
+
+40
+00:03:21,000 --> 00:03:22,000
+It decreases it.
+
+41
+00:03:22,000 --> 00:03:24,000
+Yes. How much does it decrease it by?
+
+42
+00:03:24,000 --> 00:03:25,000
+An additional year.
+
+43
+00:03:25,000 --> 00:03:31,000
+Yeah, so you're dividing by five instead of four when you're looking at the costs.
+
+44
+00:03:31,000 --> 00:03:36,000
+So yeah, so dividing by five rather than four, what does that do?
+
+45
+00:03:36,000 --> 00:03:37,000
+Well, let's see.
+
+46
+00:03:37,000 --> 00:03:43,000
+Well, I believe that reduces the rate of return by 20%, not 20 percentage points, but 20%.
+
+47
+00:03:43,000 --> 00:03:44,000
+All right.
+
+48
+00:03:44,000 --> 00:03:47,000
+So anyway, enormous literature.
+
+49
+00:03:47,000 --> 00:03:50,000
+The underlying motivation of this literature.
+
+50
+00:03:50,000 --> 00:03:56,000
+Many economists think that there are big credit market imperfections in the educational loan markets.
+
+51
+00:03:56,000 --> 00:04:05,000
+So that's what's driving all of these estimates.
+
+52
+00:04:05,000 --> 00:04:10,000
+So no economist bothers going and calculating the present-day standard value of investments in the steel industry.
+
+53
+00:04:10,000 --> 00:04:12,000
+That's for the people in steel to do.
+
+54
+00:04:12,000 --> 00:04:17,000
+And the background assumption is economists saying, look, if there were profitable investments for a steel mill,
+
+55
+00:04:17,000 --> 00:04:21,000
+and the steel mill didn't have the cash to do it, what would the steel mill obviously do?
+
+56
+00:04:21,000 --> 00:04:22,000
+Borrow.
+
+57
+00:04:22,000 --> 00:04:23,000
+Go and borrow.
+
+58
+00:04:23,000 --> 00:04:28,000
+And they would easily be able to get a loan because they've got what is collateral?
+
+59
+00:04:28,000 --> 00:04:29,000
+The mill.
+
+60
+00:04:29,000 --> 00:04:30,000
+All right.
+
+61
+00:04:30,000 --> 00:04:31,000
+So there's no problem there.
+
+62
+00:04:31,000 --> 00:04:36,000
+So for most businesses, economists are very cavalierly just saying the free market will take care of us.
+
+63
+00:04:36,000 --> 00:04:37,000
+Right.
+
+64
+00:04:37,000 --> 00:04:42,000
+But for education, economists have a sense of, no, no, no, no, it doesn't work that way in education.
+
+65
+00:04:42,000 --> 00:04:46,000
+Because in education, if someone could very well have a great educational opportunity,
+
+66
+00:04:46,000 --> 00:04:51,000
+but they don't have the money for it, and it would be very hard for them to get a loan in order to do it,
+
+67
+00:04:51,000 --> 00:04:56,000
+because what collateral does a student got?
+
+68
+00:04:56,000 --> 00:04:57,000
+Nothing.
+
+69
+00:04:57,000 --> 00:04:59,000
+You can't do a debt-reserve-to-contracts.
+
+70
+00:04:59,000 --> 00:05:04,000
+So you can go and take a big educational loan and then go and blow it all and then say,
+
+71
+00:05:04,000 --> 00:05:06,000
+dude, I just don't have the money.
+
+72
+00:05:06,000 --> 00:05:09,000
+And then lenders are not going to be very interested in lending you the money.
+
+73
+00:05:09,000 --> 00:05:10,000
+Okay.
+
+74
+00:05:10,000 --> 00:05:11,000
+All right.
+
+75
+00:05:11,000 --> 00:05:14,000
+So now, of course, this is only a suspicion.
+
+76
+00:05:14,000 --> 00:05:20,000
+So normally what education economists are doing is going and calculating the return to education.
+
+77
+00:05:20,000 --> 00:05:27,000
+In other words, seeing what interest rate you would need to make the present discounted value of going
+
+78
+00:05:27,000 --> 00:05:29,000
+and not going equal.
+
+79
+00:05:29,000 --> 00:05:30,000
+Why is that?
+
+80
+00:05:30,000 --> 00:05:39,000
+Well, so suppose that you've got an asset, let's see, you can either go and buy an asset at its present value,
+
+81
+00:05:39,000 --> 00:05:43,000
+and so let's see, let's put the right word in.
+
+82
+00:05:43,000 --> 00:05:49,000
+So suppose that you've got perfect capital markets, and you have an opportunity to buy an asset at its present value.
+
+83
+00:05:49,000 --> 00:05:51,000
+Is that a good deal?
+
+84
+00:05:51,000 --> 00:05:59,000
+Well, if you've got perfect capital markets, then if you go and you pay the present value,
+
+85
+00:05:59,000 --> 00:06:05,000
+and then you go and get the amount that you paid times the interest rate a year later,
+
+86
+00:06:05,000 --> 00:06:07,000
+and what's the net effect?
+
+87
+00:06:07,000 --> 00:06:09,000
+Zero.
+
+88
+00:06:09,000 --> 00:06:16,000
+So if, say, there's a 5% interest rate, and there's 5% interest, and then you go and you buy an asset,
+
+89
+00:06:16,000 --> 00:06:18,000
+and there's a bond for $1,000.
+
+90
+00:06:18,000 --> 00:06:22,000
+So with 5% interest, a bond today will sell for approximately what?
+
+91
+00:06:22,000 --> 00:06:24,000
+$950, right?
+
+92
+00:06:24,000 --> 00:06:26,000
+So it's approximately $950.
+
+93
+00:06:26,000 --> 00:06:28,000
+So $950.
+
+94
+00:06:28,000 --> 00:06:32,000
+And if you just took the $950 and put it in the bank at 5%, what would you have at the end of the year?
+
+95
+00:06:32,000 --> 00:06:34,000
+$1,000.
+
+96
+00:06:34,000 --> 00:06:39,000
+So here we go, and we say, well, we go and we pay $950, and then what do we get in exchange?
+
+97
+00:06:39,000 --> 00:06:45,000
+We get $1,000 divided by 1.05, and that's basically equal to zero.
+
+98
+00:06:45,000 --> 00:06:50,000
+There's a little rounding error there, so you have to do the math a little bit more precisely to get over it.
+
+99
+00:06:50,000 --> 00:06:52,000
+All right, that's the idea.
+
+100
+00:06:52,000 --> 00:06:55,000
+Okay, now how do you calculate return to education?
+
+101
+00:06:55,000 --> 00:06:59,000
+Well, there are some big simplifications which are commonly used.
+
+102
+00:06:59,000 --> 00:07:02,000
+There's nothing wrong with simplifications as long as you remember what you're doing
+
+103
+00:07:02,000 --> 00:07:10,000
+and then correct for them before you give anyone some advice that actually would be a total disaster, unfortunately.
+
+104
+00:07:10,000 --> 00:07:18,000
+It's very common for education economists, when they talk to journalists, to forget conveniently what the key qualifications are
+
+105
+00:07:18,000 --> 00:07:23,000
+and then give a number that actually is not one that you should act upon.
+
+106
+00:07:23,000 --> 00:07:27,000
+In any case, the standard simplifications are as follows.
+
+107
+00:07:27,000 --> 00:07:34,000
+So first of all, we go and we assume that the only cost of education is foregone earnings.
+
+108
+00:07:34,000 --> 00:07:39,000
+So it's very common that economists assume that the only thing you give up in school is full-time earnings
+
+109
+00:07:39,000 --> 00:07:41,000
+that you would have had if you were working.
+
+110
+00:07:41,000 --> 00:07:46,000
+So in other words, it is common to just ignore tuition, set it at zero.
+
+111
+00:07:46,000 --> 00:07:48,000
+Okay, all right.
+
+112
+00:07:48,000 --> 00:07:54,000
+Now then, if we ignore the fact that people eventually die, ignore the fact that people eventually die,
+
+113
+00:07:54,000 --> 00:07:59,000
+actually this one is, in present value terms, is actually a pretty small simplification
+
+114
+00:07:59,000 --> 00:08:06,000
+because if you think about what is the present value of all your income from 40 years in the future to infinity,
+
+115
+00:08:06,000 --> 00:08:10,000
+it's actually a pretty small number because you've got 40 years worth of interest.
+
+116
+00:08:10,000 --> 00:08:15,000
+Divide by the interest rate raised to the 40th power, then divide the next thing by the interest rate raised to the 41st power,
+
+117
+00:08:15,000 --> 00:08:17,000
+and so on, that's a pretty small amount.
+
+118
+00:08:17,000 --> 00:08:25,000
+In any case, if we go and ignore finite lifespan, then we can simply go and do a regression of log earnings on a constant
+
+119
+00:08:25,000 --> 00:08:29,000
+and years of education, and then we can get our return of education.
+
+120
+00:08:29,000 --> 00:08:38,000
+So we can do the log of earnings, which will equal a constant, plus beta times years of education,
+
+121
+00:08:38,000 --> 00:08:42,000
+so that's education in years.
+
+122
+00:08:42,000 --> 00:08:49,000
+And if we assume, counterfactually, that the only cost of education is foregone earnings,
+
+123
+00:08:49,000 --> 00:08:54,000
+then this beta will be your return to education.
+
+124
+00:08:54,000 --> 00:08:57,000
+Why? Well, suppose that beta is.1.
+
+125
+00:08:57,000 --> 00:09:02,000
+This says that if we get a year of education, that will raise our earnings by what percent?
+
+126
+00:09:02,000 --> 00:09:04,000
+Ten percent.
+
+127
+00:09:04,000 --> 00:09:08,000
+And what does this mean? It means that you give up one year of earnings,
+
+128
+00:09:08,000 --> 00:09:12,000
+and then for the rest of your life, you make ten percent more every year.
+
+129
+00:09:12,000 --> 00:09:18,000
+That sounds a lot like a famous British financial instrument, the console.
+
+130
+00:09:18,000 --> 00:09:23,000
+So remember the idea of a console is that it pays a dollar a year forever.
+
+131
+00:09:23,000 --> 00:09:30,000
+So if you go and you pay ten dollars for your console, then you never get the money back.
+
+132
+00:09:30,000 --> 00:09:33,000
+So ten dollars gone, and then you just get a dollar a year forever.
+
+133
+00:09:33,000 --> 00:09:37,000
+That is an interest rate of approximately what?
+
+134
+00:09:37,000 --> 00:09:39,000
+Ten percent.
+
+135
+00:09:39,000 --> 00:09:41,000
+Yes, ten percent. Right.
+
+136
+00:09:41,000 --> 00:09:44,000
+So that is an interest rate of ten percent.
+
+137
+00:09:44,000 --> 00:09:49,000
+So basically you pay ten dollars, and every year you get ten percent of that.
+
+138
+00:09:49,000 --> 00:09:52,000
+Similarly, this is saying you give up one year's worth of education,
+
+139
+00:09:52,000 --> 00:09:57,000
+and then every year after that you are making ten percent extra.
+
+140
+00:09:57,000 --> 00:10:00,000
+So just like a console.
+
+141
+00:10:00,000 --> 00:10:03,000
+And of course, the Aveda were.05.
+
+142
+00:10:03,000 --> 00:10:06,000
+This would be saying that every year of education raises your earnings by five percent.
+
+143
+00:10:06,000 --> 00:10:11,000
+So you have no income for one year, and then after that you earn what you would have earned before,
+
+144
+00:10:11,000 --> 00:10:16,000
+with a bonus of five percent on top, forever.
+
+145
+00:10:16,000 --> 00:10:22,000
+Now, if you go and use the NLSY, the National Longitudinal Study of Youth,
+
+146
+00:10:22,000 --> 00:10:26,000
+in some ways the most amazing data set on labor economics ever,
+
+147
+00:10:26,000 --> 00:10:30,000
+divided whether the General Social Survey or the NLSY is the most amazing.
+
+148
+00:10:30,000 --> 00:10:33,000
+The General Social Survey is more amazing for the diversity of the questions.
+
+149
+00:10:33,000 --> 00:10:39,000
+The NLSY, for the determination of the researchers to hunt down the participants for the rest of their life,
+
+150
+00:10:39,000 --> 00:10:43,000
+as well as their children, and their children's children.
+
+151
+00:10:43,000 --> 00:10:48,000
+It is a multi-generational survey. If you were in it, they try to put your kids in it, and they can be in it too.
+
+152
+00:10:48,000 --> 00:10:57,000
+So if you go and do this regression using the NLSY, you get a value of beta equal to something like.126.
+
+153
+00:10:57,000 --> 00:11:00,000
+Now this is controlled for nothing at all.
+
+154
+00:11:00,000 --> 00:11:03,000
+This is just for a really simple regression.
+
+155
+00:11:03,000 --> 00:11:05,000
+That's what you get.
+
+156
+00:11:05,000 --> 00:11:10,000
+Now this number is surely too high.
+
+157
+00:11:10,000 --> 00:11:15,000
+I'm scrapping up my book, so I think I'm going to revise these notes.
+
+158
+00:11:15,000 --> 00:11:18,000
+I always knew that there were a bunch of problems with these numbers.
+
+159
+00:11:18,000 --> 00:11:21,000
+Now there are problems worse than I had ever thought.
+
+160
+00:11:21,000 --> 00:11:26,000
+So by the end, I'm like, oh my god, there's so much mess just to clean up, just to get started.
+
+161
+00:11:26,000 --> 00:11:28,000
+But anyway, so some of the problems.
+
+162
+00:11:28,000 --> 00:11:30,000
+One of them is, in the real world, do you live forever?
+
+163
+00:11:30,000 --> 00:11:32,000
+I can never remember.
+
+164
+00:11:32,000 --> 00:11:33,000
+Of course not.
+
+165
+00:11:33,000 --> 00:11:35,000
+Man, I wanted to live forever.
+
+166
+00:11:35,000 --> 00:11:38,000
+So you don't live forever, and you work for even less time than forever.
+
+167
+00:11:38,000 --> 00:11:40,000
+So it's the role of retire.
+
+168
+00:11:40,000 --> 00:11:43,000
+So anyway, you don't reap the benefits of increased education forever.
+
+169
+00:11:43,000 --> 00:11:49,000
+Now this is actually a very slight effect, because those lost years are far in the future.
+
+170
+00:11:49,000 --> 00:11:54,000
+So if someone offers to pay you $1.40 a year from now, it's really not worth very much.
+
+171
+00:11:54,000 --> 00:12:00,000
+And of course, if we have these high interest rates, then those years are worth almost nothing.
+
+172
+00:12:00,000 --> 00:12:04,000
+So doing that, there's only an imperceptible drop in rate of return.
+
+173
+00:12:04,000 --> 00:12:08,000
+It brings you down to like 12.56 from 12.6, so it's microscopic.
+
+174
+00:12:08,000 --> 00:12:12,000
+All right, but then we start getting into the really big problems.
+
+175
+00:12:12,000 --> 00:12:13,000
+Here's one.
+
+176
+00:12:13,000 --> 00:12:14,000
+There is tuition.
+
+177
+00:12:14,000 --> 00:12:17,000
+Tuition does exist.
+
+178
+00:12:17,000 --> 00:12:25,000
+Now you might think, yeah, well, that's obvious, especially given that economists are kind of doing this stuff to argue for tuition subsidies.
+
+179
+00:12:25,000 --> 00:12:30,000
+So there's something very strange about assuming that tuition doesn't exist, coming up with a really high number,
+
+180
+00:12:30,000 --> 00:12:33,000
+and then using it to justify a tuition subsidy.
+
+181
+00:12:33,000 --> 00:12:35,000
+But people do it.
+
+182
+00:12:35,000 --> 00:12:36,000
+So very strange.
+
+183
+00:12:36,000 --> 00:12:38,000
+So we need a cost-free service to educate people.
+
+184
+00:12:38,000 --> 00:12:42,000
+And if you count these costs, then it does drastically reduce the rate of return.
+
+185
+00:12:42,000 --> 00:12:48,000
+So like if you've got an annual tuition of $15,000, then that drops the return by about 50%,
+
+186
+00:12:48,000 --> 00:12:51,000
+so from like 12.6 to about 6.5.
+
+187
+00:12:51,000 --> 00:12:55,000
+So that makes an enormous dent in the result.
+
+188
+00:12:55,000 --> 00:12:56,000
+All right, then another problem.
+
+189
+00:12:56,000 --> 00:12:58,000
+So there's also return to experience.
+
+190
+00:12:58,000 --> 00:13:06,000
+So your option is not actually go to school and get an increase in your earnings or work and get no increase in your earnings.
+
+191
+00:13:06,000 --> 00:13:11,000
+Instead, there's a whole literature saying that working amazingly raises your earnings, too.
+
+192
+00:13:11,000 --> 00:13:17,000
+So you want to go and actually make an adjustment for the lost experience that you are giving up when you're in school.
+
+193
+00:13:17,000 --> 00:13:20,000
+So there's that, too.
+
+194
+00:13:20,000 --> 00:13:31,000
+Another problem is that that 12.6% that we're looking at is, like all ordinary least squares regressions, an estimate of an average effect.
+
+195
+00:13:31,000 --> 00:13:36,000
+But should you go and base your life decisions upon averages?
+
+196
+00:13:36,000 --> 00:13:37,000
+No.
+
+197
+00:13:37,000 --> 00:13:38,000
+No?
+
+198
+00:13:38,000 --> 00:13:39,000
+You should base them on marginal things.
+
+199
+00:13:39,000 --> 00:13:40,000
+Marginal.
+
+200
+00:13:40,000 --> 00:13:41,000
+Right?
+
+201
+00:13:41,000 --> 00:13:46,000
+And there is a standard argument about why we should expect that marginal people will benefit less than average people.
+
+202
+00:13:46,000 --> 00:13:54,000
+Like imagine that you are the marginal person who's thinking about going to the next Star Wars movie.
+
+203
+00:13:54,000 --> 00:13:59,000
+Are you likely to enjoy that movie as much as the people who know for sure they have to be there on opening day?
+
+204
+00:13:59,000 --> 00:14:00,000
+No.
+
+205
+00:14:00,000 --> 00:14:01,000
+No.
+
+206
+00:14:01,000 --> 00:14:02,000
+Right?
+
+207
+00:14:02,000 --> 00:14:03,000
+The people are like, eh, it's all right, I guess.
+
+208
+00:14:03,000 --> 00:14:05,000
+Is there anything else that I can be doing that day?
+
+209
+00:14:05,000 --> 00:14:11,000
+Those people are very likely to get less value for the product.
+
+210
+00:14:11,000 --> 00:14:17,000
+Similarly, like the marginal person at a restaurant, the marginal person who goes on a trip, the marginal person who wants to show.
+
+211
+00:14:17,000 --> 00:14:21,000
+All these people are normally getting less value than the average person.
+
+212
+00:14:21,000 --> 00:14:27,000
+So it makes sense also to think that the marginal person that is going to school is going to be getting less value.
+
+213
+00:14:27,000 --> 00:14:35,000
+Now this is particularly clear because, let's see, so, actually I'm going to get to the next one.
+
+214
+00:14:35,000 --> 00:14:36,000
+So anyway, so that's one.
+
+215
+00:14:36,000 --> 00:14:38,000
+So you can think about this.
+
+216
+00:14:38,000 --> 00:14:45,000
+So the person who is just on the edge of going to college, what kinds of majors do they generally not pursue if they happen to go?
+
+217
+00:14:45,000 --> 00:14:48,000
+Engineering, computer science.
+
+218
+00:14:48,000 --> 00:14:53,000
+So people who do those degrees generally knew they were going to college.
+
+219
+00:14:53,000 --> 00:15:00,000
+Whereas if you're like, eh, I don't know if college is for me, well be a computer scientist or electrical engineer.
+
+220
+00:15:00,000 --> 00:15:01,000
+I don't think so.
+
+221
+00:15:01,000 --> 00:15:07,000
+All right, so those are fields where you need to have really good math scores and people with really good math scores almost always go to college.
+
+222
+00:15:07,000 --> 00:15:11,000
+Instead it's likely to be a weaker student who's going to go and do an easier major.
+
+223
+00:15:11,000 --> 00:15:14,000
+And easier majors generally don't pay very well.
+
+224
+00:15:14,000 --> 00:15:18,000
+Except for economics.
+
+225
+00:15:18,000 --> 00:15:23,000
+Yes, economics is the great outlier barely behind intellectual engineering and computer science and earnings.
+
+226
+00:15:23,000 --> 00:15:28,000
+But per hour of work, we crush those people.
+
+227
+00:15:28,000 --> 00:15:29,000
+Like, they're suckers.
+
+228
+00:15:29,000 --> 00:15:33,000
+I don't know what they're doing.
+
+229
+00:15:33,000 --> 00:15:41,000
+When I tell this to undergraduates and I say, look, economics is the highest paid of all the easy majors, there's like a rumbling of discontent and insult.
+
+230
+00:15:41,000 --> 00:15:43,000
+They're like, come on, people.
+
+231
+00:15:43,000 --> 00:15:49,000
+You don't disappear into the depths of the earth for weeks at a time emerging with vitamin D deficiency.
+
+232
+00:15:49,000 --> 00:15:51,000
+But that's what computer scientists do.
+
+233
+00:15:51,000 --> 00:15:54,000
+That's their life.
+
+234
+00:15:54,000 --> 00:15:59,000
+When I was an undergraduate at Berkeley, they actually did have an underground basement for the computer lab.
+
+235
+00:15:59,000 --> 00:16:03,000
+They really would just disappear down there for days, not seeing the sun for days at a time.
+
+236
+00:16:03,000 --> 00:16:07,000
+And come up blinking like owls.
+
+237
+00:16:07,000 --> 00:16:11,000
+So no economist suffers like that.
+
+238
+00:16:11,000 --> 00:16:15,000
+In Toronto, the engineers, let's say, go to something called the dungeon.
+
+239
+00:16:15,000 --> 00:16:18,000
+They're killing themselves.
+
+240
+00:16:18,000 --> 00:16:22,000
+If you become an undergrad, you still get to have the full college experience.
+
+241
+00:16:22,000 --> 00:16:23,000
+Great deal.
+
+242
+00:16:23,000 --> 00:16:26,000
+I don't need to convince you guys of that.
+
+243
+00:16:26,000 --> 00:16:27,000
+You're already here.
+
+244
+00:16:27,000 --> 00:16:31,000
+This is like preaching the need to attend church to people who are in church.
+
+245
+00:16:31,000 --> 00:16:33,000
+I have no need.
+
+246
+00:16:33,000 --> 00:16:34,000
+All right.
+
+247
+00:16:34,000 --> 00:16:48,000
+So now another big problem with this, and actually this is one that is enormous, and I knew it was a problem, but I just didn't realize how big the problem was until I looked at the data, is that this tacitly assumes that school completion probability is 100%.
+
+248
+00:16:48,000 --> 00:16:57,000
+That's the tacit assumption, because remember what you're doing is you're looking at the earnings of people who successfully completed the degree.
+
+249
+00:16:57,000 --> 00:17:00,000
+That's what you do when you're pointing, that's what this does.
+
+250
+00:17:00,000 --> 00:17:07,000
+It goes and says, all right, because the question actually specifically says what is the highest number of years that you successfully completed?
+
+251
+00:17:07,000 --> 00:17:09,000
+That's the question warning.
+
+252
+00:17:09,000 --> 00:17:12,000
+If they had done, what is the total number of years you attempted?
+
+253
+00:17:12,000 --> 00:17:14,000
+That would be a different answer.
+
+254
+00:17:14,000 --> 00:17:22,000
+Probably people would just be so embarrassed about all their failure that they might not even tell you, but we've got other data saying that this failure is rampant.
+
+255
+00:17:22,000 --> 00:17:25,000
+So, and then you're like, oh, I'm not, you're finishing bachelor's degrees.
+
+256
+00:17:25,000 --> 00:17:28,000
+Remember, this is for the full-time students.
+
+257
+00:17:28,000 --> 00:17:40,000
+Full-time four-year students, 35% finish in four years, 55% by five years, 60 by six years, and then you're just crawling up at 1% or 2% a year after that.
+
+258
+00:17:40,000 --> 00:17:44,000
+So if you don't finish in six years, you're pretty much never finishing.
+
+259
+00:17:44,000 --> 00:17:50,000
+So that is a whole lot of people who are putting in a whole lot of years and then not making it, not finishing.
+
+260
+00:17:50,000 --> 00:17:53,000
+All right.
+
+261
+00:17:53,000 --> 00:18:05,000
+And actually, just to get a little bit ahead of myself, this is even worse than it seems, because one very well-established empirical fact about the course of education is that there is what is called a Sheepskin effect,
+
+262
+00:18:05,000 --> 00:18:14,000
+or diploma effect, which says that much of the payoff for education comes from the last year, finishing the last year.
+
+263
+00:18:14,000 --> 00:18:18,000
+Graduation years pay a lot more than regular years.
+
+264
+00:18:18,000 --> 00:18:25,000
+So for my book, I actually tracked down every single paper I could find on this and then just took an average.
+
+265
+00:18:25,000 --> 00:18:39,000
+So there are big ranges, but for high school, the payoff for senior year comes out on average, senior year pays about 3.5 times as much as a regular year.
+
+266
+00:18:39,000 --> 00:18:45,000
+So in other words, about a little bit more than half of the payoff for high school comes from finishing senior year.
+
+267
+00:18:45,000 --> 00:18:51,000
+For the bachelor's degree, it's like a ratio of 6.7 to 1.
+
+268
+00:18:51,000 --> 00:18:57,000
+Graduation year pays about double what all the first three years pay combined.
+
+269
+00:18:57,000 --> 00:19:05,000
+That means that failing to graduate is a really serious problem, because you can go and do the first three years and you get peanuts for those years.
+
+270
+00:19:05,000 --> 00:19:08,000
+You get almost nothing for the first three years of college.
+
+271
+00:19:08,000 --> 00:19:12,000
+And then, if you finish, then you go and you get a big bag of gold at the end.
+
+272
+00:19:12,000 --> 00:19:28,000
+But if a whole lot of people actually never finish, never cross that line, then to go and take the wages of the people who succeeded and act as if that's going to happen to everybody who tries is not just wrong.
+
+273
+00:19:28,000 --> 00:19:31,000
+It's worse than misleading. It's cruel.
+
+274
+00:19:31,000 --> 00:19:40,000
+Because you're going and painting these amazing dreams of what will happen after you finish without ever mentioning, oh, by the way, people like you hardly ever finish.
+
+275
+00:19:40,000 --> 00:19:45,000
+How predictable is college completion? Very predictable.
+
+276
+00:19:45,000 --> 00:19:47,000
+What do you think predicts college completion?
+
+277
+00:19:47,000 --> 00:19:49,000
+Besides intelligence?
+
+278
+00:19:49,000 --> 00:19:51,000
+Yes. Well, that's the first one, yes, intelligence.
+
+279
+00:19:51,000 --> 00:20:12,000
+Again, a lot of people never actually get an IQ test for them, but you just have your standard psychological learning.
+
+

@@ -1,0 +1,969 @@
+1
+00:00:00,000 --> 00:00:05,080
+that. So, you know, that's actually a better example, of course, is the double indemnity
+
+2
+00:00:05,080 --> 00:00:08,960
+one where you go and take out life insurance on someone and then murder them. That's already
+
+3
+00:00:08,960 --> 00:00:14,040
+illegal, of course, but you can also pile on insurance fraud charges, on top of everything
+
+4
+00:00:14,040 --> 00:00:20,880
+else if you wanted to do that. So you can do things like that. You can imagine things
+
+5
+00:00:20,880 --> 00:00:27,040
+like government going and passing laws requiring people to be healthy. So requiring healthy
+
+6
+00:00:27,040 --> 00:00:31,600
+lifestyles in order to mitigate the moral hazard problem caused by insurance, that sort
+
+7
+00:00:31,600 --> 00:00:37,160
+of thing. Right again, but you can imagine that, but of course that's almost never done.
+
+8
+00:00:37,160 --> 00:00:41,640
+Normally, what happens with the moral hazard problem is insurance causes it and government
+
+9
+00:00:41,640 --> 00:00:47,240
+just says, well, what are you going to do? Now, the last case is really what's most interesting.
+
+10
+00:00:47,240 --> 00:00:52,200
+There are a bunch of instances where government demonstrably could improve matters, but a
+
+11
+00:00:52,200 --> 00:00:57,840
+lot of actual regulation does the opposite. So again, the fact that government could actually
+
+12
+00:00:57,840 --> 00:01:01,760
+solve a market failure doesn't mean that it does, doesn't mean that it will, doesn't mean
+
+13
+00:01:01,760 --> 00:01:06,280
+it's even going to leave well enough alone. Government might actually go and amplify a
+
+14
+00:01:06,280 --> 00:01:12,340
+problem, might go and create a problem where none existed. So, you know, just to take the
+
+15
+00:01:12,340 --> 00:01:18,160
+most obvious examples. Limiting contractual punishment. So, as I was saying, if when you're
+
+16
+00:01:18,160 --> 00:01:24,440
+signing an insurance policy or anything involving risk sharing, you could sign a contract saying,
+
+17
+00:01:24,440 --> 00:01:30,560
+if I am caught going and abusing this risk sharing, I owe you some money as punishment.
+
+18
+00:01:30,560 --> 00:01:35,760
+If you catch me playing Tetris when I am working on a job with a wage that does not vary with
+
+19
+00:01:35,760 --> 00:01:40,800
+the amount I produce in a given day, then I owe you five or ten thousand dollars. If
+
+20
+00:01:40,800 --> 00:01:46,120
+you catch me going and smoking when you find out that someone just died and you try to
+
+21
+00:01:46,120 --> 00:01:48,840
+collect life insurance policy, turns out they were a smoker and they lied and said they
+
+22
+00:01:48,840 --> 00:01:53,960
+weren't, then you can cancel the policy or you could actually go and expropriate the
+
+23
+00:01:53,960 --> 00:01:58,360
+estate and say, well, since you lied on your life insurance policy, not only does your
+
+24
+00:01:58,360 --> 00:02:02,200
+family not get anything, they actually lose the house that you were leaving to them. So
+
+25
+00:02:02,200 --> 00:02:06,080
+maybe you shouldn't have lied. Right? Again, people always get nervous and say, what if
+
+26
+00:02:06,080 --> 00:02:11,320
+people agree to a really horrible punishment? Don't sign if you don't like it. Usual rule.
+
+27
+00:02:11,320 --> 00:02:16,640
+If the punishment is too draconian, don't sign. Right? And this is something that the
+
+28
+00:02:16,640 --> 00:02:19,640
+person that is sharing the risk with you needs to consider. Well, I don't want to make the
+
+29
+00:02:19,640 --> 00:02:23,040
+punishment too bad or else no one wants to do business with me. But on the other hand,
+
+30
+00:02:23,040 --> 00:02:26,840
+I want it to be bad enough so they don't rip me off. And then what is the incentive of
+
+31
+00:02:26,840 --> 00:02:31,640
+the person who signs that contract to do so? The person who agrees to the punishment. Why
+
+32
+00:02:31,640 --> 00:02:33,200
+would you ever agree to be punished?
+
+33
+00:02:33,200 --> 00:02:35,680
+You can get a lower price.
+
+34
+00:02:35,680 --> 00:02:39,440
+Yeah, you get a lower price of the insurance. You get a higher wage from your employer.
+
+35
+00:02:39,440 --> 00:02:43,880
+It's the same reason why you agree to any concession in a contract. Because that way
+
+36
+00:02:43,880 --> 00:02:47,580
+the other side is more interested in doing business with you and going and giving you
+
+37
+00:02:47,580 --> 00:02:52,920
+a better deal on everything else. So it makes perfect sense. And yet, as I mentioned, under
+
+38
+00:02:52,920 --> 00:02:58,320
+Anglo-American law, normally they refuse to enforce a punishment clause. Sometimes you
+
+39
+00:02:58,320 --> 00:03:01,640
+can get away by just denying that it's a punishment clause and say, no, no, no, no, no, no, no,
+
+40
+00:03:01,640 --> 00:03:07,080
+the damages are enormous. You don't understand my industry, man. There's just immense damages.
+
+41
+00:03:07,080 --> 00:03:09,840
+It's so huge I couldn't even explain it to you. They're so big.
+
+42
+00:03:09,840 --> 00:03:13,120
+And sometimes the court might let you get away with that, but other times not. And you've
+
+43
+00:03:13,120 --> 00:03:16,160
+got to worry that they won't let you get away with it.
+
+44
+00:03:16,160 --> 00:03:21,840
+Now something else that we see in regulation. Restricting risk-adjusted premiums. So when
+
+45
+00:03:21,840 --> 00:03:25,840
+there is an adverse selection problem, the natural thing to do is to find out who's high
+
+46
+00:03:25,840 --> 00:03:29,880
+risk and low risk and then do what with the premiums?
+
+47
+00:03:29,880 --> 00:03:31,360
+Adjust them.
+
+48
+00:03:31,360 --> 00:03:36,960
+Yes, adjust them. So who gets the high premiums? High risk people. Who gets the lowest premiums?
+
+49
+00:03:36,960 --> 00:03:40,960
+Low risk people. Real simple. All right. So this is the way that industry would solve
+
+50
+00:03:40,960 --> 00:03:44,480
+the problem if they had information. If you take the adverse selection problem, literally
+
+51
+00:03:44,480 --> 00:03:46,360
+this is impossible because why?
+
+52
+00:03:46,360 --> 00:03:47,360
+Yeah.
+
+53
+00:03:47,360 --> 00:03:50,360
+They've just left with high risk people.
+
+54
+00:03:50,360 --> 00:03:55,680
+Well, no, no, no. So again, so why is it that it would be impossible for insurance companies
+
+55
+00:03:55,680 --> 00:03:57,520
+to do this in a very simple model?
+
+56
+00:03:57,520 --> 00:03:58,520
+They don't know.
+
+57
+00:03:58,520 --> 00:04:03,720
+Yeah, they have no idea who's high risk. Oh, no, are 90-year-olds more likely to die than
+
+58
+00:04:03,720 --> 00:04:08,440
+90-year-olds? Who can say? It's all up in the air. No one knows these things. All right.
+
+59
+00:04:08,440 --> 00:04:12,720
+So if you're really in that world, then this isn't a solution. But if you're in a world
+
+60
+00:04:12,720 --> 00:04:17,840
+where the profession of actuary exists, people go and try to calculate risks for all sorts
+
+61
+00:04:17,840 --> 00:04:21,320
+of different groups and then come up with an insurance premium that would be profitable
+
+62
+00:04:21,320 --> 00:04:26,560
+to offer them given their risk, then this problem is pretty easily solved.
+
+63
+00:04:26,560 --> 00:04:31,600
+All right. Now, what does regulation normally do? Regulation normally tries to make it harder
+
+64
+00:04:31,600 --> 00:04:36,840
+to do this. They try to squeeze premium and then reduce the amount of inequality. And
+
+65
+00:04:36,840 --> 00:04:42,480
+again, not to solve any market failure. Rather, they're doing it because of public opinion
+
+66
+00:04:42,480 --> 00:04:45,960
+because the public opinion doesn't like charging high risk people high rates and low risk people
+
+67
+00:04:45,960 --> 00:04:46,960
+low rates.
+
+68
+00:04:46,960 --> 00:04:47,960
+They're like, what's their argument?
+
+69
+00:04:47,960 --> 00:04:48,960
+It's not fair.
+
+70
+00:04:48,960 --> 00:04:55,920
+It's not fair. It's not fair that I have that, you know, I expect more money to go and provide
+
+71
+00:04:55,920 --> 00:04:59,680
+services for expensive customers and less money for less expensive customers. That's
+
+72
+00:04:59,680 --> 00:05:05,000
+not fair. All right. How is that not fair? That seems like the definition of fair. That
+
+73
+00:05:05,000 --> 00:05:06,000
+seems super fair.
+
+74
+00:05:06,000 --> 00:05:09,480
+It's like, well, it's fair if someone has to pay more for a mansion than they do for
+
+75
+00:05:09,480 --> 00:05:14,880
+a shack. That's fair. So why is it that insurance, everyone's supposed to go and get equal rates?
+
+76
+00:05:14,880 --> 00:05:20,880
+Right. As I said, sometimes it's because the people that are very high risk, it seems like
+
+77
+00:05:20,880 --> 00:05:25,560
+it's through no fault of their own and people feel sad for them. Right. And reasonably so.
+
+78
+00:05:25,560 --> 00:05:29,080
+On the other hand, though, sometimes it's really weird, like when the state of New Jersey
+
+79
+00:05:29,080 --> 00:05:34,320
+says that you can't charge people who have gotten into multiple danger of multiple at
+
+80
+00:05:34,320 --> 00:05:38,280
+fault accidents have to be charged a rate barely, barely higher than normal.
+
+81
+00:05:38,280 --> 00:05:43,960
+Like, well, who sympathize with these people? Like, I mean, never mind utilitarianism of
+
+82
+00:05:43,960 --> 00:05:47,880
+don't you want them off the road entirely? But then on top of it, like, do you sympathize
+
+83
+00:05:47,880 --> 00:05:52,120
+with people who eventually get into accidents? I mean, even if it's like your 90 year old
+
+84
+00:05:52,120 --> 00:05:56,120
+grandma, she's super nice. Still, it's like poor grandma can't get insurance because she
+
+85
+00:05:56,120 --> 00:06:03,880
+keeps running into people and cars and stores and animals. I mean, that's where like, grandma
+
+86
+00:06:03,880 --> 00:06:09,400
+needs to lose the keys, but grandma will be sad. Grandma's got to be sad. She's going
+
+87
+00:06:09,400 --> 00:06:16,360
+to lose the keys. That's it. That's it. Yeah. All right. And then the last example. So remember,
+
+88
+00:06:16,360 --> 00:06:22,720
+well, you know, signaling is all about asymmetric information as well. So the efficiency of
+
+89
+00:06:22,720 --> 00:06:29,720
+the policy recommended by economic efficiency in a signaling model is to tax the signal.
+
+90
+00:06:29,720 --> 00:06:33,120
+Discourage the rent seeking of just trying to get more and better signals so you look
+
+91
+00:06:33,120 --> 00:06:39,520
+better than other people. All right. Now, how many governments on earth tax education?
+
+92
+00:06:39,520 --> 00:06:44,480
+Virtually none? Maybe none. Right? How many governments on earth subsidize education?
+
+93
+00:06:44,480 --> 00:06:49,720
+Almost all. They pour money on it. And how careful are they to only pour money on stuff
+
+94
+00:06:49,720 --> 00:06:52,800
+that looks like you're building human capital rather than just showing off?
+
+95
+00:06:52,800 --> 00:06:53,800
+Not at all.
+
+96
+00:06:53,800 --> 00:06:58,200
+Yeah. Barely at all. Barely at all. In fact, whenever you start saying, well, maybe government
+
+97
+00:06:58,200 --> 00:07:03,640
+shouldn't subsidize the majors that are basically just hobbies like art history, things like
+
+98
+00:07:03,640 --> 00:07:09,680
+that, people flip out. Who are you to dismiss art history as a mere hobby? Like, look, I
+
+99
+00:07:09,680 --> 00:07:15,880
+mean, no one subsidizes my hobbies. There's no Department of Role Playing Games. So like,
+
+100
+00:07:15,880 --> 00:07:19,760
+why is it that their hobbies are better than mine and they're entitled to subsidies and
+
+101
+00:07:19,760 --> 00:07:25,800
+I'm not? It's like, well, because it's been that way for a long time. All right. Yes.
+
+102
+00:07:25,800 --> 00:07:32,680
+So I know a guy who has written several books on the history of comic books, which in my
+
+103
+00:07:32,680 --> 00:07:39,080
+mind just as works of literary analysis compare very favorably to some of the books that English
+
+104
+00:07:39,080 --> 00:07:45,840
+professors have gotten tenure with. Very favorably because this guy writes books where he interweaves
+
+105
+00:07:45,840 --> 00:07:49,640
+the actual history of the real world that's happening alongside the comic books. He knows
+
+106
+00:07:49,640 --> 00:07:54,120
+all the stories of the authors and their relations. He knows the business side. He knows the themes.
+
+107
+00:07:54,120 --> 00:07:58,840
+You know, like, so he knows a vast literature. And I've seen people get tenure based upon
+
+108
+00:07:58,840 --> 00:08:06,720
+books about one stupid poet no one's ever heard of. Look, who cares? One poet. This
+
+109
+00:08:06,720 --> 00:08:12,560
+guy knows thousands of comic books and can relate it to the world and to history and
+
+110
+00:08:12,560 --> 00:08:17,160
+the Cold War and everything else. This guy's awesome. But does he get a job as an English
+
+111
+00:08:17,160 --> 00:08:23,600
+professor? No. Why? Because of your bigotry against his hobby. I think his hobby's way
+
+112
+00:08:23,600 --> 00:08:34,520
+better. Yes. The original X-Men. That's poetry. All right. So any case. Now I am happy to
+
+113
+00:08:34,520 --> 00:08:39,760
+admit that there are some regulations on the books which if enforced would actually go
+
+114
+00:08:39,760 --> 00:08:44,480
+and reduce asymmetric information problems. But there's also a lot of others that amplify
+
+115
+00:08:44,480 --> 00:08:49,920
+the problems. And again, as I think I was mentioning, the whole idea of Obamacare. Remember,
+
+116
+00:08:49,920 --> 00:08:55,280
+Paul Krugman described it as a stool with three legs and it needs all three legs to
+
+117
+00:08:55,280 --> 00:09:02,640
+stand. Right? And he explained it very clearly, too. Right? And the three legs were the, let's
+
+118
+00:09:02,640 --> 00:09:10,520
+see, what's the right way of putting it? So approximately equal rates. So with some adjustments
+
+119
+00:09:10,520 --> 00:09:14,760
+for age, things like that. But basically you can't charge risk adjusted rates. Like heavy
+
+120
+00:09:14,760 --> 00:09:18,600
+limitations on risk adjusted rates. And that includes, of course, the ban on pre-existing
+
+121
+00:09:18,600 --> 00:09:21,840
+conditions clauses. You can't go and charge somebody more just because they wait until
+
+122
+00:09:21,840 --> 00:09:26,040
+they're really sick in order to get insurance. Okay? So you have the ban on equal rates.
+
+123
+00:09:26,040 --> 00:09:31,760
+Then you've got the mandate. And the mandate is there to solve the problems caused by the
+
+124
+00:09:31,760 --> 00:09:36,960
+equal rates. Because if everyone can be charged equal rates and there's no ban on pre-existing
+
+125
+00:09:36,960 --> 00:09:41,320
+conditions clauses, that if you are free to buy insurance whether or not you like it,
+
+126
+00:09:41,320 --> 00:09:47,800
+what is the obvious strategy? Don't buy until you get, until you really need it. So the
+
+127
+00:09:47,800 --> 00:09:51,280
+mandate is there to go and say, no, no, you don't get to decide whether you want it. Everybody
+
+128
+00:09:51,280 --> 00:09:56,720
+has to buy it. And then the final leg is the subsidies, which is designed to solve the
+
+129
+00:09:56,720 --> 00:10:00,400
+problem caused by the mandate. Because if you have a mandate, there'll be some more
+
+130
+00:10:00,400 --> 00:10:03,680
+people who can't afford to buy the policy. And then the subsidies are there to give them
+
+131
+00:10:03,680 --> 00:10:09,280
+the money that they need to buy it. Okay? So there is an internally coherent model of
+
+132
+00:10:09,280 --> 00:10:15,480
+insurance regulation. Although it seems quite possible, actually, that if there is any change
+
+133
+00:10:15,480 --> 00:10:20,040
+in healthcare regulation, that the government will just get rid of the one part that people
+
+134
+00:10:20,040 --> 00:10:23,280
+actually hate. And there's only one of these three legs that is unpopular.
+
+135
+00:10:23,280 --> 00:10:24,280
+Mandate.
+
+136
+00:10:24,280 --> 00:10:27,800
+The mandate. Right? And then you have the two-legged stool and it falls over and is
+
+137
+00:10:27,800 --> 00:10:33,640
+end, and if it does, I have no doubt that a bunch of people will say the free market
+
+138
+00:10:33,640 --> 00:10:40,840
+has failed. Even though you had a regulation which you would expect to cause adverse selection,
+
+139
+00:10:40,840 --> 00:10:49,640
+even if it didn't exist before. All right. So why don't we then move on to our next set
+
+140
+00:10:49,640 --> 00:10:56,320
+of notes. So now we're doing two weeks on behavioral economics and irrationality. There
+
+141
+00:10:56,320 --> 00:11:03,320
+are many names for behavioral economics. It's also called psychology and economics, psychological
+
+142
+00:11:26,320 --> 00:11:31,960
+economics. All right. Just for background, has anyone here ever taken one or more classes
+
+143
+00:11:31,960 --> 00:11:39,080
+in psychology? All right. So that's more than usual. All right. Now, and what exactly is
+
+144
+00:11:39,080 --> 00:11:43,440
+it psychologists study, you know, in a sentence? Right? Of course they study tons of different
+
+145
+00:11:43,440 --> 00:11:48,440
+things, but the quick version, what is psychology, Danny? What is it?
+
+146
+00:11:48,440 --> 00:11:50,800
+The human mind.
+
+147
+00:11:50,800 --> 00:11:57,480
+Study the human mind. All right. So you're about, well, it sounds interesting and important.
+
+148
+00:11:57,480 --> 00:12:02,120
+And yet I can't tell you the number of times that I've heard economists say the word psychology
+
+149
+00:12:02,120 --> 00:12:10,520
+with the most palpable sarcasm. It's like, so like a psychology. Then I've also heard,
+
+150
+00:12:10,520 --> 00:12:18,560
+well, if you want to be a psychologist, then, you know, like what's so funny? What is so
+
+151
+00:12:18,560 --> 00:12:24,400
+contemptible about studying the human mind? And in particular, I mean, I can understand
+
+152
+00:12:24,400 --> 00:12:28,480
+maybe if you're a physicist, you would say the human mind is nothing compared to the
+
+153
+00:12:28,480 --> 00:12:34,600
+great neutrino or something like that. But if you're an economist to go and without even
+
+154
+00:12:34,600 --> 00:12:39,040
+bothering to open up a textbook to go and dismiss the entire field of studying the human
+
+155
+00:12:39,040 --> 00:12:46,320
+mind, it sounds to me like a combination of the most severe intellectual blindness, ignorance,
+
+156
+00:12:46,320 --> 00:12:53,480
+stubbornness, willfulness, just I don't even like the words fail me for how odd it is that
+
+157
+00:12:53,480 --> 00:12:56,680
+a person would say they want to understand economics, but they have no interest in the
+
+158
+00:12:56,680 --> 00:13:04,000
+contents of the human mind. So it would seems like there would be a lot of synergies between
+
+159
+00:13:04,000 --> 00:13:07,960
+economics and psychology. And the next two weeks, we're going to look at a lot of these
+
+160
+00:13:07,960 --> 00:13:12,760
+synergies and this, the field of economics and psychology has grown a lot. If you look
+
+161
+00:13:12,760 --> 00:13:19,000
+at empirical articles in top journals, I think at least half of them at least consider psychological
+
+162
+00:13:19,000 --> 00:13:22,320
+theories of what's going on, which of course is, you know, psychological theory is not
+
+163
+00:13:22,320 --> 00:13:26,240
+contrasted with an economic theory. Rather, you're trying to go and put the psychology
+
+164
+00:13:26,240 --> 00:13:30,440
+into an economic model, marry them together and get some real insight by combining both
+
+165
+00:13:30,440 --> 00:13:38,400
+fields. All right. Okay. Anyway, so about half of empirical articles probably do contain,
+
+166
+00:13:38,400 --> 00:13:43,720
+at least entertain psychological hypotheses for what's going on. Right. You can decide
+
+167
+00:13:43,720 --> 00:13:48,320
+for yourself whether or not the, what the quality of those articles is. And of course,
+
+168
+00:13:48,320 --> 00:13:53,120
+the fact that there are some crummy psychological theories or that there are some crummy psychological
+
+169
+00:13:53,120 --> 00:13:57,320
+papers that have gotten published. Well, do we want to dismiss entire fields on the basis
+
+170
+00:13:57,320 --> 00:14:02,800
+of that? It's a little close to home, right? Right. If you can dismiss an entire field
+
+171
+00:14:02,800 --> 00:14:07,680
+because it's got a few crummy papers, where does that leave us? What? You think all papers
+
+172
+00:14:07,680 --> 00:14:13,800
+in economics are great? So sometimes I'm sitting around wondering, huh, when does the replication
+
+173
+00:14:13,800 --> 00:14:19,480
+crisis for economics come over here? There's been a lot of pressure on psychology. And
+
+174
+00:14:19,480 --> 00:14:24,080
+partly it may be because they do experiments with very small numbers of observations. And
+
+175
+00:14:24,080 --> 00:14:28,800
+so maybe that's really what's going on and that's the problem. And maybe it's because
+
+176
+00:14:28,800 --> 00:14:33,680
+they don't have a lot of, they're so open-minded that they are open to almost everything. Right.
+
+177
+00:14:33,680 --> 00:14:39,160
+So maybe economists have some advantage that theory makes us a bit skeptical of weird results,
+
+178
+00:14:39,160 --> 00:14:45,560
+which then perhaps goes and weeds out wrong results. Maybe. All right. Any case. So next
+
+179
+00:14:45,560 --> 00:14:50,400
+two weeks we're going to be talking about interweaving economics and psychology. And
+
+180
+00:14:50,400 --> 00:14:54,400
+then after we do this, we're going to spend three weeks on applications where one of the
+
+181
+00:14:54,400 --> 00:14:58,480
+main things that I'm going to try to get you to do is to consider, well, maybe there's
+
+182
+00:14:58,480 --> 00:15:03,240
+something that psychology has to teach us as we go over the applications. So, you know,
+
+183
+00:15:03,240 --> 00:15:07,680
+for the last three weeks, my idea is that we'll go and take everything that we've learned
+
+184
+00:15:07,680 --> 00:15:13,240
+and try to understand things in the real world. All right. A scary and confusing place, but
+
+185
+00:15:13,240 --> 00:15:19,280
+still it is the final place that we aim to explain, I think. That's what interests me
+
+186
+00:15:19,280 --> 00:15:24,200
+anyway. I mean, I have met economists who will even admit, like, I don't care about
+
+187
+00:15:24,200 --> 00:15:29,320
+that so-called real world. All I'm doing is publishing articles in the Journal of Economic
+
+188
+00:15:29,320 --> 00:15:33,280
+Theory for other people who publish in the Journal of Economic Theory to read and critique.
+
+189
+00:15:33,280 --> 00:15:38,040
+All right. Those people are out there, but I mean, I would just avoid them if I were
+
+190
+00:15:38,040 --> 00:15:43,000
+you. Why, like, why they think what they're doing is valuable or, like, what the point
+
+191
+00:15:43,000 --> 00:15:48,120
+of it is, I really have trouble understanding it. I think in their minds there's some kind
+
+192
+00:15:48,120 --> 00:15:53,040
+of division of labor theory of, look, we theorists go and do nothing but theory, totally divorced
+
+193
+00:15:53,040 --> 00:15:56,240
+from the real world, but then the empirical people will sometimes find some value in what
+
+194
+00:15:56,240 --> 00:16:01,240
+we're doing. All right. I guess it's possible, but don't you think they might find more value
+
+195
+00:16:01,240 --> 00:16:06,360
+if you tried to theorize more about the real world and tried to look at some facts first?
+
+196
+00:16:06,360 --> 00:16:12,160
+It would seem to be well advised. All right. So, questions before we get started? Yes?
+
+197
+00:16:12,160 --> 00:16:26,720
+Just on the replication crisis in economics, the economists had a paper on this a couple
+
+198
+00:16:26,720 --> 00:16:27,720
+of years ago where they said that they did look at economics experiments and they found
+
+199
+00:16:27,720 --> 00:16:28,720
+them to be way more replicable than any other field. And they said the theory was because
+
+200
+00:16:28,720 --> 00:16:35,160
+economists have been so hesitant towards experiments that the experimentalists had to try much
+
+201
+00:16:35,160 --> 00:16:40,160
+harder. Ah, interesting point. Of course, most economic research is not experimental,
+
+202
+00:16:40,160 --> 00:16:46,400
+right? So, how well does that stuff replicate? Right? There's the lowest standard replication
+
+203
+00:16:46,400 --> 00:16:50,920
+where if you use the very same data set and the very same methods, you get exactly the
+
+204
+00:16:50,920 --> 00:17:00,480
+same results. So, that's one. For very good stuff, I found that tends to be pretty true.
+
+205
+00:17:00,480 --> 00:17:06,080
+But if the standard is if we get a new data set and use new methods, say better methods,
+
+206
+00:17:06,080 --> 00:17:10,480
+if we get better data and better methods, do we get the same results? That's one where
+
+207
+00:17:10,480 --> 00:17:20,160
+it's much less clear. All right. So, and then, you know, economists also are often fond of
+
+208
+00:17:20,160 --> 00:17:24,720
+using a more complex technique that does not actually seem better than the other technique,
+
+209
+00:17:24,720 --> 00:17:28,520
+but it's just harder to do. And require, you know, so you have to be smarter to do it.
+
+210
+00:17:28,520 --> 00:17:33,080
+So, my view is there are a lot of papers where the best research is actually just ordinarily
+
+211
+00:17:33,080 --> 00:17:39,440
+squared, ordinarily squares, but it's too easy to do and the results are too obvious.
+
+212
+00:17:39,440 --> 00:17:42,560
+And then people go and come up with weird instrumental variables estimators, which are
+
+213
+00:17:42,560 --> 00:17:47,760
+harder to do and there's more room for rationality. But as to why people believe those results
+
+214
+00:17:47,760 --> 00:17:51,880
+more, I have no idea. It seems like, well, you assume that thing's exogenous. Why would
+
+215
+00:17:51,880 --> 00:17:55,960
+anyone think that's exogenous? Well, I mean, it's like we can get like a bunch of papers
+
+216
+00:17:55,960 --> 00:18:01,440
+out of it. So, I guess that's the reason. All right. Okay. So, just for background,
+
+217
+00:18:01,440 --> 00:18:05,240
+right. So, behavioral approach and choice theory. It is rare for economists to think
+
+218
+00:18:05,240 --> 00:18:10,000
+about empirically testing fundamental micro choice theory. So, you know the stuff that
+
+219
+00:18:10,000 --> 00:18:14,040
+we do in the first few weeks of economics? Very unusual for someone to say, let's go
+
+220
+00:18:14,040 --> 00:18:19,560
+and empirically test that stuff. All right. Why? Well, first of all, the very elementary
+
+221
+00:18:19,560 --> 00:18:24,440
+stuff seems almost true by definition. Like when you say that preferences are transitive.
+
+222
+00:18:24,440 --> 00:18:30,120
+It's like, so if you prefer A to B and B to C, then you prefer A to C. It's like, doesn't
+
+223
+00:18:30,120 --> 00:18:33,880
+that kind of have to be true? Sort of seems really obvious. Like why would you bother
+
+224
+00:18:33,880 --> 00:18:41,320
+testing something like that? All right. Now, if we assume that preferences are stable,
+
+225
+00:18:41,320 --> 00:18:46,400
+which is what we almost always do in empirical work, then there's a lot of testable implications.
+
+226
+00:18:46,400 --> 00:18:51,000
+So think about this. Suppose that you want to go and test the law of demand. All right.
+
+227
+00:18:51,000 --> 00:18:56,000
+So, you say, all right, well, here's the law of demand. Right here's the demand curve.
+
+228
+00:18:56,000 --> 00:18:59,640
+And then we go and we find out the price started off here and then it moved to here. Then you
+
+229
+00:18:59,640 --> 00:19:03,960
+might want to see whether the quantity that people can sit and respond. All right. So
+
+230
+00:19:03,960 --> 00:19:07,880
+that sounds like a good approach, but there's just one problem. If preferences are not stable
+
+231
+00:19:07,880 --> 00:19:12,520
+and you appear to see that, you could also say something else that's totally consistent
+
+232
+00:19:12,520 --> 00:19:17,840
+with basic theory. What can you say if, you know, so in other words, suppose that, let's
+
+233
+00:19:17,840 --> 00:19:24,200
+see, the price goes up and instead the quantity demanded does that. All right. So first observation
+
+234
+00:19:24,200 --> 00:19:28,480
+here, low price. Second observation here, high price. What can you always say about
+
+235
+00:19:28,480 --> 00:19:30,480
+a demand curve if you don't believe in stable preferences?
+
+236
+00:19:30,480 --> 00:19:33,640
+Well, if you think it's not stable, then the demand curve should be.
+
+237
+00:19:33,640 --> 00:19:37,400
+Yeah. So you can say, no, no, no, no. Theory is still totally true. That. All right. So
+
+238
+00:19:37,400 --> 00:19:43,240
+now I fit both data points. Okay. So theory is great. That's actually not empirical testing
+
+239
+00:19:43,240 --> 00:19:47,080
+at all. Right. That's just going and drawing a line through every point and saying the
+
+240
+00:19:47,080 --> 00:19:53,400
+theory is sound. Right. So that's CSO. In practice, then economists normally will assume
+
+241
+00:19:53,400 --> 00:19:57,840
+stable preferences when they do empirical work. Because otherwise it's too easy. Otherwise
+
+242
+00:19:57,840 --> 00:20:00,120
+you just go and see what happens and then say, well, clear.
+
+

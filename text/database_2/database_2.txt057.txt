@@ -1,0 +1,6 @@
+6. Suppose workers earn 80% of their value to me if they are self-employed.
+ 
+True, False, and Explain: Only bad workers will go to school, and will earn a net wage (wages minus schooling costs) of $20k.
+
+False? *Week 9 notes We would be best off just offering a wage of $20k to all workers. If we try to create a differential wage for educated workers then we will lose more money on the bad workers than we gain from the good workers.
+

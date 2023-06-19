@@ -1,0 +1,14 @@
+3. True, False, and Explain:   This is not a NE unless the Incumbent’s  
+discount factor is less  than .6.  
+ 
+FALSE (but see below).  Playing the candidate equilibrium is Nash if:  
+ 
+
+
+1 010 10 2
+tt
+tt 
+.  This simplifies to: 
+
+  1101012
+, so 

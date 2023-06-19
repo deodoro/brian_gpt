@@ -1,0 +1,12 @@
+3.  Suppose you have a betting market where half the participants are certain 
+that Clinton will win the Democratic nomination, and the other half are certain 
+that Obama will win.  
+ 
+True, False, and Explain:  A general equilibriu m will not exist.  
+ 
+TRUE.  If both sides are certain, they are willing to bet an infinite amount, and put zero value on 
+claims that pay off if the other side is right.  (This is basically a problem of lexicographic 
+preferences).  However , if short sales are  not allowed, then the most each side can bet is their 
+total assets.  If so, a general equilibrium will exist equal to the ratio of the amount each side bets.   
+(I gave full credit for FALSE if they discussed both possibilities).  
+

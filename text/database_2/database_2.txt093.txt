@@ -1,0 +1,8 @@
+5. Consider two professors. John earns $55,000 paid in monthly installments. Joan earns a base salary of $45,000 paid over twelve months, and a guaranteed extra $10,000 paid during the summer months. (Thaler, The Winner's Curse)
+ 
+True, False, and Explain: Thaler explains that the mental accounting prediction is that Joan will outspend John during the summer, but John will outspend Joan throughout the rest of the year.
+ 
+False[26]. Thaler holds that the mental accounting model indicates that Joan's spending will always be lower than John's. This conclusion comes from separating the monthly pay and lump-sum pay into two accounts: the income-flow account and the asset account. Empirical estimates show that the income-flow's MPC is higher than the assert accounts MPS. Therefore, since the level Joan consumes will always be lower than jown, so will her other spending, i.i. saves most of lump-sum payments. 
+ 
+
+ 

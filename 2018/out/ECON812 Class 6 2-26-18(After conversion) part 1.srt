@@ -1,0 +1,1233 @@
+1
+00:00:00,000 --> 00:00:08,000
+questions about the exam. Then I will take all questions about the materials for weeks one through six.
+
+2
+00:00:08,000 --> 00:00:16,000
+This is not your only time to ask questions. It is a time to ask questions. And then if we have no time,
+
+3
+00:00:16,000 --> 00:00:24,000
+then we will start with the week eight notes. Week eight will not be on the midterm, but time's a-wasting,
+
+4
+00:00:24,000 --> 00:00:39,000
+and this is a graduate class, so don't end early. All right, so in the last class, we were going over the
+
+5
+00:00:39,000 --> 00:00:46,000
+coordination game some more. Remember this is a classic case where you've got two strategies of left and right,
+
+6
+00:00:46,000 --> 00:00:52,000
+and we've got two equilibria of either everyone doing left or everyone doing right. So you certainly don't want
+
+7
+00:00:52,000 --> 00:00:58,000
+to have people driving on different sides of the road at the same time, because then you're going to get
+
+8
+00:00:58,000 --> 00:01:03,000
+accidents, but it's possible that everyone driving the left is worse for society than everyone driving the right,
+
+9
+00:01:03,000 --> 00:01:08,000
+for example, since most people are right-handed. Maybe it's actually safer to do it that way, so maybe the
+
+10
+00:01:08,000 --> 00:01:14,000
+American way is better than the British way, or it could be the other way around. What is clear is that it is
+
+11
+00:01:14,000 --> 00:01:22,000
+not good to combine the U.S. and British systems simultaneously on the same road, which is disastrous.
+
+12
+00:01:22,000 --> 00:01:26,000
+And I've taken lots of applications, so you can think about this as a story of language. Like, why don't we
+
+13
+00:01:26,000 --> 00:01:31,000
+all have our own language? Has anyone here ever invented a new language just for fun? I said, usually
+
+14
+00:01:31,000 --> 00:01:39,000
+they do poorly. I kind of do. I've come up with a new system of simplified spelling, which has not caught on
+
+15
+00:01:39,000 --> 00:01:46,000
+at all, even though it is obviously superior to what we do, which almost anything would be obviously superior
+
+16
+00:01:46,000 --> 00:01:53,000
+to what we do in English. Let's say we do this for language, as I mentioned, so culture more generally,
+
+17
+00:01:53,000 --> 00:01:59,000
+what is the correct distance for having a conversation? As long as you have the same idea about how close
+
+18
+00:01:59,000 --> 00:02:05,000
+together you should be, then you can have conversations of comfort. If you have different views on how
+
+19
+00:02:05,000 --> 00:02:11,000
+close you're supposed to be, then it can be very awkward. It of course could be clothing. How come no one
+
+20
+00:02:11,000 --> 00:02:19,000
+here is wearing a kimono? Why not? Why is that what we wear for jobs generally instead of suits? That seems
+
+21
+00:02:19,000 --> 00:02:26,000
+strange. Why do we wear suits at all? Isn't that an incredibly terrible kind of clothing for people to wear
+
+22
+00:02:26,000 --> 00:02:33,000
+during the summer in the South? And yet that's still normal, and that's what you're supposed to do.
+
+23
+00:02:33,000 --> 00:02:39,000
+So that could be there, say. And then it's been used for technology. Since there are many technologies
+
+24
+00:02:39,000 --> 00:02:44,000
+where you want to be using the same technologies of the people, if someone came up with a totally great
+
+25
+00:02:44,000 --> 00:02:49,000
+new operating system, you still might not want to use it because no one else is using it, and therefore
+
+26
+00:02:49,000 --> 00:02:54,000
+there's no software written for it. Every now and then someone does come up with a new operating system
+
+27
+00:02:54,000 --> 00:03:02,000
+and they try to get it going. Once in a while it takes off, but usually it falls flat. And then location.
+
+28
+00:03:02,000 --> 00:03:07,000
+So Paul Krugman to this day is bitter that his work on location has not been adequately appreciated.
+
+29
+00:03:07,000 --> 00:03:12,000
+You get to the point where you have a Nobel Prize and you sit around feeling like people adore you.
+
+30
+00:03:12,000 --> 00:03:19,000
+That's a problem we should all have. But anyway, the point is, look, why in the world do we need to have
+
+31
+00:03:19,000 --> 00:03:24,000
+the carpet production outside of Atlanta, Georgia? What is so special about that place that it needs
+
+32
+00:03:24,000 --> 00:03:29,000
+to happen there? And the best answer seems to be that you want to be there because all the other
+
+33
+00:03:29,000 --> 00:03:34,000
+carpet producers are there, and the costs are then going to be lower if you are in the same place
+
+34
+00:03:34,000 --> 00:03:40,000
+where you have the suppliers and the train workers and so on. But if you can move it to a different location,
+
+35
+00:03:40,000 --> 00:03:44,000
+if everyone can do a coordinated move, that might very well be a big improvement.
+
+36
+00:03:44,000 --> 00:03:48,000
+Again, just think about the city of Manhattan and why in the world have it there.
+
+37
+00:03:48,000 --> 00:03:53,000
+What a stupid place to have Manhattan. Why not go and put it in a better room with a better climate,
+
+38
+00:03:53,000 --> 00:03:59,000
+on a place where you're not constrained by an island for your space? These seem like obvious ways
+
+39
+00:03:59,000 --> 00:04:03,000
+of improving things, but not too likely to happen.
+
+40
+00:04:03,000 --> 00:04:10,000
+And again, when you talk about coordination games in the context of technology, as I mentioned,
+
+41
+00:04:10,000 --> 00:04:18,000
+usually we use this phrase of path dependence. There's nothing really new about this that's added on
+
+42
+00:04:18,000 --> 00:04:23,000
+to coordination, it's just extra vocabulary. But the idea is that the technology we use today
+
+43
+00:04:23,000 --> 00:04:28,000
+depends upon the technology that we're using yesterday, and the technology from yesterday
+
+44
+00:04:28,000 --> 00:04:33,000
+and from the day before that. And why? Because we are trying to coordinate, and the natural way
+
+45
+00:04:33,000 --> 00:04:37,000
+to coordinate is to just keep doing what we've been doing in the past.
+
+46
+00:04:37,000 --> 00:04:41,000
+You can imagine a coordinating equilibrium where we alternate every day.
+
+47
+00:04:41,000 --> 00:04:45,000
+Where, well, since we were speaking English yesterday, let's speak French today.
+
+48
+00:04:45,000 --> 00:04:50,000
+That could be a rule. And occasionally you will see things like this.
+
+49
+00:04:50,000 --> 00:04:55,000
+Like if you go to your friends, or you eat lunch with your friends a lot, a common rule would be,
+
+50
+00:04:55,000 --> 00:04:59,000
+well, we don't eat there today because we ate there yesterday.
+
+51
+00:04:59,000 --> 00:05:04,000
+So once in a while you do get this as a coordinating equilibrium.
+
+52
+00:05:04,000 --> 00:05:11,000
+Don't do what you just did, but more normally the equilibrium is keep doing what you just did.
+
+53
+00:05:11,000 --> 00:05:22,000
+And then probably the most famous example of path dependence in the whole history of technology
+
+54
+00:05:22,000 --> 00:05:27,000
+has a name, and that name is QWERTY.
+
+55
+00:05:27,000 --> 00:05:31,000
+And if you're wondering what that is, just visualize typing that on a keyboard,
+
+56
+00:05:31,000 --> 00:05:36,000
+and you will picture your finger moving along the second row, one key at a time.
+
+57
+00:05:36,000 --> 00:05:42,000
+Right? Anyone here use a non-standard keyboard?
+
+58
+00:05:42,000 --> 00:05:45,000
+Once in a while?
+
+59
+00:05:45,000 --> 00:05:48,000
+Yes, so I know German, so like...
+
+60
+00:05:48,000 --> 00:05:51,000
+It's got to be for typing in English, yes.
+
+61
+00:05:51,000 --> 00:05:53,000
+If you type in a totally different language, then...
+
+62
+00:05:53,000 --> 00:05:55,000
+We have the same alphabet, it's just different.
+
+63
+00:05:55,000 --> 00:05:59,000
+Yeah, yeah, yeah, so I have typed on a German keyboard, and yes.
+
+64
+00:05:59,000 --> 00:06:03,000
+So yes, you can go to Germany and still type on it, but it's hard.
+
+65
+00:06:03,000 --> 00:06:06,000
+Although now, you just press a key and then it switches it back to English.
+
+66
+00:06:06,000 --> 00:06:08,000
+And then when you're typing...
+
+67
+00:06:08,000 --> 00:06:12,000
+So the Z gets moved because Z is rare in English and common in German.
+
+68
+00:06:12,000 --> 00:06:21,000
+So this is probably the most famous example in the whole history of technology, of path dependence.
+
+69
+00:06:21,000 --> 00:06:27,000
+And again, the story about QWERTY anyway is that back in the old days,
+
+70
+00:06:27,000 --> 00:06:33,000
+keyboards had physical keys, and you needed to be careful that the keys did not jam.
+
+71
+00:06:33,000 --> 00:06:37,000
+How many people here have ever typed on an actual physical keyboard at some point?
+
+72
+00:06:37,000 --> 00:06:39,000
+Alright, so you've seen it.
+
+73
+00:06:39,000 --> 00:06:46,000
+So anyway, there's a row of keys, and if you do a key from the extreme left to the extreme right simultaneously,
+
+74
+00:06:46,000 --> 00:06:49,000
+they can cross and mess you up.
+
+75
+00:06:49,000 --> 00:06:54,000
+So the story is that the QWERTY keyboard was designed to actually prevent that.
+
+76
+00:06:54,000 --> 00:06:58,000
+But now, of course, have you ever had keys cross on a computer keyboard
+
+77
+00:06:58,000 --> 00:07:01,000
+where you press two simultaneously and the board jams?
+
+78
+00:07:01,000 --> 00:07:04,000
+Has that ever occurred? No, that would not normally occur.
+
+79
+00:07:04,000 --> 00:07:06,000
+That would be a very strange thing to happen.
+
+80
+00:07:06,000 --> 00:07:09,000
+I mean, there might be a video game where you pretend you're on an old-fashioned keyboard
+
+81
+00:07:09,000 --> 00:07:11,000
+and try to not cross the keys or something.
+
+82
+00:07:11,000 --> 00:07:13,000
+But anyway, that'd be weird.
+
+83
+00:07:13,000 --> 00:07:19,000
+And yet, we still use the same keyboard configuration that was established 100 years earlier
+
+84
+00:07:19,000 --> 00:07:22,000
+when these keys were first around.
+
+85
+00:07:22,000 --> 00:07:26,000
+And there are stories of people claiming that there's a better keyboard out there.
+
+86
+00:07:26,000 --> 00:07:32,000
+Which now that we don't have to worry about crossing keys would actually be far superior.
+
+87
+00:07:32,000 --> 00:07:38,000
+Now, important to remember, there's nothing about coordination games that tells us that we tend to go to the bad equilibrium.
+
+88
+00:07:38,000 --> 00:07:40,000
+It just says that you could be there.
+
+89
+00:07:40,000 --> 00:07:44,000
+What is a game that we've seen where you do tend to go to the bad equilibrium?
+
+90
+00:07:44,000 --> 00:07:50,000
+Prisoner of Salaam, yes, that's one where you should expect to be at the bad equilibrium.
+
+91
+00:07:50,000 --> 00:07:52,000
+This is not one where you should expect to be.
+
+92
+00:07:52,000 --> 00:07:54,000
+It just says, keep an open mind.
+
+93
+00:07:54,000 --> 00:07:57,000
+Maybe you're in the bad equilibrium and maybe there's something better.
+
+94
+00:07:57,000 --> 00:07:58,000
+Very different.
+
+95
+00:07:58,000 --> 00:08:03,000
+But anyway, if someone tells you that they're there and says,
+
+96
+00:08:03,000 --> 00:08:08,000
+look, this is the QWERTY keyboard, this is the superior Dvorak keyboard.
+
+97
+00:08:08,000 --> 00:08:13,000
+So, someone may tell you that and on the one hand it's reasonable to say,
+
+98
+00:08:13,000 --> 00:08:18,000
+well, given that people just want to use the same thing other people are using, that seems plausible.
+
+99
+00:08:18,000 --> 00:08:23,000
+On the other hand, you might want to go and say, well, who are you, person who says that this is the Dvorak keyboard?
+
+100
+00:08:23,000 --> 00:08:26,000
+Are you a Dvorak keyboard salesman, perhaps?
+
+101
+00:08:26,000 --> 00:08:30,000
+Or might you in fact be Admiral Dvorak himself?
+
+102
+00:08:30,000 --> 00:08:36,000
+Yes, the very man who was responsible for doing the studies claiming this keyboard was so great,
+
+103
+00:08:36,000 --> 00:08:41,000
+which were then apparently uncritically cited by people who wanted a good example of path dependence.
+
+104
+00:08:41,000 --> 00:08:45,000
+I'm a little puzzled by how they could not bother to check the author of the study,
+
+105
+00:08:45,000 --> 00:08:48,000
+so I'm not sure quite what's going on there.
+
+106
+00:08:48,000 --> 00:08:52,000
+Maybe he did the work and then he had someone else put their name on it.
+
+107
+00:08:52,000 --> 00:08:53,000
+I don't know what the story is.
+
+108
+00:08:53,000 --> 00:08:57,000
+But anyway, you might want to go and double check that.
+
+109
+00:08:57,000 --> 00:09:02,000
+So, in other words, it could very well be that when someone tells you that we're here and we ought to switch to here,
+
+110
+00:09:02,000 --> 00:09:04,000
+that they are doing what's called special pleading,
+
+111
+00:09:04,000 --> 00:09:09,000
+where they are trying to claim that what's good for them personally is actually good for society in general.
+
+112
+00:09:09,000 --> 00:09:13,000
+Like, would it all be better if we switched to Esperanto, right?
+
+113
+00:09:13,000 --> 00:09:17,000
+Usually this is going to be said by someone who is fluent in Esperanto.
+
+114
+00:09:17,000 --> 00:09:24,000
+It doesn't mean they're wrong, but it seems kind of suspicious that you would be saying that.
+
+115
+00:09:24,000 --> 00:09:28,000
+Yeah.
+
+116
+00:09:28,000 --> 00:09:30,000
+Okay.
+
+117
+00:09:30,000 --> 00:09:33,000
+And then there's another possibility, like plausible for language,
+
+118
+00:09:33,000 --> 00:09:38,000
+that maybe if we go back in time and change things and re-run history, that would be better.
+
+119
+00:09:38,000 --> 00:09:41,000
+But it could still be the case that it's so costly to do the switch that it's just not worth it.
+
+120
+00:09:41,000 --> 00:09:47,000
+So, suppose that to go from here to here, we have to pay a trillion dollar transition cost.
+
+121
+00:09:47,000 --> 00:09:55,000
+In that case, you might say, wow, it's going to take longer to recover that than the total cost savings,
+
+122
+00:09:55,000 --> 00:09:57,000
+because the human race will be extinct by then.
+
+123
+00:09:57,000 --> 00:10:02,000
+So, better off just sticking with the language that we have got.
+
+124
+00:10:02,000 --> 00:10:06,000
+Now, this example has been suggesting, has been debunked extensively.
+
+125
+00:10:06,000 --> 00:10:10,000
+So, there's two economists well known to GMU, Rodolfo Salibowicz,
+
+126
+00:10:10,000 --> 00:10:16,000
+where they said that the supposed evidence for the superiority or equality is just made up.
+
+127
+00:10:16,000 --> 00:10:18,000
+And it is striking.
+
+128
+00:10:18,000 --> 00:10:20,000
+So, a lot of these papers were done in the early 90s.
+
+129
+00:10:20,000 --> 00:10:25,000
+So, since then, you might think that if there were better keyboards out there, they would have happened,
+
+130
+00:10:25,000 --> 00:10:30,000
+because it has gotten really easy to turn any keyboard into any other keyboard.
+
+131
+00:10:30,000 --> 00:10:34,000
+I think that actually, if you right now, in five minutes, you could go to the Internet and download new drivers
+
+132
+00:10:34,000 --> 00:10:36,000
+and instantly convert your keyboard.
+
+133
+00:10:36,000 --> 00:10:38,000
+So, has anyone ever, anyone attempted to try this?
+
+134
+00:10:38,000 --> 00:10:40,000
+Has anyone tried?
+
+135
+00:10:40,000 --> 00:10:41,000
+They sell little mats.
+
+136
+00:10:41,000 --> 00:10:44,000
+I used to have a little mat with a German, and I would put it on top of my keyboard.
+
+137
+00:10:44,000 --> 00:10:47,000
+Right. Has any of you decided to do this?
+
+138
+00:10:47,000 --> 00:10:49,000
+So, you're doing this now?
+
+139
+00:10:49,000 --> 00:10:50,000
+No.
+
+140
+00:10:50,000 --> 00:10:51,000
+I'm not a German.
+
+141
+00:10:51,000 --> 00:10:52,000
+Oh, okay.
+
+142
+00:10:52,000 --> 00:10:55,000
+When you're actually in another country, where, again,
+
+143
+00:10:55,000 --> 00:10:59,000
+what would this model predict about what you're likely to do in another country?
+
+144
+00:10:59,000 --> 00:11:00,000
+Do that.
+
+145
+00:11:00,000 --> 00:11:01,000
+Yes.
+
+146
+00:11:01,000 --> 00:11:04,000
+When in Germany, do as the Germans do,
+
+147
+00:11:04,000 --> 00:11:08,000
+because then it's much easier just to conform to whatever they're doing.
+
+148
+00:11:08,000 --> 00:11:09,000
+Right.
+
+149
+00:11:09,000 --> 00:11:10,000
+Okay.
+
+150
+00:11:10,000 --> 00:11:16,000
+So, yes, and one of their big points in debunking was to say that the alleged scientific proof of the superiority of the Dvorak keyboard
+
+151
+00:11:16,000 --> 00:11:18,000
+came from the guy who invented it.
+
+152
+00:11:18,000 --> 00:11:20,000
+So, it's kind of funny to take that seriously.
+
+153
+00:11:20,000 --> 00:11:22,000
+I know. That sounds reasonable.
+
+154
+00:11:22,000 --> 00:11:24,000
+So, does this have implications for, like, Monopoly,
+
+155
+00:11:24,000 --> 00:11:29,000
+that maybe society wants a certain, like, they all want Windows, so that way you can all have Windows?
+
+156
+00:11:29,000 --> 00:11:31,000
+Oh, yeah, yeah, yeah, great point.
+
+157
+00:11:31,000 --> 00:11:35,000
+Yeah, actually, you're almost to, this is very close to the very next bullet point.
+
+158
+00:11:35,000 --> 00:11:36,000
+Okay.
+
+159
+00:11:36,000 --> 00:11:38,000
+Yes, but worth elaborating on.
+
+160
+00:11:38,000 --> 00:11:39,000
+All right.
+
+161
+00:11:39,000 --> 00:11:41,000
+So, when are these problems least likely?
+
+162
+00:11:41,000 --> 00:11:44,000
+So, how about if there's a small number of players?
+
+163
+00:11:44,000 --> 00:11:45,000
+Or Monopoly.
+
+164
+00:11:45,000 --> 00:11:46,000
+Right.
+
+165
+00:11:46,000 --> 00:11:49,000
+If there's a Monopoly, then you're unlikely to do that.
+
+166
+00:11:49,000 --> 00:11:52,000
+Or it could be there's a lot of players, but there's a few focal firms.
+
+167
+00:11:52,000 --> 00:11:54,000
+Like, there's a whole lot of Internet firms,
+
+168
+00:11:54,000 --> 00:11:59,000
+but if Google, Microsoft, and Amazon all get together at a press conference and say,
+
+169
+00:11:59,000 --> 00:12:01,000
+we are switching to some new system,
+
+170
+00:12:01,000 --> 00:12:06,000
+it is pretty likely that the rest of the computer world will follow the line.
+
+171
+00:12:06,000 --> 00:12:08,000
+Okay.
+
+172
+00:12:08,000 --> 00:12:13,000
+So, it is worth thinking about an alternate universe where there were ten different operating systems,
+
+173
+00:12:13,000 --> 00:12:18,000
+and imagine how many calls to regulation there would be saying that there's a cacophony of operating systems,
+
+174
+00:12:18,000 --> 00:12:23,000
+and we need government to go and standardize things, and the market's totally failed.
+
+175
+00:12:23,000 --> 00:12:25,000
+Right, so, you can visualize this world.
+
+176
+00:12:25,000 --> 00:12:31,000
+And then, let's see, how many of you guys are old enough to even remember the antitrust case against Microsoft?
+
+177
+00:12:31,000 --> 00:12:32,000
+Barely.
+
+178
+00:12:32,000 --> 00:12:37,000
+All right, so, you guys are falling or paying attention to antitrust news from a young age, I guess.
+
+179
+00:12:37,000 --> 00:12:39,000
+Or positive.
+
+180
+00:12:39,000 --> 00:12:41,000
+Remember means you have to actually remember what was happening.
+
+181
+00:12:41,000 --> 00:12:44,000
+It's not like you haven't heard about it later on.
+
+182
+00:12:44,000 --> 00:12:49,000
+All right, so, I should specify what it truly means to remember something.
+
+183
+00:12:49,000 --> 00:12:51,000
+You have to have been there.
+
+184
+00:12:51,000 --> 00:12:53,000
+Do I remember World War II?
+
+185
+00:12:53,000 --> 00:12:54,000
+No, I do not.
+
+186
+00:12:54,000 --> 00:12:59,000
+I don't remember World War II, although I know a lot about it, which I've read in books.
+
+187
+00:12:59,000 --> 00:13:00,000
+All right, anyway.
+
+188
+00:13:00,000 --> 00:13:08,000
+So, there was a case where Microsoft was under years of antitrust scrutiny for the Windows operating system, right,
+
+189
+00:13:08,000 --> 00:13:12,000
+and a lot of complaints about how they were monopolizing things.
+
+190
+00:13:12,000 --> 00:13:17,000
+And the striking thing about it was that if there had been a bunch of different operating systems,
+
+191
+00:13:17,000 --> 00:13:23,000
+then they would be suing Microsoft, but people might be complaining for totally different reasons.
+
+192
+00:13:23,000 --> 00:13:24,000
+All right.
+
+193
+00:13:24,000 --> 00:13:29,000
+Now, some of the most amusing remedies that were suggested for Microsoft.
+
+194
+00:13:29,000 --> 00:13:33,000
+So, back then there was a big issue that Microsoft did something really bad,
+
+195
+00:13:33,000 --> 00:13:40,000
+which is they built a browser to compete with the pre-existing monopoly browser, which anyone remember the name?
+
+196
+00:13:40,000 --> 00:13:41,000
+Netscape.
+
+197
+00:13:41,000 --> 00:13:45,000
+So, there was Netscape, which had a very dominant market share,
+
+198
+00:13:45,000 --> 00:13:50,000
+and then Microsoft built into its existing Windows operating system the Internet Explorer browser to compete.
+
+199
+00:13:50,000 --> 00:13:51,000
+Best browser.
+
+200
+00:13:51,000 --> 00:13:53,000
+Yes. Yes.
+
+201
+00:13:53,000 --> 00:13:55,000
+All right.
+
+202
+00:13:55,000 --> 00:13:57,000
+So, Internet Explorer.
+
+203
+00:13:57,000 --> 00:14:04,000
+And then one of the proposed remedies that was suggested, which I think Microsoft refused,
+
+204
+00:14:04,000 --> 00:14:12,000
+is they said, look, we'll settle this case if you just agree to delete the icon, not the browser itself.
+
+205
+00:14:12,000 --> 00:14:17,000
+They wanted them to delete the icon so that in order to get actually access Internet Explorer,
+
+206
+00:14:17,000 --> 00:14:23,000
+you would have to go and fiddle with the preferences to recreate the icon.
+
+207
+00:14:23,000 --> 00:14:32,000
+So, this is the idea of a way that we go and make things better for consumers is to require people like my parents to install an icon.
+
+208
+00:14:32,000 --> 00:14:39,000
+So, again, it makes total sense that Netscape wanted to protect its monopoly, which, as you may have heard, it lost.
+
+209
+00:14:39,000 --> 00:14:42,000
+How is Internet Explorer doing these days?
+
+210
+00:14:42,000 --> 00:14:45,000
+Also not doing too well.
+
+211
+00:14:45,000 --> 00:14:52,000
+And then there is another firm that Microsoft, Microsoft itself, which is Google, right?
+
+212
+00:14:52,000 --> 00:15:00,000
+They did, you know, known for the search engine, but came along and offered a free browser.
+
+213
+00:15:00,000 --> 00:15:01,000
+All right.
+
+214
+00:15:01,000 --> 00:15:10,000
+So, by the way, one interesting thing to consider when you're ever thinking about predation is that there's almost no economic model that I've ever heard of
+
+215
+00:15:10,000 --> 00:15:14,000
+for companies that just give away stuff for free forever.
+
+216
+00:15:14,000 --> 00:15:17,000
+But this is a great deal of the Internet economy.
+
+217
+00:15:17,000 --> 00:15:22,000
+So, in a way, if you ever wanted a clearer case of predation, you think it would be that.
+
+218
+00:15:22,000 --> 00:15:30,000
+As to how in the world this is continuing, the obvious story is they're getting advertising revenue and that the customers are not, you know,
+
+219
+00:15:30,000 --> 00:15:32,000
+the customers are just different people than you think they are.
+
+220
+00:15:32,000 --> 00:15:34,000
+You're not the customer.
+
+221
+00:15:34,000 --> 00:15:39,000
+The customers are the people that are going and paying Google for advertisements and things like that.
+
+222
+00:15:39,000 --> 00:15:45,000
+Although, once you think about it that way, you say, rather than Google having a monopoly over search engines,
+
+223
+00:15:45,000 --> 00:15:50,000
+it has a small share of the market for advertising.
+
+224
+00:15:50,000 --> 00:15:55,000
+And then it's very unclear what the problem is supposed to be.
+
+225
+00:15:55,000 --> 00:15:56,000
+All right.
+
+226
+00:15:56,000 --> 00:15:57,000
+Okay.
+
+227
+00:15:57,000 --> 00:15:58,000
+So, questions?
+
+228
+00:15:58,000 --> 00:16:00,000
+Anyone wondering about this?
+
+229
+00:16:00,000 --> 00:16:01,000
+Anyone happy?
+
+230
+00:16:01,000 --> 00:16:02,000
+All right.
+
+231
+00:16:02,000 --> 00:16:12,000
+One of my favorite stories of coordination is when Bill Clinton had one of his people on trial for perjury or, you know, perjury or obstruction of justice.
+
+232
+00:16:12,000 --> 00:16:14,000
+He was an obstruction of justice.
+
+233
+00:16:14,000 --> 00:16:18,000
+There was a juror who showed up every day in a storage ranking uniform, and this was news.
+
+234
+00:16:18,000 --> 00:16:22,000
+This news was almost as big as the news about the trial itself.
+
+235
+00:16:22,000 --> 00:16:24,000
+So, again, because it was not, of course, Clinton on trial.
+
+236
+00:16:24,000 --> 00:16:31,000
+It was one of his underlings, a far underling, who went to jail for him.
+
+237
+00:16:31,000 --> 00:16:32,000
+All right.
+
+238
+00:16:32,000 --> 00:16:33,000
+Okay.
+
+239
+00:16:33,000 --> 00:16:34,000
+So, people happy?
+
+240
+00:16:34,000 --> 00:16:35,000
+All right.
+
+241
+00:16:35,000 --> 00:16:37,000
+So, yes.
+
+242
+00:16:37,000 --> 00:16:45,000
+I mean, I understand probably you're very sad you won't be seeing me for three weeks after this, but still, we'll try to enjoy our time together.
+
+243
+00:16:45,000 --> 00:16:48,000
+What era of Star Trek uniform?
+
+244
+00:16:48,000 --> 00:16:50,000
+I believe it was the 1960s original.
+
+245
+00:16:50,000 --> 00:16:52,000
+Oh, the original one.
+
+246
+00:16:52,000 --> 00:16:54,000
+Yeah, that's from the original.
+
+247
+00:16:54,000 --> 00:16:56,000
+All right.
+
+248
+00:16:56,000 --> 00:16:57,000
+So, moving on.
+
+249
+00:16:57,000 --> 00:16:58,000
+All right.
+
+250
+00:16:58,000 --> 00:17:00,000
+So, now let's go look at a model of bargaining.
+
+251
+00:17:00,000 --> 00:17:04,000
+With bargaining, let's say that we've got two strategies here, hard and soft.
+
+252
+00:17:04,000 --> 00:17:07,000
+Hard and soft.
+
+253
+00:17:07,000 --> 00:17:15,000
+Obviously, we could have a continuum, but we can get most of the lessons just from thinking about there being just two bargaining strategies.
+
+254
+00:17:15,000 --> 00:17:17,000
+Okay.
+
+255
+00:17:17,000 --> 00:17:21,000
+And then, key point, if both players bargain hard, then there's no deal.
+
+256
+00:17:21,000 --> 00:17:22,000
+Right?
+
+257
+00:17:22,000 --> 00:17:25,000
+Like if both say, I want two-thirds of the surplus, then there's no deal.
+
+258
+00:17:25,000 --> 00:17:26,000
+Right?
+
+259
+00:17:26,000 --> 00:17:34,000
+On the other hand, if one bargains hard and one bargains soft, then the one who bargains hard gets a good deal, the one who bargains soft gets a bad deal.
+
+260
+00:17:34,000 --> 00:17:35,000
+Right?
+
+261
+00:17:35,000 --> 00:17:41,000
+And then, last of all, say they both bargain soft, but they reach a deal, and the sum payoffs are higher.
+
+262
+00:17:41,000 --> 00:17:51,000
+And why would you think that the sum payoffs from everyone being nice would be higher than from one person being aggressive and one being wimpy?
+
+263
+00:17:51,000 --> 00:17:52,000
+What might the intuition be?
+
+264
+00:17:52,000 --> 00:18:03,000
+Well, can you think about people who you know and with whom you deal amicably versus not so amicably?
+
+265
+00:18:03,000 --> 00:18:05,000
+You choose to deal with them more so.
+
+266
+00:18:05,000 --> 00:18:06,000
+Yeah.
+
+267
+00:18:06,000 --> 00:18:07,000
+This is not a repeated game.
+
+268
+00:18:07,000 --> 00:18:16,000
+So, I think about the experience of dealing with one purchase where it's amicable versus our bargains.
+
+269
+00:18:16,000 --> 00:18:19,000
+Getting a bad deal is better than proposing a good deal.
+
+270
+00:18:19,000 --> 00:18:20,000
+Yeah.
+
+271
+00:18:20,000 --> 00:18:22,000
+That's right.
+
+272
+00:18:22,000 --> 00:18:25,000
+Why would the sum payoffs here be better than the sum payoffs there?
+
+273
+00:18:25,000 --> 00:18:26,000
+Yeah.
+
+274
+00:18:26,000 --> 00:18:27,000
+Is it just because the deal is more pleasant?
+
+275
+00:18:27,000 --> 00:18:28,000
+Yeah, yeah, yes.
+
+276
+00:18:28,000 --> 00:18:31,000
+You don't burn up resources fighting with each other.
+
+277
+00:18:31,000 --> 00:18:38,000
+So, if there's a big dispute and someone makes a big deal about it, then you're suing them.
+
+278
+00:18:38,000 --> 00:18:40,000
+You may just burn up time, for example.
+
+279
+00:18:40,000 --> 00:18:42,000
+So, if everyone's soft, then it's like, oh, great.
+
+280
+00:18:42,000 --> 00:18:43,000
+All right, fine.
+
+281
+00:18:43,000 --> 00:18:44,000
+You were nice.
+
+282
+00:18:44,000 --> 00:18:49,000
+Whereas if one person bargains hard and another person bargains soft, then Barbara's like, I want this, and I want this, and I want this.
+
+283
+00:18:49,000 --> 00:18:51,000
+And the soft bargain's like, gee, really?
+
+284
+00:18:51,000 --> 00:18:52,000
+You have to have all those things?
+
+285
+00:18:52,000 --> 00:18:53,000
+Yes.
+
+286
+00:18:53,000 --> 00:18:54,000
+Uh-huh.
+
+287
+00:18:54,000 --> 00:18:55,000
+Uh-huh.
+
+288
+00:18:55,000 --> 00:18:56,000
+Yes.
+
+289
+00:18:56,000 --> 00:18:57,000
+All right.
+
+290
+00:18:57,000 --> 00:18:59,000
+So, you burn up some resources that way.
+
+291
+00:18:59,000 --> 00:19:00,000
+Okay.
+
+292
+00:19:00,000 --> 00:19:01,000
+All right.
+
+293
+00:19:01,000 --> 00:19:02,000
+Now, notice.
+
+294
+00:19:02,000 --> 00:19:06,000
+So, here we've got our two-tier strategy in hash equilibrium, right?
+
+295
+00:19:06,000 --> 00:19:10,000
+But we also have a mixed strategy in hash equilibrium.
+
+296
+00:19:10,000 --> 00:19:16,000
+And, again, since I've set this up as a totally symmetric game, then a general good guess
+
+297
+00:19:16,000 --> 00:19:19,000
+at everything symmetric is that there's two possibilities.
+
+298
+00:19:19,000 --> 00:19:22,000
+It is that the mixed strategy in hash equilibrium will be?
+
+299
+00:19:22,000 --> 00:19:25,000
+Yeah, 1-half, 1-half, or 0.5, 0.5, 0.5.
+
+300
+00:19:25,000 --> 00:19:27,000
+All right, so 0.5, 0.5.
+
+301
+00:19:27,000 --> 00:19:28,000
+All right.
+
+302
+00:19:28,000 --> 00:19:32,000
+And so, this is a very interesting one.
+
+303
+00:19:32,000 --> 00:19:35,000
+So, one thing is that if you plug in some numbers, you notice that it's stable.
+
+304
+00:19:35,000 --> 00:19:37,000
+What does it mean?
+
+305
+00:19:37,000 --> 00:19:44,000
+Well, you'll see that if you go up to 51% hard, then there's a higher expected payoff for playing soft.
+
+306
+00:19:44,000 --> 00:19:51,000
+If you go down to 49% hard, then there's a higher payoff to playing hard.
+
+307
+00:19:51,000 --> 00:19:52,000
+All right.
+
+308
+00:19:52,000 --> 00:20:00,000
+So, it's stable in that if you deviate a little bit from the equilibrium, then people want to switch to the opposite.
+
+

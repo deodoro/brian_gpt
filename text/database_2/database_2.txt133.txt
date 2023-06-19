@@ -1,0 +1,4 @@
+4.  True, False, and Explain:  Results from Caplan ("Systematically Biased Beliefs About Economics") suggest that the general public is no more sympathetic to the signaling model of education than Ph.D. economists.
+
+False. We can see that economists think that inadequate education and job training is more of a problem than the public, but the difference is very slight (.05.) If anything, the evidence suggests that the public are a little more sympathetic to the signaling model - if you cleave to the pure signaling model, you believe there is TOO MUCH spending on education, not an inadequate amount. However, there is no way to tell if this is why the public is slightly more skeptical about education being inadequate, and may be unlikely since the average person does not know much about social science.
+

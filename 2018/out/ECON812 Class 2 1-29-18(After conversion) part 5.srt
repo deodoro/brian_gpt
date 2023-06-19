@@ -1,0 +1,2013 @@
+1
+00:00:00,000 --> 00:00:01,380
+want to consume more than exists.
+
+2
+00:00:01,380 --> 00:00:02,560
+You can get the doubt that they will consume it,
+
+3
+00:00:02,560 --> 00:00:04,380
+that they want to consume more than exists.
+
+4
+00:00:04,380 --> 00:00:07,380
+So there's got to be a price so astronomical that people say,
+
+5
+00:00:07,380 --> 00:00:10,380
+fine, we're going to consume less than actually exists.
+
+6
+00:00:10,380 --> 00:00:12,100
+There's got to be a price low enough
+
+7
+00:00:12,100 --> 00:00:14,420
+that people will say we want to consume more than actually
+
+8
+00:00:14,420 --> 00:00:15,780
+exists.
+
+9
+00:00:15,780 --> 00:00:18,260
+And then last, we just need the total demand function for k.
+
+10
+00:00:18,260 --> 00:00:23,340
+Is it got to be continuous for all prices between 0 and 1?
+
+11
+00:00:23,340 --> 00:00:26,020
+And now, amazingly, we're done.
+
+12
+00:00:26,020 --> 00:00:28,540
+So how do we actually prove the theorem?
+
+13
+00:00:28,540 --> 00:00:30,220
+Well, there's the special case.
+
+14
+00:00:30,220 --> 00:00:33,460
+If it is a two commodity world, then there
+
+15
+00:00:33,460 --> 00:00:35,100
+is a theorem you may actually remember
+
+16
+00:00:35,100 --> 00:00:37,940
+from calculus called the intermediate value theorem.
+
+17
+00:00:37,940 --> 00:00:40,100
+This is basically like a Goldilocks theorem
+
+18
+00:00:40,100 --> 00:00:43,180
+where it says, look, if sometimes it's too hot
+
+19
+00:00:43,180 --> 00:00:44,700
+and sometimes it's too cold, there
+
+20
+00:00:44,700 --> 00:00:47,980
+must be a point at which it is just right.
+
+21
+00:00:47,980 --> 00:00:51,140
+And that's if there's a continuum of porridge
+
+22
+00:00:51,140 --> 00:00:54,940
+temperatures, then there must be a bowl of porridge
+
+23
+00:00:54,940 --> 00:00:57,020
+at a temperature that is exactly right.
+
+24
+00:00:57,020 --> 00:00:59,180
+So that is the intermediate value theorem.
+
+25
+00:00:59,180 --> 00:01:01,740
+So if it can be too high, too low, it's continuous,
+
+26
+00:01:01,740 --> 00:01:05,260
+then you can prove that there must be a point where
+
+27
+00:01:05,260 --> 00:01:08,420
+you cross whatever threshold that you specifically
+
+28
+00:01:08,420 --> 00:01:10,820
+are concerned about.
+
+29
+00:01:10,820 --> 00:01:13,180
+Now, what about the k commodity world,
+
+30
+00:01:13,180 --> 00:01:15,220
+just an arbitrary number?
+
+31
+00:01:15,220 --> 00:01:18,340
+Well, here there is something in topology called Brouwer's fixed
+
+32
+00:01:18,340 --> 00:01:20,020
+point theorem.
+
+33
+00:01:20,020 --> 00:01:22,460
+Brouwer's fixed point theorem.
+
+34
+00:01:22,460 --> 00:01:24,380
+And we're not going to go into what it is,
+
+35
+00:01:24,380 --> 00:01:26,380
+but you invoke this theorem.
+
+36
+00:01:26,380 --> 00:01:28,940
+And we have actually used all the assumptions
+
+37
+00:01:28,940 --> 00:01:33,300
+that we need to shoehorn the economy into this famous theorem
+
+38
+00:01:33,300 --> 00:01:34,660
+in topology.
+
+39
+00:01:34,660 --> 00:01:39,500
+Now, I tell you, I actually got to watch Gerard Dubrow, who
+
+40
+00:01:39,500 --> 00:01:42,020
+is, together with Arrow, proved the existence
+
+41
+00:01:42,020 --> 00:01:44,500
+of general equilibrium using Brouwer's fixed point theorem.
+
+42
+00:01:44,500 --> 00:01:46,340
+So I actually got to be in a class with him
+
+43
+00:01:46,340 --> 00:01:48,820
+where he went and did his own proof.
+
+44
+00:01:48,820 --> 00:01:51,540
+And it went on for 90 minutes.
+
+45
+00:01:51,540 --> 00:01:54,260
+And he was the famous Nobel Prize winner.
+
+46
+00:01:54,260 --> 00:01:55,820
+And then after he finished with it,
+
+47
+00:01:55,820 --> 00:01:58,820
+he was so proud of himself, as proud as only a Frenchman
+
+48
+00:01:58,820 --> 00:01:59,700
+could be of himself.
+
+49
+00:01:59,700 --> 00:02:02,140
+And then he finished with it.
+
+50
+00:02:02,140 --> 00:02:05,980
+And then he finished with it.
+
+51
+00:02:05,980 --> 00:02:08,300
+And my aunt shot up and said, well,
+
+52
+00:02:08,300 --> 00:02:11,060
+but didn't you just assume that the economy fits
+
+53
+00:02:11,060 --> 00:02:12,700
+the assumptions of another theorem
+
+54
+00:02:12,700 --> 00:02:13,700
+proved by somebody else?
+
+55
+00:02:13,700 --> 00:02:15,340
+What's so great about that?
+
+56
+00:02:15,340 --> 00:02:17,180
+Oh, I did something much better than that.
+
+57
+00:02:17,180 --> 00:02:30,820
+So he never convinced me he had done anything that much better
+
+58
+00:02:30,820 --> 00:02:31,340
+than that.
+
+59
+00:02:31,340 --> 00:02:36,980
+And I still stick to my view that that was a bad Nobel.
+
+60
+00:02:36,980 --> 00:02:39,580
+But obviously, I'm in the minority here.
+
+61
+00:02:39,580 --> 00:02:41,900
+And a lot of people thought this was freaking brilliant.
+
+62
+00:02:41,900 --> 00:02:45,820
+So I saw him walk through his own theorem.
+
+63
+00:02:45,820 --> 00:02:47,820
+And he said, here's Brown's fixed point theorem.
+
+64
+00:02:47,820 --> 00:02:48,580
+Here's what I did.
+
+65
+00:02:48,580 --> 00:02:50,300
+And they're like, what you're doing
+
+66
+00:02:50,300 --> 00:02:53,060
+is just making assumptions until it works.
+
+67
+00:02:53,060 --> 00:02:55,100
+It's all reverse engineering.
+
+68
+00:02:55,100 --> 00:02:57,100
+I said, no.
+
+69
+00:02:57,100 --> 00:02:59,980
+It's much deeper.
+
+70
+00:02:59,980 --> 00:03:01,620
+All right.
+
+71
+00:03:01,620 --> 00:03:04,620
+My take is I was right then.
+
+72
+00:03:04,620 --> 00:03:05,940
+I'm still right now.
+
+73
+00:03:05,940 --> 00:03:09,220
+And yes, he did something.
+
+74
+00:03:09,220 --> 00:03:11,940
+But it's not really that great.
+
+75
+00:03:11,940 --> 00:03:15,300
+It's a sad world where that's worth a Nobel Prize.
+
+76
+00:03:15,300 --> 00:03:16,740
+Anyway.
+
+77
+00:03:16,740 --> 00:03:19,420
+But just to give you intuition, so what does Brouwer's fixed
+
+78
+00:03:19,420 --> 00:03:20,140
+point theorem say?
+
+79
+00:03:20,140 --> 00:03:22,180
+Or what does any fixed point theorem say?
+
+80
+00:03:22,180 --> 00:03:22,780
+All right.
+
+81
+00:03:22,780 --> 00:03:24,660
+So mathematically, the idea is you
+
+82
+00:03:24,660 --> 00:03:28,380
+want to prove conditions under which there is some f of x
+
+83
+00:03:28,380 --> 00:03:30,340
+that is equal to x.
+
+84
+00:03:30,340 --> 00:03:32,540
+Some f of x that is equal to x.
+
+85
+00:03:32,540 --> 00:03:34,740
+Now intuitively, think about this.
+
+86
+00:03:34,740 --> 00:03:36,540
+Suppose you look at a globe.
+
+87
+00:03:36,540 --> 00:03:43,100
+And I were to say, show me where on this globe the globe is.
+
+88
+00:03:43,100 --> 00:03:45,340
+And you would go and take your little pen and say,
+
+89
+00:03:45,340 --> 00:03:46,860
+it's right there in Fairfax.
+
+90
+00:03:46,860 --> 00:03:50,900
+The globe is right there on the globe.
+
+91
+00:03:50,900 --> 00:03:51,740
+Or it could be a map.
+
+92
+00:03:51,740 --> 00:03:56,780
+And you could say, all right, where on this map are we,
+
+93
+00:03:56,780 --> 00:03:58,740
+the people holding the map?
+
+94
+00:03:58,740 --> 00:04:00,220
+And again, you could say, all right,
+
+95
+00:04:00,220 --> 00:04:02,380
+we're right there, right there.
+
+96
+00:04:02,380 --> 00:04:04,940
+Now first, you might say, well, isn't there always
+
+97
+00:04:04,940 --> 00:04:06,860
+a place on the globe where the globe is,
+
+98
+00:04:06,860 --> 00:04:08,480
+or a place on the map where the map is?
+
+99
+00:04:08,480 --> 00:04:09,460
+And the answer is no.
+
+100
+00:04:09,460 --> 00:04:11,980
+Suppose that we were on the moon holding
+
+101
+00:04:11,980 --> 00:04:13,260
+the globe of the Earth.
+
+102
+00:04:13,260 --> 00:04:16,860
+And you say, where on the surface of this globe are we?
+
+103
+00:04:16,860 --> 00:04:18,700
+We're not there.
+
+104
+00:04:18,700 --> 00:04:20,180
+We're in a totally different place.
+
+105
+00:04:20,180 --> 00:04:23,100
+There's no place on this globe of Earth
+
+106
+00:04:23,100 --> 00:04:26,380
+where we moonwalkers are.
+
+107
+00:04:26,380 --> 00:04:28,900
+And that is a case where there would not be a fixed point.
+
+108
+00:04:28,900 --> 00:04:31,620
+So a fixed point would be if you could show where
+
+109
+00:04:31,620 --> 00:04:34,740
+the map is on the map itself, or where the globe is positioned
+
+110
+00:04:34,740 --> 00:04:36,540
+on the globe itself.
+
+111
+00:04:36,540 --> 00:04:38,060
+And the nonexistence of a fixed point
+
+112
+00:04:38,060 --> 00:04:41,420
+would be one where you are on the surface of the moon
+
+113
+00:04:41,420 --> 00:04:42,460
+with a globe of Earth.
+
+114
+00:04:42,460 --> 00:04:43,740
+And you're asked where you are.
+
+115
+00:04:43,740 --> 00:04:45,540
+And usually you say, it doesn't exist here.
+
+116
+00:04:45,540 --> 00:04:47,340
+There is no such place here.
+
+117
+00:04:47,340 --> 00:04:49,820
+And of course, if you are in the United States looking
+
+118
+00:04:49,820 --> 00:04:52,300
+at a map of Europe, where's America on this map?
+
+119
+00:04:52,300 --> 00:04:53,500
+America's not on this map.
+
+120
+00:04:53,500 --> 00:04:55,300
+Not anywhere.
+
+121
+00:04:55,300 --> 00:04:58,180
+So that is the idea of a fixed point.
+
+122
+00:04:58,180 --> 00:04:59,860
+Another analogy that's often used
+
+123
+00:04:59,860 --> 00:05:03,060
+is suppose there's a mountain with a path.
+
+124
+00:05:03,060 --> 00:05:05,980
+It's winding, but it never actually reverses.
+
+125
+00:05:05,980 --> 00:05:08,220
+So it always is going down.
+
+126
+00:05:08,220 --> 00:05:10,020
+Or of course, from the bottom point of view,
+
+127
+00:05:10,020 --> 00:05:10,940
+it's always going up.
+
+128
+00:05:10,940 --> 00:05:12,380
+And one person starts at the top.
+
+129
+00:05:12,380 --> 00:05:13,940
+One person starts at the bottom.
+
+130
+00:05:13,940 --> 00:05:16,740
+Can we be sure that they will meet each other?
+
+131
+00:05:16,740 --> 00:05:18,700
+And if we've set it up right, then there
+
+132
+00:05:18,700 --> 00:05:21,300
+is a fixed point where they will cross for sure.
+
+133
+00:05:21,300 --> 00:05:23,140
+On the other hand, what if one of them
+
+134
+00:05:23,140 --> 00:05:25,340
+is skiing down the mountain, and another one
+
+135
+00:05:25,340 --> 00:05:27,380
+is taking a funicular to the top?
+
+136
+00:05:27,380 --> 00:05:29,140
+They might never cross.
+
+137
+00:05:29,140 --> 00:05:31,020
+And again, that would be the case where there
+
+138
+00:05:31,020 --> 00:05:34,180
+is an absence of a fixed point.
+
+139
+00:05:34,180 --> 00:05:36,460
+So that's the intuition behind what these fixed point
+
+140
+00:05:36,460 --> 00:05:37,700
+theorems are all about.
+
+141
+00:05:37,700 --> 00:05:39,100
+If you're curious, of course, you
+
+142
+00:05:39,100 --> 00:05:41,380
+can go and read an enormous amount of math
+
+143
+00:05:41,380 --> 00:05:42,700
+about it for general discussion.
+
+144
+00:05:42,700 --> 00:05:43,820
+We're not going to do that.
+
+145
+00:05:43,820 --> 00:05:46,580
+I'll just tell you that at the crucial moment,
+
+146
+00:05:46,580 --> 00:05:49,900
+Gerard de Brul invoked the Brouwer's fixed point theorem.
+
+147
+00:05:49,900 --> 00:05:52,140
+And then there's another one that's even more general,
+
+148
+00:05:52,140 --> 00:05:54,580
+called the Coccatani's fixed point theorem.
+
+149
+00:05:54,580 --> 00:05:56,580
+If this is all more than you ever want to know,
+
+150
+00:05:56,580 --> 00:05:57,300
+then well, good.
+
+151
+00:05:57,300 --> 00:05:58,860
+I'm never going to tell you anymore.
+
+152
+00:05:58,860 --> 00:06:01,300
+But if you want to learn more, on the other hand, bad news,
+
+153
+00:06:01,300 --> 00:06:04,660
+because you'll have to pursue this on your own.
+
+154
+00:06:04,660 --> 00:06:08,220
+OK, so questions about how this works?
+
+155
+00:06:08,220 --> 00:06:08,720
+Yes?
+
+156
+00:06:08,720 --> 00:06:12,820
+Unrelated, but sort of related, what do you mean by topology?
+
+157
+00:06:12,820 --> 00:06:14,420
+Topology is a branch of mathematics
+
+158
+00:06:14,420 --> 00:06:17,460
+concerned with things like fixed point theorems.
+
+159
+00:06:17,460 --> 00:06:21,500
+So again, you read the Wikipedia article on what topology is.
+
+160
+00:06:21,500 --> 00:06:23,860
+Again, honestly, the only topology that I know
+
+161
+00:06:23,860 --> 00:06:28,460
+is the very topology that I had to learn for this very class.
+
+162
+00:06:28,460 --> 00:06:30,100
+But basically, it's the mathematics
+
+163
+00:06:30,100 --> 00:06:33,180
+of shapes and spaces.
+
+164
+00:06:33,180 --> 00:06:35,500
+Again, I couldn't give you any better description of it
+
+165
+00:06:35,500 --> 00:06:38,940
+than that, but there is a much more precise story
+
+166
+00:06:38,940 --> 00:06:41,540
+about what it is.
+
+167
+00:06:41,540 --> 00:06:44,660
+Now, another question is, how do you get to these fixed points?
+
+168
+00:06:44,660 --> 00:06:46,820
+So in general equilibrium theory,
+
+169
+00:06:46,820 --> 00:06:49,980
+they usually focus on Mooraisian auctioneers.
+
+170
+00:06:49,980 --> 00:06:52,580
+This is the idea that there's just some person who
+
+171
+00:06:52,580 --> 00:06:54,940
+looks around the world, and any time there's excess demand
+
+172
+00:06:54,940 --> 00:06:56,140
+for something, he raises its price.
+
+173
+00:06:56,140 --> 00:06:58,440
+And any time there's excess supply, he lowers its price.
+
+174
+00:06:58,440 --> 00:07:00,300
+And he does this in a continuous way,
+
+175
+00:07:00,300 --> 00:07:02,540
+using a very nice blue function.
+
+176
+00:07:02,540 --> 00:07:04,340
+And in this way, the economy gets
+
+177
+00:07:04,340 --> 00:07:06,660
+to the equilibrium price vector.
+
+178
+00:07:06,660 --> 00:07:08,780
+There is a whole literature where Austrians talk
+
+179
+00:07:08,780 --> 00:07:13,100
+about how terrible this is, and how awful general equilibrium
+
+180
+00:07:13,100 --> 00:07:15,900
+theory is for dodging this great point.
+
+181
+00:07:15,900 --> 00:07:17,700
+Because of course, is there actually
+
+182
+00:07:17,700 --> 00:07:20,140
+an auctioneer in the real world generally?
+
+183
+00:07:20,140 --> 00:07:20,900
+No.
+
+184
+00:07:20,900 --> 00:07:22,660
+Sometimes in financial markets, there
+
+185
+00:07:22,660 --> 00:07:24,660
+will be a market maker who is actually
+
+186
+00:07:24,660 --> 00:07:26,580
+a lot like a Mooraisian auctioneer.
+
+187
+00:07:26,580 --> 00:07:28,060
+But then in a lot of other markets,
+
+188
+00:07:28,060 --> 00:07:29,580
+there's nobody like that.
+
+189
+00:07:29,580 --> 00:07:32,340
+So this is a bit of a puzzle.
+
+190
+00:07:32,340 --> 00:07:34,180
+We'll discuss some alternatives later on.
+
+191
+00:07:34,180 --> 00:07:35,540
+Of course, the really obvious one
+
+192
+00:07:35,540 --> 00:07:39,060
+is that usually, sellers just set their own price.
+
+193
+00:07:39,060 --> 00:07:41,260
+And usually, we don't have perfect competition.
+
+194
+00:07:41,260 --> 00:07:43,020
+So the fact that you set a different price
+
+195
+00:07:43,020 --> 00:07:45,180
+for a competitor does not mean that you will either
+
+196
+00:07:45,180 --> 00:07:47,980
+sell an infinite amount or zero.
+
+197
+00:07:47,980 --> 00:07:50,480
+Like, have you ever noticed that you want to sell something
+
+198
+00:07:50,480 --> 00:07:52,940
+on, say, eBay, and then you charge a price a little bit
+
+199
+00:07:52,940 --> 00:07:56,860
+higher than other people, and you still sell it?
+
+200
+00:07:56,860 --> 00:07:59,260
+In perfect competition, that would never happen.
+
+201
+00:07:59,260 --> 00:08:00,740
+Or have you ever noticed that you
+
+202
+00:08:00,740 --> 00:08:01,980
+say I'm willing to work for a little bit less
+
+203
+00:08:01,980 --> 00:08:03,580
+than other people, and then you don't
+
+204
+00:08:03,580 --> 00:08:07,420
+find that you receive a trillion job offers?
+
+205
+00:08:07,420 --> 00:08:09,740
+And again, that's not what perfect competition predicts.
+
+206
+00:08:09,740 --> 00:08:11,240
+Perfect competition says that if you
+
+207
+00:08:11,240 --> 00:08:14,860
+offer to work for a penny less than equally qualified workers,
+
+208
+00:08:14,860 --> 00:08:18,100
+everyone in the world will come and try to hire you.
+
+209
+00:08:18,100 --> 00:08:20,700
+So far, I don't know of anyone, no matter how successful,
+
+210
+00:08:20,700 --> 00:08:24,300
+has been offered a job by everyone in the world.
+
+211
+00:08:24,300 --> 00:08:25,540
+OK.
+
+212
+00:08:25,540 --> 00:08:28,140
+All right, so questions about this?
+
+213
+00:08:28,140 --> 00:08:29,380
+Happy?
+
+214
+00:08:29,380 --> 00:08:30,140
+All right.
+
+215
+00:08:30,140 --> 00:08:31,300
+So now we're going to do something
+
+216
+00:08:31,300 --> 00:08:33,020
+which I think will actually enhance your understanding
+
+217
+00:08:33,020 --> 00:08:34,420
+of what we just done.
+
+218
+00:08:34,420 --> 00:08:36,220
+And this was never done for me.
+
+219
+00:08:36,220 --> 00:08:38,900
+So I had to wait years before I actually achieved
+
+220
+00:08:38,900 --> 00:08:40,340
+this higher level of insight.
+
+221
+00:08:40,340 --> 00:08:44,660
+So when would a general equilibrium not exist?
+
+222
+00:08:44,660 --> 00:08:46,100
+It's all well and good to go and say
+
+223
+00:08:46,100 --> 00:08:49,420
+we proved the existence of general equilibrium,
+
+224
+00:08:49,420 --> 00:08:50,880
+and we have a bunch of assumptions.
+
+225
+00:08:50,880 --> 00:08:53,180
+But if you don't understand why the assumptions matter,
+
+226
+00:08:53,180 --> 00:08:55,700
+then I would still say that you're pretty much in the dark
+
+227
+00:08:55,700 --> 00:08:57,740
+and don't have any intuition for what's going on.
+
+228
+00:08:57,740 --> 00:09:01,700
+So rather than going into great detail
+
+229
+00:09:01,700 --> 00:09:03,380
+on what the fixed point theorems are,
+
+230
+00:09:03,380 --> 00:09:05,060
+I'm going to go and try to explain to you
+
+231
+00:09:05,060 --> 00:09:08,900
+why the different assumptions actually make a difference.
+
+232
+00:09:08,900 --> 00:09:12,980
+So here's some counter examples where general equilibrium would
+
+233
+00:09:12,980 --> 00:09:14,660
+not, in fact, exist.
+
+234
+00:09:14,660 --> 00:09:16,060
+All right, first big one.
+
+235
+00:09:16,060 --> 00:09:17,780
+Lexicographic preferences.
+
+236
+00:09:17,780 --> 00:09:20,300
+So you guys remember hearing about lexicographic preferences
+
+237
+00:09:20,300 --> 00:09:21,420
+at some point?
+
+238
+00:09:21,420 --> 00:09:24,740
+So in the dictionary, when you are alphabetizing words,
+
+239
+00:09:24,740 --> 00:09:29,860
+suppose that there is a word that is like AZZZZZZZZ.
+
+240
+00:09:29,860 --> 00:09:30,940
+That's a word.
+
+241
+00:09:30,940 --> 00:09:33,740
+All right, now does the fact that it has a bunch of Z's
+
+242
+00:09:33,740 --> 00:09:36,660
+mean that it gets moved later in the dictionary
+
+243
+00:09:36,660 --> 00:09:42,300
+than a word that has, that's like ABBA?
+
+244
+00:09:42,300 --> 00:09:44,500
+All right, where the average letter in ABBA
+
+245
+00:09:44,500 --> 00:09:47,900
+is way closer to A than the average letter in A
+
+246
+00:09:47,900 --> 00:09:49,780
+with 10 Z's on it, right?
+
+247
+00:09:49,780 --> 00:09:53,660
+Now, in dictionaries, we use a lexicographic order
+
+248
+00:09:53,660 --> 00:09:55,740
+where we first look at the first letter
+
+249
+00:09:55,740 --> 00:09:57,340
+and organize everything that way.
+
+250
+00:09:57,340 --> 00:09:58,340
+Then we look at the second letter
+
+251
+00:09:58,340 --> 00:09:59,740
+and organize everything that way.
+
+252
+00:09:59,740 --> 00:10:01,420
+Then we look at the third letter and organize everything
+
+253
+00:10:01,420 --> 00:10:02,700
+that way, right?
+
+254
+00:10:02,700 --> 00:10:06,380
+And this way, we proceed with a clear priority.
+
+255
+00:10:06,380 --> 00:10:08,260
+First letter is absolute priority
+
+256
+00:10:08,260 --> 00:10:10,860
+unless the first letter of two words is the same.
+
+257
+00:10:10,860 --> 00:10:12,300
+Then we look at the second letter.
+
+258
+00:10:12,300 --> 00:10:13,220
+If the second letter is the same,
+
+259
+00:10:13,220 --> 00:10:14,100
+we look at the third letter.
+
+260
+00:10:14,100 --> 00:10:15,980
+If the third letter is the same, we look at the fourth letter.
+
+261
+00:10:15,980 --> 00:10:18,220
+That's the way that we alphabetize things.
+
+262
+00:10:18,220 --> 00:10:20,860
+Imagine then that someone had preferences for consumption
+
+263
+00:10:20,860 --> 00:10:23,660
+this way where they said, look, if there's two bundles
+
+264
+00:10:23,660 --> 00:10:26,620
+and one has more X, I always choose the one with more X.
+
+265
+00:10:26,620 --> 00:10:28,460
+If they have equal X, then I choose the one
+
+266
+00:10:28,460 --> 00:10:29,820
+with it that has more Y.
+
+267
+00:10:29,820 --> 00:10:31,540
+If they have equal X and equal Y,
+
+268
+00:10:31,540 --> 00:10:33,700
+then I choose the one that has more C, and so on.
+
+269
+00:10:33,700 --> 00:10:36,620
+That is what lexicographic preferences mean.
+
+270
+00:10:36,620 --> 00:10:40,580
+All right, now, if someone has lexicographic preferences,
+
+271
+00:10:40,580 --> 00:10:42,740
+then it is easy to prove, or maybe it
+
+272
+00:10:42,740 --> 00:10:45,940
+can be proven anyway, that they cannot have any utility
+
+273
+00:10:45,940 --> 00:10:46,860
+function.
+
+274
+00:10:46,860 --> 00:10:48,820
+They do not have any kind of utility function.
+
+275
+00:10:48,820 --> 00:10:49,700
+Why?
+
+276
+00:10:49,700 --> 00:10:52,620
+Because if you have lexicographic preferences,
+
+277
+00:10:52,620 --> 00:10:54,900
+there is no amount of Y that can compensate you
+
+278
+00:10:54,900 --> 00:10:57,700
+for even the slightest amount of X.
+
+279
+00:10:57,700 --> 00:10:59,340
+And that's the problem.
+
+280
+00:10:59,340 --> 00:11:02,860
+OK, now, why does this mean that we could no longer be
+
+281
+00:11:02,860 --> 00:11:04,740
+sure of the shadow equilibrium?
+
+282
+00:11:04,740 --> 00:11:09,740
+Well, so suppose that all the agents of the economy
+
+283
+00:11:09,740 --> 00:11:11,580
+had lexicographic preferences.
+
+284
+00:11:11,580 --> 00:11:14,420
+Then, so we know, like, everyone lexicographically
+
+285
+00:11:14,420 --> 00:11:16,460
+prefer X to Y.
+
+286
+00:11:16,460 --> 00:11:22,220
+Well, is it then possible for X to have a price less than 1?
+
+287
+00:11:22,220 --> 00:11:25,220
+No, because if the price were less than 1,
+
+288
+00:11:25,220 --> 00:11:30,260
+what would every single person do in order to get more X?
+
+289
+00:11:30,260 --> 00:11:32,900
+So if the price of X were, like, 0.999,
+
+290
+00:11:32,900 --> 00:11:36,540
+and the price of Y were 0.001, if you
+
+291
+00:11:36,540 --> 00:11:40,500
+had lexicographic preferences, would you keep any Y?
+
+292
+00:11:40,500 --> 00:11:42,660
+It's really cheap, no, but you dump all your Y
+
+293
+00:11:42,660 --> 00:11:47,500
+to buy X, because you value X, the smallest amount of X,
+
+294
+00:11:47,500 --> 00:11:50,820
+infinitely more than you value an infinite amount of Y.
+
+295
+00:11:50,820 --> 00:11:53,060
+All right, so this means that you say, all right, fine.
+
+296
+00:11:53,060 --> 00:11:56,660
+Then the equilibrium price is going to be the price of X is 1,
+
+297
+00:11:56,660 --> 00:11:58,020
+the price of Y is 0.
+
+298
+00:11:58,020 --> 00:11:59,620
+But that's not an equilibrium either,
+
+299
+00:11:59,620 --> 00:12:01,860
+because we specified that if the amount of X is equal,
+
+300
+00:12:01,860 --> 00:12:04,620
+people would still like as much Y as possible.
+
+301
+00:12:04,620 --> 00:12:07,140
+So if the price of X is 1, then people
+
+302
+00:12:07,140 --> 00:12:11,060
+want an infinite amount of Y. If the price of X is less than 1,
+
+303
+00:12:11,060 --> 00:12:14,740
+people want 0 Y. And therefore, it
+
+304
+00:12:14,740 --> 00:12:17,700
+is possible there would be no equilibrium at all.
+
+305
+00:12:17,700 --> 00:12:20,200
+And that's an example of the failure of general equilibrium.
+
+306
+00:12:20,200 --> 00:12:23,260
+There's no price where the world makes sense.
+
+307
+00:12:23,260 --> 00:12:25,260
+And you say, all right, so the price of X is 1.
+
+308
+00:12:25,260 --> 00:12:26,660
+Well, then it doesn't make sense,
+
+309
+00:12:26,660 --> 00:12:29,660
+because people demand an infinite amount of Y,
+
+310
+00:12:29,660 --> 00:12:31,500
+and there isn't an infinite amount of Y.
+
+311
+00:12:31,500 --> 00:12:34,220
+So fine, let's make the price of X 0.999.
+
+312
+00:12:34,220 --> 00:12:36,380
+Well, that's not going to make any sense either,
+
+313
+00:12:36,380 --> 00:12:41,180
+because now people want 0 Y, and there's more than 0 Y.
+
+314
+00:12:41,180 --> 00:12:44,020
+So no equilibrium.
+
+315
+00:12:44,020 --> 00:12:47,500
+The economy does not make sense in this situation.
+
+316
+00:12:47,500 --> 00:12:48,620
+All right, another example.
+
+317
+00:12:48,620 --> 00:12:50,900
+Suppose there's a discontinuity of any kind.
+
+318
+00:12:50,900 --> 00:12:52,220
+So suppose the total demand for X
+
+319
+00:12:52,220 --> 00:12:56,820
+is 90% of the social endowment at the price of 7,
+
+320
+00:12:56,820 --> 00:13:00,620
+and 10% of the endowment at price of 7 minus epsilon,
+
+321
+00:13:00,620 --> 00:13:02,380
+infinitesimal amount.
+
+322
+00:13:02,380 --> 00:13:03,900
+So why would this be?
+
+323
+00:13:03,900 --> 00:13:05,460
+Well, maybe society is a superstition
+
+324
+00:13:05,460 --> 00:13:08,740
+centering on the number 0.7.
+
+325
+00:13:08,740 --> 00:13:10,660
+All right, have you ever been in a building
+
+326
+00:13:10,660 --> 00:13:13,100
+where there's no floor 13?
+
+327
+00:13:13,100 --> 00:13:14,900
+All right, so that's weird.
+
+328
+00:13:14,900 --> 00:13:16,660
+So I was on a cruise ship.
+
+329
+00:13:16,660 --> 00:13:18,100
+There's no floor 13.
+
+330
+00:13:18,100 --> 00:13:19,980
+It's not like it's a laundry floor.
+
+331
+00:13:19,980 --> 00:13:21,540
+It just doesn't exist.
+
+332
+00:13:21,540 --> 00:13:24,420
+You go on the stairs, and twilight's on.
+
+333
+00:13:24,420 --> 00:13:26,740
+You go from 14 to 12.
+
+334
+00:13:26,740 --> 00:13:28,700
+Where'd 13 go?
+
+335
+00:13:28,700 --> 00:13:30,060
+All right, same idea.
+
+336
+00:13:30,060 --> 00:13:32,620
+If there was a superstition about the number 0.7,
+
+337
+00:13:32,620 --> 00:13:35,340
+so that could lead the people in a discontinuous response.
+
+338
+00:13:35,340 --> 00:13:37,180
+And then again, no general equilibrium.
+
+339
+00:13:37,180 --> 00:13:38,420
+There's a question over there.
+
+340
+00:13:38,420 --> 00:13:39,460
+Yes, please.
+
+341
+00:13:39,460 --> 00:13:40,920
+Can you have a general equilibrium
+
+342
+00:13:40,920 --> 00:13:43,220
+with the on-chain preferences?
+
+343
+00:13:43,220 --> 00:13:44,300
+Ah, so let's see.
+
+344
+00:13:44,300 --> 00:13:46,340
+With the on-chain preferences, let's see.
+
+345
+00:13:46,340 --> 00:13:48,020
+So let's see.
+
+346
+00:13:48,020 --> 00:13:49,620
+So again, the on-chain preferences,
+
+347
+00:13:49,620 --> 00:13:51,300
+that's actually an example.
+
+348
+00:13:51,300 --> 00:13:52,460
+So let's see.
+
+349
+00:13:52,460 --> 00:13:54,740
+So that's one where, let's see.
+
+350
+00:13:54,740 --> 00:14:01,300
+So you would put 0 value on an additional amount of a good,
+
+351
+00:14:01,300 --> 00:14:03,300
+unless it came packaged with an additional amount
+
+352
+00:14:03,300 --> 00:14:04,100
+of the other good.
+
+353
+00:14:04,100 --> 00:14:06,860
+So yes, I think we actually specifically ruled that out.
+
+354
+00:14:06,860 --> 00:14:07,380
+Let's see.
+
+355
+00:14:07,380 --> 00:14:07,880
+Yes, yes.
+
+356
+00:14:07,880 --> 00:14:12,380
+So that would violate that assumption 4 in section 3,
+
+357
+00:14:12,380 --> 00:14:15,620
+the utility strictly increasing in all commodities.
+
+358
+00:14:15,620 --> 00:14:18,300
+Now, could a general equilibrium still exist?
+
+359
+00:14:18,300 --> 00:14:20,700
+The answer is almost certainly absolutely.
+
+360
+00:14:20,700 --> 00:14:25,180
+But we no longer have absolute proof that it will exist.
+
+361
+00:14:25,180 --> 00:14:28,060
+And that is, again, the issue mathematically.
+
+362
+00:14:28,060 --> 00:14:30,460
+So again, all of these are about sufficient conditions.
+
+363
+00:14:30,460 --> 00:14:33,940
+So essentially, when normally, when any assumptions fail,
+
+364
+00:14:33,940 --> 00:14:36,220
+you could just go and tweak all the other assumptions
+
+365
+00:14:36,220 --> 00:14:39,380
+sufficiently so that everything works out nicely.
+
+366
+00:14:39,380 --> 00:14:41,900
+Not always, but often you can.
+
+367
+00:14:41,900 --> 00:14:45,460
+So yes, so with the likes of graphic preferences,
+
+368
+00:14:45,460 --> 00:14:47,540
+here's a nice tweak that'll make the world work.
+
+369
+00:14:47,540 --> 00:14:50,500
+Let's just assume there's no y.
+
+370
+00:14:50,500 --> 00:14:52,460
+Then we've got an equilibrium.
+
+371
+00:14:52,460 --> 00:14:53,340
+The price of x is 1.
+
+372
+00:14:53,340 --> 00:14:54,540
+Price of y is 0.
+
+373
+00:14:54,540 --> 00:14:55,980
+Nobody has any y.
+
+374
+00:14:55,980 --> 00:14:57,420
+So everyone consumes their diamonds.
+
+375
+00:14:57,420 --> 00:14:59,020
+Everything's great.
+
+376
+00:14:59,020 --> 00:15:01,300
+So that'll be fine.
+
+377
+00:15:01,300 --> 00:15:02,420
+All right.
+
+378
+00:15:02,420 --> 00:15:02,940
+Let's see.
+
+379
+00:15:02,940 --> 00:15:04,820
+Then there's a more general concept of demand
+
+380
+00:15:04,820 --> 00:15:06,740
+not being well-behaved at extreme prices.
+
+381
+00:15:06,740 --> 00:15:09,320
+This could mean that you just have a 0 price for 0 prices
+
+382
+00:15:09,320 --> 00:15:10,180
+for some goods.
+
+383
+00:15:10,180 --> 00:15:13,820
+But there's some technical issues I won't get into.
+
+384
+00:15:13,820 --> 00:15:14,700
+Here's another one.
+
+385
+00:15:14,700 --> 00:15:17,180
+Suppose that prices themselves are discontinuous.
+
+386
+00:15:17,180 --> 00:15:20,660
+Suppose that prices must be in one penny units.
+
+387
+00:15:20,660 --> 00:15:25,780
+Then it could be that the actual market clearing price is, say,
+
+388
+00:15:25,780 --> 00:15:31,620
+$1.99 and 7 tenths of a cent.
+
+389
+00:15:31,620 --> 00:15:33,660
+And then either the price is too high or too low.
+
+390
+00:15:33,660 --> 00:15:35,860
+And in either case, you actually get market clearing.
+
+391
+00:15:35,860 --> 00:15:37,580
+And there's no general equilibrium.
+
+392
+00:15:37,580 --> 00:15:40,540
+So you have that problem.
+
+393
+00:15:40,540 --> 00:15:42,980
+Now, as I said, these standard theorems
+
+394
+00:15:42,980 --> 00:15:44,820
+give sufficient conditions.
+
+395
+00:15:44,820 --> 00:15:48,060
+You can still get general equilibrium
+
+396
+00:15:48,060 --> 00:15:50,340
+even if some of these assumptions are violated.
+
+397
+00:15:50,340 --> 00:15:52,060
+So here's a fun one.
+
+398
+00:15:52,060 --> 00:15:54,500
+Suppose you have a linear utility function.
+
+399
+00:15:54,500 --> 00:15:55,340
+Many of you remember.
+
+400
+00:15:55,340 --> 00:15:57,100
+Anyone remember back in intermediate micro?
+
+401
+00:15:57,100 --> 00:15:58,940
+And you're like, why do we have to do utility functions
+
+402
+00:15:58,940 --> 00:15:59,820
+like that one?
+
+403
+00:15:59,820 --> 00:16:02,900
+Why can't it just be utilities x plus y?
+
+404
+00:16:02,900 --> 00:16:07,220
+Why are you torturing us with these low utility functions?
+
+405
+00:16:07,220 --> 00:16:12,900
+And the answer is that if your utility is equal to x plus y,
+
+406
+00:16:12,900 --> 00:16:16,140
+then what does everybody want to do?
+
+407
+00:16:16,140 --> 00:16:18,740
+So if your utility is x plus y, then you
+
+408
+00:16:18,740 --> 00:16:21,900
+either want to have all x or all y,
+
+409
+00:16:21,900 --> 00:16:23,860
+except in one special condition.
+
+410
+00:16:23,860 --> 00:16:28,300
+So what prices would make a person with utility
+
+411
+00:16:28,300 --> 00:16:30,860
+equals x plus y want to have all x?
+
+412
+00:16:30,860 --> 00:16:31,900
+px is less than py.
+
+413
+00:16:31,900 --> 00:16:33,500
+Yeah, px is less than py.
+
+414
+00:16:33,500 --> 00:16:34,860
+Then dump all your y.
+
+415
+00:16:34,860 --> 00:16:35,820
+Buy all x.
+
+416
+00:16:35,820 --> 00:16:36,940
+Utility's higher.
+
+417
+00:16:36,940 --> 00:16:38,380
+On the other hand, reverse it.
+
+418
+00:16:38,380 --> 00:16:40,980
+So if x is more expensive than y, then dump all your x.
+
+419
+00:16:40,980 --> 00:16:42,020
+Buy y.
+
+420
+00:16:42,020 --> 00:16:45,340
+If the prices are the same, then you're OK.
+
+421
+00:16:45,340 --> 00:16:46,460
+Prices of x are the same.
+
+422
+00:16:46,460 --> 00:16:50,300
+Then you're indifferent between any bundle.
+
+423
+00:16:50,300 --> 00:16:53,460
+So if it turned out that, say, everyone
+
+424
+00:16:53,460 --> 00:16:55,740
+had a utility function equal to price of x
+
+425
+00:16:55,740 --> 00:16:58,100
+plus the price of y, then you might still
+
+426
+00:16:58,100 --> 00:17:00,180
+be able to get equilibrium.
+
+427
+00:17:00,180 --> 00:17:05,020
+So if the prices are equal, then maybe everyone
+
+428
+00:17:05,020 --> 00:17:07,460
+is just content to stay with their initial endowment.
+
+429
+00:17:07,460 --> 00:17:08,460
+Why not?
+
+430
+00:17:08,460 --> 00:17:10,220
+And then you're fine.
+
+431
+00:17:10,220 --> 00:17:12,260
+Now, notice, if you think about it more,
+
+432
+00:17:12,260 --> 00:17:14,580
+what about a world where almost everybody has a utility
+
+433
+00:17:14,580 --> 00:17:16,220
+function like that, and then some people
+
+434
+00:17:16,220 --> 00:17:17,460
+have these weird linear ones?
+
+435
+00:17:17,460 --> 00:17:19,660
+Is that going to be OK?
+
+436
+00:17:19,660 --> 00:17:22,980
+Almost certainly fine, because what happens?
+
+437
+00:17:22,980 --> 00:17:26,220
+So 99% of people have those nice ones,
+
+438
+00:17:26,220 --> 00:17:28,380
+and a log utility function.
+
+439
+00:17:28,380 --> 00:17:30,540
+Then 1% of people have the linear ones.
+
+440
+00:17:30,540 --> 00:17:32,820
+Well, if the price of x is greater than the price of y,
+
+441
+00:17:32,820 --> 00:17:35,420
+what do the people with the linear functions do?
+
+442
+00:17:35,420 --> 00:17:37,180
+Price of x is greater than the price of y.
+
+443
+00:17:37,180 --> 00:17:38,740
+What do they all do?
+
+444
+00:17:38,740 --> 00:17:39,940
+Dump all their x.
+
+445
+00:17:39,940 --> 00:17:41,620
+And who buys it?
+
+446
+00:17:41,620 --> 00:17:42,580
+Those people.
+
+447
+00:17:42,580 --> 00:17:44,420
+And then the price adjusts, and those people
+
+448
+00:17:44,420 --> 00:17:46,380
+go and adjust things.
+
+449
+00:17:46,380 --> 00:17:48,140
+But again, this means that we can no longer
+
+450
+00:17:48,140 --> 00:17:53,020
+have that pure mathematical Pythagorean certainty
+
+451
+00:17:53,020 --> 00:17:55,620
+that mathematicians are hunting for, because they say,
+
+452
+00:17:55,620 --> 00:17:56,980
+well, that's pretty good.
+
+453
+00:17:56,980 --> 00:18:00,540
+So if there's 99% that will work, but 1% that is OK,
+
+454
+00:18:00,540 --> 00:18:02,540
+but what if it's 47%?
+
+455
+00:18:02,540 --> 00:18:04,380
+What if it's radical 3?
+
+456
+00:18:04,380 --> 00:18:05,380
+What if it's that?
+
+457
+00:18:05,380 --> 00:18:07,260
+You don't have any proof of anything, do you?
+
+458
+00:18:07,260 --> 00:18:11,780
+It's all just loosey-goosey garbage, complete garbage.
+
+459
+00:18:11,780 --> 00:18:14,500
+Very like, well, not a problem that's
+
+460
+00:18:14,500 --> 00:18:16,220
+really that pressing anyway.
+
+461
+00:18:16,220 --> 00:18:18,380
+So you could go and work it as a homework problem,
+
+462
+00:18:18,380 --> 00:18:19,180
+and then you could say, well, we've
+
+463
+00:18:19,180 --> 00:18:20,940
+proven it for this homework problem.
+
+464
+00:18:20,940 --> 00:18:22,780
+But again, if you are a mathematical economist saying,
+
+465
+00:18:22,780 --> 00:18:24,380
+bah, you proved it for one homework problem,
+
+466
+00:18:24,380 --> 00:18:26,700
+that's not good enough to get a dream job for life.
+
+467
+00:18:26,700 --> 00:18:29,340
+I want a very general proof of the conditions,
+
+468
+00:18:29,340 --> 00:18:31,620
+defining the entire locus of points
+
+469
+00:18:31,620 --> 00:18:33,700
+under which general equilibrium will still exist.
+
+470
+00:18:33,700 --> 00:18:36,260
+If a fraction of population A has linear preferences,
+
+471
+00:18:36,260 --> 00:18:38,780
+and a fraction of B has lower linear preferences,
+
+472
+00:18:38,780 --> 00:18:39,620
+let's do that.
+
+473
+00:18:39,620 --> 00:18:41,340
+And then you can get a paper out of that,
+
+474
+00:18:41,340 --> 00:18:42,740
+and probably somebody has done it.
+
+475
+00:18:46,740 --> 00:18:50,140
+So anyway, so yes, so with this linear utility function,
+
+476
+00:18:50,140 --> 00:18:53,500
+we have a problem where we have discontinuous responses
+
+477
+00:18:53,500 --> 00:18:55,180
+to demand to price.
+
+478
+00:18:55,180 --> 00:18:59,060
+Because either you consume all x, or you're different,
+
+479
+00:18:59,060 --> 00:18:59,860
+or all y.
+
+480
+00:18:59,860 --> 00:19:01,860
+And if you're graphing that, you would see, wow,
+
+481
+00:19:01,860 --> 00:19:03,260
+that's a big discontinuity.
+
+482
+00:19:03,260 --> 00:19:08,220
+Either all of x, or all of y, or you don't care.
+
+483
+00:19:08,220 --> 00:19:10,980
+And we can do similar things for most of these assumptions.
+
+484
+00:19:10,980 --> 00:19:12,660
+We'll say, well, what can we also do?
+
+485
+00:19:12,660 --> 00:19:14,300
+How might it still work out?
+
+486
+00:19:14,300 --> 00:19:17,580
+Again, imagine a world where everybody
+
+487
+00:19:17,580 --> 00:19:19,340
+has one good they don't care about.
+
+488
+00:19:19,340 --> 00:19:21,980
+Intuitively, what's going to happen in that world?
+
+489
+00:19:21,980 --> 00:19:24,300
+If someone happens to start with an endowment of a good
+
+490
+00:19:24,300 --> 00:19:28,740
+they don't like at all, what are you going to do?
+
+491
+00:19:28,740 --> 00:19:29,580
+Sell it.
+
+492
+00:19:29,580 --> 00:19:31,820
+But since there's always somebody who likes each good,
+
+493
+00:19:31,820 --> 00:19:34,700
+then it'll just drive down the price of that a little bit.
+
+494
+00:19:34,700 --> 00:19:38,420
+And the people who do like it will take it and the problem.
+
+495
+00:19:38,420 --> 00:19:40,060
+OK, everyone happy?
+
+496
+00:19:40,060 --> 00:19:41,900
+Questions, questions?
+
+497
+00:19:41,900 --> 00:19:44,740
+All right, so certainly this stage of the evening,
+
+498
+00:19:44,740 --> 00:19:47,260
+I'm always worried lack of questions simply means lack
+
+499
+00:19:47,260 --> 00:19:48,700
+of energy to put your hand up.
+
+500
+00:19:48,700 --> 00:19:50,940
+Or it's just like, fine, I'll take your word for it.
+
+501
+00:19:50,940 --> 00:19:56,740
+But let's try to steel ourselves in pursuit of PhD level
+
+502
+00:19:56,740 --> 00:19:58,740
+understanding of the material.
+
+503
+00:19:58,740 --> 00:20:02,100
+Right now we come to.
+
+

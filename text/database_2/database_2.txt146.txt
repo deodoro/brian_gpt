@@ -1,0 +1,128 @@
+3.  Name a specific market where government could increase efficiency in theoryeven though government reduces efficiency in practice.  Use Caplan ("Systematically Biased Beliefs About Economics" and "What Makes People Think Like Economists?") to explain this perverse policy-making.  Justify both parts of your response.
+
+- insurance
+- immigration
+
+papers: 
+   - most people don't have those characteristics--education, male, income changes--that make them think like economists
+   - additionally, people's tend to have beliefs about the economy like X and Y that match up with anti-market bias or anti-foreign bias
+
+BRYANS A NSWERS -- AKA PROBABLY CORRECT
+
+
+ TAXES 
+Q.  In a world with no externalities, suppose the government imposes a lump sum tax and uses it to fund an hourly work subsidy. 
+True, False, and Explain:  The deadweight cost of this tax-and-subsidy policy is zero.
+False. It is true that the DWL of a lump sum tax is zero. However, assuming the market starts out in equilibrium, a subsidy carries a DWL because it distorts the allocation of resources.  There would be a loss in both consumer and producer surplus. 
+Supply Shifts out beyond the natural equilibrium level because you are trying to increase the labor supply.
+ 
+ 
+ 
+ 
+Q. True, False, and Explain:  In the real world, lump-sum taxes are always the first-best efficient way for governments to raise a given amount of revenue.
+False.  While an economic model suggests the truth of that statement, given that any other form of tax results in a Dead Weight Loss, this comment is false in the real world. The lump-sum tax model avoids DWL and allocative inefficiency, imposing no additional costs from changes in behavior. However, in the real world, Lump-sum taxes are seen as regressive.  Thus, Lump-sum taxes are also a politically impossible and are not a first-best solution
+ 
+Q. Taking into account everything that you have learned, what is the most efficient way for government to raise a given level of revenue? Carefully explain your answer.
+From an Economic Stance the Lump Sum is Good, but from a political stance this is not so.  This is because there is no DWL. However, this is not a political reality because they are considered highly regressive.  From a politicians' perspective, they raise debt, inflation to create constituent spending. Tarriffs and quotas are also in the politician's repertoire because they lack salience to the consumer as a tax.  Finally, Politicians prefer a tax on products with negative externalities. 
+ 
+
+ 
+ 
+GAME THEORY
+Q. Suppose there are an infinite number of equally efficient potential producers.
+True, False, and Explain: With constant MC and zero fixed costs, there are an infinite number of PSNE and an infinite number of MSNE.
+TRUE.  We can think of this as an Entry game, with an infinite number of firms choosing in or out.  A PSNE would be an individual firm's choice of entry.  With an infinite number of firms, there are an infinite number of PSNE combinations. Regarding MSNEs, with no profits to be made, a firm would face n-dimensional payoff matrix in which firms are indifferent between entry and absence.  With an infinite number of firms, each one having an MSNE, there would thus be an infinite number of MSNEs
+Q. Suppose that two players play the following game twice.
+ 
+Left
+Right
+Left
+1,5
+0,0
+Right
+0,0
+5,1
+ 
+True, False, and Explain: What Kreps calls "cheap talk" cannot improve the efficiency of this game if both players engage in backwards induction.
+False.  It can if they are acting with imperfect information, and if they are acting simultaneously.  With this set of circumstance, you don't know what the other will do.  If we allow for the possibility that you are using induction to predict probabilities with simultaneous action, cheap talk could improve efficiency.  Cheap talk, would then change the probability of having a 0,0 outcome in the first round. 
+ 
+True. If they are already engaging in backwards induction they can't improve upon their optimums by simply talking about it.  Backward induction would lead to pareto efficient optimums.  With talk, they would agree to alternating turns. This is also pareto efficient, as the aggregate payoff is the same.  That is, the idea of cheap talk allows players to ascertain better mutual benefit, so long as there aren't dominated strategies. Thus, they would simply reach the efficiency in any case.  Same number of PSNE and sub-game perfect with both extensive and normal forms.
+ 
+Q. Suppose two people repeatedly play the Dictator game.  Player 1 gets to be the Dictator in odd-numbered turns; Player 2 gets to be the Dictator in even-numbered turns.  ?²1 for both players.  After each turn, the game ends with 99% probability.
+True, False, and Explain: An equilibrium where the Dictator always offers even splits (50/50) may be sustainable if the stakes increase over time.
+True. Even with a 99% Probability that the game ends after every turn, it still qualifies as an infinitely repeating game, in terms of the player strategies.  Given that the stakes are increasing in every turn, so long as a person is sufficiently risk tolerant, they may continue to offer equitable splits in the hope of reciprocity in the next turn.
+Q.. Suppose you have two potential producers in a contestable industry with SUNK costs.  TC=10+Q.  If only one firm enters, it sets a monopoly price given the demand curve Q=10-2P.  If two firms enter, they compete price down to MC.
+True, False, and Explain: In the MSNE, each firm's probability of entry is .2.
+Q. Suppose you have a 2-player version of the voluntary donation game from the notes, with one difference: Each agent dislikes the other, so player one maximizes U1=c1D-.2*c2D, and player two maximizes U2=c2D-.2*c1D.
+True, False, and Explain: In symmetric Nash equilibrium, c1=c2<2/3.
+False. Everyone's utility depends on how much they consume the public good and how much is donated. Both would consume amounts equal to 2/3, as  C=N/N+1 and C=.5 for all N given the setup in the notes. This symmetric function is not depended on the utility functions.[43]
+ 
+So C=2/3 and no one wants to do more than c= .5.  Meaning they will over consume and underprovide. 
+
+ 
+ 
+BIAS AND BEHAVIOR  -  WINNER'S CURSE / ANOMOLIES
+Q. Consider a simple auction.
+True, False, and Explain:  As long as actors have RE, the Winner's Curse will not cause the market to "unravel."
+True.  With or without rational expectations, this statement is valid since the winner's curse doesn't lead to the market unraveling but simply to the winner suffering a loss.  Auction markets in which the winner's curse is frequently observed continue, as other players don't experience the loss. 
+Q.  Historians often argue that wars arise due to irrationality, not just bad luck.  What simple game theory model are historians implicitly rejecting?  How could historians use Thaler's The Winner's Curse to persuasively defend their position?  Be specific.
+Historians are ignoring the Hawk-Dove Game, in which one player, by choosing combative behavior when the other player chooses peace behavior, elicits the highest possible payoff. Thus, so long as the actor assumes that the other player will act peaceably, he is acting rationally. 
+Historians, however, could reasonably defend their positions by arguing that wars often turn out to be costlier than expected.  In this case, initiators are subject to the high bids, as in the case of the Winner's Curse.  As a result, though they may be accurate in believing that they will emerge victorious, they will have expended more from the fight than the spoils are worth.  [Example]
+Q.  Historians often argue that wars arise due to irrationality, not just bad luck.  What simple game theory model are historians implicitly rejecting?  How could historians use Thaler's The Winner's Curse to persuasively defend their position?  Be specific.
+Historians are ignoring the Hawk-Dove Game, in which one player, by choosing combative behavior when the other player chooses peace behavior, elicits the highest possible payoff. Thus, so long as the actor assumes that the other player will act peaceably, he is acting rationally. 
+Historians, however, could reasonably defend their positions by arguing that wars often turn out to be costlier than expected.  In this case, initiators are subject to the high bids, as in the case of the Winner's Curse.  As a result, though they may be accurate in believing that they will emerge victorious, they will have expended more from the fight than the spoils are worth.  [Example]
+Q.  "The average person considers himself better than average by a variety of measures. But vulnerability to such biases is still far from universal. Robins and John (1997) surprisingly report that Ôonly about 35 percent of the subjects show a clear self-enhancement bias whereas about 50 percent are relatively accurate and about 15 percent actually show self-diminishment bias' (p. 669)." (Caplan, "Stigler-Becker vs. Myers-Briggs")
+True, False, and Explain:  By itself, this result suggests that self-enhancement bias will affect market outcomes, but not democratic outcomes.
+False.  The same self-enhancement bias can just as easily lead individuals to overstate their understanding of political and economic issues as it leads them to overstate the value of their market predictions, This is also true for self-diminishment bias.
+Q.  "Availability bias leads people to get less education.  Representativeness bias leads people to get more education."  Explain why this sentence is plausible.  Give specific examples.
+Q. "Consider two professors.  John earns $55,000 paid in monthly installments.  Joan earns a base salary of $45,000 paid over twelve months, and a guaranteed extra $10,000 paid during the summer months." (Thaler, The Winner's Curse)
+True, False, and Explain:  Thaler explains that the "mental accounting" prediction is that Joan will outspend John during the summer, but John will outspend Joan throughout the rest of the year.
+FALSE, Mental accounting predicts that individuals segregate gains and integrate loses. Thus, Joan, who suddenly  receives higher income during the summer months, will likely save the surplus treating it as an asset.  John, who earns a steady income, is more likely to adhere to a standard consumption-smottihing behavior.
+Q.  Use Caplan's article "Stigler-Becker vs. Myers-Briggs" to argue that, in practice, behavioral anomalies matter much less in the real-world than most behavioral economists suggest.  (Hint: Self-selection)  Give TWO empirically important examples.
+Preference Reversals is an anomaly most explained by 5 personal characteristics which determine, as a proxy, your preferences .  The empirical research shows that at 30+ those characteristics become invariant. Therefore we can infer that preferences are steady and Becker and Stigler are defended.  Any empirical estimation of the pay gap that does not include characteristics should be discounted because it determines preferences.  For example your characteristics determine career choice, education have an influence on the pay gap.  Without those in a regression you model cannot be casual.
+Q. Thaler (The Winner's Curse) presents evidence that people violate basic economic assumptions.
+True, False, and Explain: Thaler nevertheless embraces basic economic assumptions as "normative"; he believes that people should act like standard economic agents.
+True.  People should act like standard economic agents in most cases.  I.e. cooperate according to standard economic theory. He gives two examples: set MC=P and Marginal revenue, and the other example is to avoid the winner's curse by setting opportunity costs to out-of-pocket costs.
+ 
+ 
+
+ 
+ 
+EDUCATION AND PUBLIC GOODS
+Q.   Suppose foregone earnings are the sole cost of education, and people live forever.  Without school, workers earn $10,000 per year; every year of school completed boosts earnings by 10%. 
+True, False, and Explain:  Without externalities, the social rate of return to education is 10%.
+ False, the return to the individual is 10%.  Conversely, with every additional student, society experiences diminishing returns to education.
+Q.  True, False, and Explain: Wittman admits that in a federal system, restraining government spending is a public good.
+True.  If you have a federal spending project that is too big, than reducing the spending is a public good in the sense that the benefit is dispersed across all taxpayers.  Any individual taxpayer is incentivized to reduce their spending is lower than the total benefit of reducing the spending.
+Q.Caplan (What Makes People Think Like Economists?) shows that more educated people are more pro-market.
+True, False, and Explain: The reason why people mistakenly believe that education leads to anti-market views is probably that, in the general population, education and left-wing ideology are highly correlated.
+False. Caplan's finding is that education does not predict your political beliefs. Male, age, income growth are variables, that once included and controlled for in the model, explain away the correlation between education and ideaology. Thus, the initial correlation is a result of representative bias, where much of professors are leftist.  Being a professional economist, is predictive of having a center/leftist bias politically. However, education in general is not predictive of political ideaology.
+Q. Standard estimates of the return to education ignore intelligence and assume that all education is productive.
+True, False, and Explain: For both of these issues, switching to more realistic assumptions reduces the private and social return to education.
+True. Once the return to education controls for IQ, the private return to education falls significantly. Due to labor market asymmetry, employers will pay an educated individual more, but at the expense of other employees. So while there is higher private return, there is a lower, or in the case of including tuition, a negative social return to education.
+ 
+ INSURANCE/ EMPLOYMENT
+Q.  "Contrary to e.g. Krugman, insurance isn't a Ôspecial' market where laissez-faire doesn't work.  Instead, it's a normal market where democratic politics doesn't work, because both the public and economists remain wedded to populism and paternalism."
+Carefully explain why I would say this.  Name two examples I might use to support my position.  Am I right?  Why or why not?
+ Caplan's position is based on the observation that insurance is a highly regulated industry in which adverse selection problems are augmented by regulations that forbid the denial of coverage for pre-existing conditions, restrict risk-adjusted premiums, and require excess of coverage via mandated benefit packages.  All of these regulations are driven by political patronage and rent-seeking at the expense of market efficiency.  I agree with the position that the insurance market is a perfect storm of democratic problems in which the public relies on superficial and flawed understanding of insurance.  Economists, such as Henry Aaron and Jonathan Gruber have appealed to that ignorance, while ignoring the costs.  Also, politicians have garnered a platform to gain votes.
+Q.  Workers deeply resent nominal wage cuts.  Voters deeply resent inflation.  Use these two stylized facts to build a simple, depressing model of the economic and political effects of negative shocks to Aggregate Demand.  Make sure you discuss the interaction between economics and politics.
+True. From Kreps: "Ellsberg uses this sort of behavior to claim that there is a real distinction to be made between situations where there is risk (objective uncertainty) and situations with uncertainty (subjective uncertainty). The story goes: people dislike the ambiguity that comes with choice under uncertainty; they dislike the possibility that they may have the odds wrong and so make a wrong choice" (p. 117).
+ 
+Q. Suppose your U=w.5. You are searching for a job and face the following decision tree:
+Step 1: You can either take a sure thing (w=$50,000 with p=1) or keep searching (w=$100,000 with p=.6; w=$0 with p=.4).
+Step 2: If you selected the second option, you are allowed to buy an "unemployment insurance" policy. It costs $10,000 and pays $20,000 if you are unemployed.
+Step 3: You find out if you got a job. If you did not, you collect the insurance payout. Either way, you have to pay the premium.
+Q. Consider an efficiency wage model.
+True, False, and Explain:  As the average worker becomes less selfish, the unemployment rate falls. As the average worker becomes more myopic, the unemployment rate rises.
+False. The efficiency wage would make him prize his employment more, meaning that if he became more selfish he would strive to remain employed. If he became more myopic, he would work less hard to keep his job, being less cognizant of the fact that there would be some surplus of unemployment due to the efficiency wage and that once he lost his job, he would have a harder time finding another job.
+Q. Suppose everyone is risk-preferring. True or False: Insurance Markets can still Exist
+ True.  If they have asymmetric information, adverse selection, or simply imperfect info and different perceptions of the insured person's risk profile.  This is highly unlikely in the real world.  Or, if there could be an exchange between people of different degrees of risk performance, where the more risk-loving person buys risk from the less-risk  - loving
+ 
+
+RATIONAL EXPECTATIONS
+Q. Suppose you want to test for RE about inflation.  You can either get data on (a) actual inflation and people's inflation forecasts, or (b) experts' inflation forecasts and laymen's inflation forecasts.  State whether you would prefer to have (a) or (b), and carefully explain how your test would work.  When exactly would your test accept/reject the RE hypothesis?
+Q. Suppose Caplan is right that voters buy large quantities of irrational political beliefs.
+True, False, and Explain: This hardly shows that political markets are inefficient. Instead, it shows that we have mis-measured their primary output; the main product of political markets is psychological well-being rather than wealth-maximizing policy.
+True.  People will pay for utility instead of wealth maximizing policy.  Think of buy-local.
+Q. In a critique of The Myth of the Rational Voter, Dan Klein writes: Maybe Bryan grants Wittman's other premises so as to pump the importance of the unbiased belief premise. Why would granting Wittman's other premises pump up the importance of voter bias? Is Klein's suggestion correct? Why or why not?
+Assumptions from Whitman that public choice hinges on:

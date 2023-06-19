@@ -1,0 +1,1645 @@
+1
+00:00:00,000 --> 00:00:03,700
+So double indemnity, it's all about insurance policy.
+
+2
+00:00:03,700 --> 00:00:05,820
+I guess so. Back in those days,
+
+3
+00:00:05,820 --> 00:00:09,100
+insurance policies were considered very entertaining.
+
+4
+00:00:09,100 --> 00:00:14,180
+And you can craft a very entertaining story around insurance policies.
+
+5
+00:00:14,180 --> 00:00:15,980
+All right. So, anyway, so moral hazard,
+
+6
+00:00:15,980 --> 00:00:17,860
+long known to the insurance industry.
+
+7
+00:00:17,860 --> 00:00:20,500
+It's really as old as the insurance industry itself.
+
+8
+00:00:20,500 --> 00:00:25,780
+Now, the next problem is one where insurance companies do things about it,
+
+9
+00:00:25,780 --> 00:00:28,580
+and yet a lot of it seems like it's rule of thumb,
+
+10
+00:00:28,580 --> 00:00:30,220
+and they don't really understand why they're doing it,
+
+11
+00:00:30,220 --> 00:00:32,100
+and so economists actually have more value,
+
+12
+00:00:32,100 --> 00:00:33,660
+or are adding more value.
+
+13
+00:00:33,660 --> 00:00:36,740
+Maybe not in terms of the actual business behavior,
+
+14
+00:00:36,740 --> 00:00:39,460
+but in terms of people actually understanding what's going on.
+
+15
+00:00:39,460 --> 00:00:42,540
+It's a lot more, it's a lot subtler than moral hazard,
+
+16
+00:00:42,540 --> 00:00:45,980
+which is pretty obvious once you think about it.
+
+17
+00:00:48,300 --> 00:00:55,700
+So, this is another standard form of asymmetric information.
+
+18
+00:00:55,700 --> 00:00:57,780
+All right. And the basic idea.
+
+19
+00:00:57,780 --> 00:00:59,740
+So, you know your own characteristics.
+
+20
+00:00:59,740 --> 00:01:01,940
+You know what you are like, right?
+
+21
+00:01:01,940 --> 00:01:03,620
+But other people don't.
+
+22
+00:01:03,620 --> 00:01:08,060
+So, a natural thing for other people to do is treat you as if you were
+
+23
+00:01:08,060 --> 00:01:13,220
+the average member of a group that you superficially belong to.
+
+24
+00:01:13,860 --> 00:01:19,540
+And which group you superficially belong to can change very easily.
+
+25
+00:01:19,540 --> 00:01:23,180
+So, if I just go by myself to a playground,
+
+26
+00:01:23,180 --> 00:01:27,860
+I am superficially similar to a child abductor.
+
+27
+00:01:27,860 --> 00:01:33,060
+If I just wander onto a children's playground and just hang out there reading my book,
+
+28
+00:01:33,060 --> 00:01:34,860
+people treat me in one way.
+
+29
+00:01:34,860 --> 00:01:39,580
+I've never done this, but I assume it would give me bad looks.
+
+30
+00:01:39,580 --> 00:01:42,220
+If I go there with a child on the other hand,
+
+31
+00:01:42,220 --> 00:01:43,660
+they don't even know it's mine.
+
+32
+00:01:43,660 --> 00:01:45,380
+But if I go there with a child,
+
+33
+00:01:45,380 --> 00:01:47,460
+it's like there's a good father.
+
+34
+00:01:47,460 --> 00:01:49,180
+Right now, in both cases,
+
+35
+00:01:49,180 --> 00:01:51,100
+they really know next nothing about me,
+
+36
+00:01:51,100 --> 00:01:52,820
+other than these very superficial things.
+
+37
+00:01:52,820 --> 00:01:57,300
+One is, there is a man without a child in a playground.
+
+38
+00:01:57,300 --> 00:02:01,140
+Or the other one is, there's a man with a child in a playground.
+
+39
+00:02:01,140 --> 00:02:06,500
+Once I took my kids to do a test at a high school and school security came to me,
+
+40
+00:02:06,500 --> 00:02:10,780
+and he said, a student came and said there was a man sitting here.
+
+41
+00:02:10,780 --> 00:02:17,580
+There is. I didn't want to get in trouble,
+
+42
+00:02:17,580 --> 00:02:21,420
+so I just said, guilty as charged, here I am.
+
+43
+00:02:21,420 --> 00:02:24,100
+A man is sitting on a bench in a school.
+
+44
+00:02:24,100 --> 00:02:27,500
+But instead, I'm waiting for my children.
+
+45
+00:02:27,500 --> 00:02:30,700
+Okay. All right.
+
+46
+00:02:30,700 --> 00:02:33,860
+So anyway, so you know what you are.
+
+47
+00:02:33,860 --> 00:02:35,980
+You know whether you're planning on abducting anyone,
+
+48
+00:02:35,980 --> 00:02:40,740
+but other people just take a quick look at you and treat you based upon
+
+49
+00:02:40,740 --> 00:02:45,260
+the average characteristics of people that superficially resemble you.
+
+50
+00:02:45,260 --> 00:02:48,460
+Now, here is the bad news.
+
+51
+00:02:48,460 --> 00:02:51,140
+Suppose you're above average for that group.
+
+52
+00:02:51,140 --> 00:02:56,460
+Then, you will be treated badly relative to the truth.
+
+53
+00:02:56,460 --> 00:02:58,180
+So, and if there is a market,
+
+54
+00:02:58,180 --> 00:03:00,380
+then you may be treated so badly,
+
+55
+00:03:00,380 --> 00:03:02,940
+you decide you don't even feel like participating in the market.
+
+56
+00:03:02,940 --> 00:03:05,980
+And if enough above average people think this,
+
+57
+00:03:05,980 --> 00:03:07,900
+then the whole market can unravel.
+
+58
+00:03:07,900 --> 00:03:10,900
+Because if the most above average people drop out,
+
+59
+00:03:10,900 --> 00:03:12,420
+this lowers the average.
+
+60
+00:03:12,420 --> 00:03:16,900
+And then the best of the people remaining are treated very badly,
+
+61
+00:03:16,900 --> 00:03:19,620
+and they drop out, and then they drop out and so on.
+
+62
+00:03:19,620 --> 00:03:23,620
+And imagine if I were to say that I'm going to fail the bottom half of this class.
+
+63
+00:03:23,620 --> 00:03:25,500
+So, who would want to drop out?
+
+64
+00:03:25,500 --> 00:03:26,700
+So, let's say this.
+
+65
+00:03:26,700 --> 00:03:29,300
+Anyone who thinks they're going to be the bottom half wants to drop out.
+
+66
+00:03:29,300 --> 00:03:31,540
+But this doesn't really solve the problem, does it?
+
+67
+00:03:31,540 --> 00:03:33,820
+Because once they leave, then the class,
+
+68
+00:03:33,820 --> 00:03:34,940
+then I said, well,
+
+69
+00:03:34,940 --> 00:03:37,580
+the rule now I'm going to fail the bottom of whoever's left.
+
+70
+00:03:37,580 --> 00:03:39,580
+And then more people may want to drop out,
+
+71
+00:03:39,580 --> 00:03:41,940
+and then finally maybe left with one person.
+
+72
+00:03:41,940 --> 00:03:43,420
+And then I don't know what the rule means.
+
+73
+00:03:43,420 --> 00:03:46,060
+That's like 50-50 chance that they fail you or not.
+
+74
+00:03:46,060 --> 00:03:47,420
+Whether we're down to one.
+
+75
+00:03:47,420 --> 00:03:54,140
+But that would be unraveling where if the people that are in the bottom half,
+
+76
+00:03:54,140 --> 00:03:56,260
+they'll just keep dropping out.
+
+77
+00:03:56,260 --> 00:03:59,660
+And this makes the bottom half where we'll
+
+78
+00:03:59,660 --> 00:04:04,100
+move the average and then finally go down with basically nobody.
+
+79
+00:04:04,100 --> 00:04:09,180
+All right. So, that is the general problem of-
+
+80
+00:04:10,820 --> 00:04:13,740
+over there. All right.
+
+81
+00:04:13,740 --> 00:04:18,220
+So, there is a standard example that we've used many times.
+
+82
+00:04:18,220 --> 00:04:23,060
+This is an example that's nice because it's so simple and it's so counterintuitive.
+
+83
+00:04:23,060 --> 00:04:26,220
+And yet it's totally undeniable once you work through it.
+
+84
+00:04:26,220 --> 00:04:29,740
+So, let's go through this class.
+
+85
+00:04:31,580 --> 00:04:35,300
+Okay. So, suppose you've got a bunch of companies,
+
+86
+00:04:35,300 --> 00:04:39,740
+and they are uniformly distributed on the interval 0 to 100.
+
+87
+00:04:39,740 --> 00:04:43,460
+This is the value to the current owners of the companies.
+
+88
+00:04:43,460 --> 00:04:46,340
+However, if you sell them,
+
+89
+00:04:46,340 --> 00:04:50,260
+the buyers are able to run the companies more efficiently if you are.
+
+90
+00:04:50,260 --> 00:04:53,820
+So, every company is worth 50 percent more in the hands of
+
+91
+00:04:53,820 --> 00:04:57,340
+the buyer than it is in the hands of the current owner.
+
+92
+00:04:57,340 --> 00:04:59,700
+Okay. All right.
+
+93
+00:04:59,700 --> 00:05:01,980
+Now, what is going to happen?
+
+94
+00:05:01,980 --> 00:05:05,260
+Okay. Well, let's see.
+
+95
+00:05:05,260 --> 00:05:08,180
+Something that people often want to do is say,
+
+96
+00:05:08,180 --> 00:05:09,980
+well, fine, I'll just bid, I'll bid 50.
+
+97
+00:05:09,980 --> 00:05:12,180
+I'll bid the average value.
+
+98
+00:05:12,180 --> 00:05:14,260
+So, I'll bid 50.
+
+99
+00:05:14,260 --> 00:05:16,620
+And you intuitively think, well,
+
+100
+00:05:16,620 --> 00:05:19,860
+this is going to work out really well for me because I will bid 50,
+
+101
+00:05:19,860 --> 00:05:22,420
+and that's the average value of the company to the buyer,
+
+102
+00:05:22,420 --> 00:05:23,940
+so they'll be happy to sell to me,
+
+103
+00:05:23,940 --> 00:05:25,660
+but it's going to be worth 50 percent more to me,
+
+104
+00:05:25,660 --> 00:05:28,780
+so I expect to make a profit of 25 on the company.
+
+105
+00:05:28,780 --> 00:05:31,020
+That reasoning is totally wrong.
+
+106
+00:05:31,020 --> 00:05:33,620
+And if we've got asymmetric information,
+
+107
+00:05:33,620 --> 00:05:37,260
+it's because if the owners of the company know their true value,
+
+108
+00:05:37,260 --> 00:05:40,860
+but all that you know is the average value of the company sold,
+
+109
+00:05:40,860 --> 00:05:43,060
+something totally different will happen.
+
+110
+00:05:43,060 --> 00:05:44,900
+Namely, if you bid 50,
+
+111
+00:05:44,900 --> 00:05:48,100
+which companies will not be sold to you?
+
+112
+00:05:48,700 --> 00:05:52,780
+All the companies worth more than 50 will not be sold to you.
+
+113
+00:05:52,780 --> 00:05:55,700
+Those companies will be retained by the original owner,
+
+114
+00:05:55,700 --> 00:05:58,580
+who know that they are worth more than 50.
+
+115
+00:05:58,580 --> 00:06:02,820
+Therefore, the average value of the company sold to the owners,
+
+116
+00:06:02,820 --> 00:06:04,620
+out of all the companies sold,
+
+117
+00:06:04,620 --> 00:06:07,460
+the average value of the owners will be only 25.
+
+118
+00:06:07,460 --> 00:06:10,700
+It's going to be worth, so the average company that sold will be worth 25.
+
+119
+00:06:10,700 --> 00:06:14,260
+It's worth 50 percent more to you, so that's 37.5.
+
+120
+00:06:14,260 --> 00:06:17,900
+This means that you are paying 50 to get a company,
+
+121
+00:06:17,900 --> 00:06:19,740
+there's an average worth 37.5 to you,
+
+122
+00:06:19,740 --> 00:06:21,740
+so you are losing money.
+
+123
+00:06:22,060 --> 00:06:25,100
+All right. Now, what natural reaction is to say,
+
+124
+00:06:25,100 --> 00:06:27,460
+fine, I'll just go and bid 100.
+
+125
+00:06:27,460 --> 00:06:30,380
+We bid 100, then there's no longer any adverse selection.
+
+126
+00:06:30,380 --> 00:06:32,020
+All the companies get sold.
+
+127
+00:06:32,020 --> 00:06:34,660
+But in that case, you bid 100,
+
+128
+00:06:34,660 --> 00:06:36,620
+the average value is 50.
+
+129
+00:06:36,620 --> 00:06:38,820
+It's worth 50 percent more to you, so 75.
+
+130
+00:06:38,820 --> 00:06:42,500
+So, you have actually lost even more money by increasing your bid.
+
+131
+00:06:42,500 --> 00:06:47,460
+So, increasing your bid increases your loss even further.
+
+132
+00:06:47,460 --> 00:06:50,620
+Then, the natural thing to do is to try bidding less.
+
+133
+00:06:50,620 --> 00:06:53,300
+So, I say, fine, I'll just bid 25.
+
+134
+00:06:53,300 --> 00:06:56,660
+But then, the average value will be 12.5,
+
+135
+00:06:56,660 --> 00:07:00,460
+and the average value to the recipient will be 18.75.
+
+136
+00:07:00,460 --> 00:07:02,300
+So, again, you've lost money.
+
+137
+00:07:02,300 --> 00:07:05,700
+Sorry, fine, I'll go and bid two.
+
+138
+00:07:05,700 --> 00:07:08,140
+If you bid two, the average value of the company sold is one,
+
+139
+00:07:08,140 --> 00:07:09,980
+it's worth 1.5 to you, you've lost money.
+
+140
+00:07:09,980 --> 00:07:11,500
+Although, every time you cut your bid,
+
+141
+00:07:11,500 --> 00:07:12,940
+you are losing less money.
+
+142
+00:07:12,940 --> 00:07:14,300
+That's a good sign, right?
+
+143
+00:07:14,300 --> 00:07:18,220
+Because losing less is reducing your loss is better.
+
+144
+00:07:18,220 --> 00:07:21,020
+Then, finally, you may say, fine, how about I bid zero?
+
+145
+00:07:21,020 --> 00:07:23,900
+You bid zero, no companies are sold to you,
+
+146
+00:07:23,900 --> 00:07:26,220
+you pay nothing, they're worth nothing,
+
+147
+00:07:26,220 --> 00:07:27,700
+and you have now reached
+
+148
+00:07:27,700 --> 00:07:30,300
+the profit maximizing solution of this problem.
+
+149
+00:07:30,300 --> 00:07:33,740
+Buying no companies and losing no money is
+
+150
+00:07:33,740 --> 00:07:37,700
+the best possible outcome given the setup of the problem.
+
+151
+00:07:37,700 --> 00:07:40,620
+That clear to everyone?
+
+152
+00:07:40,620 --> 00:07:44,660
+So, this is an extreme case of adverse selection,
+
+153
+00:07:44,660 --> 00:07:46,580
+and this is one where there is full unraveling.
+
+154
+00:07:46,580 --> 00:07:48,860
+So, people fully understand what's going on.
+
+155
+00:07:48,860 --> 00:07:50,180
+No companies will be sold,
+
+156
+00:07:50,180 --> 00:07:52,100
+even though every company is worth more to
+
+157
+00:07:52,100 --> 00:07:54,460
+someone else than it is to the person that holds it.
+
+158
+00:07:54,460 --> 00:07:56,820
+That's what's so odd.
+
+159
+00:07:56,820 --> 00:07:59,300
+Okay. So, that's the equilibrium.
+
+160
+00:07:59,300 --> 00:08:01,740
+Now, if there were symmetric information,
+
+161
+00:08:01,740 --> 00:08:03,860
+there'd be a totally different result.
+
+162
+00:08:03,860 --> 00:08:06,780
+If there were symmetric equilibrium,
+
+163
+00:08:06,780 --> 00:08:08,420
+then there would be a different price for
+
+164
+00:08:08,420 --> 00:08:11,100
+every company and basically you just pay everybody.
+
+165
+00:08:11,100 --> 00:08:13,740
+You can offer everybody the value of their company,
+
+166
+00:08:13,740 --> 00:08:14,940
+or you can offer everybody, say,
+
+167
+00:08:14,940 --> 00:08:16,820
+10 percent more than the value of the company,
+
+168
+00:08:16,820 --> 00:08:19,940
+and then all the companies will be sold.
+
+169
+00:08:19,940 --> 00:08:22,900
+So, with symmetric information,
+
+170
+00:08:22,900 --> 00:08:24,900
+this would be a perfectly efficient markets.
+
+171
+00:08:24,900 --> 00:08:26,820
+Confirming that plan is telling you that
+
+172
+00:08:26,820 --> 00:08:29,100
+symmetric and perfect information by itself,
+
+173
+00:08:29,100 --> 00:08:29,980
+the ratchet goes over and over again.
+
+174
+00:08:29,980 --> 00:08:31,180
+That was perfect information.
+
+175
+00:08:31,180 --> 00:08:35,140
+Now, symmetric and perfect information would be,
+
+176
+00:08:35,140 --> 00:08:38,780
+if the sellers don't know the value of their company either.
+
+177
+00:08:38,780 --> 00:08:41,940
+All right. So, suppose that neither buyer
+
+178
+00:08:41,940 --> 00:08:44,580
+nor seller knows whether the company is any good.
+
+179
+00:08:44,580 --> 00:08:48,340
+In that case, the seller could go and offer 50,
+
+180
+00:08:48,340 --> 00:08:52,900
+everyone sells, and therefore,
+
+181
+00:08:52,900 --> 00:08:56,940
+the average buyer winds up getting a company worth 75.
+
+182
+00:08:56,940 --> 00:09:00,380
+Or you could say, so offer 51,
+
+183
+00:09:00,380 --> 00:09:02,260
+say, just to give a slight amount of
+
+184
+00:09:02,260 --> 00:09:04,900
+a slight share of the profit to the original owners.
+
+185
+00:09:04,900 --> 00:09:07,820
+But again, if the owners don't know if their company is any good,
+
+186
+00:09:07,820 --> 00:09:12,420
+and if the buyers don't know if the company is any good,
+
+187
+00:09:12,420 --> 00:09:15,540
+then you actually get a better outcome.
+
+188
+00:09:16,100 --> 00:09:20,220
+Which, if you think about it, is counterintuitive.
+
+189
+00:09:20,220 --> 00:09:22,620
+Because this is saying that,
+
+190
+00:09:22,620 --> 00:09:24,980
+we start out the world where some people
+
+191
+00:09:24,980 --> 00:09:27,940
+know they have perfect information and others don't,
+
+192
+00:09:27,940 --> 00:09:30,300
+we actually get a terrible outcome.
+
+193
+00:09:30,300 --> 00:09:34,740
+Whereas, if we go and mind wipe the sellers,
+
+194
+00:09:34,740 --> 00:09:37,940
+we actually move to not only a better outcome,
+
+195
+00:09:37,940 --> 00:09:42,380
+we can move to a fully efficient outcome by just deleting the information.
+
+196
+00:09:42,380 --> 00:09:45,740
+So, not only does this mean that
+
+197
+00:09:45,740 --> 00:09:49,220
+you can get a totally efficient result with the perfect information,
+
+198
+00:09:49,220 --> 00:09:54,300
+you can actually solve a market failure by reducing information.
+
+199
+00:09:54,300 --> 00:09:57,100
+It's completely true.
+
+200
+00:09:57,100 --> 00:09:59,500
+Again, what's the solution?
+
+201
+00:09:59,500 --> 00:10:01,300
+Now, again, of course, if there's
+
+202
+00:10:01,300 --> 00:10:02,260
+perfect information for everyone,
+
+203
+00:10:02,260 --> 00:10:04,620
+then there's no problem in this market. That's fine.
+
+204
+00:10:04,620 --> 00:10:07,340
+But, and if there is,
+
+205
+00:10:07,340 --> 00:10:09,780
+even if there's some metric imperfect, that's fine.
+
+206
+00:10:09,780 --> 00:10:12,180
+The inefficiency comes from the asymmetry.
+
+207
+00:10:12,180 --> 00:10:14,420
+If some people know and some don't,
+
+208
+00:10:14,420 --> 00:10:16,500
+then this leads to strategic behavior,
+
+209
+00:10:16,500 --> 00:10:19,500
+which leads to a socially inefficient outcome.
+
+210
+00:10:20,260 --> 00:10:22,820
+Everyone clear on that?
+
+211
+00:10:22,820 --> 00:10:24,460
+And again, understand the mind wipes.
+
+212
+00:10:24,460 --> 00:10:27,780
+This means that we can actually make some people know less,
+
+213
+00:10:27,780 --> 00:10:29,300
+the world would work better.
+
+214
+00:10:29,300 --> 00:10:31,780
+And in fact, you can make the world work perfectly.
+
+215
+00:10:31,780 --> 00:10:37,100
+If no one knew how good the countries were.
+
+216
+00:10:37,100 --> 00:10:41,900
+Surprising. Questions about that?
+
+217
+00:10:41,900 --> 00:10:45,620
+Is it too late to absorb how crazy that is?
+
+218
+00:10:45,620 --> 00:10:47,820
+Amazing that is? Yeah.
+
+219
+00:10:47,820 --> 00:10:49,700
+I mean, when you think about it more,
+
+220
+00:10:49,700 --> 00:10:51,860
+it's like you come up with those lots of examples.
+
+221
+00:10:51,860 --> 00:10:55,740
+Like, in general, can error make the world work better?
+
+222
+00:10:55,740 --> 00:10:59,740
+There's all kinds of errors which would be great if they were widely shared.
+
+223
+00:10:59,740 --> 00:11:02,060
+Like, suppose there was a view that if you murder anyone,
+
+224
+00:11:02,060 --> 00:11:03,940
+you will explode instantly.
+
+225
+00:11:03,940 --> 00:11:06,020
+This would basically abolish murder.
+
+226
+00:11:06,020 --> 00:11:09,460
+Is it true that you will explode if you murder someone?
+
+227
+00:11:09,460 --> 00:11:13,220
+No. Yet, would it be useful if people believe this?
+
+228
+00:11:13,220 --> 00:11:15,340
+It would be very useful.
+
+229
+00:11:15,340 --> 00:11:18,300
+So, it is not the case that if everybody,
+
+230
+00:11:18,300 --> 00:11:20,380
+whether that everybody understood the world perfectly,
+
+231
+00:11:20,380 --> 00:11:22,620
+it would like, would be an automatic improvement to the world,
+
+232
+00:11:22,620 --> 00:11:25,300
+where some people had some totally wrong views.
+
+233
+00:11:25,300 --> 00:11:28,660
+That's where we're pointing at. Okay.
+
+234
+00:11:28,660 --> 00:11:30,700
+All right. So, to repeat.
+
+235
+00:11:30,700 --> 00:11:34,180
+The same market if there is imperfect but symmetric information,
+
+236
+00:11:34,180 --> 00:11:35,980
+actually works perfectly fine.
+
+237
+00:11:35,980 --> 00:11:39,940
+Because if the, so if in a world of symmetric and perfect information,
+
+238
+00:11:39,940 --> 00:11:41,940
+if the sellers offer 51,
+
+239
+00:11:41,940 --> 00:11:43,140
+then all the buyers,
+
+240
+00:11:43,140 --> 00:11:45,540
+so if the buyers offer 51,
+
+241
+00:11:45,540 --> 00:11:49,220
+all the sellers sell because they know the people whose companies are here,
+
+242
+00:11:49,220 --> 00:11:50,580
+don't know that.
+
+243
+00:11:50,580 --> 00:11:52,500
+They think their companies are worth 50.
+
+244
+00:11:52,500 --> 00:11:55,900
+So, someone offers you 51 for a company that you think is worth 50,
+
+245
+00:11:55,900 --> 00:11:57,420
+you happily, happily sell.
+
+246
+00:11:57,420 --> 00:11:59,060
+And since by assumption,
+
+247
+00:11:59,060 --> 00:12:02,020
+every company is worth more than the buyer than the seller,
+
+248
+00:12:02,020 --> 00:12:06,140
+this means that we realize 100 percent of social gain.
+
+249
+00:12:06,140 --> 00:12:09,100
+Okay. All right.
+
+250
+00:12:09,100 --> 00:12:11,860
+Now, this is a classic example.
+
+251
+00:12:11,860 --> 00:12:13,500
+I think this is almost straight out of
+
+252
+00:12:13,500 --> 00:12:16,700
+George Akerlof's original paper on the market of lemons.
+
+253
+00:12:16,700 --> 00:12:19,500
+You may recall that he got an Nobel Prize for this.
+
+254
+00:12:19,500 --> 00:12:23,100
+He did cook the numbers to get this extreme result.
+
+255
+00:12:23,100 --> 00:12:25,020
+I don't even think he would deny it.
+
+256
+00:12:25,020 --> 00:12:28,900
+But anyway, but it was strategically very wise for him to do this,
+
+257
+00:12:28,900 --> 00:12:31,060
+because it's such a shocking result, right?
+
+258
+00:12:31,060 --> 00:12:35,380
+But anyway, you could go and tone down the numbers and get very different results.
+
+259
+00:12:35,380 --> 00:12:39,020
+All right. So, for example, let's see.
+
+260
+00:12:39,020 --> 00:12:44,140
+So, suppose that the companies were worth twice as much to buyers as they are to sellers.
+
+261
+00:12:44,140 --> 00:12:48,260
+In that case, if you were to go and offer 50,
+
+262
+00:12:48,260 --> 00:12:50,900
+you would at least break even.
+
+263
+00:12:50,900 --> 00:12:52,060
+So, no harm there.
+
+264
+00:12:52,060 --> 00:12:53,660
+You could offer 100, you'd break even.
+
+265
+00:12:53,660 --> 00:12:55,460
+So, no harm. All right.
+
+266
+00:12:55,460 --> 00:12:56,580
+Or again, if they were triple,
+
+267
+00:12:56,580 --> 00:12:59,060
+then you would definitely be happy to go and pay that amount,
+
+268
+00:12:59,060 --> 00:13:01,140
+you would profit from it. All right.
+
+269
+00:13:01,140 --> 00:13:05,940
+Then, suppose like, and then we can also alter the distributional assumption.
+
+270
+00:13:05,940 --> 00:13:08,740
+So, here we assume a uniform distribution,
+
+271
+00:13:08,740 --> 00:13:11,980
+where you're equally likely to be any of these, right?
+
+272
+00:13:11,980 --> 00:13:16,260
+But you can imagine another world where it's just,
+
+273
+00:13:16,260 --> 00:13:19,260
+let's see, so we have zero to 100.
+
+274
+00:13:19,260 --> 00:13:23,660
+Let's suppose we just have one spike of 50 percent of the companies are at 50,
+
+275
+00:13:23,660 --> 00:13:27,900
+and another spike of 50 percent of the companies are at 100, right?
+
+276
+00:13:27,900 --> 00:13:31,980
+In this world, at least we would realize half of the companies would be sold,
+
+277
+00:13:31,980 --> 00:13:33,660
+because you would go and offer 50,
+
+278
+00:13:33,660 --> 00:13:38,020
+and then the average value of the companies that are sold when you offer 50 would be 50,
+
+279
+00:13:38,020 --> 00:13:40,940
+and then you would go and make a profit of 25 of those companies.
+
+280
+00:13:40,940 --> 00:13:43,180
+So, now let's see.
+
+281
+00:13:43,180 --> 00:13:45,820
+If you were to go and offer 100, let's see.
+
+282
+00:13:45,820 --> 00:13:49,340
+So, you have to offer 100 in order to get all of them sold,
+
+283
+00:13:49,340 --> 00:13:50,660
+and let's see, in that case,
+
+284
+00:13:50,660 --> 00:13:52,580
+would that be worthwhile? Let's see.
+
+285
+00:13:52,580 --> 00:13:54,420
+So, if you did that,
+
+286
+00:13:54,420 --> 00:13:58,380
+then the average value would be of one sold would be 75,
+
+287
+00:13:58,380 --> 00:14:00,420
+and then yes. So, actually,
+
+288
+00:14:00,420 --> 00:14:03,380
+in that case, it would be worth offering 100,
+
+289
+00:14:03,380 --> 00:14:06,340
+and then all the companies would be sold, right?
+
+290
+00:14:06,340 --> 00:14:09,940
+And then you wish that those had been sold,
+
+291
+00:14:09,940 --> 00:14:13,500
+but nevertheless, overall you still make money.
+
+292
+00:14:13,500 --> 00:14:15,860
+So, basically, if you go and offer the distributions,
+
+293
+00:14:15,860 --> 00:14:17,740
+that will change the result too.
+
+294
+00:14:17,740 --> 00:14:23,820
+Okay. Now, average selection models are very poorly understood,
+
+295
+00:14:23,820 --> 00:14:27,780
+because there's a story that people want to believe,
+
+296
+00:14:27,780 --> 00:14:31,620
+and that is very much part of popular culture,
+
+297
+00:14:31,620 --> 00:14:34,780
+and then there's the story that average selection actually tells, right?
+
+298
+00:14:34,780 --> 00:14:37,060
+So, the story that people want to believe is that there are,
+
+299
+00:14:37,060 --> 00:14:39,340
+for example, evil greedy car dealers,
+
+300
+00:14:39,340 --> 00:14:41,100
+especially used car dealers,
+
+301
+00:14:41,100 --> 00:14:44,340
+and every day they wake up,
+
+302
+00:14:44,340 --> 00:14:46,820
+and they look in the mirror, and they look like wolves,
+
+303
+00:14:46,820 --> 00:14:49,700
+or like predators, and then they go,
+
+304
+00:14:49,700 --> 00:14:52,260
+and they put on a mask, and try to act like a nice guy,
+
+305
+00:14:52,260 --> 00:14:54,900
+and they put on their sheep costumes,
+
+306
+00:14:54,900 --> 00:14:56,420
+and they're wolves inside,
+
+307
+00:14:56,420 --> 00:15:00,100
+and then customers who are just like sheep show up,
+
+308
+00:15:00,100 --> 00:15:02,260
+and say, is this a good car?
+
+309
+00:15:02,260 --> 00:15:05,540
+And they go, yes, yes, yes.
+
+310
+00:15:05,540 --> 00:15:08,180
+Oh, grandmother, what have you guys done?
+
+311
+00:15:08,180 --> 00:15:12,260
+All right. So, and then what inevitably happens is,
+
+312
+00:15:12,260 --> 00:15:16,460
+the evil wolves go and rip off the innocent sheep,
+
+313
+00:15:16,460 --> 00:15:19,940
+and they get rich, and they go home every day and count their gold.
+
+314
+00:15:19,940 --> 00:15:21,700
+They go, ah, the stupid sheep,
+
+315
+00:15:21,700 --> 00:15:23,940
+I ruined it. There's a sucker born every minute.
+
+316
+00:15:23,940 --> 00:15:28,180
+All right. So, and many people go and hear about
+
+317
+00:15:28,180 --> 00:15:31,420
+Ackermann's market for lemons or whatever selection in general,
+
+318
+00:15:31,420 --> 00:15:36,620
+and they think this is the model that shows why that's basic economics.
+
+319
+00:15:36,620 --> 00:15:41,740
+It's basic economics that used car dealers get super rich ripping people off.
+
+320
+00:15:41,740 --> 00:15:44,460
+But that's not the model at all.
+
+321
+00:15:44,460 --> 00:15:46,380
+That model could be right,
+
+322
+00:15:46,380 --> 00:15:48,820
+but it's not Ackerlof's model.
+
+323
+00:15:48,820 --> 00:15:51,420
+So, like in Ackerlof's model,
+
+324
+00:15:51,420 --> 00:15:54,540
+it would be generally known that the people who run
+
+325
+00:15:54,540 --> 00:15:57,180
+used car dealerships are wolves who run to rip people off,
+
+326
+00:15:57,180 --> 00:15:58,540
+and then what would the sheep do?
+
+327
+00:15:58,540 --> 00:15:59,820
+Not buy cars.
+
+328
+00:15:59,820 --> 00:16:01,460
+Yeah, not buy used cars.
+
+329
+00:16:01,460 --> 00:16:03,140
+It would say, no way.
+
+330
+00:16:03,140 --> 00:16:05,860
+I'm not going to send food out to your car dealership.
+
+331
+00:16:05,860 --> 00:16:08,300
+I know what kind of game you're playing.
+
+332
+00:16:08,300 --> 00:16:09,780
+No way.
+
+333
+00:16:09,780 --> 00:16:11,140
+But, oh no, I want to.
+
+334
+00:16:11,140 --> 00:16:12,140
+I mean, I know.
+
+335
+00:16:12,140 --> 00:16:13,820
+So, it would be like that.
+
+336
+00:16:13,820 --> 00:16:17,260
+And the result would be that the wolves would not get rich.
+
+337
+00:16:17,260 --> 00:16:18,460
+The wolves would starve to death.
+
+338
+00:16:18,460 --> 00:16:21,620
+They would have no business because no one trusts them, and why would they?
+
+339
+00:16:21,620 --> 00:16:24,220
+So, in the fake story,
+
+340
+00:16:24,220 --> 00:16:26,460
+customers of sheep, but in Ackermann's story,
+
+341
+00:16:26,460 --> 00:16:28,060
+they're the third gold king.
+
+342
+00:16:28,060 --> 00:16:29,740
+Yeah, yeah, yeah, sure.
+
+343
+00:16:29,740 --> 00:16:32,020
+Yeah, they're like, yeah,
+
+344
+00:16:32,020 --> 00:16:35,540
+we need to remember all these fables, but yeah.
+
+345
+00:16:35,540 --> 00:16:37,380
+It's like, no way.
+
+346
+00:16:37,380 --> 00:16:40,460
+You can't fool me.
+
+347
+00:16:40,460 --> 00:16:41,620
+So, that's the idea.
+
+348
+00:16:41,620 --> 00:16:44,540
+And again, so in the Ackermann model,
+
+349
+00:16:44,540 --> 00:16:47,260
+if used car markets exist at all,
+
+350
+00:16:47,260 --> 00:16:49,820
+the average customer benefits.
+
+351
+00:16:49,820 --> 00:16:53,740
+There are some people who go and get ripped off.
+
+352
+00:16:53,740 --> 00:16:56,740
+But, in order for the market to exist,
+
+353
+00:16:56,740 --> 00:17:00,580
+who must be out there to balance out the people who get ripped off?
+
+354
+00:17:00,580 --> 00:17:02,020
+People who get a better deal.
+
+355
+00:17:02,020 --> 00:17:03,500
+Yeah, people who get a great deal.
+
+356
+00:17:03,500 --> 00:17:07,100
+So, it's the person who shows up there and says,
+
+357
+00:17:07,100 --> 00:17:08,620
+well, why are you selling?
+
+358
+00:17:08,620 --> 00:17:10,420
+And the guy honestly says,
+
+359
+00:17:10,420 --> 00:17:11,460
+well, I'm moving to Hawaii,
+
+360
+00:17:11,460 --> 00:17:13,420
+so I got a week, I've got to sell this.
+
+361
+00:17:13,420 --> 00:17:15,500
+You're like, oh, right.
+
+362
+00:17:15,500 --> 00:17:19,140
+And then, as a result of the fact that there's a lot of dishonest people,
+
+363
+00:17:19,140 --> 00:17:22,620
+the person who meets the person who genuinely is selling a good car to move to
+
+364
+00:17:22,620 --> 00:17:26,420
+Hawaii gets a fantastic deal.
+
+365
+00:17:26,420 --> 00:17:30,780
+All right. And so, this is the Ackermann model says that
+
+366
+00:17:30,780 --> 00:17:34,700
+markets for lemons are smaller than they otherwise would be,
+
+367
+00:17:34,700 --> 00:17:36,460
+but insofar as they exist,
+
+368
+00:17:36,460 --> 00:17:39,260
+they remain mutually beneficial on average.
+
+369
+00:17:39,260 --> 00:17:41,780
+So, it's not the story of
+
+370
+00:17:41,780 --> 00:17:45,700
+like a giant industry of rip-offs and exploitation and fraud.
+
+371
+00:17:45,700 --> 00:17:48,380
+Instead, it's a story where if there's any fraud,
+
+372
+00:17:48,380 --> 00:17:52,260
+it's balanced out by giant windfalls, jackpots.
+
+373
+00:17:52,260 --> 00:17:54,540
+People go and buy a used product and say,
+
+374
+00:17:54,540 --> 00:17:56,540
+my God, this is a great bargain.
+
+375
+00:17:56,540 --> 00:17:59,340
+I paid 2,000 bucks for this thing, it's like new.
+
+376
+00:17:59,340 --> 00:18:01,260
+I guess he really was moving to Hawaii.
+
+377
+00:18:01,260 --> 00:18:02,900
+Well, tough luck, tough to be him.
+
+378
+00:18:02,900 --> 00:18:05,140
+Too bad. Tough luck.
+
+379
+00:18:05,140 --> 00:18:08,780
+All right. So, that's the actual Akerlof story.
+
+380
+00:18:08,780 --> 00:18:12,740
+Right now, this doesn't mean that the massive exploitation series is wrong,
+
+381
+00:18:12,740 --> 00:18:15,180
+it just means that you need to come up with a completely different model,
+
+382
+00:18:15,180 --> 00:18:17,940
+and Akerlof's got nothing to do with it.
+
+383
+00:18:17,940 --> 00:18:22,540
+All right. Okay. So, questions about that.
+
+384
+00:18:22,540 --> 00:18:26,380
+So, this is not a model of industries that are worth it,
+
+385
+00:18:26,380 --> 00:18:27,860
+that are a good idea to ban.
+
+386
+00:18:27,860 --> 00:18:33,260
+It's not a model of industries where the typical customer is getting ripped off.
+
+387
+00:18:33,260 --> 00:18:36,380
+Right? If you take them all seriously,
+
+388
+00:18:36,380 --> 00:18:39,660
+then you might say, why do you hear about the rip-off so much?
+
+389
+00:18:39,660 --> 00:18:44,100
+I mean, why do you so rarely hear about someone who gets a great deal from a used car dealer?
+
+390
+00:18:44,100 --> 00:18:48,100
+What is an answer consistent with the model?
+
+391
+00:18:50,260 --> 00:18:54,860
+People who buy good deals don't want other people dropping out of the market.
+
+392
+00:18:54,860 --> 00:18:58,660
+Well, that would kind of be a public good for a car.
+
+393
+00:18:58,660 --> 00:19:00,060
+How do you think they don't want?
+
+394
+00:19:00,060 --> 00:19:07,100
+I mean, people are more inclined to complain about bad deals than to brag about good deals.
+
+395
+00:19:07,100 --> 00:19:10,220
+When you brag about getting ripped off, you get sympathy.
+
+396
+00:19:10,220 --> 00:19:13,140
+Rather, when you whine about getting ripped off, you get sympathy.
+
+397
+00:19:13,140 --> 00:19:15,900
+When you brag about getting a good deal, what do you get?
+
+398
+00:19:15,900 --> 00:19:18,180
+Envy, bitterness.
+
+399
+00:19:18,180 --> 00:19:19,660
+Oh, you had to go and say,
+
+400
+00:19:19,660 --> 00:19:22,660
+oh, you got this great deal on his fur coat.
+
+401
+00:19:22,660 --> 00:19:25,420
+God, I hate that guy so much.
+
+402
+00:19:25,420 --> 00:19:28,700
+I hope his coat burns.
+
+403
+00:19:28,700 --> 00:19:31,940
+I mean, there are many, many examples of this.
+
+404
+00:19:31,940 --> 00:19:36,220
+So, if you look at the statistics for the former Soviet Union,
+
+405
+00:19:36,220 --> 00:19:38,140
+you'll see a ton of people are better off,
+
+406
+00:19:38,140 --> 00:19:40,140
+and yet there's almost no media stories,
+
+407
+00:19:40,140 --> 00:19:44,860
+almost no academic research on people that talk about how great everything was for them.
+
+408
+00:19:44,860 --> 00:19:50,420
+Instead, they just keep their heads down and stay under radar and enjoy their new high-side living standard.
+
+409
+00:19:50,420 --> 00:19:53,460
+But there's a lot of research on people who lose out.
+
+410
+00:19:53,460 --> 00:19:57,500
+Of course, you could also just think about what almost all news is like.
+
+411
+00:19:57,500 --> 00:20:22,500
+How often are there good stories on the news?
+
+

@@ -1,0 +1,8 @@
+9. Rationally ignorant voters could punish dishonest politicians by increasing the punishment for hard-to-detect offenses.
+
+True, False, and Explain: One reason that fully rational voters might fail to use this strategy is a coordination problem.
+
+True. See page 325 of "Rational Irrantionality and MicrofoundationsÉ". "Why then would a majority of rational voters oppose economic reforms with negative costs and positive benefits? Resolving this puzzle without abandoning voter rationality is challenging but not impossible. Theorists raise several possibilities. Voters might simply be risk-averse. Voters and reformers could be playing a complicated game of asymmetric information and signaling (e.g., Alesina and Drazen, 1991). Different voting blocs might suffer from coordination problems (e.g., Lab‡n and Sturzenegger, 1994). Fernandez and Rodrik (1991) show that even with risk-neutral voters, uncertainty about the identity of the gainers and losers could be a sufficient explanation." (emphasis added)
+
+2005 FINAL EXAM
+

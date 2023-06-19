@@ -1,0 +1,12 @@
+3.  A MSNE also exists.   
+ 
+True, False, and Explai n: In this MSNE, Tyler is indifferent when:  
+P(Bryan plays Comics)*P(John plays Comics)=P(Bryan plays Chess)*P(John plays Chess)=  
+P(Bryan plays Opera)*P(John plays Opera)  
+ 
+FALSE.  This would only be true if all the payoffs for Tyler were equal, which they a re not.  Tyler is 
+actually indifferent when:  
+ 
+1*P(Bryan plays Comics)*P(John plays Comics)= 5*P(Bryan plays Chess)*P(John plays Chess)=  
+4*P(Bryan plays Opera)*P(John plays Opera)  
+ 

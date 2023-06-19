@@ -1,0 +1,6 @@
+1. For an infinitely-repeated 3-firm oligopoly game, determine the critical value of b for Bertrand collusion enforced by punishments of just ONE turn of Nash reversion.
+
+So we've got the form of this one down, but we are unsure on the mathematics--I think we should probably ask Abby Devereaux on Monday since she is so much better with the math than we are. Basically, you are comparing splitting the profits among three firms forever with a case where you alternate between capturing the monopoly profits and taking a profit of zero when the nash reversion is deployed. The infinite sums get a little weird, but once we figure that out, we can solve these problems fairly easily. 
+
+Am I understanding this correctly?: We want to find the critical beta for 1/N ·_(t=0)^° ???^t??^ ??_m?³??_m?+0+1/N ·_(t=2)^° ???^t??^ ??_m?, where the righthand side of the inequality represents cheating in period 0, having no profit in period 1, and then reverting back to collusion in period 2
+

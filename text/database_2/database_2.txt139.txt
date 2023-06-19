@@ -1,0 +1,10 @@
+2. Suppose a market has free entry, positive fixed costs, and constant marginal costs.
+ 
+True, False, and Explain:  Cournot competition leads to a first-best efficient outcome.
+
+
+Week 5 notes: VIII. J: "If you add a fixed costs for each firm, it can also be proven that Cournot competition with free entry is not even second-best. Imposing a zero-profit condition implies an inefficiently large number of firms."
+
+HW 4: #7 and #8 deal with outcomes under Cournot competition
+
+

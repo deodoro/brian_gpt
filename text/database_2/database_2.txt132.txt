@@ -1,0 +1,20 @@
+3.  Suppose your EU=w.5, and insurance is sold at 50% more than the actuarially fair rate.  Your uninsured income is $10,000 with p=.5, and $0 with p=5.  
+ 
+True, False, and Explain: Your optimal quantity of insurance>$1000.
+	
+True, you want to to buy $3,333.33 worth of insurance. 
+
+price of insurance = (probability of receiving insurance)*(rate of insurance)
+	rate of insurance = X
+	price of insurance = P(insurance)*X*i
+
+Maxi 0.5(10,000 - 0.75i)0.5 + 0.5(0 + i - 0.75i)0.5
+Maxi 0.5(10,000 - 0.75i)0.5 + 0.5(0.25i)0.5
+d/di=(0.5)(0.5)(-0.75)?(10,000-0.75i)?^(-0.5)+(0.5)(0.5)(0.25)?(0.25i)?^(-0.5)=0
+	(0.5)(0.5)(0.25)?(0.25i)?^(-0.5)=(0.5)(0.5)(0.75)?(10,000-0.75i)?^(-0.5)
+	?(0.25i)?^(-0.5)=3?(10,000-0.75i)?^(-0.5)
+	0.25i=1/9(10,000-0.75i)
+	1/4 i=10,000/9-1/12 i
+	1/3 i=10,000/9
+	i^*=10,000/3Å$3,333.33>$1,000
+ 

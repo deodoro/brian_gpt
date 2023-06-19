@@ -1,0 +1,13 @@
+2. True, False, and Explain:  If the two types of agents did not interact (i.e., there 
+is one island for all of the A's and a different island for all of the B's), the inte rest 
+rate on A would be positive but the interest rate on B would be negative.  
+ 
+FALSE.  The interest rate would be positive on both islands.  You do not need to re -do the 
+calculations to answer.  The interest rate on A would obviously be infinite because t he agents put 
+zero value on period 2 consumption but have positive endowments in that period.  But the interest 
+rate on B would also be positive, because the B's value both goods equally but have bigger 
+endowments in period 2.  Therefore they would seek to  borrow in period 1 until the interest rate 
+got high enough to make them content to consume 1 unit in period 1 and 2 units in period 2.  
+ 
+ 
+ 

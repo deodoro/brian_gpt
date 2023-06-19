@@ -1,0 +1,19 @@
+7.2.*) |~ ( 24.24. reliable CKP   
+only if P(CK|~reliable)<.514 . 
+ 
+Questions 2 and 3  refer to the following information:  
+ 
+Bryan, Tyler, a nd John play a game with three possible strategies: Comics, 
+Chess, and Opera.  Their payoffs are:  
+ 
+ Bryan  Tyler  John  
+Everyone Plays Comics  10 1 2 
+Everyone Plays Chess  1 5 5 
+Everyone Plays Opera  4 4 4 
+All Other Cases  0 0 0 
+   
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,32 @@
+1. Two players are deciding whether to contribute to a public good.  The public good is discrete: it is produced at the optimal level so long as one person contributes.  If the public good is produced, everyone gets a benefit of 3 if they didn't contribute, and 2 if they did.  If no one contributes, everyone gets 0.  
+ 
+True, False, and Explain:  This is a Prisoners' Dilemma, not a Hawk-Dove game.
+ 
+False. Like in a Hawk-Dove Game, there are two PSNE, both of which require that one person contributes while the other doesn't. Like in the hawk-dove games we saw in class, two PSNEs exist--both of which require one player chooses peace and the other player chooses war. Unlike the Hawk-Dove games we saw in class where peace, peace is a first best outcome, the contribute, contribute is not a first-best solution in the public goods provision game. This is not a prisoner's dilemma--a prisoner's dilemma has one PSNE, which is the first-best outcome. 
+
+Hawk-Dove Game
+
+War
+Peace
+War
+-10,-10
+5, 1
+Peace
+1, 5
+4, 4
+
+Public Goods Decision
+
+Contribute
+Don't
+Contribute
+2,2
+2,3
+Don't
+3,2
+0,0
+
+*2007 Midterm -- similar question
+ 
+Caplan said, The key feature of the Hawk-Dove game is that you if someone is doing something you want to do the opposite. So this IS a Hawk-Dove game.
+

@@ -1,0 +1,15 @@
+1.  Give an example of lexicographic preferences.  How can lexicographic 
+preferences preclude the existenc e of a general equilibrium?  Is it possible for a 
+general equilibrium to exist given the existence of lexicographic preferences?  
+Explain.  
+ 
+I lexicographic ally  preference my sons' lives to money – I wouldn't part with them for any amount 
+of money.  Lexicog raphic preferences can preclude the existence of general equilibrium because 
+if everyone shares the same preferences, they won't sell the lexicographically preferred good to 
+buy more of other goods at any p>0 – but if the price of other goods falls to 0, t hey want more of 
+these other goods than exist.  There are many ways that general equilibrium could co-exist with 
+lexicographic preferences:  (1)  Some people have these preferences, others don't, and the former 
+buy all of the lexicographically preferred goo d from the latter; (2) People have different 
+lexicographic preferences; (3) People only have lexicographic preferences up to a certain quantity 
+(e.g. everyone might have a lexicographic preference for one kidney, but not two).  
+

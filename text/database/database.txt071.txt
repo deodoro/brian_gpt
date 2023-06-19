@@ -1,0 +1,16 @@
+4.  This game has two PSNE, plus a MSNE  where players play (Truth, Trust) 
+with probabilities (.5,.5).  
+ 
+FALSE.  There a re zero  PSNE, but the MSNE given is correct.  For the PSNE, notice that at 
+(Trust, Truth), Player 1 wants to switch; at (Truth, Doubt) Player 2 wants to switch; at (Trust, Lie) 
+Player 2 wants to switch; and at (Lie, Doubt) Player 1 wants to switch.  For th e MSNE, similarly:  
+ 
+Player 1 is indifferent when:  
+ 
+2σ+0(1 -σ)=4σ -2(1 -σ), implying  σ=.5.  
+ 
+Player 2 is indifferent when:  
+ 
+2φ-2(1 -φ)=0, implying φ=.5.  
+ 
+ 

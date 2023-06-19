@@ -1,0 +1,10 @@
+3.  Consider t he following 2 -player game:  
+ Up Down  
+Left  0,0  0,0  
+Right  0,0  0,0  
+ 
+True, False, and Explain:   This game has 4 PSNE but no MSNE.  
+ 
+FALSE.  The game has 4 PSNE, but also an infinite number of MSNE.  Since all payoffs are zero, 
+EVERY combination of probabilit ies leaves everyone indifferent, so they’re all MSNEs.  
+

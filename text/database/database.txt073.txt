@@ -1,0 +1,21 @@
+6.  Two players play an Ultimatum game, followed by a Coordination game.  
+ 
+True, False, and Explain:   There are an infinite number of SGPPSNE, some  of 
+which have a 50/50 split in the first turn.  
+ 
+TRUE.  As long as one Coordination game has lower payoffs for Player 1, there is a viable threat.  
+Suppose, for example , that:  
+ 
+ β=1 
+ in turn 1, the players are splitting 2   25 
+ in turn 2  (Left, Left) yields a pay off of (5,5) and (Right, Right) yields a payoff of (3,3)  (and of 
+course (Left, Right) and (Right, Left) yield (0,0)) .   
+ 
+Then the following is an equilibrium: in turn 1, a 50/50 split; in turn 2, (Left, Left) if Player 1 offered 
+at least 50/50 in turn 1, a nd (Right, Right) otherwise.  If player 1 offers 100/0 instead of 50/50, he 
+gains 1 in  turn 1, but loses 2 in turn 2.  
+ 
+Now notice that since payoffs are continuous, this is just one out of a n infinite number of equilibria .  
+The above approach could also su stain 50.01/49.99, 50.02/49.98, etc.  
+ 
+ 

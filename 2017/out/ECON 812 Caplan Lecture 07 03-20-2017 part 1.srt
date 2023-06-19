@@ -1,0 +1,1221 @@
+1
+00:00:00,000 --> 00:00:07,000
+And don't participate in any experiments that you know about, because you guys are PhD students too.
+
+2
+00:00:07,000 --> 00:00:09,000
+So, for you know that.
+
+3
+00:00:09,000 --> 00:00:13,000
+So anyone not have the answer key slash histogram?
+
+4
+00:00:13,000 --> 00:00:15,000
+There?
+
+5
+00:00:15,000 --> 00:00:17,000
+Let's see.
+
+6
+00:00:17,000 --> 00:00:19,000
+There?
+
+7
+00:00:19,000 --> 00:00:21,000
+There you go.
+
+8
+00:00:21,000 --> 00:00:25,000
+Oh, I think I might have to come in after.
+
+9
+00:00:25,000 --> 00:00:27,000
+Can you say my name?
+
+10
+00:00:27,000 --> 00:00:30,000
+So everyone else have the answer key and histogram?
+
+11
+00:00:30,000 --> 00:00:31,000
+Thanks.
+
+12
+00:00:31,000 --> 00:00:33,000
+And...
+
+13
+00:00:33,000 --> 00:00:36,000
+Name one sex, Al.
+
+14
+00:00:36,000 --> 00:00:37,000
+Let's see.
+
+15
+00:00:37,000 --> 00:00:38,000
+Third lane go?
+
+16
+00:00:38,000 --> 00:00:39,000
+Yeah, there you go.
+
+17
+00:00:39,000 --> 00:00:41,000
+And then...
+
+18
+00:00:41,000 --> 00:00:42,000
+Justin Moore.
+
+19
+00:00:42,000 --> 00:00:44,000
+Justin.
+
+20
+00:00:44,000 --> 00:00:46,000
+What do we have down here?
+
+21
+00:00:46,000 --> 00:00:49,000
+Jay.
+
+22
+00:00:49,000 --> 00:00:51,000
+Alexander.
+
+23
+00:00:51,000 --> 00:00:54,000
+Tate.
+
+24
+00:00:54,000 --> 00:00:55,000
+Jordan.
+
+25
+00:00:55,000 --> 00:01:01,000
+Maybe I'll put it in the window.
+
+26
+00:01:01,000 --> 00:01:06,000
+There you go.
+
+27
+00:01:06,000 --> 00:01:07,000
+Alright.
+
+28
+00:01:07,000 --> 00:01:10,000
+So...
+
+29
+00:01:10,000 --> 00:01:18,000
+The exam was a bit easier than I was shooting for, but it's all on a curve, so that should not be a concern.
+
+30
+00:01:18,000 --> 00:01:19,000
+Let's see.
+
+31
+00:01:19,000 --> 00:01:22,000
+So we are not going to actually discuss the exam today.
+
+32
+00:01:22,000 --> 00:01:33,000
+I had a bad experience in a parking lot once, and so I make it a policy to have a three-day cooling-off period before I ever talk about an exam with anyone.
+
+33
+00:01:33,000 --> 00:01:49,000
+But you do have the answer key, so if you have any questions or you're not happy with your grade, I encourage you to compare your answers to the answer key, and then I'm happy to talk to anyone beginning on Thursday.
+
+34
+00:01:49,000 --> 00:01:57,000
+So beginning on Thursday, and of course you can answer, I'm happy to answer questions in class, next class, but you don't have to ask questions to the whole group.
+
+35
+00:01:57,000 --> 00:02:01,000
+You can come to me, you can call me, email me, whatever you like.
+
+36
+00:02:01,000 --> 00:02:04,000
+But today we're not going to talk about it.
+
+37
+00:02:04,000 --> 00:02:05,000
+Alright.
+
+38
+00:02:05,000 --> 00:02:06,000
+So...
+
+39
+00:02:06,000 --> 00:02:08,000
+Let's see.
+
+40
+00:02:08,000 --> 00:02:10,000
+Instead we're just going to forge ahead.
+
+41
+00:02:10,000 --> 00:02:11,000
+We're talking about our emotions?
+
+42
+00:02:11,000 --> 00:02:12,000
+No, I'm just kidding.
+
+43
+00:02:12,000 --> 00:02:13,000
+Yes.
+
+44
+00:02:13,000 --> 00:02:19,000
+That was part of the bad thing in the parking lot.
+
+45
+00:02:19,000 --> 00:02:21,000
+So, yes.
+
+46
+00:02:21,000 --> 00:02:22,000
+Alright.
+
+47
+00:02:22,000 --> 00:02:23,000
+And...
+
+48
+00:02:23,000 --> 00:02:32,000
+Let's see here.
+
+49
+00:02:32,000 --> 00:02:38,000
+Alright, and then I've got one spare copy of the week 8 notes for...
+
+50
+00:02:38,000 --> 00:02:40,000
+So I remember I handed them out, but...
+
+51
+00:02:40,000 --> 00:02:42,000
+I already got one, but I forgot it.
+
+52
+00:02:42,000 --> 00:02:45,000
+You guys saw your hand first.
+
+53
+00:02:45,000 --> 00:02:56,000
+Okay, so we're just going to forge ahead into symmetric information.
+
+54
+00:02:56,000 --> 00:02:58,000
+Okay.
+
+55
+00:02:58,000 --> 00:03:03,000
+So remember last class we did expected utility theory, or we started with expected utility theory.
+
+56
+00:03:03,000 --> 00:03:12,000
+And the whole idea of expected utility theory is that you have to have some utility wealth function, such as u is equal to the square root of your wealth.
+
+57
+00:03:12,000 --> 00:03:19,000
+And then the idea of expected utility theory is that everybody maximizes a linearly...
+
+58
+00:03:19,000 --> 00:03:29,000
+Maximizes the utility weighted by probabilities of different events occurring.
+
+59
+00:03:29,000 --> 00:03:32,000
+So, and the key thing is that the weights are always linear.
+
+60
+00:03:32,000 --> 00:03:40,000
+So if something has a 30% chance of happening, you put.3 ahead of whatever the event is, and then you plug it in.
+
+61
+00:03:40,000 --> 00:03:44,000
+So, I think the example I gave last time was in fact just exactly this.
+
+62
+00:03:44,000 --> 00:03:47,000
+So u is equal to the square root of w, where w is.5.
+
+63
+00:03:47,000 --> 00:03:59,000
+And then if you were evaluating two lottery tickets, one with a 50% chance of 10,000 and a 50% chance of 0.
+
+64
+00:03:59,000 --> 00:04:07,000
+That's one lottery ticket, and the other lottery ticket is 2,000 with probability 100%.
+
+65
+00:04:07,000 --> 00:04:10,000
+So these are the two lottery tickets. Which one do you want?
+
+66
+00:04:10,000 --> 00:04:22,000
+The way, what expected utility theory says that you will do is for this one you take.5 times the square root of 10,000 plus.5 times the square root of 0.
+
+67
+00:04:22,000 --> 00:04:32,000
+And then compare that to 1 times the square root of 2,000 and whichever one is higher, so the expected utility theory says you will do whichever one is higher.
+
+68
+00:04:32,000 --> 00:04:38,000
+Alright, so and if you plug it through, that one comes out to 50, that one comes out to 44.72.
+
+69
+00:04:38,000 --> 00:04:44,000
+So that is the preferred lottery ticket for someone with that expected utility function.
+
+70
+00:04:44,000 --> 00:04:53,000
+Alright, now just one math aside if you're curious, if you have never heard of any of this don't worry about it.
+
+71
+00:04:53,000 --> 00:04:56,000
+Maybe just a small, small snap.
+
+72
+00:04:56,000 --> 00:05:04,000
+So you might remember when you were doing utility theory, did you ever hear that utility functions are invariant up to a monotonic transformation?
+
+73
+00:05:04,000 --> 00:05:10,000
+So that means if you maximize utility you can also square the utility function, you can add 10 to it.
+
+74
+00:05:10,000 --> 00:05:20,000
+Anything that keeps the utilities that were higher before higher afterwards, anything that preserves the relative ranking is a perfectly fine thing to do.
+
+75
+00:05:20,000 --> 00:05:22,000
+Alright, so that is, we're reversing it.
+
+76
+00:05:22,000 --> 00:05:28,000
+It would not be okay to say take the cosine of your utility function because cosine is not another monotonic function.
+
+77
+00:05:28,000 --> 00:05:32,000
+Right, cosine goes like that, okay.
+
+78
+00:05:32,000 --> 00:05:37,000
+Alright, now expected utility theory, expected utility functions are not like that.
+
+79
+00:05:37,000 --> 00:05:44,000
+So you can go and do a monotonic transformation of expected utility, which would expect utility function and get a different answer.
+
+80
+00:05:44,000 --> 00:05:49,000
+So all that you're allowed to do with expected utility function is what's called an affine transformation.
+
+81
+00:05:49,000 --> 00:05:54,000
+That means you can multiply expected utility by any constant or you can add a constant to it.
+
+82
+00:05:54,000 --> 00:05:56,000
+And then it's still unique.
+
+83
+00:05:56,000 --> 00:06:02,000
+So expected utility theory of radical W is the same as like 2 radical W minus 8.
+
+84
+00:06:02,000 --> 00:06:06,000
+That would also be fine, would also give you exactly the same answer every time.
+
+85
+00:06:06,000 --> 00:06:09,000
+If you wanted to square it, that would actually change the answer.
+
+86
+00:06:09,000 --> 00:06:13,000
+So you could not do that with an expected utility function.
+
+87
+00:06:13,000 --> 00:06:15,000
+Now when you first hear about expected, oh yeah, Ash.
+
+88
+00:06:15,000 --> 00:06:17,000
+Shouldn't be any positive affine transformation.
+
+89
+00:06:17,000 --> 00:06:19,000
+Let's see, ah yes, that's true, yes.
+
+90
+00:06:19,000 --> 00:06:22,000
+So yeah, it's true if you multiply it by negative something, yes, you're absolutely right.
+
+91
+00:06:22,000 --> 00:06:25,000
+So yes, yes, so that is correct.
+
+92
+00:06:25,000 --> 00:06:28,000
+So yeah, any positive function, although you can add or subtract any constant.
+
+93
+00:06:28,000 --> 00:06:29,000
+That's very good.
+
+94
+00:06:29,000 --> 00:06:35,000
+Alright, now at first glance expected utility theory seems like it's just a tautology and like what else would somebody do?
+
+95
+00:06:35,000 --> 00:06:41,000
+But expected utility theory actually has some real implications, which can be tested.
+
+96
+00:06:41,000 --> 00:06:44,000
+And a number of them have shown to be wrong, at least under certain conditions,
+
+97
+00:06:44,000 --> 00:06:47,000
+although still may be a theory that is generally useful.
+
+98
+00:06:47,000 --> 00:06:51,000
+Alright, so here is one of the implications of expected utility theory.
+
+99
+00:06:51,000 --> 00:06:57,000
+Now this one may seem totally obvious to you, but it's not obvious to normal people.
+
+100
+00:06:57,000 --> 00:06:59,000
+So keep that in mind.
+
+101
+00:06:59,000 --> 00:07:05,000
+Alright, so suppose that you're in different, so one implication is the compounding result.
+
+102
+00:07:05,000 --> 00:07:12,000
+It says that consumers are indifferent between a 50% chance of a 50% chance and a 25% chance.
+
+103
+00:07:12,000 --> 00:07:15,000
+Well of course, who wouldn't be?
+
+104
+00:07:15,000 --> 00:07:16,000
+Lots of people actually.
+
+105
+00:07:16,000 --> 00:07:22,000
+There are a lot of people who, if they could either go and roll a four-sided die and they went on a four,
+
+106
+00:07:22,000 --> 00:07:26,000
+or they flip a coin and see what happens, and then they flip another coin,
+
+107
+00:07:26,000 --> 00:07:30,000
+if that coin comes out right, they'll say, oh I'll do the second one, that one's safer.
+
+108
+00:07:30,000 --> 00:07:33,000
+And you're like, what? How is it safer?
+
+109
+00:07:33,000 --> 00:07:40,000
+Well, there's a feeling of, look, I just do a 50% risk at first, and then I see whether I'm okay.
+
+110
+00:07:40,000 --> 00:07:44,000
+It's like you jump to a ledge of a mountain, and then you get there, okay, I'm okay.
+
+111
+00:07:44,000 --> 00:07:46,000
+Now I'll try to jump to the higher ledge.
+
+112
+00:07:46,000 --> 00:07:48,000
+Okay, and now I made it.
+
+113
+00:07:48,000 --> 00:07:53,000
+Whereas jumping, just doing one big leap would freak them out.
+
+114
+00:07:53,000 --> 00:07:58,000
+So, and again, if this seems really weird to you, these are very normal reactions.
+
+115
+00:07:58,000 --> 00:08:04,000
+And let's see, I'm trying to remember, like when I was on vacation, I heard someone say something exactly like this,
+
+116
+00:08:04,000 --> 00:08:06,000
+and I just sat there nodding.
+
+117
+00:08:06,000 --> 00:08:11,000
+Yes, of course, of course, right, you would want to go and resolve the uncertainty sequentially.
+
+118
+00:08:11,000 --> 00:08:15,000
+That's very important, because otherwise it would be very scary.
+
+119
+00:08:15,000 --> 00:08:17,000
+All right, so I'm trying to remember, what was it?
+
+120
+00:08:17,000 --> 00:08:19,000
+Maybe it will come to me, but.
+
+121
+00:08:19,000 --> 00:08:25,000
+So you may have seen this with, like kids are often like this, where they don't want to just have the dice get rolled.
+
+122
+00:08:25,000 --> 00:08:28,000
+Let's just roll one die and see how that goes.
+
+123
+00:08:28,000 --> 00:08:30,000
+And then we'll roll the next die and see how that goes.
+
+124
+00:08:30,000 --> 00:08:35,000
+Right, I mean, so just think about someone, they have to roll 10 dice, and they have to get a good overall roll.
+
+125
+00:08:35,000 --> 00:08:41,000
+Imagine someone wants to roll the dice one at a time, because somehow that matters to them.
+
+126
+00:08:41,000 --> 00:08:46,000
+So if that matters to you, then you do not actually have expected utility theory.
+
+127
+00:08:46,000 --> 00:08:49,000
+Expected utility theory does not describe you.
+
+128
+00:08:49,000 --> 00:08:53,000
+All right, now another thing, so linear probabilities.
+
+129
+00:08:53,000 --> 00:08:58,000
+So in expected utility theory, you won't see a big nonlinear difference in the utility
+
+130
+00:08:58,000 --> 00:09:04,000
+between having a 0% chance of a risk and a 0.1% chance of a risk.
+
+131
+00:09:04,000 --> 00:09:10,000
+All right, now, in the real world, a lot of people treat this as a big difference.
+
+132
+00:09:10,000 --> 00:09:14,000
+But if this works, there's no chance it could go wrong.
+
+133
+00:09:14,000 --> 00:09:18,000
+Yeah, but there's only like a one in a billion chance anyway, so what's the difference?
+
+134
+00:09:18,000 --> 00:09:21,000
+And you may say, well, I mean, that could still be consistent with expected utility theory.
+
+135
+00:09:21,000 --> 00:09:22,000
+Here's the key thing.
+
+136
+00:09:22,000 --> 00:09:27,000
+If people regard there as being a big difference between 0 and one in a billion,
+
+137
+00:09:27,000 --> 00:09:30,000
+but a small difference between one in a billion and two in a billion,
+
+138
+00:09:30,000 --> 00:09:34,000
+that's where we've seen the violation of expected utility theory.
+
+139
+00:09:34,000 --> 00:09:38,000
+So if going from a small amount to zero matters a lot to you,
+
+140
+00:09:38,000 --> 00:09:44,000
+and going from a small amount to twice a small amount, a probability barely matters at all to you,
+
+141
+00:09:44,000 --> 00:09:47,000
+you violated the theory.
+
+142
+00:09:47,000 --> 00:09:52,000
+All right, now, you may have noticed, for example, that people will try to sell you products
+
+143
+00:09:52,000 --> 00:09:58,000
+by saying this gives you certainty, like for an extended warranty.
+
+144
+00:09:58,000 --> 00:10:00,000
+Like you'll say, look, probably you're going to be fine,
+
+145
+00:10:00,000 --> 00:10:04,000
+but you can be perfectly safe if I sell you this warranty.
+
+146
+00:10:04,000 --> 00:10:09,000
+Now, there's something very fishy about claims like this because is it really true
+
+147
+00:10:09,000 --> 00:10:12,000
+that you can ever be perfectly safe with anything?
+
+148
+00:10:12,000 --> 00:10:13,000
+No.
+
+149
+00:10:13,000 --> 00:10:17,000
+I mean, what if you leave town and then the store that gives the warranty,
+
+150
+00:10:17,000 --> 00:10:20,000
+it's too inconvenient for you to go and get your money back?
+
+151
+00:10:20,000 --> 00:10:22,000
+Well, then you're not perfectly safe.
+
+152
+00:10:22,000 --> 00:10:27,000
+What if the product kills you and so you're not alive to collect the money?
+
+153
+00:10:27,000 --> 00:10:29,000
+That's not perfectly safe.
+
+154
+00:10:29,000 --> 00:10:34,000
+But anytime someone is trying to go and make a big deal out of absolute certainty,
+
+155
+00:10:34,000 --> 00:10:38,000
+there's the one problem that they can't really sell you absolute certainty.
+
+156
+00:10:38,000 --> 00:10:40,000
+They're actually doing something like impounding.
+
+157
+00:10:40,000 --> 00:10:46,000
+They're saying, well, if you're alive and you still live in town and you don't lose your receipt
+
+158
+00:10:46,000 --> 00:10:51,000
+and 77 other conditions, then it's perfectly certain that you'll get your money back
+
+159
+00:10:51,000 --> 00:10:55,000
+and we haven't gone bankrupt and all these other things.
+
+160
+00:10:55,000 --> 00:11:00,000
+But again, that's really just like not only is this a nonlinearity,
+
+161
+00:11:00,000 --> 00:11:08,000
+but there's also like how is that so great because I still actually don't have anything like certainty.
+
+162
+00:11:08,000 --> 00:11:12,000
+But the idea is, well, but if all these things happen, then it would be certain.
+
+163
+00:11:12,000 --> 00:11:18,000
+And that's really valuable for something to be absolutely certain if 77 unlikely events occur first.
+
+164
+00:11:18,000 --> 00:11:21,000
+How is that particularly good?
+
+165
+00:11:21,000 --> 00:11:22,000
+I don't understand.
+
+166
+00:11:22,000 --> 00:11:27,000
+And if that's what you're talking, then, well, you're not really an expending warranty buyer anyway.
+
+167
+00:11:27,000 --> 00:11:29,000
+So just move along.
+
+168
+00:11:29,000 --> 00:11:30,000
+All right.
+
+169
+00:11:30,000 --> 00:11:37,000
+Right now, expected utility theory is not saying you're going to value $1,000 a hundred times as much as $10.
+
+170
+00:11:37,000 --> 00:11:40,000
+It's only the probabilities that matter linearly, right?
+
+171
+00:11:40,000 --> 00:11:43,000
+Again, which is one of the harder distinctions to grasp.
+
+172
+00:11:43,000 --> 00:11:45,000
+So it's the probabilities that matter linearly.
+
+173
+00:11:45,000 --> 00:11:56,000
+So it just says that no matter how bad an event is, going from 0% to 1% is the same as going from 1% to 2%,
+
+174
+00:11:56,000 --> 00:11:58,000
+which again seems to be empirically wrong for a lot of people.
+
+175
+00:11:58,000 --> 00:12:01,000
+There's a lot of value people put on certainty.
+
+176
+00:12:01,000 --> 00:12:09,000
+I gave a talk on immigration once, and then a guy in the audience asked me, well, if you're wrong, do I get my country back?
+
+177
+00:12:09,000 --> 00:12:16,000
+And I was thinking of, if you know the movie Fargo, where William H. Macy keeps saying, I guarantee that I will pay you back.
+
+178
+00:12:16,000 --> 00:12:17,000
+There's your guarantee.
+
+179
+00:12:17,000 --> 00:12:18,000
+I guarantee it.
+
+180
+00:12:18,000 --> 00:12:19,000
+All right.
+
+181
+00:12:19,000 --> 00:12:22,000
+So I was tempted to say, yes, I guarantee you can have your country back.
+
+182
+00:12:22,000 --> 00:12:24,000
+Just do what I say, and then I'll give you your country back.
+
+183
+00:12:24,000 --> 00:12:27,000
+But I want to be honest and say, well, of course not.
+
+184
+00:12:27,000 --> 00:12:30,000
+How could I give you – I can't honestly promise to give you your country back.
+
+185
+00:12:30,000 --> 00:12:36,000
+Just like how can you guarantee me that if computer development occurs, the Terminator scenario won't occur?
+
+186
+00:12:36,000 --> 00:12:38,000
+I don't have any guarantees.
+
+187
+00:12:38,000 --> 00:12:42,000
+There's a think tank at Oxford that worries about this all the time.
+
+188
+00:12:42,000 --> 00:12:47,000
+All I can say is, seems really unlikely, but that's the best I can do.
+
+189
+00:12:47,000 --> 00:12:48,000
+I can't really guarantee it.
+
+190
+00:12:48,000 --> 00:12:52,000
+But the good news is, you shouldn't really – it's not that important to get a guarantee.
+
+191
+00:12:52,000 --> 00:13:01,000
+If you've got an expect utility function, then a guarantee is not that much better than having just a marginal risk reduction.
+
+192
+00:13:01,000 --> 00:13:03,000
+All right.
+
+193
+00:13:03,000 --> 00:13:04,000
+Okay.
+
+194
+00:13:04,000 --> 00:13:05,000
+All right.
+
+195
+00:13:05,000 --> 00:13:12,000
+Now, again, of course, the more you think about it, the weirder it is, because psychologically, these things seem to matter a lot to people.
+
+196
+00:13:12,000 --> 00:13:16,000
+And, again, so think about where you're really nervous about a standardized test score.
+
+197
+00:13:16,000 --> 00:13:23,000
+You go and log in, and then, fine, the score is okay, and then your stress goes down from a lot to zero.
+
+198
+00:13:23,000 --> 00:13:29,000
+Now, that's a little odd because, wait a second, how do you know that you actually logged into the right web page?
+
+199
+00:13:29,000 --> 00:13:32,000
+And how do you know the results are reported correctly?
+
+200
+00:13:32,000 --> 00:13:38,000
+And, you know, it could be like the best picture in the Academy Award, and they announced the wrong winner.
+
+201
+00:13:38,000 --> 00:13:44,000
+So, really, like, it doesn't make sense for your stress to go down from a lot to zero just because you get this information.
+
+202
+00:13:44,000 --> 00:13:53,000
+Maybe to fall a lot, but as long as there's still some uncertainty, seems like there should still be some concern.
+
+203
+00:13:53,000 --> 00:13:54,000
+All right.
+
+204
+00:13:54,000 --> 00:13:56,000
+So any other questions about expect utility theory?
+
+205
+00:13:56,000 --> 00:14:03,000
+This is a basic building block in any choice under uncertainty, any paper that you see that analyzes choice under uncertainty.
+
+206
+00:14:03,000 --> 00:14:10,000
+You almost always use expect utility theory, and, of course, there's a whole experimental literature testing expect utility theory.
+
+207
+00:14:10,000 --> 00:14:15,000
+Normally, you do experiments when you're looking for an error in it, looking for an anomaly.
+
+208
+00:14:15,000 --> 00:14:17,000
+It doesn't mean the theory is totally wrong or useless.
+
+209
+00:14:17,000 --> 00:14:18,000
+Yes?
+
+210
+00:14:18,000 --> 00:14:24,000
+Can you speak a little bit about whether expect utility theory makes or no values cardinal or effective?
+
+211
+00:14:24,000 --> 00:14:26,000
+Sure.
+
+212
+00:14:26,000 --> 00:14:34,000
+So the answer is expect utility theory is still just saying it's summarizing what you'll do in every logically possible situation.
+
+213
+00:14:34,000 --> 00:14:45,000
+So in that sense, you could say that it is still ordinal, but it does contain extra information that a regular utility function doesn't have.
+
+214
+00:14:45,000 --> 00:14:49,000
+Because regular utility function can only say which of different bundles will you choose.
+
+215
+00:14:49,000 --> 00:14:52,000
+It can't say which of different gambles will you choose.
+
+216
+00:14:52,000 --> 00:15:00,000
+And by adding in this additional information, it actually can summarize what you would do for every conceivable gamble.
+
+217
+00:15:00,000 --> 00:15:04,000
+So there's more information, but it still is technically ordinal.
+
+218
+00:15:04,000 --> 00:15:05,000
+All right.
+
+219
+00:15:05,000 --> 00:15:08,000
+So next topic, rational expectations.
+
+220
+00:15:08,000 --> 00:15:09,000
+All right.
+
+221
+00:15:09,000 --> 00:15:11,000
+So let's travel back in time to week one.
+
+222
+00:15:11,000 --> 00:15:12,000
+All right.
+
+223
+00:15:12,000 --> 00:15:16,000
+Back then, I told you that there are two different interpretations of probability.
+
+224
+00:15:16,000 --> 00:15:20,000
+There's the objective interpretation and the subject interpretation.
+
+225
+00:15:20,000 --> 00:15:27,000
+So the objective one is when you look at actual observed frequencies in the past.
+
+226
+00:15:27,000 --> 00:15:29,000
+So like a life insurance table.
+
+227
+00:15:29,000 --> 00:15:31,000
+And that's the objective.
+
+228
+00:15:31,000 --> 00:15:42,000
+Objective probability could also be looking at the odds of winning in roulette or in the game of craps or in poker.
+
+229
+00:15:42,000 --> 00:15:49,000
+And in all these things, there is a statistical frequency.
+
+230
+00:15:49,000 --> 00:15:52,000
+Again, of course, for any actual gambling, it's assuming that the game is fair.
+
+231
+00:15:52,000 --> 00:15:53,000
+Right.
+
+232
+00:15:53,000 --> 00:15:56,000
+So how do you know that this is a fair roulette wheel?
+
+233
+00:15:56,000 --> 00:16:04,000
+Well, normally, of course, when people do objective probability, they just sort of assume away the problem, assume it's a fair wheel, which is fine for a homework problem.
+
+234
+00:16:04,000 --> 00:16:07,000
+Again, in the real world, there's the question, well, is it actually fair?
+
+235
+00:16:07,000 --> 00:16:10,000
+Like, is the house actually playing honestly?
+
+236
+00:16:10,000 --> 00:16:12,000
+Who makes these dice?
+
+237
+00:16:12,000 --> 00:16:13,000
+Who does it?
+
+238
+00:16:13,000 --> 00:16:15,000
+What are their incentives?
+
+239
+00:16:15,000 --> 00:16:19,000
+So that's the objective probability normally, there's no concern for that.
+
+240
+00:16:19,000 --> 00:16:23,000
+And then, of course, there is subjective probability.
+
+241
+00:16:23,000 --> 00:16:29,000
+Subjective probability is just a degree of confidence in the mind of a person.
+
+242
+00:16:29,000 --> 00:16:32,000
+So you can have a 10% probability or 73% probability.
+
+243
+00:16:32,000 --> 00:16:34,000
+You can have any probability you want.
+
+244
+00:16:34,000 --> 00:16:36,000
+It's all in your head.
+
+245
+00:16:36,000 --> 00:16:41,000
+So key difference is you can have a subjective probability for something that's never happened before.
+
+246
+00:16:41,000 --> 00:16:46,000
+You can't have an objective probability for something that's never happened before because there's not going to be any frequencies.
+
+247
+00:16:46,000 --> 00:16:50,000
+So a game, or what's going to happen in this game?
+
+248
+00:16:50,000 --> 00:16:51,000
+Well, what's the game?
+
+249
+00:16:51,000 --> 00:16:53,000
+I'm not telling you.
+
+250
+00:16:53,000 --> 00:16:54,000
+It's a new game.
+
+251
+00:16:54,000 --> 00:16:55,000
+What are the rules?
+
+252
+00:16:55,000 --> 00:16:57,000
+What's it like?
+
+253
+00:16:57,000 --> 00:16:58,000
+All right.
+
+254
+00:16:58,000 --> 00:17:00,000
+Well, you can't have an objective probability for that.
+
+255
+00:17:00,000 --> 00:17:02,000
+But you can have a subjective probability.
+
+256
+00:17:02,000 --> 00:17:07,000
+And I say, well, I don't know, it seems like you wouldn't go and have me play a game where it's not fun.
+
+257
+00:17:07,000 --> 00:17:13,000
+So, I don't know, like 50%, you might start there or you might go, no, no, no.
+
+258
+00:17:13,000 --> 00:17:14,000
+You're a casino.
+
+259
+00:17:14,000 --> 00:17:15,000
+You're trying to take my money.
+
+260
+00:17:15,000 --> 00:17:18,000
+So odds are going to win maybe, what, 8%?
+
+261
+00:17:18,000 --> 00:17:20,000
+So you can have any subjective probabilities you want.
+
+262
+00:17:20,000 --> 00:17:22,000
+You can have subjective probabilities for things that never happened.
+
+263
+00:17:22,000 --> 00:17:25,000
+You can have subjective probabilities for unique events.
+
+264
+00:17:25,000 --> 00:17:27,000
+But they are all in the head.
+
+265
+00:17:27,000 --> 00:17:35,000
+So whenever called upon to justify a subjective probability, ultimately the answer comes down to, well, it's just how it seems to be.
+
+266
+00:17:35,000 --> 00:17:38,000
+And you might say, well, I've seen some evidence here.
+
+267
+00:17:38,000 --> 00:17:40,000
+X was subjective probability.
+
+268
+00:17:40,000 --> 00:17:43,000
+There's always a question, yeah, but is the evidence relevant?
+
+269
+00:17:43,000 --> 00:17:44,000
+I don't know.
+
+270
+00:17:44,000 --> 00:17:45,000
+It seems relevant to me.
+
+271
+00:17:45,000 --> 00:17:54,000
+So even if someone has been to a thousand different casinos, and you say, well, I have a subjective probability this casino will have the same kind of odds as the other casinos.
+
+272
+00:17:54,000 --> 00:17:55,000
+Well, why?
+
+273
+00:17:55,000 --> 00:17:57,000
+You've never been to this casino before.
+
+274
+00:17:57,000 --> 00:18:02,000
+How do you know this isn't a totally different casino with totally different rules?
+
+275
+00:18:02,000 --> 00:18:05,000
+You see, why would it be?
+
+276
+00:18:05,000 --> 00:18:06,000
+All right.
+
+277
+00:18:06,000 --> 00:18:11,000
+So now it's easy to go and make fun of subjective probabilities until you realize that you've got them too.
+
+278
+00:18:11,000 --> 00:18:14,000
+And furthermore, you cannot live your life without them.
+
+279
+00:18:14,000 --> 00:18:29,000
+It is impossible to do anything without them, really, because we're always facing events for which either there is no actuarial table in the world, or we haven't seen the actuarial table, or the actuarial tables that exist might not be relevant.
+
+280
+00:18:29,000 --> 00:18:32,000
+And then you have to decide for yourself.
+
+281
+00:18:32,000 --> 00:18:34,000
+So, let me give you an example.
+
+282
+00:18:34,000 --> 00:18:37,000
+If I go to Tijuana, what are my odds of getting kidnapped in Tijuana?
+
+283
+00:18:37,000 --> 00:18:41,000
+Well, there's the rate, yeah, but am I an old person?
+
+284
+00:18:41,000 --> 00:18:44,000
+Do I get kidnapped at the normal rate?
+
+285
+00:18:44,000 --> 00:18:47,000
+Or do I get captured at the Brian Kaplan rate?
+
+286
+00:18:47,000 --> 00:18:52,000
+I mean, it might be the easy mark, but maybe I'm not.
+
+287
+00:18:52,000 --> 00:18:53,000
+I don't know.
+
+288
+00:18:53,000 --> 00:18:55,000
+And then you think about it.
+
+289
+00:18:55,000 --> 00:18:59,000
+And, of course, you can ask people what they think, but then you're just eliciting their subjective probabilities.
+
+290
+00:18:59,000 --> 00:19:02,000
+Then you have to wonder, well, can I trust these people?
+
+291
+00:19:02,000 --> 00:19:03,000
+Maybe they're in on this.
+
+292
+00:19:03,000 --> 00:19:06,000
+Maybe they're in on the kidnapping, so they're going to tell you, you'll be fine.
+
+293
+00:19:06,000 --> 00:19:09,000
+That's as bad as when you tell all the easy marks.
+
+294
+00:19:09,000 --> 00:19:13,000
+That's when, like, as soon as I ask, you're placing a call into the kidnappers.
+
+295
+00:19:13,000 --> 00:19:16,000
+There's going to be some nerd walking over the border.
+
+296
+00:19:16,000 --> 00:19:18,000
+As soon as he's there, grab him.
+
+297
+00:19:18,000 --> 00:19:20,000
+So that's subjective probability.
+
+298
+00:19:20,000 --> 00:19:26,000
+Now, the problem with subjective probabilities is they have no necessary connection to reality.
+
+299
+00:19:26,000 --> 00:19:36,000
+And that seems unsatisfactory because if you look at the world, it seems like there is, in fact, a connection between what really happens in the real world and what people think about the real world.
+
+300
+00:19:36,000 --> 00:19:48,000
+It might not be a perfect connection, certainly not a perfect connection, but still, if you were to go and come up with a model of the world based upon the idea that there's no relationship between what people think and what really happens,
+
+301
+00:19:48,000 --> 00:19:52,000
+you would have a very strange model of the world.
+
+302
+00:19:52,000 --> 00:19:53,000
+All right.
+
+303
+00:19:53,000 --> 00:19:56,000
+So, now, so I say there clearly is some connection.
+
+304
+00:19:56,000 --> 00:19:59,000
+You might just look and say, I don't see any connection at all.
+
+305
+00:19:59,000 --> 00:20:19,000
+You know, the
+
+

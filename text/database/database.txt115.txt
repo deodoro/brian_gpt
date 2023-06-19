@@ -1,0 +1,15 @@
+2.  In the real world, why do n’t reputational incentives eliminate all fraud?   
+ 
+Some of the obvious reasons: In the real world, time preference, number of turns, and utility 
+functions all vary widely – and none of them are knowable with certainty.  So in the real world, it is 
+often h ard to tell whether or not reputational incentives will work – and people often decide it’s 
+better to just take their chances.  Another key problem: In the real world, honest mistakes happen, 
+so trigger strategies just aren’t practical.  But even setting a ll of these problems aside, there’s a 
+more fundamental reason why fraud will never disappear completely: As the rate of fraud falls, so 
+does the optimal level of effort to prevent  fraud.  But as anti -fraud effort falls, the incentive for 
+fraud increases.  Think about this as a game where sellers can be Honest or Dishonest, and 
+buyers can either be Trusting or Cautious.  In the MSNE, 100% Honesty will never be an 
+equilibrium, because if 100% of sellers were Honest, 100% of buyers would be Trusting, which 
+mea ns that Dishonesty pays.  
+ 
+ 

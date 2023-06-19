@@ -1,0 +1,6 @@
+4. Caplan argues that systematically biased beliefs about economics lead to inefficient policies. Part of the motivation for his survey of intelligence research is his view that public opinion has systematically biased views on this topic as well. In a democracy, what consequences of these biases might Caplan predict for education policy? How would Wittman respond? Who is right?
+
+Caplan may argue that the public may systematically have negatively biased views about intelligence research. This may have consequences for education policy - people may support more funding for education than is necessary, given that may overestimate the benefits that come from education, when some of the benefits are actually driven by intelligence regardless of education. This may well result in deadweight loss - if the signaling model is true or even partially true, it would be efficient for the state to tax education instead. Wittman would argue that, while this may be true in the short run, in the long run it would tend towards efficiency. In the short run we may inefficiently subsidize education, but this will come out in the wash.[10] I believe the evidence supports Caplan's point. Voters do hold systematically biased beliefs, and political systems give them no good reasons to update them, thus leaving us with potentially inefficient policies.
+
+2003 FINAL EXAM
+

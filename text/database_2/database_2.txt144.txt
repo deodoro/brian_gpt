@@ -1,0 +1,15 @@
+1.  "Moral hazard is at least second-best efficient because there's really nothing government can do to fix it."  Using everything you've learned, critically analyze this statement.
+
+- Second-best efficient: moral hazard is second best efficient when the marginal costs of eliminating it exceed the benefits of doing so
+    - so, moral hazard is second-best efficient in the Kaldor-Hick sense
+- Statement is not necessarily true: 
+- punitive contracts: "if the less-informed can pay to observe the more-informed , then they can enforce good behavior at a lwo cost with random monitoring and threats of severe punishment." 
+    - government doesn't allow for these contracts meaning that they eliminate the tools businesses have to eliminate moral hazard
+           - insurance
+           - monitoring people on the job: how much time at work do they actually spend working
+- Jersey drivers
+    - government actually subsidizes   bad drivers, increasing the moral hazard
+
+It is not evident that "moral hazard is at least second-best efficient because there's really nothing government can do to fix it." Government regulations may exacerbate moral hazard - for example, by limiting the punishment companies can levy on individuals who break contracts, companies are deprived of a tool to make the costs of moral hazard higher and thus reduce it. In addition, government subsidies - such as those for risky drivers in New Jersey - can make matters worse by creating moral hazard problems for risky drivers. Government can also do some things like increase the penalties for insurance fraud. Moral hazard is second best efficient whenever the marginal costs of monitoring are higher than the marginal benefits of doing so. In this case, accepting some moral hazard maximizes efficiency in the Kaldor-Hicks sense.  [42]
+
+

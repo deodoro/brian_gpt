@@ -1,0 +1,6 @@
+2. Suppose two people repeatedly play the Dictator game. Player 1 gets to be the Dictator in odd-numbered turns; Player 2 gets to be the Dictator in even-numbered turns. ?²1 for both players. After each turn, the game ends with 99% probability.
+ 
+True, False, and Explain: An equilibrium where the Dictator always offers even splits (50/50) may be sustainable if the stakes increase over time.
+
+True if the stakes raise by a high enough amount. Caplan says a really good answer would show the inequality.
+

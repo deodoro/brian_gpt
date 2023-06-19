@@ -1,0 +1,1985 @@
+1
+00:00:00,000 --> 00:00:02,120
+understands the game, right?
+
+2
+00:00:02,120 --> 00:00:03,640
+And there's actually a whole class of models
+
+3
+00:00:03,640 --> 00:00:05,320
+based on the idea, well, maybe your opponent
+
+4
+00:00:05,320 --> 00:00:07,920
+is just clueless, right?
+
+5
+00:00:07,920 --> 00:00:09,360
+You're like, so the Nobel Prize winner,
+
+6
+00:00:09,360 --> 00:00:11,520
+Reiner and Zelten, got his Nobel Prize
+
+7
+00:00:11,520 --> 00:00:13,240
+for some work like this, but of course,
+
+8
+00:00:13,240 --> 00:00:15,520
+doing it very mathematically, right?
+
+9
+00:00:15,520 --> 00:00:17,200
+Or, you know, then there's the other possibility,
+
+10
+00:00:17,200 --> 00:00:18,960
+yes, maybe it turns out that you don't understand
+
+11
+00:00:18,960 --> 00:00:21,200
+the payoffs, so maybe actually you learn,
+
+12
+00:00:21,200 --> 00:00:22,360
+oh, he's not the kind of person
+
+13
+00:00:22,360 --> 00:00:24,160
+that would be comfortable doing that.
+
+14
+00:00:24,160 --> 00:00:25,560
+Sucker, ha ha.
+
+15
+00:00:25,560 --> 00:00:27,400
+All right, so, or, you know, oh, well,
+
+16
+00:00:27,400 --> 00:00:29,520
+I would never betray someone like that.
+
+17
+00:00:30,600 --> 00:00:32,000
+Okay.
+
+18
+00:00:32,000 --> 00:00:33,400
+All right, so, you know, the classic example
+
+19
+00:00:33,400 --> 00:00:34,920
+is the Prisoner's Lemma, and again,
+
+20
+00:00:34,920 --> 00:00:36,320
+the logic of the Prisoner's Lemma,
+
+21
+00:00:36,320 --> 00:00:38,960
+the people try to weasel out of it
+
+22
+00:00:38,960 --> 00:00:41,960
+with great effort, but as long as you stay
+
+23
+00:00:41,960 --> 00:00:43,580
+within the game theoretic framework,
+
+24
+00:00:43,580 --> 00:00:45,280
+there's no weaseling out of it, right?
+
+25
+00:00:45,280 --> 00:00:46,640
+If those really are the payoffs,
+
+26
+00:00:46,640 --> 00:00:49,920
+if that's what people, if that is what everybody knows,
+
+27
+00:00:49,920 --> 00:00:53,680
+and if they really, and you correctly capture
+
+28
+00:00:53,680 --> 00:00:55,920
+the utility functions with those payoffs,
+
+29
+00:00:55,920 --> 00:00:58,280
+then that is what they're going to do.
+
+30
+00:00:58,280 --> 00:01:00,520
+All right, so that's as simple as that.
+
+31
+00:01:01,360 --> 00:01:02,680
+Of course, you say, well, what if we experimentally
+
+32
+00:01:02,680 --> 00:01:03,520
+tested this wrong?
+
+33
+00:01:03,520 --> 00:01:05,440
+Well, there's something wrong with the assumptions,
+
+34
+00:01:05,440 --> 00:01:06,280
+isn't there?
+
+35
+00:01:06,280 --> 00:01:08,880
+All right, so, the model is not actually very good.
+
+36
+00:01:10,280 --> 00:01:11,880
+Okay.
+
+37
+00:01:11,880 --> 00:01:13,920
+All right, so anyway, so if all players think this way,
+
+38
+00:01:13,920 --> 00:01:17,080
+you can extend the idea to success and strict dominance,
+
+39
+00:01:17,080 --> 00:01:19,320
+which, as I said, allows you to eliminate
+
+40
+00:01:19,320 --> 00:01:20,960
+even more possibilities than you might think,
+
+41
+00:01:20,960 --> 00:01:22,800
+if your opponent would never play a strategy,
+
+42
+00:01:22,800 --> 00:01:26,240
+you can cross out or erase that row or column,
+
+43
+00:01:26,240 --> 00:01:29,400
+which may then clean up the game, right?
+
+44
+00:01:29,400 --> 00:01:31,080
+And then when you clean up the game,
+
+45
+00:01:31,080 --> 00:01:32,520
+so you'll then, it may be, okay,
+
+46
+00:01:32,520 --> 00:01:35,080
+now I understand what I'm going to do, right?
+
+47
+00:01:35,080 --> 00:01:36,700
+Like if you've ever had a homework problem
+
+48
+00:01:36,700 --> 00:01:38,960
+where you're stumped and then you say, wait a second,
+
+49
+00:01:38,960 --> 00:01:40,900
+player two always plays A.
+
+50
+00:01:41,840 --> 00:01:44,680
+That simplifies things a lot, doesn't it?
+
+51
+00:01:44,680 --> 00:01:47,480
+Right, so, or again, you can claim,
+
+52
+00:01:47,480 --> 00:01:48,680
+you have lots of ways to clean up a game,
+
+53
+00:01:48,680 --> 00:01:50,080
+saying, oh, well, perfect competition,
+
+54
+00:01:50,080 --> 00:01:52,260
+so they always set prices with a marginal cost,
+
+55
+00:01:52,260 --> 00:01:54,600
+so we don't need to worry about what they are doing.
+
+56
+00:01:54,600 --> 00:01:57,480
+We know, we now know what they are doing all the time.
+
+57
+00:01:58,640 --> 00:02:01,200
+Okay, all right, now a fun fact,
+
+58
+00:02:01,200 --> 00:02:02,800
+which I will state but not prove,
+
+59
+00:02:02,800 --> 00:02:05,960
+is that the order of iteration does not matter.
+
+60
+00:02:05,960 --> 00:02:08,960
+So there's no danger when you're doing strict dominance
+
+61
+00:02:08,960 --> 00:02:11,800
+that you might go and eliminate something
+
+62
+00:02:11,800 --> 00:02:14,120
+before something else, and that will change the outcome.
+
+63
+00:02:14,120 --> 00:02:16,560
+However, whichever way, whichever route you proceed,
+
+64
+00:02:16,560 --> 00:02:19,140
+as long as you are only eliminating
+
+65
+00:02:19,140 --> 00:02:20,900
+strictly dominant strategies,
+
+66
+00:02:20,900 --> 00:02:22,680
+you will end up with the same answer.
+
+67
+00:02:22,680 --> 00:02:24,880
+I'll just tell you that's proven by somebody.
+
+68
+00:02:25,840 --> 00:02:27,120
+All right, now we think about a dominant,
+
+69
+00:02:27,120 --> 00:02:29,300
+solvable, normal form for creps.
+
+70
+00:02:30,240 --> 00:02:32,920
+So here we've got, let's see here,
+
+71
+00:02:32,920 --> 00:02:37,040
+so we have player one has choices of playing S1 or S2,
+
+72
+00:02:37,040 --> 00:02:40,560
+and then we have player two has choices of playing T1,
+
+73
+00:02:40,560 --> 00:02:45,560
+T2, or T3, and we go here, and we've got,
+
+74
+00:02:45,560 --> 00:02:50,560
+so four and three, two and seven, zero and four,
+
+75
+00:02:51,200 --> 00:02:54,400
+five and five, five and negative one,
+
+76
+00:02:54,400 --> 00:02:56,600
+negative four, negative two.
+
+77
+00:02:56,600 --> 00:02:57,980
+All right, and then we just start looking around
+
+78
+00:02:57,980 --> 00:03:00,280
+for things that we can eliminate.
+
+79
+00:03:00,280 --> 00:03:03,140
+Yes, and remember here, so the first payoff
+
+80
+00:03:03,140 --> 00:03:04,800
+goes to this person, the second payoff
+
+81
+00:03:04,800 --> 00:03:06,400
+goes to this person here.
+
+82
+00:03:06,400 --> 00:03:08,920
+So if you're just taking a look at this,
+
+83
+00:03:08,920 --> 00:03:13,000
+does it ever make sense for player two over here
+
+84
+00:03:13,000 --> 00:03:16,280
+to play T3, and the answer is it doesn't
+
+85
+00:03:16,280 --> 00:03:19,760
+because if player one plays S1,
+
+86
+00:03:19,760 --> 00:03:24,000
+then T3 gets you four instead of seven, right?
+
+87
+00:03:24,000 --> 00:03:26,120
+And if he plays S2, then it gets you negative two
+
+88
+00:03:26,120 --> 00:03:29,240
+instead of negative one, so there's no reason
+
+89
+00:03:29,240 --> 00:03:30,560
+to ever play that, right?
+
+90
+00:03:30,560 --> 00:03:32,000
+And we can then eliminate that one,
+
+91
+00:03:32,000 --> 00:03:33,640
+eliminate that column, right?
+
+92
+00:03:33,640 --> 00:03:35,880
+And then once we're here, we can say,
+
+93
+00:03:35,880 --> 00:03:40,560
+well, does it ever make any sense for player one
+
+94
+00:03:40,560 --> 00:03:42,400
+to play S1 rather than S2, and again,
+
+95
+00:03:42,400 --> 00:03:45,400
+the answer is no because you get five for sure
+
+96
+00:03:45,400 --> 00:03:47,480
+if you play S2, but you get either four or two
+
+97
+00:03:47,480 --> 00:03:51,160
+if you do S1, so you can then go and eliminate that one.
+
+98
+00:03:51,160 --> 00:03:52,600
+Then finally, once we've done that,
+
+99
+00:03:52,600 --> 00:03:54,480
+does it make any sense for player two
+
+100
+00:03:54,480 --> 00:03:56,720
+to play T2 rather than T1?
+
+101
+00:03:56,720 --> 00:03:58,640
+Right, well, if you play T2, you get negative one
+
+102
+00:03:58,640 --> 00:04:01,320
+instead of five, so that doesn't make any sense,
+
+103
+00:04:01,320 --> 00:04:06,320
+so there is our strictly dominant strategy.
+
+104
+00:04:06,600 --> 00:04:09,280
+So that is the dominance, this game is dominant solvable,
+
+105
+00:04:09,280 --> 00:04:12,640
+and that's the equilibrium.
+
+106
+00:04:12,640 --> 00:04:13,480
+All right, questions?
+
+107
+00:04:13,480 --> 00:04:14,300
+Yes.
+
+108
+00:04:14,300 --> 00:04:15,560
+So just to make sure I understand this correctly,
+
+109
+00:04:15,560 --> 00:04:18,680
+so assuming no strictly dominated strategies,
+
+110
+00:04:18,680 --> 00:04:20,540
+no matter how many times we play this game,
+
+111
+00:04:20,540 --> 00:04:24,000
+it's always gonna come out to this S2, T1.
+
+112
+00:04:24,000 --> 00:04:25,880
+Well, yeah, yes, well, actually,
+
+113
+00:04:25,880 --> 00:04:27,560
+sort of, you just said to be careful,
+
+114
+00:04:27,560 --> 00:04:29,120
+so this is, so we're only thinking
+
+115
+00:04:29,120 --> 00:04:31,160
+about one-shot games right now,
+
+116
+00:04:31,160 --> 00:04:33,040
+so the way you put it, it almost sounded,
+
+117
+00:04:33,040 --> 00:04:34,520
+it sounds a lot like repeated games
+
+118
+00:04:34,520 --> 00:04:35,840
+where no matter how many times you solve it,
+
+119
+00:04:35,840 --> 00:04:36,680
+you play it, play it.
+
+120
+00:04:36,680 --> 00:04:40,240
+So in other words, if we do independent games each time,
+
+121
+00:04:40,240 --> 00:04:41,200
+it's gonna come out to that.
+
+122
+00:04:41,200 --> 00:04:45,920
+Yes, yes, if the solution concept is actually correct,
+
+123
+00:04:45,920 --> 00:04:49,360
+but yes, this is a way that we can look at that game
+
+124
+00:04:49,360 --> 00:04:50,880
+and try to solve it, of course,
+
+125
+00:04:50,880 --> 00:04:52,280
+then you might wanna look at the real world
+
+126
+00:04:52,280 --> 00:04:53,760
+and see, you know, like you could run experiments
+
+127
+00:04:53,760 --> 00:04:54,800
+and see if we give people this,
+
+128
+00:04:54,800 --> 00:04:56,200
+does it really, is it really true
+
+129
+00:04:56,200 --> 00:04:57,920
+that people always end up there?
+
+130
+00:04:57,920 --> 00:05:00,000
+Which might be, but of course,
+
+131
+00:05:00,000 --> 00:05:03,000
+that is an empirical question if you want to look at it.
+
+132
+00:05:03,000 --> 00:05:05,640
+So it's player one that eliminates column three.
+
+133
+00:05:05,640 --> 00:05:08,320
+Let's see, no, player two, player two,
+
+134
+00:05:08,320 --> 00:05:10,160
+because remember, player one is always on the left,
+
+135
+00:05:10,160 --> 00:05:11,320
+player two is always on the top.
+
+136
+00:05:11,320 --> 00:05:12,400
+Right, so.
+
+137
+00:05:12,400 --> 00:05:14,560
+Yes, yes, so player two,
+
+138
+00:05:14,560 --> 00:05:16,040
+player two decides he would never,
+
+139
+00:05:16,040 --> 00:05:18,360
+there would be no point in him ever playing T3.
+
+140
+00:05:19,400 --> 00:05:22,800
+Yes, so in other words, I see what you're saying.
+
+141
+00:05:22,800 --> 00:05:25,360
+So since player two will never play T3,
+
+142
+00:05:25,360 --> 00:05:27,760
+player one can say, for all practical purposes,
+
+143
+00:05:27,760 --> 00:05:28,600
+I'm gonna eliminate that.
+
+144
+00:05:28,600 --> 00:05:29,440
+Is that the reasoning?
+
+145
+00:05:29,440 --> 00:05:31,000
+Yes, yeah, yeah, exactly, yes.
+
+146
+00:05:31,000 --> 00:05:32,720
+So if your opponent will never do something,
+
+147
+00:05:32,720 --> 00:05:34,760
+then you may as well say,
+
+148
+00:05:34,760 --> 00:05:36,320
+it's as if it doesn't even exist,
+
+149
+00:05:36,320 --> 00:05:37,720
+as far as, for all practical purposes.
+
+150
+00:05:37,720 --> 00:05:38,600
+And player two says,
+
+151
+00:05:38,600 --> 00:05:40,120
+he knows that I would never play three,
+
+152
+00:05:40,120 --> 00:05:43,040
+so he's already eliminated column three.
+
+153
+00:05:43,040 --> 00:05:43,960
+I'm not gonna play.
+
+154
+00:05:43,960 --> 00:05:45,280
+Brilliant, brilliant.
+
+155
+00:05:45,280 --> 00:05:46,440
+Okay, thank you.
+
+156
+00:05:46,440 --> 00:05:49,960
+All right, all right, all right.
+
+157
+00:05:49,960 --> 00:05:54,120
+So, other questions about this in the reasoning?
+
+158
+00:05:54,120 --> 00:05:56,960
+Okay, now there's a further refinement,
+
+159
+00:05:56,960 --> 00:05:59,720
+which says if a probabilistic combination strategy
+
+160
+00:05:59,720 --> 00:06:00,960
+strictly dominates another
+
+161
+00:06:00,960 --> 00:06:03,360
+for any probability distribution,
+
+162
+00:06:03,360 --> 00:06:05,080
+that too may be eliminated.
+
+163
+00:06:05,080 --> 00:06:06,960
+Now, if this seems weird,
+
+164
+00:06:06,960 --> 00:06:09,920
+the key phrase here is for any probability distribution.
+
+165
+00:06:09,920 --> 00:06:11,040
+So it just says, look,
+
+166
+00:06:11,880 --> 00:06:13,120
+for, you know, like, you know,
+
+167
+00:06:13,120 --> 00:06:14,640
+so you're gonna, you have to, you know,
+
+168
+00:06:14,640 --> 00:06:16,440
+you have to have some probability distribution, right?
+
+169
+00:06:16,440 --> 00:06:17,280
+Right.
+
+170
+00:06:17,280 --> 00:06:18,400
+All right, well, tell me what,
+
+171
+00:06:18,400 --> 00:06:21,840
+if for any conceivable one, no matter what it is,
+
+172
+00:06:21,840 --> 00:06:23,840
+there's always something that's better,
+
+173
+00:06:23,840 --> 00:06:25,280
+then it will never be played.
+
+174
+00:06:26,360 --> 00:06:27,400
+Right, and again, so like,
+
+175
+00:06:27,400 --> 00:06:29,400
+but doesn't that need to make an assumption
+
+176
+00:06:29,400 --> 00:06:30,720
+about what my probabilities are?
+
+177
+00:06:30,720 --> 00:06:33,440
+No, because it's saying that,
+
+178
+00:06:33,440 --> 00:06:35,840
+if regardless of what your probabilities are,
+
+179
+00:06:35,840 --> 00:06:37,480
+you just tell me the probabilities,
+
+180
+00:06:37,480 --> 00:06:39,160
+and for any possible probability,
+
+181
+00:06:39,160 --> 00:06:40,840
+there's something that doesn't make sense to do,
+
+182
+00:06:40,840 --> 00:06:42,160
+then we can say that no one would ever do it,
+
+183
+00:06:42,160 --> 00:06:44,200
+because you always have a probability, right?
+
+184
+00:06:44,200 --> 00:06:46,160
+That's where you learn to be quiet.
+
+185
+00:06:46,160 --> 00:06:48,240
+Okay, and of course, if you have some Austrian objections
+
+186
+00:06:48,240 --> 00:06:49,640
+or frequentist objections, whatever,
+
+187
+00:06:49,640 --> 00:06:52,600
+then you can go and say, no,
+
+188
+00:06:52,600 --> 00:06:54,440
+I refuse to go along with this.
+
+189
+00:06:54,440 --> 00:06:57,520
+But if you accept that you always
+
+190
+00:06:57,520 --> 00:06:59,360
+have to have probabilities for things,
+
+191
+00:06:59,360 --> 00:07:01,640
+then if there's something that is a bad idea
+
+192
+00:07:01,640 --> 00:07:03,720
+for any possible probabilities,
+
+193
+00:07:03,720 --> 00:07:05,760
+then it doesn't make sense for people to do it,
+
+194
+00:07:05,760 --> 00:07:07,080
+because no matter what your probabilities are,
+
+195
+00:07:07,080 --> 00:07:09,000
+you don't want to do it.
+
+196
+00:07:09,000 --> 00:07:10,440
+On the other hand, if there's something that makes sense
+
+197
+00:07:10,440 --> 00:07:11,680
+for some probabilities and not others,
+
+198
+00:07:11,680 --> 00:07:12,960
+then we don't eliminate that.
+
+199
+00:07:12,960 --> 00:07:15,200
+We only eliminate things that makes,
+
+200
+00:07:15,200 --> 00:07:17,320
+that would make sense, that wouldn't make sense
+
+201
+00:07:17,320 --> 00:07:19,960
+regardless of what your probabilities are.
+
+202
+00:07:19,960 --> 00:07:20,800
+All right, so what do you mean?
+
+203
+00:07:20,800 --> 00:07:22,320
+So probabilistic combination strategy
+
+204
+00:07:22,320 --> 00:07:24,320
+strictly dominates another for any probability distribution,
+
+205
+00:07:24,320 --> 00:07:25,840
+that too can be eliminated.
+
+206
+00:07:25,840 --> 00:07:29,120
+So then there's this normal form of graphs,
+
+207
+00:07:29,120 --> 00:07:31,840
+which we can put up.
+
+208
+00:07:31,840 --> 00:07:34,240
+So where should we go?
+
+209
+00:07:34,240 --> 00:07:36,160
+I guess we'll just look at this here.
+
+210
+00:07:36,160 --> 00:07:37,000
+Let's see.
+
+211
+00:07:37,000 --> 00:07:37,840
+Erase.
+
+212
+00:07:39,560 --> 00:07:40,760
+Okay.
+
+213
+00:07:40,760 --> 00:07:43,680
+All right, so here we got a new payoff matrix,
+
+214
+00:07:43,680 --> 00:07:45,480
+S minus two.
+
+215
+00:07:45,480 --> 00:07:49,160
+All right, so T1, T2, T3.
+
+216
+00:07:50,200 --> 00:07:55,200
+All right, this, we got 410, 30,
+
+217
+00:07:55,200 --> 00:08:00,200
+130, 210, 10, three.
+
+218
+00:08:01,440 --> 00:08:04,680
+All right, and here the idea is,
+
+219
+00:08:04,680 --> 00:08:07,240
+so T3, that gives us three,
+
+220
+00:08:07,240 --> 00:08:10,920
+but now you say, well, what probability do you assign
+
+221
+00:08:10,920 --> 00:08:13,680
+to player one playing S1 versus S2?
+
+222
+00:08:15,120 --> 00:08:17,080
+Okay, and you look at this.
+
+223
+00:08:17,080 --> 00:08:22,080
+So suppose that you say that I give it a probability of.6
+
+224
+00:08:22,080 --> 00:08:25,880
+that player one plays S1 and.4 that he plays S2.
+
+225
+00:08:25,880 --> 00:08:28,760
+In that case, your expected payoff
+
+226
+00:08:28,760 --> 00:08:31,680
+from playing T1 is greater than T3, right?
+
+227
+00:08:31,680 --> 00:08:34,160
+Because, so S1 is, you know,
+
+228
+00:08:34,160 --> 00:08:36,080
+played with probability.6,
+
+229
+00:08:36,080 --> 00:08:39,440
+then your expected payoff from playing T3 is three.
+
+230
+00:08:39,440 --> 00:08:44,440
+Your expected payoff from playing T1 is gonna be six.
+
+231
+00:08:45,680 --> 00:08:46,680
+All right?
+
+232
+00:08:46,680 --> 00:08:48,680
+But then you say, well, what if your probability,
+
+233
+00:08:48,680 --> 00:08:50,680
+probability S1 was equal to.4?
+
+234
+00:08:50,680 --> 00:08:53,760
+In that case, you would wanna go and play T2, right?
+
+235
+00:08:53,760 --> 00:08:56,040
+Because then you would go and get an average of six
+
+236
+00:08:56,040 --> 00:08:59,280
+from playing T2 versus three from playing T3.
+
+237
+00:09:00,120 --> 00:09:02,680
+And if you might notice, so actually,
+
+238
+00:09:02,680 --> 00:09:05,720
+so suppose we have S1 equals.5.
+
+239
+00:09:05,720 --> 00:09:06,880
+In that case, it'd be a different,
+
+240
+00:09:06,880 --> 00:09:10,280
+but on average, you would get five from playing T1 or T2,
+
+241
+00:09:10,280 --> 00:09:13,240
+whereas when you play T3, what do you get?
+
+242
+00:09:13,240 --> 00:09:14,760
+Only three.
+
+243
+00:09:14,760 --> 00:09:17,480
+All right, so actually, we can show that
+
+244
+00:09:17,480 --> 00:09:20,560
+whether the probability is greater than.5,
+
+245
+00:09:20,560 --> 00:09:22,120
+then you'd wanna do T1.
+
+246
+00:09:22,120 --> 00:09:24,000
+The probability is less than.5,
+
+247
+00:09:24,000 --> 00:09:25,880
+rather than you'd wanna do T2.
+
+248
+00:09:25,880 --> 00:09:28,000
+And if they're equal, then you'd be indifferent.
+
+249
+00:09:28,000 --> 00:09:31,400
+But in no case is T3 on average better for you.
+
+250
+00:09:31,400 --> 00:09:33,640
+So again, the idea of this refinement is to say
+
+251
+00:09:33,640 --> 00:09:35,160
+we can eliminate that one too.
+
+252
+00:09:36,160 --> 00:09:38,800
+Okay, so we can get rid of that.
+
+253
+00:09:38,800 --> 00:09:40,880
+And then once we get rid of that one,
+
+254
+00:09:40,880 --> 00:09:42,560
+then we can actually go further and say,
+
+255
+00:09:42,560 --> 00:09:46,040
+hey, well, in that case, why would player one
+
+256
+00:09:46,040 --> 00:09:47,560
+ever play S2?
+
+257
+00:09:47,560 --> 00:09:49,680
+Because when he plays S1, he either gets four or three,
+
+258
+00:09:49,680 --> 00:09:52,280
+whereas if he plays S2, he gets zero or two.
+
+259
+00:09:52,280 --> 00:09:54,120
+So we can eliminate that.
+
+260
+00:09:54,120 --> 00:09:56,200
+And then once we're down to this,
+
+261
+00:09:56,200 --> 00:09:59,720
+then what makes no sense for player two to ever play?
+
+262
+00:10:00,640 --> 00:10:03,520
+T2, yeah, why play that, which gets you zero,
+
+263
+00:10:03,520 --> 00:10:05,560
+when you can play the other one, which gets you 10.
+
+264
+00:10:05,560 --> 00:10:08,320
+So actually, it turns out that you should have assigned
+
+265
+00:10:08,320 --> 00:10:11,440
+probability of one S1 all along.
+
+266
+00:10:11,440 --> 00:10:14,480
+But we didn't notice, we did not actually beg the question
+
+267
+00:10:14,480 --> 00:10:15,320
+when doing that.
+
+268
+00:10:15,320 --> 00:10:17,360
+We just said, look, let's just start out
+
+269
+00:10:17,360 --> 00:10:19,560
+assuming we don't know anything about what's gonna happen,
+
+270
+00:10:19,560 --> 00:10:22,200
+but just tell me a probability, just give me something.
+
+271
+00:10:22,200 --> 00:10:23,520
+I don't care what your probability is,
+
+272
+00:10:23,520 --> 00:10:25,160
+but whatever your probability is, I'm gonna tell you,
+
+273
+00:10:25,160 --> 00:10:27,800
+I'm gonna give you a reason not to play T3.
+
+274
+00:10:29,040 --> 00:10:31,440
+All right, and since no matter what answer you give me,
+
+275
+00:10:31,440 --> 00:10:35,480
+I can give you a reason not to play T3, you won't play it.
+
+276
+00:10:35,480 --> 00:10:38,440
+And once we erase that, then we can solve the game.
+
+277
+00:10:38,440 --> 00:10:40,000
+And then it turns out that your probability
+
+278
+00:10:40,000 --> 00:10:43,240
+should have been actually one, that player S1 gets played.
+
+279
+00:10:44,920 --> 00:10:47,520
+All right, oh yeah, I guess we can keep going.
+
+280
+00:10:47,520 --> 00:10:50,920
+All right, now it may happen that a strategy
+
+281
+00:10:50,920 --> 00:10:53,800
+is sometimes strictly worse and never better than another.
+
+282
+00:10:54,800 --> 00:10:58,760
+All right, so this is called a weak dominance,
+
+283
+00:10:58,760 --> 00:11:01,360
+or a weakly dominated strategy.
+
+284
+00:11:03,280 --> 00:11:07,400
+So it's where it is sometimes strictly worse
+
+285
+00:11:07,400 --> 00:11:09,080
+and never strictly better.
+
+286
+00:11:10,200 --> 00:11:12,520
+So sometimes the payoff is greater
+
+287
+00:11:12,520 --> 00:11:14,200
+and it's never actually relevant.
+
+288
+00:11:14,200 --> 00:11:18,640
+All right, so this gives rise to another concept,
+
+289
+00:11:18,640 --> 00:11:21,320
+which is using weak dominance to solve a game.
+
+290
+00:11:22,440 --> 00:11:25,040
+So that's also on the table.
+
+291
+00:11:25,040 --> 00:11:27,240
+But unfortunately, weak dominance,
+
+292
+00:11:27,240 --> 00:11:30,880
+the order in which we proceed can matter for our answer.
+
+293
+00:11:33,200 --> 00:11:35,480
+So, and actually probably for that reason,
+
+294
+00:11:35,480 --> 00:11:37,040
+theorists rarely use weak dominance,
+
+295
+00:11:37,040 --> 00:11:39,880
+even though the difference between strict and weak dominance
+
+296
+00:11:39,880 --> 00:11:42,000
+and common sense terms is very slight,
+
+297
+00:11:42,000 --> 00:11:45,360
+because the intuition, like I said,
+
+298
+00:11:45,360 --> 00:11:46,680
+think about this, so if you tell someone,
+
+299
+00:11:46,680 --> 00:11:48,960
+look, what you're doing is always a bad idea.
+
+300
+00:11:48,960 --> 00:11:51,560
+That seems like a pretty good reason not to do it, right?
+
+301
+00:11:51,560 --> 00:11:53,040
+But also if you say, look,
+
+302
+00:11:53,040 --> 00:11:56,560
+it's either better for you or no worse.
+
+303
+00:11:56,560 --> 00:11:59,200
+That also sounds like a really strong argument, right?
+
+304
+00:11:59,200 --> 00:12:01,520
+If you say, heads you win, tails you break even,
+
+305
+00:12:01,520 --> 00:12:02,720
+what are you gonna do?
+
+306
+00:12:02,720 --> 00:12:03,680
+Flip the coin.
+
+307
+00:12:04,760 --> 00:12:08,120
+Right, that sounds like a very compelling argument to me.
+
+308
+00:12:08,120 --> 00:12:10,600
+Right, if it really were true that you flip a coin,
+
+309
+00:12:10,600 --> 00:12:12,000
+if it comes up heads, you make money,
+
+310
+00:12:12,000 --> 00:12:14,720
+if it comes up tails, then nothing happens,
+
+311
+00:12:15,680 --> 00:12:17,160
+flip the coin, right?
+
+312
+00:12:17,160 --> 00:12:20,440
+And that is the idea, the intuition behind weak dominance,
+
+313
+00:12:20,440 --> 00:12:24,120
+which is if this is sometimes better for you, never worse,
+
+314
+00:12:24,120 --> 00:12:26,000
+then all of them do that thing.
+
+315
+00:12:26,000 --> 00:12:28,600
+Don't just sit there saying, I don't know,
+
+316
+00:12:28,600 --> 00:12:30,200
+might be no better.
+
+317
+00:12:30,200 --> 00:12:33,000
+Yes, but it might be better, and it's never worse,
+
+318
+00:12:33,000 --> 00:12:35,120
+so do it.
+
+319
+00:12:35,120 --> 00:12:36,640
+All right, yes, and this,
+
+320
+00:12:36,640 --> 00:12:38,640
+I think I have made this argument many times
+
+321
+00:12:38,640 --> 00:12:40,680
+when students have stubbornly refused
+
+322
+00:12:40,680 --> 00:12:42,440
+to put a paper in the mail.
+
+323
+00:12:42,440 --> 00:12:45,360
+It's like, look, this paper will do you no good
+
+324
+00:12:45,360 --> 00:12:46,560
+if you don't put it in the mail,
+
+325
+00:12:46,560 --> 00:12:48,160
+or now, of course, you do online submission,
+
+326
+00:12:48,160 --> 00:12:49,920
+but same idea, and you'll look,
+
+327
+00:12:49,920 --> 00:12:51,640
+either they will accept it,
+
+328
+00:12:51,640 --> 00:12:54,240
+and then it will be a big boost to your career,
+
+329
+00:12:54,240 --> 00:12:56,240
+or they'll reject it, you'll be no worse off before
+
+330
+00:12:56,240 --> 00:12:58,920
+when you sit here paralyzed with fear, doing nothing.
+
+331
+00:12:59,880 --> 00:13:04,200
+Right, and this argument works maybe half the time.
+
+332
+00:13:04,200 --> 00:13:08,120
+I mean, if you, a couple times I've actually said,
+
+333
+00:13:08,120 --> 00:13:09,640
+to a little student, look,
+
+334
+00:13:09,640 --> 00:13:11,280
+I'm just gonna sit here and stare at you
+
+335
+00:13:11,280 --> 00:13:12,880
+until you submit this paper.
+
+336
+00:13:12,880 --> 00:13:16,080
+Just do it, but no talking, do it.
+
+337
+00:13:16,080 --> 00:13:19,000
+Like, if my experience counts for anything,
+
+338
+00:13:19,000 --> 00:13:21,000
+if you want any help, just do this thing
+
+339
+00:13:21,000 --> 00:13:22,960
+for your own sake, please.
+
+340
+00:13:22,960 --> 00:13:26,040
+And I'm, no, I can't really do that.
+
+341
+00:13:26,040 --> 00:13:29,400
+All right, yes, very aggravating, yes.
+
+342
+00:13:29,400 --> 00:13:32,440
+Would the potential objection they might raise be,
+
+343
+00:13:32,440 --> 00:13:34,920
+I have a choice between submitting now or doing it
+
+344
+00:13:34,920 --> 00:13:35,760
+after I've actually submitted?
+
+345
+00:13:35,760 --> 00:13:38,800
+This is for people who are paralyzed,
+
+346
+00:13:38,800 --> 00:13:41,560
+this argument works for people who are paralyzed with fear.
+
+347
+00:13:41,560 --> 00:13:44,800
+Right, or alternately, if you just say, look,
+
+348
+00:13:44,800 --> 00:13:47,400
+you know, this paper, there's a clear ceiling
+
+349
+00:13:47,400 --> 00:13:48,560
+on where it can go.
+
+350
+00:13:48,560 --> 00:13:49,840
+There's only one journal in the world
+
+351
+00:13:49,840 --> 00:13:51,280
+that would take this paper.
+
+352
+00:13:51,280 --> 00:13:55,080
+And there's no sign that this paper is going to approve.
+
+353
+00:13:55,080 --> 00:13:57,800
+Right, and then furthermore, there's the general wisdom
+
+354
+00:13:57,800 --> 00:14:01,120
+of, look, you can either sit here trying,
+
+355
+00:14:01,120 --> 00:14:04,120
+spending months of your life trying to make this paper
+
+356
+00:14:04,120 --> 00:14:07,120
+more satisfying to a randomly selected person,
+
+357
+00:14:07,120 --> 00:14:10,360
+or you can send it in, hope that you get a revision request,
+
+358
+00:14:10,360 --> 00:14:12,560
+and then actually deal with the complaints
+
+359
+00:14:12,560 --> 00:14:13,960
+of a specific individual.
+
+360
+00:14:15,920 --> 00:14:17,960
+Right, so again, now we just,
+
+361
+00:14:17,960 --> 00:14:19,440
+strictly you can say, well, there's always,
+
+362
+00:14:19,440 --> 00:14:20,920
+I don't know, there could be a chance of something.
+
+363
+00:14:20,920 --> 00:14:23,000
+All right, so, but yes, nevertheless,
+
+364
+00:14:23,000 --> 00:14:25,080
+if ever this concept has an application,
+
+365
+00:14:25,080 --> 00:14:27,520
+it is in this case, so you miss 100%
+
+366
+00:14:27,520 --> 00:14:29,120
+of all the shots you don't take.
+
+367
+00:14:29,120 --> 00:14:32,800
+Yeah, all right, okay, so why don't we go
+
+368
+00:14:32,800 --> 00:14:34,440
+and take a break now?
+
+369
+00:14:34,440 --> 00:14:37,200
+Let's see, and then I believe we got another homework due,
+
+370
+00:14:37,200 --> 00:14:39,720
+so let me, so when you come up,
+
+371
+00:14:39,720 --> 00:14:41,880
+please get the answer key for homework two.
+
+372
+00:14:44,640 --> 00:14:46,080
+And then.
+
+373
+00:14:47,280 --> 00:14:49,400
+You don't trust me to write it to a written report?
+
+374
+00:14:49,400 --> 00:14:50,400
+I guess you could.
+
+375
+00:14:51,800 --> 00:14:52,640
+Yeah.
+
+376
+00:14:52,640 --> 00:14:54,400
+I'm like, well, don't you agree?
+
+377
+00:14:54,400 --> 00:14:56,360
+See, I was trying to, I was trying to not,
+
+378
+00:14:56,360 --> 00:14:59,520
+I was trying to not throw it in there.
+
+379
+00:14:59,520 --> 00:15:00,360
+All right.
+
+380
+00:15:05,120 --> 00:15:09,480
+Okay, so questions about using dominance to solve games.
+
+381
+00:15:11,200 --> 00:15:12,800
+Everyone's happy with using dominance.
+
+382
+00:15:12,800 --> 00:15:14,960
+Can we have more than one equilibrium?
+
+383
+00:15:14,960 --> 00:15:15,800
+Pardon?
+
+384
+00:15:15,800 --> 00:15:17,040
+Can we have more than one equilibrium?
+
+385
+00:15:17,040 --> 00:15:19,320
+Oh, yes, that's, and that's totally possible.
+
+386
+00:15:19,320 --> 00:15:21,160
+In fact, using strict dominance,
+
+387
+00:15:21,160 --> 00:15:23,120
+you might be able to eliminate nothing.
+
+388
+00:15:23,120 --> 00:15:27,280
+And then you have, then you've got no answer, possibly.
+
+389
+00:15:27,280 --> 00:15:28,560
+So yes, it's totally possible
+
+390
+00:15:28,560 --> 00:15:29,960
+to have multiple equilibrium.
+
+391
+00:15:30,960 --> 00:15:31,800
+Okay.
+
+392
+00:15:31,800 --> 00:15:33,520
+That's a very good question, actually,
+
+393
+00:15:33,520 --> 00:15:35,320
+because multiple equilibrium will come up.
+
+394
+00:15:35,320 --> 00:15:38,720
+Yes, and also, on the comprehensive exams,
+
+395
+00:15:38,720 --> 00:15:41,040
+I said, actually, officially known as the preliminary exams,
+
+396
+00:15:41,040 --> 00:15:42,040
+on the true and false part,
+
+397
+00:15:42,040 --> 00:15:43,400
+it's very common to have questions
+
+398
+00:15:43,400 --> 00:15:45,880
+asking basic facts about different games.
+
+399
+00:15:45,880 --> 00:15:47,920
+And I'm amazed at how many students get them wrong,
+
+400
+00:15:47,920 --> 00:15:49,680
+because it seems to me like you just come up
+
+401
+00:15:49,680 --> 00:15:52,320
+with a little table of all the games we've talked about,
+
+402
+00:15:52,320 --> 00:15:54,760
+and all of what their equilibria are,
+
+403
+00:15:54,760 --> 00:15:55,600
+and just memorize that,
+
+404
+00:15:55,600 --> 00:15:58,000
+and then you would never get these questions wrong.
+
+405
+00:15:58,000 --> 00:16:00,240
+But instead, it seems like a lot of people get to the exam,
+
+406
+00:16:00,240 --> 00:16:02,160
+and then it's like, all right, well,
+
+407
+00:16:02,160 --> 00:16:04,160
+let me see if I remember how this works.
+
+408
+00:16:05,280 --> 00:16:07,320
+Or they mix up, too, they mix up games.
+
+409
+00:16:07,320 --> 00:16:09,240
+So it seems like it would have been
+
+410
+00:16:09,240 --> 00:16:11,040
+a fairly small amount of work
+
+411
+00:16:11,040 --> 00:16:13,120
+to have simply had to write down the table
+
+412
+00:16:13,120 --> 00:16:16,800
+and have it all clear in your head, but yes.
+
+413
+00:16:17,760 --> 00:16:19,200
+So let's see.
+
+414
+00:16:19,200 --> 00:16:20,320
+So in educational psychology,
+
+415
+00:16:20,320 --> 00:16:22,760
+there's a lot of work on how teachers
+
+416
+00:16:22,760 --> 00:16:24,520
+do not use the most effective teaching techniques,
+
+417
+00:16:24,520 --> 00:16:26,720
+and students certainly don't use them either.
+
+418
+00:16:26,720 --> 00:16:28,480
+There's a lot of techniques that are very popular
+
+419
+00:16:28,480 --> 00:16:31,080
+that actually have been shown to be ineffective,
+
+420
+00:16:31,080 --> 00:16:32,880
+such as highlighting.
+
+421
+00:16:32,880 --> 00:16:34,480
+Anyone do highlighting?
+
+422
+00:16:34,480 --> 00:16:37,720
+Highlighting, actually, there are plenty of experiments
+
+423
+00:16:37,720 --> 00:16:40,160
+saying highlighting does not improve knowledge.
+
+424
+00:16:41,040 --> 00:16:43,400
+You do not learn better from highlighting.
+
+425
+00:16:43,400 --> 00:16:44,720
+So what should you do?
+
+426
+00:16:44,720 --> 00:16:46,680
+It'd be far better if you would do flashcards,
+
+427
+00:16:46,680 --> 00:16:49,200
+something like that, some kind of actual active learning.
+
+428
+00:16:49,200 --> 00:16:52,280
+Actual active quizzing of yourself.
+
+429
+00:16:52,280 --> 00:16:53,560
+Or you could just save the pens
+
+430
+00:16:53,560 --> 00:16:55,080
+and you would be no worse off.
+
+431
+00:16:56,200 --> 00:16:58,640
+All right, this course is all on average, it's possible.
+
+432
+00:16:58,640 --> 00:16:59,880
+There is a human being out there
+
+433
+00:16:59,880 --> 00:17:02,520
+who learns everything by highlighting.
+
+434
+00:17:02,520 --> 00:17:03,360
+If you ever had a person
+
+435
+00:17:03,360 --> 00:17:05,680
+who just highlights everything on the page,
+
+436
+00:17:05,680 --> 00:17:07,920
+you learned it all by putting a marker over it.
+
+437
+00:17:07,920 --> 00:17:08,760
+It's great.
+
+438
+00:17:10,440 --> 00:17:13,080
+So backwards induction.
+
+439
+00:17:13,080 --> 00:17:15,880
+All right, so in any game of perfect information,
+
+440
+00:17:15,880 --> 00:17:17,920
+we could say that every node that we're at
+
+441
+00:17:17,920 --> 00:17:20,200
+marks the beginning of what you can think of
+
+442
+00:17:20,200 --> 00:17:22,480
+as another game of perfect information.
+
+443
+00:17:22,480 --> 00:17:24,720
+So you think about every subpart of the game,
+
+444
+00:17:24,720 --> 00:17:26,280
+if the game is perfect information overall,
+
+445
+00:17:26,280 --> 00:17:27,280
+each subpart now,
+
+446
+00:17:27,280 --> 00:17:29,480
+if you have perfect information, that we're here.
+
+447
+00:17:29,480 --> 00:17:32,440
+All right, and what happens if we apply a procedure
+
+448
+00:17:32,440 --> 00:17:34,240
+that is called backwards induction?
+
+449
+00:17:35,320 --> 00:17:36,920
+It's called backwards induction.
+
+450
+00:17:42,760 --> 00:17:47,040
+Where we apply strict dominance
+
+451
+00:17:47,040 --> 00:17:48,760
+to each of what we can call these subgames,
+
+452
+00:17:48,760 --> 00:17:50,800
+these subparts of the tree.
+
+453
+00:17:50,800 --> 00:17:52,160
+Right, and the intuition is,
+
+454
+00:17:52,160 --> 00:17:55,320
+well, if we got to this part of the game,
+
+455
+00:17:55,320 --> 00:17:57,360
+no one's ever gonna do these different things,
+
+456
+00:17:57,360 --> 00:17:59,920
+so we just arrange that part.
+
+457
+00:17:59,920 --> 00:18:03,360
+And then do it again, and do it again, and do it again.
+
+458
+00:18:03,360 --> 00:18:05,440
+All right, so modest answer is you can eliminate
+
+459
+00:18:05,440 --> 00:18:07,440
+more possibilities than before.
+
+460
+00:18:07,440 --> 00:18:09,640
+So let's see here, on the last page,
+
+461
+00:18:09,640 --> 00:18:12,760
+we got a couple of normal forms from Chris.
+
+462
+00:18:12,760 --> 00:18:16,160
+Okay, all right, and let's see here.
+
+463
+00:18:16,160 --> 00:18:19,960
+So I got figured out, so let's see, two, five.
+
+464
+00:18:19,960 --> 00:18:24,160
+All right, so here we've got a normal form,
+
+465
+00:18:24,160 --> 00:18:25,560
+an extensive form, so we can take a look
+
+466
+00:18:25,560 --> 00:18:27,680
+at this extensive form.
+
+467
+00:18:28,600 --> 00:18:31,000
+Let's see, work through it.
+
+468
+00:18:38,520 --> 00:18:40,960
+So here we've got player one has the choices
+
+469
+00:18:40,960 --> 00:18:45,960
+of capital U or D, or capital D,
+
+470
+00:18:45,960 --> 00:18:49,480
+and then over here, let me just get a redraw,
+
+471
+00:18:49,480 --> 00:18:51,960
+so it looks normal, looks too weird.
+
+472
+00:18:51,960 --> 00:18:56,200
+All right, so we've got capital D or capital U,
+
+473
+00:18:56,200 --> 00:18:59,800
+and then if we play D, then player two has the choices
+
+474
+00:18:59,800 --> 00:19:04,480
+of left or right, and the payoffs will be three, one,
+
+475
+00:19:04,480 --> 00:19:07,200
+or zero, zero, over here, two, two.
+
+476
+00:19:07,200 --> 00:19:09,240
+And then backwards induction would be saying,
+
+477
+00:19:09,240 --> 00:19:11,000
+all right, look, so here we,
+
+478
+00:19:11,000 --> 00:19:13,200
+although, like, what happens if we get to this part?
+
+479
+00:19:13,200 --> 00:19:16,720
+Is there any reason for player two to ever play right?
+
+480
+00:19:16,720 --> 00:19:20,520
+No, so why don't we just go and erase that part of the tree?
+
+481
+00:19:20,520 --> 00:19:22,120
+And now when we get up here, we can say,
+
+482
+00:19:22,120 --> 00:19:24,000
+is there any reason for player one
+
+483
+00:19:24,000 --> 00:19:25,880
+to ever go and play U?
+
+484
+00:19:25,880 --> 00:19:30,880
+No, so we end up with a very pruned down tree, right?
+
+485
+00:19:32,520 --> 00:19:34,880
+And actually, so you can go and eliminate
+
+486
+00:19:34,880 --> 00:19:36,400
+some more answers that way.
+
+487
+00:19:36,400 --> 00:19:38,560
+All right, now, yeah, that's the modest answer,
+
+488
+00:19:38,560 --> 00:19:40,680
+is you can sometimes eliminate some stuff.
+
+489
+00:19:40,680 --> 00:19:43,880
+The immodest answer is that any finite game
+
+490
+00:19:43,880 --> 00:19:46,240
+of perfect information without ties
+
+491
+00:19:46,240 --> 00:19:49,000
+becomes dominant solvable using backwards induction.
+
+492
+00:19:49,000 --> 00:19:51,360
+So as long as it's finite,
+
+493
+00:19:51,360 --> 00:19:53,760
+and as long as we got perfect information,
+
+494
+00:19:53,760 --> 00:19:57,680
+then we can solve anything by using dominance.
+
+495
+00:19:57,680 --> 00:19:59,440
+So there's chess.
+
+496
+00:19:59,440 --> 00:20:12,440
+Did you know that...
+
+

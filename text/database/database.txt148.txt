@@ -1,0 +1,18 @@
+1.  Suppose the government imposes a tax on air pollution.  
+ 
+True, False, and Explain:  While this tax doesn’t have to be a Kaldor -Hicks 
+improvement, it  remains  theoretically p ossible  for it to be a Pareto 
+improvement.   
+ 
+TRU E.  The tax doesn’t have  to be a Kaldor -Hicks improvement; imposing a very high tax on 
+something with a mild negative externality could easily make total social surplus lower.  (Picture a 
+$1000/day tax for skipping a shower).  Nevertheless , a tax on air po llution can, as a matter of pure 
+theory, be a Pareto improvement.  Each individual could conceivably value the improved air 
+quality more than the tax.  
+ 
+[Many students said FALSE, on the grounds that if a change is not a Kaldor -Hicks improvement, it 
+cannot be a Pareto improvement.  But the question said  that the change might  not be a Kaldor -
+Hicks improvement.  This merely implies that the change might not be a Pareto improvement, 
+which of course is perfectly compatible with the theoretical possibility  that t he change is a Pareto 
+improvement.]  
+ 

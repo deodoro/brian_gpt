@@ -1,0 +1,8 @@
+4. Consider a simple asymmetric information model: The true value of a company to sellers is uniformly distributed along [0,100], and the value to buyers is 50% more than to sellers.
+ 
+True, False, and Explain: In theory, irrationality could increase or decrease market efficiency; in practice, however, experiments show that irrationality makes this market for lemons less efficient.
+
+True. If the buys are irrational and value the car at greater than 100% of the value to the seller, then the market would clear at the price of 100É. sellers may be over or under estimating the value 
+ 
+ 
+

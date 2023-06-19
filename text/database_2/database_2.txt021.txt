@@ -1,0 +1,14 @@
+5. Suppose your EU=w.9, and insurance is sold at 1% more than the actuarially fair rate. Without insurance, your wealth is $10,000 with p=.5 and $0 with p=.5. 
+ 
+True, False, and Explain: You will fully insure.
+ 
+False. The insurance coverage the person gets is less than their wealth in the "good state."
+
+Note: actuarially fair x=1, in this case x=1.01
+Question is asking: do you want to insure with 50% probability you get nothing?
+
+i= 9,012 
+
+?Max?_i  0.5?(10,000-0.5*1.01i)?^0.9+0.5?(0+i-0.5*1.01i)?^0.9
+
+

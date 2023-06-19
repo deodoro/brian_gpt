@@ -1,0 +1,4 @@
+5.  True, False, and Explain:  Paying efficiency wages is a Prisoners' Dilemma, because it's impossible for all employers to pay "above-market" wages. 
+
+False, it is not impossible for all employers to pay Ôabove-market' wages. Above-market in this case does not mean above what your competitors are paying; it means above the market clearing wage. In fact, employers want to raise wages above the Ôabove-market' wage in order to encourage workers to shirk less and make the threat of being fired more serious, given that the pool of unemployed workers will now be larger and the higher wages make it more difficult for them to procure employment. If all employers pay the efficiency wage it will create a permanent labor surplus which will further increase the costs for a worker if he/she is fired. (draw graph?)
+

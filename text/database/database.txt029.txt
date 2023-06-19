@@ -1,0 +1,20 @@
+2.  Two types of agents consume guns (g) and butter (b).  The Type A agents 
+have U=.5 ln g + .5 ln b, and initially own 1 unit of guns and 1 unit of butter.   The 
+Type B agents have U=.3 ln g + .7 ln b, and initially own .5 units of guns and .5 
+units of butter.  10% of the agents are Type A; the other 90% are Type B.  
+ 
+True, False, and Explain:  The price of guns will not equal the price of butter.  
+ 
+Plugging int o the formula 
+
+i ii i
+yx
+xbya
+pp  from the notes:  
+ 
+ 
+1 507. 5.36/5.185.*7.*90 1*5.*105.*3.*90 1*5.*10 
+yx
+pp
+. 
+ 

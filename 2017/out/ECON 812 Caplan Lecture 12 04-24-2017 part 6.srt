@@ -1,0 +1,1961 @@
+1
+00:00:00,000 --> 00:00:03,520
+Now, since we get to saying, you know, while we're on this topic,
+
+2
+00:00:03,980 --> 00:00:06,620
+so once you're doing index funds and you're saying, well,
+
+3
+00:00:06,620 --> 00:00:08,820
+we're doing this in order to get this diversification,
+
+4
+00:00:09,300 --> 00:00:12,740
+they're like one of the other big lessons that,
+
+5
+00:00:12,740 --> 00:00:16,420
+practical lessons that's come out of financial economics is
+
+6
+00:00:16,420 --> 00:00:18,300
+that there's something called home bias.
+
+7
+00:00:22,220 --> 00:00:24,620
+Where human beings in pretty much every country
+
+8
+00:00:24,620 --> 00:00:27,580
+around the world tend to invest a strangely large amount
+
+9
+00:00:27,580 --> 00:00:28,240
+in their home country.
+
+10
+00:00:28,240 --> 00:00:31,220
+There are a few countries that don't?
+
+11
+00:00:31,320 --> 00:00:31,800
+No, no, no.
+
+12
+00:00:31,800 --> 00:00:32,340
+That's crazy.
+
+13
+00:00:32,460 --> 00:00:33,480
+Yeah. Yes.
+
+14
+00:00:33,480 --> 00:00:36,000
+So even if you're like in Belgium or something,
+
+15
+00:00:36,240 --> 00:00:38,000
+there's like you might have like 30%
+
+16
+00:00:38,000 --> 00:00:39,240
+of your assets in Belgian assets.
+
+17
+00:00:39,240 --> 00:00:40,060
+It's not that much.
+
+18
+00:00:40,260 --> 00:00:43,060
+Like, you know how small a part of the world Belgium is?
+
+19
+00:00:43,300 --> 00:00:44,980
+You have 30% of your assets in Belgium?
+
+20
+00:00:45,280 --> 00:00:47,180
+How many people who aren't Belgian have 30%
+
+21
+00:00:47,180 --> 00:00:48,640
+of their assets in Belgian assets?
+
+22
+00:00:48,640 --> 00:00:50,100
+Like, almost no one would do it.
+
+23
+00:00:50,800 --> 00:00:54,720
+So, this is a very real problem.
+
+24
+00:00:55,160 --> 00:00:57,240
+And even in the United States, most estimates say
+
+25
+00:00:57,240 --> 00:01:00,740
+that you should never have even 50% or more of your assets
+
+26
+00:01:00,740 --> 00:01:04,380
+in US, of your wealth in US assets.
+
+27
+00:01:05,120 --> 00:01:08,100
+So, when we talk about diversifying away risk,
+
+28
+00:01:08,400 --> 00:01:10,320
+there's a lot of risk that people could be diversifying
+
+29
+00:01:10,320 --> 00:01:12,060
+away that they don't bother diversifying away.
+
+30
+00:01:13,680 --> 00:01:16,620
+Right? And, again, of course, back in earlier times
+
+31
+00:01:16,620 --> 00:01:18,960
+when it was just hard to go and invest internationally,
+
+32
+00:01:18,960 --> 00:01:20,140
+there might have been some excuse.
+
+33
+00:01:20,700 --> 00:01:22,300
+But now it's so easy to do this.
+
+34
+00:01:22,300 --> 00:01:25,340
+And there are index funds for many different countries,
+
+35
+00:01:25,340 --> 00:01:27,860
+for many different regions of the world.
+
+36
+00:01:27,860 --> 00:01:29,680
+Right? And then when you think a little bit more
+
+37
+00:01:29,680 --> 00:01:31,900
+about how most people own a home in the country
+
+38
+00:01:31,900 --> 00:01:34,120
+where they reside, right?
+
+39
+00:01:34,200 --> 00:01:37,740
+Normally the home that you own is in the country where you live.
+
+40
+00:01:37,940 --> 00:01:40,160
+You, like, the percentage of your assets
+
+41
+00:01:40,160 --> 00:01:42,660
+that you actually have in your home country is probably,
+
+42
+00:01:42,660 --> 00:01:44,080
+is way higher than you think.
+
+43
+00:01:44,880 --> 00:01:47,140
+Because, you know, even if you put half
+
+44
+00:01:47,140 --> 00:01:51,140
+of your liquid financial assets outside of your country,
+
+45
+00:01:51,460 --> 00:01:53,640
+if your home is half your wealth, then you still have,
+
+46
+00:01:53,640 --> 00:01:56,080
+like, three quarters of your wealth in your home country.
+
+47
+00:01:56,580 --> 00:01:57,840
+Which, again, is pretty crazy.
+
+48
+00:01:59,420 --> 00:02:03,400
+Right? And, again, it's so easy for people to go and try
+
+49
+00:02:03,400 --> 00:02:04,780
+to move their assets in other places.
+
+50
+00:02:04,780 --> 00:02:07,400
+So this is something where, again,
+
+51
+00:02:07,400 --> 00:02:09,560
+I will not claim any independent wisdom on this.
+
+52
+00:02:09,560 --> 00:02:11,780
+But when I read it, like, my God, this is totally right.
+
+53
+00:02:12,360 --> 00:02:14,740
+And, see, my wife was a little nervous about it.
+
+54
+00:02:14,740 --> 00:02:15,960
+But then I said, well, here's what we'll do.
+
+55
+00:02:16,320 --> 00:02:19,800
+We'll make a phantom portfolio that I'm advocating,
+
+56
+00:02:19,800 --> 00:02:22,000
+which we'll just put down and pretend we own it.
+
+57
+00:02:22,000 --> 00:02:22,720
+We don't really own it.
+
+58
+00:02:22,720 --> 00:02:24,400
+But we'll just put it down so you can see what happens.
+
+59
+00:02:24,400 --> 00:02:26,800
+And then after a year, okay, this doesn't seem too crazy.
+
+60
+00:02:26,800 --> 00:02:32,100
+So now I've got maybe down to, like, 25% U.S. assets.
+
+61
+00:02:32,100 --> 00:02:32,820
+Maybe even less.
+
+62
+00:02:33,200 --> 00:02:34,620
+So that's only financial markets.
+
+63
+00:02:34,620 --> 00:02:35,820
+So we still own a house here.
+
+64
+00:02:36,280 --> 00:02:37,320
+So maybe I should go even lower.
+
+65
+00:02:38,160 --> 00:02:41,420
+Right? Now, you know, and then when you're thinking
+
+66
+00:02:41,420 --> 00:02:46,120
+about this more, like, when you owe, like,
+
+67
+00:02:46,120 --> 00:02:49,040
+any time that you owe an asset that are in another country,
+
+68
+00:02:49,040 --> 00:02:52,300
+that any time your own country's currency crashes,
+
+69
+00:02:52,820 --> 00:02:54,360
+that's actually awesome for you.
+
+70
+00:02:55,320 --> 00:02:58,760
+Right? So suppose that the dollar were to fall to 1%
+
+71
+00:02:58,760 --> 00:03:00,660
+of its current value compared to the pound.
+
+72
+00:03:01,280 --> 00:03:04,720
+This would mean that the value of my British assets in terms
+
+73
+00:03:04,720 --> 00:03:06,840
+of what I can buy here in the U.S. would multiply.
+
+74
+00:03:07,380 --> 00:03:07,840
+What did I say?
+
+75
+00:03:07,840 --> 00:03:10,240
+Fell 99% would be worth 100 times as much.
+
+76
+00:03:10,860 --> 00:03:11,860
+So that would be pretty cool.
+
+77
+00:03:11,940 --> 00:03:14,660
+So, and normally I'm rooting for the dollar to crash
+
+78
+00:03:14,660 --> 00:03:18,860
+because I own all these foreign assets,
+
+79
+00:03:19,240 --> 00:03:22,340
+but I consume almost everything in the U.S. So,
+
+80
+00:03:23,020 --> 00:03:24,440
+at least we're thinking about it.
+
+81
+00:03:25,480 --> 00:03:25,760
+All right.
+
+82
+00:03:26,300 --> 00:03:28,300
+So questions, questions.
+
+83
+00:03:28,760 --> 00:03:29,680
+All right.
+
+84
+00:03:30,620 --> 00:03:32,080
+So, all right.
+
+85
+00:03:32,140 --> 00:03:33,840
+Moving on to calendar effects.
+
+86
+00:03:34,820 --> 00:03:38,600
+So even though the efficient markets hypothesis surpasses
+
+87
+00:03:38,600 --> 00:03:41,940
+some pretty nice empirical tests, and it's just impressive,
+
+88
+00:03:41,940 --> 00:03:45,620
+just realizing like you cannot predict the annual movements
+
+89
+00:03:45,620 --> 00:03:48,140
+in stock indices just using past movements,
+
+90
+00:03:48,620 --> 00:03:50,420
+which I think is a very popular view.
+
+91
+00:03:51,100 --> 00:03:52,700
+If there is a view, well, like good years go together,
+
+92
+00:03:52,700 --> 00:03:53,760
+bad years go together.
+
+93
+00:03:54,160 --> 00:03:55,540
+Yeah, they do, except when they don't.
+
+94
+00:03:55,540 --> 00:03:58,420
+Except when you have a good year,
+
+95
+00:03:58,420 --> 00:04:01,420
+then you have a terrible year, which wipes out the correlation.
+
+96
+00:04:01,620 --> 00:04:03,460
+And then it's like, well, but as long
+
+97
+00:04:03,460 --> 00:04:05,520
+as you know what the turning point is, yeah,
+
+98
+00:04:05,520 --> 00:04:06,520
+well if you could know that.
+
+99
+00:04:06,520 --> 00:04:08,620
+I think once the economists actually did a thought
+
+100
+00:04:08,620 --> 00:04:12,500
+experiment and just said, imagine a person every year just
+
+101
+00:04:12,500 --> 00:04:14,500
+knew which country would have the largest increase
+
+102
+00:04:14,500 --> 00:04:15,540
+in stock value that year.
+
+103
+00:04:16,160 --> 00:04:19,000
+How rich would a person be if every year they could just move
+
+104
+00:04:19,000 --> 00:04:20,980
+their assets to the country that would go up the most?
+
+105
+00:04:22,020 --> 00:04:24,720
+Yes. And the answer is that person would own more
+
+106
+00:04:24,720 --> 00:04:26,640
+than the world if they could have done this.
+
+107
+00:04:26,640 --> 00:04:29,360
+And that's not nearly as hard
+
+108
+00:04:29,360 --> 00:04:31,400
+as picking the best stock every year or anything.
+
+109
+00:04:31,400 --> 00:04:32,920
+This is just picking the right country.
+
+110
+00:04:34,140 --> 00:04:37,680
+Even that, if you could really do it, you would be richer
+
+111
+00:04:37,680 --> 00:04:40,440
+than any human being is by far.
+
+112
+00:04:41,220 --> 00:04:43,160
+So something's like, how hard can it be
+
+113
+00:04:43,160 --> 00:04:44,640
+to know which country's going to be best on earth?
+
+114
+00:04:45,220 --> 00:04:45,820
+Super hard.
+
+115
+00:04:46,340 --> 00:04:48,160
+So hard, no human being has done it ever.
+
+116
+00:04:48,860 --> 00:04:49,340
+It's that hard.
+
+117
+00:04:49,960 --> 00:04:51,420
+No human being's come remotely close.
+
+118
+00:04:52,640 --> 00:04:54,800
+I guess if someone every now and then, they just pick a country
+
+119
+00:04:54,800 --> 00:04:57,000
+where they lose all their money, then that would work,
+
+120
+00:04:57,000 --> 00:04:58,820
+because then you'd have a zero multiplied in there,
+
+121
+00:04:58,820 --> 00:05:01,460
+and then it would fit with the fact that you own nothing.
+
+122
+00:05:01,580 --> 00:05:04,240
+But yes. All right.
+
+123
+00:05:04,240 --> 00:05:07,960
+So anyway, there's a bunch of, but there are a bunch
+
+124
+00:05:07,960 --> 00:05:10,580
+of anomalies for the MH, and some of the ones
+
+125
+00:05:10,580 --> 00:05:12,060
+that have gotten the most attention are called
+
+126
+00:05:12,060 --> 00:05:12,880
+calendar effects.
+
+127
+00:05:14,800 --> 00:05:16,040
+So calendar effects.
+
+128
+00:05:16,540 --> 00:05:18,220
+Excuse me.
+
+129
+00:05:20,660 --> 00:05:24,160
+Effects. And the best note
+
+130
+00:05:24,160 --> 00:05:27,200
+of all these is the legendary January effect.
+
+131
+00:05:28,100 --> 00:05:28,980
+The January effect.
+
+132
+00:05:28,980 --> 00:05:35,300
+So, Thaler Reports, book published, I think,
+
+133
+00:05:35,300 --> 00:05:37,040
+like around 99 or so.
+
+134
+00:05:37,220 --> 00:05:39,660
+I don't remember when it was, when it was first published.
+
+135
+00:05:39,660 --> 00:05:41,720
+So thereabouts, I think.
+
+136
+00:05:42,300 --> 00:05:44,400
+So back then, he predicted, he said that, you know,
+
+137
+00:05:44,400 --> 00:05:46,600
+average New York Stock Exchange monthly returns from February
+
+138
+00:05:46,600 --> 00:05:48,560
+to December are.5% per month.
+
+139
+00:05:49,360 --> 00:05:51,220
+Average January return is 3.5%.
+
+140
+00:05:51,940 --> 00:05:55,120
+So there's one month that has seven times the normal rate
+
+141
+00:05:55,120 --> 00:05:55,520
+of return.
+
+142
+00:05:55,520 --> 00:05:57,440
+All right.
+
+143
+00:05:57,840 --> 00:06:01,480
+And if you look at it further, it seems like it primarily comes
+
+144
+00:06:01,480 --> 00:06:05,420
+from these really high returns for small firms in January.
+
+145
+00:06:06,960 --> 00:06:09,940
+So you just buy, invest in the small firms in January,
+
+146
+00:06:09,940 --> 00:06:13,960
+and you get over half your annual return right then.
+
+147
+00:06:13,960 --> 00:06:14,540
+I think, let's see.
+
+148
+00:06:14,540 --> 00:06:15,100
+Or no, no, no.
+
+149
+00:06:15,100 --> 00:06:15,440
+Let's see.
+
+150
+00:06:15,440 --> 00:06:16,140
+Would it be over half?
+
+151
+00:06:16,140 --> 00:06:17,580
+No, it wouldn't be quite that good.
+
+152
+00:06:17,580 --> 00:06:17,900
+Let's see.
+
+153
+00:06:17,900 --> 00:06:20,720
+Eleven. So, you know, you got like two-thirds
+
+154
+00:06:20,720 --> 00:06:21,400
+of your annual return.
+
+155
+00:06:21,400 --> 00:06:23,440
+Or like one-third of your annual return, but still pretty good.
+
+156
+00:06:23,440 --> 00:06:24,820
+All right.
+
+157
+00:06:24,820 --> 00:06:26,980
+And then you might think this is just a U.S. specific thing.
+
+158
+00:06:27,420 --> 00:06:29,440
+So, of course, this inspired a lot of research.
+
+159
+00:06:29,440 --> 00:06:32,060
+And 15 out of 16 countries studied had a January effect
+
+160
+00:06:32,520 --> 00:06:33,240
+by the late 90s.
+
+161
+00:06:35,740 --> 00:06:36,740
+All right.
+
+162
+00:06:36,740 --> 00:06:40,880
+Now, since then, many people have, you know,
+
+163
+00:06:40,880 --> 00:06:42,880
+people working in this area have generally said the January
+
+164
+00:06:42,880 --> 00:06:45,420
+effect has either gone away or is going away.
+
+165
+00:06:46,080 --> 00:06:47,120
+So I haven't kept up to date
+
+166
+00:06:47,120 --> 00:06:48,900
+on what the very latest word on it is.
+
+167
+00:06:49,460 --> 00:06:52,400
+But a common saying is the January effect is now happening
+
+168
+00:06:52,400 --> 00:06:53,560
+in December.
+
+169
+00:06:54,260 --> 00:06:55,200
+Right? And that's the idea.
+
+170
+00:06:55,200 --> 00:06:57,560
+Well, if everybody knows that it's going to go up in January,
+
+171
+00:06:57,560 --> 00:06:58,540
+then it won't go up in January.
+
+172
+00:06:58,540 --> 00:06:59,340
+It'll go up in December.
+
+173
+00:06:59,900 --> 00:07:02,860
+But I think actually there's just been a general annual,
+
+174
+00:07:02,860 --> 00:07:05,540
+general smoothing over calendar months.
+
+175
+00:07:05,540 --> 00:07:07,640
+But I haven't followed that closely.
+
+176
+00:07:07,640 --> 00:07:09,880
+So I'm not sure what the current story is.
+
+177
+00:07:10,300 --> 00:07:11,760
+But even if it goes away totally,
+
+178
+00:07:11,760 --> 00:07:15,260
+the fact that it was big for many decades and 15
+
+179
+00:07:15,260 --> 00:07:19,260
+out of 16 countries studied is not the kind of thing you can
+
+180
+00:07:19,260 --> 00:07:20,440
+just say, ah, it doesn't mean anything.
+
+181
+00:07:20,440 --> 00:07:22,660
+It's a split.
+
+182
+00:07:22,660 --> 00:07:23,740
+So that's one case.
+
+183
+00:07:24,680 --> 00:07:27,860
+Another one that is not nearly as impressive
+
+184
+00:07:27,860 --> 00:07:30,320
+but still well-documented is something called the
+
+185
+00:07:30,320 --> 00:07:30,960
+weekend effect.
+
+186
+00:07:31,460 --> 00:07:33,740
+So when you go and leave your money in a bank account
+
+187
+00:07:33,740 --> 00:07:36,360
+with continuous compounding over the weekend,
+
+188
+00:07:36,840 --> 00:07:39,880
+how much interest do you get between Friday and Monday?
+
+189
+00:07:43,300 --> 00:07:44,300
+So continuous compounding.
+
+190
+00:07:45,000 --> 00:07:48,940
+So between Friday morning and Monday morning,
+
+191
+00:07:48,940 --> 00:07:50,540
+how many days have passed?
+
+192
+00:07:51,320 --> 00:07:52,300
+Three days.
+
+193
+00:07:52,820 --> 00:07:53,840
+So with continuous compounding,
+
+194
+00:07:53,840 --> 00:07:54,820
+how many days interest do you get?
+
+195
+00:07:55,460 --> 00:07:56,560
+Three. All right.
+
+196
+00:07:56,560 --> 00:07:57,480
+So pretty obvious.
+
+197
+00:07:57,980 --> 00:07:58,260
+All right.
+
+198
+00:07:58,260 --> 00:08:01,300
+Now it would seem like stock markets would also have
+
+199
+00:08:01,300 --> 00:08:02,500
+continuous compounding, right?
+
+200
+00:08:02,500 --> 00:08:06,460
+So people are always able to go and buy and sell.
+
+201
+00:08:06,460 --> 00:08:14,640
+So anyway, people could go and dump their portfolio on Friday,
+
+202
+00:08:14,840 --> 00:08:16,420
+buy something with continuous compounding,
+
+203
+00:08:16,420 --> 00:08:19,380
+and then sell the continuously compounded thing on Monday
+
+204
+00:08:19,380 --> 00:08:22,040
+morning and then buy back their portfolio
+
+205
+00:08:22,040 --> 00:08:24,420
+if they weren't getting the continuously compounded return
+
+206
+00:08:24,420 --> 00:08:25,180
+on the stocks.
+
+207
+00:08:25,820 --> 00:08:27,880
+So it seems like the average Friday
+
+208
+00:08:27,880 --> 00:08:29,660
+and Monday return should be three times the normal return.
+
+209
+00:08:30,820 --> 00:08:32,420
+Right? But actually,
+
+210
+00:08:32,420 --> 00:08:34,240
+Monday returns don't seem to be especially good.
+
+211
+00:08:35,380 --> 00:08:36,900
+So that's another thing that's been found.
+
+212
+00:08:38,560 --> 00:08:42,120
+Now, Thaler, who again is, if you go and read him carefully,
+
+213
+00:08:42,120 --> 00:08:43,980
+he's always more reasonable than the summary.
+
+214
+00:08:43,980 --> 00:08:45,440
+All right.
+
+215
+00:08:45,440 --> 00:08:46,640
+So, all right.
+
+216
+00:08:46,640 --> 00:08:49,660
+And possibly more reasonable than his own summary when he's
+
+217
+00:08:49,660 --> 00:08:50,940
+on TV or something like that.
+
+218
+00:08:50,940 --> 00:08:54,260
+So, you know, I have been on TV, so yes,
+
+219
+00:08:54,260 --> 00:08:56,020
+you do have to simplify, but still.
+
+220
+00:08:56,420 --> 00:08:59,620
+If you do read him, he says something that is much richer
+
+221
+00:08:59,620 --> 00:09:01,200
+than the view that is normally attributed to him.
+
+222
+00:09:01,820 --> 00:09:03,940
+So one thing he admits is, look, sure,
+
+223
+00:09:03,940 --> 00:09:05,760
+these anomalies are pretty hard to take advantage
+
+224
+00:09:05,760 --> 00:09:07,020
+of due to transactions costs.
+
+225
+00:09:08,320 --> 00:09:11,380
+But what he says is, you know, at least you should expect people
+
+226
+00:09:11,380 --> 00:09:13,240
+to adjust the timing of the transactions.
+
+227
+00:09:13,240 --> 00:09:15,360
+In order to take advantage of the pattern.
+
+228
+00:09:15,480 --> 00:09:17,560
+So if you know that you're going to buy stocks once a year,
+
+229
+00:09:17,560 --> 00:09:19,700
+there's a January effect, when should you buy the stocks?
+
+230
+00:09:21,240 --> 00:09:21,900
+By the end of December.
+
+231
+00:09:22,360 --> 00:09:23,640
+Right? And then either way,
+
+232
+00:09:23,640 --> 00:09:24,880
+you're paying the transactions costs.
+
+233
+00:09:24,880 --> 00:09:26,140
+But then in one case, you're going
+
+234
+00:09:26,140 --> 00:09:27,100
+and getting your best deal.
+
+235
+00:09:27,480 --> 00:09:28,600
+Whereas if you just do it randomly,
+
+236
+00:09:28,600 --> 00:09:30,220
+maybe the dice will come out February.
+
+237
+00:09:30,220 --> 00:09:32,000
+And then you're getting a way lower return.
+
+238
+00:09:32,400 --> 00:09:33,880
+And you pay the same transactions costs.
+
+239
+00:09:36,520 --> 00:09:36,860
+All right.
+
+240
+00:09:36,860 --> 00:09:39,580
+And yes, so similarly, so there would be a problem
+
+241
+00:09:39,580 --> 00:09:42,700
+in the real world in selling all your stocks on Friday morning
+
+242
+00:09:42,700 --> 00:09:44,660
+and then buying them back on Monday morning.
+
+243
+00:09:44,720 --> 00:09:46,660
+Or Friday evening and then buying them back Monday morning.
+
+244
+00:09:47,060 --> 00:09:48,960
+Which is almost every place would go and charge a fee,
+
+245
+00:09:48,960 --> 00:09:50,080
+which would wipe out the benefits.
+
+246
+00:09:50,800 --> 00:09:52,260
+You see, like, if you really know what you're doing,
+
+247
+00:09:52,260 --> 00:09:55,440
+you might be able to have a, one of the brokerages
+
+248
+00:09:55,440 --> 00:09:58,740
+where they just charge a flat amount per sale order
+
+249
+00:09:58,740 --> 00:09:59,820
+or purchase order.
+
+250
+00:10:00,500 --> 00:10:03,200
+And then if you, and then if you don't diversify as much,
+
+251
+00:10:03,200 --> 00:10:04,400
+you might go, you might be able
+
+252
+00:10:04,400 --> 00:10:06,780
+to get the transactions costs down.
+
+253
+00:10:07,180 --> 00:10:08,120
+If you have an index fund,
+
+254
+00:10:08,120 --> 00:10:10,940
+normally they actually will not allow you to do stuff like that.
+
+255
+00:10:10,940 --> 00:10:13,560
+So normally for index funds, there's a rule saying
+
+256
+00:10:13,560 --> 00:10:15,400
+that you're not allowed to buy or sell more often
+
+257
+00:10:15,440 --> 00:10:16,580
+than every few months.
+
+258
+00:10:17,960 --> 00:10:19,440
+And actually, when you call Redeem,
+
+259
+00:10:19,800 --> 00:10:23,140
+the last few times I called, they said, why are you selling?
+
+260
+00:10:23,860 --> 00:10:26,060
+And if you say, to market time, then they'll say, oh,
+
+261
+00:10:26,060 --> 00:10:28,180
+I'm sorry, sir, you're not allowed to do that.
+
+262
+00:10:28,800 --> 00:10:30,880
+So, or something I want to say, like,
+
+263
+00:10:30,880 --> 00:10:32,580
+if there's an extra fee if you do that,
+
+264
+00:10:32,580 --> 00:10:34,780
+we're saying just I need the money, then there's no fee.
+
+265
+00:10:35,460 --> 00:10:37,720
+So it's a little bit funny as to how they enforce that.
+
+266
+00:10:38,260 --> 00:10:40,420
+The fact they ask is just maybe sometimes people do
+
+267
+00:10:40,420 --> 00:10:42,600
+to support it out, and then they can scold them at least.
+
+268
+00:10:44,600 --> 00:10:44,880
+All right.
+
+269
+00:10:45,700 --> 00:10:49,680
+Yes, and like another calendar effect, well, which, again,
+
+270
+00:10:50,620 --> 00:10:53,260
+it's hard to believe, but I didn't, I met one
+
+271
+00:10:53,260 --> 00:10:55,480
+of the primary researchers, and she really knew her stuff.
+
+272
+00:10:55,480 --> 00:10:57,720
+So I will tell you what she told me.
+
+273
+00:10:58,300 --> 00:11:00,500
+So there's a researcher who, like, has,
+
+274
+00:11:00,500 --> 00:11:03,720
+there's a paper called, this is your portfolio on winter.
+
+275
+00:11:04,440 --> 00:11:06,640
+And it's all about the calendar effect
+
+276
+00:11:06,640 --> 00:11:08,460
+from seasonal affective disorder.
+
+277
+00:11:08,460 --> 00:11:11,740
+Right, and the, so seasonal affective disorder,
+
+278
+00:11:11,740 --> 00:11:14,220
+so there's something like 10 to 15%
+
+279
+00:11:14,220 --> 00:11:16,480
+of people feel more depressed during winter.
+
+280
+00:11:17,860 --> 00:11:20,500
+And the standard view is that it's just
+
+281
+00:11:20,500 --> 00:11:21,520
+because they're getting less sunlight.
+
+282
+00:11:22,360 --> 00:11:24,300
+So people get happier when there's sunlight,
+
+283
+00:11:24,300 --> 00:11:26,640
+and most people don't really care particularly,
+
+284
+00:11:26,980 --> 00:11:29,940
+but there is a segment of the population, like 10 to 15%,
+
+285
+00:11:30,260 --> 00:11:30,960
+that gets really bummed
+
+286
+00:11:30,960 --> 00:11:32,020
+out when they don't have enough sunlight.
+
+287
+00:11:33,020 --> 00:11:35,220
+So anyway, what these researchers did is they actually
+
+288
+00:11:35,220 --> 00:11:38,540
+went and tracked down, based upon your latitude,
+
+289
+00:11:38,900 --> 00:11:40,300
+how much sunlight you're getting
+
+290
+00:11:40,300 --> 00:11:41,920
+in all the different stock exchanges.
+
+291
+00:11:42,240 --> 00:11:44,260
+And then they looked at what's going on for,
+
+292
+00:11:44,260 --> 00:11:48,580
+either in the stock exchanges or in country, or in the firms
+
+293
+00:11:48,580 --> 00:11:50,580
+that are based in the countries of the stock exchanges.
+
+294
+00:11:51,220 --> 00:11:53,520
+And note, not only are you able to get variation
+
+295
+00:11:53,520 --> 00:11:56,340
+from latitude, but remember how there's two hemispheres?
+
+296
+00:11:57,360 --> 00:12:01,160
+So, and when the Arctic has full sunlight,
+
+297
+00:12:01,160 --> 00:12:02,140
+what does the Antarctic have?
+
+298
+00:12:03,820 --> 00:12:04,240
+Full night.
+
+299
+00:12:04,240 --> 00:12:07,420
+So what this means is actually there's a reliable pattern
+
+300
+00:12:07,800 --> 00:12:11,160
+of sunlight, and they claim that when you go
+
+301
+00:12:11,160 --> 00:12:14,040
+and test global financial markets, a particular,
+
+302
+00:12:14,040 --> 00:12:17,200
+like based upon each country or each stock exchange,
+
+303
+00:12:17,600 --> 00:12:19,880
+for seasonal affective disorder based upon their latitude
+
+304
+00:12:19,880 --> 00:12:21,120
+and the time of year,
+
+305
+00:12:21,620 --> 00:12:24,460
+they claim that they actually get a very predictable pattern
+
+306
+00:12:24,460 --> 00:12:28,720
+of returns get depressed during times of low sunlight.
+
+307
+00:12:28,720 --> 00:12:31,960
+Or actually, I believe it's prices get depressed,
+
+308
+00:12:32,240 --> 00:12:33,300
+which means the returns are high.
+
+309
+00:12:33,300 --> 00:12:34,900
+Yes, that's the actual results.
+
+310
+00:12:34,900 --> 00:12:37,420
+So people get depressed, they sell, oh man,
+
+311
+00:12:37,420 --> 00:12:39,980
+the world's terrible, there's so little sunlight.
+
+312
+00:12:40,300 --> 00:12:42,640
+And then there's enough people feel this way
+
+313
+00:12:42,640 --> 00:12:44,620
+that the sales depress prices.
+
+314
+00:12:44,940 --> 00:12:47,260
+And then if you don't sell your stuff during that time,
+
+315
+00:12:47,260 --> 00:12:48,260
+you can make an extra return.
+
+316
+00:12:49,320 --> 00:12:50,560
+And in principle, this does mean
+
+317
+00:12:50,560 --> 00:12:53,220
+that if you could just oscillate between,
+
+318
+00:12:53,440 --> 00:12:55,040
+like the Buenos Aires Stock Exchange
+
+319
+00:12:55,040 --> 00:12:58,240
+or the Stockholm Stock Exchange, so you're always going
+
+320
+00:12:58,240 --> 00:13:02,400
+and selling when there is, you want to sell
+
+321
+00:13:02,400 --> 00:13:04,160
+when there's a lot of sunlight, I believe, and buy
+
+322
+00:13:04,160 --> 00:13:05,260
+when there's very little sunlight,
+
+323
+00:13:05,700 --> 00:13:07,160
+then you could make some extra return.
+
+324
+00:13:07,880 --> 00:13:09,780
+So I mean, I'm sure I was asking, but like,
+
+325
+00:13:10,120 --> 00:13:11,360
+that sounds really easy.
+
+326
+00:13:11,360 --> 00:13:12,240
+Wouldn't everybody do it?
+
+327
+00:13:12,240 --> 00:13:13,460
+I don't remember her answer to that.
+
+328
+00:13:13,540 --> 00:13:15,960
+But this was a piece in the AR, so I'm sure,
+
+329
+00:13:15,960 --> 00:13:18,860
+and it was controversial, so I'm sure the referees put it
+
+330
+00:13:18,860 --> 00:13:19,940
+through a bunch of stress tests.
+
+331
+00:13:19,940 --> 00:13:20,200
+Very good.
+
+332
+00:13:20,200 --> 00:13:20,460
+All right.
+
+333
+00:13:20,460 --> 00:13:21,200
+So, well, there are a few authors.
+
+334
+00:13:21,200 --> 00:13:24,360
+So, but there's, but the piece, this is your brain on winter,
+
+335
+00:13:24,360 --> 00:13:25,420
+or this is your portfolio?
+
+336
+00:13:25,420 --> 00:13:31,980
+I remember it's investigating the relationship
+
+337
+00:13:31,980 --> 00:13:37,400
+between the weather and the stock return in NYSE.
+
+338
+00:13:37,400 --> 00:13:39,140
+So weather conditions.
+
+339
+00:13:39,140 --> 00:13:41,800
+So weather, so but the weather or sunlight?
+
+340
+00:13:41,800 --> 00:13:42,780
+So this one is about sunlight.
+
+341
+00:13:42,780 --> 00:13:46,080
+Oh, he said about weather, maybe the sunny days,
+
+342
+00:13:46,080 --> 00:13:47,720
+the stock return is high.
+
+343
+00:13:47,720 --> 00:13:51,260
+Okay, so in, so they don't have, like in this paper,
+
+344
+00:13:51,260 --> 00:13:52,640
+they don't have a lot of information.
+
+345
+00:13:52,640 --> 00:13:58,060
+They specifically didn't actually look at local weather.
+
+346
+00:13:58,380 --> 00:14:00,580
+They looked at the amount of sunlight that is coming
+
+347
+00:14:00,580 --> 00:14:02,660
+to you from the earth, you know, like coming to you from the sun.
+
+348
+00:14:03,220 --> 00:14:05,100
+So I mean, I'm saying, like, well, what about if there's,
+
+349
+00:14:05,100 --> 00:14:07,500
+like, really thick thunderstorms or whatever?
+
+350
+00:14:07,880 --> 00:14:09,120
+And, you know, they don't count that.
+
+351
+00:14:09,120 --> 00:14:12,380
+So they base their measure purely upon your latitude
+
+352
+00:14:12,380 --> 00:14:14,480
+and time of year and, of course, which hemisphere you're in.
+
+353
+00:14:15,940 --> 00:14:17,560
+So anyway, there's another one.
+
+354
+00:14:18,740 --> 00:14:19,000
+All right.
+
+355
+00:14:19,060 --> 00:14:20,920
+So questions about calendar effects?
+
+356
+00:14:21,380 --> 00:14:21,660
+I guess.
+
+357
+00:14:21,660 --> 00:14:22,860
+There might be one more.
+
+358
+00:14:22,860 --> 00:14:25,580
+I heard about it a little while ago, and I was just looking it
+
+359
+00:14:25,580 --> 00:14:28,220
+up to see what sort of recent research might be on it.
+
+360
+00:14:28,220 --> 00:14:29,960
+But there might be a congressional impact.
+
+361
+00:14:30,360 --> 00:14:33,800
+Okay. And that market tends to outperform when Congress is
+
+362
+00:14:33,880 --> 00:14:39,080
+out of session, recess, versus days when it is in session.
+
+363
+00:14:39,080 --> 00:14:40,320
+And this goes back how long?
+
+364
+00:14:40,640 --> 00:14:43,560
+Apparently, there was a study done in 97 that looked
+
+365
+00:14:43,560 --> 00:14:46,560
+at stock prices from 1897 until then.
+
+366
+00:14:46,760 --> 00:14:48,920
+And there you get some variation because Congress used
+
+367
+00:14:48,920 --> 00:14:50,320
+to be in session a lot less
+
+368
+00:14:50,320 --> 00:14:51,600
+from when there was no air conditioning.
+
+369
+00:14:52,040 --> 00:14:54,900
+So, you know, so perhaps, you know, the theory,
+
+370
+00:14:54,900 --> 00:14:57,960
+the hypothesis is that, you know, there's less uncertainty
+
+371
+00:14:57,960 --> 00:15:01,420
+because they're not meddling with things like that.
+
+372
+00:15:01,940 --> 00:15:08,360
+There's a guy, Eric Singer, who founded a mutual fund
+
+373
+00:15:08,580 --> 00:15:11,820
+to invest specifically in days when Congress is out of session.
+
+374
+00:15:11,820 --> 00:15:15,320
+So it's potentially another area of research.
+
+375
+00:15:15,320 --> 00:15:15,500
+All right.
+
+376
+00:15:16,180 --> 00:15:16,660
+That's good.
+
+377
+00:15:17,120 --> 00:15:17,380
+All right.
+
+378
+00:15:17,380 --> 00:15:20,740
+So next anomaly, mean reversion.
+
+379
+00:15:20,740 --> 00:15:21,000
+All right.
+
+380
+00:15:21,000 --> 00:15:21,260
+Let's see.
+
+381
+00:15:21,260 --> 00:15:23,280
+I was going to do just this here.
+
+382
+00:15:42,460 --> 00:15:42,640
+All right.
+
+383
+00:15:42,640 --> 00:15:51,080
+So this fiscal markets hypothesis tells
+
+384
+00:15:51,080 --> 00:15:52,260
+that returns are unpredictable.
+
+385
+00:15:52,260 --> 00:15:54,800
+So you can't use past returns to forecast future returns.
+
+386
+00:15:55,580 --> 00:15:58,560
+But there is a literature on mean reversion,
+
+387
+00:15:59,000 --> 00:16:00,660
+which is essentially the opposite
+
+388
+00:16:00,660 --> 00:16:01,840
+of what a normal person thinks.
+
+389
+00:16:02,580 --> 00:16:04,980
+So the normal view is something like good years follow good
+
+390
+00:16:04,980 --> 00:16:06,520
+years, bad years follow bad years.
+
+391
+00:16:07,020 --> 00:16:08,720
+Mean reversion actually says the opposite.
+
+392
+00:16:09,060 --> 00:16:10,060
+Mean reversion says, no, no, no.
+
+393
+00:16:10,060 --> 00:16:12,680
+If anything, bad years follow good years,
+
+394
+00:16:12,680 --> 00:16:14,120
+and good years follow bad years.
+
+395
+00:16:14,380 --> 00:16:16,180
+And you should buy the stuff that's been doing poorly.
+
+396
+00:16:16,600 --> 00:16:18,180
+So essentially the reverse of my dad's view,
+
+397
+00:16:18,180 --> 00:16:19,760
+there's like the fundamentally good companies
+
+398
+00:16:19,760 --> 00:16:20,840
+and the fundamentally should buy those.
+
+399
+00:16:20,840 --> 00:16:22,940
+No. The fundamentally good companies are the ones to sell.
+
+400
+00:16:22,940 --> 00:16:25,920
+And the fundamentally bad companies are the ones to buy,
+
+401
+00:16:26,620 --> 00:16:28,460
+would be a way of saying it.
+
+402
+00:16:28,460 --> 00:16:31,420
+So essentially it says that if markets have done poorly
+
+403
+00:16:31,420 --> 00:16:34,420
+for a while, then on average they will actually do better
+
+404
+00:16:34,420 --> 00:16:35,740
+or at least individual stocks.
+
+405
+00:16:36,480 --> 00:16:39,400
+So now if you take a look at what had happened
+
+406
+00:16:39,400 --> 00:16:43,340
+to U.S. stock markets since around 2009, well,
+
+407
+00:16:43,340 --> 00:16:45,360
+let's see you had an incredible horrible crash,
+
+408
+00:16:45,660 --> 00:16:46,940
+and then you've got a bunch of good years.
+
+409
+00:16:47,700 --> 00:16:49,880
+Right? And the mean reversion story is generally something
+
+410
+00:16:49,880 --> 00:16:52,540
+like when there is a crash, people panic.
+
+411
+00:16:53,600 --> 00:16:57,100
+Does that sound at all plausible based upon anything you saw?
+
+412
+00:16:57,100 --> 00:16:58,320
+People are going like, ah!
+
+413
+00:16:59,060 --> 00:17:00,400
+Stocks have risked!
+
+414
+00:17:00,400 --> 00:17:02,360
+Oh no! Oh my God!
+
+415
+00:17:02,360 --> 00:17:04,780
+I never would have bought them if I'd known that!
+
+416
+00:17:04,780 --> 00:17:07,200
+You know, so people get really, they get terrified,
+
+417
+00:17:07,200 --> 00:17:09,100
+and they dump their stuff, and they just say,
+
+418
+00:17:09,100 --> 00:17:10,500
+I'm never buying stocks again.
+
+419
+00:17:11,120 --> 00:17:14,760
+And then there's all of these stocks that are sitting there.
+
+420
+00:17:14,760 --> 00:17:16,500
+People are just too scared to touch them.
+
+421
+00:17:16,500 --> 00:17:18,380
+And if you're someone who just says, well, look,
+
+422
+00:17:18,820 --> 00:17:20,380
+long run averages though, come on.
+
+423
+00:17:20,620 --> 00:17:23,380
+And then you look at them, they're really cheap.
+
+424
+00:17:23,960 --> 00:17:24,960
+No one else is buying them.
+
+425
+00:17:25,380 --> 00:17:25,720
+All right.
+
+426
+00:17:26,780 --> 00:17:27,800
+And then you go and buy them.
+
+427
+00:17:28,620 --> 00:17:32,800
+Right? So essentially if there is an overreaction to bad news
+
+428
+00:17:32,800 --> 00:17:35,320
+where people say I don't want to buy stuff anymore,
+
+429
+00:17:35,600 --> 00:17:37,020
+or there's an overreaction to good news
+
+430
+00:17:37,020 --> 00:17:38,880
+when markets are growing up, and they are going
+
+431
+00:17:38,880 --> 00:17:40,160
+up, and then people say, oh my God!
+
+432
+00:17:40,160 --> 00:17:41,300
+Stocks are just a free lunch!
+
+433
+00:17:41,580 --> 00:17:43,700
+They're like, it's just like bonds, but with no risk!
+
+434
+00:17:44,040 --> 00:17:45,320
+And higher returns is wonderful.
+
+435
+00:17:45,320 --> 00:17:47,980
+So if that's, again, a common reaction, then again,
+
+436
+00:17:47,980 --> 00:17:50,100
+the smart money is there saying, no, again,
+
+437
+00:17:50,100 --> 00:17:51,260
+look at the historical payoff.
+
+438
+00:17:51,260 --> 00:17:54,380
+So that's when I don't want to go and buy them, and that's,
+
+439
+00:17:54,380 --> 00:17:55,680
+in fact, when you may sell them short.
+
+440
+00:17:56,320 --> 00:17:57,460
+So you've got that.
+
+441
+00:17:58,520 --> 00:17:58,740
+All right.
+
+442
+00:17:58,740 --> 00:18:00,340
+So high returns in the past.
+
+443
+00:18:00,340 --> 00:18:02,480
+If anything seemed to predict unusually low returns
+
+444
+00:18:02,480 --> 00:18:03,960
+in the future, right?
+
+445
+00:18:03,960 --> 00:18:05,580
+And again, Thaler is a fan
+
+446
+00:18:05,580 --> 00:18:07,180
+of this systematic overreaction theory,
+
+447
+00:18:07,180 --> 00:18:10,480
+which just says past returns negatively forecast future
+
+448
+00:18:10,480 --> 00:18:14,640
+returns because too many people believe what my dad believes,
+
+449
+00:18:15,060 --> 00:18:18,200
+that bad past return, that the past returns positively forecast.
+
+450
+00:18:18,780 --> 00:18:20,320
+So if almost everyone believes
+
+451
+00:18:20,320 --> 00:18:21,780
+that there's a positive correlation,
+
+452
+00:18:22,200 --> 00:18:25,940
+then this will lead people to, you know, when prices go up,
+
+453
+00:18:25,940 --> 00:18:29,260
+to go and buy and buy to an unrealistic high level,
+
+454
+00:18:29,260 --> 00:18:31,000
+and then there'll be a crash, and then the people
+
+455
+00:18:31,000 --> 00:18:34,880
+who know better can then take advantage of it.
+
+456
+00:18:34,880 --> 00:18:38,080
+So at least back 10 years ago, there was an index called
+
+457
+00:18:38,540 --> 00:18:39,780
+The Dogs of the Dow.
+
+458
+00:18:39,780 --> 00:18:43,040
+Does anyone know if it still exists?
+
+459
+00:18:43,900 --> 00:18:46,500
+Okay. So The Dogs of the Dow, this is basically going
+
+460
+00:18:46,500 --> 00:18:49,880
+and taking the 10 worst performing Dow Jones stocks
+
+461
+00:18:49,880 --> 00:18:50,780
+last year and buying them.
+
+462
+00:18:51,980 --> 00:18:53,780
+And the underlying theory was mean reversion.
+
+463
+00:18:56,560 --> 00:18:57,600
+Dogs of the Dow is still around.
+
+464
+00:18:57,900 --> 00:18:59,580
+Dogs of the Dow is still around, and as it works
+
+465
+00:18:59,580 --> 00:19:04,120
+for the last 10 years, that's the more important question.
+
+466
+00:19:04,120 --> 00:19:07,700
+Not just whether it survives, but whether it still works.
+
+467
+00:19:07,700 --> 00:19:09,860
+But anyway, if we have some information on that.
+
+468
+00:19:11,300 --> 00:19:11,540
+All right.
+
+469
+00:19:11,540 --> 00:19:14,280
+Now, the main thing to say, I am a little bit suspicious,
+
+470
+00:19:14,280 --> 00:19:16,740
+just because I at least, when I've done the directions myself,
+
+471
+00:19:16,740 --> 00:19:19,040
+I haven't seen anything for the U.S. But, again,
+
+472
+00:19:19,040 --> 00:19:19,820
+it could very well be
+
+473
+00:19:19,820 --> 00:19:22,020
+that the U.S. is an unusually stable stock market,
+
+474
+00:19:22,020 --> 00:19:24,300
+being the one that everyone around looks
+
+475
+00:19:24,300 --> 00:19:26,440
+to as being the rock of the world economy.
+
+476
+00:19:26,440 --> 00:19:28,000
+And if you go and look at other countries,
+
+477
+00:19:28,000 --> 00:19:30,900
+maybe they do have a more serious overreaction.
+
+478
+00:19:30,900 --> 00:19:33,300
+Also, what I can say is when I've gone
+
+479
+00:19:33,300 --> 00:19:35,040
+and done the same regression on monthly data,
+
+480
+00:19:35,040 --> 00:19:37,140
+then I have found a little bit of predictability
+
+481
+00:19:37,140 --> 00:19:37,740
+in monthly data.
+
+482
+00:19:39,380 --> 00:19:42,240
+That does fit with the idea of transactions cost are too high
+
+483
+00:19:42,240 --> 00:19:43,580
+for most people to take advantage of it.
+
+484
+00:19:44,020 --> 00:19:45,980
+Because if there's just a very small month
+
+485
+00:19:45,980 --> 00:19:49,700
+to month correlation, so, but to go and be,
+
+486
+00:19:49,700 --> 00:19:53,300
+like buy or selling on the basis of monthly variations,
+
+487
+00:19:53,300 --> 00:19:54,660
+probably really hard for most people.
+
+488
+00:19:55,160 --> 00:19:57,580
+Although, of course, if you are a major investment house,
+
+489
+00:19:57,580 --> 00:19:59,300
+that might be something that you can do.
+
+490
+00:19:59,300 --> 00:20:02,100
+Thank you.
+
+

@@ -1,0 +1,6 @@
+1. Suppose 35% of all agents in an economy have U=ln x + ln y, and the other 65% have U=.5 ln x + ln y.  All agents start with one unit of x and three units of y.  
+ 
+True, False, and Explain: In general equilibrium, exactly 65% of the agents consume more y than x.
+
+ False. Everyone consumes more y.
+

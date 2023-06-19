@@ -1,0 +1,1701 @@
+1
+00:00:00,000 --> 00:00:03,160
+So he actually did an experiment with baseball cards,
+
+2
+00:00:03,160 --> 00:00:04,680
+where he tried seeing whether there was
+
+3
+00:00:04,680 --> 00:00:06,320
+a dominant effect for baseball cards among
+
+4
+00:00:06,320 --> 00:00:09,680
+professional baseball card traders and found that there is not.
+
+5
+00:00:09,680 --> 00:00:12,840
+So people basically are buying and selling for a living,
+
+6
+00:00:12,840 --> 00:00:15,960
+seem to act in accordance with the simple standard theory.
+
+7
+00:00:15,960 --> 00:00:19,480
+Even though if you were just going to give everyone this class of baseball card,
+
+8
+00:00:19,480 --> 00:00:20,760
+a lot of you probably would say,
+
+9
+00:00:20,760 --> 00:00:22,160
+well, this is my baseball card now,
+
+10
+00:00:22,160 --> 00:00:24,600
+I'm going to keep my special baseball card.
+
+11
+00:00:24,600 --> 00:00:26,880
+If I were to give you a whole box of the baseball cards,
+
+12
+00:00:26,880 --> 00:00:28,840
+you might want to keep one and then sell the rest back and
+
+13
+00:00:28,840 --> 00:00:31,960
+be happy just to get rid of the weight.
+
+14
+00:00:31,960 --> 00:00:36,120
+All right. So questions about this stuff?
+
+15
+00:00:36,120 --> 00:00:39,520
+Yeah. So to me, it was when I was doing economics in the family that I
+
+16
+00:00:39,520 --> 00:00:43,240
+realized that the endowment effect has huge effects in the world.
+
+17
+00:00:43,240 --> 00:00:47,040
+And just the way that unplanned pregnancy so often,
+
+18
+00:00:47,040 --> 00:00:49,320
+not just lead to someone reluctantly,
+
+19
+00:00:49,320 --> 00:00:50,800
+unhappily having a child,
+
+20
+00:00:50,800 --> 00:00:53,400
+but actually to being super glad about it.
+
+21
+00:00:53,400 --> 00:00:58,080
+That's pretty odd in terms of any kind of normal economic theory.
+
+22
+00:00:58,080 --> 00:01:03,600
+And yet it is a very strong part of human experience that this person that
+
+23
+00:01:03,600 --> 00:01:08,000
+you totally didn't want and you act and like,
+
+24
+00:01:08,000 --> 00:01:10,200
+when you find out pregnancy, my life is over.
+
+25
+00:01:10,200 --> 00:01:12,800
+Then three years later, instead of saying my life is over,
+
+26
+00:01:12,800 --> 00:01:15,400
+I can't imagine my life without you.
+
+27
+00:01:15,400 --> 00:01:19,040
+And again, this is not like this happened once in a thousand times.
+
+28
+00:01:19,040 --> 00:01:21,840
+This is a very common occurrence.
+
+29
+00:01:21,840 --> 00:01:24,760
+So pretty hard to work,
+
+30
+00:01:24,760 --> 00:01:28,960
+hard to reconcile with any normal economic theory without adding in
+
+31
+00:01:28,960 --> 00:01:33,000
+just the very fact that this child is Korea,
+
+32
+00:01:33,000 --> 00:01:35,520
+like becomes yours through this process.
+
+33
+00:01:35,520 --> 00:01:38,200
+My baby. This is my baby.
+
+34
+00:01:38,200 --> 00:01:39,920
+And now I love my baby.
+
+35
+00:01:39,920 --> 00:01:41,360
+Like your baby's a jerk.
+
+36
+00:01:41,360 --> 00:01:43,120
+It's one of the worst babies ever met.
+
+37
+00:01:43,120 --> 00:01:44,720
+I love him anyway.
+
+38
+00:01:44,720 --> 00:01:48,640
+Everything about him. I love his lies.
+
+39
+00:01:48,640 --> 00:01:50,760
+I love his tantrums.
+
+40
+00:01:50,760 --> 00:01:56,440
+All right. So that seems like a pretty strong and clear case.
+
+41
+00:01:56,440 --> 00:01:59,800
+All right. Questions, questions.
+
+42
+00:01:59,800 --> 00:02:02,800
+All right. And moving on.
+
+43
+00:02:02,800 --> 00:02:05,640
+All right. Selfishness and cooperation.
+
+44
+00:02:05,640 --> 00:02:09,760
+All right. So how many times have you heard the Adam Smith quotes?
+
+45
+00:02:09,760 --> 00:02:12,560
+Told to you just since you started your PhD,
+
+46
+00:02:12,560 --> 00:02:14,680
+not from benevolence of the baker make his bread,
+
+47
+00:02:14,680 --> 00:02:17,000
+but from his own regard to his own self-interest.
+
+48
+00:02:17,000 --> 00:02:19,080
+Right? Economists love this quote.
+
+49
+00:02:19,080 --> 00:02:21,400
+And yet if you look many of the same economists,
+
+50
+00:02:21,400 --> 00:02:23,400
+you say so economists think people are selfish.
+
+51
+00:02:23,400 --> 00:02:26,880
+They'll go, no, no, I just think that maximizing utility function.
+
+52
+00:02:26,880 --> 00:02:30,360
+A Smith quote is not about maximizing utility function.
+
+53
+00:02:30,360 --> 00:02:34,280
+In, if you had said bakers bake bread out of benevolence,
+
+54
+00:02:34,280 --> 00:02:36,520
+is that maximizing utility function?
+
+55
+00:02:36,520 --> 00:02:41,120
+Sure. So why is that an important and insightful quote?
+
+56
+00:02:41,120 --> 00:02:43,760
+And why do economists keep coming back to it?
+
+57
+00:02:43,760 --> 00:02:47,040
+I don't keep repeating that quote.
+
+58
+00:02:47,040 --> 00:02:50,240
+Shows that altruism isn't necessary.
+
+59
+00:02:50,240 --> 00:02:53,400
+It's sufficient but not necessary to produce the goods.
+
+60
+00:02:53,400 --> 00:02:55,520
+I mean, but like Smith didn't say,
+
+61
+00:02:55,520 --> 00:02:58,000
+benevolence is not necessary to bake the bread.
+
+62
+00:02:58,000 --> 00:03:01,160
+He actually said benevolence doesn't bake the bread.
+
+63
+00:03:01,160 --> 00:03:03,960
+It's self-interest that makes the bread.
+
+64
+00:03:03,960 --> 00:03:07,000
+So, it tends to be people are selfish.
+
+65
+00:03:07,000 --> 00:03:08,920
+Yeah. This is a,
+
+66
+00:03:08,920 --> 00:03:12,160
+this, there's no reason to bring that quote up,
+
+67
+00:03:12,160 --> 00:03:15,080
+unless you're making a point about how people are selfish,
+
+68
+00:03:15,080 --> 00:03:17,120
+and that selfishness leads to good outcomes.
+
+69
+00:03:17,120 --> 00:03:18,800
+But you know, there's no point saying
+
+70
+00:03:18,800 --> 00:03:19,960
+selfishness leads to good outcomes,
+
+71
+00:03:19,960 --> 00:03:22,800
+unless you also are saying that selfishness is common.
+
+72
+00:03:22,800 --> 00:03:25,400
+Right. And of course is underestimated.
+
+73
+00:03:25,400 --> 00:03:27,880
+So anyway, economists in
+
+74
+00:03:27,880 --> 00:03:31,080
+practice almost always assume human selfishness.
+
+75
+00:03:31,080 --> 00:03:33,080
+Again, there are special narrow cases
+
+76
+00:03:33,080 --> 00:03:34,600
+where they have a specific justification,
+
+77
+00:03:34,600 --> 00:03:36,760
+like if you're doing economics of parenting,
+
+78
+00:03:36,760 --> 00:03:39,280
+then we usually say parents love their kids.
+
+79
+00:03:39,280 --> 00:03:41,120
+Or if you're doing economics of charity,
+
+80
+00:03:41,120 --> 00:03:43,520
+then there's probably some charity on the pulse.
+
+81
+00:03:43,520 --> 00:03:45,080
+But for all the other cases,
+
+82
+00:03:45,080 --> 00:03:46,800
+it's totally normal for economists
+
+83
+00:03:46,800 --> 00:03:48,600
+to just take selfishness for granted.
+
+84
+00:03:48,600 --> 00:03:50,600
+And it's only when someone starts whining
+
+85
+00:03:50,600 --> 00:03:52,840
+about your assuming selfishness that they start coming up,
+
+86
+00:03:52,840 --> 00:03:55,120
+and start saying, no, no, it's just a utility function.
+
+87
+00:03:55,120 --> 00:03:56,640
+And again, normally when the person who
+
+88
+00:03:56,640 --> 00:03:58,760
+complains about the selfishness leaves the room,
+
+89
+00:03:58,760 --> 00:04:01,240
+then what do the economists go back to doing?
+
+90
+00:04:01,240 --> 00:04:04,040
+Yeah. Assuming everyone, assuming people are selfish.
+
+91
+00:04:04,040 --> 00:04:07,360
+All right. So anyway. Now, pure theorists are
+
+92
+00:04:07,360 --> 00:04:09,120
+the ones who usually want to go and say,
+
+93
+00:04:09,120 --> 00:04:11,120
+I don't assume selfishness at all.
+
+94
+00:04:11,120 --> 00:04:13,840
+No, I just assume that there's a well-earned utility function.
+
+95
+00:04:13,840 --> 00:04:15,960
+Which is that people care about
+
+96
+00:04:15,960 --> 00:04:17,160
+only their own endowments,
+
+97
+00:04:17,160 --> 00:04:19,160
+their own material possessions.
+
+98
+00:04:19,160 --> 00:04:22,720
+That sounds kind of like a selfish person.
+
+99
+00:04:22,720 --> 00:04:25,520
+All right. So anyway, pure theorists
+
+100
+00:04:25,520 --> 00:04:28,360
+often will run away from the Smith quotation.
+
+101
+00:04:28,360 --> 00:04:32,560
+But whenever we apply economics in the real world,
+
+102
+00:04:32,560 --> 00:04:37,920
+selfishness is almost always right there, front and center.
+
+103
+00:04:37,920 --> 00:04:40,080
+And again, not just some kind of
+
+104
+00:04:40,080 --> 00:04:42,520
+everything is selfish no matter what you do.
+
+105
+00:04:42,520 --> 00:04:44,080
+But even like narrow selfish.
+
+106
+00:04:44,080 --> 00:04:46,160
+Like Smith, if you were to say,
+
+107
+00:04:46,160 --> 00:04:49,640
+well look, if you like baking bread, that's selfish too.
+
+108
+00:04:49,640 --> 00:04:51,760
+Is that what Smith is getting at?
+
+109
+00:04:51,760 --> 00:04:55,240
+No. He's using self-interest in the normal sense.
+
+110
+00:04:55,240 --> 00:04:56,760
+According to which a person who bakes
+
+111
+00:04:56,760 --> 00:04:58,480
+bread and gives it to strangers
+
+112
+00:04:58,480 --> 00:05:00,600
+because he loves everybody is not selfish.
+
+113
+00:05:00,600 --> 00:05:03,600
+But a person who bakes bread to make money is selfish.
+
+114
+00:05:03,600 --> 00:05:05,880
+And you say, well, if they're both for
+
+115
+00:05:05,880 --> 00:05:07,480
+your own personal satisfaction,
+
+116
+00:05:07,480 --> 00:05:09,400
+why is one more selfish than the other?
+
+117
+00:05:09,400 --> 00:05:13,560
+I say the easy answer is because of the English language.
+
+118
+00:05:13,560 --> 00:05:15,720
+Because that's what the words mean.
+
+119
+00:05:15,720 --> 00:05:18,040
+Like a person who just loves other people
+
+120
+00:05:18,040 --> 00:05:20,240
+and gets super happy helping orphans.
+
+121
+00:05:20,240 --> 00:05:23,200
+We don't say this is a selfish orphan lover.
+
+122
+00:05:23,200 --> 00:05:27,240
+We say this is a nice person who likes helping orphans.
+
+123
+00:05:27,240 --> 00:05:29,040
+So you're only doing it because you like
+
+124
+00:05:29,040 --> 00:05:32,360
+helping orphans for free, jerk.
+
+125
+00:05:32,360 --> 00:05:35,760
+No. That's the very definition of altruism.
+
+126
+00:05:35,760 --> 00:05:39,080
+If you like, at least it is one perfectly fine form.
+
+127
+00:05:39,080 --> 00:05:40,720
+If there's someone who does it out of
+
+128
+00:05:40,720 --> 00:05:42,480
+a sense of duty even though they hate it,
+
+129
+00:05:42,480 --> 00:05:44,440
+you might say, oh, I find they're unselfish too.
+
+130
+00:05:44,440 --> 00:05:47,000
+But even there, you say, well, who's more unselfish?
+
+131
+00:05:47,000 --> 00:05:49,240
+The person who helps the orphans out of love or the person
+
+132
+00:05:49,240 --> 00:05:51,080
+helps them because they feel like
+
+133
+00:05:51,080 --> 00:05:54,040
+Manuel Kant proved they have to do it.
+
+134
+00:05:54,040 --> 00:05:56,240
+At least it's an interesting,
+
+135
+00:05:56,240 --> 00:05:57,680
+you're like, well, I don't know which one is
+
+136
+00:05:57,680 --> 00:06:01,080
+the more unselfish according to normal English.
+
+137
+00:06:01,200 --> 00:06:05,720
+Okay. So when economists use economics to explain the world,
+
+138
+00:06:05,720 --> 00:06:09,000
+we normally do assume human selfishness in a narrow sense.
+
+139
+00:06:09,000 --> 00:06:12,120
+You ever heard of Don McGraw's story,
+
+140
+00:06:12,120 --> 00:06:13,840
+a question about kidneys?
+
+141
+00:06:13,840 --> 00:06:16,800
+Comes down to this. Can I have your kidney for free?
+
+142
+00:06:16,800 --> 00:06:17,520
+No.
+
+143
+00:06:17,520 --> 00:06:20,640
+What if I need it? But I need your kidney for free. Can I just have it?
+
+144
+00:06:20,640 --> 00:06:21,640
+I need my kidney.
+
+145
+00:06:21,640 --> 00:06:22,360
+Yes.
+
+146
+00:06:22,360 --> 00:06:23,160
+What?
+
+147
+00:06:23,160 --> 00:06:24,200
+I need my kidney.
+
+148
+00:06:24,200 --> 00:06:25,600
+Yeah. Well, actually,
+
+149
+00:06:25,600 --> 00:06:27,520
+a doctor would tell you that you only need one.
+
+150
+00:06:27,520 --> 00:06:30,960
+You've got two. Just like elective surgery.
+
+151
+00:06:30,960 --> 00:06:31,720
+It's no big deal.
+
+152
+00:06:31,720 --> 00:06:34,480
+Like one in 10,000 death rates,
+
+153
+00:06:34,480 --> 00:06:36,080
+it's like an auto accident per year,
+
+154
+00:06:36,080 --> 00:06:37,720
+and like I'd like a kidney.
+
+155
+00:06:37,720 --> 00:06:43,400
+So very few people are inclined to give a stranger their kidney for free.
+
+156
+00:06:43,400 --> 00:06:45,800
+And they would say, well,
+
+157
+00:06:45,800 --> 00:06:48,920
+like this would really turn the recipient's life around.
+
+158
+00:06:48,920 --> 00:06:51,440
+I think I'll still won't do it.
+
+159
+00:06:51,440 --> 00:06:53,960
+It isn't a normal human reaction.
+
+160
+00:06:53,960 --> 00:06:55,960
+There are a few people like Dylan Matthews and
+
+161
+00:06:55,960 --> 00:06:59,320
+Vox when he gave his kidney away to a total stranger.
+
+162
+00:06:59,320 --> 00:07:03,280
+So this is a case where someone says he's a utilitarian,
+
+163
+00:07:03,280 --> 00:07:06,800
+and he appears to act like that is very consistent with doing that.
+
+164
+00:07:06,800 --> 00:07:09,120
+But most people aren't like that.
+
+165
+00:07:09,120 --> 00:07:11,320
+Okay. All right.
+
+166
+00:07:11,320 --> 00:07:14,320
+Now, a slight variation that economists have sometimes brought in,
+
+167
+00:07:14,320 --> 00:07:16,400
+especially when they're doing economics with family,
+
+168
+00:07:16,400 --> 00:07:23,280
+is to go over biology and talk about inclusive fitness.
+
+169
+00:07:23,280 --> 00:07:26,760
+All right. So how many of you here have ever read The Selfish Gene?
+
+170
+00:07:26,760 --> 00:07:28,880
+Where's your dog in this? A few people.
+
+171
+00:07:28,880 --> 00:07:32,000
+All right. So this is
+
+172
+00:07:32,000 --> 00:07:35,480
+a simple Darwinian theory about who you really love,
+
+173
+00:07:35,480 --> 00:07:37,960
+and who you are just using.
+
+174
+00:07:37,960 --> 00:07:40,640
+And the story is, well,
+
+175
+00:07:40,640 --> 00:07:43,760
+suppose that cavemen were willing to go and
+
+176
+00:07:43,760 --> 00:07:46,320
+give their food away for free to total strangers.
+
+177
+00:07:46,320 --> 00:07:51,160
+All right. So what's this going to do to their number of surviving descendants?
+
+178
+00:07:51,160 --> 00:07:53,880
+It's going to hurt it. Right?
+
+179
+00:07:53,880 --> 00:07:57,080
+On the other hand, suppose you had a caveman who had his own flesh and blood,
+
+180
+00:07:57,080 --> 00:07:59,280
+his own biological children, and said,
+
+181
+00:07:59,280 --> 00:08:02,040
+meh, you're never going to do anything for me.
+
+182
+00:08:02,040 --> 00:08:03,360
+Right? Dead and no way going.
+
+183
+00:08:03,360 --> 00:08:06,960
+What would happen to the children of those cavemen?
+
+184
+00:08:06,960 --> 00:08:09,880
+Also, not many of them survive.
+
+185
+00:08:09,880 --> 00:08:13,360
+So what is selected by evolution?
+
+186
+00:08:13,360 --> 00:08:16,400
+It is to not care much about strangers,
+
+187
+00:08:16,400 --> 00:08:19,520
+but to care a lot about your own biological relatives.
+
+188
+00:08:19,520 --> 00:08:22,960
+Right? And in particular, inclusive fitness says that
+
+189
+00:08:22,960 --> 00:08:28,080
+the genetic equilibrium is one where the genes are maximized.
+
+190
+00:08:28,080 --> 00:08:30,520
+And this occurs when you go and value
+
+191
+00:08:30,520 --> 00:08:33,680
+other people based upon how genetically related they are to you.
+
+192
+00:08:33,680 --> 00:08:36,160
+So basically this means if you can,
+
+193
+00:08:36,160 --> 00:08:37,320
+so each of your children,
+
+194
+00:08:37,320 --> 00:08:39,280
+you share half their genes.
+
+195
+00:08:39,280 --> 00:08:43,160
+So it says you'd be different between your own life and two kids.
+
+196
+00:08:43,160 --> 00:08:46,400
+Or your own life and eight cousins.
+
+197
+00:08:46,400 --> 00:08:49,840
+Right? Or your own life and four half-siblings.
+
+198
+00:08:49,840 --> 00:08:51,960
+Sound right? All right.
+
+199
+00:08:51,960 --> 00:08:56,000
+That is what inclusive fitness is all about.
+
+200
+00:08:56,000 --> 00:08:57,840
+It does explain a lot.
+
+201
+00:08:57,840 --> 00:08:58,960
+If you think about it more,
+
+202
+00:08:58,960 --> 00:09:01,040
+you will notice some anomalies to that too.
+
+203
+00:09:01,040 --> 00:09:03,480
+But anyway, there are some economists who have added
+
+204
+00:09:03,480 --> 00:09:05,240
+an inclusive fitness and say, well,
+
+205
+00:09:05,240 --> 00:09:09,040
+when someone goes and is generally selfish,
+
+206
+00:09:09,040 --> 00:09:12,240
+but they lavish stuff on their own biological kids,
+
+207
+00:09:12,240 --> 00:09:15,400
+we're still going to call them selfish, broadly speaking.
+
+208
+00:09:15,400 --> 00:09:17,960
+And again, I would say this is not so weird.
+
+209
+00:09:17,960 --> 00:09:21,520
+So imagine, you know, think about all the TV shows where there's an axe murderer.
+
+210
+00:09:21,520 --> 00:09:23,560
+And as usual, the axe murderer's dad is
+
+211
+00:09:23,560 --> 00:09:27,880
+a billionaire who buys him the best legal defense he could possibly get.
+
+212
+00:09:27,880 --> 00:09:29,800
+And you go and confront the family,
+
+213
+00:09:29,800 --> 00:09:31,960
+the victim is going to confront the billionaire and say,
+
+214
+00:09:31,960 --> 00:09:35,560
+you're a horrible person trying to put your axe murdering son back on the street.
+
+215
+00:09:35,560 --> 00:09:37,920
+And then the billionaire says,
+
+216
+00:09:37,920 --> 00:09:40,240
+I love my son.
+
+217
+00:09:40,240 --> 00:09:42,920
+All right. The point of this is,
+
+218
+00:09:42,920 --> 00:09:46,320
+are we supposed to think of the billionaire trying to put his axe murdering son back on
+
+219
+00:09:46,320 --> 00:09:51,280
+the street as being a selfish jerk or being a wonderful loving parent?
+
+220
+00:09:51,520 --> 00:09:54,760
+Normally think of them as a selfish jerk because sure,
+
+221
+00:09:54,760 --> 00:09:56,160
+they do love their own kid,
+
+222
+00:09:56,160 --> 00:10:00,760
+but they don't care at all about all the people that their kid is going to murder with his axe.
+
+223
+00:10:00,760 --> 00:10:05,560
+So that is a sense in which you might say that inclusive fitness,
+
+224
+00:10:05,560 --> 00:10:08,400
+it's still basically in the same general realm of human selfishness.
+
+225
+00:10:08,400 --> 00:10:12,200
+Or you know, you found out that some guy in the mafia gave his daughter a really nice car,
+
+226
+00:10:12,200 --> 00:10:15,200
+would you say, oh my God, I've totally rethinked my view of this man?
+
+227
+00:10:15,200 --> 00:10:19,680
+No, it's like, well yeah, well that's just what you'd expect a mafia boss to be like.
+
+228
+00:10:19,680 --> 00:10:23,120
+Murders his enemies, but buys his daughter a great car.
+
+229
+00:10:23,120 --> 00:10:27,280
+It doesn't change my view about him as a villain at all.
+
+230
+00:10:27,640 --> 00:10:33,680
+Okay. Now, as you might remember from week six,
+
+231
+00:10:33,680 --> 00:10:37,080
+when there is repeated play in a game,
+
+232
+00:10:37,080 --> 00:10:41,440
+then totally selfish non-relatives will still cooperate.
+
+233
+00:10:41,440 --> 00:10:43,760
+Why? Because of reciprocity.
+
+234
+00:10:43,760 --> 00:10:46,760
+Right? You're cooperating in order to get something.
+
+235
+00:10:46,760 --> 00:10:52,280
+So there's that. So mere cooperation is not good evidence against human selfishness.
+
+236
+00:10:52,280 --> 00:10:55,480
+You need to focus on cooperation where one person gets
+
+237
+00:10:55,480 --> 00:11:00,440
+an endless stream of free stuff and the other one knows they're not going to get anything back.
+
+238
+00:11:00,440 --> 00:11:05,720
+That is the clear case where it's not just implicit trade.
+
+239
+00:11:05,720 --> 00:11:08,240
+Right? Whereas most relationships,
+
+240
+00:11:08,240 --> 00:11:10,640
+even once you think about between friends,
+
+241
+00:11:10,640 --> 00:11:14,080
+they fit the model of implicit trade pretty well.
+
+242
+00:11:14,080 --> 00:11:19,400
+Like think about cases where there's two friends and one of them always helps the other one,
+
+243
+00:11:19,400 --> 00:11:21,200
+and the other one never reciprocates.
+
+244
+00:11:21,200 --> 00:11:23,440
+How stable are friendships like that,
+
+245
+00:11:23,440 --> 00:11:26,040
+where it's totally one way or like that?
+
+246
+00:11:26,040 --> 00:11:29,520
+So generally going forward, those seem to be very stable friendships.
+
+247
+00:11:29,520 --> 00:11:32,320
+Stable friendships are ones where there's reciprocity,
+
+248
+00:11:32,320 --> 00:11:34,160
+where each side is able to help the other.
+
+249
+00:11:34,160 --> 00:11:37,280
+And of course, it doesn't need to be to balance out every single day.
+
+250
+00:11:37,280 --> 00:11:42,360
+But if 10 years have gone by and the one person who gives has never gotten anything back,
+
+251
+00:11:42,360 --> 00:11:46,640
+that's a case where you'll start to wonder what is going on there.
+
+252
+00:11:46,640 --> 00:11:53,200
+Right? All right. So questions about that? Yes.
+
+253
+00:11:53,200 --> 00:11:55,560
+But if the toxic friendship goes on for 10 years,
+
+254
+00:11:55,560 --> 00:11:58,280
+it's probably going to last because it's your toxic friend.
+
+255
+00:11:58,280 --> 00:12:01,480
+So you could just save it with that tautology or you could say
+
+256
+00:12:01,480 --> 00:12:05,480
+maybe this is a case where the selfish relationship story doesn't really work.
+
+257
+00:12:05,480 --> 00:12:08,400
+Again, like the really clear case would be adoption.
+
+258
+00:12:08,400 --> 00:12:10,880
+Right? So most people adopt a baby at birth,
+
+259
+00:12:10,880 --> 00:12:13,720
+love the baby exactly as if it were their own biological child.
+
+260
+00:12:13,720 --> 00:12:16,920
+And what does Inclusive Fitness say they should do with this baby?
+
+261
+00:12:16,920 --> 00:12:19,640
+Say they will do, not should, but will do.
+
+262
+00:12:19,640 --> 00:12:22,400
+Love it one over six million.
+
+263
+00:12:22,400 --> 00:12:24,560
+Yes. So you'll send it back like,
+
+264
+00:12:24,560 --> 00:12:26,960
+what are you going to do for me? We don't share any genes.
+
+265
+00:12:26,960 --> 00:12:28,960
+Right? So now again,
+
+266
+00:12:28,960 --> 00:12:32,200
+if you think about evolution more broadly,
+
+267
+00:12:32,200 --> 00:12:35,920
+it's realizing well, a lot of our evolutionary impulses come from
+
+268
+00:12:35,920 --> 00:12:39,680
+environments where you would never meet an unrelated baby.
+
+269
+00:12:39,680 --> 00:12:41,800
+Right? So like in a primitive tribe,
+
+270
+00:12:41,800 --> 00:12:44,840
+if someone dies and they have a baby that's around,
+
+271
+00:12:44,840 --> 00:12:47,640
+what are the odds that you are actually a close relative of that baby?
+
+272
+00:12:47,640 --> 00:12:48,200
+Very high.
+
+273
+00:12:48,200 --> 00:12:49,320
+Yeah, really high, right?
+
+274
+00:12:49,320 --> 00:12:51,600
+Because there's only 30 people in this band.
+
+275
+00:12:51,600 --> 00:12:54,960
+You're probably related to that baby 17 different ways.
+
+276
+00:12:54,960 --> 00:12:58,560
+Right? Yes, you think of it,
+
+277
+00:12:58,560 --> 00:13:03,000
+the level of incest in a primitive tribe is really high when you think about it.
+
+278
+00:13:03,000 --> 00:13:04,000
+Woof, woof.
+
+279
+00:13:04,000 --> 00:13:06,920
+Yes. All right.
+
+280
+00:13:06,920 --> 00:13:11,760
+Okay. So anyway, so mere cooperation is not good evidence against human selfishness,
+
+281
+00:13:11,760 --> 00:13:15,120
+and again, remember Thomas Hobbes and we talked about him?
+
+282
+00:13:15,120 --> 00:13:17,000
+The idea that everyone were totally selfish,
+
+283
+00:13:17,000 --> 00:13:19,760
+there'd be no cooperation is a little bit ridiculous.
+
+284
+00:13:19,760 --> 00:13:22,960
+Like there's, there's cooperating out there is reciprocity,
+
+285
+00:13:22,960 --> 00:13:26,080
+and that's enough to go and sustain cooperation in a lot of situations.
+
+286
+00:13:26,080 --> 00:13:28,120
+But still, in the real world,
+
+287
+00:13:28,120 --> 00:13:32,160
+it seems like we're seeing more reciprocity than selfishness predicts,
+
+288
+00:13:32,160 --> 00:13:36,960
+and there's a bunch of experiments that have shown that you can replicate this in lab.
+
+289
+00:13:36,960 --> 00:13:41,000
+Right? Right? People often cooperate,
+
+290
+00:13:41,000 --> 00:13:42,920
+even in one-shot prisoner of solemnness.
+
+291
+00:13:42,920 --> 00:13:48,320
+There's no repeat. And you can even, excuse me,
+
+292
+00:13:48,320 --> 00:13:50,160
+you can give full anonymity.
+
+293
+00:13:50,160 --> 00:13:52,320
+So everybody's got, everybody knows,
+
+294
+00:13:52,320 --> 00:13:54,400
+like you'll do them, no idea who the other person is,
+
+295
+00:13:54,400 --> 00:13:56,440
+or your partner is, you don't know who's stabbing you in the back,
+
+296
+00:13:56,440 --> 00:13:59,560
+and yet there's still these modest levels of cooperation.
+
+297
+00:13:59,560 --> 00:14:02,680
+And why? Why? Why would you guys cooperate?
+
+298
+00:14:02,680 --> 00:14:05,640
+I mean, like, common answer would be because it's the right thing to do.
+
+299
+00:14:05,640 --> 00:14:06,960
+I'm a nice person.
+
+300
+00:14:06,960 --> 00:14:09,040
+And I, you know, and you might say,
+
+301
+00:14:09,040 --> 00:14:11,080
+well, I'm doing this because I trust other people.
+
+302
+00:14:11,080 --> 00:14:13,920
+And it's like, well, but if you, you know,
+
+303
+00:14:13,920 --> 00:14:16,680
+if an evil person trusted other people,
+
+304
+00:14:16,680 --> 00:14:18,480
+he still wouldn't cooperate, would he?
+
+305
+00:14:18,480 --> 00:14:21,920
+If it's one shot and no one ever knows who you are,
+
+306
+00:14:21,920 --> 00:14:23,800
+then you go, yeah, I trust other people.
+
+307
+00:14:23,800 --> 00:14:25,440
+We're not a bunch of idiots.
+
+308
+00:14:25,440 --> 00:14:27,560
+I'm going to go and rip them all off.
+
+309
+00:14:27,560 --> 00:14:31,680
+Ha ha. All right.
+
+310
+00:14:31,680 --> 00:14:34,320
+And so what is the obvious explanation?
+
+311
+00:14:34,320 --> 00:14:38,960
+Why would someone cooperate when you've removed every possible selfish reason to do so?
+
+312
+00:14:38,960 --> 00:14:41,520
+For an unselfish reason.
+
+313
+00:14:41,520 --> 00:14:45,480
+Because they care. Because they care about other human beings to some extent.
+
+314
+00:14:45,480 --> 00:14:49,520
+And in Superman 2, there's the villain General Zod.
+
+315
+00:14:49,520 --> 00:14:53,640
+Not the pale imitation of General Zod in the more recent Superman movie,
+
+316
+00:14:53,640 --> 00:14:57,560
+unwatchable, but the original General Zod played by Heron Stamp,
+
+317
+00:14:57,560 --> 00:15:01,680
+who, you know, a towering figure in super villainy.
+
+318
+00:15:01,680 --> 00:15:04,880
+And there's one part where, you know,
+
+319
+00:15:04,880 --> 00:15:07,800
+like the three villains from Krypton are fighting Superman.
+
+320
+00:15:07,800 --> 00:15:12,520
+And then Superman desperately rushes to go and prevent some humans from getting killed.
+
+321
+00:15:12,520 --> 00:15:15,840
+And then I think General Zod says,
+
+322
+00:15:15,840 --> 00:15:18,000
+I've discovered Superman's weakness.
+
+323
+00:15:18,000 --> 00:15:19,520
+And what is it?
+
+324
+00:15:19,520 --> 00:15:22,640
+He cares for these things.
+
+325
+00:15:22,640 --> 00:15:25,520
+And the other Kryptonian says,
+
+326
+00:15:25,520 --> 00:15:28,480
+his pets. And he is presuming.
+
+327
+00:15:28,480 --> 00:15:31,040
+So to the villains from Krypton,
+
+328
+00:15:31,040 --> 00:15:36,440
+the idea that Superman might care about a human being that serves no useful function for him,
+
+329
+00:15:36,440 --> 00:15:39,200
+no selfish function is just weird, but
+
+330
+00:15:39,200 --> 00:15:41,800
+they observe and say, hmm, how odd.
+
+331
+00:15:41,800 --> 00:15:44,720
+I conducted a controlled experiment by throwing a bus
+
+332
+00:15:44,720 --> 00:15:47,280
+at those people and he made an effort to save them.
+
+333
+00:15:47,280 --> 00:15:50,280
+What could they possibly do for him? Nothing.
+
+334
+00:15:50,280 --> 00:15:53,240
+There's only one logical inference left to draw.
+
+335
+00:15:53,240 --> 00:15:55,240
+He likes them.
+
+336
+00:15:57,240 --> 00:16:01,400
+All right. So a lot of this evidence on cooperation in
+
+337
+00:16:01,400 --> 00:16:04,400
+Prisoner of Solemnus comes from public goods experiments.
+
+338
+00:16:04,400 --> 00:16:06,480
+So even in one-shot games,
+
+339
+00:16:06,480 --> 00:16:10,240
+it's very common for there to be 46 percent cooperation.
+
+340
+00:16:10,240 --> 00:16:12,440
+When you do repeated play,
+
+341
+00:16:12,440 --> 00:16:15,200
+what you usually see is there's actually a decline in cooperation.
+
+342
+00:16:15,200 --> 00:16:17,040
+Because some people realize,
+
+343
+00:16:17,040 --> 00:16:18,920
+oh my God, my partners are not being
+
+344
+00:16:18,920 --> 00:16:22,320
+fair and they're cheating me so I'm going to stop cooperating too.
+
+345
+00:16:22,320 --> 00:16:25,280
+Right? But there's also a common result that you can get
+
+346
+00:16:25,280 --> 00:16:27,320
+cooperation up to a higher level again just by saying,
+
+347
+00:16:27,320 --> 00:16:29,520
+all right, new tournament.
+
+348
+00:16:29,520 --> 00:16:31,640
+And just like that,
+
+349
+00:16:31,640 --> 00:16:33,560
+again, that takes up just relabeling things.
+
+350
+00:16:33,560 --> 00:16:36,520
+New round. And they're like, oh my God, it's a new round.
+
+351
+00:16:36,520 --> 00:16:38,280
+Right? What has changed?
+
+352
+00:16:38,280 --> 00:16:40,040
+You're still playing with the same people.
+
+353
+00:16:40,040 --> 00:16:42,240
+Still, almost all the incentives are the same just because
+
+354
+00:16:42,240 --> 00:16:44,840
+the experimenter declares new round, this changes things.
+
+355
+00:16:44,840 --> 00:16:48,160
+But it seems like it gives people hope that people will turn over
+
+356
+00:16:48,160 --> 00:16:52,880
+a new leaf and they will start cooperating because, let's see.
+
+357
+00:16:52,880 --> 00:16:56,240
+So I think when Hillary Clinton became Secretary of State,
+
+358
+00:16:56,240 --> 00:16:57,480
+she said she was going to press
+
+359
+00:16:57,480 --> 00:16:59,440
+the reset button on relations with Russia.
+
+360
+00:16:59,440 --> 00:17:02,200
+I think they actually got a button and gave to
+
+361
+00:17:02,200 --> 00:17:04,080
+her as a gift and pressed the button and said,
+
+362
+00:17:04,080 --> 00:17:06,160
+let's press the reset button together.
+
+363
+00:17:06,160 --> 00:17:09,000
+And it didn't seem to work in this case.
+
+364
+00:17:09,000 --> 00:17:12,040
+So the experiment lacked external validity.
+
+365
+00:17:12,040 --> 00:17:13,840
+But, there you are.
+
+366
+00:17:13,840 --> 00:17:17,440
+All right. Now, there's a lot of extra experimental elements too.
+
+367
+00:17:17,440 --> 00:17:19,360
+So how about tipping?
+
+368
+00:17:19,360 --> 00:17:22,000
+So, why tip?
+
+369
+00:17:22,000 --> 00:17:24,280
+Now, if you go back to the same restaurant frequently,
+
+370
+00:17:24,280 --> 00:17:25,880
+you might say it's to get better service because
+
+371
+00:17:25,880 --> 00:17:28,280
+you think the servers will remember whether you're a good or bad tipper.
+
+372
+00:17:28,280 --> 00:17:31,600
+What about whenever you're never going to go back to that restaurant again?
+
+373
+00:17:31,600 --> 00:17:33,320
+Do you still tip?
+
+374
+00:17:33,320 --> 00:17:34,000
+Yes.
+
+375
+00:17:34,000 --> 00:17:35,120
+Oh yeah, sure you do.
+
+376
+00:17:35,120 --> 00:17:37,600
+Now, we know for the data, almost everybody tips.
+
+377
+00:17:37,600 --> 00:17:39,880
+So I have asked people who work at these restaurants,
+
+378
+00:17:39,880 --> 00:17:42,320
+how often does someone simply give no tip at all?
+
+379
+00:17:42,320 --> 00:17:44,720
+And I think it's one percent of the time.
+
+380
+00:17:44,720 --> 00:17:47,000
+This is even people who do work with
+
+381
+00:17:47,000 --> 00:17:49,640
+customers where they're never going to be there again.
+
+382
+00:17:49,640 --> 00:17:52,760
+So of course, there are a lot of patterns of tipping like,
+
+383
+00:17:52,760 --> 00:17:55,160
+one that every server that I've talked to
+
+384
+00:17:55,160 --> 00:17:57,920
+attest to is the elderly are terrible tippers.
+
+385
+00:17:57,920 --> 00:17:59,600
+The elderly give very bad tip.
+
+386
+00:17:59,600 --> 00:18:02,280
+And especially, what they said is,
+
+387
+00:18:02,280 --> 00:18:04,280
+what's tough about the elderly is they might appear to be
+
+388
+00:18:04,280 --> 00:18:07,760
+extremely happy and they still give you a low tip.
+
+389
+00:18:07,760 --> 00:18:11,040
+Now, my dad who is turning 80 soon,
+
+390
+00:18:11,040 --> 00:18:14,960
+he has received bad service in all his restaurants for as long as I can remember.
+
+391
+00:18:14,960 --> 00:18:17,920
+And at first I thought it was just his own paranoia,
+
+392
+00:18:17,920 --> 00:18:19,600
+but I got older and paid attention.
+
+393
+00:18:19,600 --> 00:18:23,200
+No, he really does seem to receive unusually bad service.
+
+394
+00:18:23,200 --> 00:18:25,880
+And I didn't figure out what's going on.
+
+395
+00:18:25,880 --> 00:18:29,560
+The best I can tell, they immediately just see this guy cannot be pleased.
+
+396
+00:18:29,560 --> 00:18:31,720
+This guy, whatever we do,
+
+397
+00:18:31,720 --> 00:18:36,400
+he's not going to be happy and so they just don't put much effort in him.
+
+398
+00:18:36,400 --> 00:18:39,280
+Ironically, he's actually not a bad tipper.
+
+399
+00:18:39,280 --> 00:18:43,080
+He's always dissatisfied, but the tip is still okay.
+
+400
+00:18:43,080 --> 00:18:49,240
+All right. So anyway, so tipping is one where this is a big part of a big industry.
+
+401
+00:18:49,240 --> 00:18:52,960
+I mean, it's not to say that tipping is always unselfish.
+
+402
+00:18:52,960 --> 00:18:55,440
+So again, there is repeated gain reason to do it,
+
+403
+00:18:55,440 --> 00:18:58,200
+but what if you're not going to?
+
+404
+00:18:58,200 --> 00:19:03,040
+And also notice that there are a lot of informal norms,
+
+405
+00:19:03,040 --> 00:19:07,320
+like it's considered rude for the waiter when you put down the tip to immediately look at it right in front of you,
+
+406
+00:19:07,320 --> 00:19:11,760
+and then give you a thumbs up or a thumbs down based upon your tip.
+
+407
+00:19:11,760 --> 00:19:13,560
+This is generally considered very polite.
+
+408
+00:19:13,560 --> 00:19:16,920
+So normally, they will go out of their way to not look at what you've done,
+
+409
+00:19:16,920 --> 00:19:19,200
+and then you just leave.
+
+410
+00:19:19,400 --> 00:19:22,600
+I gave you all that I wanted,
+
+411
+00:19:22,600 --> 00:19:25,640
+which was nothing. All right.
+
+412
+00:19:25,640 --> 00:19:28,280
+And then of course, there is charity.
+
+413
+00:19:28,280 --> 00:19:31,200
+So the United States does have an unusually high rate of charitable giving,
+
+414
+00:19:31,200 --> 00:19:33,200
+something like two percent of GDP.
+
+415
+00:19:33,200 --> 00:19:38,200
+Some of this you can say is not true charity, and very reasonably.
+
+416
+00:19:38,200 --> 00:19:41,840
+So for example, what is the soundest reason to donate money to your alma mater,
+
+417
+00:19:41,840 --> 00:19:43,160
+the school you went to?
+
+418
+00:19:43,160 --> 00:19:44,320
+To get your kids in.
+
+419
+00:19:44,320 --> 00:19:45,360
+Yeah, to get your kids in.
+
+420
+00:19:45,360 --> 00:19:47,440
+They're basically bribing the school to let your kids in.
+
+421
+00:19:47,440 --> 00:19:50,600
+All right. So that's pretty reasonable.
+
+422
+00:19:50,600 --> 00:19:54,520
+Or what is a reason to donate money to your church?
+
+423
+00:19:54,520 --> 00:19:55,760
+Tax deduction.
+
+424
+00:19:55,760 --> 00:19:57,840
+Well, so again, if you say tax deduction,
+
+425
+00:19:57,840 --> 00:20:00,360
+there the problem is that if you're doing it,
+
+

@@ -1,0 +1,8 @@
+1. True, False, and Explain: In the real world, lump-sum taxes are always the first-best efficient way for governments to raise a given amount of revenue.
+ 
+ False? 
+ 
+What Caplan said: Taxing negative externalities are the first-best efficient way of taxation.
+
+Fairness norms + hard to determine what people's potential productivity is are what makes lump-sum taxes difficult to implement in the real world.
+

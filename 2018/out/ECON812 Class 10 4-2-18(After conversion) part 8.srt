@@ -1,0 +1,493 @@
+1
+00:00:00,000 --> 00:00:04,000
+What's the job?
+
+2
+00:00:04,000 --> 00:00:06,000
+Priests and monks.
+
+3
+00:00:06,000 --> 00:00:07,000
+Priests and monks.
+
+4
+00:00:07,000 --> 00:00:10,000
+So male priests and monks have very feminine personalities
+
+5
+00:00:10,000 --> 00:00:13,000
+according to statistical generalizations about personality.
+
+6
+00:00:13,000 --> 00:00:15,000
+When I first read that, I was like, wow.
+
+7
+00:00:15,000 --> 00:00:17,000
+That explains a lot.
+
+8
+00:00:17,000 --> 00:00:23,000
+It explains why when I was in catechism and the priest was saying,
+
+9
+00:00:23,000 --> 00:00:24,000
+you have to love everybody.
+
+10
+00:00:24,000 --> 00:00:26,000
+I hate this guy every day.
+
+11
+00:00:26,000 --> 00:00:28,000
+It made me so angry.
+
+12
+00:00:28,000 --> 00:00:33,000
+I don't love those people.
+
+13
+00:00:33,000 --> 00:00:37,000
+So that to me at least was a bit of a revelation.
+
+14
+00:00:37,000 --> 00:00:42,000
+He was a man, but he had a very atypical personality for a man,
+
+15
+00:00:42,000 --> 00:00:45,000
+which again to me just creeped me out.
+
+16
+00:00:45,000 --> 00:00:47,000
+I'm just being honest.
+
+17
+00:00:47,000 --> 00:00:49,000
+This is what I felt when I was ten years old.
+
+18
+00:00:49,000 --> 00:00:52,000
+I should get credit for honesty.
+
+19
+00:00:52,000 --> 00:00:56,000
+Isn't it a puzzle then why a lot of major religions don't allow women in clergy?
+
+20
+00:00:56,000 --> 00:00:58,000
+Well, let's see.
+
+21
+00:00:58,000 --> 00:01:03,000
+If you were a very feminine man and you wanted to crush the competition,
+
+22
+00:01:03,000 --> 00:01:09,000
+so it seems like if they did allow women, then they might lose their jobs.
+
+23
+00:01:09,000 --> 00:01:13,000
+Maybe that's not even a bad story, is it?
+
+24
+00:01:13,000 --> 00:01:15,000
+You might say, well, if they were really that nice,
+
+25
+00:01:15,000 --> 00:01:18,000
+they wouldn't want to crush other people.
+
+26
+00:01:18,000 --> 00:01:22,000
+Of course I want to help people, but first I want it to be me.
+
+27
+00:01:22,000 --> 00:01:26,000
+I don't want to be the one that has to do it.
+
+28
+00:01:26,000 --> 00:01:31,000
+Then there's a really neat paper that talks about using personality tests
+
+29
+00:01:31,000 --> 00:01:34,000
+to go and predict long-run life outcomes.
+
+30
+00:01:34,000 --> 00:01:36,000
+This is a paper that says, well, it's not that impressive
+
+31
+00:01:36,000 --> 00:01:39,000
+if you use current personality to predict current life outcomes.
+
+32
+00:01:39,000 --> 00:01:42,000
+That's kind of obvious, and you might just say there's reverse causation.
+
+33
+00:01:42,000 --> 00:01:46,000
+Like maybe for a jail, it makes you a 20th person.
+
+34
+00:01:46,000 --> 00:01:49,000
+What this paper did is it did a meta-analysis of papers
+
+35
+00:01:49,000 --> 00:01:53,000
+where you get personality at 18, and then you look at life outcomes
+
+36
+00:01:53,000 --> 00:01:57,000
+like one or more decades later.
+
+37
+00:01:57,000 --> 00:02:03,000
+The paper found a lot of neat results, saying personality is predictive of unemployment,
+
+38
+00:02:03,000 --> 00:02:09,000
+predictive of divorce, predictive of suicide, predictive of being in jail.
+
+39
+00:02:09,000 --> 00:02:12,000
+Again, this is not just saying that your current personality is predicting your current outcome.
+
+40
+00:02:12,000 --> 00:02:15,000
+It's saying that you find out that you're depressed at 18,
+
+41
+00:02:15,000 --> 00:02:20,000
+and this gives us some ability to predict whether you'll kill yourself by the time you're 40.
+
+42
+00:02:20,000 --> 00:02:25,000
+That seems pretty impressive that you give someone a paper mental test,
+
+43
+00:02:25,000 --> 00:02:29,000
+especially one where the questions seem kind of stupid, like I often feel sad.
+
+44
+00:02:29,000 --> 00:02:34,000
+Very true, somewhat true, neither true nor false, somewhat false, very false.
+
+45
+00:02:34,000 --> 00:02:39,000
+I know economists who just say these questions are meaningless and pointless.
+
+46
+00:02:39,000 --> 00:02:44,000
+That's what you say, but they predict, so they're not meaningless and pointless.
+
+47
+00:02:44,000 --> 00:02:49,000
+Do those, when they check up on people, do they reevaluate their personality as well?
+
+48
+00:02:49,000 --> 00:02:52,000
+Normally not. Normally the whole goal is you get an early measure at 18,
+
+49
+00:02:52,000 --> 00:02:55,000
+and then you just see what it tells you later in life.
+
+50
+00:02:55,000 --> 00:02:59,000
+Again, because if they did later measures, then there's always the objection of
+
+51
+00:02:59,000 --> 00:03:04,000
+life is causing personality changes rather than the other way around.
+
+52
+00:03:04,000 --> 00:03:07,000
+Another interesting result in personality is that people,
+
+53
+00:03:07,000 --> 00:03:13,000
+there are some clear patterns in how personality changes with age.
+
+54
+00:03:13,000 --> 00:03:17,000
+In particular, as people get older, they become less open, more conscientious,
+
+55
+00:03:17,000 --> 00:03:20,000
+more extroverted, more agreeable, and less erotic.
+
+56
+00:03:20,000 --> 00:03:22,000
+Don't have to memorize that.
+
+57
+00:03:22,000 --> 00:03:24,000
+Here's the interesting result.
+
+58
+00:03:24,000 --> 00:03:28,000
+People generally substantially overestimate how much their personality has changed.
+
+59
+00:03:28,000 --> 00:03:32,000
+If you give someone a personality test and then give them another one 20 years later,
+
+60
+00:03:32,000 --> 00:03:35,000
+they'll give the test and think, my God, I'm a totally different person.
+
+61
+00:03:35,000 --> 00:03:37,000
+They say, actually, we got your original test,
+
+62
+00:03:37,000 --> 00:03:41,000
+and there's a 95% correspondence rate between these two test results.
+
+63
+00:03:41,000 --> 00:03:45,000
+You didn't change very much.
+
+64
+00:03:50,000 --> 00:03:53,000
+Now, expected utility anomalies.
+
+65
+00:03:53,000 --> 00:03:57,000
+Like I said, expected utility theory puts some definite restrictions on
+
+66
+00:03:57,000 --> 00:04:00,000
+what you will do under uncertainty.
+
+67
+00:04:00,000 --> 00:04:03,000
+Many of these have been experimentally falsified.
+
+68
+00:04:03,000 --> 00:04:08,000
+One thing is people seem to be risk-averse over utility rather than just wealth.
+
+69
+00:04:08,000 --> 00:04:15,000
+The way that economics defines risk aversion is with this utility of wealth function.
+
+70
+00:04:15,000 --> 00:04:18,000
+That's what we use to define risk aversion.
+
+71
+00:04:18,000 --> 00:04:25,000
+Remember where if the negative of the second derivative over the first derivative is less than zero,
+
+72
+00:04:25,000 --> 00:04:27,000
+then we say you're risk-averse.
+
+73
+00:04:27,000 --> 00:04:29,000
+Remember that.
+
+74
+00:04:29,000 --> 00:04:36,000
+But in expected utility theory, it doesn't make sense to be risk-averse over utility itself.
+
+75
+00:04:36,000 --> 00:04:37,000
+We've already factored that in.
+
+76
+00:04:37,000 --> 00:04:40,000
+Yet, in the real world, if you tell people, look,
+
+77
+00:04:40,000 --> 00:04:46,000
+suppose you could either have a.6 probability of having a happiness of 10 on a 0 to 10 scale,
+
+78
+00:04:46,000 --> 00:04:49,000
+or you could have 5 for sure.
+
+79
+00:04:49,000 --> 00:04:52,000
+A lot of people will say, I'd rather have 5 for sure.
+
+80
+00:04:52,000 --> 00:04:54,000
+Unhappiness, not wealth.
+
+81
+00:04:54,000 --> 00:04:58,000
+They're not even maximizing their expected happiness.
+
+82
+00:04:58,000 --> 00:05:01,000
+There's some kind of risk aversion over the happiness.
+
+83
+00:05:01,000 --> 00:05:10,000
+It's like I'd rather have certainty of moderate happiness than a gamble where there's a good chance I'll be super happy,
+
+84
+00:05:10,000 --> 00:05:14,000
+but there's also a risk that I won't be happy at all.
+
+85
+00:05:14,000 --> 00:05:21,000
+So that is not in the theory, and yet it seems that it comes out of observation.
+
+86
+00:05:21,000 --> 00:05:26,000
+Another thing is many people are risk-averse relative to a reference point.
+
+87
+00:05:26,000 --> 00:05:29,000
+So suppose Bill Gates plays poker.
+
+88
+00:05:29,000 --> 00:05:36,000
+In the real world, if Bill Gates loses, he loses when the stakes are like a dollar hand.
+
+89
+00:05:36,000 --> 00:05:42,000
+Can you believe that Bill Gates might actually have a worse day because he lost at poker?
+
+90
+00:05:42,000 --> 00:05:48,000
+Like playing for him is an amount of money almost too small to imagine.
+
+91
+00:05:48,000 --> 00:05:50,000
+Can you believe that he might actually have a bad day?
+
+92
+00:05:50,000 --> 00:05:53,000
+Yeah, right?
+
+93
+00:05:53,000 --> 00:05:57,000
+So I will say that I have done a bunch of debates.
+
+94
+00:05:57,000 --> 00:05:59,000
+Some of them there's a vote, and some of them there's not a vote.
+
+95
+00:05:59,000 --> 00:06:02,000
+And you know what? I like the ones without a vote better.
+
+96
+00:06:02,000 --> 00:06:10,000
+Because the ones that have a vote, there's a chance that I will feel like a loser.
+
+97
+00:06:10,000 --> 00:06:13,000
+Whereas the ones without a vote, I always win this.
+
+98
+00:06:13,000 --> 00:06:16,000
+I've never failed to win a debate without a vote.
+
+99
+00:06:16,000 --> 00:06:21,000
+Whereas the ones that have votes, then on the one hand, I'm like, well, I definitely have the better argument.
+
+100
+00:06:21,000 --> 00:06:25,000
+I don't know what's wrong with these people, but still, I have lost.
+
+101
+00:06:25,000 --> 00:06:29,000
+So given that, and this is where there's no stakes.
+
+102
+00:06:29,000 --> 00:06:35,000
+The payment that you receive for being in the debate has nothing to do with whether you won or lost.
+
+103
+00:06:35,000 --> 00:06:41,000
+And most of the time, a month later, no one on earth remembers whether you won or lost except, of course, you.
+
+104
+00:06:41,000 --> 00:06:45,000
+I know what the votes were for every debate I've been in, I think.
+
+105
+00:06:45,000 --> 00:06:49,000
+That never goes away, especially the losses.
+
+106
+00:06:49,000 --> 00:07:00,000
+And this is true even though I know that there are some things that are logically relevant that strongly predict when you're losing.
+
+107
+00:07:00,000 --> 00:07:09,000
+In particular, if the resolution is something that almost no one would agree with initially, you almost always win.
+
+108
+00:07:09,000 --> 00:07:14,000
+I mean, imagine this. Suppose that initially 100% of people vote against you.
+
+109
+00:07:14,000 --> 00:07:16,000
+Can you lose that debate?
+
+110
+00:07:16,000 --> 00:07:20,000
+The worst scenario is you tie, because you gain no votes.
+
+111
+00:07:20,000 --> 00:07:24,000
+And if you persuade one person, you're declared the winner of the debate.
+
+112
+00:07:24,000 --> 00:07:33,000
+So you can game the system and just try to lobby for ridiculous statements that almost no one would agree with,
+
+113
+00:07:33,000 --> 00:07:36,000
+and then you just try to win a few people over to them, and then you win all your debates.
+
+114
+00:07:36,000 --> 00:07:48,000
+The last debate that I did, they did have a vote there at Kenyishek. The resolution was, I think, the education system is a waste of time and money.
+
+115
+00:07:48,000 --> 00:07:54,000
+And before he looked at me and said, well, I don't think there's any way that you could lose this debate, Brian.
+
+116
+00:07:54,000 --> 00:07:58,000
+And I'm like, hmm, well, I respect you all the more because you realize that.
+
+117
+00:07:58,000 --> 00:08:01,000
+But still, I'm going to like beating you.
+
+118
+00:08:01,000 --> 00:08:08,000
+And yes, I did beat him, and it wasn't hard because initially only 15% of people agreed with me, and then I got it up to 30.
+
+119
+00:08:08,000 --> 00:08:13,000
+So wow. I doubled the share of people who agreed with me. Fantastic.
+
+120
+00:08:13,000 --> 00:08:19,000
+All right. Another thing. So a choice is not linear in probability, as expected utility predicts.
+
+121
+00:08:19,000 --> 00:08:24,000
+And this can be demonstrated with the L.A. paradox, which is on the homework, but next homework isn't due for two weeks.
+
+122
+00:08:24,000 --> 00:08:28,000
+So no reason to rush through it right now. We can do it next class.
+
+123
+00:08:28,000 --> 00:08:34,000
+All right. So we are done for this evening.
+
+

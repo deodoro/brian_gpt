@@ -1,0 +1,19 @@
+5.  True, False, and Explain:  If the game is repeated infinitely , trigger 
+strategies can sustain the socially optimal outcome as long as β>.6  
+ 
+FALSE.  The socially optimal outcome (social payoffs are maximized) occurs at Dove, Dove.  The 
+trigger strategy would be: If you ever play Hawk, I will play Hawk forever afterwards to punish you, 
+and you will play Dove.  It is therefore in a player's  interest to play Dove if:  
+ 
+513
+, which holds as long as ≥.4. 
+ 
+Many students assumed that the cheater would lose 10 every turn, but that would require the 
+cheater to play Hawk, which he would definitely not do if he expected his opponen t to play Hawk.  
+(Remember – hold all other player's behavior fixed and see if you can do better solely by changing 
+your own behavior!)  Student who correctly reasoned from this assumption got 6 points.  
+ 
+A few other students assumed that the MSNE would be the trigger strategy, but punishing by 
+playing Hawk forever is obviously a tougher punishment .  If you worked through this approach 
+correctly, you also got 6 points.  
+ 

@@ -1,0 +1,5 @@
+3. True, False, and Explain:  Agents of the first type wi ll buy approximately .155 
+units of x.  
+ 
+FALSE.  Each agent has total income of 1*1.31+1*1=2.31.  Agents of type 1 spend half of their 
+income on x.  Their consumption of x therefore equals their total spending divided by the price: 

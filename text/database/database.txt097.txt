@@ -1,0 +1,26 @@
+3. True, Fa lse, and Explain:  If the two types of agents do  not interact (i.e., 
+there is one island for all of the A's and a different island for all of the B's), 
+the interest rate on A will  be positive but the interest rate on B will  be 
+negative.  
+ 
+FALSE.  Applying th e formula from the notes, we see that on the type A’s island:   33 
+01*12*0  
+i ii i
+yx
+xbya
+pp
+, implying a -100% interest rate  (not, as many people said, negative 
+infinity!) .  Intuitively, on the island where no one values consumption in period 1, lending in period  
+1 consumption buys you nothing in period 2.  
+ 
+Similarly, on the  type  B’s island:  
+ 
+21*5.2*5.  
+i ii i
+yx
+xbya
+pp
+, implying a 100% interest rate.  Intui tively, the type B’s value both 
+kinds of consumption equally, but have a larger endowment in period 2, so they t ry to borrow 
+against their higher future  earnings.  
+ 

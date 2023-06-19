@@ -1,0 +1,15 @@
+4. Suppose two players play the following normal form N times.  N is finite and 
+known by both players.  
+ 
+ Left  Right  
+Left  5,0  0,0  
+Right  0,0  0,5  
+ 
+True, False, and Explain:  Alternating back and f orth between (L,L) and (R,R) 
+is always an equilibrium as long as N is even . 
+ 
+FALSE.  Alternating back and forth is always an equilibrium for ALL N.  There is no incentive to 
+cheat in the last turn, since defection automatically yields a payoff of 0.  This is particularly clear 
+because (L,L) and (R,R) are both equilibria off the stage game, and repeatedly playing stage 
+game equilibria is always an equilibrium.  
+ 

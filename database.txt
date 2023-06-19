@@ -1,0 +1,2817 @@
+1.  You and a friend both read the same article in the AER  finding that the 
+minimum wage does not increase unemployment .  You both agree that P(article 
+finds minimum wage raises unemployment | the minimum wage r eally does raise 
+unemployment)=.75, and P(article finds minimum wage raises unemployment | 
+the minimum wage really does not raise unemployment)=.25.  But the two of you 
+DISAGREE in your final estimates: your P(minimum wage raises unemployment| 
+article's fi ndings)=.9, while your friend sets the same probability at .45.  
+ 
+True, False, and Explain:  Your prior probability that the minimum wage increases 
+unemployment must be exactly double your friend's prior probability that the 
+minimum wage increases unemployme nt. 
+ 
+FALSE.  Let A be "minimum wage raises unemployment" and B be "AER article finds that 
+minimum wage does not raise unemployment."  We want to solve for P(A) knowing P(A|B), 
+P(~B|A), and P(~B|~A).  P(~B|A)=1 -P(B|A), so using Bayes' Law, we can calculate P(A) for me 
+and my friend:  
+ 
+For me:  
+))( 1(75.)( 25.)( 25.9.AP APAP
+ , implying my P(A)=.964  
+ 
+For my friend: 
+))( 1(75.)( 25.)( 25.45.AP APAP
+ , implying my friend's P(A)=.771  
+ 
+By inspection, .964<2*.771.  
+ 
+Most answers treated .75 as P(B|A) instead of P(~B|A).  But the text gives you P(article finds 
+minimum wage RAISES unemployment) conditional on various things, but the article in fact facts 
+that the minimum wage does NOT raise unemployment!  One sign that this answer is wrong is 
+that it implies that we get more  confident th at the minimum wage causes unemployment after we 
+see conflicting evidence!  
+ 
+ 
+Problems 2 and 3 refer to the following information.  
+ 
+60% of all agents in an economy have U=ln x + ln y, and the other 40% have 
+U=2 ln x + ln y.  All agents start with 1 unit of x and 1 unit of y.  
+
+2. True, False, and Explain:  
+.4.1
+yx
+pp  
+TRUE.  Using the formula from the homework, and adjusting the ratios of agents from 50/50 to 
+60/40:  
+.4.1 31.11*3/1*40 1*5.*601*3/2*40 1*5.*60
+yx
+pp  
+ 
+ 
+3. True, False, and Explain:  Agents of the first type wi ll buy approximately .155 
+units of x.  
+ 
+FALSE.  Each agent has total income of 1*1.31+1*1=2.31.  Agents of type 1 spend half of their 
+income on x.  Their consumption of x therefore equals their total spending divided by the price: 
+2.31/2/1.31=.882.  
+ 
+4.  The re are two players in the "Big Brother/Little Brother" game.  The players 
+simultaneously decide whether to Read or Play Sports.  Player 1 earns a payoff 
+of 10 if he does the SAME thing Player 2 does, and 0 otherwise; Player 2 earns 
+a payoff of 10 if he doe s the something DIFFERENT than what Player 1 does, 
+and 0 otherwise.  
+ 
+True, False, and Explain:   The following normal form accurately represents this 
+game.  
+                           Player 2  
+ 
+Player 1   Read  Play Sports  
+Read  10,0  0,10  
+Play Sports  0,10  10,0  
+ 
+TRUE.  The left payoff goes to Player 1, the right to Player 2.  When they both Read or both Play 
+Sports, the payoffs are therefore 10 to Player 1 and 0 to Player 2.  In the two other boxes, the 
+payoffs are reversed.  
+ 
+5.  True, False, and Explain:  In a game of complete and perfect information, 
+every Nash equilibrium is subgame perfect, and MSNE can never  exist.  
+ 
+FALSE.  Kreps Figure 12.11(a) shows a game of complete and perfect information with two NE, 
+only one of which is subgame perfect.  Every gam e of complete and perfect information has a 
+SGPNE, but that does NOT mean that every NE is SGP.  
+ 
+MSNE can exist in a game of complete and perfect information if there are tied payoffs.  
+ 
+ 
+ 
+ 
+ 
+ 
+6.  Suppose the Ultimatum Game is played simultaneously  rather th an 
+sequentially.  One player writes down an offer, and the other player writes down  3 
+a minimum acceptable offer.  Both notes are then opened; if Player 1's offer is 
+greater than or equal to Player 2's minimum acceptable offer, they get Player 1's 
+allocation .  Otherwise both players get nothing.  
+ 
+True, False, and Explain:   There is only one weakly dominant strategy in this 
+game and one subgame perfection equilibrium, but (assuming players' offers do 
+not have to be whole numbers) an infinity of Nash equilibria . 
+ 
+FALSE.  It is indeed weakly dominant for Player 2 to write a minimum acceptable offer of 0, 
+making it strictly dominant for Player 1 to offer 0.  
+ 
+Moreover, it is indeed that case that there are an infinity of NE.  If Player 1's offer plus Player 2's 
+min imum acceptable offer add up to the total payoff, you have a NE.  
+ 
+HOWEVER, in a simultaneous game, all of these infinite number of NE are subgame perfect!  In a 
+simultaneous move game, there is only one subgame, so all NE are SGP.  Intuitively, in the 
+simu ltaneous game, Player 2 is in just as strong a bargaining position as Player 1.  Player 1 can 
+threaten to give a low offer, but Player 2 can just as easily threaten to reject such an offer.  In 
+contrast, in the sequential game, Player 1 does not just threa ten to give a low offer.  He makes  the 
+offer irrevocably, which then leaves Player 2 with a definite choice between something and 
+nothing.  
+ 
+7.  Suppose two bargainers infinitely repeat the following game.  Their strategy is 
+to always play Soft as long as b oth players have always played Soft in the past.  
+If one player ever plays Hard, both of them play the MSNE of the game forever 
+afterwards.  
+ 
+  Player 2  Player 
+1  Hard  Soft  
+Hard  0,0  5,1  
+Soft  1,5  4,4  
+ 
+True, False, and Explain:   The smallest value of  able to sustain cooperation is 
+.5. 
+ 
+FALSE.  To answer this problem, we first need to solve for the MSNE.  Let  be P2's probability of 
+playing Hard.  Then P1 is indifferent if 0 +5(1 -)=1+4(1 -), implying =.5.  Since payoffs are 
+symmetric, both players p lay Hard 50% of the time.  Thus, players are equally likely to get the 
+(Hard,Hard) payoff of 0, the (Hard,Soft) payoff of 5, the (Soft,Hard) payoff of 1, or the (Soft,Soft) 
+payoff of 4.  The expected payoff is thus .25*0+.25*5+.25*1+.25*4=2.5.  
+ 
+Once we kno w this, we simply solve for the critical : 
+ 
+ 
+
+
+1 05.2 5 4
+tt
+tt 
+.  Thus: 
+
+  15.2514 , implying that 
+4. . 
+8.  N firms are trying to form a stable cartel.  One of them makes the following 
+suggestion: "Let's set our cartel price somewhat below  the monopoly level.  That 
+way, we'll make lower profits every turn, but the incentive to cheat will also be a 
+lot smaller.  Moderate collusion will be easier to sustain than full collusion."   4 
+ 
+True, False, and Explain:   Assuming firms p lay trigger strategies, this reduces 
+the critical value of  under both  Bertrand and Cournot competition.  
+ 
+FALSE.  Under Bertrand collusion, it makes no difference.  If the cartel price and profits fall, a 
+defecting Bertrand firm slightly undercuts the red uced  cartel price and thereby steals only the 
+reduced  cartel profits.  The cooperation condition becomes:  
+ 
+r
+trt
+N
+01
+, so the profits still cancel out, leaving the requirement that 
+NN 1 . 
+ 
+Under Cournot collusion, however, th is strategy could work.  If the cartel expands output, the 
+market price falls, and the optimal defection quantity accordingly falls (and falls even more relative 
+to the higher level of output the cartel allows).  So defection profits fall relative to a 1/N  share of 
+cartel profits, making cooperation more sustainable.  
+ 
+ 
+9.  Suppose there is costless entry and exit in the lobbying/rent -seeking 
+"industry."   
+ 
+True, False, and Explain:   Repeated interaction between lobbyists will neither 
+increase nor reduce the  total social cost of rent -seeking.  
+ 
+TRUE.  Without entry and exit, repeated interaction could either increase or reduce the total social 
+cost of rent -seeking.  However, with costless entry and exit, the rate of return in the lobbying 
+industry has to exact ly equal the overall market rate of return.  Thus, if lobbyists collude to raise 
+the return to lobbying, they attract new entry until the return falls back to normal.  Similarly, if 
+lobbyists push returns below the normal level in an effort to build up a " tough" reputation, firms 
+exist until the return rises back to normal.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Democratic governments are often lobbied to extend mo nopoly protection to 
+various firms.  Carefully analyze and diagram  the full Kaldor -Hicks efficiency 
+consequences (allocative, productive, lobbying) of this practice if (a) productive 
+efficiency and lobbying ability are perfectly correlated (i.e., the lowes t-cost firm 
+always defeats higher -cost rivals in political battles if they spend the same 
+amount), and (b) productive efficiency and lobbying abilities are imperfectly 
+correlated.  
+ 
+In case (a), there will be allocative and lobbying inefficiency, but no pro ductive inefficiency.  That is 
+because the most productively efficient firms wins every time.  In contrast, in case (b), there is a 
+probability of productive inefficiency in addition to allocative and lobbying inefficiency, because the 
+higher -cost firm mig ht win the lobbying contest.  It is also worth noting that a more productively 
+efficient firm will always be willing to pay more to get a monopoly privilege because the lower your 
+costs, the greater the monopoly profits the privilege enables you to earn.  With unequal costs, you 
+will not necessarily see full rent dissipation, especially in case (a).  There, the most productively 
+efficient firm only needs to spend an amount greater than the monopoly profits the second most -
+efficient firm could earn if it won  the privilege.  
+
+2.  Why does Landsburg say that "prices are good"?  Carefully explain 
+Landsburg's position.  What role do the Welfare Theorems and game theory play 
+in his argument?  
+ 
+Landsburg explains that competition by itself cou ld be good or bad.  In general, there is no 
+guarantee that competition leads to socially desirable outcomes.  However, when you combine 
+competition, rationality, and market prices, you do have a (limited) guarantee of social optimality.  
+The First Welfare Theorem in particular shows that if rational agents compete subject to market 
+prices, you normally get an efficient outcome.  Landsburg uses some game theory examples to 
+illustrate cases where competition and rationality lead to socially suboptimal outcome s. 
+ 
+ 
+3.  In some graduate economics programs, like the University of Chicago's, the 
+students rarely study cooperatively.  In other programs, practically every student 
+belongs to a study group.  Some observers attribute this to Chicago's high failure 
+rate a nd the conditionality of funding on passing first -year exams.  Others 
+attribute this to a Chicago "culture."  Use game theory to model both of these 
+competing hypotheses.  To what extent do your two accounts rely on repeated 
+game considerations?   
+ 
+To mode l the first hypothesis, I would suggest modeling study group participation as a repeated 
+PD game.  Because of the high failure rate, the probability that the game continues is smaller than 
+at other schools.  Moreover, because funding depends on passing exa ms, the temptation payoff if 
+you defect at the last minute (taking your friends' notes right before the big exam and then 
+refusing to share yours) is greater than in other programs.  Both of these factors require greater 
+patience to sustain cooperation.  
+ 
+The model the second hypothesis, I would suggest modeling study group participation as a 
+coordination game.  If other students join groups, you'd better too.  But if no one else is joining, 
+you look like an idiot if you go around trying to form one.  Thus, equilibria with and without study 
+groups both exist.   7 
+
+Problems 1 and 2 refer to the following information.  
+ 
+1.  Agents live for two periods.  They are endowed with 1 unit of a consumption 
+good in period 1 and 2 units in period 2.  The period 1 good spoils if not 
+consumed in period 1.  There are two types of agents:  
+ 
+Type A:  25% of the agents have U=ln c 1.   
+ 
+Type B:  The other 75% have U=ln c 1 + ln c 2 
+ 
+True, False, and Explain:  The general equilibrium interest rate will exceed 200%.  
+ 
+TRUE.  This is just the standard two -good  general equilibrium model applied to intertemporal 
+trade.  Thus, we can use the equation from the notes: 
+
+i ii i
+yx
+xbya
+pp .  Specifically:  
+ 
+3/101*5.*75 1*0*252*5.*75 2*1*25
+21pp
+.  In other words, if you want one more unit of consumption 
+in period 1, you have to g ive up 10/3 of a unit in period 2.  That means that the interest rate is 
+233%>200%.  
+ 
+2. True, False, and Explain:  If the two types of agents did not interact (i.e., there 
+is one island for all of the A's and a different island for all of the B's), the inte rest 
+rate on A would be positive but the interest rate on B would be negative.  
+ 
+FALSE.  The interest rate would be positive on both islands.  You do not need to re -do the 
+calculations to answer.  The interest rate on A would obviously be infinite because t he agents put 
+zero value on period 2 consumption but have positive endowments in that period.  But the interest 
+rate on B would also be positive, because the B's value both goods equally but have bigger 
+endowments in period 2.  Therefore they would seek to  borrow in period 1 until the interest rate 
+got high enough to make them content to consume 1 unit in period 1 and 2 units in period 2.  
+ 
+ 
+ 
+3. True, False, and Explain:  The Ultimatum Game can be solved using strict 
+dominance.  
+
+FALSE.  It can be solved using  weak  dominance.  Always accepting is a weakly dominant strategy 
+for the recipient.  But it is not strictly dominant because accepting 0 and rejecting 0 yields the 
+same outcome.  
+ 
+ 
+4.  Two players play a Prisoners' Dilemma game followed by a Hawk -Dove 
+game.   Consider the following candidate equilibrium:  Both players Cooperate in 
+the first game.  Then in the second game:  
+ 
+ If both players Cooperated in the first game, both play Dove.  
+ If one player Cooperated in game 1 and the other didn't, the Cooperator 
+play s Hawk in game 2 and the other player plays Dove.   
+ If neither Cooperated in turn 1, both players play the MSNE in turn 2.  
+ 
+True, False, and Explain:   You need to know the exact payoffs to determine 
+whether this is a subgame perfect NE.  
+ 
+FALSE.  It is defi nitely not a SGPNE.  Why not?  Both players playing Dove on turn 2 is not a NE.  
+One player would want to switch to Hawk.  This might however be a SGPNE if (Coop, Coop) in 
+turn 1 led to the MSNE in turn 2.  Then it would depend on the exact payoffs.  
+ 
+Quest ions 5 and 6 refer to the following information.  
+ 
+Suppose that a store decides whether to cheat or not cheat, and a consumer 
+decides whether to investigate the store's reputation, buy without investigating, 
+or not buy without investigating.  Intuitively, i f the customer investigates, he is 
+never swindled, but always wastes some time.  The cost of investigation is a>0.  
+ 
+ 
+ Investigate  Buy  Don't Buy  
+Cheat  0, -a 5,-5 0,0  
+Don't Cheat  3, 3 -a 3,3  0,0  
+ 
+ 
+5.  True, False, and Explain:  If a MSNE does not  exist, th ere are two PSNE.  
+ 
+FALSE.  If a MSNE does not exist, there is only ONE PSNE: (Cheat, Don't Buy).  A MSNE does 
+not exist if Investigate is strictly dominated; i.e., if a>5.  Once you are left with the two rightmost 
+columns, it is clear that (Cheat, Buy) is not an equilibrium (the customer would switch to Don't 
+Buy); (Don't Cheat, Buy) is not an equilibrium (the store would switch to Cheat); and (Don't Buy, 
+Don't Cheat) is not an equilibrium (the customer would switch to Buy).  
+ 
+ 
+ 
+ 
+6.  True, False, and Explain : If the game is infinitely repeated, the equilibrium 
+(Don't Cheat, Buy) may be sustainable even if a>5.  
+
+TRUE.  If a>5, it never pays to Investigate.  But the customer can still find out about the store's 
+honesty by buying without investigating and seeing  what happens.  He could then induce honest 
+behavior with trigger strategies, for example.  Trigger strategies would work as long as 3/(1 -)5, 
+where  is the store's discount factor.  
+ 
+7.  True, False, and Explain:   If firms have heterogeneous costs, the e quilibrium 
+in a one -shot Bertrand game will definitely be more allocatively efficient but may 
+be less productively efficient than a one -shot Cournot game.   
+ 
+FALSE.  The one -shot Bertrand game is always perfectly productively efficient, because the 
+lowest -cost producer(s) take over the whole market.  In Cournot, in contrast, productively 
+inefficient firms may survive.  Bertrand games have no allocative inefficiency if the two most 
+efficient firms are equally efficient, but if there is a big gap in costs it is possible that allocative 
+inefficiency will be more severe than in Cournot.  
+ 
+ 
+8.  True, False, and Explain:   Landsburg ( Fair Play ) argues that leaving 
+childbearing decisions to individuals creates a special kind of Prisoners' 
+Dilemma.  
+ 
+TRUE.  But unlike anti -population thinkers, Landsburg argues that selfishness leads to too FEW 
+children rather than too many.  Families fail to consider the positive externalities their children will 
+have on the world, and those positive externalities almost certainly outwe igh any negative 
+externalities.  
+ 
+ 
+9.  True, False, and Explain:   Repeated game theory provides a solid theoretical 
+explanation for the widely -accepted view that collusion is more common than 
+predation.  
+ 
+FALSE.  Repeated game theory merely shows that in inf initely -repeated games, both collusion 
+and predation MAY be sustainable.  It gives no particular reason to think that one is more 
+sustainable than the other.  You need more details to understand why predation is less common 
+than collusion.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  " Journalists seem to think that the costs of foreign competition can be measured by the 
+number of Americans who leave their jobs as a result.   That's pretty much the opposite of the 
+truth." (Landsburg, Fair Play ) 
+ 
+Use cost -benefit analysis to defend the journalists'  position.  
+ 
+The most obvious possibility Landsburg overlooks is that labor markets don't clear due to 
+downwardly rigid wages.  If so, workers may be randomly rationed out of their jobs, and unable to 
+find new ones.  The workers who stay will be worse off than those who switch to a new job, but 
+better off than the laid -off.  
+ 
+The journalists might also appeal to positive externalities of work, most obviously those created by 
+the safety net.  
+ 
+ 
+2.  Explain why the free -entry equilibrium with fixed costs is inefficient in a 
+Cournot game.  Is this a realistic prediction?  Why or why not?  Explain how you 
+would try to break out of this equil ibrium if you ran one of the firms.  
+ 
+Take the simplest case where there is a fixed cost and zero MC.  Then obviously the cheapest 
+way to make a quantity Q is to have one firm make it all.  The social cost is K, versus N*K for the 
+free -entry equilibrium.  A ssuming a homogenous good, however, this prediction is highly 
+unrealistic.  One firm could loudly announce that it is selling for one penny below the price 
+reached by the Cournot auctioneer and steal the whole market.  Cournot oligopoly would then 
+break do wn into contestable monopoly.  
+ 
+3.  In any long -term friendship, there are multiple equilibria, of which only a small 
+fraction are ever played .  Give a good example to illustrate this principle.  
+Building on Kreps' discussion of "Why Might There Be an Obvio us Way to Play a 
+Game?"  analyze what makes the observed equilibria "special."  
+ 
+There are many ways that friends could pay for joint restaurant meals: even split, Dutch treat, 
+alternating full payment, {you pay for one meal, then I pay for two, then you pa y for three...}, and 
+so on ad infinitum.  If your friends expected you to go along with any of these practices, you 
+probably would.  But in practice, the even split and the Dutch treat are far more common than any 
+other technique.  What makes these equilib ria "special"?  Kreps talks about preplay negotiation, 
+convention, learned behavior, and focal points.  Friends rarely negotiate their bill -splitting system 
+in advance.  But convention, learned behavior, and focal points all probably play a role.  I would 
+guess that focal points are the most crucial: If I ate lunch with a member of an unfamiliar culture, I 
+would still expect him to expect that we would either split the bill or each pay our own ways.   11 
+
+
+1.  Suppose a million new immigrants enter the U.S., driving down the wages of 
+low -skilled Americans by $1/hour.  
+ 
+True, False, and Explain:  According to Landsburg ( Fair Play ), this change 
+usually increases Kaldor -Hicks ef ficien cy, because the positive effect of 
+population growth on innovation tends to outweigh the negative externality 
+of falling wages.  
+ 
+FALSE.  While Landsburg does discuss the R&D externalities of population growth, he explains 
+that falling wages are not a n externality at all.  It is at worst a transfer from workers to employers, 
+and if there is any demand elasticity the fall leads to additional surplus.  
+ 
+Several students also mentioned that immigration does not necessarily increase world R&D 
+because one co untry's population must fall for another's to rise.  These answers received a 
+couple extra points.  
+ 
+2.  Two types of agents consume guns (g) and butter (b).  The Type A agents 
+have U=.5 ln g + .5 ln b, and initially own 1 unit of guns and 1 unit of butter.   The 
+Type B agents have U=.3 ln g + .7 ln b, and initially own .5 units of guns and .5 
+units of butter.  10% of the agents are Type A; the other 90% are Type B.  
+ 
+True, False, and Explain:  The price of guns will not equal the price of butter.  
+ 
+Plugging int o the formula 
+
+i ii i
+yx
+xbya
+pp  from the notes:  
+ 
+ 
+1 507. 5.36/5.185.*7.*90 1*5.*105.*3.*90 1*5.*10 
+yx
+pp
+. 
+ 
+3. True, False, and Explain:  If everyone has lexicographic preferences for x 
+over y, the conclusion of the First Welfare Theorem holds even though its 
+assumptions do not.  
+ 
+TRUE.  With lexicographic preferences, no equilibrium price vector exists, since if p y>0 everyone 
+will want to sell all they have, and if p y=0, everyone will want an infinite amount.  However, any  12 
+distribution of resources will be Pareto efficient, because r eallocating y or x between people 
+always leaves one person better off and another person worse off.  
+ 
+4.  Consider the following 2 -player game:  
+ 
+ Up Down  
+Left  0,0  0,0  
+Right  0,0  0,0  
+ 
+True, False, and Explain:   This game has 4 PSNE but no MSNE.  
+ 
+FALSE.  Th ere are 4 PSNE, but there is also an infinite number of MSNE.  Any probability mix 
+leaves your opponent indifferent.  (Several students said that there was no reason  to randomize, 
+but that misses the whole point of MSNE.  If neither play can do strictly do  better by changing, you  
+have an equilibrium ). 
+ 
+Questions 5 and 6 refer to the following information.  
+ 
+Suppose that two players repeatedly play the following game.  
+ 
+ Hawk  Dove  
+Hawk  -10, -10 5,0  
+Dove  0,5  3,3  
+ 
+ 
+5.  True, False, and Explain:  If the game is repeated infinitely , trigger 
+strategies can sustain the socially optimal outcome as long as β>.6  
+ 
+FALSE.  The socially optimal outcome (social payoffs are maximized) occurs at Dove, Dove.  The 
+trigger strategy would be: If you ever play Hawk, I will play Hawk forever afterwards to punish you, 
+and you will play Dove.  It is therefore in a player's  interest to play Dove if:  
+ 
+513
+, which holds as long as ≥.4. 
+ 
+Many students assumed that the cheater would lose 10 every turn, but that would require the 
+cheater to play Hawk, which he would definitely not do if he expected his opponen t to play Hawk.  
+(Remember – hold all other player's behavior fixed and see if you can do better solely by changing 
+your own behavior!)  Student who correctly reasoned from this assumption got 6 points.  
+ 
+A few other students assumed that the MSNE would be the trigger strategy, but punishing by 
+playing Hawk forever is obviously a tougher punishment .  If you worked through this approach 
+correctly, you also got 6 points.  
+ 
+6.  True, False, and Explain:  If the game is repeated  twice , β=1,  and players 
+get to flip a coin after turn 1, there is no NE where players play (Dove, 
+Dove) in turn 1.  
+
+FALSE.  I propose the following NE.  We both play Dove in turn 1.  If we keep this agreement, 
+then in turn 2 we play (Dove, Hawk) if the coin said Heads, and (Hawk, Dove) if the coin said 
+Tails.  But if player 1 plays Hawk in turn 1, then in turn 2 we play (Dove, Hawk) reg ardless of the 
+coin toss, and if  player 2 plays Hawk in turn 1, then in turn 2 we play (Hawk, Dove) regardless of 
+the coin toss.  The payoff from playing this strategy is 3+.5*5=5.5, which exceeds the payoff from 
+cheating, which would be 5+0=5.  
+ 
+Incidentally, you could sustain cooperation even without a coin flip.  Just do the MSNE in turn two 
+if both players played Dove in turn 1.  But if player 1 plays Hawk in turn 1, then in turn 2 we play 
+(Dove, Hawk), and if player 2 plays Hawk in turn 1, then in turn 2 we play (Hawk, Dove).  Since 
+both players play Hawk with p=1/6 in the MSNE, the expected MSNE payoff is once again:  
+ 
+1/36* -10+5/ 36*5+5/36*0+25/36*3=2.5.  
+ 
+7.  Suppose there is a Cournot industry with the demand function Q=a -bP, 8 
+firms, 0 MC, and no fixed cost . 
+ 
+True, False, and Explain:   A firm would want to split into two firms because it 
+would earn 62 % more profit as a result.  
+ 
+TRUE.  From the hw, we know that p rofits as a function of N equals 
+b Na
+22
+)1 ( .  So profits for 
+one firm in a industry with 8 firms are 
+ba
+812 , while profits for two firms in a industry with 9 firms are 
+ba
+10022
+.  The latter is 62% greater than the former.  
+ 
+ 
+8.  True, False, and Explain:   Kreps argues that in the "noisy" real world, 
+trigger strategies are not a practical way to sustain collusion.  Instead, 
+colluding firms would only punish if prices were significan tly below the 
+agreed level . 
+ 
+FALSE.  Kreps specifically states that "you cannot go too far in lessening the severity of 
+punishment, making it of shorter duration, say, or only triggering punishment when prices fall very 
+far.  This would encourage each side  to chisel somewhat..." (p.526)  Intuition: If no small 
+deviations get punished, then everyone will always engage in a small deviation.   
+ 
+9.  Suppose firms in an industry have fixed costs and increasing  marginal costs.  
+The industry demand curve lies stri ctly above firms' AC curves.  
+ 
+True, False, and Explain:   Bertrand competition will allow only one firm to 
+survive in this market, implying no productive inefficiency but some 
+allocative inefficiency.  
+ 
+FALSE.  With increasing MC, the AC curve eventually tur ns up – it will have a U -shape.  So if 
+demand is high, multiple firms can definitely survive.  Ignoring divisibility problems, it is possible 
+for multiple firms to survive in such an industry, setting P=AC=MC.  
+
+ 
+1.  " The assumptions of the Arrow -Debreu model are sufficient but not necessary conditions for 
+the efficiency of laissez -faire."  
+ 
+Discuss this statement, using two specific examples from game theory to 
+illustrate your point.   
+ 
+Arrow -Debreu  assumes that firms have no control over prices.  But in the Bertrand oligopoly 
+game, firms set prices, but can still reach the first -best outcome where P=MC.  Similarly, in the 
+Ultimatum game, there  are no enforceable trades at all, and yet the game theoretic prediction 
+($.01 for you, rest for me) is perfectly efficient.   In both cases, then, laissez -faire is fully efficient 
+even though the A -D assumptions do not hold.  
+ 
+Other good examples some stude nts used: repeated play (including reputation), coordination 
+games.  
+ 
+2.  Use Tullock's insights on rent -seeking to analyze students' allocation of effort 
+between studying and cheating.  What changes if students can bribe professors 
+for better grades?  
+ 
+Tull ock would predict that students would keep cheating until the rate of return from studying 
+equals the rate of return from cheating.  In equilibrium, both methods of earning grades would 
+have to be equally effective.  If students can bribe professors, this leads students to cut back on 
+both studying and cheating in favor of cash bribes.  On the surface, this seems clearly more 
+efficient.  But there is an externality on the value of the diploma.  More interestingly, if professors 
+can extract bribes from their  students, this will lead to additional competition for academic jobs  
+(like getting a second Ph.D.) , presumably with little social benefit.  
+ 
+3.  Suppose you have a 2 -player version of the voluntary donation game from the 
+notes, with one difference: Each ag ent cares somewhat about the other, so 
+player one maximizes U 1=c 1D+.5*c 2D, and player two maximizes U 2=c 2D+.5*c 1D. 
+Carefully set up each player's maximization problem.  Then solve for the 
+symmetric Nash equilibrium.  
+ 
+Note that D=d 1+d 2=2-c1-c2.  So player 1 maximizes:  
+ 
+ U1=c 1(2-c1-c2)+.5*c 2(2-c1-c2)=2c 1-c12-1.5c 1c2+c 2-.5c 22 
+ 
+And player 2 maximizes:  U2= 2c 2-c22-1.5c 1c2+c 1-.5c 12 
+ 
+Differentiating U 1 wrt c 1: 2-2c 1-1.5c 2=0 
+ 
+Differentiating U 2 wrt c 2: 2-2c 2-1.5c 1=0 
+ 
+Solving 2 equations in two unknowns implies c 1=c 2=4/7.  Each player keeps 4/7 for himself and 
+donates 3/7 to the common fund, whereas in the simple model without altruism, each agent keeps 
+2/3 for himself and donates only 1/3.  Altruism partially solves the public goods problem.  
+
+ 
+1.  A special medical test always  detects the presence of a disease if a person 
+has it; however, 5% of perfectly healthy people will test positive as well (there is 
+a 5% "false positive" rate). Suppose that .1% of people actually  have the 
+disease, and that members of the population are tested at random . 
+True, False, and Explain:  The approximate conditional probability of having the 
+disease given the fact that you test positive is 95%.  (Hint: Remember Bayes 
+Rule!)  
+ 
+FALSE.  A pplying Bayes' Rule, the P(have disease| you tested positive)=  
+ 
+%96.1999.*05. 001.*1001.*1
+. 
+ 
+2.  Two types of agents consume guns (g) and butter (b).  The Type A agents 
+have U=.5 g + .5 b.  The Type B agents have U=.3 g + .7 b.  All agents initially 
+own 1 uni t of guns and 1 unit of butter.  50% of the agents are type A; 50% are 
+type B.  
+ 
+True, False, and Explain:  General equilibrium does not exist because the 
+agents' demand functions are discontinuous  in price . 
+ 
+FALSE.  Since these are linear utility functions,  they DO generate demand functions that are 
+discontinuous in price.  (E.g., the Type A agents want only guns if p g<p b, and only butter if p b<p g).  
+However, this continuity is not a necessary  condition for GE to exist (rather it is one item on a list 
+of suf ficient conditions).  In fact, GE exists in this economy if p g=p b.  Then the type Bs sell all of 
+their guns, and the type As are not unwilling to sell all of their butter.  In equilibrium, then, the Type 
+As have all the guns and the Type Bs have all of the  butter.  
+ 
+Many students used the price formula ratio from the notes, but that only works for log utility!  
+ 
+3. True, False, and Explain:  In a Coordination game, Pareto -inferior equilibria 
+are not subgame perfect.  
+ 
+FALSE.  In the simultaneous Coordination ga me that we analyzed in class, there is only one 
+subgame, so both of the equilibria are subgame perfect.   
+
+It is however true that in a sequential  version of the Coordination game, the Pareto -inferior 
+equil ibria are not subgame perfect.  I gave partial cre dit for students who answered TRUE on this 
+ground.  
+ 
+4.  True, False, and Explain:   Landsburg's "Indifference Principle" ( The 
+Armchair Economist ) is inconsistent with the concept of the MSNE.  
+ 
+FALSE.  MSNE is actually a special case of Landsburg's Indiffere nce Principle.  The Indifference 
+Principle states that in equilibrium, people will be indifferent between all of their choices.  If one 
+were better than the other, everyone would do it.  And this is precisely what happens in a MSNE: 
+ever agent is indiffere nt between every choice.  
+ 
+5.  Consider the following 2 -player game:  
+ 
+ Up Down  
+Left  10,0  10,0  
+Right  0,10  0,10 
+ 
+True, False, and Explain:   This game has no  PSNE and one  MSNE.  
+ 
+FALSE.  Since Left is strictly dominant for Player 1, and Up and Down have equa l payoffs for 
+Player 2 , there are two PSNE: (Left, Up), and (Left, Down).  But there are also infinitely many 
+MSNE, where Player 1 plays L with p=1, and Player 2 plays Up with any  probability.  
+ 
+Questions 6 and 7  refer to the following information.  
+ 
+Suppose  that two players play an Ultimatum game where Player 1 divides a 
+payoff of 10 between himself and Player 2.  Then the players play the following 
+Hawk -Dove game ONCE.  Players do not discount the future ( β=1).  
+ 
+ Hawk  Dove  
+Hawk  -10, -10 5,0  
+Dove  0,5  3,3  
+ 
+ 
+6.  True, False, and Explain:  An even split (5/5) in the Ultimatum game is a 
+focal point but cannot  be a SGP NE.  
+ 
+FALSE.  It would be a SGPNE given the following strategies: If Player 1 offers an even spl it or 
+better in turn 1, then in turn 2 they play (Hawk, Dove); otherwise, they play (Dove, Hawk).  If 
+Player 1 follows this strategy, he gets 5+5=10.  If he deviates and keeps all 10, then he still is not 
+strictly better off , because he gets 0 in turn 2 .  Player 2 would not want to deviate either; refusing 
+his offer in the Ultimatum game obviously makes him worse off, and deviating from his proposed 
+strategy  in turn 2 – holding constant Player 1's action – also makes him worse off.  If he plays 
+Dove when he 's expected to play Hawk, he loses 2; if he plays Hawk when he's expected to play 
+Dove, he loses 10!  
+ 
+How is this possible?  It is possible because the last game (Hawk -Dove)  has two equilibria.  So 
+you can punish deviation in turn 1 in a self -enforcing way  even in the last turn.  
+
+7.  True, False, and Explain:  If the players play the Hawk -Dove game first , 
+and the Ultimatum game second, exactly two SGPPSNE exist.  
+ 
+TRUE.  In the last turn, it is only subgame perfect for  Player 1 to offer 0 and keep 10 for him self, 
+and Player 2 to accept.  But there are two PSNE in the first turn: (Dove, Hawk) and (Hawk, Dove).  
+So for the whole game, there are two SGPPSNE: (Dove, Hawk, 0, Accept) and (Hawk, Dove, 0, 
+Accept).   
+ 
+8.  True, False, and Explain:   According to Kreps , game theory rules out the 
+possibility that "cheap -talk" can affect games' outcomes.  
+ 
+FALSE.  While Kreps says that "[I]t is typical in the analysis of non -cooperative games to omit 
+such communication from formal models," he immediately adds that "This d oesn't mean that 
+these possibilities won't affect the outcome of games; they do so in some important ways in 
+various situations."  Most o bviously: in Coordination games with Pareto -inferior equilibria.  
+ 
+9.  Suppose the demand curve for a contestable monopo ly crosses the AC curve 
+at more than one point.  
+ 
+True, False, and Explain:   There are multiple equilibria.  
+ 
+FALSE.  Under contestable monopoly, P=AC, but only the higher quantity/lower price intersection 
+is an equilibrium.  At the higher intersection, even  a monopolist that DID NOT face potential 
+competition would want to cut price somewhat to earn additional profits.  If you do face potential 
+competition, you would have to cut your price all the way down to the lowest intersection  of 
+demand and AC  to preve nt entry.  
+ 
+
+ 
+1.  Suppose:  
+ 
+ 40% of all agents (the Type As) in an economy have U=ln x + ln y, and 
+the other 60% (the Type Bs) have U=3 ln x + ln y.  
+ All agents start with one unit of x and one unit of y.   
+How will redistribution of x from As to Bs affect the general equilibrium 
+yx
+pp ?  
+Write down the formula for 
+yx
+pp , using 
+x  to indica te the quantity of x you let the 
+Type As keep.  (Hint: Remember hw#2, problem 4!)  
+ 
+In hw#2, problem 4, 
+.
+47
+2*3/1*50 *5.*501*3/2*50 1*5.*50
+
+ 
+x x x pp
+yx  
+ 
+The current problem is different in a few ways:  
+
+1.  The utility function of the Type Bs normalizes to U=.75 ln x + .25 ln y, not  U=2/3 ln x + 1/3 ln y.  
+ 
+2.  There are 40% As and 60% Bs, not 50/50.  
+ 
+3.  As a corollary of 2, taking 1 unit of x from each A does NOT give 1 unit of x to each B!  Instead, 
+if the As have 
+x  each, then the Bs have 
+60/) 40 100( x =
+3/)2 5( x  each .  Five points off if 
+you did not figure this out.  
+ 
+So the correct formula for 
+.
+5 213
+3/ 2 5*25.*60 *5.*401*75.*60 1*5.*40
+
+ 
+x x x pp
+yx  
+ 
+ 
+2.  What kind of a bargainer are you?  Why?  Explain your typical strategies in 
+game theoretic terms.  Are there any foc al points that you frequently rely on?  
+ 
+I am usually a soft bargainer, probably because I have greater disutility of conflict than most 
+people.  I value my tranquility.  But it depends greatly on the bargaining partner.  I am an 
+extremely soft bargainer wi th my kids, because I put a lot of weight on their welfare.  I am a hard 
+bargainer with my parents, because I know they put a lot of weight on my welfare.  I generally am 
+a hard bargainer with students, in part to maintain a reputation that discourages ren t-seeking.  
+One focal point that I often rely on is accepting the other party's FIRST offer without negotiation as 
+long as it's "reasonable."  This cuts down on transactions costs, and if people expect me to follow 
+it, they make their first offer a reasona ble one.  
+ 
+3.  Suppose an Incumbent infinitely repeats the following entry deterrence game.   
+Suppose that in order to have a reputation for Fighting, an Incumbent must be 
+willing  to accept the (In, Fight) result for one  turn.  (After that turn, he earns the  
+(Out, Fight) payoff forever).  Write down the inequality the Incumbent must 
+satisfy to have this reputation.  Then solve for the critical value of .     
+ 
+The Incumbent can have this reputation as long as:  
+ 
+ 
+
+ 
+1 04 10 5
+t tt t 
+ 
+ 
+ 
+14
+1105
+ 
+ 
+6.
+ 
+1.  Situation A is a Kaldor -Hicks improvement over Situation B.  Situation A is 
+Pareto efficient.  
+True, False, and Explain:  Situation A must also be Kaldor -Hicks efficient.  
+FALSE.  Just because A is a Kaldor -Hicks improvement over  B does not imply that there isn't 
+another situation that would be a Kaldor -Hicks improvement over A.  The additional information 
+that A is Pareto efficient is irrelevant, because virtually all situations are Pareto efficient.  
+ 
+2.  Sup pose 50% of all agents are certain (p=1) that occupation of Iraq will 
+reduce terrorism, and 50% of all agents are certain (p=1) that occupation of Iraq 
+will increase terrorism.  A betting market exists where agents can bet on their 
+beliefs . 
+ 
+True, False, a nd Explain:  A general equilibrium can  only exist if the prices of 
+the two bets are equal.  
+ 
+FALSE.  Assuming agents cannot sell short, the price ratio will depend upon the amount that 
+people are willing to bet , which in turn depends upon wealth.  If the peo ple who believe that the 
+invasion will reduce terrorism  are willing on average to bet twice as much as the people who 
+believe the opposite, for example, the betting market will clear when the "reduce" bet pays half as 
+much as the "increase" bet.  
+ 
+In agents  can sell short (or, equivalently, jus t issue notes offering to pay $1  if X happens), there is 
+no equilibrium.  Due to their certainty, both sides would happily offer offer  an infinite amount of 
+notes that pay off if the other side turns  out to be right, so the price ratio would be undefined.  
+ 
+3. True, False, and Explain:  According to Kreps, economic experiments 
+confirm that general equilibrium analysis has little predictive value.  
+ 
+FALSE.  On p.198, Kreps says exactly the opposite: "The results obtained ar e usually 
+striking in their support of Walrasian equilibrium."  
+ 
+ 
+Questions 4 and 5 refer to the following game:    
+ Left  Right  
+Left  2,1 0,0  
+Right  0,0  1,2  20 
+ 
+4.  This game has a MSNE with expected payoffs  equal to (1.5, 1.5).  
+ 
+FALSE.  To make Player 2 indif ferent, Player 1 plays L with probability σ: 
+ 
+1σ+0=0+2(1 -σ), so σ=2/3  
+ 
+To make Player 1 indifferent, Player 2 plays L with probability φ:  
+ 
+2φ + 0=0 + (1 -φ), so φ=1/3  
+ 
+To find expected pay -offs, simply plug the probabilities back into the above equalities: the 
+expected payoffs in equilibrium are (2 /3, 2/3).  Alternately, you could note that (L,L) happens 2/9 
+of the time, (R,R ) happens 2/9 of the time, and something else happens 5/9 of the time, so 
+expected payoffs for Player 1 are 2/9*2+2/9*1+5/9*0=2/3, and expected payoffs for Player 2 are 
+2/9*1+2/ 9*2+5/9*0=2/3.  
+ 
+5.  True, False, and Explain:   Played simultaneously, this  game has two 
+SGPPSNE.  Played sequentially (with Player 1 moving first), this  game has 
+two PSNE, but only one is SGP.  
+ 
+TRUE.  The simultaneous game only has one subgame, so both (L, L) and (R,R) are SGPNE.  
+The sequential gam e still has two PSNE: Player 1 will play L if he believes Player 2 will play L, and 
+R if he believes Player 2 will play R.  However, once Player 1 plays L, Player 2 would definitely 
+want to play L too, so by backw ards induction, only (L,L) is SGP.  
+ 
+6.  Suppose there are two firms able to produce a good.  Firm #1 has TC=$1000  
++ $0Q ;  Firm #2 has TC= $0 + $10Q.  
+ 
+True, False, and Explain:  If demand goes up high enough, Firm #1 will drop 
+out of the market and Firm #2 wi ll set its price just below Firm #1's AC.  
+ 
+FALSE.  The opposite holds: Firm #2 has lower AC at low quantities, but Firm #1 has lower AC at 
+high quantities.  If quantity>100, Firm #1 can charge just below $10 and take the whole market at 
+a profit.  
+ 
+7.  True , False, and Explain:  If firms set prices (as opposed to quantities), 
+firms would never  want to split into additional firms, even if the game were 
+infinitely repeated and β=1.  
+ 
+FALSE.  If β=1, Bertrand collusion is definitely sustainable, and if each firm gets an equal share of 
+the monopoly profit, then splitting could increase your profits from a 1/N share of the monopoly 
+profit to a 2/(N+1)  share, which is greater for N> 1. 
+ 
+Firms might also want to split if there are diseconomies of scale, though I gave less credit for this 
+answer since it didn't use the information about repeated play and the discount rate.  
+
+8.  N players  are  deciding whether to contribute to a public  good.   The public 
+good is discrete: it is produced at the optimal level so long as 1 person 
+contributes.   Contributing costs the individual who contributes C, and 0 
+otherwise.   If the public good is produced, everyone gets a benefit of B; 
+otherwise they g et a benefit of 0.   B>C.    
+ 
+True, False, and Explain:   There are two  PSNE, only one of which is Kaldor -
+Hicks efficient.  
+ 
+FALSE.  There are N PSNE, and all of them are Kaldor -Hicks efficient.  If no one is contributing, 
+then any one player would want to dev iate to contribute; if more than one player is contributing, 
+then any one player would want to deviate to not contribute.  The only stable equilibria are those 
+where exactly one player contributes.  Since B>C, but 1 contribution is all that is necessary, e ach 
+of these equilibria  is Kaldor -Hicks efficient.  
+ 
+9.  In Leviathan , Hobbes argues that, in the absence of government, individuals 
+always prefer war to peace, leading to a "war of all against all" equilibrium.  
+ 
+True, False, and Explain:   This precisely wh at the Hawk/Dove game predicts.  
+ 
+FALSE.  For PSNE, the Hawk -Dove game predicts that you will never  see universal war; instead, 
+you'll see one aggressor and one appeaser.  In the MSNE of the Hawk -Dove game, (War, War) 
+can occur, but it is an unlucky coincid ence, not a typical result.  
+ 
+ 
+ 
+1.  Give an example of lexicographic preferences.  How can lexicographic 
+preferences preclude the existenc e of a general equilibrium?  Is it possible for a 
+general equilibrium to exist given the existence of lexicographic preferences?  
+Explain.  
+ 
+I lexicographic ally  preference my sons' lives to money – I wouldn't part with them for any amount 
+of money.  Lexicog raphic preferences can preclude the existence of general equilibrium because 
+if everyone shares the same preferences, they won't sell the lexicographically preferred good to 
+buy more of other goods at any p>0 – but if the price of other goods falls to 0, t hey want more of 
+these other goods than exist.  There are many ways that general equilibrium could co-exist with 
+lexicographic preferences:  (1)  Some people have these preferences, others don't, and the former 
+buy all of the lexicographically preferred goo d from the latter; (2) People have different 
+lexicographic preferences; (3) People only have lexicographic preferences up to a certain quantity 
+(e.g. everyone might have a lexicographic preference for one kidney, but not two).  
+
+2.  Coordination equilib ria are often persistent, but they also change.  Give a 
+real -world example.  Then use game theory to explain how this change 
+happened, paying particularly close attention to the incentives of the "first -
+movers."  
+ 
+My example: It used to be almost impossible  to publish survey research in economics, and as 
+long as no one would publish it, no economist wanted to do it.  This is no longer true.  The reason 
+is probably that there were some economists who were burning  to do survey research, so they 
+worked on it ev en when the chance of publication was low.  But once they published some work, 
+this raised the payoff.  This led slightly less enthusiastic economists to try survey research, which 
+raised the chance of publication, which led to more survey research...  Het erogeneous 
+preferences were the lever that got the survey research ball rolling.  
+ 
+Another class of good answer focused on the importance of market leaders.  A market leader 
+thinks that other peopl e will change if he changes  too, so he feels safer doing som ething different.  
+Continuing with my example, many of the economists who started doing survey research – like 
+Alan Blinder – were already famous for other accomplishments.  So they could expect people to 
+take them seriously even if they "broke the rules,"  which helped change the rules.  
+ 
+3.  Landsburg ( The Armchair Economist ) argues that laws restricting cosmetic 
+surgery are an inefficient restriction on competition.  Using the game theory you 
+have learned so far, present and defend what you see as the stro ngest possible 
+counter -argument  to Landsburg's claim.   (You don't have to agree with your 
+argument; just present it as forcefully as possible).  
+ 
+You can't just say that cosmetic surgery is a "Prisoners' Dilemma" for women, because efficiency 
+calculations r equire us to count the value to both women AND men.  (Analogously, you can't just 
+say that price supports  are efficient because they benefit sellers; you have to show that the gain to 
+sellers outweighs the gain to buyers).  Similarly, you can't just say th at more cosmetic surgery 
+reduces the supply of non -cosmetic surgery: That's true for all goods.  Better answers : 
+ 
+Maybe men value relative beauty, not absolute beauty ; they want to marry a woma n who is better -
+looking than other women, but don't particularly care how good -looking she is in absolute terms.  
+If so, cosmetic surgery burns up resources without making the average woman OR the average 
+man better off.  
+ 
+Maybe people directly  disvalue the average level of cosmetic surgery in thei r society, on the 
+grounds that it "commodifies" or "cheapens" life.  But since the average level of cosmetic surgery 
+is non -excludable, no one factors it into his/her  decisions, leading to too much cosmetic surgery.   
+This is a common objection to e.g. huma n cloning.  
+ 
+ 
+ 
+ 
+1.  True, False, and Explain:   One benefit  of the war on drugs that 
+Landsburg 's efficiency analysis  overlooks is the salaries paid to the extra 
+government employees required to enforce these laws.  
+ 
+FALSE.  The salaries pa id are actually a social cost , because the government employees could 
+have done something else instead with their time.  If the employees' opportunity cost equals their 
+current wage, then their entire salaries are a social cost; if they are paid more than their 
+opportunity cost, then the difference  between their actual wage and their alternative wage is a 
+transfer, and the remainder is a social cost.  
+ 
+Students who answered false on the grounds that the salaries are a transfer got a little credit, but 
+not mu ch. 
+ 
+ 
+ 
+2.  True, False, and Explain:   Contestable monopoly leads to "second -best" 
+efficient outcomes, whereas  Bertrand competition leads to "first -best" 
+efficient outcomes.  
+ 
+FALSE.  If there  are  zero fixed costs and the most efficient firm faces an equally  efficient 
+competitor, both  yield the first -best efficient outcome of P=MC.  If there are fixed costs and the 
+most efficient firm faces an equally efficient competitor, both  yield the second -best efficient 
+outcome of P=AC.  If the most efficient firm does not face an equally efficient competitor, then 
+price can exceed both MC and AC.  
+ 
+ 
+ 
+ 
+3.  There are two islands with equal numbers of agents.  All agents live for two 
+periods and are endowed with 1 unit of a co nsumption good in period 1 and 1 
+unit  in period 2.  The period 1 good spoils if not consumed in period 1.  On the 
+Island #1, agents have U=ln c 1; on Island #2, agents have U=ln c 1 + ln c 2. 
+ 
+True, False, and Explain:  If trade between islands is possible, the interest 
+rate will exceed 50%.   If trade betwe en islands is not possible, the interest 
+rate on Island #1 will exceed the interest rate on Island #2 by less than 100 
+percentage -points.   
+
+FALSE.  With trade, the interest rate will indeed exceed 50%.  Using the GE formula:  
+ 
+31*5. 1*01*5. 1*1
+21
+cc
+pp
+, an i nterest rate of 200%.  However, with isolated islands, Island #1 will 
+have an infinite interest rate (since no one values c 2), and Island #2 will have a 0% interest rate 
+(since the two goods are equally abundant and equally valued).  Thus, Island #1's inte rest rate 
+infinitely exceeds Island #2's. 
+ 
+Questions 4 and 5  refer to the following game:    
+ Trust  Doubt  
+Truth  2,2  0,0  
+Lie 4,-2 -2,0  
+ 
+ 
+4.  This game has two PSNE, plus a MSNE  where players play (Truth, Trust) 
+with probabilities (.5,.5).  
+ 
+FALSE.  There a re zero  PSNE, but the MSNE given is correct.  For the PSNE, notice that at 
+(Trust, Truth), Player 1 wants to switch; at (Truth, Doubt) Player 2 wants to switch; at (Trust, Lie) 
+Player 2 wants to switch; and at (Lie, Doubt) Player 1 wants to switch.  For th e MSNE, similarly:  
+ 
+Player 1 is indifferent when:  
+ 
+2σ+0(1 -σ)=4σ -2(1 -σ), implying  σ=.5.  
+ 
+Player 2 is indifferent when:  
+ 
+2φ-2(1 -φ)=0, implying φ=.5.  
+ 
+ 
+5.  Suppose both players have a discount rate, β=1, and play this game twice.  
+ 
+True, False, and Explain:   There is a NE where players play (Truth, Trust) in 
+the first turn, and the MSNE  of the one -shot game  in the second turn.  
+ 
+FALSE.  Since this is a finitely -repeated game, and there is only one equilibrium in the second 
+game, the only equilibrium is to play the MSNE each turn.  After all, if Player 1 switches to Lie in 
+turn 1, how is Player 2 going to punish him?  
+ 
+ 
+6.  Two players play an Ultimatum game, followed by a Coordination game.  
+ 
+True, False, and Explain:   There are an infinite number of SGPPSNE, some  of 
+which have a 50/50 split in the first turn.  
+ 
+TRUE.  As long as one Coordination game has lower payoffs for Player 1, there is a viable threat.  
+Suppose, for example , that:  
+ 
+ β=1 
+ in turn 1, the players are splitting 2   25 
+ in turn 2  (Left, Left) yields a pay off of (5,5) and (Right, Right) yields a payoff of (3,3)  (and of 
+course (Left, Right) and (Right, Left) yield (0,0)) .   
+ 
+Then the following is an equilibrium: in turn 1, a 50/50 split; in turn 2, (Left, Left) if Player 1 offered 
+at least 50/50 in turn 1, a nd (Right, Right) otherwise.  If player 1 offers 100/0 instead of 50/50, he 
+gains 1 in  turn 1, but loses 2 in turn 2.  
+ 
+Now notice that since payoffs are continuous, this is just one out of a n infinite number of equilibria .  
+The above approach could also su stain 50.01/49.99, 50.02/49.98, etc.  
+ 
+ 
+7.  Suppose there are two firms able to produ ce a good.  Firm #1 has TC=$50 + 
+$0Q;  Firm #2 has TC= $0 + $10Q.   The demand curve is given by Q=20 -P. 
+ 
+True, False, and Explain:  Firm #1 will drop out of the market and Fi rm #2 will 
+charge the monopoly price . 
+ 
+FALSE.  By producing 10.01 units and charging $9.99, Firm #1 can make a profit of 10.01*$9.99 -
+$50, or approximately $50.  But Firm #2 loses money at this price, so it will drop out of the market.  
+Intuitively, since F irm #1 has fixed costs but no marginal costs, and Firm #2 has marginal costs 
+but no fixed costs, the thing to check is whether Firm #1 remains  profitable at a price just below 
+Firm #2's MC.  
+ 
+ 
+8.  Suppose two Bertrand competitors collude in an infinitely -repeated game, but 
+the first firm insists on getting the "lion's share" of the profits.  The first firm gets  
+90% of the monopoly profits .  The second firm gets the remaining  10%.  
+ 
+True, False, and Explain:   This is a NE as long as β≥.1 for both firms.  
+ 
+FALSE.  The first firm will not defect as long as 
+
+
+09.
+tm mt , so its β≥.1.  But the second 
+firm will defect unless:  
+
+
+01.
+tm mt , so its β≥.9.  
+ 
+ 
+9.  Satellite television has enormous fixed costs, but near -zero marginal costs.  
+Suppose the current market structure, where two firms (Dish Network and Direct 
+TV) supply satellite television, was the outcome of Cournot competition with free 
+entry.  Suppose further that no additional  entry is legally allowed.  
+ 
+True, Fa lse, and Explain:   A merger to monopoly will increase productive 
+efficiency, hurt allocative efficiency, and decrease overall efficiency.  
+ 
+FALSE.  The merger will increase productive efficiency by halving fixed costs.  (Students who 
+explicitly claimed that  all costs were sunk got full credit, though that's got to be incorrect  – there 
+are lots of alternative uses for satellites, and they eventually have to be replaced ).  And in the 
+Cournot model, going from 2 firms to 1 reduces allocative efficiency.  Howeve r, the net efficiency 
+effect is ambiguous, because we do not know the relative sizes of the two effects.   26 
+ 
+
+
+ 
+1.  "As with other fundamentals  of action, doubts about probability are self -
+refuting." (Caplan, "Probability, Common Sense, and Realism." )  Carefully 
+explain Caplan's argument.  Is he right?  
+ 
+Caplan claims that arguing against probability is self -refuting because (a) people argue again st it 
+in order to change others' minds, even though (b) they know that arguing against probability does 
+not always work.  As he states  in his article : 
+ 
+One cannot even argue against probability theory without implicitly holding some 
+belief about the probab ility that doing so will change listeners’ minds. Few 
+Misesians would be naive enough to imagine that attacking probability theory has  
+to reduce its number of adherents. Rather, they attack probability theory because, 
+given their beliefs about the probabil ity of changing people’s minds, they see it as 
+the most valuable way to use their time. Any attack on probability presupposes it.  
+ 
+The best objection a student offered is that people might argue just for the fun of it, even though 
+they don't believe that  they  have any chance of persuading anyone.  I would reply that, even in 
+this case, they must assign some probability to the view "Arguing against probability will be fun."  
+ 
+2.  N players are deciding whether to contribute to a public good.   The public 
+good  is discrete: it is produced at the optimal level so l ong as one  person 
+contributes.   If the public good is produced, everyone gets a benefit of 3  if they 
+didn't contribute, and 2 if they did.  If no one contributes, everyone gets  0.  Find 
+the MSNE.  When is the MSNE Kaldor -Hicks efficient?  
+  
+(Hint:  If p is the probability that one player contributes, the probability that no 
+other player  contributes equals 
+1) 1(Np , and the probability that at least one 
+other player  contributes is 
+1) 1( 1Np ). 
+ 
+If you contribute, then you get (3 -1)=2 for sure.  If you don't contribute, you get 3 if at least one 
+other player contributed, and 0 otherwise.  Therefore, by symmetry , each player is indifferent if:  
+ 
+2=0*
+1) 1(Np +3*(
+1) 1( 1Np ) 
+ 
+This implies indifference when 
+3/1 ) 1(1 Np , implying that 
+13/1 1Np . 
+ 
+The MSNE is efficient in all cases where one a nd only one player contributes.  
+ 
+Students who correctly solved the 2 -player version got substan tial partial credit.  
+
+ 
+3.  Throughout history, the usual system has been for heads of state (such as 
+kings) to serve for life.  In modern times, however, heads of state often leave 
+office voluntarily long before their deaths.  Using all of the game the ory you have 
+learned, provide the best possible explanation for  both  of these patterns.  Why 
+has there been a transitio n from one pattern to the other?  
+ 
+Here is one possible answer:  
+ 
+Historically and today, the system of government succession is a Coordina tion game with 
+culturally determined focal points.  When people expect leaders to serve for life, remaining in 
+office provokes little negative reaction .  Stepping down , in contrast,  signals weakness and 
+confusion - which invite attack .  However, when peopl e expect  leaders to step down after their 
+term expires, a leader who refuses  to leave office  seems power -hungry or crazy, which typically 
+provokes negative responses from other leaders and the population.  In contrast, stepping down 
+when people expect it i s not a sign of weakness or confusion, so leaders aren't scared to do so.  
+The bottom line is that it is usual safest for leaders to do what people expect, and dangerous to do 
+the opposite.  
+ 
+Why did this transition occur?  My short answer is that revolutions and elite ideological change in 
+favor of democracy gradually changed cultural expectations.  If you built a skyscraper  in NYC that 
+was twice the size of the Empire State Building, the foca l meeting place in NYC might change.  
+Similarly, after a democratic revolution, or after decades intellectual activism for democracy, the 
+focal political system in a society might change.  
+ 
+ 
+ 
+1.  Suppose your P(more abortions cause less crime)=. 4, P(Levitt’s research  
+results | more abortions cause less crime)=.6, and P(more abortions cause less 
+crime | Levitt’s research results)=.8 .   
+ 
+True, False, and Explain :  If you satisfy Bayes’ Rule, your P(Levitt’s research  
+results | more abortions don’t  cause less crime) must be .1. 
+ 
+TRUE.  Let A=more abortions cause less crime, and B=Levitt’s research results, then apply 
+Bayes’ Rule and solve for P(B|~A):   
+ 
+.8=.6*.4/( .6*.4+P(B|~A)*.6)  
+ 
+.8=.24/(.24+P(B|~A)*.6)  
+ 
+so P(B|~A)=.1.  
+ 
+ 
+2.  True, False, and Explain:   If a state of affairs is Pareto efficient, then 
+deadweight costs must  be zero.  
+ 
+FALSE.  If a state of affairs is K -H efficient, then deadweight costs must be zero.  But Pareto 
+efficiency does not imply K -H efficiency; in fact, most Pareto efficient situations are not K-H 
+efficient.  Monopoly is a classic example: There are deadweight costs, but there is no feasible way 
+to get rid of the deadweight costs without makin g the monopolist worse off.  
+ 
+ 
+3.  Suppose you have a betting market where half the participants are certain 
+that Clinton will win the Democratic nomination, and the other half are certain 
+that Obama will win.  
+ 
+True, False, and Explain:  A general equilibriu m will not exist.  
+ 
+TRUE.  If both sides are certain, they are willing to bet an infinite amount, and put zero value on 
+claims that pay off if the other side is right.  (This is basically a problem of lexicographic 
+preferences).  However , if short sales are  not allowed, then the most each side can bet is their 
+total assets.  If so, a general equilibrium will exist equal to the ratio of the amount each side bets.   
+(I gave full credit for FALSE if they discussed both possibilities).  
+
+4. Suppose a pirate robs ten people and puts all of their money inside a treasure 
+chest.  When the police recover the chest  (and before the pirate can spend a 
+penny) , they ask each of the ten victims to state how much money he lost.  To 
+discourage lying, the police announce that i f the total  losses claimed  by the 
+victims exceeds the total amount of money in the chest, none of the victims will 
+get any  money back.  
+ 
+True, False, and Explain:   There is a unique NE in which every victim says 
+the truth.  
+ 
+FALSE.  Truth -telling is one  NE, and probably a focal NE.  But there are infinitely many NE: Any 
+set of claims that sums to the total amount of money qualifies . 
+ 
+ 
+5. S uppose that two players play this PD game, followed by this Coordination 
+game.  
+ 
+ Don’t  Defect    L R 
+Don’t  3,3  0,4   L 5,5  0,0  
+Defect  4,0  2,2   R 0,0  5,5  
+ 
+ 
+True, False, and Explain:  If ß=.5 , the only SGPNE are (Defect, Defect), (L,L) 
+and (Defect, Defect), (R, R).  
+ 
+FALSE.  Since both (L,L) and (R,R) pay the same, it might seem like punishment is impossible in 
+turn 2.  However,  this ignores the MSNE, which has an expected payoffs of (2.5, 2.5).  If players 
+threaten to play the MSNE in turn 2 if someone  plays Defect in turn 1, we have a NE as long as:  
+ 
+3+5 β≥4+2.5β.  So if  β=.5, we have 5.5 ≥5.25, implying a NE.  
+ 
+ 
+6.  “If your riva l(s) suspect that you are not rational, or even if they suspect that you suspect that 
+they suspect that you aren’t rational, then the ‘rational ’ actions for you can be quite different than if 
+you ignore this possibility. ” (Kreps, A Course in Microeconomic Theory ) 
+ 
+True, False, and Explain:   This point explains why threatening to fail 
+students for leaving early does not work in the real world.  
+ 
+FALSE.  Kreps ’ point explains why threatening to fail students could  work!  If everyone knows 
+everyone is fully rat ional, there is no point threatening to fail students because no one believes 
+you will do it.  But if you suspect that someone is irrational, or suspect that someone suspects that 
+you are irrational, a “crazy” threat just might work.  
+
+7.  Suppose that two  firms flip a coin, then play a contestable monopoly game 
+with sunk  costs.  
+ 
+True, False, and Explain:  The coin flip allows the firms to raise their 
+expected profits, even though the set of equilibria in the contestable 
+monopoly game does not change.  
+ 
+TRUE.   With or without the coin flip, this game has a MSNE where expected profits are zero, and 
+two PSNE where one firm earns monopoly profits and the other earns nothing.  However, if firms 
+play simultaneously, neither of the PSNE is focal.  Flipping the coin creates a focal point: If the 
+coin says heads, then firm 1 plays In and firm 2 plays out; if the coin says tails, the reverse 
+happens.  This doesn’t change the set of equilibria, but it does make it easier for firms to reach 
+the profitable equilibria.  
+ 
+ 
+8.  True, False, and Explain:   In a market with perfectly selfish consumers 
+and producers, the existence of a public good implies both allocative and 
+productive inefficiency.  
+ 
+FALSE.  A public good implies that market output is roughly zero, so there will be  no productive 
+inefficiency.  However, there will be massive allocative efficiency – all the area between the SB 
+curve and the cost curve disappears.  When a good is not produced at all, the effective price is 
+infinite, so P>>MC.  
+ 
+ 
+9.  Suppose that two fir ms compete in a market with linear demand and zero 
+costs.  
+ 
+True, False, and Explain:   Collusion is easier to sustain in the Cournot model 
+than it is in the Bertrand model.  
+ 
+FALSE.  From the notes, Bertrand collusion is feasible as long as β≥.5, but Cournot  collusion is 
+feasible as long as β≥.53.  This means that greater patience is necessary to sustain Cournot 
+collusion.  
+
+
+ 
+1.  Suppose count ry A has 1000 skilled workers and 1000 unskilled workers, and 
+country B has 0 skilled workers and 10,000 unskilled workers.  Both countries 
+initially prohibit all immigration.  Build on the Second Welfare Theorem to 
+propose a Pareto -improv ing policy reform . 
+ 
+The K -H efficient outcome requires free migration, so skilled workers can move to country B, and 
+unskilled workers can move to country A.  However, unskilled workers in country A are likely to 
+suffer massive wage declines as a result of this move.  Fort unately, this is a very simply economy, 
+so it is not difficult to create  Pareto improvements using redistribution as the Second Welfare 
+Theorem suggests.  The simplest solution would be to charge unskilled workers from B an entry 
+fee and skilled workers fr om A an exit fee, and give the revenue to unskilled workers from A.  
+ 
+ 
+2.  Why does popcorn cost more at movies – and how is this possible in a 
+market with free entry?  If you give an answer that Landsburg rejects, you must 
+explain why he is wrong to reject  your answer.  
+ 
+Landsburg ignores a simple possibility: Popcorn prices are high due to price discrimination, which 
+is entirely possible because the market for movie theaters – like most retail! – is imperfectly 
+competitive.   There are only a few movie thea ters in a given area, and even these are imperfect 
+substitutes.  They can charge P>MC and/or price discriminate because – due to fixed costs – 
+existing firms are just breaking even, and new entrants are likely to actually lose money.  
+ 
+ 
+3.  Suppose two stra ngers meet on a desert island.  Is mutual warfare a NE?  A 
+likely NE?  A unique NE?   Use all of the game theory you have learned – and 
+common sense – to answer the question.   
+ 
+Since the question says “common sense,” I’m going to tell you what I think is really going on – not 
+just repeat a model from class.  Here goes: Unless there are big differences in fighting ability 
+between the two people, or only enough food for one person, mutual peace  is probably the unique 
+NE.  I f both people play peace, they probably more than double their total output, and gain a friend 
+as well.  If either person plays war, both  lose these benefits, and risk severe injury even if they win 
+the fight.  Realistically, if one person is stuck on an i sland, and another washes up on shore, the 
+first person doesn’t start sharpening his spear.  Instead, he rushes to help out the new arrival, 
+because he reasonably expects him to become a great ally.   
+ 
+ 
+ 
+ 
+1.  True, False, and Explain:   In practice, ex ante  Pareto efficiency is 
+equivalent to Kaldor -Hicks efficiency, because in the long -run, the benefits 
+of allowing uncompensated  Kaldor -Hicks improvements more than cancel 
+out the losses.  
+ 
+FALSE.  While many, perhaps most, people will be ex ante better off if you allow uncompensated 
+K-H improvements, in the real world it is still extremely unlikely that everyone  will be better off.  As 
+I said in the notes, “someone somewhere i s sure to slip through the cracks.”   As a result, the ex 
+ante Pareto efficiency standard, unlike the K aldor -Hicks efficiency standard , ends up approving of 
+every status quo.  
+ 
+Problems 2 and 3 refer to the following information.  
+ 
+2.  Agents live for two per iods.  They are endowed with 1 unit of a consumption 
+good in period 1 and 2 units in period 2.  The period 1 good spoils if not 
+consumed in period 1.  There are two types of agents:  
+ 
+Type A:  10% of the agents have U=ln c 2.   
+ 
+Type B:  The other 90% have U =ln c 1 + ln c 2 
+ 
+True, False, and Explain:  The general equilibrium interest rate will exceed 
+200%.  
+ 
+FALSE.  Normalize the two utility functions, then apply the formula from the notes to get 
+64.1 55/901*5.*90 1*1*102*5.*90 2*0*10  
+i ii i
+yx
+xbya
+pp
+, implying a 64% interest rate.  
+ 
+3. True, Fa lse, and Explain:  If the two types of agents do  not interact (i.e., 
+there is one island for all of the A's and a different island for all of the B's), 
+the interest rate on A will  be positive but the interest rate on B will  be 
+negative.  
+ 
+FALSE.  Applying th e formula from the notes, we see that on the type A’s island:   33 
+01*12*0  
+i ii i
+yx
+xbya
+pp
+, implying a -100% interest rate  (not, as many people said, negative 
+infinity!) .  Intuitively, on the island where no one values consumption in period 1, lending in period  
+1 consumption buys you nothing in period 2.  
+ 
+Similarly, on the  type  B’s island:  
+ 
+21*5.2*5.  
+i ii i
+yx
+xbya
+pp
+, implying a 100% interest rate.  Intui tively, the type B’s value both 
+kinds of consumption equally, but have a larger endowment in period 2, so they t ry to borrow 
+against their higher future  earnings.  
+ 
+4.  Consider the following normal form:  
+ 
+ Left  Right  
+Left  2,2  0,0  
+Right  0,0  0,0  
+ 
+True, False, and Explain:   This game has one PSNE and one MSNE, but it 
+can be solved through weak dominance.  
+ 
+FALSE.  Th e game has two PSNE: (Left, Left), and (Right, Right).  It has no MSNE – if you try to 
+solve for one, you just get “play Right ” with 100% probability for both players.  The game can 
+however be solved through weak dominance: Left is sometimes better the Rig ht, and never 
+worse.  
+ 
+ 
+Problems 5 and 6 refer to the following information.  
+ 
+Kreps imagines a monopolist’s monologue:  
+ 
+Out there are many people who would enter this industry and take away my 
+profits if they thought they that they could themselves make a p rofit... My choice 
+of an output level of 5 may look silly in the short run, but if it keeps you (and other 
+potential entrants) out of my market, it is a good strategy to employ.  
+ 
+5.  True, False, and Explain:  Kreps’  monopolist engages in “limit pricing.”  
+ 
+FALSE.  The notes explain that “limit pricing” is when the lowest -cost firm sets its price just below 
+the costs of the second -lowest -cost firm.  In Kreps’ example, in contrast, firms have equal costs.  
+What Kreps’ monopolist is trying to do is take advanta ge of its first -mover advantage  to make 
+output so high that an entrant would be unable to cover its costs.  
+ 
+ 
+6.  Kreps adds, “Now rather a lot is wrong with the story just told...”  
+ 
+True, False, and Explain:   The monopolist’s story might be OK in a repeate d 
+game IF there are also sunk costs.   34 
+ 
+FALSE.  The monopolist’s story can work  with repeated play OR sunk costs; either one is enough.  
+With repeated play, a monopolist might endure losses in the hope of deterring future entry.  With 
+sunk costs, the monopol ist’s first -mover advantage would be stronger – once it locks in its 
+quantity, the entrant would know for sure that it would lose money (rather than convincing the 
+monopolist to reduce its output to accommodate the entrant ). 
+ 
+7.  Suppose two players play t he following normal form N times.  N is finite and 
+known by both players.  
+ 
+ Left  Right  
+Left  5,1  0,0  
+Right  0,0  1,5  
+ 
+True, False, and Explain:  Alternating back and forth between (L,L) and (R,R) 
+is an equilibrium as long as N is even  and β≥5/6.  
+ 
+FALSE.  This is an equilibrium for all N  and all β.  Whenever a firm defects from it, it gets 0 
+instead of 1 or 5, so there’s never any point in deviating.  
+ 
+8.  Consider a Cournot model with two firms.  P=10 -Q, and MC=0.  
+ 
+True, False, and Explain:   If one firm moves first, the unique SGPNE has a 
+higher Q than it does with simultaneous play.  
+ 
+TRUE.  Applying subgame perfection, let’s start with the second mover.  It maximizes:  
+ 
+2 2 1 2 ) 10( qq q Pq 
+, implying:  
+ 
+0 2 102 1  q q
+, so 
+2101
+2qq  
+In a SGPNE, the first mover takes the second -mover’s reaction function into account.  This means 
+that it substitute’s firm 2’s reaction function into it’s own profit function before  taking the derivative:  
+ 
+11
+1 1 )21010( qqq Pq
+
+.  This sim plifies to:  
+11)210( qq
+.  Maximizing wrt 
+1q  gives us:  
+0 51q
+, so 
+51q .  Now plug into firm 2’s reaction function to get: 
+.2/525 10
+2 q  
+5.72 1 q q Q
+.  Since Cournot ou tput is: 
+5.7 3/201 NbaNQ , output rises.  
+BTW, you may already be familiar with this problem as the  “Stackelberg model.”  
+
+9.  True, False, and Explain:   The War/Peace game confirms the view that the 
+invention of atomic weapons reduced  the risks of w ar and  human 
+extinction.  
+FALSE.  In the MSNE, the pro bability of playing War falls as  the (War, War) payoff gets more 
+negative; and since the probability that (War, War) happens is that [P(War)]2, the risk of war goes 
+down.  However, the probability of hum an extinction still probably goes up – nukes make war less 
+likely, but much more devastating if it does happen.  
+ 
+ 
+
+1.  People occasionally  argue that Western consumers are virtually “satiated” – 
+before long, they will have everything they want.  Assume this claim is correct, 
+and that labor productivity continues to improve.  Describe the general 
+equilibrium consequences for output, employmen t, wages, and real interest 
+rates.  Carefully explain your reasoning.  
+ 
+What happens:  
+ 
+Output: Output continues to rise slightly  as labor productivity keeps going up, approaching but 
+never reaching the satiation level.  If output hit satiation, people would  stop working; but otherwise 
+the tendency of greater productivity to raise output remains.  
+ 
+Employment and wages: Increasing labor productivity raises labor demand, and as workers 
+approach satiation, their labor supply curve starts to bend backwards.  The result: Wages go up, 
+but employment declines as satiated high -wage workers switch from labor to leisure.  
+ 
+Real Interest Rates:  As the intertemporal GE consumption model at the end of the Week 2 notes 
+explains, positive time preference (β<1) and growing income (g>0) guarantee a positive real 
+interest rate.  Since the question says, “Labor productivity continues  to improve,” there is no 
+reason to say that real interest rates rise; all we can say is that they remain positive.  
+ 
+Note:  The que stion says “ virtually  satiated,” not “completely satiated”; furthermore, nothing in the 
+question suggests that consumers would remain satiated if there were a drastic fall in output.  It is 
+incorrect, then, to claim that output and employment would fall to  zero.  Even if this were so, 
+though, wages would still go up, because in GE workers earn their marginal product.   
+ 
+Furthermore, no matter what happens to output, there’s no reason to think that real interest rates 
+would fall.  If labor productivity is ri sing, workers who feel almost satiated today should expect to 
+feel even more  satiated next year, so interest rates would  still be positive!  
+ 
+ 
+ 
+ 
+2.  People (including economists) often think that monopolies are productively 
+inefficient.  Why, on reflection,  would this be  strange?  What additional 
+assumptions do you need to make the “inefficient monopolies” story internally 
+consistent?  
+
+It would be strange for monopolies to be productively inefficient because regardless of how little  
+competition a firm faces , higher costs imply lower profits.  Even a monopoly totally protected by 
+the government should still want to minimize costs ; otherwise it’s just leaving money on the table .  
+(Many students mentioned potential competition, but that misses this much more fun damental 
+point).  
+ 
+Two good stories about productively inefficient monopoly:  
+ 
+a. Firms have a range of levels of productive efficiency, and the government decides to legally 
+protect a firm that is NOT the most efficient.  This could be because the firm best  at lobbying the 
+government for help is not the best at actually producing the product.  
+ 
+b. The firm is a monopoly with regulated profits.  This gives it an incentive to eliminate the 
+“excess” profits by letting costs rise, rather than cutting prices.  Rem ember the “gold -plating 
+effect”?  
+ 
+ 
+3.  If Landsburg’s “People Wanted,” ( Fair Play ) is correct, does  Kaldor -Hicks 
+efficiency require the long -run maximization  of population?  Carefully explain 
+your answer, staying as close as possible to Landsburg’s descrip tive claims 
+about the economic consequences of population growth.  
+ 
+Kaldor -Hicks efficiency does NOT require population maximization.  Landsburg points to 
+important positive externalities of child creation.  However,  positive externalities of X do not imply  
+the efficiency of maximizing X!  (By analogy, t he negative externalities of pollution do not imply the 
+efficiency of a total ban).   
+ 
+In the absence of natalist subsidies , Landsburg thinks that every child is m ore than worth its social 
+cost  (except, he no tes, for criminals, welfare recipients, etc.)   In his view : 
+ 
+ 
+Benefit to Society > Benefit to the Family  Cost to the Family  Cost to Society  
+ 
+ 
+As you pile on the subsidies, though, the marginal cost  to families of caring for more children go 
+up.  Eventu ally you reach the point where the cost  to the family of creating another person exceed 
+the benefit to society .  T here’s no reason to think this point is equivalent to  “long -run maximum 
+population.”   
+ 
+You could also argue that eventually population has ne gative externalities – not “resource 
+depletion” (as Landsburg explains, that’s doesn’t count ), but on e.g. air pollution, congestion, or 
+other uncharged impositions upon your fellow  man.  
+ 
+The conclusion that K -H efficiency does not imply population maximiz ation  is clearly true if you 
+don’t count unconceived people’s “willingness to pay to be conceived. ”  Even if you did, though, K-
+H still might not imply population maximization.  Consider: If you already felt completely exhausted 
+taking care of  9 kids, the 10th kid might have to pay you more than his discounted lifetime earnings 
+to induce  you to have him, so the cost of his conception exceeds the benefit.  
+
+
+ 
+1.  True, False, and Explain:   Landsburg’s Indifference Principle undermines 
+the standard efficiency rationale for taxing negative externalities.  
+ 
+FALSE.  The Indifference Principle implies that taxes on e.g. air pollutio n raise rents, leaving 
+tenants no better off.  However, the owners of fixed resources are  better off by an amount equal 
+to the increase in rent!  In other words, the Indifference Principle has implications for who  benefits 
+from taxes on negative externalit ies, not whether  these taxes have benefits.   
+ 
+ 
+ 
+2.  Two types of agents consume guns (g) and butter (b).   The Type A agents 
+have U=.5 ln g + .5 ln b, and initially own 10 units of guns and 10 units of butter.   
+The Type B agents have U=.3 ln g + .7 ln b, a nd initially own nothing .  10% of the 
+agents are Type A; the other 90% are Type B.  
+ 
+True, False, and Explain:  The equilibrium price of guns will equal the 
+equilibrium price of butter.  
+ 
+Using the formula from the notes:  
+10*7.*90 10*5.*100*3.*90 10*5.*10
+bg
+pp
+.   
+ 
+But there ’s no need to use the formula.  Since the Type B agents have nothing to sell, they’re 
+irrelevant to the market.  And since the Type A agents have equal endowments of both goods and 
+value both goods equally, the price ratio has to be 1:1.  (To get full cred it, you had to note these 
+facts).  
+ 
+ 
+ 
+3. True, False, and Explain:   In an U ltimatum game, a 50/50 split is the only 
+SGPPSNE ; in a Dictator game, a 100/0 split is the only SGPPSNE.  
+ 
+FALSE.  In an Ultimatum game, a 100 -ε/ε split is the only SGPPSNE; as long a s the giver offers 
+more than 0, the receiver has an incentive to accept, so the giver offers as little as possible.  
+(There are an infinite number of PSNE, but only one is SGP).  In the Dictator game, a 100/0 split 
+is the only SGPPSNE, because there’s no r eason for the giver to share anything.  
+
+4.  Landsburg says that the “obvious” explanation for why popcorn costs more at 
+movies is wrong.  
+ 
+True, False, and Explain:  The problem with “obvious” explanation, 
+according to Landsburg, is that even the simplest m onopoly problem has 
+multiple NE.  
+ 
+FALSE.  The “obvious” explanation, according to Landsburg, is monopoly.  But under normal 
+assumptions, a monopolist would want to charge a high ticket price, then sell everything else  
+(popcorn, bathroom privileges, etc.) a t MC.  
+ 
+ 
+5.  Suppose you have the following Hawk/Dove game.  Players do not discount 
+the future.  In the one shot game, the two players flip a coin to decide who plays 
+Hawk and who plays Dove.  
+ 
+  Player 2  Player 
+1  Hawk  Dove  
+Hawk  -100, -100  5,1  
+Dove  1,5  4,4  
+ 
+True, False, and Explain:   If they  play this game twice , the players can  both 
+on average earn more per turn than they would in the one -shot game . 
+ 
+TRUE.  The players could agree to play Dove, Dove on turn 1.  Then, if either played Hawk in turn 
+1, t he other  player would play Hawk in turn 2.  If both cooperate (or both defect) in turn 1, they 
+would flip a coin to decide who plays Hawk and who plays Dove  in turn 2 .  The result: Players get 
+[4+(.5*5+.5*1) ]/2=3.5 per turn  instead of 2*(.5*5+.5*1) /2=3 per  turn . 
+ 
+ 
+6.  Suppose the government gives one car manufacturer a monopoly privilege.  
+The lobbying process leads to  full rent dissipation.  Each firm has the same 
+constant marginal cost of production, and demand is linear.  
+ 
+True, False, and Explain:   Dead weight costs fall when demand falls or firms’ 
+costs increase.  
+ 
+TRUE.  Under the se assumptions, deadweight costs equal the usual Harberger triangle plus the 
+Tullock rectangle – and output equals half the competitive level.  (There’s no productive 
+inefficien cy because firms have the same costs, and the shift involves an increase in firms’  costs).  
+If demand falls, both the triangle and rectangle shrink.  The same happens if costs rise.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Consider a Cournot model w ith two firms.  P=10 -Q, and Total  Cost =K for 
+each firm .  In equilibrium, all firms that produce must be profitable, and all firms 
+that can profitably produce do so.  Graph m arket price as a function of K.  
+Explain your reasoning.  
+ 
+Key fact to remember: In the Cournot model, each firm’s revenue is given by: 
+22
+)1 (Nba
+c .  
+So if two firms remain in the market, each earns 100/9 – K, and if only  one firm remains, it ea rns 
+25-K. 
+ 
+From this we can immediately deduce that if K>25, zero firms will remain in the market, and th e 
+effective price of the good will be  infinite (since it’s no longer available at any price).  
+ 
+If K ≤100/9, similarly, both firms stay in the market, and we get the Cournot duopoly result: q=10/3, 
+Q=20/3, P=10/3.  
+ 
+What if 100/9>K>25?  Then there’s only one firm, and it charges the monopoly price – unless it 
+foresees that this will provoke entry. The mono poly price is 5, and the monopoly quantity is 5 as 
+well.  Will charging the monopoly price ever provoke entry?  No.  If the incumbent firm produces 5, 
+an entrant would maximize:  
+ 
+K qqe e e   ) 5 10(
+, which reaches a maximum at q e=2.5, which is only pro fitable for 
+K≤25/4 , which is less than 100/9.  
+ 
+Bottom line: For low K, there are two firms and the Cournot duopoly result.  For medium K, there 
+is one firm and the monopoly result.  For high K, there are no firms at all.  
+
+2.  In the real world, why do n’t reputational incentives eliminate all fraud?   
+ 
+Some of the obvious reasons: In the real world, time preference, number of turns, and utility 
+functions all vary widely – and none of them are knowable with certainty.  So in the real world, it is 
+often h ard to tell whether or not reputational incentives will work – and people often decide it’s 
+better to just take their chances.  Another key problem: In the real world, honest mistakes happen, 
+so trigger strategies just aren’t practical.  But even setting a ll of these problems aside, there’s a 
+more fundamental reason why fraud will never disappear completely: As the rate of fraud falls, so 
+does the optimal level of effort to prevent  fraud.  But as anti -fraud effort falls, the incentive for 
+fraud increases.  Think about this as a game where sellers can be Honest or Dishonest, and 
+buyers can either be Trusting or Cautious.  In the MSNE, 100% Honesty will never be an 
+equilibrium, because if 100% of sellers were Honest, 100% of buyers would be Trusting, which 
+mea ns that Dishonesty pays.  
+ 
+ 
+3. “Free market economists typically express confidence in the ability of markets to produce 
+public goods... At the same time, free market economists tend to be pessimistic about the stability 
+of cartels in an unregulated market.   If markets successfully produce local public goods, however, 
+why are stable cartels not more prevalent?” (Cowen and Sutter 1999)  
+ 
+Explain Cowen and Sutter’s  argument using basic game theory.  Does it make 
+sense in the real world?  Why or why not?  
+ 
+Their argument is that producing public goods and maintaining cartels are both Prisoners’ 
+Dilemmas.  (In fact, you could say that “maintaining the cartel” is a public good from the point of 
+view of the participating firms).  While is in the collective interest o f mem bers to cooperate, it is in 
+their individual interests to defect.  
+ 
+The argument makes some  sense in the real world.  Private production of public goods and 
+stable, voluntary cartels are both rare.  H owever, there are some important differences.  Many 
+people get a “warm glow” from contributing to public goods production – showing a little altruism 
+makes them feel like better people.  It’s a lot harder for cartels to appeal to members’ altruism.  
+Unions  are a good exception – and it’s interesting to note that unions often enroll a few percent of 
+the workforce even without government help.  Another point worth mentioning: The short -run 
+gains from undercutting a cartel are much larger than the short -run ga ins of refusing to contribute 
+to a public good.  The firm that cheats on a cartel can steal the whole market; the donor who 
+cheats on a voluntary public good just saves his donation.  
+ 
+ 
+ 
+ 
+1.  Two types of agents live for two periods.   In each period, they receive an 
+endowment of perishable  consumption goods – storage over time is not possible.  
+Type A agents have U=ln c 1 + ß ln c 2; Type B agents have U= ln c1 + ρ ln c 2.  
+Both types of agents are equally numerous and have endowments of 1 in each 
+period.  
+  
+True, False, and Explain:  The equilibrium interest rate r equals 2/(ß+ρ) . 
+ 
+FALSE.  (1+r) equals the price ratio of period 1 consumption to period 2 consumpt ion.  So just 
+normalize the utility functions to be:  
+ 
+2 1 ln1ln11c c U
+ 
+ and 
+2 1 ln1ln11c c U
+   
+ 
+Then apply the 2 -good GE formula from lecture:  
+
+
+ 
+
+22
+1*11*11*111*11
+21
+pp
+.  Since this is equal to (1+r), r=
+
+
+22 -1,  
+which does not e qual 2/( ß+ρ).  
+ 
+ 
+2.  Consider the following normal form:  
+ Left  Right  
+Left  1,1  0,0  
+Right  0,0  2,2  
+ 
+True, False, and Explain:  If two players play this game sequentially , there are 
+three NE but only  one SGPNE.  
+ 
+FALSE.  Played sequentially, there are only TWO NE (L,L ) and (R,R).  The MSNE from the 
+simultaneous version of the game does not exist, because if player 1 randomizes, player 2 gets to 
+see whatever he played, and will therefore copy whatever he did with certainty.  Out of the two NE, 
+only (R,R) is SGP.  You ca n show this with backwards induction: since player 1 knows that player 
+2 will match him in the second turn, he always wants to play R.  
+
+Questions 3 and 4 refer to the following information:  
+ 
+An I ncumbent an d an E ntrant infinitely repeat the following game.    
+ Enter  Don’t Enter  
+Predate  -10, -10 10,0  
+Don’t Predate  2,2  10,0  
+ 
+Consider the candidate equilibrium where the Incumbent always plays Don’t 
+Predate, and the Entrant plays Enter until the Incumbent plays Predate once .  
+After the Incumbent plays Predate,  the Entrant never plays Enter again.  
+ 
+ 
+3. True, False, and Explain:   This is not a NE unless the Incumbent’s  
+discount factor is less  than .6.  
+ 
+FALSE (but see below).  Playing the candidate equilibrium is Nash if:  
+ 
+
+
+1 010 10 2
+tt
+tt 
+.  This simplifies to: 
+
+  1101012
+, so 
+6. .  Since deviating has a short -run cost  and a long -run benefit , 
+low discount rates are required to sustain the equilibrium.  
+ 
+If you answered TRUE and said the above, I gave you full credit.  Technicall y, though, since the 
+question says “less than .6” rather than “less than or equal to  .6,” the correct answer is FALSE.  
+ 
+ 
+4.  Suppose that every turn, there is a p>0 that the entire industry disappears 
+due to exogenous technological innovation.  
+ 
+True, False , and Explain:  Predation may still be sustainable . 
+ 
+TRUE.  You could interpret β as a continuation probability (1 -p) rather than a discount factor and 
+just use the math for Question 3.  Or you just revise the inequality, flip the sign, and solve.  
+Predatio n is sustainable as long as:  
+ 
+ 
+
+   
+0 1) 1(2 ) 1(10 10
+tt t
+tt tp p  
+, implying:  
+ 
+6. ) 1(p
+. 
+
+5.  True, False, and Explain:   Bertrand competition between identical firms 
+with fixed costs yields a second -best efficient outcome.  
+ 
+TRUE.  The first -best outcome  is when one firm produces at MC, avoiding any allocative 
+inefficiency from P>MC (the Harberger triangle).  But in Bertrand competition with fixed costs, 
+competition leads one  firm to drop out, and the other to set P=AC – a standard second -best result.  
+At lower prices, firms would lose money and exit.  Bertrand competition will NOT lead to wasteful 
+duplication of fixed costs; if it did, either firm could profit by slightly cutting its price and stealing all 
+its competitors’ customers.  
+ 
+ 
+ 
+6.  Consider the f ollowing one -shot game : 
+ Attack  Submit  Defend  
+Attack  -10, -10 5,-3 -20, -5 
+Submit  -3,5 0,0  0,-1 
+Defend  -5,-20 -1,0  -1,-1 
+ 
+True, False, and Explain:   There is a MSNE, but no PSNE.  
+ 
+FALSE.  Defend is strictly dominated by Submit for both players, so this g ame simplifies to a 
+standard Hawk/Dove game with the four upper -left cells.  In such games, there are two PSNE – 
+(Attack, Submit) and (Submit, Attack) in this case, plus a MSNE.  
+
+
+ 
+1.  “People may be unable to articulate, for example, that ‘I would be willing to pay $200 per 
+month in additional rent to live in a safer neighborhood. ’ They might even nonsensically assert that 
+‘You can’t put a price on safety. ’ But in acting, they implicitly make such trade -offs.”  (Caplan, 
+“Probability, Common Sense, and Realism”)  
+ 
+What objection to probability theory is Caplan trying to answer?  Does he 
+succeed?  
+ 
+Caplan is answering the objection that probabili ty theory is unrealistic  because normal people 
+rarely explicitly calculate probabilities.  He argues that probability  is no more unrealistic than the 
+standard assumption that people have a willingness to pay.  Normal people rarely explicitly state 
+their wi llingness to pay, but their behavior reveals that they still have  a willingness to pay .  
+Similarly, normal people rarely explicitly state their probabilities, but their behavior shows that they 
+have  probabilities.  As Caplan writes, “ In short, just as dema nd theory does not commit us to the 
+view that the typical person explicitly ponders, ‘How much Gouda cheese would I buy if the price 
+were a penny per pound? probability theory does not commit us to the view that the typical person 
+explicitly ponders, ‘What  is the probability that I have an evil twin? ’” 
+ 
+2.  Modify the Hawk/Dove game to explain why  in the real world  – unlike Thomas 
+Hobbes ’ Leviathan  – two shipwrecked people are unlike ly to try to murder each 
+other.  Carefully explain why your model is a good  description of the choices and 
+payoffs that human beings  would actually  face in this situation.  
+ 
+The simplest way to modify the Hawk/Dove game is to change the payoffs.  In the real world, 
+(Dove, Dove) is usually more profitable for both parties than (Haw k, Dove) or (Dove,  Hawk).  
+Unilateral aggression could easily lead to the breakdown of trust and cooperation, and require 
+frequent, costly monitoring.  And d epending on how “dovish” Dove is, unilateral aggression might 
+even result in some costly injuries f or the aggressor as well as the victim.  As a result, Dove 
+becomes a strictly dominant strategy.  
+ 
+You could simply keep the usual  Hawk/Dove payoffs and model the situation as a repeated game, 
+but then you’d have to explain why repeat ed play seems likely to  lead to cooperation rather than a 
+struggle for dominance.   Focal points, perhaps?  
+ 
+3. With full rent dissipation, roughly what would U.S. rent -seeking as a 
+percentage of GDP be?  Is this a reasonable estimate of actual U.S. rent -
+seeking as a percentage of  GDP?  If not, what is the best explanation for the 
+discrepancy?  
+ 
+With full rent dissipation, you’d expect U.S. rent -seeking would equal government spending a s a 
+percent of GDP, roughly 40%.  This is an unrealistically high estimate; nothing like 40% of GDP is 
+spent on lobbying, however broadly defined.  The best explanation for the discrepancy is that 
+most government spending is NOT up for grabs.  Politicians largely have to satisfy voters to keep 
+their jobs, and voters want  money for the elderly, defense, etc., not whoever lobbies the most.  
+You could also observe that even with full rent dissipation, 40% is an overstatement unless 
+lobbyists are allowed to simply keep their money without offering any costly goods and service s in 
+exchange.   45 
+
+
+
+ 
+1.  Let “CK”=”the results of the Card -Krueger minimum wage study.”  Suppose 
+the p(econometrics is reliable)=.8, p(CK|econometrics is reliable)=.3, and 
+p(~CK|econometrics is reliable) =.7.  
+  
+True, False, and Expla in: P(econometrics is reliable|CK)>70%.  
+ 
+FALSE.  Using Bayes’ Rule:  
+ 
+2.*) |~ ( 8.*3.8.*3.) (~ *) |~ ( ) ( *) | () ( *) | () | (
+reliable CKPreliable P reliable CKP reliableP reliable CKPreliableP reliable CKPCK reliableP
+
+ 
+We do not know P(CK|~reliable).  But 
+7.2.*) |~ ( 24.24. reliable CKP   
+only if P(CK|~reliable)<.514 . 
+ 
+Questions 2 and 3  refer to the following information:  
+ 
+Bryan, Tyler, a nd John play a game with three possible strategies: Comics, 
+Chess, and Opera.  Their payoffs are:  
+ 
+ Bryan  Tyler  John  
+Everyone Plays Comics  10 1 2 
+Everyone Plays Chess  1 5 5 
+Everyone Plays Opera  4 4 4 
+All Other Cases  0 0 0 
+   
+ 
+ 
+ 
+ 
+ 
+2. True, False, and E xplain:   This game has one PSNE if the players play 
+sequentially, but three PSNE if the players play simultaneously.  
+
+FALSE.  For the simultaneous game, (Comics, Comics, Comics), (Chess, Chess, Chess), and 
+(Opera, Opera, Opera) are all PSNE equilibria.  Bu t so is every situation where each players plays 
+a different  strategy: e.g. (Comics, Chess, Opera).  This gives everyone zero payoffs, but no 
+individual can increase his payoff by switching.  For the sequential game , there is only one 
+subgame perfect  PSNE,  where the first mover picks the strategy that he most prefers everyone to 
+play – Comics for Bryan, Chess for Tyler or John.  But every PSNE in the simultaneous game 
+remains a PSNE in the sequential game.  
+ 
+3.  A MSNE also exists.   
+ 
+True, False, and Explai n: In this MSNE, Tyler is indifferent when:  
+P(Bryan plays Comics)*P(John plays Comics)=P(Bryan plays Chess)*P(John plays Chess)=  
+P(Bryan plays Opera)*P(John plays Opera)  
+ 
+FALSE.  This would only be true if all the payoffs for Tyler were equal, which they a re not.  Tyler is 
+actually indifferent when:  
+ 
+1*P(Bryan plays Comics)*P(John plays Comics)= 5*P(Bryan plays Chess)*P(John plays Chess)=  
+4*P(Bryan plays Opera)*P(John plays Opera)  
+ 
+4. Consider a simple contestable monopoly model where an incumbent faces an 
+equally productively efficient potential entrant.  Both have constant marginal 
+costs and zero fixed costs of production.  Both firms know that there is a 
+probability p that – if the incumbent remains in business – the government will 
+prosecute the incumbent  for antitrust violations.  If this occurs, the incumbent 
+loses a fixed cost K.  The entrant never faces antitrust prosecution.  
+ 
+True, False, and Explain:   Equilibrium quantity is decreasing in both p and K.  
+ 
+TRUE.  pK is effectively a fixed cost.  Since o nly the incumbent faces this cost, the entrant will 
+inevitably drive him from the market.  The en trant chooses the highest price  consistent with 
+driving the incumbent from the market, an epsilon below the point where the incumbent’s AC 
+curve intersects the  demand curve.  The higher p and K, the higher the incumbent’s AC, and the 
+higher the price the entrant can safety charge.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.  True, False, and Explain:   With zero costs of production, Kreps (A Course 
+in Microeconomic Theory ) shows that consumer s are better off in a 
+Stackelberg equilibrium than a Cournot equilibrium.  
+ 
+TRUE.  Kreps shows that under Cournot, total output equals 2(A -k)/3, while under Stackelberg, 
+total output equals 3(A -k)/4.  With zero costs of production, k=0, so Cournot output eq uals 2A/3, 
+while Stackelberg output equals 3A/4.     47 
+ 
+6.  Consider the following one -shot game : 
+ Attack  Submit  
+Attack  -1, -1000  100,1  
+Submit  1,100  50,50  
+ 
+True, False, and Explain:   There are two PSNE and one MSNE, but only 
+(Attack, Submit) is focal.  
+ 
+TRUE .  This is just the Hawk -Dove game, so (Attack, Submit) and (Submit, Attack) are the two 
+PSNE, and there is also a MSNE.  But given the fact that (Attack, Attack) is extremely  bad for 
+player 2, (Attack, Submit) is a strong focal point: Both players will lo ok at it and think “Player 2 
+won’t want to risk attacking.”  
+ 
+ 
+ 
+ 
+1. Are any  of the main assumptions of general equilibrium theory true in t he real 
+world?  Carefully explain your answer.  
+ 
+The assumptio ns that there are I consumers, K commodities, non -negative consumption, and 
+endowments are all trivially true; even an endowment vector of all zeros is still an endowment.  
+But none of the other assumptions are empirically true:  
+ 
+a. Utility is not increasing in all commodities, because some people actually dislike some goods 
+and/or reach satiation points . 
+ 
+b. The market price vector is not continuous, because the penny is the smallest unit.  
+ 
+c. Given a price vector, people are sometimes indifferent between different consumption bundles 
+(e.g. blue shirts vs. green shirts), so U i(p) does not have a unique solution for everyone.  
+ 
+d. There are some goods (e.g. air) where people satiate at price=0, so t otal demand does not 
+always exceed total endowment for a low enough price.  
+ 
+e. There are lumpy goods and discrete reactions, so the total demand function is not continuous 
+in p k. 
+ 
+2. Why does popcorn cost more at movies?  You should either (a) offer an 
+ans wer Landsburg fails to consider in The Armchair Economist , or (b) argue that 
+Landsburg prematurely rejects the right answer.  
+ 
+I think Landsburg prematurely rejects the price discrimination story.  Yes, there are many theaters, 
+but they are hardly perfect s ubstitutes for each other.  Theaters are at best monopolistically 
+competitive.  Every theater has a least a mild geographic monopoly; people won’t want to drive an 
+extra 15 minutes to cut the cost of popcorn by a $1.  Why price discriminate on popcorn, but  not 
+the restrooms?  Probably because of fairness norms: Theater goers would be very resentful if 
+they had to pay extra to use the restroom , leading to less repeat business.   48 
+ 
+3. Compare the maximum deadweight costs of a government grant of monopoly 
+to the deadweight costs of outright prohibition of a product.  How would your 
+answer change for a product with negative externalities?  Use graphs to clarify 
+your answer.  
+ 
+The worst -case scenario for a government grant of monopoly is when (a) the government gives  
+the grant to a productively inefficient firm, and (b) there is full rent dissipation during the struggle 
+to get the grant.  The only social benefit is the triangle of consumer’s surplus under the demand 
+curve and above the monopoly price.  
+ 
+The worst -case scenario for Prohibition is even worse: If the ban is strictly enforced, all the 
+surplus in the market is destroyed.  
+ 
+With negative externalities, however, a grant of monopoly or outright prohibition might actually be 
+the most efficient policy.  It depends  on the severity of the externalities: You have to compare 
+socially optimal output to output under perfect competition, monopoly, and prohibition.  The larger 
+the externality, the more likely monopoly (or even prohibition) will be welfare -enhancing.   For s mall 
+externalities, however, it may be more efficient to have overproduction due to competition than 
+underproduction due to monopoly.  
+ 
+ 
+ 
+1.  True, False, and Explain:  As population increases, finding real -world 
+Pareto improvements becomes more difficult.   
+ 
+TRUE .  A change is only a Pareto improvement if absolutely no one  is better off.  As population 
+grows, you increase the chance of hurting at least one person, especially since you increase the 
+chance of the existence of  a person with misanthropic or otherwise “weird” preferences.  
+Furthermore, as population increases, the cost of identifying and compensating 100% of all losers 
+goes up.  
+ 
+2. Suppose all agents have lexicographic preferences for either  X or Y.  At least 
+one agent has lexicographic preferences for X over Y, and at least one agent 
+has lexicographic preferences for Y over X.   All agents start with X>0 and Y>0.  
+ 
+True, False, and Explain:   A unique general equilibrium exist s. 
+ 
+TRUE.  As long as 0<(p X/pY)<∞, everyone with a lexicographic preference for X  will want to sell 
+ALL  his Y, and everyone with a lexicographic  preference for Y will want to sell ALL  his X.  But to 
+clear the market, the market value of all the X on the market must equal the market value of all 
+the Y on the market.  This happens when p X*(total  X endowments of Y -preferrers)=p Y*(total  Y 
+endowments of X -preferrers); in other words, when  
+ 
+pX/pY=(total Y endowments of X -preferrers)/(total X endowments of Y -preferrers), the unique 
+general equilibrium.  For example, if the X -preferrers start with a total of 200 Y, and the Y -
+preferrers start with a total of 100 X, the unique GE is p X/pY=200/100=2.  
+ 
+3. Consider the following variant on the Ultimatum Game:  
+ 
+  Player 2  Player 
+1  Accept  Reject  
+t (10 -t),t 0, Z 
+ 
+Z=0 if t≥5, but Z=1 if t<5.  
+ 
+True,  False, and Explain:  There are an infinite number of PSNE, but only one 
+SGPNE.  
+ 
+TRUE.  This is just like the Ultimatum Game in the notes, except that the unique SGPNE is now 
+for Player 1 to offer 1 (I also accepted 1.01 and 1+ ε), because Player 2 strictly prefers to Reject 
+offers less than 1.  As i n the Ultimatum Game in the notes, there are an infinite number of PSNE, 
+because IF Player 1 expects Player 2 to Reject any offer less than X, Player 1’s optimal response 
+is to offer X.  In this variant, X can be any number from 1 -10. 
+
+4. “But once you’re in the theater, the owner has a lot of monopolies.” (Landsburg, The Armchair 
+Economist ) 
+ 
+True, False, and Explain:   Landsburg’s point is that when monopolies sell  a 
+product with multiple features, they tend to red uce quality on all margins - 
+to charge a monopoly price for each and every product feature.   
+ 
+FALSE.  Precisely the opposite is true.  Landsburg’s point is that monopolists normally want to 
+charge a competitive  price on each and every product feature, the n charge a monopoly price for 
+the PACKAGE.  Otherwise, theater owners would want to charge high prices for the bathrooms 
+and every other amenity in the theater.  Landsburg’s conclusion is that monopoly by itself cannot 
+explain high popcorn pricing.  A bett er explanation is price discrimination: If willingness to pay for 
+popcorn positively correlates with willingness to pay for admission, but willingness to pay for 
+bathrooms does not  correlates with willingness to pay for admission , then charging more than M C 
+for popcorn makes sense.  
+ 
+5.  Consider an infinitely repeated Bertrand game with N equally productively 
+efficient firms  with constant MC and 0 fixed cost .  The firms want to collude.  
+Their system: each period,  the cartel  randomly  pick s one firm (1/N cha nce per 
+firm) to charge the monopoly price.  All the other firms charge the monopoly price 
++ $0.01.   The firms enforce this agreement with trigger strategies.  
+ 
+True, False, and Explain:   Since all firms expect a 1/Nth share of the 
+monopoly, this equilibriu m is sustainable as long as 
+NN 1 . 
+FALSE.  In any period, a firm that is NOT supposed to charge the monopoly price earns 0 if it 
+sticks to the plan, but earns 
+m  if it deviates  by charging $.01 less than the monopoly price .  The 
+expected value of future profits for subsequent periods are 
+
+
+1tmt
+N , because each firm has a 
+1-in-N chance of getting to charge the monopoly price and reaping the monopoly profits  in each 
+period .  To sustain collusion, then, we need:  
+ 
+m
+tmt
+N
+1
+.  This simplifies to: 
+111
+N , implying 
+1NN .   
+ 
+Collusion is harder to sustain in this scenario than when colluding firms evenly divide the 
+monopoly profits every period.  
+ 
+6.  True, False, and Explain:   Kreps argues that in the "noisy" real world, 
+trigger strategies are not a practical way to sustain collusion.  Instead, 
+colluding firms would only punish if prices were significantly below the 
+agreed level.  
+FALSE.  Kreps specifically states t hat "you cannot go too far in lessening the severity of 
+punishment, making it of shorter duration, say, or only triggering punishment when prices fall very 
+far.  This would encourage each side to chisel somewhat..." (p.526)  Intuition: If no small 
+deviatio ns get punished, then everyone will always engage in a small deviation.   
+
+
+
+ 
+1. Caplan (1999, 2001) defends the unrestricted use of subject ive probability 
+theory in economics.  What is the best  objection to his position ?  State your case 
+as forcefully as possible.   
+ 
+There were several good answers to this question.  One was that most people assign discrete 
+probability categories (certain, hi ghly likely, somewhat likely, 50/50, somewhat unlikely, highly 
+unlikely, impossible) rather  than 0 -1 numbers, and that these categories predict their behavior 
+better than a continuous model.  Another was that most people don’t know Bayes’ Rule, and 
+therefo re frequently violate subjective probability theory on a very deep level.  
+ 
+ 
+2. Suppose artificial intelligence researchers produce and patent a perfect 
+substitute for human labor at zero MC.  Use general equilibrium theory to predict 
+the overall economic e ffects on human  welfare before AND after the Artificial 
+Intelligence software patent expires.  
+ 
+While the patent lasts, the patent -holder will produce a monopoly quantity of AIs.  As a result, the 
+effective labor supply increases, and wages for human beings  fall – but not to 0  because the 
+patent -holder keeps P>MC .  The overall effect on human welfare, however, is still positive!  Since 
+the AIs produce more stuff, and only humans get to consume, GDP per human goes up.  How is 
+this possible if wages fall?  Sim ple: Earnings for NON -labor assets (land, capital, patents, etc.) 
+must go up.  Humans who only  own labor are worse off, but anyone who owns a home, stocks, 
+etc. experiences offsetting gains.  
+ 
+When the patent expires, this effect becomes even more extreme.  With 0 fixed costs, wages fall 
+to MC= 0, but total output – and GDP per human – skyrocket s.  Human owner s of land,  capital,  
+and other non -labor assets  capture 100% of all output.  Humans who only have labor to sell, 
+however, will starve without tax -funded redistribution or charity.  
+ 
+ 
+3. Suppose you play a 5 -turn Centipede Game with (a) a random American, and 
+(b) a random Ph.D. Micro student at GMU .  How would you personally play in 
+each of these cases?  What percentage of the theoretical maximum payoff 
+woul d you receive in each case?  Explain your answer.  
+ 
+If I played a random American, I would definitely NOT expect him to do backwards induction.  I 
+would however expect the random American to cheat on his last turn, so I would cheat one before 
+that.   (If I liked the person, or if I were playing a child, I would probably just cooperate the whole 
+way through... depending on the sum at stake).  
+ 
+If I played a random Ph.D. Micro student at GMU, my strategy would heavily depend on 
+anonymity.  If the student and I knew or expected to discover each others’ identities, then I would 
+cooperate the whole way through... unless there was a lot of money at stake.  If we were 
+anonymous, however, I would expect my opponent to cheat on the round right before my last turn , 
+so I would cheat one round before that .  With a 5 -turn game, that basically means I would cheat at 
+the first opportunity – but if the game were longer, I would definitely try cooperating until the last 
+five turns or so.   53 
+
+
+
+1.  Suppose the government imposes a tax on air pollution.  
+ 
+True, False, and Explain:  While this tax doesn’t have to be a Kaldor -Hicks 
+improvement, it  remains  theoretically p ossible  for it to be a Pareto 
+improvement.   
+ 
+TRU E.  The tax doesn’t have  to be a Kaldor -Hicks improvement; imposing a very high tax on 
+something with a mild negative externality could easily make total social surplus lower.  (Picture a 
+$1000/day tax for skipping a shower).  Nevertheless , a tax on air po llution can, as a matter of pure 
+theory, be a Pareto improvement.  Each individual could conceivably value the improved air 
+quality more than the tax.  
+ 
+[Many students said FALSE, on the grounds that if a change is not a Kaldor -Hicks improvement, it 
+cannot be a Pareto improvement.  But the question said  that the change might  not be a Kaldor -
+Hicks improvement.  This merely implies that the change might not be a Pareto improvement, 
+which of course is perfectly compatible with the theoretical possibility  that t he change is a Pareto 
+improvement.]  
+ 
+2. Suppose that two players play this PD game, followed by this Coordination 
+game.  
+ 
+ Defect  Don't    L R 
+Defect  3,3  4,0   L 5,5  0,0  
+Don't  0,4  2,2   R 0,0  5,5  
+ 
+ 
+True, False, and Explain:  If ß=.9, the only SGPNE are (Defe ct, Defect), (L,L) 
+and (Defect, Defect), (R, R).  
+ 
+[I accepted either of the following responses.]  
+ 
+[Response #1: The literal answer. ]   
+ 
+FALSE.  The first game isn’t really a PD, because the socially optimal result (Defect, Defect) is 
+strictly dominant.  B oth (Defect, Defect), (L,L) and (Defect,  Defect), (R,R) are equilibria  for ALL 
+values of β.  But there is a third  equilibrium: (Defect, Defect) followed by the mixed strategy 
+equilibrium of playing L 50% of the time and R 50% of the time.  Furt hermore, this MSNE allows 
+for a strange equilibrium: (Don’t, Don’t), followed by either (L,L) or (R,R ) if both players played  54 
+(Don’t, Don’t) in the first round, or the MSNE if either player played Defect in the first round.  This 
+is an equilibrium as long as:  
+ 
+2 + 5 β ≥ 4 + 2.5β, implying a critical β=.8.  
+ 
+[Response #2: The answer assuming  the first game r eally was a PD, with (Defect, Defect) payoffs 
+of (2,2) and (Don’t, Don’t) payoffs of (3,3)].  
+ 
+FALSE.  Both (Defect, Defect), (L,L) and (Defect, Defect), (R,R) are equilibrium for ALL values of 
+β.  But there is another obvious equilibrium: (Defect, Defect) followed by the mixed strategy 
+equilibrium of playing L 50% of the time and R 50% of the time.  This is an equilibrium as long as:  
+ 
+3 + 5 β ≥ 4 + 2.5β, implying a critical β=.4.  
+ 
+3. True, False, and Explain:   In an Ultimatum game, a 50/50 split is the only 
+SGPPSNE; in a Dictator game, a 100/0 split is the only SGPPSNE.  
+ 
+FALSE.  In experiments, 50/50 splits are common for both  games.  Theoretically, however, the 
+SGPPSNE of the Ultimatum game is (100 -ε,ε), where ε is the smallest amount the giver can give.  
+The giver has no reason to give more because the receiver will always accept anything more than 
+0.  In the Dictator game, similarly, the SGPPSNE is (100,0) because the Dictator has no incentive 
+to share even a penny.  
+ 
+4. “Suppose that a manufacturer does hol d an unbreakable patent on a particular product.” 
+(Kreps, A Course in Microeconomic Theory ) 
+ 
+True, False, and Explain:   Kreps says  that firms may engage in entry 
+deterrence even if they have a legal monopoly (such as a patent).   
+ 
+TRUE.  Even firms with a l egal monopoly have to worry about competition by similar  products, 
+giving them an incentive to reduce their prices to discourage entry.  As Kreps explains on p.304, 
+“The scope of patent protection does not always extend to protection against close substitu tes for 
+the patented product... Then the monopoly may act in a way to impede the entry of producers of 
+these substitute goods.”  
+ 
+5.  Suppose firms in an industry have the same cost function, including a sunk 
+cost .  Product demand falls, leading to a halvin g of potential monopoly profits.  
+Two firms play mixed strategies to decide whether to enter.  
+ 
+True, False, and Explain:   The probability that both  firms enter and lose 
+money falls by a factor of four.  
+
+FALSE.  From the homework, we know that the probabil ity that ONE firm plays enter is 
+amm
+ , 
+so the probability that BOTH firms do so is 
+2
+
+
+
+
+
+amm .  Halving monopoly profits reduces the 
+entry probability to 
+a amm
+mm
+2 5.5.
+ .  This clearly reduces the probability of entr y, but by 
+LESS than half.  (To halve the probability, the entire denominator, not just part of it, would have to 
+double).  Since the probability that one firm enters falls by less than half, the probability that two 
+firms enter , 
+2
+2
+
+
+
+
+amm  , falls by LESS than a factor of four. 
+ 
+6.  Suppose N equally efficient firms lobby the government for a monopoly 
+privilege.  The firms never collude.  
+True, False, and Explain:   Bertrand -style  lobbying  will lead to a larger  
+Tullock rectangle than Cournot -styl e lobbying  would.  
+TRUE.  Note that the question specifies Bertrand - or Cournot -style LOBBYING.  The natural 
+interpretation is that with Bertrand -style lobbying, whichever firms lobbies the MOST wins the 
+monopoly for sure, whereas with Cournot -style lobbyin g, your chance of winning the privilege  
+depends on your lobbying as a fraction of TOTAL lobbying.  By the usual logic, Bertrand  lobbying 
+leads one firm to set  its lobbying equal to the total value of the monopoly, and all rivals to give up.  
+Cournot lobbyi ng, in contrast, leads all firms to lobby somewhat, but not enough to wipe out all the 
+profits (i.e., to get full rent dissipation).  
+ 
+
+
+
+ 
+1. Why doesn’t the First Welfare Theorem imply that market outcomes are 
+Pareto efficient even in the presence of externalities?  Why does Caplan claim 
+that, the First Welfare Theorem notwithstanding, real -world market outcomes are  
+Pareto efficient in the pres ence of externalities?  
+ 
+The no -externalities assumption is implicit in the assumption that Utility Ui(x) solely  depends on all 
+K commodities  in YOUR consumption bundle .  This means that no consumers’ consumption 
+affects any OTHER consumer’s utility .  With externalities, this assumption is false, so the FWT 
+need not hold.  
+ 
+Caplan claims that real -world outcomes are Pareto efficient because (a) any change is almost 
+certain to make SOMEONE worse off, and (b) there is no feasible way to compensate 100% of 
+the l osers for any realistic change.  As a result, there is no actual way to make one person better 
+off without  making someone else worse off.  As a result, the world is Pareto efficient with or 
+without externalities.  
+
+2. Suppose you had to play a 100 -turn Hawk/Dove  game with one other student 
+in this class.  Before the game starts, you are allowed to send your partner a 
+one -paragraph essay on the theme, “You should cooperate with me because...”  
+What would your essay say  if you wanted to maximize your payoff ?  Be as 
+persuasive as possible.  
+ 
+Here’s what I propose we do: We play Dove for turns 1 -99.  If either of us plays Hawk, we revert 
+to the MSNE for the rest of the game.  On the last turn, we flip a coin: Heads I play Hawk and you 
+play Dove, Tails I play Dov e and you play Hawk.  
+ 
+You’re  probably a fair and honorable person.  If so, I think you’ll agree that my propo sal is both fair 
+and honorable, and happily play along.  
+ 
+But on the off -chance that you’re not a fair and honorable person, you should still  adhere  to my 
+proposal.  This isn’t a PD game , so playing Hawk can easily backfire for you even on the turn you 
+play it.  More importantly, my plan has credible punishments.  Once we expect the MSNE, the 
+MSNE is going to happen.  You heard the same lecture I did.   Finally, my proposal elegantly 
+handles the end -game problem.  If we’ve cooperated for turns 1 -99, the coin flip maintains 
+cooperation on turn 100.  And you won’t want to betray me on turn 99, because then on turn 100 
+you’ll get the MSNE payoff i nstead of a 50% chance of the (Hawk, Dove) payoff and a 50% of the 
+(Dove, Hawk) payoff.  
+ 
+In short, decency and self -interest both point in the same direction.  Let’s play!  
+ 
+3. Landsburg (“Why Prices Are Good: Smith versus Darwin”)  states that, “In 
+biology there is no equivalent of the Invisible Hand.”  Would Landsburg expect 
+there to be an Invisible Hand for culture ?  Explain what you think Landsburg 
+would say, then argue that he’s wrong.   (Hint:  Remember that cultural practices 
+are often coordination games ).  
+ 
+Landsburg would almost definitely NOT expect the Invisible Hand to apply.  As he explains in The 
+Armchair Economist , markets achieve a desirable SOCIAL outcome – efficiency – by channeling 
+competition through PRICES.  Competition alone gets you the bl oodbath that is natural selection.  
+Coordination, similarly, can lock -in all sorts of inefficient outcomes.  
+ 
+You could argue, however, that cultures compete with each other, mimicking  the usual market 
+mechanism.  People who aren’t happy with Amish culture,  for example, are free to switch to non -
+Amish culture.  New entry is possible, too – so if the current menu of cultural choices is 
+unsatisfactory, you can start your own culture.  Cultures, like firms, must pass the market test.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  True, False, and Explain:   In the real world, taxes on goods with negative 
+externalities are always the least in efficient way for governments to raise a 
+given amount of revenue.  
+ 
+FALSE.  Taxes on negative externalities have one clear advantage over lump -sum taxes: Lump -
+sum taxes don’t hurt efficiency, but taxes on negative externalities CAN actually increase  
+efficiency by discouraging socially harmful behavior.  But this beneficial side effect of taxes on 
+negative externalities reverses as soon as the tax starts to push market quantity below the 
+intersection of supply and Social Benefits.  So if revenue the government wants is  large or the 
+negative externality is  minor, taxes on negative externalities might be less efficient than, say, 
+lump -sum taxation.  
+ 
+Problems 2 and 3 refer to the following information.  
+ 
+Agents live for two periods.  They are endowed with 1 unit of a consumption good in period 1 and 
+1 unit in period 2.  The period 1 good spoils if not consumed in period 1.  There are two types of 
+agents:  
+ 
+Type A:  50% of the agents have U=ln c 2.   
+ 
+Type B:  The other 50% have U=ln c 1 + ln c 2 
+ 
+2.  True, False, and Explain:  The general equilibr ium interest rate will be less 
+than 3 %. 
+ 
+TRUE.  Normalizing the utility function for the Type B’s, then applying the standard two -good GE 
+result, yields: 
+ .  This implies an interest rate of -67%, which is 
+definitely less than 3%.  
+ 
+3. True, False, and Explain:  If the two types of agents do not interact (i.e., 
+there is one island for all of the A's and a different island for all of the B's), 
+the interest rat e will be negative  for A’s but zero for  B’s. 
+ 
+TRUE.  On the island of the A’s, the interest rate is 
+ , or -100%.  
+
+On the island of the B’s, the interest rate is: 
+ , or 0%. Intuitively, the A’s place 
+no value on period -1 consumption, so it’s free; and the B’s place equal weight on period -1 and 
+period -2 consumption, and have equal amounts of both goods, so their prices are equal in 
+equilibrium.  
+ 
+4. “In biology, there is no equivalent of the Invisible Hand .” (Landsburg , The Armchair Economist ) 
+ 
+True, False, and Explain:   Landsburg’s discussion implies  that in  game 
+theory , there is an equivalent of the Invisible Hand.  
+ 
+FALSE.  Landsburg identifies the Invisible Hand with the First Welfare Theorem.  He explains that 
+according to this theorem, rationality and indivi dual utility maximization are insufficient to ensure 
+efficiency.  You also n eed competitive prices.  Furthermore, g ame theory is specifically designed 
+to analyze situations  where the perfectly competitive model does not apply.  Indeed, Landsburg’s 
+uses bot h biological and game theory -type examples (such as educational signaling) to expose 
+inefficient equilibria.   
+ 
+5.  Suppose two players play the following normal form N times.  N is finite and 
+known by both players.  
+ 
+ Left  Right  
+Left  5,1  0,0  
+Right  0,0  1,5  
+ 
+True, False, and Explain:  Alternating back and fort h between (L,L) and (R,R) 
+is a SGPPSNE equilibrium for all  N and all β >0. 
+ 
+TRUE.  Even though this is a finite game, there is no incentive to deviate in the last turn, because 
+deviation reduces your pay ment (of  1 or 5) to 0.  Since there is no incentive to deviate in the last 
+turn, the game never “unravels,” and playing the equilibrium strategies is fully credible.  The 
+discount rate is a red herring – even if both players attach  ZERO weight to future ou tcomes, 
+playing the equilibrium is selfishly optimal.   
+ 
+Note: A few students said FALSE  because this is also an equilibrium for β=0.   But if something is 
+true for β≥0, it is automatically true for β>0, too.  
+6.  Suppose Cournot firms have TC=2 (i.e., fixed cost of 2 with MC=0).  The 
+demand curve is P=1 0-Q.  
+True, False, and Explain:   With free entry, the equilibrium number of firms is 
+5, with a deadweight cost of 8.  
+FALSE.  From the notes, the equilibrium number o f firms is given by the integer immediately 
+below:  
+07.6 110
+KN
+, so N=6, not 5.  Since one firm could produce the entire output at the same 
+cost as more firms, this implies a deadweight cost of 2 per additional firm, for a total of 10.   59 
+Note: A fe w students correctly observed that there would be additional deadweight loss caused by 
+equilibrium prices exceeding MC= 0.  Although I gave full credit for saying that the deadweight cost 
+is 10, I also gave full credit for saying it was 10 + the allocative inefficiency of P>MC.  
+
+
+ 
+1. “Mises is correct to point out that beliefs about the efficacy of action are implicit in action. But 
+he at best misspeaks when he characterizes this necessary fea ture of action as knowledge of 
+‘causality.’  Instead, the necessary belief component of action is weaker; we don’t need to know —
+or even believe we know —any exceptionless causal laws. We merely require b eliefs about 
+conditional probabilities.” (Caplan, “Probability, Common Sense, and Realism”)  
+ 
+Use Caplan’s analysis of the connection between beliefs and actions to explain 
+why you showed up for this evening’s exam.  
+ 
+[I’m now pretending I’m a student.]   Acc ording to Mises, I showed up at the exam because I 
+believe that showing up will cause  me to succeed in the program.  Caplan’s point is that Mises 
+overstates.  I could easily attend even though I realize that I might  get in a car accident en route, 
+or enter  the classroom and discover that the exam’s been cancelled.  I might attend even though I 
+believe I’m likely to fail the exam, just as Caplan submits articles to the AER expecting rejection.  
+Being here only shows that , in Caplan’s words,  I think being her e leads to a “better distribution of 
+outcomes  than any alternative plan.”   Nothing more – and nothing less.  
+ 
+2. “Schelling points explain why countries rarely fight wars, but fail to explain why 
+countries often fight w ars over seemingly minor events. ”  Dis cuss, providing at 
+least two real -world examples.  
+ 
+One of the most common way to avoid the War, War equilibrium of the Hawk/Dove game is 
+territoriality: Fight on your own territory, Run away on other territory.  But how is this “territory” 
+defined?  Schell ing points provide an obvious explanation: Once two nations recognize each 
+other’s national borders, each can avoid war by carefully keeping its military on its side of the 
+border.  This helps maintain peace, but also shows that the preceding quotation is wrong.  Using 
+national borders to reach the peaceful equilibrium creates the possibility of war over a minor 
+territorial transgression (or alleged  transgression) : Once national borders become a Schelling 
+point, one country’s decision to grab one square mil e of another country could provoke a massive 
+response from the country that claims that square mile.  Two real -world examples: The Falkland 
+Island crisis, where the United Kingdom fought against Argentina for seizing some sparsely -
+inhabited islands in the south Pacific; and the current Crimean crisis, which began when Russia 
+unexpectedly occupied and annexed ethnically Russian territory in the Ukraine.   
+ 
+3. Suppose a society is in a very low -trust equilibrium: People don’t trust others 
+because others aren’t trustworthy, and no one bothers to be trustworthy because 
+no one will trust them.  If you personally wanted to break out  of this low -trust 
+equilibrium – to become a widely trusted “honest broker” – what would you do?  
+Carefully describe your strategy, step -by-step.  
+ 
+My steps: (1)  Make some highly visible investments with large SUNK costs to show that I plan to 
+be in business  for a long time.  (2) Create a tight-knit team of employees I know well personally, 
+starting with friends and family.  (3) Give NEW  customers my products for free – and make sure I  60 
+maintain quality.  (4) Gradually increase prices for older customers – providing large discounts for 
+customers  who refer their friends and family members.  
+ 
+If this doesn’t work, I’d seek  a “franchise” or other certification  from a reputable outsider, such as 
+a multi -national corporation.   61 
+ 
+
+
+
+1. Suppose all the assumptions of the First Welfare Theorem are true.  
+ 
+True, False, and Explain:   Markets are Pareto and  Kaldor -Hicks efficient.  
+ 
+TRUE.  The First Wel fare Theorem assumes no externalities, perfect information, and an 
+exogenous price vector, and proves markets are Pareto efficient.  Given these assumptions, 
+moreover, people sell ANYTHING they possess that ANYONE else values more highly  than they 
+do, so m arkets maximize total surplus and are therefore K -H efficient . 
+ 
+Most students  answered FALSE, citing the notes on the fact that Pareto efficiency does not imply 
+K-H efficiency.  This is true in the real world, but the assumptions of the First Welfare Theor em 
+are so unrealistic that both Pareto and K -H efficiency follow ! 
+ 
+ 
+2. Suppose 4 5% of all agents in an economy have U=ln x + ln y,  and the other 
+55% have U=.75  ln x + .25 ln y.   All agents start with one unit of x and two  units 
+of y.    
+ 
+True, False, and Explain:   In general equilibrium, exactly 5 5% of the agents 
+consume more y than x.  
+ 
+FALSE.  100% of agents consume more y than x.  To see this, first calculate the equilibrium price 
+vector:  
+ 
+ 
+ 
+This implies all agents have income of 1*3.52+2*1=5.52.  Type 1 agents spend 50% of this 
+income on x, 50% on y, so they consume 5.52*.5/3.52=.784 x and 5.52*.5/1= 2.76 y, so y>x for 
+them.  Type 2 agents spend 75% of their income on x, 25% on y, so they consume 
+5.52*.75/ 3.52=1.18 x and 5.52*.25/1=1.38 y, so y>x for them too.   62 
+ 
+ 
+3. Suppose that two players play the following three games in order : 
+Coordination game, Prisoners' Dilemma , Ultimatum game . 
+ 
+True, False, and Explain:  Standard game theory predicts that this game will  
+completely  "unravel."  
+ 
+TRUE.  “Unraveling” means players play each stage of the game as if it were not repeated.  The 
+last stage – the Ultimatum game – has only one SGPNE, where Player 1 offers $.01 and keeps 
+the rest for himself, and Player 2 accepts.  A s a result, standard game theory says players cannot 
+use punishments to avoid the standard (Defect, Defect) outcome in the PD stage.  This in turn 
+implies that players treat the first stage – the Coordination game – as if it were a one -shot game.   
+Hence, c omplete unraveling.  
+ 
+4. “But once you’re in the theater, the owner has a lot of monopolies. He is the only supplier of 
+rest rooms, for example. Why doesn’t he charge you a monopoly price to use them?  (Landsburg , 
+The Armchair Economist ) 
+ 
+True, False, and Explain:   Landsburg concludes that customer diversity, not 
+supplier monopoly, explains why popcorn costs more at movies.  
+ 
+FALSE.  Landsburg concludes you need BOTH diversity AND some degree of monopoly (i.e., 
+imperfect competition) : “Price discrimination c an only work when the seller has a monopoly of the 
+appropriate kind.”   Monopoly without diversity leads to high ticket prices and MC pricin g for 
+popcorn and other extras. Diversity without monopoly lead s to MC pricing for  everything.  
+ 
+5.  Suppose two playe rs play the following normal form N times.  N is finite and 
+known by both players.  
+ 
+ Left  Right  
+Left  5,1  0,0  
+Right  0,0  1,5  
+ 
+True, False, and Explain:  Alternating back and forth between (L,L) and (R,R) 
+is an equilibrium as long as N is even  and β<1. 
+ 
+FALSE.  Alternating back and forth is ALWAYS an equilibrium.  Defecting reduces your payoff 
+from 5 or 1 to 0, so there is no temptation to “cheat” regardless of number of turns or discount 
+rate.  
+ 
+6.  Consider a Cournot model with two firms.  P=20 -Q, and MC =0.  
+ 
+True, False, and Explain:   If one firm moves first, the unique SGPNE has a 
+higher Q than it does with simultaneous play.  
+TRUE.  With simultaneous play, the Cournot notes tell us market  output is 2/3*20=13.3.  With 
+sequential play, player 2 sets q2=(20 -q1)/2, so player 1 maximizes Pq1=( 20-q1-(20 -q1)/2)q1.  
+Differentiating implies 10 -q1=0, so q1=10, and q2=(20 -10)/2=5.  So q1+q2=15<13.3.   63 
+
+
+
+ 
+1. Construct a “second -best” efficiency defense of ONE existing policy you 
+consider highly inefficient  in a “first -best” sense .  Be as convincing as possible.  
+ 
+Under current U.S. law, extremely rare, highly unpopular religions like Satanism are legal.  This 
+seems highly inefficient in a first -best sense: the total willingness of religious people to pay to ban 
+Satanism probably vastly exceeds the totally willingne ss of Satanists to pay to keep their religion 
+legal.  However, politically drawing the line between religions like Satanism and moderately 
+unpopular religions like Scientology is extremely contentious, and risks banning religions that DO 
+pass the cost -bene fit test because their followers love them and they only mildly annoy the 
+majority.  These costs and risks make across -the-board religious toleration a second -best 
+optimum: While we have to tolerate a few inefficient religions, we avoid religious conflict and “false 
+positives.”  
+ 
+2. “[I]t seems that the basic textbook commentary on bilateral monopoly and bargaining had it 
+right.” (Kreps, A Course in Microeconomic Theory )  Carefully explain (a) what Kreps is 
+claiming here, and (b) why he claims it.  Does a MS NE view of bargaining lead to 
+a different conclusion?  
+ 
+Kreps is claiming that, according to standard textbook treatments, “bargaining outcomes depend 
+on individual’s expectations as to what the outcomes should be”; furthermore, such expectations 
+can be “ma nipulated.”  He claims this because experiments show precisely this: Playing 
+bargaining games with computers that demand 20% of the surplus subsequently leads human 
+beings to bargain harder with other humans than playing bargaining games with computers tha t 
+demand 50% of the surplus.  The MSNE view leads to a somewhat different conclusion: While 
+expectations do matter, some expectations are not stable .  In particular, if people expect too 
+much, lowering your expectations leads to higher payoffs – and if peo ple expect too little, raising 
+expectations leads to higher payoffs.  
+ 
+3. What is the most  empirically relevant model our class has studied so far?  The 
+least  empirically relevant model?  Justify both answers.  
+ 
+The reputation model is the most empirically r elevant.  Reputation makes the business world go 
+round, especially in the internet age of ubiquitous product reviews and ratings.  Businesses can 
+almost always raise their SHORT -RUN profits by cutting corners today, but refrain from doing so 
+because this d estroys their LONG -RUN profits.  
+ 
+The ultimatum game model is the least empirically relevant.  It clearly predicts something that 
+essentially NEVER occurs: offering people in disadvantageous bargaining positions an amount 
+vanishingly close to zero.  Instead , human beings in such situations gravitate toward even splits.  
+ 
+ 
+ 
+1. Suppose a million new immigrants enter the U.S., driving down the wages of 
+low -skilled Americans by $1/hour.  
+ 
+True, False, and Explain:  According to Landsburg ( Fair Play ), this change 
+usually increases Kaldor -Hicks effic ien cy, because the positive 
+externalities of  population growth hugely  outweigh the negati ve externality 
+of falling wages for natives.  
+ 
+FALSE.  Landsburg says that falling wages are not  a negative externality at all; instead, they’re a 
+TRANSFER to capitalis ts.  As long as there is any demand elasticity, moreover, total surplus 
+expands at the lower wage, so Kaldor -Hicks efficiency automatically increases.  Landsburg 
+discuses the positive externalities of popula tion growth elsewhere, but they’re  not relevant  here.  
+ 
+2.  Two types of agents consume guns (g) and butter (b).  The Type A agents 
+have U=.7 ln g + .3 ln b, and initially own 1 unit of guns and 1 unit of butter.  The 
+Type B agents have U=.3 ln g + .7 ln b, and initially own .5 units of guns and .5 
+units of butter.  50% of the agents are Type A; the other 50% are Type B.  
+ 
+True, False, and Explain:  In GE, t he price of guns will not equal the price of 
+butter.  
+ 
+TRUE.  In GE, PriceG/PriceB=(.5*.7*1+.5*.3*.5)/(.5*.3*1+.5*.7*.5)=.425/.325=1.31>0.  
+ 
+3.  Consider t he following 2 -player game:  
+ Up Down  
+Left  0,0  0,0  
+Right  0,0  0,0  
+ 
+True, False, and Explain:   This game has 4 PSNE but no MSNE.  
+ 
+FALSE.  The game has 4 PSNE, but also an infinite number of MSNE.  Since all payoffs are zero, 
+EVERY combination of probabilit ies leaves everyone indifferent, so they’re all MSNEs.  
+
+4. Suppose two players play the following normal form N times.  N is finite and 
+known by both players.  
+ 
+ Left  Right  
+Left  5,0  0,0  
+Right  0,0  0,5  
+ 
+True, False, and Explain:  Alternating back and f orth between (L,L) and (R,R) 
+is always an equilibrium as long as N is even . 
+ 
+FALSE.  Alternating back and forth is always an equilibrium for ALL N.  There is no incentive to 
+cheat in the last turn, since defection automatically yields a payoff of 0.  This is particularly clear 
+because (L,L) and (R,R) are both equilibria off the stage game, and repeatedly playing stage 
+game equilibria is always an equilibrium.  
+ 
+5.  Suppose each firm in an industry has TC=
+2
+iq ; i.e., zero fixed costs with  
+increasing  marginal costs.  In dustry demand is given by P=1/Q, where Q=
+
+iiq . 
+True, False, and Explain:   Bertrand competition will allow an infinite number 
+of firms to survive in this market, implying no productive or allocative 
+inefficiency . 
+ 
+TRUE.  All firms have the same cost structure of  TC=
+2
+iq , so MC=
+iq2  and AC =
+iq . Due to this 
+symmetric cost structure, Bertrand equilibrium implies that P=MC=minimum AC=0.  W hen does 
+P=0?  Since P=1 /Q, this only occurs  when total output is infinite, requiring an infinite number of 
+firms, each producing an infinitesimal quantity of output.  There is no allocative inefficiency, since 
+P=MC, and no productive inefficiency, because all output is produced at the minimum AC of 0.  
+ 
+6.  True, False, and Explain:   The War/Peace game confirms the view that the 
+invention of atomic weapons reduced  the risks of war and  human 
+extinction.   
+FALSE.  The PSNE of the War/Peace game remains (Peace, War) and (War, Peace) no matter 
+how bad the (War, War) payoffs become .  But for the MSNE, the frequency of playing War falls as 
+the (War, War) payoffs fall, and the frequency of the (War, War) result falls quadratically.  
+However, the risk of actual war only declines because at omic weapons make actual war so 
+terrible IF it occurs!  With more primitive weapons, it is unclear if human extinction was even a 
+possible outcome of war.  Now, it may be.  
+ 
+ 
+1.  People (including economists) often think that monopolies are productively 
+inefficient.  Why, on reflection, would this be strange?  What additional 
+assumptions do you need to make the “inefficient monopolies” stor y internally 
+consistent?  
+ 
+Productively ineffici ent monopoly is strange because – for ALL market structures – higher costs 
+imply lower profits.  Even if a firm’s monopoly is guaranteed by the government, why not maximize 
+profits by minimizing costs?  The tw o simplest ways to make this story internally consistent: (1) 
+The monopolist could have lobbied to legally exclude more productively efficient competitors from 
+the industry.  (2) The monopolist’s profits might be capped by the government, giving the 
+monopo list an incentive to stealthily take its profits in the form of higher costs (the “ gold -plating  
+effect”).  
+ 
+2. Suppose artificial intelligence researchers competitively  produce  a zero MC 
+perfect substitute for ALL human labor  (but not other inputs) .  Use ge neral 
+equilibrium theory to predict the effects on output, wages, profit, and overall 
+human  welfare . 
+ 
+This innovation effectively makes one input – labor – free.  Wages therefore fall to 0 – why pay 
+humans a positive wage when an AI will do an equally good  job for free?   Since infinite labor is 
+now available for no cost, output soars.  Profits, however, remain zero in equilibrium; with 
+competition, all the benefits get passed on to the remaining scarce resources of capital and land.  
+Since all production i s consumed by humans, overall human welfare rise s, though workers who 
+own very little capital and land  will be worse off.  
+ 
+3. Use an insight from Kreps we did NOT discuss in class to analyze something 
+economically interesting in the real world .  Clearly ex plain how a specific 
+statement from Kreps helps explain specific individual or firm behavior.   
+ 
+On p,198, Kreps discusses experiment al tests of Walrasian equilibrium.  (He doesn’t mention 
+Vernon Smith by name, but Smith was a key figure here).  Result: “e xcept for a few special cases, 
+those experiments that have been run are consistent with the notion of Walrasian equilibrium.”  
+What’s striking is that sharply  deviating from many  extreme assumptions of supply -and -demand 
+doesn’t seem to matter much for mark et outcomes.  So even though the Walrasian model seems 
+to poorly describe the real world , the model still correctly predicts market outcomes; subjects act 
+“as if” they’re perfect competitors even when they’re not.  This suggests that industries 
+economists usually describe as “oligopolistic” may actually be just as “competitive” as atomistic 
+industries.  And when I look around at the world, this seems plausible: As a rule, number of firms 
+seems like a poor predictor of how well firms treat consumers.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

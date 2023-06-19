@@ -1,0 +1,8 @@
+1. In a world with no externalities, suppose the government imposes a lump sum tax and uses it to fund an hourly work subsidy. 
+ 
+True, False, and Explain:  The deadweight cost of this tax-and-subsidy policy is zero.
+
+False. It is true that the DWL of a lump sum tax is zero. However, assuming the market starts out in equilibrium, a subsidy carries a DWL because it distorts the allocation of resources.  There would be a loss in both consumer and producer surplus.  Supply Shifts out beyond the natural equilibrium level because you are trying to increase the labor supply. 
+
+Caplan seemed to like this answer. He said that this would cause labor to be allocated to lower valued uses. And a lump sum tax to pay for wage subsidies to deal with efficiency wage unemployment doesn't make sense because you'd be taxing the unemployed and then subsidizing them to do a lower-valued job.
+

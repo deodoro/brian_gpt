@@ -1,0 +1,941 @@
+1
+00:00:00,000 --> 00:00:06,640
+desirability bias. It does have a natural application to this, which is, alright, so
+
+2
+00:00:06,640 --> 00:00:11,000
+which sounds better to your friends to say, this is the year I decided to gain weight
+
+3
+00:00:11,000 --> 00:00:14,560
+or this is the year I decided to lose weight? Which one sounds better?
+
+4
+00:00:14,560 --> 00:00:19,360
+It sounds a lot better to say I'm going to try to lose weight than to try to get into
+
+5
+00:00:19,360 --> 00:00:24,080
+shape. So there is a natural tendency for people to exaggerate how much they really
+
+6
+00:00:24,080 --> 00:00:27,840
+want to lose weight, how much they really want to reduce their drinking, how much they
+
+7
+00:00:27,840 --> 00:00:33,800
+really want to save. And think about how badly we treat an alcoholic who is unrepentant.
+
+8
+00:00:33,800 --> 00:00:38,800
+Imagine there is a person, you say, look, your family, you're really hurting your family,
+
+9
+00:00:38,800 --> 00:00:44,520
+your children are suffering, everyone who loves you is really unhappy about this. And
+
+10
+00:00:44,520 --> 00:00:49,200
+if you say, I don't care because I love vodka more than any of you people.
+
+11
+00:00:49,200 --> 00:00:55,320
+If you say that, that is actually a good prescription for finally having all these people say, that's
+
+12
+00:00:55,320 --> 00:01:00,080
+it, we're cutting you off, you're dead to us. But on the other hand, if you say, I feel
+
+13
+00:01:00,080 --> 00:01:03,680
+so terrible about this, I really want to change, I'm going to do everything in my power to
+
+14
+00:01:03,680 --> 00:01:09,120
+do it. That's the kind of thing you say to avoid consequences. Social desirability bias,
+
+15
+00:01:09,120 --> 00:01:14,640
+I mean it would be no surprise from this perspective if people claimed to want to drink a lot more
+
+16
+00:01:14,640 --> 00:01:18,560
+than they really do. Now does this mean that there is no such thing as self-control problems?
+
+17
+00:01:18,560 --> 00:01:23,280
+No, there might be those too. But at least a very obvious theory about what's going on
+
+18
+00:01:23,280 --> 00:01:27,400
+is that people are just saying what is socially approved and their behavior really shows what
+
+19
+00:01:27,400 --> 00:01:33,120
+they actually feel. Now if you're in doubt, I have a website to prove you wrong. All right,
+
+20
+00:01:33,120 --> 00:01:39,560
+I guess the website, I think it's stickwith2k, stick.com, formed by two economists. This
+
+21
+00:01:39,560 --> 00:01:44,400
+is a website where you're allowed to go and put up some money in order to solve your own
+
+22
+00:01:44,400 --> 00:01:49,040
+self-control problem. For example, there were two overweight economists who both went and
+
+23
+00:01:49,040 --> 00:01:54,680
+did a bet that whoever lost more weight would be paid $10 per pound difference in weight
+
+24
+00:01:54,680 --> 00:02:01,880
+loss between the two of them. All right, so for those guys, I believe that's what it seems
+
+25
+00:02:01,880 --> 00:02:05,920
+like a self-control problem because you really are going and putting some money down in order
+
+26
+00:02:05,920 --> 00:02:10,080
+to try to change your behavior. Similarly, any hero anyone hears of self-control problem,
+
+27
+00:02:10,080 --> 00:02:16,000
+if you want to go and say give me $1,000 which you get back after you achieve, if you accomplish
+
+28
+00:02:16,000 --> 00:02:21,920
+some long-run goal, I'm available. So anyone who wants to give me $1,000 to save and I
+
+29
+00:02:21,920 --> 00:02:27,360
+keep it if you fail but you get it back if you succeed, right, that's another way you
+
+30
+00:02:27,360 --> 00:02:30,840
+can solve a self-control problem very easily. You know if I've got it, you can trust me.
+
+31
+00:02:30,840 --> 00:02:33,840
+I'm not going to keep your money. That's ridiculous. Yes?
+
+32
+00:02:33,840 --> 00:02:36,800
+How do you verify whether the person is on the...
+
+33
+00:02:36,800 --> 00:02:39,640
+Well, it does have to be, well, it has to be a verifiable thing.
+
+34
+00:02:39,640 --> 00:02:43,080
+Maybe I have not enough self-control to tell you that I failed?
+
+35
+00:02:43,080 --> 00:02:47,520
+Well, I mean, so if it's losing weight, then we just go and put you on the scale, right?
+
+36
+00:02:47,520 --> 00:02:50,760
+So if it's finishing your registration by time, we see if you finish the registration
+
+37
+00:02:50,760 --> 00:02:57,040
+by this time. There's a lot of debatable ones. So now how many of you guys have stick.com
+
+38
+00:02:57,040 --> 00:03:01,360
+accounts where you are trying to solve your self-control problems through putting money
+
+39
+00:03:01,360 --> 00:03:05,920
+up to change your incentives to make it in your short-run interest to do what's in your
+
+40
+00:03:05,920 --> 00:03:06,920
+long-run interest?
+
+41
+00:03:06,920 --> 00:03:08,920
+We don't know about them right now.
+
+42
+00:03:08,920 --> 00:03:16,640
+Yes, well, so there are, it is a website with a bunch of users. People get value from it.
+
+43
+00:03:16,640 --> 00:03:20,520
+But very striking, this ain't Google. This is not Facebook. This is not something where
+
+44
+00:03:20,520 --> 00:03:24,880
+people are going every day, like all over the world, a billion users, trying to solve
+
+45
+00:03:24,880 --> 00:03:29,560
+their self-control problems. It's a very small niche product.
+
+46
+00:03:29,560 --> 00:03:32,800
+And pretty much any time someone has ever offered or complained about a self-control
+
+47
+00:03:32,800 --> 00:03:37,120
+problem, I make my offer. I'm here. Give me money and I'll give it back to you if you
+
+48
+00:03:37,120 --> 00:03:42,400
+succeed in solving your problem. And people, no one has ever given me money for this if
+
+49
+00:03:42,400 --> 00:03:46,520
+I ever call correctly. So I'm open to doing it.
+
+50
+00:03:46,520 --> 00:03:50,800
+To me, given that there is a way that you can actually go and take action in your own
+
+51
+00:03:50,800 --> 00:03:56,880
+hands to solve this problem, and that almost nobody does, that's why I believe that theory
+
+52
+00:03:56,880 --> 00:04:01,160
+for almost all these problems, that people don't actually want to change.
+
+53
+00:04:01,160 --> 00:04:06,040
+So here's what I believe. People would like to lose weight painlessly. People would like
+
+54
+00:04:06,040 --> 00:04:12,000
+to stop drinking without having any craving for alcohol. But that's not in the menu of
+
+55
+00:04:12,000 --> 00:04:15,840
+choice. So when you say you have a self-control problem, it's not meaningful to say, well,
+
+56
+00:04:15,840 --> 00:04:20,360
+the problem is I want a choice that is just simply physically unavailable.
+
+57
+00:04:20,360 --> 00:04:27,520
+The only choices are either to go and drink and not crave alcohol, or, if you have a problem,
+
+58
+00:04:27,520 --> 00:04:32,120
+or to not drink and crave it. Those are your options. And then on January 1st, people generally
+
+59
+00:04:32,120 --> 00:04:36,680
+will, are likely to say, I want to do the second one. And yet, very few stick with it.
+
+60
+00:04:36,680 --> 00:04:40,520
+And that to me, that is the kind of problem that you could solve for that. You could solve
+
+61
+00:04:40,520 --> 00:04:44,280
+this way, probably nobody does, or solve this way, probably nobody does. So this is what
+
+62
+00:04:44,280 --> 00:04:46,960
+makes me think that people don't really want to stop drinking. They don't really want to
+
+63
+00:04:46,960 --> 00:04:50,480
+save for retirement. They don't really want to lose weight.
+
+64
+00:04:50,480 --> 00:04:57,480
+And that's my story. I'm sticking to it. Unless someone has some reason to suddenly change
+
+65
+00:04:57,480 --> 00:04:58,480
+my mind. Yes?
+
+66
+00:04:58,480 --> 00:05:03,600
+I'm just thinking about, it seems like it's like a kick when you're down. If you really
+
+67
+00:05:03,600 --> 00:05:09,040
+don't think you have the self-control, then I'm not going to set myself, like I'm being
+
+68
+00:05:09,040 --> 00:05:12,840
+honest with myself, like I'm going to fail. I don't want to lose money in addition. So
+
+69
+00:05:12,840 --> 00:05:14,320
+I'm like risk averse to loss.
+
+70
+00:05:14,320 --> 00:05:18,600
+Well, there's an easy solution to that. Just make the amount of money so high that you
+
+71
+00:05:18,600 --> 00:05:25,320
+couldn't afford to lose. Right? You just have to rail. And then I remember like, you know,
+
+72
+00:05:25,320 --> 00:05:29,640
+$10,000. Do you really think I'm going to, I'm going to, I'm going to be strong and the
+
+73
+00:05:29,640 --> 00:05:34,480
+$10,000 are going to disappear? Everybody knows where I am. Like I've been here for
+
+74
+00:05:34,480 --> 00:05:38,200
+20 years. I'm on track to become the longest serving professor in the history of George
+
+75
+00:05:38,200 --> 00:05:44,360
+Mason. So you can trust me, give me your money and I'll solve all your self-control problems,
+
+76
+00:05:44,360 --> 00:05:45,360
+if any.
+
+77
+00:05:45,360 --> 00:05:53,120
+All right. So, all right. Now, so a lot of these examples, they are striking and they
+
+78
+00:05:53,120 --> 00:05:58,480
+do resonate with people. Right? And again, I'm not literally saying that people are consciously
+
+79
+00:05:58,480 --> 00:06:01,960
+thinking when they say, oh, I totally want to lose weight, but they're actually thinking,
+
+80
+00:06:01,960 --> 00:06:08,240
+I totally don't, but I have to say all these lies. But rather it's just hasty and hyperbolic
+
+81
+00:06:08,240 --> 00:06:12,440
+speech. Just like when a little kid says, I'll never be mean to anyone ever again in
+
+82
+00:06:12,440 --> 00:06:18,600
+my entire life. He's not lying, but he's also not thinking it through. And it's strategic
+
+83
+00:06:18,600 --> 00:06:23,360
+that he's not thinking it through. He's not like actually saying, well, wait a second,
+
+84
+00:06:23,360 --> 00:06:27,840
+what am I getting myself into? He's just blurting out what he thinks people want to hear in
+
+85
+00:06:27,840 --> 00:06:33,840
+order to escape punishment and to receive smiles and approval and his mom's tablet.
+
+86
+00:06:33,840 --> 00:06:40,760
+Okay. All right. So anyway, so what does it mean? So it doesn't seem like there's that
+
+87
+00:06:40,760 --> 00:06:45,680
+many opportunities to loan money to people 100% interest. Again, I'm also happy to do
+
+88
+00:06:45,680 --> 00:06:49,600
+that one. I went up a little more nervous about it because I don't know if you'll pay
+
+89
+00:06:49,600 --> 00:06:54,000
+me back. So there could be some adverse selections. Students are about ready to leave Mason. They
+
+90
+00:06:54,000 --> 00:07:00,920
+want to go do it. But grad students, I guess some grad students have kept my books. So
+
+91
+00:07:00,920 --> 00:07:06,400
+all right. Anyway, and then furthermore, not clear that current interest rates, at least
+
+92
+00:07:06,400 --> 00:07:12,240
+for me, it'd be worthwhile to go and upgrade my appliances. But of course, it depends upon
+
+93
+00:07:12,240 --> 00:07:17,360
+how outmoded your appliances are. And then again, to me, like the stick.com one is a
+
+94
+00:07:17,360 --> 00:07:23,120
+counter example is one of the most convincing points. If self-control problems were really
+
+95
+00:07:23,120 --> 00:07:27,880
+ubiquitous, then it seems like stick.com would be famous and very widely used rather than
+
+96
+00:07:27,880 --> 00:07:31,760
+just being a small niche website, which I think the creators have done okay with it.
+
+97
+00:07:31,760 --> 00:07:37,760
+It's not like they lost money. They have users, but it's not a big website. So the popularity
+
+98
+00:07:37,760 --> 00:07:42,080
+of the website is way smaller than you expect. If you thought that almost everyone had severe
+
+99
+00:07:42,080 --> 00:07:49,080
+self-control problems, then they really wanted to solve. All right. So that case, why don't
+
+100
+00:07:49,080 --> 00:08:14,080
+we go and move on.
+
+101
+00:08:14,080 --> 00:08:35,840
+All right. So moving along. All right. So we've been going over empirical evidence on
+
+102
+00:08:35,840 --> 00:08:42,360
+choice theory, and now we're going to do belief formation, how people form their beliefs.
+
+103
+00:08:42,360 --> 00:08:47,760
+Now belief formation gets a lot less time in the first few weeks of micro, but there
+
+104
+00:08:47,760 --> 00:08:51,720
+are standard assumptions that economists use when they do theoretical papers about how
+
+105
+00:08:51,720 --> 00:08:56,720
+people form their beliefs. And most work does rely on these assumptions, especially for
+
+106
+00:08:56,720 --> 00:09:03,360
+the last 20 or 30 years. All right. So you guys all remember the rational expectations
+
+107
+00:09:03,360 --> 00:09:09,720
+revolutions, which usually dated to the early 1970s. All right. So before the 1970s, economists
+
+108
+00:09:09,720 --> 00:09:13,200
+would often just say, well, people assume inflation will be whatever it was last year.
+
+109
+00:09:13,200 --> 00:09:19,440
+So that would be called adaptive expectations. But anyway, in the early 70s, a new modeling
+
+110
+00:09:19,440 --> 00:09:25,800
+assumption of rationalizations came along. And since then, it has become more and more
+
+111
+00:09:25,800 --> 00:09:30,640
+common to call having beliefs that don't fit the rationalization assumption, irrational
+
+112
+00:09:30,640 --> 00:09:34,840
+beliefs. Or just to call someone whose beliefs don't satisfy the rationalization assumption
+
+113
+00:09:34,840 --> 00:09:41,080
+as being an irrational person. All right. Now often, if you look, if you pay attention
+
+114
+00:09:41,080 --> 00:09:49,040
+to who uses the word irrationality how, people got their PhD after the early 70s. Standardly
+
+115
+00:09:49,040 --> 00:09:54,400
+just call violation expectations to be irrational. And as you might notice now, almost all working
+
+116
+00:09:54,400 --> 00:10:03,080
+economists did get their PhD after 1971 or so. So there's still a few left, but almost
+
+117
+00:10:03,080 --> 00:10:07,160
+all I would say that at this point, the use of like equating rational expectations with
+
+118
+00:10:07,160 --> 00:10:13,640
+rationality, failure rational expectations with irrationality is now very standard. Okay.
+
+119
+00:10:13,640 --> 00:10:17,520
+So anyway, intuitively there's two different reasons why you might make mistakes. So one
+
+120
+00:10:17,520 --> 00:10:22,440
+of them is lack of information where you just didn't know, no one could have known. And
+
+121
+00:10:22,440 --> 00:10:27,880
+the other one is that you're irrational or we could also just call you stupid. Okay.
+
+122
+00:10:27,880 --> 00:10:32,320
+So these are different stories about why someone makes a mistake. One is, well, he just didn't
+
+123
+00:10:32,320 --> 00:10:38,120
+have the necessary inputs to reach the right conclusion. Another one is he did not properly
+
+124
+00:10:38,120 --> 00:10:44,400
+use the information. Did not probably use the information. Either was he irrational
+
+125
+00:10:44,400 --> 00:10:48,160
+or just didn't have the brains to do it. You know, like when you got a math problem and
+
+126
+00:10:48,160 --> 00:10:52,720
+one of the options is not enough information. And sometimes that's true, but sometimes there
+
+127
+00:10:52,720 --> 00:10:56,920
+is enough information and you just don't see how to do it. Right. You've ever had a math
+
+128
+00:10:56,920 --> 00:11:02,320
+test like this where, oh yeah, totally not enough information. But actually you just
+
+129
+00:11:02,320 --> 00:11:08,520
+have to go and add the two equations together. I wish I'd seen that. There was enough information,
+
+130
+00:11:08,520 --> 00:11:16,120
+but I wasn't cognitively skilled enough in order to see how to manipulate the information.
+
+131
+00:11:16,120 --> 00:11:22,880
+That's the idea. All right. Now the distinction between ignorance and rationality is uncontroversial,
+
+132
+00:11:22,880 --> 00:11:28,320
+but economists don't like calling people irrational. So anyone ever see the movie A Fish Called
+
+133
+00:11:28,320 --> 00:11:33,520
+Wanda? A Fish Called Wanda? It's pretty funny actually. So anyway, Kevin Kline back when
+
+134
+00:11:33,520 --> 00:11:38,120
+he was young and cool, rather than like the Bell's father in Beauty and the Beast. But
+
+135
+00:11:38,120 --> 00:11:44,000
+anyway, Kevin Kline back when he was young and cool played a hitman who was stupid. And
+
+136
+00:11:44,000 --> 00:11:48,880
+he was very emotionally sensitive about his own intelligence. So he was stupid and would
+
+137
+00:11:48,880 --> 00:11:52,600
+often do and say stupid things. And then people would call him stupid. Then he would take
+
+138
+00:11:52,600 --> 00:11:58,080
+out his gun and say, don't call me stupid. And he would kill people for calling him stupid.
+
+139
+00:11:58,080 --> 00:12:02,400
+So anyway, don't call me stupid. And the point of it is he was stupid, but he really didn't
+
+140
+00:12:02,400 --> 00:12:06,600
+like being called stupid. Similarly, economists have a similar reaction like that when you
+
+141
+00:12:06,600 --> 00:12:11,800
+call someone irrational. Don't call people irrational. Don't ever say anyone is irrational
+
+142
+00:12:11,800 --> 00:12:17,200
+about anything. A couple of times I've met economists I'm talking to and I say, that
+
+143
+00:12:17,200 --> 00:12:21,200
+person's rational. They say, you're irrational for thinking that. That's the only thing anyone's
+
+144
+00:12:21,200 --> 00:12:26,000
+ever rational about is thinking anyone else is irrational. Are you irrational when you're
+
+145
+00:12:26,000 --> 00:12:30,800
+calling me irrational? No. It's only the first order error of the case where it's a, all
+
+146
+00:12:30,800 --> 00:12:37,800
+right, so I've had this, so like this extreme defensiveness towards human rationality where
+
+147
+00:12:37,800 --> 00:12:42,600
+like those are very touching, like don't call anyone cognitive faculties deficient. If anyone's
+
+148
+00:12:42,600 --> 00:12:46,100
+wrong it's because they didn't have the information that they needed. No one could have figured
+
+149
+00:12:46,100 --> 00:12:50,600
+this out. Really? No one could have figured it out? It seems like often it wouldn't have
+
+150
+00:12:50,600 --> 00:12:56,000
+been that hard, but a lot of people didn't. All right, so anyway, economists just don't
+
+151
+00:12:56,000 --> 00:13:01,500
+like blaming things on anything other than lack of information, but claims about rationality
+
+152
+00:13:01,500 --> 00:13:05,900
+are empirically testable and there is a literature empirically testing them and sometimes the
+
+153
+00:13:05,900 --> 00:13:12,900
+tests come out the wrong way. Sometimes people don't pass standard tests for rationality.
+
+154
+00:13:12,900 --> 00:13:20,900
+All right, so like a really simple example that comes out of psychology is that you can
+
+155
+00:13:20,900 --> 00:13:25,900
+go and randomly assign people to rooms and experiment and then in one room you say, all
+
+156
+00:13:25,900 --> 00:13:32,300
+right, so let's see, what's the right one? Oh yeah, so you get, in both cases you go
+
+157
+00:13:32,300 --> 00:13:35,900
+to read the same stories. You know, Jill has been actively interested in the environment,
+
+158
+00:13:35,900 --> 00:13:41,900
+but what, but received a degree in business and works as a banker. And then one group
+
+159
+00:13:41,900 --> 00:13:46,900
+is told, what are the odds that Jill is a banker who is active in environmental causes?
+
+160
+00:13:46,900 --> 00:13:50,900
+All right, you get a probability from that room. Then you go over to the other room and
+
+161
+00:13:50,900 --> 00:13:55,900
+you just say, what are the odds that Jill is a banker? And here's the funny thing. The
+
+162
+00:13:55,900 --> 00:14:01,900
+odds that Jill is a banker who is active in environmental causes is higher than the odds
+
+163
+00:14:01,900 --> 00:14:08,900
+that she is a banker. And that is logically impossible, right, because the odds of A and
+
+164
+00:14:08,900 --> 00:14:13,900
+B must be less than or equal to the odds of A alone. So you add on an additional condition.
+
+165
+00:14:13,900 --> 00:14:18,900
+The odds that I am an economist with brown hair who likes Lord of the Rings movies, that
+
+166
+00:14:18,900 --> 00:14:22,900
+must be a lower odds than I'm an economist with brown hair, right, because I've added
+
+167
+00:14:22,900 --> 00:14:25,900
+on, or it could be equal, right, if 100% of brown haired economists like Lord of the Rings
+
+168
+00:14:25,900 --> 00:14:29,900
+it could be equal. But normally any time you're adding on an additional condition you'll reduce
+
+169
+00:14:29,900 --> 00:14:35,900
+the probability. And yet we see that people actually seem to not do this. So again, note
+
+170
+00:14:35,900 --> 00:14:40,900
+that the structure of the experiment is you're given a whole story about a person and then
+
+171
+00:14:40,900 --> 00:14:44,900
+you're given two scenarios. And one scenario just sounds better. One scenario is like,
+
+172
+00:14:44,900 --> 00:14:48,900
+well, a banker active in environmental causes, and that kind of fits with the whole story
+
+173
+00:14:48,900 --> 00:14:53,900
+of Jill. The other one, she's just a banker with no further information? That doesn't
+
+174
+00:14:53,900 --> 00:14:59,900
+sound like Jill. And that's the problem. So you can see that. And then, of course, Bayes'
+
+175
+00:14:59,900 --> 00:15:03,900
+rule. So you guys all remember Bayes' rule? If you do not have it committed to absolute
+
+176
+00:15:03,900 --> 00:15:08,900
+memory, or long-term memory, so you'll never forget it again. So the probability of A given
+
+177
+00:15:08,900 --> 00:15:15,900
+B is equal to the probability of B given A times the probability of A. All over, all
+
+178
+00:15:15,900 --> 00:15:22,900
+over, probability of B given A times the probability of A plus the probability of B given not A
+
+179
+00:15:22,900 --> 00:15:27,900
+times the probability of not A. All right, so you all have that committed to memory,
+
+180
+00:15:27,900 --> 00:15:32,900
+right? Right, perfectly? Like that. And you all apply it to every event that occurs to
+
+181
+00:15:32,900 --> 00:15:38,900
+you without any problem, right? And moreover, so does your mom, so does your dad, so does
+
+182
+00:15:38,900 --> 00:15:43,900
+everybody now, right? So the answer, of course, is of course not. If I would just go to randomly
+
+183
+00:15:43,900 --> 00:15:47,900
+take some college graduates and give them a bunch of Bayes' rule formula, I don't
+
+184
+00:15:47,900 --> 00:15:51,900
+know, Bayes' rule formula problems, I think it would be amazing if they could get 10%
+
+185
+00:15:51,900 --> 00:15:56,900
+correct on average. And in experiments, they give you problems like this, usually quite
+
+186
+00:15:56,900 --> 00:16:02,900
+easy in terms of computation. It's not like, it's like, you know, probabilities of square
+
+187
+00:16:02,900 --> 00:16:05,900
+root of 2 over 2, and then another one is the cube root of 7 or something like that.
+
+188
+00:16:05,900 --> 00:16:09,900
+It's not like they're giving them really hard probabilities to manipulate. They're
+
+189
+00:16:09,900 --> 00:16:14,900
+very simple ones. But people just mess up problems like this because this formula is
+
+190
+00:16:14,900 --> 00:16:20,900
+hard, right? And again, the classic example of messing up Bayes' rule is any problem
+
+191
+00:16:20,900 --> 00:16:26,900
+involving false positives or false negatives. So in the classic example of people messing
+
+192
+00:16:26,900 --> 00:16:29,900
+up this problem, you can go to medical students and you say, all right, so suppose there's
+
+193
+00:16:29,900 --> 00:16:37,900
+a disease that 1% of the population has, and there's a 5% false positive rate. All right,
+
+194
+00:16:37,900 --> 00:16:44,900
+so conditional upon testing positive, what are the odds that you actually have the disease?
+
+195
+00:16:44,900 --> 00:16:51,900
+And people generally, the favorite answer is 95% chance. All right, now you can either
+
+196
+00:16:51,900 --> 00:16:54,900
+go and show that's wrong with Bayes' rule, but there's actually something much simpler
+
+197
+00:16:54,900 --> 00:17:00,900
+you can do that works just as well, which is suppose there's 1,000 people. All right,
+
+198
+00:17:00,900 --> 00:17:04,900
+so if 1% of people have the disease, then out of those 1,000 people, how many will have
+
+199
+00:17:04,900 --> 00:17:11,900
+the disease? 10, right? And if there's a 5% false positive rate for it, then approximately
+
+200
+00:17:11,900 --> 00:17:19,900
+how many will test positive and don't have it? 50. So then the fraction of people that
+
+201
+00:17:19,900 --> 00:17:25,900
+will actually, the total number of people that will test positive? 60. Fraction that
+
+202
+00:17:25,900 --> 00:17:30,900
+actually have it, or number that actually have it? 10. So odds that you actually have
+
+203
+00:17:30,900 --> 00:17:37,900
+the disease, can you test it positive? 1 in 6 for a test that's 95% accurate. All right,
+
+204
+00:17:37,900 --> 00:17:43,900
+so this is a very simple Bayes' rule problem, but it's one that is very hard for most people
+
+205
+00:17:43,900 --> 00:17:49,900
+to do. It's so counterintuitive to people, right? And this also explains why people are
+
+206
+00:17:49,900 --> 00:17:54,900
+like, get it, like, so, well, maybe, let's see, should, is it less, it's consistent with
+
+207
+00:17:54,900 --> 00:17:59,900
+the fact, it's consistent with the fact that there are a lot of people who get horrible,
+
+208
+00:17:59,900 --> 00:18:04,900
+unnecessary treatments for conditions that they probably don't even have. On the better,
+
+209
+00:18:04,900 --> 00:18:08,900
+safe than sorry theory, which is a really crummy theory when treatments have horrible
+
+210
+00:18:08,900 --> 00:18:16,900
+side effects, such as for prostate cancer, horrible, horrible side effects. So for a
+
+211
+00:18:16,900 --> 00:18:20,900
+condition that is highly unlikely, you're likely to die before it actually kills you.
+
+212
+00:18:20,900 --> 00:18:25,900
+So, so anyway, so Gerard Gagrenser is very good at taking problems like this and turning
+
+213
+00:18:25,900 --> 00:18:29,900
+them into, turning them into problems like this that people can actually understand without
+
+214
+00:18:29,900 --> 00:18:35,260
+to do Bayes' rule, but that's interesting that people are in fact so bad at Bayes' rule
+
+215
+00:18:35,260 --> 00:18:36,260
+that this is a live issue.
+
+216
+00:18:36,260 --> 00:18:37,260
+So why don't we go and take a break now.
+
+217
+00:18:37,260 --> 00:18:44,140
+And let's see, there's no homework to turn in today, but I still do have homework for
+
+218
+00:18:44,140 --> 00:18:49,140
+Jay, Olivia, Brittany.
+
+219
+00:18:49,140 --> 00:18:53,060
+All right.
+
+220
+00:18:53,060 --> 00:19:01,180
+So Bayes' rule, a lot of people in here can violate that.
+
+221
+00:19:01,180 --> 00:19:06,500
+Now, as I said, we've got the assumption of rational expectations.
+
+222
+00:19:06,500 --> 00:19:08,740
+This is a stronger assumption.
+
+223
+00:19:08,740 --> 00:19:14,980
+Now, almost all modern models in economics rely upon rational expectations.
+
+224
+00:19:14,980 --> 00:19:19,820
+Any time you've been looking at a model published in a top journal and there's some assumptions
+
+225
+00:19:19,820 --> 00:19:26,380
+about facts and then somehow the variables from the fact assumptions move into the equations
+
+226
+00:19:26,380 --> 00:19:29,620
+about the beliefs, how does that happen?
+
+227
+00:19:29,620 --> 00:19:36,300
+Rational expectations is the transportation system for moving facts into minds.
+
+228
+00:19:36,300 --> 00:19:40,820
+That's the way the models are working is they are saying, well, if the true value is A,
+
+229
+00:19:40,820 --> 00:19:47,820
+then on average people believe A. And so that's what's going on.
+
+230
+00:19:47,820 --> 00:19:51,220
+So, stop it.
+
+231
+00:19:51,220 --> 00:19:52,220
+Okay.
+
+232
+00:19:52,220 --> 00:19:54,020
+All right.
+
+233
+00:19:54,020 --> 00:20:00,700
+Now, furthermore, even though it's only in the last 40, 45 years or so that we've seen
+
+234
+00:20:00,700 --> 00:20:01,700
+a lot of this, we've seen a lot of this, we've seen a lot of this, we've seen a lot of this
+
+235
+00:20:01,700 --> 00:20:02,700
+in the last 20, 30 years or so, we've seen a lot of this in the last 20, 30 years or
+
+

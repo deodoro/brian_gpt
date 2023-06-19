@@ -1,0 +1,53 @@
+[
+    {
+        "enunciate": "Suppose an Incumbent infinitely repeats the following entry deterrence game. Suppose that in order to have a reputation for Fighting, an Incumbent must be willing to accept the (In, Fight) result for one turn. (After that turn, he earns the (Out, Fight) payoff forever). Write down the inequality the Incumbent must satisfy to have this reputation. Then solve for the critical value of t.",
+        "answer": "1 04 10 5t tt t",
+        "explanation": "The Incumbent must satisfy the inequality to have a reputation for Fighting: 1 04 10 5t tt t. In this expression, t represents the critical value that must be determined."
+    },
+    {
+        "enunciate": "N players are deciding whether to contribute to a public good. The public good is discrete: it is produced at the optimal level so long as 1 person contributes. Contributing costs the individual who contributes C, and 0 otherwise. If the public good is produced, everyone gets a benefit of B; otherwise they get a benefit of 0. B>C. True, False, and Explain: There are two PSNE, only one of which is Kaldor-Hicks efficient.",
+        "answer": "FALSE",
+        "explanation": "There are N PSNE, and all of them are Kaldor-Hicks efficient. If no one is contributing, then any one player would want to deviate to contribute; if more than one player is contributing, then any one player would want to deviate to not contribute. The only stable equilibria are those where exactly one player contributes. Since B>C, but 1 contribution is all that is necessary, each of these equilibria is Kaldor-Hicks efficient."
+    },
+    {
+        "enunciate": "What would your essay say if you wanted to maximize your payoff in a 100-turn Hawk/Dove game with one other student?",
+        "answer": "The essay would propose playing Dove for turns 1-99, and then using a coin flip on turn 100 to determine whether each player will play Hawk or Dove. The essay would emphasize that following this proposal is both fair and self-interested, and that straying from the plan could result in negative consequences.",
+        "explanation": "The proposal aims to maximize the payoff by maintaining cooperation for the first 99 turns, avoiding negative consequences of a Hawk strategy and ensuring that both players receive high payoffs. In turn 100, the coin flip maintains the cooperative spirit and encourages both players not to betray each other. Following this plan aligns with self-interest and fairness, making it an appealing strategy for a Hawk/Dove game."
+    },
+    {
+        "enunciate": "Consider the following 2-player game: Up Down Left 0,0 0,0 Right 0,0 0,0. True, False, and Explain: This game has 4 PSNE but no MSNE.",
+        "answer": "FALSE",
+        "explanation": "The game has 4 pure strategy Nash equilibria (PSNE), but it also has an infinite number of mixed strategy Nash equilibria (MSNE). Since all payoffs are zero, every combination of probabilities leaves each player indifferent, so they are all considered MSNEs."
+    },
+    {
+        "enunciate": "True, False, and Explain: One piece of empirical evidence against expected utility theory is that people gamble and play lotteries.",
+        "answer": "False",
+        "explanation": "Expected utility theory addresses the question of how people choose between gambles. It suggests that people will select the gamble with the highest expected utility. This can be influenced by an individual's preference for risk. Those who engage in gambles or bets with negative expected value might have a strong inclination towards risk. While it seems that most people are risk-averse, behavioral explanations might account for this phenomenon. Therefore, the fact that people gamble and play lotteries does not necessarily discredit expected utility theory."
+    },
+    {
+        "enunciate": "True, False, and Explain: Moral hazard models predict that the people with the most insurance will take the most risks, but adverse selection models predict the opposite.",
+        "answer": "False",
+        "explanation": "Moral hazard models do predict that, all other things being equal, those with more insurance will take more risks. However, adverse selection does not predict the opposite. Adverse selection models predict that people who are less risky than average will find insurance to be a bad deal and choose not to purchase it, leaving only riskier individuals remaining in the insurance pool. As a result, if the market doesn't completely unravel, only risky people will hold insurance."
+    },
+
+    {
+        "enunciate": "Suppose everyone is risk-preferring. True, False, and Explain: Insurance markets can still exist.",
+        "answer": "True",
+        "explanation": "Insurance markets can still exist in a population of risk-preferring individuals if agents possess different endowments or varying preferences for risk. For example, a risk-preferring individual might be willing to insure others' houses against fire in a community of arsonists. However, this scenario might be unlikely since risk-preferring agents typically don't insure themselves."
+    },
+    {
+        "enunciate": "Consider a risk-neutral farmer with the cost function TC=q^2. The market price is 10 with p=0.7, and 1 with p=0.3. True, False, and Explain: If the farmer has Rational Expectations, his profit-maximizing level of output is 4.",
+        "answer": "False",
+        "explanation": "The marginal cost is MC=2q. The expected price is E(Px)=0.7(10)+0.3(1)=7.3. Thus, to find the profit-maximizing level of output, we need to set MC equal to the expected price which results in 2q=7.3. Solving for q, we find that q* is not equal to 4."
+    },
+    {
+        "enunciate": "This model of belief formation implies that lies are persuasive because people are usually telling the truth.",
+        "answer": "False",
+        "explanation": "This model of belief formation, as proposed by Gilbert, does not rely on an assumption that people are usually truthful. Instead, it requires first accepting the statement as true, allowing System 1 to construct the best possible interpretation, and then testing its implications to determine its validity, which is the job of System 2."
+    },
+    {
+        "enunciate": "Why did the U.S. political system allow the subprime crisis to happen?",
+        "answer": "The U.S. political system allowed the subprime crisis to happen due to moral hazard, which was supported by government policy, unsustainable lending, and borrowing practices, leading to the risk being passed onto the general public.",
+        "explanation": "Using a moral hazard argument, we can understand that government policy contributed to the subprime crisis by supporting unsustainable lending and borrowing practices. This allowed banks to take risks with sub-optimal borrowers and buyers to purchase houses they couldn't truly afford. Additionally, agencies like Fannie Mae and Freddie Mac were willing to buy all mortgage loans, removing the risk from lenders. When the consequences of these actions manifested as defaults, the government shifted the risk to the public through taxes and inflation. Another possible explanation is irrational rationality, where the high cost of understanding the bubble led to systemic bias, with the American Dream being a contributing factor."
+    }
+]

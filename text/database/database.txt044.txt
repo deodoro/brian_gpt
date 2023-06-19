@@ -1,0 +1,23 @@
+5.  Consider the following 2 -player game:  
+ 
+ Up Down  
+Left  10,0  10,0  
+Right  0,10  0,10 
+ 
+True, False, and Explain:   This game has no  PSNE and one  MSNE.  
+ 
+FALSE.  Since Left is strictly dominant for Player 1, and Up and Down have equa l payoffs for 
+Player 2 , there are two PSNE: (Left, Up), and (Left, Down).  But there are also infinitely many 
+MSNE, where Player 1 plays L with p=1, and Player 2 plays Up with any  probability.  
+ 
+Questions 6 and 7  refer to the following information.  
+ 
+Suppose  that two players play an Ultimatum game where Player 1 divides a 
+payoff of 10 between himself and Player 2.  Then the players play the following 
+Hawk -Dove game ONCE.  Players do not discount the future ( β=1).  
+ 
+ Hawk  Dove  
+Hawk  -10, -10 5,0  
+Dove  0,5  3,3  
+ 
+ 

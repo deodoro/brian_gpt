@@ -1,0 +1,39 @@
+1.  You and a friend both read the same article in the AER  finding that the 
+minimum wage does not increase unemployment .  You both agree that P(article 
+finds minimum wage raises unemployment | the minimum wage r eally does raise 
+unemployment)=.75, and P(article finds minimum wage raises unemployment | 
+the minimum wage really does not raise unemployment)=.25.  But the two of you 
+DISAGREE in your final estimates: your P(minimum wage raises unemployment| 
+article's fi ndings)=.9, while your friend sets the same probability at .45.  
+ 
+True, False, and Explain:  Your prior probability that the minimum wage increases 
+unemployment must be exactly double your friend's prior probability that the 
+minimum wage increases unemployme nt. 
+ 
+FALSE.  Let A be "minimum wage raises unemployment" and B be "AER article finds that 
+minimum wage does not raise unemployment."  We want to solve for P(A) knowing P(A|B), 
+P(~B|A), and P(~B|~A).  P(~B|A)=1 -P(B|A), so using Bayes' Law, we can calculate P(A) for me 
+and my friend:  
+ 
+For me:  
+))( 1(75.)( 25.)( 25.9.AP APAP
+ , implying my P(A)=.964  
+ 
+For my friend: 
+))( 1(75.)( 25.)( 25.45.AP APAP
+ , implying my friend's P(A)=.771  
+ 
+By inspection, .964<2*.771.  
+ 
+Most answers treated .75 as P(B|A) instead of P(~B|A).  But the text gives you P(article finds 
+minimum wage RAISES unemployment) conditional on various things, but the article in fact facts 
+that the minimum wage does NOT raise unemployment!  One sign that this answer is wrong is 
+that it implies that we get more  confident th at the minimum wage causes unemployment after we 
+see conflicting evidence!  
+ 
+ 
+Problems 2 and 3 refer to the following information.  
+ 
+60% of all agents in an economy have U=ln x + ln y, and the other 40% have 
+U=2 ln x + ln y.  All agents start with 1 unit of x and 1 unit of y.  
+

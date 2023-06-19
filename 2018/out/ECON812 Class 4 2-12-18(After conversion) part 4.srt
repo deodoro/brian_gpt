@@ -1,0 +1,1269 @@
+1
+00:00:00,000 --> 00:00:06,000
+But I don't discount the future, and then you can punish me by one forever after that.
+
+2
+00:00:06,000 --> 00:00:09,000
+Would I ever want to do that if I didn't discount the future?
+
+3
+00:00:09,000 --> 00:00:10,000
+No.
+
+4
+00:00:10,000 --> 00:00:11,000
+No.
+
+5
+00:00:11,000 --> 00:00:16,000
+Because after a billion and one turns, I will be worse off.
+
+6
+00:00:16,000 --> 00:00:21,000
+And if I don't discount the future, then I will just say, well, I've got to get a billion
+
+7
+00:00:21,000 --> 00:00:25,000
+right now, but I'm going to have a lower payoff overall, so I won't do it.
+
+8
+00:00:25,000 --> 00:00:30,000
+On the other hand, if you discount future payoffs, then maybe it's going to make sense
+
+9
+00:00:30,000 --> 00:00:31,000
+later.
+
+10
+00:00:31,000 --> 00:00:35,000
+So now we're going to see whether this will be a Nash equilibrium, because remember, saying
+
+11
+00:00:35,000 --> 00:00:39,000
+that there could be a Nash equilibrium is very different from showing that there actually
+
+12
+00:00:39,000 --> 00:00:40,000
+will be.
+
+13
+00:00:40,000 --> 00:00:41,000
+It just means that we need to check.
+
+14
+00:00:41,000 --> 00:00:42,000
+We need to check.
+
+15
+00:00:42,000 --> 00:00:45,000
+Is there actually going to be a Nash equilibrium or not?
+
+16
+00:00:45,000 --> 00:00:46,000
+Is that clear?
+
+17
+00:00:46,000 --> 00:00:51,000
+So everybody understand the rule of difference between saying there is an equilibrium and
+
+18
+00:00:51,000 --> 00:00:52,000
+saying we have to check?
+
+19
+00:00:52,000 --> 00:00:53,000
+Yes.
+
+20
+00:00:53,000 --> 00:00:56,000
+We do have to check.
+
+21
+00:00:56,000 --> 00:00:58,000
+So we've got these payoffs here.
+
+22
+00:00:58,000 --> 00:01:00,000
+So we need these payoffs here.
+
+23
+00:01:00,000 --> 00:01:03,000
+So cooperative payoffs are 6, or we are going to say 5.
+
+24
+00:01:03,000 --> 00:01:09,000
+So if you cooperate, then you are going to get the infinite sum from period t equals 0
+
+25
+00:01:09,000 --> 00:01:13,000
+to infinity of beta raised to the period t times 5.
+
+26
+00:01:13,000 --> 00:01:20,000
+And remember, this is just nice notation for saying you're going to get 5 plus 5 beta plus
+
+27
+00:01:20,000 --> 00:01:25,000
+5 beta squared plus something to the infinity.
+
+28
+00:01:25,000 --> 00:01:30,000
+Now, do you remember the time in your mathematical history, your mathematical biography, where
+
+29
+00:01:30,000 --> 00:01:34,000
+you found out that infinite sums can sum to finite things?
+
+30
+00:01:34,000 --> 00:01:35,000
+Remember hearing about this?
+
+31
+00:01:35,000 --> 00:01:38,000
+Did you have a math teacher who told you about the paradox of Zeno?
+
+32
+00:01:38,000 --> 00:01:42,000
+Well, you'd say, look, there's a turtle who covers half the floor.
+
+33
+00:01:42,000 --> 00:01:46,000
+First he walks over half the room, and then he walks over half of half, and then half
+
+34
+00:01:46,000 --> 00:01:48,000
+of half of half, and so on forever.
+
+35
+00:01:48,000 --> 00:01:52,000
+And therefore, Zeno argued you could never actually cross a room.
+
+36
+00:01:52,000 --> 00:01:55,000
+And then your geometry teacher may have said, actually, you can cross a room.
+
+37
+00:01:55,000 --> 00:01:56,000
+Here's the proof of that.
+
+38
+00:01:56,000 --> 00:01:59,000
+So that the turtle's movement sums to 1.
+
+39
+00:01:59,000 --> 00:02:00,000
+Perfect.
+
+40
+00:02:00,000 --> 00:02:02,000
+So let me get my intuitively.
+
+41
+00:02:02,000 --> 00:02:07,000
+The reason why this works is that while there's an infinite number of lengths between you
+
+42
+00:02:07,000 --> 00:02:12,000
+and this door, you can cover them at eventually an infinite speed.
+
+43
+00:02:12,000 --> 00:02:16,000
+And so you multiply an infinite number times an infinite speed, and you actually get a
+
+44
+00:02:16,000 --> 00:02:18,000
+finite time.
+
+45
+00:02:18,000 --> 00:02:20,000
+Amazing.
+
+46
+00:02:20,000 --> 00:02:26,000
+Ever see the proof that 0.333, 0.999 forever equals 1 exactly?
+
+47
+00:02:26,000 --> 00:02:30,000
+And it's not just a little bit less than 1, but it's in fact exactly equal to 1?
+
+48
+00:02:30,000 --> 00:02:31,000
+That one's weird.
+
+49
+00:02:31,000 --> 00:02:32,000
+It's pretty obvious.
+
+50
+00:02:32,000 --> 00:02:36,000
+Remember, 0.333 forever is definitely equal to 1 third exactly.
+
+51
+00:02:36,000 --> 00:02:40,000
+So of course, 3 times that would have 3 times 1 third is 1, right?
+
+52
+00:02:40,000 --> 00:02:43,000
+All right, so anyway, back to the present.
+
+53
+00:02:43,000 --> 00:02:47,000
+So this is just another one of these infinite sums that you've probably seen a bunch of times.
+
+54
+00:02:47,000 --> 00:02:52,000
+And though there may seem like something paradoxical about it, there's nothing paradoxical about it
+
+55
+00:02:52,000 --> 00:02:54,000
+when you really think about it.
+
+56
+00:02:54,000 --> 00:02:57,000
+All right, and yes, you go through the formula for the infinite sum.
+
+57
+00:02:57,000 --> 00:03:03,000
+This whole thing comes out to 5 over 1 minus beta is what that sums to.
+
+58
+00:03:03,000 --> 00:03:05,000
+5 over 1 minus beta.
+
+59
+00:03:05,000 --> 00:03:09,000
+If beta were 1, then it would be, then this would sum to infinity, right?
+
+60
+00:03:09,000 --> 00:03:13,000
+Which means beta can't really be 1.
+
+61
+00:03:13,000 --> 00:03:14,000
+It's okay.
+
+62
+00:03:14,000 --> 00:03:16,000
+All right, now, what happens if you do an effect?
+
+63
+00:03:16,000 --> 00:03:21,000
+If you do an effect, you get 6 immediately, but then afterwards you are punished for eternity.
+
+64
+00:03:21,000 --> 00:03:28,000
+And when you are punished for eternity, you are then going to earn from periods 1 to infinity.
+
+65
+00:03:28,000 --> 00:03:32,000
+No, because period 0 you get your 6, so that is where you get the temptation payoff.
+
+66
+00:03:32,000 --> 00:03:33,000
+You get that 6.
+
+67
+00:03:33,000 --> 00:03:39,000
+But then after that, you are going to get beta raised to t times the punishment payoff,
+
+68
+00:03:39,000 --> 00:03:41,000
+and the punishment payoff is over here, right?
+
+69
+00:03:41,000 --> 00:03:44,000
+This is what happens when nobody cooperates.
+
+70
+00:03:44,000 --> 00:03:47,000
+So, times that.
+
+71
+00:03:47,000 --> 00:03:54,000
+So to find out whether cooperation is in fact, or cooperation enforced by trigger strategies,
+
+72
+00:03:54,000 --> 00:04:01,000
+is in fact an equilibrium, we need to see, well, is this thing going to be greater than or equal to that thing?
+
+73
+00:04:01,000 --> 00:04:09,000
+All we need to do is write it out.
+
+74
+00:04:09,000 --> 00:04:18,000
+So we've got 5 over 1 minus beta, greater than or equal to 6, plus beta over 1 minus beta.
+
+75
+00:04:18,000 --> 00:04:21,000
+And again, when you are wondering why is it 1 over 1 minus beta,
+
+76
+00:04:21,000 --> 00:04:25,000
+it's because here we start the summation of 1 and there we started at 0.
+
+77
+00:04:25,000 --> 00:04:28,000
+Right, you remember, you guys remember how that works?
+
+78
+00:04:28,000 --> 00:04:33,000
+So, it's actually pretty easy to see, so, we can imagine that, you know, so, if,
+
+79
+00:04:33,000 --> 00:04:38,000
+so, here we've got, you know, the sum from 0 to infinity is this.
+
+80
+00:04:38,000 --> 00:04:43,000
+If we had the sum of the same thing from 1 to infinity,
+
+81
+00:04:43,000 --> 00:04:49,000
+then it would be equal to 5 beta plus 5 beta squared, plus so on.
+
+82
+00:04:49,000 --> 00:04:54,000
+So you see how all we've actually done, if we go from t equals 1 to infinity,
+
+83
+00:04:54,000 --> 00:04:59,000
+it's exactly the same as from 0 to infinity, so we multiply everything through by beta.
+
+84
+00:04:59,000 --> 00:05:04,000
+Right, we basically delay satisfaction for one turn for all eternity.
+
+85
+00:05:04,000 --> 00:05:09,000
+So we shove eternity one turn into the future forever.
+
+86
+00:05:09,000 --> 00:05:13,000
+All right, and when you go through with this, then we can go and solve,
+
+87
+00:05:13,000 --> 00:05:15,000
+and I am saying, like, when is this true?
+
+88
+00:05:15,000 --> 00:05:17,000
+So we do this question mark over, so when is that true?
+
+89
+00:05:17,000 --> 00:05:23,000
+And it turns out it's true when beta is greater than or equal to 1 fifth.
+
+90
+00:05:23,000 --> 00:05:27,000
+As I said, if you didn't have discounting, then cooperation is always a no-brainer,
+
+91
+00:05:27,000 --> 00:05:29,000
+and it's certainly intellectually interesting.
+
+92
+00:05:29,000 --> 00:05:33,000
+So if you didn't discount the future at all, and you live forever,
+
+93
+00:05:33,000 --> 00:05:38,000
+then what comes around always goes around, right?
+
+94
+00:05:38,000 --> 00:05:45,000
+Whereas if you discount the future, then it may be that you value the future so little
+
+95
+00:05:45,000 --> 00:05:48,000
+that you actually do profit by betraying.
+
+96
+00:05:48,000 --> 00:05:55,000
+Now, questions, questions?
+
+97
+00:05:55,000 --> 00:05:57,000
+I know that no one is tired.
+
+98
+00:05:57,000 --> 00:06:01,000
+Therefore, the only reason for silence could be complete intellectual conviction
+
+99
+00:06:01,000 --> 00:06:03,000
+and full comprehension, right?
+
+100
+00:06:03,000 --> 00:06:04,000
+Okay, good.
+
+101
+00:06:04,000 --> 00:06:05,000
+All right.
+
+102
+00:06:05,000 --> 00:06:08,000
+Okay, now, are other equilibria sustainable?
+
+103
+00:06:08,000 --> 00:06:11,000
+The answer is absolutely.
+
+104
+00:06:11,000 --> 00:06:13,000
+Of course other equilibria are sustainable.
+
+105
+00:06:13,000 --> 00:06:18,000
+So if you can get cooperation by threatening the worst possible punishment,
+
+106
+00:06:18,000 --> 00:06:23,000
+what if you threaten the worst possible punishment with just a little bit more forgiveness,
+
+107
+00:06:23,000 --> 00:06:26,000
+something that's just a little bit less bad than the worst possible punishment?
+
+108
+00:06:26,000 --> 00:06:30,000
+Then you'll be also going to get equilibrium, right?
+
+109
+00:06:30,000 --> 00:06:35,000
+So if you make the punishment a little bit milder, what will happen to the critical value beta?
+
+110
+00:06:35,000 --> 00:06:39,000
+Punishment is a little milder, so what happens to the critical beta?
+
+111
+00:06:39,000 --> 00:06:41,000
+It goes up, right?
+
+112
+00:06:41,000 --> 00:06:48,000
+So the harsher the punishment is, the easier it is to get an inpatient person to cooperate with you.
+
+113
+00:06:48,000 --> 00:06:56,000
+And then as you make it milder, then the harder it is to get the inpatient person to cooperate with you.
+
+114
+00:06:56,000 --> 00:07:01,000
+So if you're dealing with a child who can barely think about an hour in the future,
+
+115
+00:07:01,000 --> 00:07:05,000
+then if you really want to scare that kid, then you need to go and threaten something really harsh.
+
+116
+00:07:05,000 --> 00:07:08,000
+On the other hand, if the kid's a few years older, where he cares more about the future,
+
+117
+00:07:08,000 --> 00:07:11,000
+then you can threaten him with a milder punishment.
+
+118
+00:07:11,000 --> 00:07:14,000
+So like a three-year-old, you have to say,
+
+119
+00:07:14,000 --> 00:07:19,000
+if you don't punish me, there will be absolutely no candy. None.
+
+120
+00:07:19,000 --> 00:07:26,000
+And then that might be enough to get the little kid, the other kid, to say, no candy ever.
+
+121
+00:07:26,000 --> 00:07:31,000
+Whereas if the kid were older, so the kid were like a ten-year-old,
+
+122
+00:07:31,000 --> 00:07:34,000
+then you might say, no candy for a week.
+
+123
+00:07:34,000 --> 00:07:39,000
+Right? And he's like, hmm, a week? Well, that's not nearly as bad as what you threatened when I was little.
+
+124
+00:07:39,000 --> 00:07:42,000
+And you always scared me, so I never really did that.
+
+125
+00:07:42,000 --> 00:07:46,000
+Of course, there is the problem that in the real world, if you go and make extreme threats,
+
+126
+00:07:46,000 --> 00:07:48,000
+and then you don't carry them out, then the kid's in a da.
+
+127
+00:07:48,000 --> 00:07:52,000
+So this person is a sucker. This person cannot be believed.
+
+128
+00:07:52,000 --> 00:07:55,000
+And the person is therefore ripe for exploitation.
+
+129
+00:07:55,000 --> 00:08:00,000
+And this is someone that I should go and direct all of my mischief towards,
+
+130
+00:08:00,000 --> 00:08:04,000
+because the person does not properly fight back.
+
+131
+00:08:04,000 --> 00:08:09,000
+If you think little kids can't figure this stuff out, a lot of them are really good at this.
+
+132
+00:08:09,000 --> 00:08:16,000
+So there are some kids that are really nice, and just don't want to go and take advantage, but here are a few.
+
+133
+00:08:16,000 --> 00:08:19,000
+Actually, I don't know.
+
+134
+00:08:19,000 --> 00:08:21,000
+All right. On questions?
+
+135
+00:08:21,000 --> 00:08:24,000
+So can mild kids be killed? Are there more equilibria?
+
+136
+00:08:24,000 --> 00:08:31,000
+The answer is absolutely, but we just have to keep raising the value of beta in order for cooperation to work.
+
+137
+00:08:31,000 --> 00:08:38,000
+Now, there's something called, strangely, the Foucault theorem,
+
+138
+00:08:38,000 --> 00:08:45,000
+which says that if cooperation is sustainable at all, there will normally be an infinite number of equilibria.
+
+139
+00:08:45,000 --> 00:08:50,000
+And it comes down to this. So suppose that we're not actually at this exact threshold,
+
+140
+00:08:50,000 --> 00:08:53,000
+so beta doesn't exactly equal one-fifth.
+
+141
+00:08:53,000 --> 00:08:58,000
+In that case, if we get cooperation, so the critical value is like a sixth,
+
+142
+00:08:58,000 --> 00:09:01,000
+but we could, let's see, let's load it up.
+
+143
+00:09:01,000 --> 00:09:03,000
+Yeah, the critical value is a sixth.
+
+144
+00:09:03,000 --> 00:09:07,000
+Then we'll have an infinity of punishments, everything that's consistent with a critical value
+
+145
+00:09:07,000 --> 00:09:10,000
+ranging from a beta being a sixth all the way up to a fifth.
+
+146
+00:09:10,000 --> 00:09:16,000
+So basically, they'll be on the line from beta equals zero to beta equals one.
+
+147
+00:09:16,000 --> 00:09:22,000
+So if, say, we start off at, say, beta equals one-fifth.
+
+148
+00:09:22,000 --> 00:09:29,000
+So if, for example, beta equals one-sixth is enough, then we can say actually all of that,
+
+149
+00:09:29,000 --> 00:09:33,000
+we'll have cooperation, actually we'll have cooperation everywhere above there,
+
+150
+00:09:33,000 --> 00:09:35,000
+we'll have cooperation all those other places.
+
+151
+00:09:35,000 --> 00:09:40,000
+And so basically for each of these points, there are other equilibria
+
+152
+00:09:40,000 --> 00:09:44,000
+where you can make the punishment milder and still make it work.
+
+153
+00:09:44,000 --> 00:09:46,000
+Now, I'm wondering why they call it the Foucault theorem.
+
+154
+00:09:46,000 --> 00:09:50,000
+The Foucault theorem is famous because normally in science,
+
+155
+00:09:50,000 --> 00:09:54,000
+there are arguments where multiple people claim that they came up with an idea.
+
+156
+00:09:54,000 --> 00:09:57,000
+Probably the most common thing is people just accept that one person came up with it.
+
+157
+00:09:57,000 --> 00:10:01,000
+But the next most common thing is people fight for priority.
+
+158
+00:10:01,000 --> 00:10:05,000
+So like who really invented calculus, Newton or Leibniz?
+
+159
+00:10:05,000 --> 00:10:07,000
+So there's a fight for priority.
+
+160
+00:10:07,000 --> 00:10:10,000
+The Foucault theorem is weird because the theorem became known,
+
+161
+00:10:10,000 --> 00:10:14,000
+but there was no person to whom it was attributed.
+
+162
+00:10:14,000 --> 00:10:16,000
+Just like a folk song, no one knows who wrote a folk song.
+
+163
+00:10:16,000 --> 00:10:23,000
+The Foucault theorem is a theorem in game theory where actually it is like it has never really been,
+
+164
+00:10:23,000 --> 00:10:27,000
+there was no one who came forward and claimed to be the originator.
+
+165
+00:10:27,000 --> 00:10:30,000
+And so it became widely understood.
+
+166
+00:10:30,000 --> 00:10:35,000
+And then of course, ultimately people did get papers proving the Foucault theorem,
+
+167
+00:10:35,000 --> 00:10:37,000
+things like that, or different proofs of the Foucault theorem.
+
+168
+00:10:37,000 --> 00:10:40,000
+But the general idea was known well before.
+
+169
+00:10:40,000 --> 00:10:46,000
+So just saying funny, crazy history of thoughts, which as far as I know has never occurred any other time.
+
+170
+00:10:46,000 --> 00:10:49,000
+So now what happens out of all the endless possibilities?
+
+171
+00:10:49,000 --> 00:10:54,000
+So like if the critical value is here, and all of these are consistent with that calibrity,
+
+172
+00:10:54,000 --> 00:10:56,000
+what's really going to happen?
+
+173
+00:10:56,000 --> 00:10:59,000
+Again, so probably Foucault points matter a lot.
+
+174
+00:10:59,000 --> 00:11:01,000
+Foucault points matter a lot.
+
+175
+00:11:01,000 --> 00:11:06,000
+So for example, the Foucault point of I'll never cooperate with you again if you betray me
+
+176
+00:11:06,000 --> 00:11:09,000
+is pretty Foucault in a lot of ways, right?
+
+177
+00:11:09,000 --> 00:11:17,000
+So, most of you are a little young for this, but how many people know marriages that were destroyed over one act of adultery?
+
+178
+00:11:17,000 --> 00:11:19,000
+Yeah.
+
+179
+00:11:19,000 --> 00:11:20,000
+One single case.
+
+180
+00:11:20,000 --> 00:11:22,000
+And it's not even a dispute.
+
+181
+00:11:22,000 --> 00:11:26,000
+Neither side actually says that one was proof of a bunch of others.
+
+182
+00:11:26,000 --> 00:11:27,000
+Like one thing.
+
+183
+00:11:27,000 --> 00:11:28,000
+And that's it.
+
+184
+00:11:28,000 --> 00:11:31,000
+So trigger strategies are used in the real world.
+
+185
+00:11:31,000 --> 00:11:35,000
+And you can probably think of a bunch of other things that would end marriages with one action.
+
+186
+00:11:35,000 --> 00:11:37,000
+Just murdered one guy.
+
+187
+00:11:37,000 --> 00:11:42,000
+Didn't even want to hear my story of why he never let it come in.
+
+188
+00:11:42,000 --> 00:11:45,000
+So that's what I might lead to.
+
+189
+00:11:45,000 --> 00:11:47,000
+So you just make a list.
+
+190
+00:11:47,000 --> 00:11:49,000
+Punched my mother one time.
+
+191
+00:11:49,000 --> 00:11:53,000
+And then he wouldn't have anything to do with her, though I refuse to have anything to do with her.
+
+192
+00:11:53,000 --> 00:11:56,000
+So trigger strategies, there is some logic to it.
+
+193
+00:11:56,000 --> 00:11:59,000
+And in the real world, we do see them occurring sometimes.
+
+194
+00:11:59,000 --> 00:12:01,000
+So that's one.
+
+195
+00:12:01,000 --> 00:12:06,000
+But as we've seen, there are other Foucault ones, such as eye for eye.
+
+196
+00:12:06,000 --> 00:12:10,000
+So you did a bad thing to me, I get to do the same bad thing back to you.
+
+197
+00:12:10,000 --> 00:12:11,000
+So let's see.
+
+198
+00:12:11,000 --> 00:12:13,000
+This is probably mostly among guys.
+
+199
+00:12:13,000 --> 00:12:17,000
+But it's like, look, you punch a guy and then how can you make it right?
+
+200
+00:12:17,000 --> 00:12:19,000
+Fine.
+
+201
+00:12:19,000 --> 00:12:20,000
+You can do what?
+
+202
+00:12:20,000 --> 00:12:22,000
+I'll just stand here while you do what to me?
+
+203
+00:12:22,000 --> 00:12:24,000
+Punch me.
+
+204
+00:12:24,000 --> 00:12:26,000
+Sometimes it has to be in exactly the same location.
+
+205
+00:12:26,000 --> 00:12:29,000
+Like I punch you in the arm so you get to punch me in the arm now.
+
+206
+00:12:29,000 --> 00:12:31,000
+And then we're friends again.
+
+207
+00:12:31,000 --> 00:12:38,000
+So that could also be a Foucault punch.
+
+208
+00:12:38,000 --> 00:12:39,000
+Let's see.
+
+209
+00:12:39,000 --> 00:12:46,000
+So then there's a famous series of experiments, generally known as the tit for tat experiments.
+
+210
+00:12:46,000 --> 00:12:52,000
+So this was a prisoner's dilemma tournament, but it's a repeated prisoner's dilemma tournament,
+
+211
+00:12:52,000 --> 00:12:58,000
+where people go and enter a strategy for how they're going to play a repeated prisoner's dilemma.
+
+212
+00:12:58,000 --> 00:12:59,000
+And you can put in anything.
+
+213
+00:12:59,000 --> 00:13:03,000
+So you can put in your strategy is never cooperate, but your strategy is always cooperate.
+
+214
+00:13:03,000 --> 00:13:06,000
+There's lots of different calls, so you can put in trigger strategies.
+
+215
+00:13:06,000 --> 00:13:10,000
+But the strategy that actually won this tournament, and again, what do I mean by won a tournament?
+
+216
+00:13:10,000 --> 00:13:14,000
+I mean a bunch of actual human beings competed.
+
+217
+00:13:14,000 --> 00:13:20,000
+They broke their strategies down, and then there was a round robin where every strategy played every other strategy.
+
+218
+00:13:20,000 --> 00:13:23,000
+And then we found a winner.
+
+219
+00:13:23,000 --> 00:13:29,000
+So in the original tournament, the winning strategy in the repeated prisoner's dilemma was tit for tat,
+
+220
+00:13:29,000 --> 00:13:37,000
+which means in turn one cooperate, and then in all subsequent turns do whatever your opponent did last turn.
+
+221
+00:13:37,000 --> 00:13:40,000
+So notice, is tit for tat a trigger strategy?
+
+222
+00:13:40,000 --> 00:13:41,000
+No.
+
+223
+00:13:41,000 --> 00:13:42,000
+Not even close.
+
+224
+00:13:42,000 --> 00:13:46,000
+Tit for tat just says if you go and betray me once, then I will betray you once.
+
+225
+00:13:46,000 --> 00:13:50,000
+And if you get back and start cooperating again, then I'll get back and start cooperating again.
+
+226
+00:13:50,000 --> 00:13:56,000
+And so tit for tat actually won, I think there was like 20 or 30 different strategies, and this one actually won.
+
+227
+00:13:56,000 --> 00:13:58,000
+Now is it a theorem that tit for tat has to win?
+
+228
+00:13:58,000 --> 00:13:59,000
+No.
+
+229
+00:13:59,000 --> 00:14:07,000
+This is an experiment showing that it did in fact win, but there's something compelling about it because it was open.
+
+230
+00:14:07,000 --> 00:14:12,000
+Anyone who wanted to enter the tournament could enter with any strategy they want, and then tit for tat won.
+
+231
+00:14:12,000 --> 00:14:14,000
+But here's what's really impressive.
+
+232
+00:14:14,000 --> 00:14:22,000
+The experimenters redid the tournament after reporting all the results, full publicity, and then there were more strategies entered.
+
+233
+00:14:22,000 --> 00:14:28,000
+So I think it was something like 50 or 60 strategies were entered, and tit for tat won the second round.
+
+234
+00:14:28,000 --> 00:14:34,000
+And that's really big because then it's like everyone is thinking, well, tit for tat is the strategy to beat.
+
+235
+00:14:34,000 --> 00:14:39,000
+And so I will find something ideally suited to beat tit for tat.
+
+236
+00:14:39,000 --> 00:14:44,000
+But the problem was that while people were able to come up with strategies to beat tit for tat,
+
+237
+00:14:44,000 --> 00:14:50,000
+they did so much worse against the other strategies, that tit for tat still prevailed in the tournament.
+
+238
+00:14:50,000 --> 00:14:56,000
+My understanding is that Gordon Tullock was in the tournament, and he was the guy who just put in the always betray strategy.
+
+239
+00:14:56,000 --> 00:15:11,000
+So why don't we go and we'll take our 10 minute break now, and then resume.
+
+240
+00:15:11,000 --> 00:15:22,000
+So given that the focus here says that there will normally be an infinity of equilibria, which one will actually happen?
+
+241
+00:15:22,000 --> 00:15:28,000
+Focal points give us a lot of guidance. It's hard to formally model, so again, in order to actually really talk about this,
+
+242
+00:15:28,000 --> 00:15:34,000
+you need to be someone who combines econ, psychology, and sociology, which not that many people want to do.
+
+243
+00:15:34,000 --> 00:15:36,000
+So you have to read three whole fields.
+
+244
+00:15:36,000 --> 00:15:41,000
+I can imagine the burden on someone who wants to figure out what's going to happen in the world,
+
+245
+00:15:41,000 --> 00:15:43,000
+and have to read three different areas.
+
+246
+00:15:43,000 --> 00:15:48,000
+My view is if you really want to understand the world, you should read in all these areas.
+
+247
+00:15:48,000 --> 00:15:52,000
+So far I don't think any students have ever taken me up on this advice.
+
+248
+00:15:52,000 --> 00:15:56,000
+Of course that means the opposite is going to happen now, with the Gamber's Fallacy.
+
+249
+00:15:56,000 --> 00:16:01,000
+If I fail so far, then my good luck is coming in dice, right?
+
+250
+00:16:01,000 --> 00:16:03,000
+So yeah, of course.
+
+251
+00:16:03,000 --> 00:16:07,000
+Moving on to reputation.
+
+252
+00:16:07,000 --> 00:16:13,000
+It's very common for economists who see firms appearing to lose money on purpose to say,
+
+253
+00:16:13,000 --> 00:16:16,000
+ah, well the reason they're doing it is because of reputation.
+
+254
+00:16:16,000 --> 00:16:19,000
+And you might ask, does that make sense?
+
+255
+00:16:19,000 --> 00:16:24,000
+Can reputational models be rationalized in the same way that we're doing?
+
+256
+00:16:24,000 --> 00:16:30,000
+So rationalize using the key to play, and the answer, as you might guess, is yes.
+
+257
+00:16:30,000 --> 00:16:35,000
+You can actually rationalize profit-losing behavior as, in the short run,
+
+258
+00:16:35,000 --> 00:16:40,000
+profit-losing behavior as part of a long-run profit-enhancing strategy.
+
+259
+00:16:40,000 --> 00:16:46,000
+So suppose that when a store decides to cheat a customer,
+
+260
+00:16:46,000 --> 00:16:49,000
+customers decide whether to buy or not.
+
+261
+00:16:49,000 --> 00:16:52,000
+So we can have a little model like this.
+
+262
+00:16:52,000 --> 00:16:57,000
+So we can have a model where firms either cheat or don't,
+
+263
+00:16:57,000 --> 00:17:01,000
+and then customers either buy or don't.
+
+264
+00:17:01,000 --> 00:17:03,000
+We can have a payoff something like this.
+
+265
+00:17:03,000 --> 00:17:07,000
+So if the firm cheats and the customer buys and the firm gets a nice profit,
+
+266
+00:17:07,000 --> 00:17:09,000
+and the customer's worse off and they get bought,
+
+267
+00:17:09,000 --> 00:17:14,000
+if the firm doesn't cheat and the customer buys, then they both get some surplus.
+
+268
+00:17:14,000 --> 00:17:18,000
+And if no purchase happens, then no one gets any surplus.
+
+269
+00:17:18,000 --> 00:17:20,000
+So you get something like this.
+
+270
+00:17:20,000 --> 00:17:25,000
+And if you then just apply weak dominance, it looks like the store owner will always cheat.
+
+271
+00:17:25,000 --> 00:17:27,000
+So under weak dominance, the store owner will always cheat,
+
+272
+00:17:27,000 --> 00:17:32,000
+because if the customer is not going to buy anyway, then he'll just get a buy, he gets zero.
+
+273
+00:17:32,000 --> 00:17:35,000
+But if he's going to buy, then when you cheat, you get ten instead of five.
+
+274
+00:17:35,000 --> 00:17:39,000
+So it seems like people will always cheat, right?
+
+275
+00:17:39,000 --> 00:17:43,000
+But suppose the customers can condition their purchasing behavior
+
+276
+00:17:43,000 --> 00:17:46,000
+based upon whether they've seen you cheat in the past.
+
+277
+00:17:46,000 --> 00:17:49,000
+And notice, you don't even need to have been the person who has cheated.
+
+278
+00:17:49,000 --> 00:17:55,000
+It can just be that there's a big line of customers, each of whom goes and buys one item.
+
+279
+00:17:55,000 --> 00:18:01,000
+But each person can go and see whether the last person got cheated or not.
+
+280
+00:18:01,000 --> 00:18:04,000
+And then they decide, well, do I feel like buying from you or not?
+
+281
+00:18:04,000 --> 00:18:09,000
+Or, of course, in a Walmart setting, you could look at the reviews,
+
+282
+00:18:09,000 --> 00:18:12,000
+and if the reviews are worse than, say, 90 percent, then you don't buy.
+
+283
+00:18:12,000 --> 00:18:15,000
+So something like that.
+
+284
+00:18:15,000 --> 00:18:17,000
+So anyway, suppose customers have the option of playing buy,
+
+285
+00:18:17,000 --> 00:18:19,000
+and they don't pass cheating, and don't otherwise,
+
+286
+00:18:19,000 --> 00:18:22,000
+and then we can see whether we have an equilibrium.
+
+287
+00:18:22,000 --> 00:18:25,000
+And since I put zeros in here, the math is easy.
+
+288
+00:18:25,000 --> 00:18:31,000
+So basically, you can either go and get the infinite sum of fives.
+
+289
+00:18:31,000 --> 00:18:34,000
+You can get the don't cheat, buy, pay off forever.
+
+290
+00:18:34,000 --> 00:18:39,000
+Or you can rip someone off once and then no one ever buys from you again.
+
+291
+00:18:39,000 --> 00:18:41,000
+And then you get 10.
+
+292
+00:18:41,000 --> 00:18:43,000
+And you go through, and if you work this out,
+
+293
+00:18:43,000 --> 00:18:47,000
+it looks like the critical value of beta, beta star, is going to be equal to.5.
+
+294
+00:18:47,000 --> 00:18:52,000
+So as long as beta is.5 or higher, cooperation will be possible.
+
+295
+00:18:52,000 --> 00:18:54,000
+So this is the model.
+
+296
+00:18:54,000 --> 00:18:57,000
+Now, the applications of reputation are truly endless.
+
+297
+00:18:57,000 --> 00:19:02,000
+Right here, I'm going to raise the status of Professor Dan Klein.
+
+298
+00:19:02,000 --> 00:19:05,000
+So what is Dan Klein?
+
+299
+00:19:05,000 --> 00:19:08,000
+A visionary is what he is.
+
+300
+00:19:08,000 --> 00:19:10,000
+So he didn't quite invent the Internet.
+
+301
+00:19:10,000 --> 00:19:14,000
+But before Internet commerce was anything noticeable,
+
+302
+00:19:14,000 --> 00:19:19,000
+Dan Klein actually went and edited a whole book called Reputation,
+
+303
+00:19:19,000 --> 00:19:23,000
+writing a subtitle like Studies in the Voluntary Elicitation of Good Behavior.
+
+304
+00:19:23,000 --> 00:19:26,000
+And in the book, he just put together all of the main evidence
+
+305
+00:19:26,000 --> 00:19:28,000
+on what reputation can accomplish.
+
+306
+00:19:28,000 --> 00:19:31,000
+And he said that reputation can do a lot of things
+
+307
+00:19:31,000 --> 00:19:35,000
+that many economists at the time would have said it could not do.
+
+308
+00:19:35,000 --> 00:19:38,000
+And in particular, if you go and read it now,
+
+309
+00:19:38,000 --> 00:19:40,000
+it seems like he's kind of obvious.
+
+310
+00:19:40,000 --> 00:19:42,000
+Like, wasn't he just writing about e-commerce?
+
+311
+00:19:42,000 --> 00:19:45,000
+No, because there basically was no e-commerce at the time.
+
+312
+00:19:45,000 --> 00:19:47,000
+He just wrote a book about what could happen,
+
+313
+00:19:47,000 --> 00:19:50,000
+and then something amazing happened.
+
+314
+00:19:50,000 --> 00:19:54,000
+What an economist said could happen, that didn't exist at the time, did occur.
+
+315
+00:19:54,000 --> 00:19:56,000
+Wow. All right.
+
+316
+00:19:56,000 --> 00:19:58,000
+So that's basically the gold standard of prediction, right?
+
+317
+00:19:58,000 --> 00:20:24,000
+To say that something that doesn't yet exist...
+
+

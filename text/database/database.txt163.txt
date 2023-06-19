@@ -1,0 +1,6 @@
+6.  Suppose Cournot firms have TC=2 (i.e., fixed cost of 2 with MC=0).  The 
+demand curve is P=1 0-Q.  
+True, False, and Explain:   With free entry, the equilibrium number of firms is 
+5, with a deadweight cost of 8.  
+FALSE.  From the notes, the equilibrium number o f firms is given by the integer immediately 
+below:  

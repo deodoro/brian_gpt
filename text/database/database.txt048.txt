@@ -1,0 +1,13 @@
+9.  Suppose the demand curve for a contestable monopo ly crosses the AC curve 
+at more than one point.  
+ 
+True, False, and Explain:   There are multiple equilibria.  
+ 
+FALSE.  Under contestable monopoly, P=AC, but only the higher quantity/lower price intersection 
+is an equilibrium.  At the higher intersection, even  a monopolist that DID NOT face potential 
+competition would want to cut price somewhat to earn additional profits.  If you do face potential 
+competition, you would have to cut your price all the way down to the lowest intersection  of 
+demand and AC  to preve nt entry.  
+ 
+
+ 

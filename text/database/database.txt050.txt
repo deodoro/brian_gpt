@@ -1,0 +1,2 @@
+1.  The utility function of the Type Bs normalizes to U=.75 ln x + .25 ln y, not  U=2/3 ln x + 1/3 ln y.  
+ 

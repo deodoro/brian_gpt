@@ -1,0 +1,2021 @@
+1
+00:00:00,000 --> 00:00:02,580
+are going to be above average, half will be below average.
+
+2
+00:00:02,580 --> 00:00:04,960
+So this is not a market about consumers, on average,
+
+3
+00:00:04,960 --> 00:00:06,120
+getting ripped off.
+
+4
+00:00:06,120 --> 00:00:08,080
+It's a model where half the customers
+
+5
+00:00:08,080 --> 00:00:09,600
+get less than they bargain for, half
+
+6
+00:00:09,600 --> 00:00:11,360
+get more than they bargain for.
+
+7
+00:00:11,360 --> 00:00:13,560
+Does that sound like a terrible market to be in?
+
+8
+00:00:13,560 --> 00:00:15,840
+Well, 50-50 chance of getting more than I thought or less
+
+9
+00:00:15,840 --> 00:00:17,520
+than I thought.
+
+10
+00:00:17,520 --> 00:00:20,000
+That sounds like any other market
+
+11
+00:00:20,000 --> 00:00:22,960
+where there's a symmetric distribution of outcomes.
+
+12
+00:00:22,960 --> 00:00:26,480
+So no particular reason to be dissatisfied in the market
+
+13
+00:00:26,480 --> 00:00:28,680
+if you, in fact, buy.
+
+14
+00:00:28,680 --> 00:00:30,840
+So what's going wrong with these markets?
+
+15
+00:00:30,840 --> 00:00:33,160
+The problem with the markets is all the exchanges
+
+16
+00:00:33,160 --> 00:00:34,800
+that don't happen.
+
+17
+00:00:34,800 --> 00:00:38,120
+It's not a market about the rip-offs that we see,
+
+18
+00:00:38,120 --> 00:00:39,880
+but about the mutually beneficial trades
+
+19
+00:00:39,880 --> 00:00:41,280
+that we don't see.
+
+20
+00:00:41,280 --> 00:00:44,200
+Remember Bastiat, what is seen and what is not seen.
+
+21
+00:00:44,200 --> 00:00:46,280
+In the adverse selection model, the problem
+
+22
+00:00:46,280 --> 00:00:49,200
+is all the cars that actually don't get
+
+23
+00:00:49,200 --> 00:00:52,200
+sold because they're too good.
+
+24
+00:00:52,200 --> 00:00:53,780
+It's the people with the better cars,
+
+25
+00:00:53,780 --> 00:00:55,520
+they're not going to go and sell that car
+
+26
+00:00:55,520 --> 00:00:58,600
+and get that stupid low price, even though they actually
+
+27
+00:00:58,600 --> 00:01:00,040
+don't really want the car that much,
+
+28
+00:01:00,040 --> 00:01:01,240
+even though there's a buyer out there
+
+29
+00:01:01,240 --> 00:01:04,360
+who, with perfect information, would totally buy that car.
+
+30
+00:01:04,360 --> 00:01:06,600
+But due to the adverse selection problem,
+
+31
+00:01:06,600 --> 00:01:09,080
+because the best stuff gets pulled off the market,
+
+32
+00:01:09,080 --> 00:01:10,520
+the trades don't happen.
+
+33
+00:01:10,520 --> 00:01:12,360
+Same thing with health insurance.
+
+34
+00:01:12,360 --> 00:01:14,480
+The problem of the adverse selection problem
+
+35
+00:01:14,480 --> 00:01:16,680
+implies not that you're ripped off
+
+36
+00:01:16,680 --> 00:01:18,360
+if you buy health insurance.
+
+37
+00:01:18,360 --> 00:01:22,240
+The problem is all the people who would like health insurance,
+
+38
+00:01:22,240 --> 00:01:27,400
+but who nevertheless don't wind up buying it because they
+
+39
+00:01:27,400 --> 00:01:30,480
+are the healthier people and they pull out of the market.
+
+40
+00:01:30,480 --> 00:01:33,640
+So the idea is that if you're a healthy person
+
+41
+00:01:33,640 --> 00:01:36,080
+and you could receive insurance that was accurately
+
+42
+00:01:36,080 --> 00:01:37,880
+priced at a risk, then you would just
+
+43
+00:01:37,880 --> 00:01:39,240
+go and get super cheap insurance.
+
+44
+00:01:39,240 --> 00:01:41,160
+And you'd be happy saying, hey, I'm super healthy,
+
+45
+00:01:41,160 --> 00:01:42,740
+but I love having insurance because it
+
+46
+00:01:42,740 --> 00:01:44,960
+gives me peace of mind at a really low price
+
+47
+00:01:44,960 --> 00:01:46,720
+because I'm so healthy.
+
+48
+00:01:46,720 --> 00:01:48,400
+And the problem with adverse selection
+
+49
+00:01:48,400 --> 00:01:51,440
+is those people don't buy insurance.
+
+50
+00:01:51,440 --> 00:01:55,320
+And therefore, the gains to trade for the healthy people
+
+51
+00:01:55,320 --> 00:01:57,740
+to buying insurance go out and disappear.
+
+52
+00:01:57,740 --> 00:01:59,400
+Right now, of course, in the real world,
+
+53
+00:01:59,400 --> 00:02:00,840
+when people complain about health insurance,
+
+54
+00:02:00,840 --> 00:02:02,840
+the complaint is always that what kind of people
+
+55
+00:02:02,840 --> 00:02:04,320
+can't get insurance?
+
+56
+00:02:04,320 --> 00:02:05,640
+Sick people.
+
+57
+00:02:05,640 --> 00:02:08,120
+That's not the adverse selection model at all.
+
+58
+00:02:08,120 --> 00:02:10,040
+Complete opposite.
+
+59
+00:02:10,040 --> 00:02:12,360
+The problem in the adverse selection problem
+
+60
+00:02:12,360 --> 00:02:14,160
+would be that healthy people aren't getting insurance.
+
+61
+00:02:14,160 --> 00:02:15,280
+Have you ever heard someone saying,
+
+62
+00:02:15,280 --> 00:02:17,600
+I'm just so sad about all the healthy people who
+
+63
+00:02:17,600 --> 00:02:20,800
+don't buy insurance because their health is so good that it's
+
+64
+00:02:20,800 --> 00:02:22,920
+not worth it for them to pay these prices inflated
+
+65
+00:02:22,920 --> 00:02:24,560
+by all the sick people?
+
+66
+00:02:24,560 --> 00:02:27,520
+Is anyone going and having a day of sorrow
+
+67
+00:02:27,520 --> 00:02:30,560
+for these healthy people who don't buy insurance?
+
+68
+00:02:30,560 --> 00:02:31,600
+Yeah, very unusual.
+
+69
+00:02:31,600 --> 00:02:32,100
+Yeah, Ash?
+
+70
+00:02:32,100 --> 00:02:33,480
+Is this Jonathan Kruger?
+
+71
+00:02:33,480 --> 00:02:34,480
+Yeah, Kruger.
+
+72
+00:02:34,480 --> 00:02:35,840
+Yes.
+
+73
+00:02:35,840 --> 00:02:36,640
+Well, let's see.
+
+74
+00:02:36,640 --> 00:02:37,720
+I read his graphic novel.
+
+75
+00:02:37,720 --> 00:02:40,840
+He didn't have any pages in the graphic novel shedding tears
+
+76
+00:02:40,840 --> 00:02:42,520
+for them.
+
+77
+00:02:42,520 --> 00:02:44,120
+In fact, in the graphic novel, so I
+
+78
+00:02:44,120 --> 00:02:46,200
+wrote a review of the graphic novel on the theory
+
+79
+00:02:46,200 --> 00:02:48,600
+that if you write it, it can be reviewed.
+
+80
+00:02:48,600 --> 00:02:50,600
+And in the graphic novel, what he says
+
+81
+00:02:50,600 --> 00:02:56,040
+is that, well, some young people don't buy it
+
+82
+00:02:56,040 --> 00:03:00,640
+because they don't realize they could get sick too.
+
+83
+00:03:00,640 --> 00:03:03,000
+That's one possible story.
+
+84
+00:03:03,000 --> 00:03:05,920
+It's not a story that any economist else in the world
+
+85
+00:03:05,920 --> 00:03:06,760
+is telling.
+
+86
+00:03:06,760 --> 00:03:08,220
+It's like, well, there's the problem
+
+87
+00:03:08,220 --> 00:03:10,600
+that young people believe they have zero probability
+
+88
+00:03:10,600 --> 00:03:12,080
+of getting sick.
+
+89
+00:03:12,080 --> 00:03:14,280
+It's like quite an error for people to be making.
+
+90
+00:03:17,560 --> 00:03:18,440
+So why did he do that?
+
+91
+00:03:18,440 --> 00:03:20,600
+Well, I believe that he was trying
+
+92
+00:03:20,600 --> 00:03:23,100
+to give an argument that would be persuasive rather than one
+
+93
+00:03:23,100 --> 00:03:24,840
+that would be strictly accurate.
+
+94
+00:03:24,840 --> 00:03:27,000
+So at least that's my best story.
+
+95
+00:03:27,000 --> 00:03:29,600
+I think that he would understand the model more than well
+
+96
+00:03:29,600 --> 00:03:30,960
+enough to not make the mistake.
+
+97
+00:03:30,960 --> 00:03:31,800
+Yes?
+
+98
+00:03:31,800 --> 00:03:34,840
+Yeah, if it's the people who are healthy above average
+
+99
+00:03:34,840 --> 00:03:38,480
+in the model that don't get satisfied and then it unravels,
+
+100
+00:03:38,480 --> 00:03:41,120
+it also means that people who are unhealthy also
+
+101
+00:03:41,120 --> 00:03:41,620
+don't get it.
+
+102
+00:03:41,620 --> 00:03:42,120
+Yes, yes.
+
+103
+00:03:42,120 --> 00:03:44,320
+So yeah, you could say the problem is that only the,
+
+104
+00:03:44,320 --> 00:03:47,640
+but again, still, the complaint is that the sickest people
+
+105
+00:03:47,640 --> 00:03:48,680
+don't get it.
+
+106
+00:03:48,680 --> 00:03:51,760
+And no matter how, unless there's 100% unraveling,
+
+107
+00:03:51,760 --> 00:03:54,520
+it's always the less sick people that are not buying.
+
+108
+00:03:54,520 --> 00:03:58,760
+So essentially, the people that people are most worried about,
+
+109
+00:03:58,760 --> 00:04:01,560
+most sad about, are the ones the model says
+
+110
+00:04:01,560 --> 00:04:03,200
+will buy the insurance.
+
+111
+00:04:03,200 --> 00:04:05,560
+And it's everybody else that actually is the problem
+
+112
+00:04:05,560 --> 00:04:08,480
+according to the model.
+
+113
+00:04:08,480 --> 00:04:09,520
+OK.
+
+114
+00:04:09,520 --> 00:04:10,120
+All right.
+
+115
+00:04:10,120 --> 00:04:11,160
+So anyway, the efficiency problem
+
+116
+00:04:11,160 --> 00:04:14,040
+stands for exchanges that don't happen because buyers can't
+
+117
+00:04:14,040 --> 00:04:17,160
+distinguish good cars from bad and health insurance companies
+
+118
+00:04:17,160 --> 00:04:18,800
+can't distinguish the really sick people
+
+119
+00:04:18,800 --> 00:04:20,720
+from the really healthy people.
+
+120
+00:04:20,720 --> 00:04:22,320
+Now, here's the fun thing.
+
+121
+00:04:24,800 --> 00:04:26,600
+So in a world of perfect information,
+
+122
+00:04:26,600 --> 00:04:29,880
+what would happen in the insurance market?
+
+123
+00:04:29,880 --> 00:04:31,320
+Because there'd be no insurance.
+
+124
+00:04:31,320 --> 00:04:32,820
+Everyone would just be charged based
+
+125
+00:04:32,820 --> 00:04:35,160
+upon their actual costs.
+
+126
+00:04:35,160 --> 00:04:39,520
+Now, how about in a world of symmetric information
+
+127
+00:04:39,520 --> 00:04:41,120
+where you know your general riskiness,
+
+128
+00:04:41,120 --> 00:04:44,560
+but you don't know the actual details of how bad things will
+
+129
+00:04:44,560 --> 00:04:46,480
+be?
+
+130
+00:04:46,480 --> 00:04:50,400
+So in other words, imagine that you have a risk category, which
+
+131
+00:04:50,400 --> 00:04:54,000
+you know, A through F. But then within the A category,
+
+132
+00:04:54,000 --> 00:04:56,400
+there's another random variable that gets tacked on.
+
+133
+00:04:56,400 --> 00:04:58,160
+Within the B category, there's another random variable
+
+134
+00:04:58,160 --> 00:04:59,280
+that tacks on.
+
+135
+00:04:59,280 --> 00:05:03,880
+So in that case, what would the pricing of LBLF?
+
+136
+00:05:03,880 --> 00:05:07,040
+So insurance companies, they know your grade of health,
+
+137
+00:05:07,040 --> 00:05:09,720
+but nobody knows this random variable, which literally
+
+138
+00:05:09,720 --> 00:05:13,120
+has to be you have to throw the dice every year or whatever.
+
+139
+00:05:13,120 --> 00:05:15,440
+So in a world like that, what does the health insurance
+
+140
+00:05:15,440 --> 00:05:17,920
+market look like?
+
+141
+00:05:17,920 --> 00:05:20,480
+Is there any health insurance sold then?
+
+142
+00:05:20,480 --> 00:05:22,800
+Would it be according to your expected health?
+
+143
+00:05:22,800 --> 00:05:23,480
+Yeah, exactly.
+
+144
+00:05:23,480 --> 00:05:26,640
+So you would have a charger rate based upon your health grade.
+
+145
+00:05:26,640 --> 00:05:28,520
+And then why do you want to buy insurance?
+
+146
+00:05:28,520 --> 00:05:30,800
+Because you want to insure against that random variable
+
+147
+00:05:30,800 --> 00:05:31,680
+part.
+
+148
+00:05:31,680 --> 00:05:34,160
+So yeah, I'm A health.
+
+149
+00:05:34,160 --> 00:05:35,200
+That's what I know.
+
+150
+00:05:35,200 --> 00:05:36,280
+That's what insurance company knows.
+
+151
+00:05:36,280 --> 00:05:39,640
+But I could get hit by a bus, and then I'd have a problem.
+
+152
+00:05:39,640 --> 00:05:42,000
+So and again, of course, that A grade
+
+153
+00:05:42,000 --> 00:05:46,880
+should in a world without asymmetric information
+
+154
+00:05:46,880 --> 00:05:50,440
+would include knowledge of the riskiness of your behavior.
+
+155
+00:05:50,440 --> 00:05:53,400
+So how often do you look before you cross the street?
+
+156
+00:05:53,400 --> 00:05:54,560
+Are you a careful looker?
+
+157
+00:05:54,560 --> 00:05:56,200
+Are you three way?
+
+158
+00:05:56,200 --> 00:05:57,360
+Or do you look both way?
+
+159
+00:05:57,360 --> 00:05:58,880
+Look left, right, left again?
+
+160
+00:05:58,880 --> 00:06:00,160
+Or what do you do?
+
+161
+00:06:00,160 --> 00:06:01,520
+Are you a skydiver?
+
+162
+00:06:01,520 --> 00:06:03,720
+What's your diet like?
+
+163
+00:06:03,720 --> 00:06:08,000
+So and then, yeah, so in a world where nobody had any clue
+
+164
+00:06:08,000 --> 00:06:09,800
+at all about their health, suppose
+
+165
+00:06:09,800 --> 00:06:11,560
+nobody had any idea what their health was,
+
+166
+00:06:11,560 --> 00:06:13,880
+and the insurance company doesn't know, you don't know,
+
+167
+00:06:13,880 --> 00:06:17,400
+then is there going to be any insurance in that world?
+
+168
+00:06:17,400 --> 00:06:17,920
+Sure.
+
+169
+00:06:17,920 --> 00:06:19,640
+And what do the rates look like in a world
+
+170
+00:06:19,640 --> 00:06:22,000
+where nobody has any clue about anything?
+
+171
+00:06:22,000 --> 00:06:25,120
+Yeah, then everyone just pays the average rate.
+
+172
+00:06:25,120 --> 00:06:28,040
+All right, so what I think people really want
+
+173
+00:06:28,040 --> 00:06:31,440
+is a world where we pretend that everyone's average.
+
+174
+00:06:31,440 --> 00:06:32,900
+That's the dream that people have.
+
+175
+00:06:32,900 --> 00:06:36,040
+And then everyone gets charged the same rate.
+
+176
+00:06:36,040 --> 00:06:37,440
+Or of course, there's some people
+
+177
+00:06:37,440 --> 00:06:39,320
+have a dream of enforcing it by regulation
+
+178
+00:06:39,320 --> 00:06:41,200
+that everyone must be treated the same.
+
+179
+00:06:41,200 --> 00:06:44,440
+So Charles Murray, in his book on the universal basic income,
+
+180
+00:06:44,440 --> 00:06:46,280
+actually advocates a regulation saying
+
+181
+00:06:46,280 --> 00:06:49,480
+that literally everyone, every adult in the country
+
+182
+00:06:49,480 --> 00:06:51,640
+must be sold insurance at the same rate,
+
+183
+00:06:51,640 --> 00:06:53,240
+not even adjusting for health.
+
+184
+00:06:53,240 --> 00:06:56,760
+Not even adjusting for age.
+
+185
+00:06:56,760 --> 00:07:00,480
+And but anyway, so this is the idea.
+
+186
+00:07:00,480 --> 00:07:02,760
+Now, of course, in the real world,
+
+187
+00:07:02,760 --> 00:07:04,040
+you pass a law like that.
+
+188
+00:07:04,040 --> 00:07:05,000
+What does every health insurance?
+
+189
+00:07:05,000 --> 00:07:07,040
+So if you basically say you must treat everyone
+
+190
+00:07:07,040 --> 00:07:09,600
+as if they're identically risky, even though everybody knows
+
+191
+00:07:09,600 --> 00:07:11,480
+they're not, so what does every health insurance
+
+192
+00:07:11,480 --> 00:07:14,040
+company try to do in a world like this Charles Murray world?
+
+193
+00:07:14,040 --> 00:07:17,240
+Drive the price up as high as they can.
+
+194
+00:07:17,240 --> 00:07:19,400
+Well, if you drive the price up as high as you can,
+
+195
+00:07:19,400 --> 00:07:25,160
+that by itself will, you know, so let's see.
+
+196
+00:07:25,160 --> 00:07:26,760
+What's the right way?
+
+197
+00:07:26,760 --> 00:07:28,520
+So that by itself doesn't actually,
+
+198
+00:07:28,520 --> 00:07:32,920
+so that'll just mean that everyone will want to buy
+
+199
+00:07:32,920 --> 00:07:34,400
+from the cheaper people.
+
+200
+00:07:34,400 --> 00:07:37,040
+So by raising your price higher than everybody else
+
+201
+00:07:37,040 --> 00:07:41,080
+doesn't actually differentially attract healthier people.
+
+202
+00:07:41,080 --> 00:07:42,160
+But yeah, Nathan?
+
+203
+00:07:42,160 --> 00:07:44,680
+About the services you offer, so if I don't have, say,
+
+204
+00:07:44,680 --> 00:07:46,360
+a cancer provider, then someone like me
+
+205
+00:07:46,360 --> 00:07:49,000
+with high risk of cancer, I'm not going to buy that insurance.
+
+206
+00:07:49,000 --> 00:07:50,440
+Yeah, so you know, how about this?
+
+207
+00:07:50,440 --> 00:07:52,640
+You just have like tons of like sports medicine
+
+208
+00:07:52,640 --> 00:07:55,760
+and other stuff for like super physically active people,
+
+209
+00:07:55,760 --> 00:07:56,260
+right?
+
+210
+00:07:56,260 --> 00:07:59,320
+So you know, like we have basically a bunch of services
+
+211
+00:07:59,320 --> 00:08:01,440
+that only young and healthy people would ever want,
+
+212
+00:08:01,440 --> 00:08:03,160
+and then you just don't do anything else.
+
+213
+00:08:03,160 --> 00:08:05,000
+So Murray didn't really deal with this,
+
+214
+00:08:05,000 --> 00:08:08,040
+but that is the idea.
+
+215
+00:08:08,040 --> 00:08:12,720
+All right, so when you actually think
+
+216
+00:08:12,720 --> 00:08:15,160
+about what it is people are complaining about,
+
+217
+00:08:15,160 --> 00:08:18,560
+the problem isn't really that it's a world where people are
+
+218
+00:08:18,560 --> 00:08:22,880
+not being priced, so yeah, the real problem is that people,
+
+219
+00:08:22,880 --> 00:08:26,560
+is that prices are not adequately tailored to risk.
+
+220
+00:08:26,560 --> 00:08:28,720
+But the populist complaint about insurance
+
+221
+00:08:28,720 --> 00:08:30,480
+has nothing to do with that at all.
+
+222
+00:08:30,480 --> 00:08:32,000
+In fact, quite the opposite.
+
+223
+00:08:32,000 --> 00:08:34,120
+I think most people's nightmare world
+
+224
+00:08:34,120 --> 00:08:36,640
+is that everyone has insurance that is exactly
+
+225
+00:08:36,640 --> 00:08:39,400
+tailored to your personal risk rate, right?
+
+226
+00:08:39,400 --> 00:08:42,640
+And again, imagine a world where you actually
+
+227
+00:08:42,640 --> 00:08:45,120
+are simultaneously solving adverse selection and moral
+
+228
+00:08:45,120 --> 00:08:50,520
+hazard by say, charging people based upon their BMI.
+
+229
+00:08:50,520 --> 00:08:52,640
+Charging people based upon like you monitor
+
+230
+00:08:52,640 --> 00:08:53,800
+how often you go to the gym.
+
+231
+00:08:53,800 --> 00:08:55,920
+You have a bunch of different measures, right?
+
+232
+00:08:55,920 --> 00:08:58,240
+And go and charge people for all of these details
+
+233
+00:08:58,240 --> 00:09:00,680
+about their actual riskiness.
+
+234
+00:09:00,680 --> 00:09:03,400
+This is the kind of thing that would infuriate normal people.
+
+235
+00:09:03,400 --> 00:09:05,680
+But economically, that's much better.
+
+236
+00:09:05,680 --> 00:09:08,440
+That actually solves the problem.
+
+237
+00:09:08,440 --> 00:09:09,200
+It actually is.
+
+238
+00:09:09,200 --> 00:09:10,920
+That's solving the moral hazard problem
+
+239
+00:09:10,920 --> 00:09:12,660
+and solving the adverse selection problem,
+
+240
+00:09:12,660 --> 00:09:15,560
+just tailor rates to risk, and then there's no longer
+
+241
+00:09:15,560 --> 00:09:17,400
+any problem.
+
+242
+00:09:17,400 --> 00:09:19,360
+All right, now, so adverse selection
+
+243
+00:09:19,360 --> 00:09:21,120
+is probably economists' favorite argument
+
+244
+00:09:21,120 --> 00:09:23,200
+for insurance regulation.
+
+245
+00:09:23,200 --> 00:09:26,040
+Moral hazard is often thrown in there,
+
+246
+00:09:26,040 --> 00:09:27,520
+even though there are essentially
+
+247
+00:09:27,520 --> 00:09:31,640
+no insurance regulations that do anything about moral hazard.
+
+248
+00:09:31,640 --> 00:09:33,240
+If you really start thinking about it,
+
+249
+00:09:33,240 --> 00:09:38,240
+then you have a few things like jail time for insurance fraud.
+
+250
+00:09:38,240 --> 00:09:41,520
+All right, so that's a pretty good counter example.
+
+251
+00:09:41,520 --> 00:09:44,120
+Although, say, wait a second, wasn't fraud illegal
+
+252
+00:09:44,120 --> 00:09:46,240
+even before there was insurance fraud?
+
+253
+00:09:46,240 --> 00:09:47,880
+There's just fraud.
+
+254
+00:09:47,880 --> 00:09:49,840
+So it's just a normal law.
+
+255
+00:09:49,840 --> 00:09:52,120
+It's not really anything special.
+
+256
+00:09:52,120 --> 00:09:55,600
+But yeah, so imagine that you legalize insurance fraud.
+
+257
+00:09:55,600 --> 00:09:57,960
+In that case, what does that do to the adverse selection
+
+258
+00:09:57,960 --> 00:09:59,200
+problem?
+
+259
+00:09:59,200 --> 00:10:01,480
+Makes it, yeah, it increases it.
+
+260
+00:10:01,480 --> 00:10:03,520
+Yeah, it makes it worse, because now there's a bunch of people
+
+261
+00:10:03,520 --> 00:10:06,520
+who are going to go and fake accidents and things like that.
+
+262
+00:10:06,520 --> 00:10:07,480
+And they say, hey, there's not even
+
+263
+00:10:07,480 --> 00:10:09,240
+any punishment for doing any more awesome,
+
+264
+00:10:09,240 --> 00:10:11,000
+so time to fake an accident.
+
+265
+00:10:11,000 --> 00:10:13,280
+You ever seen the movie Double Indemnity?
+
+266
+00:10:13,280 --> 00:10:16,520
+All right, so, well, Double Indemnity,
+
+267
+00:10:16,520 --> 00:10:19,800
+the title refers to insurance policies, which maybe still
+
+268
+00:10:19,800 --> 00:10:22,120
+exist, but anyway, at the time in the 40s and 50s,
+
+269
+00:10:22,120 --> 00:10:24,080
+there's a lot of insurance policies
+
+270
+00:10:24,080 --> 00:10:27,200
+that would specify that you get double the payoff if people
+
+271
+00:10:27,200 --> 00:10:32,640
+die in a rare and gruesome way, such as in a train accident.
+
+272
+00:10:32,640 --> 00:10:34,920
+Then there's a woman who hates her husband,
+
+273
+00:10:34,920 --> 00:10:38,360
+and she conspires with an insurance agent
+
+274
+00:10:38,360 --> 00:10:41,600
+to go and sell her a very large policy with a double indemnity,
+
+275
+00:10:41,600 --> 00:10:43,880
+and then gets him to murder her husband,
+
+276
+00:10:43,880 --> 00:10:46,360
+and then they're going to fall in love and split the money,
+
+277
+00:10:46,360 --> 00:10:46,880
+right?
+
+278
+00:10:46,880 --> 00:10:50,200
+And then that's the way all these movies work out, right?
+
+279
+00:10:50,200 --> 00:10:52,880
+Happily Ever After is the way that they all work out.
+
+280
+00:10:52,880 --> 00:10:57,120
+But anyway, so if there were no law against going
+
+281
+00:10:57,120 --> 00:11:00,320
+and trying to murder, getting an insurance policy on someone
+
+282
+00:11:00,320 --> 00:11:02,760
+and then murdering them, so not only would this
+
+283
+00:11:02,760 --> 00:11:06,360
+lead to more murders, right, but also would mess up the life
+
+284
+00:11:06,360 --> 00:11:08,320
+insurance policy for the non-murderers,
+
+285
+00:11:08,320 --> 00:11:10,280
+because you'd have a whole bunch of people say,
+
+286
+00:11:10,280 --> 00:11:12,920
+oh, I want like a $50 million life insurance
+
+287
+00:11:12,920 --> 00:11:17,480
+policy on my beloved enemy.
+
+288
+00:11:17,480 --> 00:11:19,800
+And then you go and you take out a life insurance policy
+
+289
+00:11:19,800 --> 00:11:21,640
+on someone you want dead.
+
+290
+00:11:21,640 --> 00:11:23,800
+Or of course, it doesn't have to be
+
+291
+00:11:23,800 --> 00:11:25,200
+that you're going to murder them.
+
+292
+00:11:25,200 --> 00:11:27,620
+You might go and say, I'm just going to take out insurance
+
+293
+00:11:27,620 --> 00:11:31,160
+policy on a friend that I know who's actually
+
+294
+00:11:31,160 --> 00:11:35,040
+going to go and fight in Syria or something like that.
+
+295
+00:11:35,040 --> 00:11:37,240
+I'm going to take out insurance policy on them.
+
+296
+00:11:37,240 --> 00:11:40,360
+And if you can go and take out insurance policy on someone
+
+297
+00:11:40,360 --> 00:11:43,000
+that you know is taking a lot of risks,
+
+298
+00:11:43,000 --> 00:11:44,500
+then again, there's a bunch of people
+
+299
+00:11:44,500 --> 00:11:46,520
+that are buying the policies because they
+
+300
+00:11:46,520 --> 00:11:48,040
+expect to get a high payoff.
+
+301
+00:11:48,040 --> 00:11:50,380
+And if they get to buy it for the same rate as everybody
+
+302
+00:11:50,380 --> 00:11:52,840
+else, then there's a problem.
+
+303
+00:11:52,840 --> 00:11:55,360
+So anyway, adverse selections probably become his favorite
+
+304
+00:11:55,360 --> 00:11:57,240
+argument for insurance regulation,
+
+305
+00:11:57,240 --> 00:12:00,760
+and especially for one kind of regulation,
+
+306
+00:12:00,760 --> 00:12:05,760
+which is the mandated purchase, a law that
+
+307
+00:12:05,760 --> 00:12:07,560
+requires you to buy insurance.
+
+308
+00:12:07,560 --> 00:12:08,640
+You must buy insurance.
+
+309
+00:12:08,640 --> 00:12:09,400
+Yeah, Ash?
+
+310
+00:12:09,400 --> 00:12:12,440
+I was just going to say, if insurance fraud would
+
+311
+00:12:12,440 --> 00:12:18,400
+be legal, wouldn't that create a market for rating insurance
+
+312
+00:12:18,400 --> 00:12:19,480
+purchasers?
+
+313
+00:12:19,480 --> 00:12:22,440
+Sure, but given that's legal right now,
+
+314
+00:12:22,440 --> 00:12:25,400
+so it's very reasonable to say that insurance companies would
+
+315
+00:12:25,400 --> 00:12:27,600
+try to compensate for the problems.
+
+316
+00:12:27,600 --> 00:12:30,120
+But still, it seems unlikely they'd
+
+317
+00:12:30,120 --> 00:12:32,440
+be able to compensate as well because insurance companies
+
+318
+00:12:32,440 --> 00:12:33,240
+can't jail anybody.
+
+319
+00:12:33,240 --> 00:12:35,400
+Remember what I said, you can't contractually
+
+320
+00:12:35,400 --> 00:12:37,120
+agree to private punishments.
+
+321
+00:12:37,120 --> 00:12:39,840
+So yeah, you can imagine saying, I signed the insurance contract,
+
+322
+00:12:39,840 --> 00:12:41,640
+and if I'm found guilty of insurance fraud,
+
+323
+00:12:41,640 --> 00:12:43,960
+you can go and take everything I own.
+
+324
+00:12:43,960 --> 00:12:45,840
+Just based on credit.
+
+325
+00:12:45,840 --> 00:12:50,160
+Yeah, so but yes, but if the harsher penalties
+
+326
+00:12:50,160 --> 00:12:52,520
+are unavailable to private organizations,
+
+327
+00:12:52,520 --> 00:12:54,200
+but government has them, if government
+
+328
+00:12:54,200 --> 00:12:56,200
+stops providing them, then probably
+
+329
+00:12:56,200 --> 00:12:59,480
+it's going to be hard for the other alternatives
+
+330
+00:12:59,480 --> 00:13:00,280
+to be as effective.
+
+331
+00:13:00,280 --> 00:13:02,880
+Although, maybe they would be.
+
+332
+00:13:02,880 --> 00:13:07,040
+So adverse selection is a very common rationale
+
+333
+00:13:07,040 --> 00:13:10,080
+economists have for a law requiring everybody
+
+334
+00:13:10,080 --> 00:13:12,040
+to buy insurance, which of course
+
+335
+00:13:12,040 --> 00:13:15,120
+would be for car insurance or for health insurance.
+
+336
+00:13:15,120 --> 00:13:17,560
+Anytime the law says you have to have insurance,
+
+337
+00:13:17,560 --> 00:13:20,880
+there is a very simple story behind it
+
+338
+00:13:20,880 --> 00:13:24,640
+that economists have, which is adverse selection.
+
+339
+00:13:24,640 --> 00:13:26,680
+So again, in this case, imagine there
+
+340
+00:13:26,680 --> 00:13:28,520
+were laws saying you must sell your company.
+
+341
+00:13:28,520 --> 00:13:30,920
+You can't keep your company.
+
+342
+00:13:30,920 --> 00:13:33,880
+So in that case, everyone sells their company,
+
+343
+00:13:33,880 --> 00:13:36,120
+even though they know that the companies are actually
+
+344
+00:13:36,120 --> 00:13:39,120
+worth more than what they're selling, or some of them.
+
+345
+00:13:39,120 --> 00:13:40,840
+So in that case, all are sold.
+
+346
+00:13:40,840 --> 00:13:42,680
+So all companies from 0 to 100 are sold,
+
+347
+00:13:42,680 --> 00:13:45,360
+and the average value to the buyers is 50.
+
+348
+00:13:45,360 --> 00:13:47,520
+And then sellers will be happy to buy,
+
+349
+00:13:47,520 --> 00:13:49,440
+because they know that on average,
+
+350
+00:13:49,440 --> 00:13:55,320
+they get a company that's worth 50 to the seller, 75 to them.
+
+351
+00:13:55,320 --> 00:13:57,280
+And again, the interesting thing is
+
+352
+00:13:57,280 --> 00:14:01,440
+that a lot of the sellers gain, although of course not all.
+
+353
+00:14:01,440 --> 00:14:04,560
+Who are the sellers who lose as a result of the mandate?
+
+354
+00:14:04,560 --> 00:14:06,160
+Sellers whose company is going to win.
+
+355
+00:14:06,160 --> 00:14:08,160
+What's that?
+
+356
+00:14:08,160 --> 00:14:09,160
+Well, let's see.
+
+357
+00:14:09,160 --> 00:14:11,840
+Well, so let's see.
+
+358
+00:14:11,840 --> 00:14:12,480
+Yes, yes, yes.
+
+359
+00:14:12,480 --> 00:14:14,520
+So the story that I told, yes, then exactly.
+
+360
+00:14:14,520 --> 00:14:16,720
+So all these people lose.
+
+361
+00:14:16,720 --> 00:14:19,240
+So then how is there an efficiency gain?
+
+362
+00:14:19,240 --> 00:14:21,640
+Well, the answer is when you add up the gains to all
+
+363
+00:14:21,640 --> 00:14:26,080
+of these people, plus the profits to the buyers,
+
+364
+00:14:26,080 --> 00:14:28,480
+it exceeds the losses to the sellers.
+
+365
+00:14:28,480 --> 00:14:32,160
+And that is our definition of which kind of efficiency?
+
+366
+00:14:32,160 --> 00:14:32,800
+Gallery Hicks.
+
+367
+00:14:32,800 --> 00:14:33,840
+Gallery Hicks.
+
+368
+00:14:33,840 --> 00:14:35,560
+Right, yes.
+
+369
+00:14:35,560 --> 00:14:39,240
+If it's mandatory to sell at the price offered,
+
+370
+00:14:39,240 --> 00:14:42,720
+why wouldn't the buyers offer a lower price?
+
+371
+00:14:42,720 --> 00:14:44,220
+So there could be competition there.
+
+372
+00:14:44,220 --> 00:14:47,720
+So basically, the buyers bid for a car.
+
+373
+00:14:47,720 --> 00:14:50,200
+And with perfect competition, you
+
+374
+00:14:50,200 --> 00:14:52,600
+think they would actually bid the price up to $75.
+
+375
+00:14:52,600 --> 00:14:54,040
+And then actually even more gain.
+
+376
+00:14:54,040 --> 00:14:57,560
+In that case, all of these people gain.
+
+377
+00:14:57,560 --> 00:15:00,560
+On average, the buyers have no profit
+
+378
+00:15:00,560 --> 00:15:03,600
+because they're going to be paying $75 for companies that
+
+379
+00:15:03,600 --> 00:15:05,520
+are worth $175 to them.
+
+380
+00:15:05,520 --> 00:15:09,440
+And then everything comes out of the hides of these people.
+
+381
+00:15:09,440 --> 00:15:11,160
+But they don't even lose that much.
+
+382
+00:15:11,160 --> 00:15:14,920
+That's the amazing thing.
+
+383
+00:15:14,920 --> 00:15:21,600
+So adverse selection, standard justification for a mandate.
+
+384
+00:15:21,600 --> 00:15:24,240
+Now, if you're wondering, what is
+
+385
+00:15:24,240 --> 00:15:28,560
+the deal with all the other parts of things like Obamacare?
+
+386
+00:15:28,560 --> 00:15:30,120
+There's a great Paul Krugman column
+
+387
+00:15:30,120 --> 00:15:31,640
+where he goes and tries to explain it.
+
+388
+00:15:31,640 --> 00:15:34,280
+Because what, of course, is the part of Obamacare
+
+389
+00:15:34,280 --> 00:15:35,960
+that almost everybody hates?
+
+390
+00:15:35,960 --> 00:15:36,720
+The mandate.
+
+391
+00:15:36,720 --> 00:15:38,760
+The mandate, which is the only part actually
+
+392
+00:15:38,760 --> 00:15:40,800
+justified by adverse selection.
+
+393
+00:15:40,800 --> 00:15:42,080
+So the part that actually has anything
+
+394
+00:15:42,080 --> 00:15:44,040
+to do with the market failure that we're talking about
+
+395
+00:15:44,040 --> 00:15:45,800
+is the part that most people hate.
+
+396
+00:15:45,800 --> 00:15:47,800
+So there's actually a very good survey
+
+397
+00:15:47,800 --> 00:15:50,040
+that breaks up the different components of Obamacare
+
+398
+00:15:50,040 --> 00:15:51,320
+that are the popularity.
+
+399
+00:15:51,320 --> 00:15:54,680
+And I think only like 30% of Americans support the mandate.
+
+400
+00:15:54,680 --> 00:15:58,120
+All right, now, what are the other parts?
+
+401
+00:15:58,120 --> 00:16:00,520
+So the parts that people like.
+
+402
+00:16:00,520 --> 00:16:04,160
+All right, well, there's the ban on pre-existing conditions
+
+403
+00:16:04,160 --> 00:16:07,160
+clauses.
+
+404
+00:16:07,160 --> 00:16:10,480
+All right, and remember, so pre-existing conditions
+
+405
+00:16:10,480 --> 00:16:14,200
+clause, this is a clause where an insurance company says,
+
+406
+00:16:14,200 --> 00:16:16,120
+we don't pay for problems that you knew you had
+
+407
+00:16:16,120 --> 00:16:18,320
+when you bought the insurance.
+
+408
+00:16:18,320 --> 00:16:19,840
+Now, when you think about it, that's
+
+409
+00:16:19,840 --> 00:16:23,920
+almost like banning the prevention of insurance fraud.
+
+410
+00:16:23,920 --> 00:16:24,420
+Right?
+
+411
+00:16:24,420 --> 00:16:26,200
+Because this is saying that it's like you.
+
+412
+00:16:26,200 --> 00:16:29,720
+Well, you can't refuse to sell insurance to people
+
+413
+00:16:29,720 --> 00:16:33,320
+just because they're already mortally ill.
+
+414
+00:16:33,320 --> 00:16:36,120
+So this is a regulation that has something
+
+415
+00:16:36,120 --> 00:16:37,320
+to do with adverse selection.
+
+416
+00:16:37,320 --> 00:16:40,160
+Although, by itself, what is the connection
+
+417
+00:16:40,160 --> 00:16:41,600
+between this and adverse selection?
+
+418
+00:16:41,600 --> 00:16:42,200
+Means to force.
+
+419
+00:16:42,200 --> 00:16:43,000
+Yes.
+
+420
+00:16:43,000 --> 00:16:44,480
+So there's this part that actually
+
+421
+00:16:44,480 --> 00:16:45,760
+is connected to the model.
+
+422
+00:16:45,760 --> 00:16:47,980
+This part, where if you believe the model is actually
+
+423
+00:16:47,980 --> 00:16:49,960
+intensifying the problem.
+
+424
+00:16:49,960 --> 00:16:55,040
+And then finally, there's the third part,
+
+425
+00:16:55,040 --> 00:16:56,080
+which also very popular.
+
+426
+00:16:56,080 --> 00:16:57,440
+These are the subsidies.
+
+427
+00:16:57,440 --> 00:17:01,520
+So this is the part where you say, well,
+
+428
+00:17:01,520 --> 00:17:03,200
+once we mandate you have to have it,
+
+429
+00:17:03,200 --> 00:17:04,200
+a lot of people can't afford it.
+
+430
+00:17:04,200 --> 00:17:05,620
+So the subsidies are there to make
+
+431
+00:17:05,620 --> 00:17:07,360
+sure everybody can afford it.
+
+432
+00:17:07,360 --> 00:17:11,120
+And Krugman actually, very reasonably,
+
+433
+00:17:11,120 --> 00:17:16,320
+goes and says that this is Obamacare here.
+
+434
+00:17:16,320 --> 00:17:18,720
+And these are the three legs of Obamacare.
+
+435
+00:17:18,720 --> 00:17:20,560
+It's a stool with three legs.
+
+436
+00:17:20,560 --> 00:17:23,640
+And he needs all three legs to be stable.
+
+437
+00:17:23,640 --> 00:17:25,720
+And the way that he explains it, well,
+
+438
+00:17:25,720 --> 00:17:29,720
+once you ban pre-existing conditions clauses,
+
+439
+00:17:29,720 --> 00:17:32,440
+and you can actually also think about this combined
+
+440
+00:17:32,440 --> 00:17:36,120
+with people rates or pretty equal rates,
+
+441
+00:17:36,120 --> 00:17:39,400
+not exactly equal, but think about this in general
+
+442
+00:17:39,400 --> 00:17:40,560
+as rate regulation.
+
+443
+00:17:40,560 --> 00:17:43,160
+So once you go and say that any person can get insurance,
+
+444
+00:17:43,160 --> 00:17:44,960
+no matter what the state of their health is,
+
+445
+00:17:44,960 --> 00:17:47,000
+and that you're not allowed to go and charge them
+
+446
+00:17:47,000 --> 00:17:49,240
+much more money, then the obvious thing
+
+447
+00:17:49,240 --> 00:17:51,000
+in terms of the adverse selection model,
+
+448
+00:17:51,000 --> 00:17:52,040
+how will people respond?
+
+449
+00:17:54,560 --> 00:17:56,760
+You can get insurance at the normal rate
+
+450
+00:17:56,760 --> 00:17:59,320
+if you just wait around until you really, really need it.
+
+451
+00:17:59,320 --> 00:18:01,720
+So adverse selection says that people will do what?
+
+452
+00:18:01,720 --> 00:18:02,220
+Wait around.
+
+453
+00:18:02,220 --> 00:18:03,920
+Wait around.
+
+454
+00:18:03,920 --> 00:18:09,360
+So if you wait around, then the problem is that the market
+
+455
+00:18:09,360 --> 00:18:11,320
+equilibrium will be certain high prices.
+
+456
+00:18:11,320 --> 00:18:13,360
+So that's where Krugman says, well,
+
+457
+00:18:13,360 --> 00:18:15,480
+once we've done this regulation, then we
+
+458
+00:18:15,480 --> 00:18:17,320
+got to do that regulation to go and solve
+
+459
+00:18:17,320 --> 00:18:19,280
+the problems created by the first regulation.
+
+460
+00:18:19,280 --> 00:18:21,860
+And then we need this regulation to solve the problems created
+
+461
+00:18:21,860 --> 00:18:24,120
+by the other regulation.
+
+462
+00:18:24,120 --> 00:18:27,280
+And it is a reasonable package.
+
+463
+00:18:27,280 --> 00:18:29,160
+So I like the case for it.
+
+464
+00:18:29,160 --> 00:18:30,720
+It's a very clear case.
+
+465
+00:18:30,720 --> 00:18:33,840
+Although to go and say that Obamacare is there
+
+466
+00:18:33,840 --> 00:18:38,000
+because the free market doesn't work is a gross injustice.
+
+467
+00:18:38,000 --> 00:18:39,720
+Because he said, well, how about we just
+
+468
+00:18:39,720 --> 00:18:42,760
+have none of these regulations?
+
+469
+00:18:42,760 --> 00:18:45,280
+Then would there still be a problem?
+
+470
+00:18:45,280 --> 00:18:48,360
+In particular, there's something really weird about this one.
+
+471
+00:18:48,360 --> 00:18:50,800
+Because if you believe that insurance companies couldn't
+
+472
+00:18:50,800 --> 00:18:53,640
+figure out who was sick and who was healthy,
+
+473
+00:18:53,640 --> 00:18:56,480
+would there be any point of that regulation?
+
+474
+00:18:56,480 --> 00:18:57,360
+Yeah.
+
+475
+00:18:57,360 --> 00:18:58,720
+Why do you have that regulation?
+
+476
+00:18:58,720 --> 00:19:03,040
+Because insurance companies do know.
+
+477
+00:19:03,040 --> 00:19:05,200
+Insurance companies have armies of actuaries
+
+478
+00:19:05,200 --> 00:19:07,120
+to do the run of statistics to figure out
+
+479
+00:19:07,120 --> 00:19:08,520
+what your health status is.
+
+480
+00:19:08,520 --> 00:19:09,880
+They've got lots of information.
+
+481
+00:19:09,880 --> 00:19:10,720
+They can do tests.
+
+482
+00:19:10,720 --> 00:19:11,760
+They can use your age.
+
+483
+00:19:11,760 --> 00:19:13,560
+They can use past expenses.
+
+484
+00:19:13,560 --> 00:19:16,040
+There's tons of stuff that they can do in order to figure it
+
+485
+00:19:16,040 --> 00:19:16,600
+out.
+
+486
+00:19:16,600 --> 00:19:19,280
+So this is the regulation that, at minimum,
+
+487
+00:19:19,280 --> 00:19:21,760
+it makes the adverse selection problem worse.
+
+488
+00:19:21,760 --> 00:19:23,480
+And then tries to, at first, makes it worse
+
+489
+00:19:23,480 --> 00:19:25,040
+and then solves it another way.
+
+490
+00:19:25,040 --> 00:19:27,400
+But it's also a kind of confession of guilt
+
+491
+00:19:27,400 --> 00:19:29,040
+and saying, all right, fine.
+
+492
+00:19:29,040 --> 00:19:32,520
+It's actually not the case that insurance companies don't
+
+493
+00:19:32,520 --> 00:19:33,400
+know what's going on.
+
+494
+00:19:33,400 --> 00:19:34,680
+Insurance companies know a lot.
+
+495
+00:19:34,680 --> 00:19:36,440
+That's why they're going to go and charge sick people more
+
+496
+00:19:36,440 --> 00:19:39,080
+rates, which would solve the problem we're actually
+
+497
+00:19:39,080 --> 00:19:40,560
+talking about.
+
+498
+00:19:40,560 --> 00:19:43,840
+But that's not our actual complaint.
+
+499
+00:19:43,840 --> 00:19:46,080
+And then this brings you back into the normal world
+
+500
+00:19:46,080 --> 00:19:47,800
+that has nothing to do with economics.
+
+501
+00:19:47,800 --> 00:19:51,840
+What does a normal person want to go and require
+
+502
+00:19:51,840 --> 00:19:54,880
+either ban pre-existing conditions clauses
+
+503
+00:19:54,880 --> 00:19:56,800
+and require equal rates?
+
+504
+00:19:56,800 --> 00:19:59,320
+Normal, economically illiterate person.
+
+505
+00:19:59,320 --> 00:20:00,800
+They find it unreasonable.
+
+

@@ -1,0 +1,1981 @@
+1
+00:00:00,000 --> 00:00:06,000
+And that drives you back to this mixed strategy
+
+2
+00:00:06,000 --> 00:00:07,560
+and Nash equilibrium.
+
+3
+00:00:07,560 --> 00:00:10,560
+A lot of people like a physical metaphor.
+
+4
+00:00:10,560 --> 00:00:14,000
+So suppose that we've got a bunch of mountains here,
+
+5
+00:00:14,000 --> 00:00:17,640
+and we put a ball perfectly at the top.
+
+6
+00:00:17,640 --> 00:00:19,360
+It's exactly balanced at the top.
+
+7
+00:00:19,360 --> 00:00:21,120
+Is that an equilibrium?
+
+8
+00:00:21,120 --> 00:00:21,620
+Yes.
+
+9
+00:00:21,620 --> 00:00:22,120
+Sure.
+
+10
+00:00:22,120 --> 00:00:23,640
+Is it a stable equilibrium?
+
+11
+00:00:23,640 --> 00:00:25,720
+No, because if the ball goes a little to the left,
+
+12
+00:00:25,720 --> 00:00:28,040
+a little bit right, you fall down to the valley.
+
+13
+00:00:28,040 --> 00:00:30,360
+On the other hand, suppose we've got a ball down there.
+
+14
+00:00:30,360 --> 00:00:31,360
+Is that an equilibrium?
+
+15
+00:00:31,360 --> 00:00:31,860
+Yes.
+
+16
+00:00:31,860 --> 00:00:33,120
+Is that a stable equilibrium?
+
+17
+00:00:33,120 --> 00:00:33,620
+Yes.
+
+18
+00:00:33,620 --> 00:00:35,700
+Because if you happen to get blown a little bit left
+
+19
+00:00:35,700 --> 00:00:38,680
+or right, you tend to go right back to where you started.
+
+20
+00:00:38,680 --> 00:00:40,960
+Of course, this doesn't mean that a really big gust
+
+21
+00:00:40,960 --> 00:00:43,360
+couldn't blow you to something totally different.
+
+22
+00:00:43,360 --> 00:00:45,720
+But stability is about local stability.
+
+23
+00:00:45,720 --> 00:00:47,440
+If you just move a little bit either way,
+
+24
+00:00:47,440 --> 00:00:49,920
+you tend to go back or not.
+
+25
+00:00:49,920 --> 00:00:53,120
+This is a physical metaphor for equilibrium,
+
+26
+00:00:53,120 --> 00:00:56,360
+which is of some use.
+
+27
+00:00:56,360 --> 00:00:59,000
+If you're used to thinking about physical objects,
+
+28
+00:00:59,000 --> 00:01:02,040
+then that's a useful metaphor.
+
+29
+00:01:02,040 --> 00:01:04,280
+On the other hand, if you just don't like doing that,
+
+30
+00:01:04,280 --> 00:01:08,360
+then it's just going to confuse you more.
+
+31
+00:01:08,360 --> 00:01:10,360
+Now, the intuition about this mixed strategy
+
+32
+00:01:10,360 --> 00:01:12,840
+and extra equilibrium is that in equilibrium,
+
+33
+00:01:12,840 --> 00:01:15,320
+both strategies are equally good.
+
+34
+00:01:15,320 --> 00:01:18,320
+So the hard strategy is better if you
+
+35
+00:01:18,320 --> 00:01:20,960
+happen to bump into a soft bargainer,
+
+36
+00:01:20,960 --> 00:01:23,760
+but it's worse if you happen to bump into a hard bargainer.
+
+37
+00:01:23,760 --> 00:01:25,880
+The soft bargaining strategy is better
+
+38
+00:01:25,880 --> 00:01:29,520
+if you happen to bump into another soft bargainer.
+
+39
+00:01:29,520 --> 00:01:32,200
+You bump into a hard bargainer, then you've got a problem.
+
+40
+00:01:32,200 --> 00:01:34,720
+But still, it's better than bumping
+
+41
+00:01:34,720 --> 00:01:36,600
+into the hard bargainer with a hard strategy,
+
+42
+00:01:36,600 --> 00:01:39,520
+where you get nothing at all.
+
+43
+00:01:39,520 --> 00:01:41,440
+Selenberg had a line where he says,
+
+44
+00:01:41,440 --> 00:01:44,520
+don't mistake a hard bargainer for a good bargainer.
+
+45
+00:01:44,520 --> 00:01:48,720
+Again, in the model, hard bargainers are, in fact,
+
+46
+00:01:48,720 --> 00:01:49,640
+not worse.
+
+47
+00:01:49,640 --> 00:01:51,200
+They're just mediocre.
+
+48
+00:01:51,200 --> 00:01:52,560
+It's nothing special.
+
+49
+00:01:52,560 --> 00:01:55,560
+And again, sort of the Donald Trump style
+
+50
+00:01:55,560 --> 00:01:58,120
+art of the deal, where there's a whole lot of advice saying,
+
+51
+00:01:58,120 --> 00:02:00,480
+be a hard bargainer.
+
+52
+00:02:00,480 --> 00:02:03,520
+This is not, in fact, if it were as easy as that,
+
+53
+00:02:03,520 --> 00:02:05,000
+then everybody would do it.
+
+54
+00:02:05,000 --> 00:02:06,640
+And of course, if it is, and if that's
+
+55
+00:02:06,640 --> 00:02:08,760
+what everybody were like, then there'd be no deal.
+
+56
+00:02:08,760 --> 00:02:10,600
+So how can that be great?
+
+57
+00:02:10,600 --> 00:02:12,560
+You might say, well, you want everyone to think
+
+58
+00:02:12,560 --> 00:02:13,920
+of you as a hard bargainer.
+
+59
+00:02:13,920 --> 00:02:17,920
+Even that is not clear, as long as people have other options.
+
+60
+00:02:17,920 --> 00:02:21,160
+So if you're the only possible partner in the world,
+
+61
+00:02:21,160 --> 00:02:24,640
+then you might want the reputation as a hard bargainer.
+
+62
+00:02:24,640 --> 00:02:27,040
+Then people will just commission it to you without a fight
+
+63
+00:02:27,040 --> 00:02:28,520
+because they know it's helpless.
+
+64
+00:02:28,520 --> 00:02:30,160
+But if they can just say, hey, I don't
+
+65
+00:02:30,160 --> 00:02:32,800
+want to deal with a person that would write a book like this.
+
+66
+00:02:32,800 --> 00:02:35,800
+Of course, the marketing of the book itself is contradictory.
+
+67
+00:02:35,800 --> 00:02:38,520
+If you really believed in the strategy of art of the deal,
+
+68
+00:02:38,520 --> 00:02:40,960
+you'd be selling the book for $100,000 a copy.
+
+69
+00:02:40,960 --> 00:02:43,160
+And just saying, hey, this is what you have to pay for
+
+70
+00:02:43,160 --> 00:02:44,840
+by great advice.
+
+71
+00:02:44,840 --> 00:02:47,280
+There's no better advice than this than any other book.
+
+72
+00:02:47,280 --> 00:02:48,720
+So if you don't want it, too bad.
+
+73
+00:02:48,720 --> 00:02:50,680
+You've got to pay if you want it.
+
+74
+00:02:50,680 --> 00:02:54,600
+So and yet, the book, of course, is price to sell.
+
+75
+00:02:54,600 --> 00:02:55,100
+Yes?
+
+76
+00:02:55,100 --> 00:02:56,800
+You could build a reputation as a hard bargainer
+
+77
+00:02:56,800 --> 00:02:58,200
+and just give people good deals.
+
+78
+00:02:58,200 --> 00:02:59,800
+And they'll think that they got one wrong
+
+79
+00:02:59,800 --> 00:03:00,600
+and they want to make the deal.
+
+80
+00:03:00,600 --> 00:03:03,320
+There is that possibility as well.
+
+81
+00:03:03,320 --> 00:03:05,080
+Yet, of course, if they really think
+
+82
+00:03:05,080 --> 00:03:06,960
+they're not going to get a good deal for you,
+
+83
+00:03:06,960 --> 00:03:09,040
+they won't even want to listen to your sales pitch.
+
+84
+00:03:09,040 --> 00:03:11,560
+So you don't want it to be too extreme.
+
+85
+00:03:14,200 --> 00:03:17,160
+So we're not doing any psychology yet.
+
+86
+00:03:17,160 --> 00:03:20,280
+My personal view is that probably hard bargaining
+
+87
+00:03:20,280 --> 00:03:21,760
+is overused in general.
+
+88
+00:03:21,760 --> 00:03:23,840
+And we're not actually at the mixed strategy
+
+89
+00:03:23,840 --> 00:03:25,080
+in Nash equilibrium.
+
+90
+00:03:25,080 --> 00:03:26,880
+And I've just seen too many people fighting
+
+91
+00:03:26,880 --> 00:03:28,120
+for no good reason.
+
+92
+00:03:28,120 --> 00:03:29,480
+Where it's like, well, gee, why don't you just
+
+93
+00:03:29,480 --> 00:03:30,680
+go and cooperate with people?
+
+94
+00:03:30,680 --> 00:03:31,880
+Wouldn't that be easier?
+
+95
+00:03:31,880 --> 00:03:34,360
+So I know a lot more cases of people
+
+96
+00:03:34,360 --> 00:03:36,920
+who have ruined relationships while sticking
+
+97
+00:03:36,920 --> 00:03:40,440
+to some stupid principle no one else ever heard of.
+
+98
+00:03:40,440 --> 00:03:43,400
+On the theory that other people are trying to exploit them.
+
+99
+00:03:43,400 --> 00:03:45,900
+And it's like, look, don't they understand this is the rule?
+
+100
+00:03:45,900 --> 00:03:47,480
+I've never heard of this rule before.
+
+101
+00:03:47,480 --> 00:03:50,600
+Probably the people you're mad at haven't heard of it either.
+
+102
+00:03:50,600 --> 00:03:53,360
+So that's just my personal view of things
+
+103
+00:03:53,360 --> 00:03:54,560
+that I've got.
+
+104
+00:03:54,560 --> 00:03:56,840
+We're not presenting any evidence here of this.
+
+105
+00:03:56,840 --> 00:04:00,960
+But in general, part of my general view
+
+106
+00:04:00,960 --> 00:04:03,160
+is that we have a bunch of emotions which perhaps
+
+107
+00:04:03,160 --> 00:04:05,200
+were functional when we were cavemen,
+
+108
+00:04:05,200 --> 00:04:09,360
+but are now highly dysfunctional, such as rage.
+
+109
+00:04:09,360 --> 00:04:12,200
+It's like, look, in general, if you just turn your rage down
+
+110
+00:04:12,200 --> 00:04:14,600
+to one on a scale from 0 to 10, you
+
+111
+00:04:14,600 --> 00:04:17,000
+would have a more successful life overall.
+
+112
+00:04:17,000 --> 00:04:21,080
+And yet most people are up at a three or a four.
+
+113
+00:04:21,080 --> 00:04:24,280
+How often has rage actually accomplished anything for you?
+
+114
+00:04:27,160 --> 00:04:28,040
+Maybe you can come up.
+
+115
+00:04:28,040 --> 00:04:30,560
+So no doubt you can come up with some example or other.
+
+116
+00:04:30,560 --> 00:04:32,960
+But just think about all the times
+
+117
+00:04:32,960 --> 00:04:35,000
+that your rage has actually caused trouble for you
+
+118
+00:04:35,000 --> 00:04:36,160
+and achieved nothing.
+
+119
+00:04:36,160 --> 00:04:37,600
+Or it could be counterproductive.
+
+120
+00:04:37,600 --> 00:04:39,000
+You've made enemies.
+
+121
+00:04:39,000 --> 00:04:42,320
+So you lost a deal and you also lost this deal
+
+122
+00:04:42,320 --> 00:04:45,880
+and you also destroyed the relationship on top of it.
+
+123
+00:04:45,880 --> 00:04:48,920
+But that's nothing to worry about right now.
+
+124
+00:04:48,920 --> 00:04:51,600
+Now, this mixed strategy Nash equilibrium is not first best.
+
+125
+00:04:51,600 --> 00:04:54,080
+First best would be to always be there.
+
+126
+00:04:54,080 --> 00:04:55,520
+That's first best.
+
+127
+00:04:55,520 --> 00:05:00,080
+Always be at the outcome that maximizes the sum of payoffs.
+
+128
+00:05:04,600 --> 00:05:07,000
+But the mixed strategy Nash equilibrium
+
+129
+00:05:07,000 --> 00:05:09,800
+only gives you that outcome 25% of the time.
+
+130
+00:05:09,800 --> 00:05:12,200
+So it's not terrible.
+
+131
+00:05:12,200 --> 00:05:15,280
+And as that outcome gets worse and worse,
+
+132
+00:05:15,280 --> 00:05:17,760
+if we're talking about we both starved to death,
+
+133
+00:05:17,760 --> 00:05:19,320
+then the probability of that happening
+
+134
+00:05:19,320 --> 00:05:21,640
+gets smaller and smaller.
+
+135
+00:05:21,640 --> 00:05:23,600
+And remember, since you only get there
+
+136
+00:05:23,600 --> 00:05:26,360
+if both people have played the hard strategy,
+
+137
+00:05:26,360 --> 00:05:27,920
+then if that outcome is really bad,
+
+138
+00:05:27,920 --> 00:05:31,760
+then it's going to be extremely unlikely that would ever occur.
+
+139
+00:05:31,760 --> 00:05:33,840
+That's balanced by the fact that when it happens,
+
+140
+00:05:33,840 --> 00:05:35,280
+it's a disaster.
+
+141
+00:05:35,280 --> 00:05:38,080
+So keep that in mind.
+
+142
+00:05:38,080 --> 00:05:41,240
+But again, so people like you to think
+
+143
+00:05:41,240 --> 00:05:43,240
+they're going to play hard.
+
+144
+00:05:43,240 --> 00:05:44,840
+But again, the problem is precisely
+
+145
+00:05:44,840 --> 00:05:46,840
+because this perception is value,
+
+146
+00:05:46,840 --> 00:05:48,880
+it's very common for people to not really
+
+147
+00:05:48,880 --> 00:05:52,040
+be as aggressive in bargaining as they say they'll be.
+
+148
+00:05:52,040 --> 00:05:54,880
+So I remember a couple of times my wife told someone,
+
+149
+00:05:54,880 --> 00:05:58,400
+I'll pay that not a penny more.
+
+150
+00:05:58,400 --> 00:06:01,880
+And then generally, so she says that.
+
+151
+00:06:01,880 --> 00:06:04,040
+But it's her, maybe you should believe her actually.
+
+152
+00:06:04,040 --> 00:06:05,960
+But other people don't know that.
+
+153
+00:06:05,960 --> 00:06:09,240
+And so this is not really all the, so people, oh my god,
+
+154
+00:06:09,240 --> 00:06:10,700
+she said wouldn't pay a penny more.
+
+155
+00:06:10,700 --> 00:06:12,720
+So well, then let's give her that exact deal.
+
+156
+00:06:12,720 --> 00:06:14,280
+Or there's no point.
+
+157
+00:06:14,280 --> 00:06:18,240
+I end up further and further into the discussion.
+
+158
+00:06:18,240 --> 00:06:20,360
+All right, now what's kind of nice about this model
+
+159
+00:06:20,360 --> 00:06:23,120
+is that when you do see two people failing to reach a deal
+
+160
+00:06:23,120 --> 00:06:25,000
+and it's clear that it's mutually beneficial,
+
+161
+00:06:25,000 --> 00:06:27,800
+it's tempting just to say they're both stupid, which
+
+162
+00:06:27,800 --> 00:06:30,960
+is a theory we should never dismiss.
+
+163
+00:06:30,960 --> 00:06:32,720
+You can spend a lot of time in economics,
+
+164
+00:06:32,720 --> 00:06:35,640
+but don't lose the basic juvenile theory
+
+165
+00:06:35,640 --> 00:06:37,200
+that people that screw up are idiots.
+
+166
+00:06:37,200 --> 00:06:39,840
+That's not always wrong.
+
+167
+00:06:39,840 --> 00:06:42,120
+But it does open up another possibility,
+
+168
+00:06:42,120 --> 00:06:45,080
+which is that there was something that was socially
+
+169
+00:06:45,080 --> 00:06:47,000
+unpleasant that, rare and nevertheless,
+
+170
+00:06:47,000 --> 00:06:48,500
+result from each person just trying
+
+171
+00:06:48,500 --> 00:06:51,240
+to advance their own interests in a reasonable way.
+
+172
+00:06:51,240 --> 00:06:55,240
+So that is a possibility.
+
+173
+00:06:55,240 --> 00:06:56,440
+So anyway, good enough.
+
+174
+00:06:56,440 --> 00:06:57,600
+And what is the possibility?
+
+175
+00:06:57,600 --> 00:06:58,520
+Really just bad luck.
+
+176
+00:06:58,520 --> 00:07:00,880
+So everyone's randomizing.
+
+177
+00:07:00,880 --> 00:07:02,800
+And then we happen to get in a situation
+
+178
+00:07:02,800 --> 00:07:07,080
+where both people randomly chose the outcomes which,
+
+179
+00:07:07,080 --> 00:07:11,600
+in combination, are bad for both of them.
+
+180
+00:07:11,600 --> 00:07:12,840
+All right.
+
+181
+00:07:12,840 --> 00:07:15,040
+OK, questions, questions.
+
+182
+00:07:15,040 --> 00:07:16,440
+I'm happy.
+
+183
+00:07:16,440 --> 00:07:18,920
+All right, so remember, our energy
+
+184
+00:07:18,920 --> 00:07:22,640
+is at a very high level despite all biology,
+
+185
+00:07:22,640 --> 00:07:25,080
+despite the time of day, despite whatever other work we have
+
+186
+00:07:25,080 --> 00:07:27,600
+done, because if we are here in this room,
+
+187
+00:07:27,600 --> 00:07:29,920
+there could only be one possible explanation.
+
+188
+00:07:29,920 --> 00:07:31,520
+No one studies economics for the money.
+
+189
+00:07:31,520 --> 00:07:34,360
+They study it for the love of the subject.
+
+190
+00:07:34,360 --> 00:07:39,600
+And therefore, it follows that we are delighted to be here
+
+191
+00:07:39,600 --> 00:07:42,000
+and are full of enthusiasm because this is the high point
+
+192
+00:07:42,000 --> 00:07:43,840
+of our week, correct?
+
+193
+00:07:43,840 --> 00:07:45,720
+Right, OK, good.
+
+194
+00:07:45,720 --> 00:07:48,120
+All right, now, this bargaining game
+
+195
+00:07:48,120 --> 00:07:51,560
+is better known as another game, better
+
+196
+00:07:51,560 --> 00:07:57,080
+known as the chicken game or also named
+
+197
+00:07:57,080 --> 00:08:01,200
+after two other birds, hock and dub, hock out game.
+
+198
+00:08:01,200 --> 00:08:05,040
+All right, now, the main change when people represent that game
+
+199
+00:08:05,040 --> 00:08:08,800
+is they'll usually go and instead of making it zero,
+
+200
+00:08:08,800 --> 00:08:10,920
+which sounds like the payoffs from just not getting
+
+201
+00:08:10,920 --> 00:08:13,800
+to a bargain, you'll go and do something like negative 10,
+
+202
+00:08:13,800 --> 00:08:18,400
+negative 10, showing that when everyone is belligerent
+
+203
+00:08:18,400 --> 00:08:19,960
+or when everyone is uncooperative,
+
+204
+00:08:19,960 --> 00:08:22,480
+then you get total and you get a disaster.
+
+205
+00:08:22,480 --> 00:08:24,600
+All right, so that, we also have slight variation.
+
+206
+00:08:24,600 --> 00:08:27,040
+But this is only in the interpretation.
+
+207
+00:08:27,040 --> 00:08:30,400
+This is not changing anything about the actual game.
+
+208
+00:08:30,400 --> 00:08:36,320
+All right, so again, but kind of then common to go and relabel.
+
+209
+00:08:36,320 --> 00:08:39,840
+Instead of Harkins off, we can go and relabel this
+
+210
+00:08:39,840 --> 00:08:48,240
+as war and peace, war and peace.
+
+211
+00:08:48,240 --> 00:08:51,160
+And then there's a new interpretation
+
+212
+00:08:51,160 --> 00:08:53,800
+of the same basic payoff structure, right?
+
+213
+00:08:53,800 --> 00:08:56,080
+Like, isn't the best world one where all countries are
+
+214
+00:08:56,080 --> 00:08:57,440
+at peace with each other?
+
+215
+00:08:57,440 --> 00:08:58,840
+Sounds good, right?
+
+216
+00:08:58,840 --> 00:09:00,720
+And isn't it a total disaster when countries
+
+217
+00:09:00,720 --> 00:09:02,400
+go to war with each other?
+
+218
+00:09:02,400 --> 00:09:03,560
+Yes?
+
+219
+00:09:03,560 --> 00:09:07,680
+So anyone read All Quiet in the Western Front?
+
+220
+00:09:07,680 --> 00:09:08,640
+Yes.
+
+221
+00:09:08,640 --> 00:09:12,160
+So now, geez, that's not a sight in high school anymore?
+
+222
+00:09:12,160 --> 00:09:13,240
+Terrible.
+
+223
+00:09:13,240 --> 00:09:14,280
+All right, it's one of the few good things
+
+224
+00:09:14,280 --> 00:09:15,600
+to cite in high school.
+
+225
+00:09:15,600 --> 00:09:19,400
+The graphic descriptions of World War I hospitals, right?
+
+226
+00:09:19,400 --> 00:09:22,280
+And the list of all the places a man can receive a wound.
+
+227
+00:09:22,280 --> 00:09:23,800
+All right?
+
+228
+00:09:23,800 --> 00:09:25,080
+It's almost a quote.
+
+229
+00:09:25,080 --> 00:09:27,280
+Almost a quote.
+
+230
+00:09:27,280 --> 00:09:29,360
+Yeah, so terrible.
+
+231
+00:09:29,360 --> 00:09:30,000
+All right, yes.
+
+232
+00:09:30,000 --> 00:09:30,840
+So it remains a line.
+
+233
+00:09:30,840 --> 00:09:34,600
+The hospital alone shows what war is.
+
+234
+00:09:34,600 --> 00:09:37,040
+Any case, so when there's a war, then there
+
+235
+00:09:37,040 --> 00:09:39,160
+is total devastation.
+
+236
+00:09:39,160 --> 00:09:42,720
+But if you are warlike and the other side abuses you,
+
+237
+00:09:42,720 --> 00:09:46,440
+then the usual story is that they give you great stuff,
+
+238
+00:09:46,440 --> 00:09:48,640
+and you don't actually have to fight them.
+
+239
+00:09:48,640 --> 00:09:53,080
+And then they're better off than if they had fought.
+
+240
+00:09:53,080 --> 00:09:56,440
+Although still, they are unhappy with getting ripped off.
+
+241
+00:09:56,440 --> 00:09:58,200
+But too bad.
+
+242
+00:09:58,200 --> 00:09:59,200
+Too bad.
+
+243
+00:09:59,200 --> 00:10:00,080
+So we have intuition.
+
+244
+00:10:00,080 --> 00:10:03,240
+So universal peace is usually beneficial,
+
+245
+00:10:03,240 --> 00:10:06,320
+but maybe it's not an equilibrium.
+
+246
+00:10:06,320 --> 00:10:07,680
+So maybe it's not an equilibrium.
+
+247
+00:10:07,680 --> 00:10:10,320
+And in fact, as drawn here, it's clearly not, right?
+
+248
+00:10:10,320 --> 00:10:14,040
+So the equilibrium there are war, peace, and peace, war.
+
+249
+00:10:14,040 --> 00:10:16,720
+Although that still gives us the optimistic story
+
+250
+00:10:16,720 --> 00:10:20,440
+that actual full-blown war never happens, right?
+
+251
+00:10:20,440 --> 00:10:24,560
+Because world war isn't in equilibrium either.
+
+252
+00:10:24,560 --> 00:10:27,120
+So the classic line in foreign policy is,
+
+253
+00:10:27,120 --> 00:10:29,320
+who will blink first?
+
+254
+00:10:29,320 --> 00:10:32,440
+Who will blink first?
+
+255
+00:10:32,440 --> 00:10:33,520
+And blinking is what?
+
+256
+00:10:33,520 --> 00:10:35,080
+War or peace?
+
+257
+00:10:35,080 --> 00:10:35,840
+Blinking is peace.
+
+258
+00:10:35,840 --> 00:10:37,920
+Blinking is like, OK, OK, OK, sorry.
+
+259
+00:10:37,920 --> 00:10:39,720
+Sorry.
+
+260
+00:10:39,720 --> 00:10:41,640
+Stop your Berlin airlift.
+
+261
+00:10:41,640 --> 00:10:42,800
+It's my mistake.
+
+262
+00:10:42,800 --> 00:10:44,080
+What Berlin airlift?
+
+263
+00:10:44,080 --> 00:10:44,600
+No, no, no.
+
+264
+00:10:44,600 --> 00:10:45,720
+What are you talking about?
+
+265
+00:10:45,720 --> 00:10:46,880
+That's just capitalist propaganda
+
+266
+00:10:46,880 --> 00:10:48,520
+that we were stopping your planes in the middle of that.
+
+267
+00:10:48,520 --> 00:10:49,080
+Never happened.
+
+268
+00:10:49,080 --> 00:10:49,880
+I don't know what you're talking about.
+
+269
+00:10:49,880 --> 00:10:50,640
+Of course.
+
+270
+00:10:50,640 --> 00:10:51,600
+Fly the planes you want.
+
+271
+00:10:51,600 --> 00:10:53,560
+Whatever.
+
+272
+00:10:53,560 --> 00:10:56,320
+So anyway, so all countries are peace loving.
+
+273
+00:10:56,320 --> 00:10:57,880
+Then there's incentive for one country
+
+274
+00:10:57,880 --> 00:11:00,120
+to become the aggressive one, and then
+
+275
+00:11:00,120 --> 00:11:02,240
+bully the other ones.
+
+276
+00:11:02,240 --> 00:11:05,520
+Now again, as I was saying, the more extremely bad
+
+277
+00:11:05,520 --> 00:11:07,960
+those world war payoffs are, the less likely
+
+278
+00:11:07,960 --> 00:11:10,240
+you are to get war.
+
+279
+00:11:10,240 --> 00:11:16,080
+And if an individual country's probability of playing war
+
+280
+00:11:16,080 --> 00:11:18,920
+falls like 1 in 1,000, then what is the probability
+
+281
+00:11:18,920 --> 00:11:24,400
+that you get two war plays simultaneously?
+
+282
+00:11:24,400 --> 00:11:25,400
+1 in a million, right?
+
+283
+00:11:25,400 --> 00:11:29,240
+So this means if that payoff gets bad enough,
+
+284
+00:11:29,240 --> 00:11:31,680
+the mixed strategy falls to a very low amount.
+
+285
+00:11:31,680 --> 00:11:33,960
+But it's still stable because each country
+
+286
+00:11:33,960 --> 00:11:38,360
+is deterred by this small but terrible possibility.
+
+287
+00:11:38,360 --> 00:11:39,800
+All right.
+
+288
+00:11:39,800 --> 00:11:43,920
+Now, you may actually be familiar with a theory
+
+289
+00:11:43,920 --> 00:11:46,640
+of foreign policy, according to which the reason why we've
+
+290
+00:11:46,640 --> 00:11:49,720
+had more or less little peace since 1945
+
+291
+00:11:49,720 --> 00:11:54,320
+is because those war war payoffs became totally terrible.
+
+292
+00:11:54,320 --> 00:11:58,600
+And there's even a special name for this theory,
+
+293
+00:11:58,600 --> 00:12:00,880
+which is a funny three letter name.
+
+294
+00:12:00,880 --> 00:12:01,380
+Mad.
+
+295
+00:12:01,380 --> 00:12:02,560
+Mad, yes.
+
+296
+00:12:02,560 --> 00:12:07,640
+Mad, which stands for mutually assured destruction.
+
+297
+00:12:07,640 --> 00:12:10,760
+So if those payoffs are negative trillion,
+
+298
+00:12:10,760 --> 00:12:13,560
+then the odds that there will ever be a nuclear war
+
+299
+00:12:13,560 --> 00:12:17,040
+is very low, which is a pretty comforting theory.
+
+300
+00:12:17,040 --> 00:12:18,960
+It says, look, all we need to go and make
+
+301
+00:12:18,960 --> 00:12:24,240
+sure the world stays at peace is that both sides have
+
+302
+00:12:24,240 --> 00:12:26,960
+weapons such that if both sides use them,
+
+303
+00:12:26,960 --> 00:12:29,520
+it would destroy mankind.
+
+304
+00:12:29,520 --> 00:12:31,560
+And of course, if you took this really seriously,
+
+305
+00:12:31,560 --> 00:12:33,240
+then you might have the view that you
+
+306
+00:12:33,240 --> 00:12:37,000
+should start going around giving nukes to your enemies.
+
+307
+00:12:37,000 --> 00:12:39,320
+So it's OK.
+
+308
+00:12:39,320 --> 00:12:41,320
+So at least 15 years ago, Tyler said
+
+309
+00:12:41,320 --> 00:12:43,120
+he'd be glad if Iran got nuclear weapons.
+
+310
+00:12:43,120 --> 00:12:43,960
+It would be great.
+
+311
+00:12:43,960 --> 00:12:44,460
+Sure.
+
+312
+00:12:44,460 --> 00:12:46,960
+He might even have said, I'd give them to him if I had them.
+
+313
+00:12:46,960 --> 00:12:48,040
+So this is no violation.
+
+314
+00:12:48,040 --> 00:12:49,880
+But he didn't do anything, obviously.
+
+315
+00:12:49,880 --> 00:12:52,720
+He just had the nuclear weapons.
+
+316
+00:12:52,720 --> 00:12:56,360
+I thought this was a bit odd.
+
+317
+00:12:56,360 --> 00:12:57,840
+And he did actually bite the bullet.
+
+318
+00:12:57,840 --> 00:13:00,040
+It was a good thing when Stalin got nuclear weapons.
+
+319
+00:13:00,040 --> 00:13:01,960
+And I'm like, crazy.
+
+320
+00:13:01,960 --> 00:13:04,080
+He's like, well, it all worked out.
+
+321
+00:13:04,080 --> 00:13:05,040
+Yeah.
+
+322
+00:13:05,040 --> 00:13:09,360
+So a lot of things that are really risky still work out,
+
+323
+00:13:09,360 --> 00:13:11,400
+like the time I blew up a mailbox with my friend
+
+324
+00:13:11,400 --> 00:13:12,080
+in eighth grade.
+
+325
+00:13:12,080 --> 00:13:17,240
+But nevertheless, I could have lost the,
+
+326
+00:13:17,240 --> 00:13:18,860
+not only could I have lost my fingers,
+
+327
+00:13:18,860 --> 00:13:21,440
+my friend became a famous concert pianist.
+
+328
+00:13:21,440 --> 00:13:24,640
+He lit gunpowder with a match.
+
+329
+00:13:24,640 --> 00:13:27,920
+All right, so look.
+
+330
+00:13:27,920 --> 00:13:29,840
+Isn't that also a federal offense?
+
+331
+00:13:29,840 --> 00:13:30,880
+It is a federal offense.
+
+332
+00:13:30,880 --> 00:13:32,120
+That's statute of limitations.
+
+333
+00:13:32,120 --> 00:13:32,620
+All right.
+
+334
+00:13:32,620 --> 00:13:33,120
+All right.
+
+335
+00:13:33,120 --> 00:13:36,240
+I'm going to get out of here.
+
+336
+00:13:36,240 --> 00:13:40,000
+All right, so anyway, that's the intuition behind that.
+
+337
+00:13:40,000 --> 00:13:42,200
+And it does give us an alternative interpretation
+
+338
+00:13:42,200 --> 00:13:44,200
+about why wars would occur.
+
+339
+00:13:44,200 --> 00:13:46,760
+And he just says, look, wars occur because of bad luck,
+
+340
+00:13:46,760 --> 00:13:48,360
+and not stupidity.
+
+341
+00:13:48,360 --> 00:13:50,680
+So in a normal history of World War I,
+
+342
+00:13:50,680 --> 00:13:53,160
+will be something along the lines of, God,
+
+343
+00:13:53,160 --> 00:13:55,680
+what a bunch of idiots they all were.
+
+344
+00:13:55,680 --> 00:13:58,120
+But this does say there's another story.
+
+345
+00:13:58,120 --> 00:14:02,320
+And the story just says, look, it was bad luck.
+
+346
+00:14:02,320 --> 00:14:04,000
+And they're like, yeah, I didn't say it.
+
+347
+00:14:04,000 --> 00:14:04,280
+How is it bad luck?
+
+348
+00:14:04,280 --> 00:14:06,720
+Well, there were a whole bunch of other very similar
+
+349
+00:14:06,720 --> 00:14:09,160
+conflicts to what happened before World War I.
+
+350
+00:14:09,160 --> 00:14:11,640
+And none of those led to World War.
+
+351
+00:14:11,640 --> 00:14:15,320
+Instead, in all of those, somebody blinked.
+
+352
+00:14:15,320 --> 00:14:17,840
+But if both sides are sitting there waiting for somebody
+
+353
+00:14:17,840 --> 00:14:20,280
+to blink, and then, well, we're going
+
+354
+00:14:20,280 --> 00:14:22,920
+to declare war in five minutes unless you give in.
+
+355
+00:14:22,920 --> 00:14:25,520
+Oh, we're declaring war in five minutes unless you give in.
+
+356
+00:14:25,520 --> 00:14:26,600
+OK, then.
+
+357
+00:14:26,600 --> 00:14:28,560
+Well, let's just let the clock tick.
+
+358
+00:14:28,560 --> 00:14:30,480
+Both sides say, when is he going to blink?
+
+359
+00:14:30,480 --> 00:14:32,360
+And then the alarm rings.
+
+360
+00:14:32,360 --> 00:14:33,240
+Oh my god!
+
+361
+00:14:33,240 --> 00:14:34,600
+Well, I guess we're going to war.
+
+362
+00:14:34,600 --> 00:14:36,040
+And we're killing each other.
+
+363
+00:14:36,040 --> 00:14:38,240
+So that's the story.
+
+364
+00:14:38,240 --> 00:14:40,000
+So anyway, just both sides happen
+
+365
+00:14:40,000 --> 00:14:44,320
+to be playing aggressively rather than sheer stupidity.
+
+366
+00:14:44,320 --> 00:14:45,800
+All right, now, again, of course,
+
+367
+00:14:45,800 --> 00:14:47,680
+the more you know about these wars,
+
+368
+00:14:47,680 --> 00:14:50,360
+the more you can actually say about this.
+
+369
+00:14:50,360 --> 00:14:52,640
+So if you have a lot of details about it,
+
+370
+00:14:52,640 --> 00:14:54,160
+now, I'd say the more details I know,
+
+371
+00:14:54,160 --> 00:14:56,840
+the less inclined I am to just say it was just bad luck.
+
+372
+00:14:56,840 --> 00:15:00,840
+And the more inclined to, thank god, what idiots they were.
+
+373
+00:15:00,840 --> 00:15:02,360
+And so much idiocy to go around.
+
+374
+00:15:05,760 --> 00:15:08,120
+In particular, just think about how many monarchs
+
+375
+00:15:08,120 --> 00:15:10,680
+lost their thrones or their lives over this.
+
+376
+00:15:10,680 --> 00:15:13,680
+It's like, look, I can't just back down here.
+
+377
+00:15:13,680 --> 00:15:15,280
+Yeah, I think you can.
+
+378
+00:15:15,280 --> 00:15:16,000
+Just back down.
+
+379
+00:15:16,000 --> 00:15:17,880
+It's not going to be that bad.
+
+380
+00:15:17,880 --> 00:15:19,400
+It's like, I'll be overthrown.
+
+381
+00:15:19,400 --> 00:15:20,120
+I don't think so.
+
+382
+00:15:20,120 --> 00:15:23,280
+Why don't you just go and try a different strategy?
+
+383
+00:15:23,280 --> 00:15:25,400
+So if I were the czar, for example,
+
+384
+00:15:25,400 --> 00:15:27,920
+rather than fight World War I, I would have just
+
+385
+00:15:27,920 --> 00:15:29,880
+got my most trusted men, the secret police.
+
+386
+00:15:29,880 --> 00:15:32,560
+And so here's a list of all the hawks.
+
+387
+00:15:32,560 --> 00:15:35,160
+Arrest them and kill them tonight.
+
+388
+00:15:35,160 --> 00:15:36,560
+And then the next day you wake up.
+
+389
+00:15:36,560 --> 00:15:37,800
+You say, we've made peace with Germany.
+
+390
+00:15:37,800 --> 00:15:39,480
+And there's a whole bunch of traitors
+
+391
+00:15:39,480 --> 00:15:42,200
+who are trying, who are conspiring with our enemies
+
+392
+00:15:42,200 --> 00:15:46,360
+to destroy our country.
+
+393
+00:15:46,360 --> 00:15:48,040
+This type of thing has been done before.
+
+394
+00:15:48,040 --> 00:15:50,000
+It's worked very nicely several times.
+
+395
+00:15:50,000 --> 00:15:52,360
+Doesn't get a lot of attention.
+
+396
+00:15:52,360 --> 00:15:54,080
+Of course, I'm not in this position.
+
+397
+00:15:54,080 --> 00:15:57,840
+But I was like, you just go and kill all the war mongers
+
+398
+00:15:57,840 --> 00:15:58,640
+in your country?
+
+399
+00:15:58,640 --> 00:16:00,680
+Not all of them, just the ones that are actually
+
+400
+00:16:00,680 --> 00:16:02,360
+in a position to do something about it.
+
+401
+00:16:04,880 --> 00:16:09,320
+So now, all of this is just based upon a single-shot game.
+
+402
+00:16:09,320 --> 00:16:11,000
+What about repeated play?
+
+403
+00:16:11,000 --> 00:16:12,840
+Well, pretty obviously, with repeated play,
+
+404
+00:16:12,840 --> 00:16:15,000
+can we make peace work?
+
+405
+00:16:15,000 --> 00:16:17,320
+Is it possible, at least?
+
+406
+00:16:17,320 --> 00:16:18,960
+Totally possible.
+
+407
+00:16:18,960 --> 00:16:21,400
+And what is the key parameter for whether or not
+
+408
+00:16:21,400 --> 00:16:24,960
+repeated play will be enough to give you cooperation?
+
+409
+00:16:24,960 --> 00:16:27,360
+It's got a nice Greek name.
+
+410
+00:16:27,360 --> 00:16:29,680
+What do we call it?
+
+411
+00:16:29,680 --> 00:16:31,000
+Not alpha.
+
+412
+00:16:31,000 --> 00:16:31,560
+Beta.
+
+413
+00:16:31,560 --> 00:16:33,840
+Yes, beta, the discount factor.
+
+414
+00:16:33,840 --> 00:16:35,600
+All right, so I don't know why it's beta.
+
+415
+00:16:35,600 --> 00:16:36,680
+But anyway, it's beta.
+
+416
+00:16:36,680 --> 00:16:38,440
+So yeah, if you've got beta equals 1,
+
+417
+00:16:38,440 --> 00:16:41,320
+then you can always sustain cooperation, right?
+
+418
+00:16:41,320 --> 00:16:43,720
+Because then you could do a trigger strategy where you say,
+
+419
+00:16:43,720 --> 00:16:46,400
+look, we always play peace.
+
+420
+00:16:46,400 --> 00:16:52,120
+But if someone ever plays war, then for the rest of time,
+
+421
+00:16:52,120 --> 00:16:54,320
+the person that played war plays peace,
+
+422
+00:16:54,320 --> 00:16:57,480
+and the other side plays war.
+
+423
+00:16:57,480 --> 00:16:58,940
+And then you just need to work out,
+
+424
+00:16:58,940 --> 00:17:00,560
+what happens if we both betray?
+
+425
+00:17:00,560 --> 00:17:03,200
+And then, let's see.
+
+426
+00:17:03,200 --> 00:17:07,720
+Then maybe you alternate forevermore, something like that.
+
+427
+00:17:07,720 --> 00:17:09,680
+Anyway, you can work that all out.
+
+428
+00:17:09,680 --> 00:17:11,640
+And you remember, so basically what you're doing
+
+429
+00:17:11,640 --> 00:17:15,840
+is you're going to be comparing the infinite sum of t
+
+430
+00:17:15,840 --> 00:17:18,880
+equals 0 to infinity of 4 raised to the beta times t.
+
+431
+00:17:18,880 --> 00:17:21,340
+And seeing whether that's going to be greater than or equal
+
+432
+00:17:21,340 --> 00:17:24,400
+to the payoff that you get from betrayal,
+
+433
+00:17:24,400 --> 00:17:26,360
+from playing war, which would be 5,
+
+434
+00:17:26,360 --> 00:17:29,920
+and then plus infinite sum of t equals 1
+
+435
+00:17:29,920 --> 00:17:31,680
+to infinity of whatever the punishment is.
+
+436
+00:17:31,680 --> 00:17:35,520
+So my proposed one, say, would be 1 raised to the beta.
+
+437
+00:17:35,520 --> 00:17:36,680
+You can work through that.
+
+438
+00:17:36,680 --> 00:17:39,160
+You can see that it would be very easy for peace
+
+439
+00:17:39,160 --> 00:17:40,560
+to be in equilibrium there.
+
+440
+00:17:40,560 --> 00:17:43,000
+It's like, look, I feel like we have a nice peace here.
+
+441
+00:17:43,000 --> 00:17:47,360
+But if you ever betray me, then there's
+
+442
+00:17:47,360 --> 00:17:48,360
+going to be war forever.
+
+443
+00:17:48,360 --> 00:17:51,320
+And it's going to be war that is disadvantageous to you.
+
+444
+00:17:51,320 --> 00:17:53,400
+We were going to be the enemy.
+
+445
+00:17:53,400 --> 00:17:55,440
+And you will be treated as the enemy.
+
+446
+00:17:55,440 --> 00:17:59,360
+You will be ostracized or what have you.
+
+447
+00:17:59,360 --> 00:18:02,280
+All right, but there is the possibility
+
+448
+00:18:02,280 --> 00:18:05,720
+countries just try to build up a reputation for aggressiveness.
+
+449
+00:18:05,720 --> 00:18:08,180
+Remember what I was telling you about that TELEC experiment
+
+450
+00:18:08,180 --> 00:18:09,600
+where you can change your partner
+
+451
+00:18:09,600 --> 00:18:11,240
+to the prisoner of Suleiman?
+
+452
+00:18:11,240 --> 00:18:12,960
+So again, there's also the possibility,
+
+453
+00:18:12,960 --> 00:18:16,360
+what about a world where you are glued to your partner?
+
+454
+00:18:16,360 --> 00:18:20,720
+Or imagine a world where first of all,
+
+455
+00:18:20,720 --> 00:18:22,600
+there's like five people who are hand-picked.
+
+456
+00:18:22,600 --> 00:18:24,680
+And they get to go and write down their strategies
+
+457
+00:18:24,680 --> 00:18:27,760
+for the next 100 turns in advance.
+
+458
+00:18:27,760 --> 00:18:29,640
+And then they get paired up with other people
+
+459
+00:18:29,640 --> 00:18:32,000
+who have to move second.
+
+460
+00:18:32,000 --> 00:18:33,960
+And then maybe those people who are hand-picked
+
+461
+00:18:33,960 --> 00:18:36,360
+will just say, war, war, war for 100 turns.
+
+462
+00:18:36,360 --> 00:18:38,920
+And then when that period ends, people are like, man,
+
+463
+00:18:38,920 --> 00:18:40,440
+the guy's played war for 100 turns.
+
+464
+00:18:40,440 --> 00:18:42,920
+So I think that he's probably going to keep playing war.
+
+465
+00:18:42,920 --> 00:18:45,080
+So you might want to do that.
+
+466
+00:18:45,080 --> 00:18:47,560
+So remember I told you at Genghis Khan,
+
+467
+00:18:47,560 --> 00:18:49,240
+if a city doesn't immediately surrender,
+
+468
+00:18:49,240 --> 00:18:53,280
+does it kill everyone in the city and destroy the city?
+
+469
+00:18:53,280 --> 00:18:55,520
+All right, and then the next time you show up in a city
+
+470
+00:18:55,520 --> 00:18:57,640
+and say, we demand your immediate surrender,
+
+471
+00:18:57,640 --> 00:18:59,600
+people don't laugh at you.
+
+472
+00:18:59,600 --> 00:19:00,920
+Right, they say, oh.
+
+473
+00:19:00,920 --> 00:19:02,800
+Wait, well, what happens if we do surrender?
+
+474
+00:19:02,800 --> 00:19:04,840
+We've seen examples of that occurring.
+
+475
+00:19:04,840 --> 00:19:07,200
+So you don't want to go and massacre everyone when they do
+
+476
+00:19:07,200 --> 00:19:09,160
+surrender, because then that's bad for business.
+
+477
+00:19:09,160 --> 00:19:11,920
+But kill everyone when they don't surrender,
+
+478
+00:19:11,920 --> 00:19:13,320
+and spare everyone when they do.
+
+479
+00:19:13,320 --> 00:19:16,080
+That one's pretty good.
+
+480
+00:19:16,080 --> 00:19:19,440
+All right, and now we get to turn
+
+481
+00:19:19,440 --> 00:19:22,800
+to one of the greatest abuses of game theory
+
+482
+00:19:22,800 --> 00:19:26,480
+in the history of philosophy, the case of Thomas Hobbes'
+
+483
+00:19:26,480 --> 00:19:27,960
+Leviathan.
+
+484
+00:19:27,960 --> 00:19:32,080
+All right, so you guys have all heard of Thomas Hobbes?
+
+485
+00:19:32,080 --> 00:19:36,080
+All right, yes, so in Leviathan, Hobbes
+
+486
+00:19:36,080 --> 00:19:39,200
+describes the state of nature in very bleak terms.
+
+487
+00:19:39,200 --> 00:19:43,120
+And he says that this is not a caricature.
+
+488
+00:19:43,120 --> 00:19:45,480
+This is, well, there's only a few pages
+
+489
+00:19:45,480 --> 00:19:46,520
+where he talks about it.
+
+490
+00:19:46,520 --> 00:19:49,080
+So you can read all the pages and see I am not unfairly
+
+491
+00:19:49,080 --> 00:19:50,720
+describing what he says.
+
+492
+00:19:50,720 --> 00:19:54,720
+And so what he says is, look, if two strangers meet
+
+493
+00:19:54,720 --> 00:19:57,720
+in the forest, they will try to kill each other.
+
+494
+00:19:57,720 --> 00:19:59,040
+Will.
+
+495
+00:19:59,040 --> 00:20:00,360
+Right, why?
+
+

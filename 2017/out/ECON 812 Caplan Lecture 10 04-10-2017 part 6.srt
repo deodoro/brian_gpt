@@ -1,0 +1,1313 @@
+1
+00:00:00,000 --> 00:00:04,000
+And which is the one right way to find out whether people are overconfident?
+
+2
+00:00:04,000 --> 00:00:06,000
+I don't know.
+
+3
+00:00:06,000 --> 00:00:08,000
+There's two different approaches which give two different answers.
+
+4
+00:00:08,000 --> 00:00:11,000
+It seems reasonable to me to split the difference and say,
+
+5
+00:00:11,000 --> 00:00:14,000
+kind of seems like it, but maybe not.
+
+6
+00:00:14,000 --> 00:00:18,000
+Or, of course, maybe it is highly subject specific.
+
+7
+00:00:18,000 --> 00:00:22,000
+Like people are very overconfident in their political claims.
+
+8
+00:00:22,000 --> 00:00:31,000
+But maybe not so overconfident in, say, whether or not they're going to be getting a raise next week or something like that.
+
+9
+00:00:31,000 --> 00:00:34,000
+Also possible.
+
+10
+00:00:34,000 --> 00:00:38,000
+Alright, so questions about that?
+
+11
+00:00:38,000 --> 00:00:40,000
+Yes, Nathan?
+
+12
+00:00:40,000 --> 00:00:47,000
+Has there been anything on the interaction between this sort of epistemic overconfidence and social desirability bias?
+
+13
+00:00:47,000 --> 00:00:49,000
+That's a great question, yeah.
+
+14
+00:00:49,000 --> 00:00:55,000
+It might look really bad to say, oh, well I'm not sure if this thing is a bad thing.
+
+15
+00:00:55,000 --> 00:01:00,000
+Yeah, I don't know if your dog can be saved by the vet.
+
+16
+00:01:00,000 --> 00:01:04,000
+I'm sure the vet will be able to take care of this.
+
+17
+00:01:04,000 --> 00:01:06,000
+That's what a good person says.
+
+18
+00:01:06,000 --> 00:01:10,000
+An honest person who says, I don't know, he looks incurable to me, I think you're just wasting your money.
+
+19
+00:01:10,000 --> 00:01:15,000
+Not a nice thing to say.
+
+20
+00:01:15,000 --> 00:01:23,000
+According to society, although according to true concern for another person,
+
+21
+00:01:23,000 --> 00:01:29,000
+say, well look, there's a question, can you say the truth with sympathy?
+
+22
+00:01:29,000 --> 00:01:37,000
+Like, I know a lot about veterinary medicine, there's nothing they can say to your dog, and that person is just taking advantage of you.
+
+23
+00:01:37,000 --> 00:01:39,000
+Try that.
+
+24
+00:01:39,000 --> 00:01:41,000
+Might work.
+
+25
+00:01:41,000 --> 00:01:45,000
+You can't give up on my dog.
+
+26
+00:01:45,000 --> 00:01:48,000
+Who are you to say whether a dog will live or die?
+
+27
+00:01:48,000 --> 00:01:54,000
+Doctor of veterinary medicine, qualified as anyone, specializing in this very disease.
+
+28
+00:01:54,000 --> 00:01:56,000
+No one will get to convince me.
+
+29
+00:01:56,000 --> 00:02:03,000
+So there's that mentality, which you may have seen in plenty of cases.
+
+30
+00:02:03,000 --> 00:02:05,000
+So yeah, I don't know if anyone saw that.
+
+31
+00:02:05,000 --> 00:02:08,000
+It seems very plausible, and maybe that could be a dissertation.
+
+32
+00:02:08,000 --> 00:02:09,000
+Who knows?
+
+33
+00:02:09,000 --> 00:02:13,000
+But anyway, so interaction between social desirability bias and overconfidence.
+
+34
+00:02:13,000 --> 00:02:22,000
+And sort of along those lines, I'd be curious to see what work's been done regarding the sort of general overconfidence,
+
+35
+00:02:22,000 --> 00:02:28,000
+underconfidence of professional researchers and practitioners in economics, medicine, and whatnot.
+
+36
+00:02:28,000 --> 00:02:36,000
+You think of episodes like how forever we thought that fat was the problem, and now it's carbs.
+
+37
+00:02:36,000 --> 00:02:39,000
+And social desirability bias.
+
+38
+00:02:39,000 --> 00:02:45,000
+So once people say, it's the fat that makes you fat, and like any time you say, what?
+
+39
+00:02:45,000 --> 00:02:47,000
+The fat makes you fat.
+
+40
+00:02:47,000 --> 00:02:53,000
+Once that saying becomes socially accepted and standard, then anyone saying something else,
+
+41
+00:02:53,000 --> 00:02:56,000
+it's almost like you're saying, so you want people to be fat, huh?
+
+42
+00:02:56,000 --> 00:02:58,000
+You just think it's great for people to die of obesity.
+
+43
+00:02:58,000 --> 00:02:59,000
+That's the way.
+
+44
+00:02:59,000 --> 00:03:01,000
+I'm saying that's the wrong theory.
+
+45
+00:03:01,000 --> 00:03:04,000
+What's the wrong theory?
+
+46
+00:03:04,000 --> 00:03:16,000
+We're supposed to like, when did you become a paid disciple of big fat?
+
+47
+00:03:16,000 --> 00:03:17,000
+So real-world significance.
+
+48
+00:03:17,000 --> 00:03:24,000
+This is something where, over time I have moved the view that this matters more than I initially thought.
+
+49
+00:03:24,000 --> 00:03:26,000
+I am not constantly moving this direction.
+
+50
+00:03:26,000 --> 00:03:29,000
+I stabilized a while back.
+
+51
+00:03:29,000 --> 00:03:37,000
+But some of the experiments show that you've got a lot of problems, but what real-world mistakes can be attributed to them?
+
+52
+00:03:37,000 --> 00:03:43,000
+So like in the week where we do public choice, I'll mention, I think that this describes political views so well,
+
+53
+00:03:43,000 --> 00:03:51,000
+and so painfully well, just to see the opinions that people have on subjects that they couldn't possibly know much of anything about.
+
+54
+00:03:51,000 --> 00:03:56,000
+Just the way that everybody knows that elasticities work the way they want them to work,
+
+55
+00:03:56,000 --> 00:04:01,000
+and they know it before they even know what elasticity they need for the answer.
+
+56
+00:04:01,000 --> 00:04:06,000
+So imagine you're teaching someone elasticity, and then before that, say,
+
+57
+00:04:06,000 --> 00:04:10,000
+so what do you think elasticity of labor demand is, high or low?
+
+58
+00:04:10,000 --> 00:04:16,000
+And until you have actually got them to think about, well, which answer applies to my view on the minimum wage is true,
+
+59
+00:04:16,000 --> 00:04:18,000
+people will probably give you one answer.
+
+60
+00:04:18,000 --> 00:04:20,000
+It's like, well, I don't know.
+
+61
+00:04:20,000 --> 00:04:21,000
+It doesn't seem like that.
+
+62
+00:04:21,000 --> 00:04:23,000
+Why would I have an opinion about the elasticity of labor demand?
+
+63
+00:04:23,000 --> 00:04:26,000
+And then you say, well, if labor demand is highly inelastic,
+
+64
+00:04:26,000 --> 00:04:30,000
+it means the minimum wage doesn't cause much unemployment, but it's highly elastic when it does.
+
+65
+00:04:30,000 --> 00:04:33,000
+Well, then, man, it's so inelastic.
+
+66
+00:04:33,000 --> 00:04:35,000
+It's highly inelastic, man.
+
+67
+00:04:35,000 --> 00:04:40,000
+And this is one you could actually go and try tricking people and actually just tell them one or the other
+
+68
+00:04:40,000 --> 00:04:46,000
+and see if they just leap to whatever elasticity assumption gets them the result they want.
+
+69
+00:04:46,000 --> 00:04:52,000
+I mean, it might be too hard to actually do experimentally because it would involve an elasticity lecture, but still.
+
+70
+00:04:52,000 --> 00:04:55,000
+It seems like it's interesting.
+
+71
+00:04:55,000 --> 00:04:59,000
+I guess it would even work if you just said, like, what was the slope of the demand curve?
+
+72
+00:04:59,000 --> 00:05:02,000
+That would also give the same qualitative result.
+
+73
+00:05:02,000 --> 00:05:03,000
+Was there a question, Nathan?
+
+74
+00:05:03,000 --> 00:05:09,000
+Might that be reflective of them, to be charitable to people who are displaying this bias,
+
+75
+00:05:09,000 --> 00:05:15,000
+of them knowing something about the empirical literature but not understanding the underlying economics?
+
+76
+00:05:15,000 --> 00:05:19,000
+So if someone thinks, oh, well, I know there's a well-done, hard-cruiter-like study,
+
+77
+00:05:19,000 --> 00:05:25,000
+I'm going to say that probably the data, the elasticity reflects what is shown in that data.
+
+78
+00:05:25,000 --> 00:05:31,000
+Yes, that would be perfectly fine if you had some independent reason of thinking that the hard-cruiter study was accurate
+
+79
+00:05:31,000 --> 00:05:33,000
+other than that it gave you the result you wanted.
+
+80
+00:05:33,000 --> 00:05:38,000
+Although, in order to do that, you would have to understand elasticity in the first place, so it seems unlikely.
+
+81
+00:05:38,000 --> 00:05:40,000
+But theoretically, of course, it's possible.
+
+82
+00:05:40,000 --> 00:05:45,000
+I mean, just imagine that someone knows an incredibly trustworthy person who just reads a lot of things
+
+83
+00:05:45,000 --> 00:05:47,000
+and just tells them the answers.
+
+84
+00:05:47,000 --> 00:05:51,000
+Any time that they audit the person, what they say is perfectly accurate, that would be fine.
+
+85
+00:05:51,000 --> 00:05:54,000
+But how many people actually have a person like that in their lives?
+
+86
+00:05:54,000 --> 00:05:56,000
+Where are these people?
+
+87
+00:05:56,000 --> 00:05:58,000
+My roommate. At least he tells me he's always right.
+
+88
+00:05:58,000 --> 00:05:59,000
+He tells you he's right.
+
+89
+00:05:59,000 --> 00:06:04,000
+So the auditing is important, where you have to at least once in a while just double-check that what they're saying is right
+
+90
+00:06:04,000 --> 00:06:08,000
+so that you aren't simply saying, well, look, how accurate are you?
+
+91
+00:06:08,000 --> 00:06:09,000
+Totally accurate.
+
+92
+00:06:09,000 --> 00:06:10,000
+Okay, then.
+
+93
+00:06:10,000 --> 00:06:11,000
+You're like, well, great.
+
+94
+00:06:11,000 --> 00:06:13,000
+Now let's go and ask you all the questions.
+
+95
+00:06:13,000 --> 00:06:18,000
+I mean, it answers everything for this one person who's told me it's totally accurate.
+
+96
+00:06:18,000 --> 00:06:19,000
+All right.
+
+97
+00:06:19,000 --> 00:06:25,000
+So now something else you can say about belief perseverance is once you have a lot of evidence,
+
+98
+00:06:25,000 --> 00:06:28,000
+it is reasonable to not update much anymore.
+
+99
+00:06:28,000 --> 00:06:32,000
+So that can be true, and yet once you've seen 1,000 observations,
+
+100
+00:06:32,000 --> 00:06:39,000
+it's very reasonable to not noticeably budge when 1,000 first observations comes along.
+
+101
+00:06:39,000 --> 00:06:43,000
+So I have the following arrogant view about the news.
+
+102
+00:06:43,000 --> 00:06:46,000
+Look, I have spent 40 years reading history.
+
+103
+00:06:46,000 --> 00:06:50,000
+I understand the kinds of things that happen in the world,
+
+104
+00:06:50,000 --> 00:06:54,000
+and the stuff in the news is in no way surprising to me at all, really.
+
+105
+00:06:54,000 --> 00:06:59,000
+It's just all the same kind of junk that I expect to happen given everything I've read before.
+
+106
+00:06:59,000 --> 00:07:04,000
+So if someone says, you're so dogmatic you don't change your mind on terrorism in light of yesterday's news.
+
+107
+00:07:04,000 --> 00:07:07,000
+Do you know how many events like that have occurred in history?
+
+108
+00:07:07,000 --> 00:07:09,000
+Tens of thousands.
+
+109
+00:07:09,000 --> 00:07:14,000
+So why should your event make any more difference to me than like a fly landing on my nose?
+
+110
+00:07:14,000 --> 00:07:17,000
+It doesn't change my view of anything.
+
+111
+00:07:17,000 --> 00:07:23,000
+People don't like this attitude, but it seems like a reasonable attitude if you are that well informed, of course.
+
+112
+00:07:23,000 --> 00:07:27,000
+It is tempting to claim to be super well informed long before you actually are,
+
+113
+00:07:27,000 --> 00:07:30,000
+because these are the kinds of things that you can go and check for yourself.
+
+114
+00:07:30,000 --> 00:07:36,000
+If you say, oh, well, let me go and get a history test and see how well I can do off the top of my head.
+
+115
+00:07:36,000 --> 00:07:38,000
+I have a 1% time.
+
+116
+00:07:38,000 --> 00:07:40,000
+Pretty good, actually.
+
+117
+00:07:40,000 --> 00:07:41,000
+All right, good.
+
+118
+00:07:41,000 --> 00:07:43,000
+All right, my arrogance is justified.
+
+119
+00:07:43,000 --> 00:07:48,000
+All right, and then, you know, like issues as emotional as death penalty are rare,
+
+120
+00:07:48,000 --> 00:07:50,000
+so maybe that's not such a great example either.
+
+121
+00:07:50,000 --> 00:07:55,000
+So I'm blanking on his name, but there's, so since doing this, there's been a psychologist
+
+122
+00:07:55,000 --> 00:07:59,000
+that's been doing a lot of work on political beliefs and just how ridiculous they are,
+
+123
+00:07:59,000 --> 00:08:04,000
+and he has found that like on many issues,
+
+124
+00:08:04,000 --> 00:08:10,000
+this general fact that people will just go and wait and will just reverse the reasoning from is the right answer,
+
+125
+00:08:10,000 --> 00:08:13,000
+then that determines how reliable the evidence is.
+
+126
+00:08:13,000 --> 00:08:15,000
+And is the person an expert?
+
+127
+00:08:15,000 --> 00:08:16,000
+That too.
+
+128
+00:08:16,000 --> 00:08:17,000
+Well, what is their answer?
+
+129
+00:08:17,000 --> 00:08:20,000
+In that case, I can only know their expertise based upon their agreement.
+
+130
+00:08:20,000 --> 00:08:25,000
+So climatologist at Harvard, well, does he agree with me on global warming?
+
+131
+00:08:25,000 --> 00:08:26,000
+If so, he's an expert.
+
+132
+00:08:26,000 --> 00:08:27,000
+If not, he's not an expert.
+
+133
+00:08:27,000 --> 00:08:30,000
+Right, that mentality is fairly pronounced,
+
+134
+00:08:30,000 --> 00:08:35,000
+and he does a lot of experimental manipulations where you can really see that people are just going
+
+135
+00:08:35,000 --> 00:08:39,000
+and doing something that is extremely correct,
+
+136
+00:08:39,000 --> 00:08:43,000
+where it's all just reasoning backwards from the answer that you want,
+
+137
+00:08:43,000 --> 00:08:47,000
+and Bayes' rule is not being allowed to have any say.
+
+138
+00:08:47,000 --> 00:08:49,000
+All right, questions?
+
+139
+00:08:49,000 --> 00:08:53,000
+All right, then let's move on to more fun stuff.
+
+140
+00:08:53,000 --> 00:08:59,000
+All right, one of the ways that people often ask me probabilities is by thinking about the E,
+
+141
+00:08:59,000 --> 00:09:02,000
+is by the E's of thinking of examples.
+
+142
+00:09:02,000 --> 00:09:06,000
+It's like, what's the probability the next person who walks in the room is Albanian?
+
+143
+00:09:06,000 --> 00:09:11,000
+Well, one thing you might do is how easy, how many Albanians can I think of?
+
+144
+00:09:11,000 --> 00:09:16,000
+And if it's like no Albanians, then probably you're going to get a low probability.
+
+145
+00:09:16,000 --> 00:09:21,000
+If it's like, my God, there's tons of Albanians, then it's going to be high probability.
+
+146
+00:09:21,000 --> 00:09:23,000
+That's the idea.
+
+147
+00:09:23,000 --> 00:09:25,000
+All right, now this has a special name.
+
+148
+00:09:25,000 --> 00:09:27,000
+It's called the availability heuristic.
+
+149
+00:09:27,000 --> 00:09:35,000
+The availability heuristic.
+
+150
+00:09:35,000 --> 00:09:40,000
+All right, and very often it's an extremely useful heuristic.
+
+151
+00:09:40,000 --> 00:09:51,000
+All right, so what are the odds that the next movie that becomes a bestseller in the U.S. is a Romanian movie?
+
+152
+00:09:51,000 --> 00:10:01,000
+I can think of zero Romanian movies that have ever appeared in the list of the top grossing movies of the week.
+
+153
+00:10:01,000 --> 00:10:07,000
+So I'm going to put that really low.
+
+154
+00:10:07,000 --> 00:10:10,000
+And on the other hand, what about a Tom Cruise movie?
+
+155
+00:10:10,000 --> 00:10:15,000
+Probably the Tom Cruise movie becomes one of the top ten grossing movies.
+
+156
+00:10:15,000 --> 00:10:17,000
+Well, let's see.
+
+157
+00:10:17,000 --> 00:10:21,000
+So, four movies a year, and how many movies are there?
+
+158
+00:10:21,000 --> 00:10:23,000
+And they all are in the top ten pretty much.
+
+159
+00:10:23,000 --> 00:10:26,000
+So, that's going to be, what?
+
+160
+00:10:26,000 --> 00:10:30,000
+Maybe like 200 theatrical releases a year, four Tom Cruise movies.
+
+161
+00:10:30,000 --> 00:10:34,000
+So, that's going to be like one in 50.
+
+162
+00:10:34,000 --> 00:10:36,000
+That's a 2% chance.
+
+163
+00:10:36,000 --> 00:10:41,000
+And actually, we know it's even higher because movies generally stay in the top ten for more than one week.
+
+164
+00:10:41,000 --> 00:10:43,000
+So, if it's just for one week, then it should be even higher than that.
+
+165
+00:10:43,000 --> 00:10:44,000
+Yeah, Ash?
+
+166
+00:10:44,000 --> 00:10:47,000
+Can you explain maybe the difference between heuristic and bias?
+
+167
+00:10:47,000 --> 00:10:49,000
+Ah, I'm getting to that.
+
+168
+00:10:49,000 --> 00:10:50,000
+I'm getting to that.
+
+169
+00:10:50,000 --> 00:10:51,000
+Okay.
+
+170
+00:10:51,000 --> 00:10:52,000
+Alright.
+
+171
+00:10:52,000 --> 00:10:54,000
+So, anyway, this is known as the availability heuristic.
+
+172
+00:10:54,000 --> 00:10:57,000
+Just trying to sort of think, how can I think of examples?
+
+173
+00:10:57,000 --> 00:10:59,000
+Well, lots of examples, likely.
+
+174
+00:10:59,000 --> 00:11:02,000
+Not many examples, not likely.
+
+175
+00:11:02,000 --> 00:11:03,000
+Okay.
+
+176
+00:11:03,000 --> 00:11:04,000
+Alright.
+
+177
+00:11:04,000 --> 00:11:09,000
+Now, sometimes very useful, but it also predictably generates bias judgments.
+
+178
+00:11:09,000 --> 00:11:19,000
+And what it does, when the heuristic predictably leads us in the wrong direction, then we call it availability bias.
+
+179
+00:11:19,000 --> 00:11:22,000
+So, heuristic could be useful, and in fact, often is.
+
+180
+00:11:22,000 --> 00:11:26,000
+The bias is when the heuristic is hackable.
+
+181
+00:11:26,000 --> 00:11:30,000
+When you can hack the heuristic, or when the world hacks the heuristic,
+
+182
+00:11:30,000 --> 00:11:37,000
+and takes something that normally works and turns it into something that leads you very predictably into error.
+
+183
+00:11:37,000 --> 00:11:41,000
+So, for example, if an event is especially vivid or memorable,
+
+184
+00:11:41,000 --> 00:11:44,000
+then there's a lot of evidence that we overrate the probabilities,
+
+185
+00:11:44,000 --> 00:11:47,000
+because it is easy to remember vivid and memorable events.
+
+186
+00:11:47,000 --> 00:11:50,000
+Memorable events are, of course, by definition, easy to remember.
+
+187
+00:11:50,000 --> 00:11:51,000
+Right?
+
+188
+00:11:51,000 --> 00:11:52,000
+Vivid events.
+
+189
+00:11:52,000 --> 00:11:54,000
+Vivid events are just more memorable.
+
+190
+00:11:54,000 --> 00:11:56,000
+So, odds of dying in a plane crash.
+
+191
+00:11:56,000 --> 00:11:59,000
+You can probably think of a number of famous plane crashes.
+
+192
+00:11:59,000 --> 00:12:03,000
+On the other hand, famous car crashes, not too many.
+
+193
+00:12:03,000 --> 00:12:08,000
+So, that's one where the availability heuristic, which normally is reasonable,
+
+194
+00:12:08,000 --> 00:12:12,000
+but because plane crashes are so vivid, so gripping to people,
+
+195
+00:12:12,000 --> 00:12:19,000
+that it actually seems to predictably lead people to overestimate the probability of dying in a plane crash relative to a car crash.
+
+196
+00:12:19,000 --> 00:12:23,000
+Car crashes are actually much more, cars are much more dangerous per mile.
+
+197
+00:12:23,000 --> 00:12:25,000
+So, you remember economists saying,
+
+198
+00:12:25,000 --> 00:12:28,000
+you shouldn't require babies to have a seatbelt on planes,
+
+199
+00:12:28,000 --> 00:12:34,000
+because more babies will die if, based upon our estimates of price elasticity demand for flying versus driving.
+
+200
+00:12:34,000 --> 00:12:37,000
+So, basically, if you require every baby to have a seat,
+
+201
+00:12:37,000 --> 00:12:39,000
+then it's more expensive to fly with a baby,
+
+202
+00:12:39,000 --> 00:12:41,000
+which will lead to more people driving their babies,
+
+203
+00:12:41,000 --> 00:12:44,000
+and since driving is more dangerous than flying, more babies die.
+
+204
+00:12:44,000 --> 00:12:47,000
+Alright, that's the kind of reasoning economists do.
+
+205
+00:12:47,000 --> 00:12:50,000
+But, non-economists, on the other hand, just think about,
+
+206
+00:12:50,000 --> 00:12:54,000
+oh my god, it's so terrible when a plane crashes, they're so scary,
+
+207
+00:12:54,000 --> 00:12:56,000
+and so that means that it's a real danger.
+
+208
+00:12:56,000 --> 00:13:00,000
+And then, we got into what is car crashes, how often does that happen?
+
+209
+00:13:00,000 --> 00:13:03,000
+Alright, well, I don't know, I can't think of any good cases.
+
+210
+00:13:03,000 --> 00:13:07,000
+Certainly, the only time a car crashes on the front page of the news is,
+
+211
+00:13:07,000 --> 00:13:11,000
+just a regular car crash, not trying to kill a bunch of people in a car,
+
+212
+00:13:11,000 --> 00:13:17,000
+but a car accident, the only time it's on the front page of the news is when?
+
+213
+00:13:17,000 --> 00:13:21,000
+When a celebrity dies in a car crash.
+
+214
+00:13:21,000 --> 00:13:25,000
+But, no normal human being dying in a car crash would ever be news.
+
+215
+00:13:25,000 --> 00:13:30,000
+Whereas, if one person fell out of a plane somehow, that would be front page news.
+
+216
+00:13:30,000 --> 00:13:36,000
+Right, and they're talking about, oh, look, how are we letting the airlines get away
+
+217
+00:13:36,000 --> 00:13:39,000
+with these insecure planes where a person can just fall out?
+
+218
+00:13:39,000 --> 00:13:44,000
+It's happened once. What makes you think we're letting them get away with anything?
+
+219
+00:13:44,000 --> 00:13:47,000
+How many people have flown in planes, one fell out?
+
+220
+00:13:47,000 --> 00:13:50,000
+Is that a lot? Seems like a very small number.
+
+221
+00:13:50,000 --> 00:13:53,000
+Alright, but that's not the kind of reaction that you're going to see,
+
+222
+00:13:53,000 --> 00:13:57,000
+and of course, it's very vivid thinking about a person falling out of a plane.
+
+223
+00:13:57,000 --> 00:14:01,000
+That's terrifying.
+
+224
+00:14:01,000 --> 00:14:07,000
+I'm getting a slight, my palms, the palms of the soles of my feet are getting slightly sweaty
+
+225
+00:14:07,000 --> 00:14:11,000
+just thinking about a person falling out of a plane.
+
+226
+00:14:11,000 --> 00:14:15,000
+Whenever I see a mountain climbing movie, wipe the sweat off.
+
+227
+00:14:15,000 --> 00:14:20,000
+So vivid. Whereas, I see people who get electrocuted, it doesn't bother me at all.
+
+228
+00:14:20,000 --> 00:14:24,000
+I don't have any reaction at all when someone's getting electrocuted,
+
+229
+00:14:24,000 --> 00:14:32,000
+but falling, oh my God, like, the sweat, it's scary how much sweat I can make.
+
+230
+00:14:32,000 --> 00:14:34,000
+Why that is, I don't know.
+
+231
+00:14:34,000 --> 00:14:38,000
+Seems like it's kind of dysfunctional for people to get really sweaty palms
+
+232
+00:14:38,000 --> 00:14:44,000
+when they're thinking about falling from a height, but I don't know why.
+
+233
+00:14:44,000 --> 00:14:47,000
+So one possibility is just that they're very vivid,
+
+234
+00:14:47,000 --> 00:14:51,000
+but there's other cases where it's not so much vivid as it's just easier
+
+235
+00:14:51,000 --> 00:14:54,000
+for the human mind to go and do the search.
+
+236
+00:14:54,000 --> 00:14:56,000
+So think about this.
+
+237
+00:14:56,000 --> 00:14:59,000
+So there are more words in the dictionary that start with the letter A
+
+238
+00:14:59,000 --> 00:15:03,000
+or that have the letter I in the third to last position of the word.
+
+239
+00:15:03,000 --> 00:15:06,000
+Well, if you're thinking about words that start with A, that's super easy, right?
+
+240
+00:15:06,000 --> 00:15:09,000
+Apple, anchor, you know, they just go on and on.
+
+241
+00:15:09,000 --> 00:15:16,000
+But on the other hand, words with I in the third to last letter.
+
+242
+00:15:16,000 --> 00:15:17,000
+Yes.
+
+243
+00:15:17,000 --> 00:15:18,000
+Yes.
+
+244
+00:15:18,000 --> 00:15:19,000
+Yes.
+
+245
+00:15:19,000 --> 00:15:22,000
+So, you know, it's hard until you hit on the trick,
+
+246
+00:15:22,000 --> 00:15:26,000
+which is any word that ends with I and G qualifies.
+
+247
+00:15:26,000 --> 00:15:30,000
+Singing, running, dancing, leaping, talking, right, then you can get a ton.
+
+248
+00:15:30,000 --> 00:15:34,000
+But if you don't get that trick, you may sit there, you know, like,
+
+249
+00:15:34,000 --> 00:15:36,000
+you can't think of any.
+
+250
+00:15:36,000 --> 00:15:37,000
+There's got to be some, right?
+
+251
+00:15:37,000 --> 00:15:38,000
+This is a trick question.
+
+252
+00:15:38,000 --> 00:15:42,000
+There's actually no such words, but there are.
+
+253
+00:15:42,000 --> 00:15:47,000
+All right, so people find it much easier to do a mental search based upon first letters
+
+254
+00:15:47,000 --> 00:15:49,000
+than third to last letters.
+
+255
+00:15:49,000 --> 00:15:52,000
+Notice a computer would have no trouble doing both equally well.
+
+256
+00:15:52,000 --> 00:15:54,000
+A human being is a different story.
+
+257
+00:15:54,000 --> 00:15:57,000
+A human being is used to thinking about words by their first letters.
+
+258
+00:15:57,000 --> 00:16:00,000
+So, all right, so anyway, people, it's much easier to come up with those,
+
+259
+00:16:00,000 --> 00:16:05,000
+and people normally falsely conclude that words that start with the letter A
+
+260
+00:16:05,000 --> 00:16:07,000
+are more probable in the dictionary, are more probable.
+
+261
+00:16:07,000 --> 00:16:10,000
+So to readily pick a word out of the dictionary, it's more likely to start with A.
+
+262
+00:16:10,000 --> 00:16:13,000
+It's actually more likely to buy in the third to last position.
+
+263
+00:16:13,000 --> 00:16:15,000
+Okay.
+
+264
+00:16:15,000 --> 00:16:20,000
+So availability bias is often used to explain why people overestimate the risk of flying,
+
+265
+00:16:20,000 --> 00:16:21,000
+for example.
+
+266
+00:16:21,000 --> 00:16:22,000
+All right.
+
+267
+00:16:22,000 --> 00:16:25,000
+So, that's out there.
+
+268
+00:16:25,000 --> 00:16:27,000
+Questions about availability bias?
+
+269
+00:16:27,000 --> 00:16:28,000
+Yes.
+
+270
+00:16:28,000 --> 00:16:34,000
+So would it be correct to say that availability bias is just incorrect availability heuristic?
+
+271
+00:16:34,000 --> 00:16:39,000
+Yeah, well, so, what I would just say is that
+
+272
+00:16:39,000 --> 00:16:42,000
+most availability heuristics are reasonable most of the time,
+
+273
+00:16:42,000 --> 00:16:49,000
+and the bias is in like the subset where there's some particular way that the human mind screws up
+
+274
+00:16:49,000 --> 00:16:51,000
+so that it's misleading.
+
+275
+00:16:51,000 --> 00:16:56,000
+It could be that for some issues, the heuristic is just a bias,
+
+276
+00:16:56,000 --> 00:16:58,000
+where it just always leads you in the wrong direction.
+
+277
+00:16:58,000 --> 00:17:04,000
+It could be that we just happen to be in an unusual environment where it's wrong,
+
+278
+00:17:04,000 --> 00:17:07,000
+or, again, it could just be that it normally works fine,
+
+279
+00:17:07,000 --> 00:17:12,000
+but there's just a narrow subset that gets heavily researched because we're trying to improve on our views.
+
+280
+00:17:12,000 --> 00:17:16,000
+Or, of course, there's also the possibility that it's confirmation bias,
+
+281
+00:17:16,000 --> 00:17:21,000
+and psychologists really want to show that human beings are wrong about everything,
+
+282
+00:17:21,000 --> 00:17:25,000
+and so they're looking around for every time human beings screw up to go and say,
+
+283
+00:17:25,000 --> 00:17:27,000
+see, further proof!
+
+284
+00:17:27,000 --> 00:17:29,000
+Human beings can't do anything right.
+
+285
+00:17:29,000 --> 00:17:32,000
+So there's that possibility, too.
+
+286
+00:17:32,000 --> 00:17:38,000
+To me, the most obvious case of availability bias in the world is our focus on terrorism.
+
+287
+00:17:38,000 --> 00:17:41,000
+Actual quantitative severity of terrorism.
+
+288
+00:17:41,000 --> 00:17:43,000
+Well, basic numbers.
+
+289
+00:17:43,000 --> 00:17:47,000
+Fraction of all murders that are terrorism on Earth.
+
+290
+00:17:47,000 --> 00:17:49,000
+Under 1%.
+
+291
+00:17:49,000 --> 00:17:51,000
+Fraction of all deaths that are murders.
+
+292
+00:17:51,000 --> 00:17:53,000
+Under 1%.
+
+293
+00:17:53,000 --> 00:17:58,000
+Terrorism causes under 1% of 1% of deaths.
+
+294
+00:17:58,000 --> 00:18:00,000
+Less than 1 in 10,000.
+
+295
+00:18:00,000 --> 00:18:07,000
+How much coverage and news space does terrorism get relative to its actual severity?
+
+296
+00:18:07,000 --> 00:18:11,000
+A hundred times more than it should get based upon the ability to risk.
+
+297
+00:18:11,000 --> 00:18:16,000
+I think even that's probably more like a thousand times what it actually deserves.
+
+298
+00:18:16,000 --> 00:18:19,000
+And, of course, there's no policy response to this error, right?
+
+299
+00:18:19,000 --> 00:18:24,000
+Instead, over a trillion dollars spent fighting terrorism,
+
+300
+00:18:24,000 --> 00:18:31,000
+a problem that is less severe than groundings in bathtubs.
+
+301
+00:18:31,000 --> 00:18:38,000
+And, again, if you want to talk about social desirability bias here,
+
+302
+00:18:38,000 --> 00:18:41,000
+you're running for office saying what I said.
+
+303
+00:18:41,000 --> 00:18:45,000
+Look, we're doing way too much about a very statistically small problem.
+
+304
+00:18:45,000 --> 00:18:49,000
+There are, in the world, pretty much almost any problem you've ever heard of,
+
+305
+00:18:49,000 --> 00:18:51,000
+and most of the problems you haven't are worse.
+
+306
+00:18:51,000 --> 00:18:56,000
+So, what are you talking about?
+
+307
+00:18:56,000 --> 00:18:58,000
+So, you don't care about terrorism.
+
+308
+00:18:58,000 --> 00:19:00,000
+I care about it appropriately.
+
+309
+00:19:00,000 --> 00:19:03,000
+I care about it appropriately.
+
+310
+00:19:03,000 --> 00:19:06,000
+Well, you're making a joke about horrible deaths.
+
+311
+00:19:06,000 --> 00:19:11,000
+Well, your deal is to be like, it's not a joke.
+
+312
+00:19:11,000 --> 00:19:15,000
+I'm making a joke out about how bad people are at estimating probabilities
+
+313
+00:19:15,000 --> 00:19:20,000
+and how much people allow their emotions to color their judgments.
+
+314
+00:19:20,000 --> 00:19:22,000
+You say, that's fair. That's funny.
+
+315
+00:19:22,000 --> 00:19:24,000
+The actual things aren't funny.
+
+316
+00:19:24,000 --> 00:19:27,000
+But if someone thought that dying from choking on chewing gum
+
+317
+00:19:27,000 --> 00:19:31,000
+was the biggest risk in the world, that would be pretty funny.
+
+318
+00:19:31,000 --> 00:19:34,000
+It's not funny that it happens.
+
+319
+00:19:34,000 --> 00:19:36,000
+It's funny that someone could be so wrong.
+
+320
+00:19:36,000 --> 00:19:40,000
+And even funnier that it's such a widespread error.
+
+321
+00:19:40,000 --> 00:19:44,000
+If it's one person who has this strange view, it's like one kook.
+
+322
+00:19:44,000 --> 00:19:48,000
+But if it's almost everyone has this strange view, what's wrong with them?
+
+323
+00:19:48,000 --> 00:19:51,000
+So you're telling us it's widely believed that
+
+324
+00:19:51,000 --> 00:19:54,000
+one of the biggest problems is dying on chewing gum?
+
+325
+00:19:54,000 --> 00:19:55,000
+No.
+
+326
+00:19:55,000 --> 00:19:56,000
+Is that going to be on the test?
+
+327
+00:19:56,000 --> 00:19:57,000
+Yes.
+
+328
+00:19:57,000 --> 00:20:25,000
+Laughter
+
+

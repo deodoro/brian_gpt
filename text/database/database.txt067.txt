@@ -1,0 +1,25 @@
+3.  Landsburg ( The Armchair Economist ) argues that laws restricting cosmetic 
+surgery are an inefficient restriction on competition.  Using the game theory you 
+have learned so far, present and defend what you see as the stro ngest possible 
+counter -argument  to Landsburg's claim.   (You don't have to agree with your 
+argument; just present it as forcefully as possible).  
+ 
+You can't just say that cosmetic surgery is a "Prisoners' Dilemma" for women, because efficiency 
+calculations r equire us to count the value to both women AND men.  (Analogously, you can't just 
+say that price supports  are efficient because they benefit sellers; you have to show that the gain to 
+sellers outweighs the gain to buyers).  Similarly, you can't just say th at more cosmetic surgery 
+reduces the supply of non -cosmetic surgery: That's true for all goods.  Better answers : 
+ 
+Maybe men value relative beauty, not absolute beauty ; they want to marry a woma n who is better -
+looking than other women, but don't particularly care how good -looking she is in absolute terms.  
+If so, cosmetic surgery burns up resources without making the average woman OR the average 
+man better off.  
+ 
+Maybe people directly  disvalue the average level of cosmetic surgery in thei r society, on the 
+grounds that it "commodifies" or "cheapens" life.  But since the average level of cosmetic surgery 
+is non -excludable, no one factors it into his/her  decisions, leading to too much cosmetic surgery.   
+This is a common objection to e.g. huma n cloning.  
+ 
+ 
+ 
+ 

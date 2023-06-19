@@ -1,0 +1,33 @@
+1.  Two types of agents live for two periods.   In each period, they receive an 
+endowment of perishable  consumption goods – storage over time is not possible.  
+Type A agents have U=ln c 1 + ß ln c 2; Type B agents have U= ln c1 + ρ ln c 2.  
+Both types of agents are equally numerous and have endowments of 1 in each 
+period.  
+  
+True, False, and Explain:  The equilibrium interest rate r equals 2/(ß+ρ) . 
+ 
+FALSE.  (1+r) equals the price ratio of period 1 consumption to period 2 consumpt ion.  So just 
+normalize the utility functions to be:  
+ 
+2 1 ln1ln11c c U
+ 
+ and 
+2 1 ln1ln11c c U
+   
+ 
+Then apply the 2 -good GE formula from lecture:  
+
+
+ 
+
+22
+1*11*11*111*11
+21
+pp
+.  Since this is equal to (1+r), r=
+
+
+22 -1,  
+which does not e qual 2/( ß+ρ).  
+ 
+ 

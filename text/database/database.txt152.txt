@@ -1,0 +1,12 @@
+4. “Suppose that a manufacturer does hol d an unbreakable patent on a particular product.” 
+(Kreps, A Course in Microeconomic Theory ) 
+ 
+True, False, and Explain:   Kreps says  that firms may engage in entry 
+deterrence even if they have a legal monopoly (such as a patent).   
+ 
+TRUE.  Even firms with a l egal monopoly have to worry about competition by similar  products, 
+giving them an incentive to reduce their prices to discourage entry.  As Kreps explains on p.304, 
+“The scope of patent protection does not always extend to protection against close substitu tes for 
+the patented product... Then the monopoly may act in a way to impede the entry of producers of 
+these substitute goods.”  
+ 

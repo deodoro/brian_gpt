@@ -1,0 +1,941 @@
+1
+00:00:00,000 --> 00:00:05,500
+monopoly or only polluting. But if you understand what the model says, the model says that monopoly
+
+2
+00:00:05,500 --> 00:00:11,840
+does the bad thing of producing too little and polluters do the bad thing of producing
+
+3
+00:00:11,840 --> 00:00:17,360
+too much. So if you combine both problems, it is theoretically possible that they exactly
+
+4
+00:00:17,360 --> 00:00:20,760
+cancel out and a polluting monopolist is actually great.
+
+5
+00:00:20,760 --> 00:00:27,760
+And again, this is the kind of thing that is so baffling to most people that, so remember
+
+6
+00:00:27,760 --> 00:00:34,760
+when you're like, two years ago I told my son, I was prepping my son for the APE contest,
+
+7
+00:00:34,760 --> 00:00:38,360
+I told him this on vacation and they got it wrong, but then it was on the test and they
+
+8
+00:00:38,360 --> 00:00:44,040
+got it right. Yes, all right. So it's like, you're in a hotel for five minutes waiting
+
+9
+00:00:44,040 --> 00:00:47,600
+and I say, well, why don't I go and tell you about the interaction of monopoly and externalities
+
+10
+00:00:47,600 --> 00:00:54,600
+like most families discuss on vacation. All right, yeah, so you've got that.
+
+11
+00:00:54,600 --> 00:00:59,600
+And let's see, so it has this one, one interesting case.
+
+12
+00:00:59,600 --> 00:01:04,600
+Oh yeah, and then another one is, suppose that you have both a positive and a negative
+
+13
+00:01:04,600 --> 00:01:07,600
+externality. Does this mean you have two problems to fix?
+
+14
+00:01:07,600 --> 00:01:13,600
+Yeah, again, they could just totally cancel out. Right, so actually if you start off with
+
+15
+00:01:13,600 --> 00:01:18,600
+a negative externality, then a positive externality turns up, the two things can actually balance
+
+16
+00:01:18,600 --> 00:01:23,600
+each other out and again, there is in fact no problem. It all depends upon the magnitudes.
+
+17
+00:01:23,600 --> 00:01:31,600
+All right, so questions, questions about this? All right, and yeah, so also with Weill, so
+
+18
+00:01:31,600 --> 00:01:37,600
+now normal people when they hear about externalities, so go back to econ one.
+
+19
+00:01:37,600 --> 00:01:42,600
+All right, there's a certain kind of student who is miserable for most of econ one because
+
+20
+00:01:42,600 --> 00:01:46,600
+the econ teacher keeps telling them, you know something that you care about, you're wrong.
+
+21
+00:01:46,600 --> 00:01:49,600
+You don't think of something you think is a problem, it's actually fine.
+
+22
+00:01:49,600 --> 00:01:52,600
+You don't think of something you think is fine, it's actually a problem.
+
+23
+00:01:52,600 --> 00:01:56,600
+All right, and they hear a lot of this stuff and they keep getting more and more frustrated.
+
+24
+00:01:56,600 --> 00:02:02,600
+Then finally in week 12, they bring up externalities and then the student says, ah, finally.
+
+25
+00:02:02,600 --> 00:02:06,600
+This is the theory that explains why everything that I always thought before this class is
+
+26
+00:02:06,600 --> 00:02:10,600
+actually true after all. All right, and I can ignore everything that I learned in the
+
+27
+00:02:10,600 --> 00:02:14,600
+first 12 weeks. All right, and actually that is not what externalities are all about.
+
+28
+00:02:14,600 --> 00:02:19,600
+Externalities are not a general excuse for whatever people believe beforehand.
+
+29
+00:02:19,600 --> 00:02:24,600
+It's actually a very specific theory which does change the stuff in the previous 12 weeks,
+
+30
+00:02:24,600 --> 00:02:29,600
+but often in counterintuitive ways such as polluting monopolists are better than non-polluting
+
+31
+00:02:29,600 --> 00:02:34,600
+monopolists, things like that. All right, now one of the things that people
+
+32
+00:02:34,600 --> 00:02:38,600
+generally believe before studying economics is that there is something that markets are
+
+33
+00:02:38,600 --> 00:02:44,600
+doing that is bad that the proper response is to do what?
+
+34
+00:02:44,600 --> 00:02:50,600
+Well, a normal human being seems a firm polluting and they say that should be banned.
+
+35
+00:02:50,600 --> 00:02:56,600
+No, economists say taxed. Normal human beings say banned. Normal human beings say banned.
+
+36
+00:02:56,600 --> 00:03:03,600
+So banned, right? And again, this is a, of course, in a case that extreme, then the ban
+
+37
+00:03:03,600 --> 00:03:06,600
+may actually make sense. Although in the real world, of course, there would probably be
+
+38
+00:03:06,600 --> 00:03:10,600
+so much black market activity and so on that even then, you know, you can't really, like,
+
+39
+00:03:10,600 --> 00:03:15,600
+banning it is not really even possible. Of course, you can legally say that murder for
+
+40
+00:03:15,600 --> 00:03:20,600
+hire is banned, but in practice, it still goes on because we don't spend the resources
+
+41
+00:03:20,600 --> 00:03:24,600
+and we probably couldn't spend enough resources to get rid of it. You could reduce it, but
+
+42
+00:03:24,600 --> 00:03:30,600
+to get rid of it entirely is pretty tough. All right, but anyway, so, but for more moderate
+
+43
+00:03:30,600 --> 00:03:38,600
+things, just think of it like bad pollution. So, you know, so, ban, you ban swearing,
+
+44
+00:03:38,600 --> 00:03:43,600
+you ban pornography, okay? So when banning comes very naturally to people, even though
+
+45
+00:03:43,600 --> 00:03:46,600
+of course when you go and look at the model, you'll see, well, wait a second, just because
+
+46
+00:03:46,600 --> 00:03:50,600
+there's some extra reality doesn't mean that there isn't still a lot of value being produced,
+
+47
+00:03:50,600 --> 00:03:55,600
+right? And that brings us to what is the normal economist reaction, the why sensible reaction,
+
+48
+00:03:55,600 --> 00:04:03,600
+the measured, considered reaction, which is taxed. Without an exclamation point.
+
+49
+00:04:03,600 --> 00:04:11,600
+No strong growth should not ban the, all right. And you get, of course, a tax where it's based
+
+50
+00:04:11,600 --> 00:04:17,600
+upon the actual size of the problem. So, yes. And then, similarly, when you go to the positive
+
+51
+00:04:17,600 --> 00:04:22,600
+externality, what is a normal human reaction? Not what an economist reaction, what is a
+
+52
+00:04:22,600 --> 00:04:28,600
+normal human reaction to any industry of positive externalities? The government should, yeah,
+
+53
+00:04:28,600 --> 00:04:33,600
+own it. Subsidize it. Yes, even better. The government should own it and provide it for
+
+54
+00:04:33,600 --> 00:04:41,600
+free. That's the way that it ought to be. So, you know, nationalize. Exclamation point.
+
+55
+00:04:41,600 --> 00:04:51,600
+And again, the measured, wise, considered economist reaction is, instead, to say subsidize.
+
+56
+00:04:51,600 --> 00:05:00,600
+We don't give it, subsidize. So that is a key difference there. All right. Now, of course,
+
+57
+00:05:00,600 --> 00:05:05,600
+even this does not consider public choice issues where we do public choice. Actually,
+
+58
+00:05:05,600 --> 00:05:09,600
+last week, we last week of the semester, we do public choice where, in the real world,
+
+59
+00:05:09,600 --> 00:05:13,600
+you may be concerned that when you give government the power to subsidize anything that it says
+
+60
+00:05:13,600 --> 00:05:17,600
+has a positive externality and tax anything that it says has a negative externality, you'll
+
+61
+00:05:17,600 --> 00:05:22,600
+just wind up getting a giant orgy of rent seeking and you'll end up thinking, maybe
+
+62
+00:05:22,600 --> 00:05:28,600
+we should have just lived with the problem. Yes. Well, just go down to D.C. and you can
+
+63
+00:05:28,600 --> 00:05:33,600
+see it. Right? There's a million ugly buildings with signs on them, but that's what's going
+
+64
+00:05:33,600 --> 00:05:44,600
+on. All right. So, questions? Questions? Questions? Anyone happy? All right. A little more sad,
+
+65
+00:05:44,600 --> 00:05:48,600
+but that's just. All right. And then, by the way, of course, in the real world, like
+
+66
+00:05:48,600 --> 00:05:56,600
+other questions on the verge are things like, when you say tax it, what is it exactly? So,
+
+67
+00:05:56,600 --> 00:06:01,600
+for example, if you're concerned about the negative externalities of driving, all right,
+
+68
+00:06:01,600 --> 00:06:07,600
+so what exactly does it make sense to tax? Well, there's something, well, what exactly
+
+69
+00:06:07,600 --> 00:06:11,600
+am I complaining about? There's a bunch of things you might be complaining about from
+
+70
+00:06:11,600 --> 00:06:15,600
+driving. All right. So, like, what are a bunch of different complaints people have?
+
+71
+00:06:15,600 --> 00:06:21,600
+Admissions. Yeah, admissions. And then traffic. Traffic. Congestion. Yes, yeah, congestion,
+
+72
+00:06:21,600 --> 00:06:25,600
+traffic. All right. And then, actually, when you think about it, like, each of these actually
+
+73
+00:06:25,600 --> 00:06:30,600
+a totally different kind of tax would apply. So, if you're talking about admissions, then
+
+74
+00:06:30,600 --> 00:06:36,600
+you want to go and base the tax upon the amount that you're bidding. Right? And then you would
+
+75
+00:06:36,600 --> 00:06:40,600
+do things which are like the opposite of what we actually do, which is there would be low
+
+76
+00:06:40,600 --> 00:06:45,600
+taxes for modern cars that have low emissions and high taxes for antique car collectors
+
+77
+00:06:45,600 --> 00:06:50,600
+like my dad. All right. So, those are the cars that produce a lot. Right? But then,
+
+78
+00:06:50,600 --> 00:06:54,600
+similarly, I mean, right now we have a system where you go and get an admissions inspection
+
+79
+00:06:54,600 --> 00:07:00,600
+and then they, what do they say? Either your emissions per minute are good enough and you
+
+80
+00:07:00,600 --> 00:07:06,600
+can drive as much as you want for no additional cost, or you're over and now you're illegal
+
+81
+00:07:06,600 --> 00:07:10,600
+regardless of how rarely you drive. Of course, unless it's a certified antique, in which
+
+82
+00:07:10,600 --> 00:07:14,600
+case you can pollute as much as you want. All right. That's, again, actual real world
+
+83
+00:07:14,600 --> 00:07:19,600
+policy, which bears little resemblance to what would make sense in terms of the model.
+
+84
+00:07:19,600 --> 00:07:23,600
+And then, similarly, for congestion, there it's even more obvious that, like the gas
+
+85
+00:07:23,600 --> 00:07:29,600
+tax. Is the gas tax a sensible response to congestion? No. Why is it such a terrible
+
+86
+00:07:29,600 --> 00:07:34,600
+response to congestion? Because it doesn't incentivize driving at certain times. Yes.
+
+87
+00:07:34,600 --> 00:07:39,600
+Or in congested parts of the country. If you're driving across the country, roughly what percentage
+
+88
+00:07:39,600 --> 00:07:49,600
+of the country has no congestion problem whatsoever? 95, 99. Again, we have a federal tax on gasoline,
+
+89
+00:07:49,600 --> 00:07:54,600
+which applies to the entire country. Again, like a more, say, like if you would have to
+
+90
+00:07:54,600 --> 00:07:58,600
+do it through gasoline, much more sensible would have it be to be local gasoline taxes
+
+91
+00:07:58,600 --> 00:08:02,600
+based upon how much congestion is happening right around there. Either you say, well,
+
+92
+00:08:02,600 --> 00:08:06,600
+people might know and buy the gas in a cheaper, more distant place. So maybe like a regional
+
+93
+00:08:06,600 --> 00:08:12,600
+level where like within a few hours drive, but that would be about it. Or, of course,
+
+94
+00:08:12,600 --> 00:08:17,600
+you could do something which is now completely technologically feasible, which is congested
+
+95
+00:08:17,600 --> 00:08:22,600
+road pricing, which is gradually merging. You may have noticed the new tolls around
+
+96
+00:08:22,600 --> 00:08:26,600
+66. When I first heard about it, it sounded really great until I found out, wait a second,
+
+97
+00:08:26,600 --> 00:08:35,600
+it remains. So you still could drive for three with HOV2 for several more years. So actually
+
+98
+00:08:35,600 --> 00:08:40,600
+the main result is just that almost, is that the people then have two more people to keep
+
+99
+00:08:40,600 --> 00:08:44,600
+driving during this time. And since it was totally congested already with that level,
+
+100
+00:08:44,600 --> 00:08:48,600
+anyone commute in the morning so like you actually notice any change? Wouldn't think
+
+101
+00:08:48,600 --> 00:08:52,600
+so. But it does mean that now if you only have one person, you could then go and pay
+
+102
+00:08:52,600 --> 00:08:57,600
+a very small, exorbitant amount of driving at that time. So you do have that. But again,
+
+103
+00:08:57,600 --> 00:09:03,600
+so if you were to go and raise it up to HOV3 or 4 or HOV infinity, that would be where
+
+104
+00:09:03,600 --> 00:09:06,600
+you would actually go and solve the problem. It is supposed to go up to HOV3 in a few years
+
+105
+00:09:06,600 --> 00:09:10,600
+and that probably will make a big difference, I would guess. Because a lot of people in
+
+106
+00:09:10,600 --> 00:09:16,600
+one frame make a big difference. Two frames, that's actually a lot. And then similarly
+
+107
+00:09:16,600 --> 00:09:21,600
+here for subsidizing. So many people said, well, education is positive externality, so
+
+108
+00:09:21,600 --> 00:09:27,600
+subsidize it. This is one where no matter how you go, so first if you've read my recent
+
+109
+00:09:27,600 --> 00:09:31,600
+book on education, you know this is even worse than it sounds. But just ignore this for a
+
+110
+00:09:31,600 --> 00:09:36,600
+second. Well, what parts of education, what kinds of education are allegedly of subsidies?
+
+111
+00:09:36,600 --> 00:09:41,600
+Rather than allegedly positive externalities? Is it supposed to be like the reading and
+
+112
+00:09:41,600 --> 00:09:46,600
+the math that are positive externalities? Seems like the market pays you for those.
+
+113
+00:09:46,600 --> 00:09:53,600
+So, what kinds of education would people intuitively think of as having these positive externalities?
+
+114
+00:09:53,600 --> 00:09:56,600
+Yeah, what was that?
+
+115
+00:09:56,600 --> 00:09:57,600
+Stem.
+
+116
+00:09:57,600 --> 00:10:01,600
+Oh yeah, so like for R&D maybe. So like the R&D part, although not if you're just going
+
+117
+00:10:01,600 --> 00:10:07,600
+to get a stem degree and then go to Wall Street, which is a much more common, very common.
+
+118
+00:10:07,600 --> 00:10:13,600
+So, people often mention civics. Like civics makes us better voters. Or you say economics.
+
+119
+00:10:13,600 --> 00:10:18,600
+Economics makes people much better voters than civics, right? So then, rather than
+
+120
+00:10:18,600 --> 00:10:22,600
+just having like blanket subsidies where you say education in general gets money poured
+
+121
+00:10:22,600 --> 00:10:26,600
+on it, you would say no, there's some that doesn't get any, and then there's other stuff
+
+122
+00:10:26,600 --> 00:10:32,600
+where it gets a lot more. Although even there, once you accept, wait a second, what we really
+
+123
+00:10:32,600 --> 00:10:37,600
+want to do is promote knowledge of civics or economics. Why is it we go and focus on
+
+124
+00:10:37,600 --> 00:10:42,600
+subsidizing an input? An input which we have a lot of evidence says is highly ineffective.
+
+125
+00:10:42,600 --> 00:10:48,600
+So, rather than going and saying everyone can get heavily subsidized civics classes,
+
+126
+00:10:48,600 --> 00:10:54,600
+which if you look at the data, there's very little knowledge of civics, and furthermore
+
+127
+00:10:54,600 --> 00:10:58,600
+there's no incentive at all to retain it. So like what other method could you use to
+
+128
+00:10:58,600 --> 00:11:03,600
+subsidize civic knowledge, rather than just going and making cheap classes when the subject
+
+129
+00:11:03,600 --> 00:11:05,600
+is available?
+
+130
+00:11:05,600 --> 00:11:07,600
+Require it for voting or something like that?
+
+131
+00:11:07,600 --> 00:11:11,600
+Yeah, you could require it for voting, although even that, I mean probably the normal reaction
+
+132
+00:11:11,600 --> 00:11:15,600
+would just be fine, I just won't vote if I have to know civics and you want me to vote.
+
+133
+00:11:15,600 --> 00:11:18,600
+I don't feel like, what I have to learn something to vote? No thanks.
+
+134
+00:11:18,600 --> 00:11:20,600
+But doesn't that make better outcomes then?
+
+135
+00:11:20,600 --> 00:11:23,600
+Yeah, yeah, yeah, very well could.
+
+136
+00:11:23,600 --> 00:11:29,600
+But again, so the whole intuition behind this is to very clearly say what exactly do you
+
+137
+00:11:29,600 --> 00:11:37,600
+want to happen, and then subsidize that exact thing. So one of my most performance proposals
+
+138
+00:11:37,600 --> 00:11:42,600
+is to say, how about this, every year we have a national test of civics, say three weeks
+
+139
+00:11:42,600 --> 00:11:47,600
+before the election, and if you get a good score on it, you get money. The end.
+
+140
+00:11:47,600 --> 00:11:49,600
+Just money?
+
+141
+00:11:49,600 --> 00:11:55,600
+Yes, you get money, the end. Now, key feature of the system, you're allowed to retake the
+
+142
+00:11:55,600 --> 00:12:02,600
+test every single year. Why? Because otherwise people forget stuff. So this encourages people
+
+143
+00:12:02,600 --> 00:12:07,600
+to refresh and remember and keep learning all the time. And also of course, if you just
+
+144
+00:12:07,600 --> 00:12:11,600
+get money for a good score, then you can go and figure out what is the best way to learn
+
+145
+00:12:11,600 --> 00:12:15,600
+this stuff. Maybe the best thing to do is to go and take a class. Then again, maybe
+
+146
+00:12:15,600 --> 00:12:19,600
+that's a terrible way, given that almost everyone has to do years of this and almost no one
+
+147
+00:12:19,600 --> 00:12:23,600
+knows anything. Probably is a terrible way. So maybe it would be better to go and read
+
+148
+00:12:23,600 --> 00:12:28,600
+books and take practice tests. Right? And this way you would give people an incentive
+
+149
+00:12:28,600 --> 00:12:33,600
+to go and acquire the exact skill you think they should have in the least cost way and
+
+150
+00:12:33,600 --> 00:12:37,600
+to retain the knowledge so they can keep using it.
+
+151
+00:12:37,600 --> 00:12:42,600
+So again, this is very much in the spirit of the model, but of course, normally what
+
+152
+00:12:42,600 --> 00:12:46,600
+people do with externalities or public goods arguments is just to look at something that
+
+153
+00:12:46,600 --> 00:12:50,600
+they already want to have, a policy they already favor in the real world, and say there's the
+
+154
+00:12:50,600 --> 00:12:54,600
+part of the textbook that rationalizes something that I already wanted. Rather than really
+
+155
+00:12:54,600 --> 00:13:00,600
+doing the right thing, which is to hold up reality to the mirror and say is there any
+
+156
+00:13:00,600 --> 00:13:06,600
+way in which what we do does not measure up? Is there any failure to appreciate the model
+
+157
+00:13:06,600 --> 00:13:12,600
+in the real world? My story, once you really understand the model, you'll see that the
+
+158
+00:13:12,600 --> 00:13:16,600
+real world is only a pale reflection of the model. Even the cases where people think that
+
+159
+00:13:16,600 --> 00:13:20,600
+they've got a great story worked out, they don't really have a great story. It's mostly
+
+160
+00:13:20,600 --> 00:13:26,600
+just post hoc rationalization because people want to say that the real world is okay.
+
+161
+00:13:26,600 --> 00:13:33,600
+The real world is not okay. The real world must repent. And this is where the repentance
+
+162
+00:13:33,600 --> 00:13:35,600
+begins.
+
+163
+00:13:35,600 --> 00:13:38,600
+All right. Questions about repentance?
+
+164
+00:13:38,600 --> 00:13:40,600
+Related topics?
+
+165
+00:13:40,600 --> 00:13:42,600
+Yes.
+
+166
+00:13:42,600 --> 00:13:44,600
+All right.
+
+167
+00:13:44,600 --> 00:13:48,600
+All right. That case is moving on.
+
+168
+00:13:48,600 --> 00:13:54,600
+All right. So people often say that collusion is a public good for the firms that are in
+
+169
+00:13:54,600 --> 00:13:57,600
+the industry. The idea is all the firms in the industry would be better off if they all
+
+170
+00:13:57,600 --> 00:14:02,600
+would produce less. But holding constant the behavior of all the firms, everybody wants
+
+171
+00:14:02,600 --> 00:14:06,600
+to produce more. All right. And so you might think that we could go and take everything
+
+172
+00:14:06,600 --> 00:14:10,600
+we learned about collusion and use it to analyze public good. So that's what we're going to
+
+173
+00:14:10,600 --> 00:14:11,600
+do next.
+
+174
+00:14:11,600 --> 00:14:17,600
+All right. So let's imagine a voluntary donation game. There's a voluntary donation game,
+
+175
+00:14:17,600 --> 00:14:21,600
+which is going to look almost exactly like the Crono game because it's modeled to be
+
+176
+00:14:21,600 --> 00:14:35,600
+exactly like the Crono game.
+
+177
+00:14:35,600 --> 00:14:41,600
+All right. So suppose we got individual utility function depends on total contributions times
+
+178
+00:14:41,600 --> 00:14:46,600
+the personal consumption. So the utility person i is equal to the consumption person i times
+
+179
+00:14:46,600 --> 00:14:57,600
+total donations, where d is equal to the summation of all donations, and where consumption plus
+
+180
+00:14:57,600 --> 00:15:01,600
+your donations have to equal one. So you see what's going on here. Everybody has to divide
+
+181
+00:15:01,600 --> 00:15:05,600
+their income between their personal consumption and donations, and all the money gets donated
+
+182
+00:15:05,600 --> 00:15:11,600
+gets summed up to a big total donation. And then our utility depends upon our product
+
+183
+00:15:11,600 --> 00:15:20,600
+over consumption and total donations. Total donations. So in your ideal world, you donate
+
+184
+00:15:20,600 --> 00:15:25,600
+nothing, and everybody else donates everything, and then you get the best possible result
+
+185
+00:15:25,600 --> 00:15:26,600
+for yourself.
+
+186
+00:15:26,600 --> 00:15:30,600
+All right. So if you look for this metric equilibrium, then again, it's just going to
+
+187
+00:15:30,600 --> 00:15:36,600
+look almost exactly like Crono. And what we get is c is going to be equal to n over n
+
+188
+00:15:36,600 --> 00:15:42,600
+plus one. So if there were only one person that says that you would donate half and consume
+
+189
+00:15:42,600 --> 00:15:46,600
+half, because you're just one person. So if you're one person, then there's no externality,
+
+190
+00:15:46,600 --> 00:15:52,600
+right? So you would have yourself as the optimal. But as the number of people rises, the share
+
+191
+00:15:52,600 --> 00:15:57,600
+that you keep of yourself to consume keeps going up. And yet the social optimum actually
+
+192
+00:15:57,600 --> 00:16:03,600
+stays constant at 0.5 per person. All right. So as the number of individuals rises, then
+
+193
+00:16:03,600 --> 00:16:07,600
+the contribution per person of public goods goes down. Which intuitively makes sense,
+
+194
+00:16:07,600 --> 00:16:12,600
+right? That's what you'd expect. All right. And then similarly, suppose that what happens
+
+195
+00:16:12,600 --> 00:16:16,600
+when n goes to infinity? When n goes to infinity, what happens to consumption?
+
+196
+00:16:16,600 --> 00:16:17,600
+C goes to 1.
+
+197
+00:16:17,600 --> 00:16:23,600
+Yeah, consumption goes to 1. So it says when the number of people is infinite, then there's
+
+198
+00:16:23,600 --> 00:16:29,600
+no point donating anything, because you can't make any noticeable difference. Now this is
+
+199
+00:16:29,600 --> 00:16:36,600
+the non-cooperative result. This is when everybody donates, ignoring anyone else. All right.
+
+200
+00:16:36,600 --> 00:16:40,600
+So you could, in a repeated game, then maybe you could get to a higher level of cooperation,
+
+201
+00:16:40,600 --> 00:16:43,600
+right? You could say, look, if other people don't donate enough, then I'm not going to
+
+202
+00:16:43,600 --> 00:16:48,600
+donate anymore, and I will punish you by keeping it. And in theory, it's possible that you
+
+203
+00:16:48,600 --> 00:16:53,600
+could go and get cooperation. Just like in theory with repeated play with collusion,
+
+204
+00:16:53,600 --> 00:17:00,600
+you can go and get cooperation. But again, just like with that, clearly with the Bertrand
+
+205
+00:17:00,600 --> 00:17:05,600
+game, the more people that are contributing, the higher the level of patience you need
+
+206
+00:17:05,600 --> 00:17:10,600
+to get voluntary cooperation to work. Right? Make sense?
+
+207
+00:17:10,600 --> 00:17:19,600
+All right. Okay. So that's that model. All right. And now, return to a figure that Walter
+
+208
+00:17:19,600 --> 00:17:27,600
+Williams never talked about. Ronald Coase. All right. So in Ronald Coase's famous paper,
+
+209
+00:17:27,600 --> 00:17:32,600
+The Problem of Social Cost, what he said is that all the stuff you think of as externalities
+
+210
+00:17:32,600 --> 00:17:38,600
+and public goods problems, really, really are all just disguised transactions cost problems.
+
+211
+00:17:38,600 --> 00:17:42,600
+So there's really no such thing, actually, as something that's just an externality problem
+
+212
+00:17:42,600 --> 00:17:47,600
+as to public good. It's all about transactions costs. And again, the idea is that if there
+
+213
+00:17:47,600 --> 00:17:52,600
+were zero transactions costs, we would all just bargain to the efficient outcome. Right?
+
+214
+00:17:52,600 --> 00:17:56,600
+Of course, the transactions costs, for them to be zero, as I mentioned in week one, you'd
+
+215
+00:17:56,600 --> 00:18:00,600
+have to have a bunch of superpowers, such as telepathy. Right? You need telepathy to
+
+216
+00:18:00,600 --> 00:18:05,600
+have zero transactions costs because you need to know how much other people are really willing
+
+217
+00:18:05,600 --> 00:18:11,600
+to pay to know what in order to, and you need to have it pop in your head in order to costlessly
+
+218
+00:18:11,600 --> 00:18:18,600
+be able to achieve all transactions. Okay. Yeah. This Coase argument does give us an
+
+219
+00:18:18,600 --> 00:18:23,600
+extra reason to think that as the number of firms goes up, the cooperation goes down.
+
+220
+00:18:23,600 --> 00:18:29,600
+And that's just because when there's more transactors, transactions costs goes up. So
+
+221
+00:18:29,600 --> 00:18:33,600
+notice, this is a totally different argument from what we were looking at with Bertrand.
+
+222
+00:18:33,600 --> 00:18:38,600
+So, or with Cornell. Right? So none of that had anything to do with transactions costs.
+
+223
+00:18:38,600 --> 00:18:42,600
+Right? When we did Bertrand collusion, Cornell collusion, did I ever mention transactions
+
+224
+00:18:42,600 --> 00:18:52,600
+costs? No. We just proved, given the assumptions, that as n went up, that the amount of cooperation
+
+225
+00:18:52,600 --> 00:18:59,600
+would go down. So, this Coase argument, we can add it on top of that. It's an extra additional
+
+226
+00:18:59,600 --> 00:19:06,600
+argument saying why it is that with more cooperation, or more cooperators, there's going to actually
+
+227
+00:19:06,600 --> 00:19:15,600
+be less cooperation. So, that is one reason to actually think that when there's more firms,
+
+228
+00:19:15,600 --> 00:19:20,600
+there's going to be less cooperation, which is true for both good and ill. What do you
+
+229
+00:19:20,600 --> 00:19:24,600
+think about it? Right? Because it means that when there's more firms, there's going to
+
+230
+00:19:24,600 --> 00:19:28,600
+be fewer, it's less likely that firms will all get together and form a voluntary cartel.
+
+231
+00:19:28,600 --> 00:19:32,600
+It also means, though, that a bunch of donors are less likely to get together and voluntarily
+
+232
+00:19:32,600 --> 00:19:38,600
+pool the resources to provide a public good. So you get both problems simultaneously caused
+
+233
+00:19:38,600 --> 00:19:46,600
+by transactions costs. But, here is the good news. In the real world, there is often something
+
+234
+00:19:46,600 --> 00:19:55,600
+called enforceable contracts. Or actually, given what I just said, it's kind of good
+
+235
+00:19:55,600 --> 00:20:00,600
+and bad news. Right? So, enforceable contracts is basically a way that you can get a lot
+
+

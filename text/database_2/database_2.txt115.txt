@@ -1,0 +1,6 @@
+6. Voters rational ignorance creates a moral hazard problem for politicians.
+ 
+True, False, and Explain: As usual, there is a simple way to mitigate this moral hazard problem.
+
+True. Voter rational ignorance means that voters don't obtain the information necessary to hold politicians accountable for their actions--i.e. voters face high monitoring costs. Thus politicians will not always act according to the interests of their constituents. This moral hazard problem could be overcome using contractual punishments, wherein voters and politicians would contract such that politicians voted into office would face high punishments if it is found that they acted against the interests of their constituents. This would provide a stronger incentive for politicians to act according to their constituents' interests rather than their own. 
+

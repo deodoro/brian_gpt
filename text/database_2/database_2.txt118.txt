@@ -1,0 +1,29 @@
+2. When you claim that X is the maximally utilitarian way for the federal government to spend an extra billion dollars, you should start with Kaldor-Hicks efficiency, then adjust for marginal utility of wealth.  The conventional adjustment is to put higher weight on the poor, but there are equally strong cases for putting higher weight on the appreciative (people who savor better experiences) and the materialistic (people who place unusually high value on the stuff that money can buy).  The true utilitarian will want to make each and every one of these adjustments.
+
+By these standards, stand-out answers include:
+
+
+Daniel Kuehn:
+I agree with RPLong on a simple shape-of-utility curves basis that redistribution is the obvious first-cut winner (and do it progressively). Anything else needs to overcome normal consumer theory with an interesting externality or multiplier story.
+I think investments in neglected R&D of any sort would be a strong contender. A billion goes a long way in a prize fund too.
+Fabio Rojas:
+Assumption #1: Economic growth happens when people innovate.
+Assumption #2: Innovation is proportional to population size.
+Policy prescription: Use the $1B to subsidize child bearing, such as lowering out of pocket costs for delivery, paying for child care, etc.
+Why it's better than other policies: No other policy is simple to implement. Also, when it come to innovation, it has a better chance of working than having the state pick projects to subsidize.
+Kaldor-Hicks criteria: Since the size of the economy will grow, we can use the additional tax revenue to compensate childless people without raising taxes.
+Criticism: Maybe the elasticity of children and money (and the implied growth) isn't enough to offset the $1bn.
+I'd say Fab understates the case, because Kaldor-Hicks would count additional people's willingness-to-pay to be born, and utilitarianism would count additional people's utility of existing.
+Martin:
+Pay Kim-Jong Un and his key (read: most influential) supporters to leave North Korea and never come back and send them to some undisclosed location (I am sure China would be willing to receive them).
+Alternatively, pay-off any third world dictator and his key supporters to leave the country and never come back. 
+But is a $1B payoff really sufficient to accomplish this?  And wouldn't the dictators reasonably fear a post-abdication clawback?
+AMW proposes immigration subsidies.  But unless you relax immigration laws at the same time, would these subsidies really accomplish anything?  The same goes for Bob Murphy's righteous suggestion.
+Ryan Murphy:
+Endow a fund that spends 5% of the endowment per year on prizes for solving specific scientific problems.
+A very good start, but you should specify "specific scientific problems" with especially large externalities (for maximum efficiency) and especially large effects on the poor, appreciative, and materialistic (for maximum utility).
+There are several enticing proposals to spend the money improving public opinion on e.g. immigration.  But how much difference would $1B of open borders propaganda really make on policy?
+Thomas May makes a good case:
+Sending medicine and vaccinations to the third world is probably the way to provide the greatest happiness to the greatest number for the lowest cost. The domestic welfare state by and large isn't because people in the US tend to have a lot of money by world standards anyway, and development aid (as opposed to relief of extreme hardship) isn't either because it doesn't seem to do much of anything.
+
+

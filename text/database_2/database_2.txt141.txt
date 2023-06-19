@@ -1,0 +1,8 @@
+4. "As in the judgment of whether a work of art is genuine or a fake, you will usually do better by focusing on its provenance than by looking at the piece itself." (Kahneman, Thinking, Fast and Slow)
+ 
+True, False, and Explain:  Kahneman is arguing that elite credentials are the best predictor of expert accuracy.
+
+False. On page 243, Kahneman says this and follows it with "If the environment is sufficiently regular and if the judge has had a chance to learn its regularities, the associative machinery will recognize situations and generate quick and accurate predictions and decisions. You can trust someone's intuitions if these conditions are met."
+
+Kahneman is not arguing that elite credentials are the best predictor of expert accuracy. Instead, experts are likely to have accurate intuition if they have experience in an environment with strong regularities that they have built experience with.  For example, firefighters have experience in environments with regularities that they develop intuitions and memories about. Political scientists do not have similar experiences or regularities with regards to elections.
+

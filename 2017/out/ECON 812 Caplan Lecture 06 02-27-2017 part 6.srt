@@ -1,0 +1,1857 @@
+1
+00:00:00,000 --> 00:00:02,240
+probably a lot of the story is something like that.
+
+2
+00:00:02,240 --> 00:00:05,680
+And also notice that the border doesn't move even a foot a year.
+
+3
+00:00:05,680 --> 00:00:07,200
+The border just stays exactly there.
+
+4
+00:00:07,200 --> 00:00:11,600
+There's something very sacrosanct about that little line
+
+5
+00:00:11,600 --> 00:00:13,680
+so that if one country were to say, look,
+
+6
+00:00:13,680 --> 00:00:16,560
+we just want to move it one foot north, that's all we're asking.
+
+7
+00:00:16,560 --> 00:00:19,280
+That by itself could be something that broke a war.
+
+8
+00:00:19,280 --> 00:00:21,160
+It seems, in fact, pretty plausible.
+
+9
+00:00:21,160 --> 00:00:24,240
+If you wanted to go and get a war with Canada,
+
+10
+00:00:24,240 --> 00:00:26,080
+for the smallest possible cause, just saying
+
+11
+00:00:26,080 --> 00:00:28,640
+we want to move the border one foot north
+
+12
+00:00:28,640 --> 00:00:31,160
+seems like a pretty good way to do it.
+
+13
+00:00:31,160 --> 00:00:33,120
+That's what's going on in Kashmir.
+
+14
+00:00:33,120 --> 00:00:36,720
+They're debating about what is the sovereign territory.
+
+15
+00:00:36,720 --> 00:00:39,800
+So if one person is crossing that sovereign territory,
+
+16
+00:00:39,800 --> 00:00:41,160
+they're fighting over the whole.
+
+17
+00:00:41,160 --> 00:00:42,080
+Right, right.
+
+18
+00:00:42,080 --> 00:00:42,640
+Yes.
+
+19
+00:00:42,640 --> 00:00:44,280
+I mean, the US-Canadian case is more interesting
+
+20
+00:00:44,280 --> 00:00:45,760
+just because it's had, there's been
+
+21
+00:00:45,760 --> 00:00:47,040
+peace for over 100 years.
+
+22
+00:00:47,040 --> 00:00:49,640
+There's agreement on what the border.
+
+23
+00:00:49,640 --> 00:00:51,440
+Right, right.
+
+24
+00:00:51,440 --> 00:00:53,280
+All right.
+
+25
+00:00:53,280 --> 00:00:55,280
+So anyway, so people are more likely to fight
+
+26
+00:00:55,280 --> 00:00:58,000
+and attack their own territory than the expectation.
+
+27
+00:00:58,000 --> 00:00:59,480
+Makes the threat to fight or attack
+
+28
+00:00:59,480 --> 00:01:01,760
+more credible than the threat to fight if resisted.
+
+29
+00:01:01,760 --> 00:01:03,200
+Yeah, and actually, the main point
+
+30
+00:01:03,200 --> 00:01:05,480
+of the peace with their camera is on the black market.
+
+31
+00:01:05,480 --> 00:01:07,560
+So black markets are interesting because not only
+
+32
+00:01:07,560 --> 00:01:09,720
+is this property the government doesn't respect,
+
+33
+00:01:09,720 --> 00:01:14,080
+it's generally property the government says is illegal.
+
+34
+00:01:14,080 --> 00:01:16,640
+And yet, how many movies about drugs
+
+35
+00:01:16,640 --> 00:01:18,400
+have been based on the premise that someone
+
+36
+00:01:18,400 --> 00:01:20,400
+stole somebody's drugs?
+
+37
+00:01:20,400 --> 00:01:21,800
+Right, you can't go to the police
+
+38
+00:01:21,800 --> 00:01:24,840
+and say they stole my drugs, or they'll arrest you.
+
+39
+00:01:24,840 --> 00:01:27,120
+Right, and yet, there is a sense that if you
+
+40
+00:01:27,120 --> 00:01:28,680
+want to get in trouble with the mafia,
+
+41
+00:01:28,680 --> 00:01:31,400
+one good bet is to go and steal some of their drugs.
+
+42
+00:01:31,400 --> 00:01:33,200
+You say, well, if it's not recognized,
+
+43
+00:01:33,200 --> 00:01:35,200
+it's recognized by us.
+
+44
+00:01:35,200 --> 00:01:39,000
+So you better watch it.
+
+45
+00:01:39,000 --> 00:01:41,600
+All right, questions, questions?
+
+46
+00:01:41,600 --> 00:01:43,240
+All right.
+
+47
+00:01:43,240 --> 00:01:45,240
+So and then the last topic.
+
+48
+00:01:45,240 --> 00:01:47,720
+So rent-seeking and lobbying inefficiency.
+
+49
+00:01:47,720 --> 00:01:50,320
+Remember, we already talked about two kinds
+
+50
+00:01:50,320 --> 00:01:51,120
+of inefficiencies.
+
+51
+00:01:51,120 --> 00:01:53,000
+We talked about allocative inefficiency
+
+52
+00:01:53,000 --> 00:01:55,440
+and productive inefficiency.
+
+53
+00:01:55,440 --> 00:01:57,440
+All right.
+
+54
+00:02:02,000 --> 00:02:03,640
+So the allocative inefficiency is
+
+55
+00:02:03,640 --> 00:02:06,280
+the kind that gets almost all attention in textbooks,
+
+56
+00:02:06,280 --> 00:02:08,120
+especially I.O. textbooks.
+
+57
+00:02:08,120 --> 00:02:11,560
+So where you start off with this is your marital cost,
+
+58
+00:02:11,560 --> 00:02:14,640
+this is demand, and then we've got a monopoly here.
+
+59
+00:02:14,640 --> 00:02:17,040
+So we are pricing up here.
+
+60
+00:02:17,040 --> 00:02:20,960
+And then we have this triangle of deadweight loss,
+
+61
+00:02:20,960 --> 00:02:24,640
+which is the allocative inefficiency.
+
+62
+00:02:24,640 --> 00:02:29,680
+And then we talked about the further inefficiency caused
+
+63
+00:02:29,680 --> 00:02:34,960
+by having costs higher than they socially need to be.
+
+64
+00:02:34,960 --> 00:02:38,160
+So for example, this could be the marginal cost
+
+65
+00:02:38,160 --> 00:02:40,920
+of the brother-in-law of the dictator.
+
+66
+00:02:40,920 --> 00:02:44,640
+But here is the marginal cost of the most efficient firm.
+
+67
+00:02:44,640 --> 00:02:46,160
+And then as we saw, there's going
+
+68
+00:02:46,160 --> 00:02:48,800
+to be another set of inefficiency
+
+69
+00:02:48,800 --> 00:02:51,760
+here in the shape of a trapezoid.
+
+70
+00:02:51,760 --> 00:02:55,240
+And this is the productive inefficiency.
+
+71
+00:02:55,240 --> 00:02:57,600
+So this is all the inefficiency associated
+
+72
+00:02:57,600 --> 00:03:01,400
+with the fact that costs are higher than they socially
+
+73
+00:03:01,400 --> 00:03:01,840
+need to be.
+
+74
+00:03:05,720 --> 00:03:07,320
+So we've got a trapezoid and we've
+
+75
+00:03:07,320 --> 00:03:09,600
+got a triangle inefficiency.
+
+76
+00:03:09,600 --> 00:03:12,600
+Now, there is another kind of inefficiency
+
+77
+00:03:12,600 --> 00:03:15,000
+that Gordon Tullock is famously associated with.
+
+78
+00:03:15,000 --> 00:03:17,480
+Although there's a bunch of other people that followed up
+
+79
+00:03:17,480 --> 00:03:20,040
+on him as to whether or not they were actually
+
+80
+00:03:20,040 --> 00:03:22,800
+copying him and republishing or whether they're
+
+81
+00:03:22,800 --> 00:03:23,760
+independent discoverers.
+
+82
+00:03:23,760 --> 00:03:25,200
+We may never know.
+
+83
+00:03:25,200 --> 00:03:27,640
+But in any case, final form of inefficiency
+
+84
+00:03:27,640 --> 00:03:31,360
+usually known as lobbying or rent-seeking inefficiency.
+
+85
+00:03:31,360 --> 00:03:34,880
+So it arises when people use resources to cause
+
+86
+00:03:34,880 --> 00:03:37,320
+the transfer of resources.
+
+87
+00:03:37,320 --> 00:03:40,680
+So when people actually spend something
+
+88
+00:03:40,680 --> 00:03:45,920
+in order to gain control of a fixed pie of stuff.
+
+89
+00:03:45,920 --> 00:03:48,760
+And the simplest example would be something like this.
+
+90
+00:03:48,760 --> 00:03:52,200
+So suppose that rather than the brother-in-law just
+
+91
+00:03:52,200 --> 00:03:55,560
+getting the monopoly for free, instead you
+
+92
+00:03:55,560 --> 00:03:58,560
+have to go and fight in the legislature.
+
+93
+00:03:58,560 --> 00:04:01,880
+So you have to go and hire a bunch of lawyers
+
+94
+00:04:01,880 --> 00:04:04,320
+and you have to bribe a bunch of congressmen.
+
+95
+00:04:04,320 --> 00:04:08,400
+Or you have to go and hire some researchers to argue
+
+96
+00:04:08,400 --> 00:04:09,520
+on your behalf.
+
+97
+00:04:09,520 --> 00:04:12,680
+Or maybe you need to go and take out a big advertising campaign.
+
+98
+00:04:12,680 --> 00:04:14,480
+So you have to put up resources in order
+
+99
+00:04:14,480 --> 00:04:17,160
+to become the monopolist.
+
+100
+00:04:17,160 --> 00:04:22,560
+Now in the simple model, this rectangle here is what?
+
+101
+00:04:22,560 --> 00:04:24,200
+In the simple, so not with rent-seeking,
+
+102
+00:04:24,200 --> 00:04:25,680
+but the very simple story monopoly,
+
+103
+00:04:25,680 --> 00:04:27,280
+what is that rectangle?
+
+104
+00:04:27,280 --> 00:04:28,200
+Profit.
+
+105
+00:04:28,200 --> 00:04:28,760
+Yeah, profit.
+
+106
+00:04:28,760 --> 00:04:31,400
+That rectangle is normally monopoly profits.
+
+107
+00:04:31,400 --> 00:04:35,160
+But if you get this monopoly profit
+
+108
+00:04:35,160 --> 00:04:37,080
+by becoming a monopolist, there is
+
+109
+00:04:37,080 --> 00:04:38,800
+a reason to spend resources in order
+
+110
+00:04:38,800 --> 00:04:40,640
+to get that monopoly profit.
+
+111
+00:04:40,640 --> 00:04:44,760
+And so this goes from being all monopoly profit to just
+
+112
+00:04:44,760 --> 00:04:46,720
+being the gross monopoly profit.
+
+113
+00:04:46,720 --> 00:04:49,920
+It's a monopoly profit that you get if you win.
+
+114
+00:04:49,920 --> 00:04:51,480
+But in order to win, you might have
+
+115
+00:04:51,480 --> 00:04:55,240
+to spend a lot of resources.
+
+116
+00:04:55,240 --> 00:04:57,000
+And those resources get burned up.
+
+117
+00:04:57,000 --> 00:05:00,080
+They're not actually going to be enjoyed by anyone in society.
+
+118
+00:05:02,600 --> 00:05:06,680
+So just imagine a world where the more you spend
+
+119
+00:05:06,680 --> 00:05:09,080
+on your lobbying efforts to convince the world
+
+120
+00:05:09,080 --> 00:05:11,080
+that you deserve to be a monopolist,
+
+121
+00:05:11,080 --> 00:05:14,200
+the more you prove your chances.
+
+122
+00:05:14,200 --> 00:05:17,400
+And we can picture this like a tug-of-war contest.
+
+123
+00:05:17,400 --> 00:05:20,040
+So the game tug-of-war where there's a rope,
+
+124
+00:05:20,040 --> 00:05:22,120
+and then there's a thing of mud in the center.
+
+125
+00:05:22,120 --> 00:05:26,000
+And then you have people more pulling the rope.
+
+126
+00:05:28,880 --> 00:05:31,400
+And then imagine that each side can go and hire
+
+127
+00:05:31,400 --> 00:05:34,240
+more assistant rope pullers.
+
+128
+00:05:34,240 --> 00:05:36,280
+And you can end, you know, that's really bad.
+
+129
+00:05:36,280 --> 00:05:37,280
+Like, it's not just mud.
+
+130
+00:05:37,280 --> 00:05:39,960
+Maybe it's like molten lava.
+
+131
+00:05:39,960 --> 00:05:42,280
+All right, so you can keep adding more and more people.
+
+132
+00:05:42,280 --> 00:05:44,800
+Each side will keep adding more and more people.
+
+133
+00:05:44,800 --> 00:05:52,600
+And when in equilibrium does the expected benefits
+
+134
+00:05:52,600 --> 00:05:55,840
+of participating in this process go down to just the normal
+
+135
+00:05:55,840 --> 00:05:58,160
+level?
+
+136
+00:05:58,160 --> 00:06:00,120
+So anyway, Gordon Tollick's deep insight here
+
+137
+00:06:00,120 --> 00:06:02,280
+is we can think about this as just
+
+138
+00:06:02,280 --> 00:06:04,480
+being a competitive industry.
+
+139
+00:06:04,480 --> 00:06:06,400
+In competitive industry, in the long run,
+
+140
+00:06:06,400 --> 00:06:08,160
+price is equal to what again?
+
+141
+00:06:08,160 --> 00:06:09,320
+Yeah, margin loss.
+
+142
+00:06:09,320 --> 00:06:13,320
+But also, more importantly in this case, average cost.
+
+143
+00:06:13,320 --> 00:06:15,840
+So you keep getting entry in the long run
+
+144
+00:06:15,840 --> 00:06:19,360
+until price is going to be equal to average cost.
+
+145
+00:06:19,360 --> 00:06:23,600
+So what this means is that if initially the rate of return
+
+146
+00:06:23,600 --> 00:06:26,280
+to fighting over those monopoly profits is 10%,
+
+147
+00:06:26,280 --> 00:06:27,840
+this will give you more entry.
+
+148
+00:06:27,840 --> 00:06:29,880
+And then finally, you will get entry
+
+149
+00:06:29,880 --> 00:06:34,080
+until the rate of return in the lobbying industry.
+
+150
+00:06:34,080 --> 00:06:36,040
+We'll call it industry metaphorically
+
+151
+00:06:36,040 --> 00:06:38,480
+because it's not very industrious.
+
+152
+00:06:38,480 --> 00:06:40,480
+It doesn't lead to production, but it
+
+153
+00:06:40,480 --> 00:06:42,760
+does lead to redistribution.
+
+154
+00:06:42,760 --> 00:06:47,760
+You get more and more entry until our economic profits are
+
+155
+00:06:47,760 --> 00:06:48,640
+what?
+
+156
+00:06:48,640 --> 00:06:49,160
+Zero.
+
+157
+00:06:49,160 --> 00:06:52,480
+Yes, economic profits are zero.
+
+158
+00:06:52,480 --> 00:06:53,320
+OK.
+
+159
+00:06:53,320 --> 00:06:56,400
+And so that means that rather than this thing here
+
+160
+00:06:56,400 --> 00:07:00,680
+being true monopoly profits, that actually we
+
+161
+00:07:00,680 --> 00:07:03,040
+can go and think about this as yet another kind
+
+162
+00:07:03,040 --> 00:07:05,960
+of deadweight loss.
+
+163
+00:07:05,960 --> 00:07:08,840
+That whole thing can become deadweight loss.
+
+164
+00:07:08,840 --> 00:07:10,600
+Right?
+
+165
+00:07:10,600 --> 00:07:14,320
+So if there's a million dollars worth of benefit
+
+166
+00:07:14,320 --> 00:07:17,120
+from getting the monopoly grant, then in equilibrium
+
+167
+00:07:17,120 --> 00:07:20,080
+it seems like the total amount that people spend on lobbying
+
+168
+00:07:20,080 --> 00:07:22,320
+will be a million dollars.
+
+169
+00:07:22,320 --> 00:07:23,920
+Now, of course, the firm that wins
+
+170
+00:07:23,920 --> 00:07:25,680
+is going to do way better than that.
+
+171
+00:07:25,680 --> 00:07:28,160
+But on the other hand, the firms that lose
+
+172
+00:07:28,160 --> 00:07:29,680
+are going to be losing money.
+
+173
+00:07:29,680 --> 00:07:32,560
+I mean, it's just like, say, a patent race, where
+
+174
+00:07:32,560 --> 00:07:35,080
+whoever gets there first and wins,
+
+175
+00:07:35,080 --> 00:07:37,440
+they're going to be making good profits.
+
+176
+00:07:37,440 --> 00:07:39,320
+But when you think about the social cost,
+
+177
+00:07:39,320 --> 00:07:41,600
+you also need to subtract out all of the research
+
+178
+00:07:41,600 --> 00:07:44,960
+efforts of all the losers who get no gross profits
+
+179
+00:07:44,960 --> 00:07:47,520
+and still had all the research costs.
+
+180
+00:07:47,520 --> 00:07:48,000
+Right?
+
+181
+00:07:48,000 --> 00:07:51,200
+And in equilibrium, we need to have price equals average cost.
+
+182
+00:07:51,200 --> 00:07:53,920
+So the total amount of resources that people
+
+183
+00:07:53,920 --> 00:07:56,400
+spend trying to get the monopoly profit
+
+184
+00:07:56,400 --> 00:08:00,320
+will actually equal the monopoly profits.
+
+185
+00:08:00,320 --> 00:08:02,480
+So anyway, this is a lot like mixed value reasoning.
+
+186
+00:08:02,480 --> 00:08:04,640
+So in equilibrium, the payoffs of production and redistribution
+
+187
+00:08:04,640 --> 00:08:05,640
+are going to be equal.
+
+188
+00:08:05,640 --> 00:08:07,120
+And you keep entering this arms race
+
+189
+00:08:07,120 --> 00:08:08,880
+until the net profits of the privilege
+
+190
+00:08:08,880 --> 00:08:12,640
+are zero, which happens when the total cost of lobbying
+
+191
+00:08:12,640 --> 00:08:15,400
+equals the total value of the monopoly privilege.
+
+192
+00:08:15,400 --> 00:08:17,200
+And this has a special name.
+
+193
+00:08:17,200 --> 00:08:19,720
+So again, if this doesn't need to happen,
+
+194
+00:08:19,720 --> 00:08:23,320
+so if that does happen, then we call it full rent dissipation.
+
+195
+00:08:29,240 --> 00:08:31,080
+And this here has a special name.
+
+196
+00:08:31,080 --> 00:08:32,240
+It's not just a rectangle.
+
+197
+00:08:32,240 --> 00:08:36,880
+It's the telec rectangle.
+
+198
+00:08:36,880 --> 00:08:38,280
+Geometrically, the telec rectangle
+
+199
+00:08:38,280 --> 00:08:40,760
+is exactly the same as the monopoly profit rectangle,
+
+200
+00:08:40,760 --> 00:08:45,440
+only we now can reinterpret it as being deadweight loss
+
+201
+00:08:45,440 --> 00:08:48,640
+rather than transfer.
+
+202
+00:08:48,640 --> 00:08:49,120
+Right?
+
+203
+00:08:49,120 --> 00:08:51,120
+And now, look at how gloomy this market is.
+
+204
+00:08:51,120 --> 00:08:53,840
+We started off with a market where the total social surplus
+
+205
+00:08:53,840 --> 00:08:56,080
+was this giant triangle.
+
+206
+00:08:56,080 --> 00:08:58,640
+And we end up with this little stub.
+
+207
+00:08:58,640 --> 00:09:03,080
+We end up with that little stub of surplus at the end.
+
+208
+00:09:03,080 --> 00:09:07,160
+So this is what's left over after an incompetent firm
+
+209
+00:09:07,160 --> 00:09:09,320
+jacks up the price after fighting
+
+210
+00:09:09,320 --> 00:09:10,320
+for the right to do so.
+
+211
+00:09:12,960 --> 00:09:14,640
+And then, yeah, there's still something.
+
+212
+00:09:14,640 --> 00:09:16,520
+So there's still better to have a product that
+
+213
+00:09:16,520 --> 00:09:17,760
+exists than not exist.
+
+214
+00:09:17,760 --> 00:09:22,160
+But the social gain that we just realized
+
+215
+00:09:22,160 --> 00:09:26,160
+when we compare it to the potential is very small.
+
+216
+00:09:26,160 --> 00:09:31,040
+So there, I guess it looks like 1 9th, something like that.
+
+217
+00:09:31,040 --> 00:09:32,640
+As drawn, these are similar triangles.
+
+218
+00:09:32,640 --> 00:09:34,600
+You can go and do a little bit like that.
+
+219
+00:09:38,600 --> 00:09:39,440
+All right.
+
+220
+00:09:39,440 --> 00:09:40,720
+Questions?
+
+221
+00:09:40,720 --> 00:09:41,220
+Yes?
+
+222
+00:09:41,220 --> 00:09:45,120
+So that whole bottom trapezoid, that's all productive?
+
+223
+00:09:45,120 --> 00:09:47,160
+Yes, that's all productive inefficiency, exactly.
+
+224
+00:09:47,160 --> 00:09:52,040
+So is this more of a competitive market?
+
+225
+00:09:52,040 --> 00:09:54,320
+Yes, so the idea is that in a competitive market,
+
+226
+00:09:54,320 --> 00:09:57,200
+you could have this thing could have happened.
+
+227
+00:09:57,200 --> 00:09:57,760
+Yes.
+
+228
+00:09:57,760 --> 00:10:00,680
+So again, I suppose if there were two firms that
+
+229
+00:10:00,680 --> 00:10:03,920
+both had that, or if one firm had these costs,
+
+230
+00:10:03,920 --> 00:10:06,320
+but there was a potential one that was just as efficient,
+
+231
+00:10:06,320 --> 00:10:08,560
+then you actually could very well be right there.
+
+232
+00:10:12,480 --> 00:10:15,160
+Now, when people think about this situation,
+
+233
+00:10:15,160 --> 00:10:17,240
+common reaction is, well, we wouldn't
+
+234
+00:10:17,240 --> 00:10:19,720
+have to go and deal with this problem.
+
+235
+00:10:19,720 --> 00:10:22,560
+It wouldn't be a deadweight loss of the tele-rectangle
+
+236
+00:10:22,560 --> 00:10:26,800
+if instead of having lobbying, we just did competitive bidding.
+
+237
+00:10:26,800 --> 00:10:32,080
+So suppose that instead of having a giant argument or fight
+
+238
+00:10:32,080 --> 00:10:34,920
+about who gets the monopoly profits,
+
+239
+00:10:34,920 --> 00:10:38,080
+instead we just had the government auction it.
+
+240
+00:10:38,080 --> 00:10:40,120
+Then the government would raise this revenue,
+
+241
+00:10:40,120 --> 00:10:42,040
+and that would be a transfer to the government
+
+242
+00:10:42,040 --> 00:10:45,720
+rather than a deadweight loss to society.
+
+243
+00:10:45,720 --> 00:10:48,360
+OK, now, what Tulloch pointed out,
+
+244
+00:10:48,360 --> 00:10:53,240
+though, is that there really is a law of conservation
+
+245
+00:10:53,240 --> 00:10:56,760
+of rent-seeking, because if the government is able to go and get
+
+246
+00:10:56,760 --> 00:10:58,880
+all these monopoly profits, this is just
+
+247
+00:10:58,880 --> 00:11:00,640
+going to increase competition to become
+
+248
+00:11:00,640 --> 00:11:02,320
+the people in charge of the government who
+
+249
+00:11:02,320 --> 00:11:04,360
+are able to get the money.
+
+250
+00:11:04,360 --> 00:11:06,520
+So you can very easily see this in things
+
+251
+00:11:06,520 --> 00:11:11,760
+like medieval monarchies, where on the one hand,
+
+252
+00:11:11,760 --> 00:11:14,280
+if you are the king, you get all this great stuff.
+
+253
+00:11:14,280 --> 00:11:17,840
+But that means that other people look at you with envy
+
+254
+00:11:17,840 --> 00:11:20,720
+and say, if only I could become the king.
+
+255
+00:11:20,720 --> 00:11:22,320
+I could be the king.
+
+256
+00:11:22,320 --> 00:11:23,600
+I should be the king.
+
+257
+00:11:23,600 --> 00:11:25,840
+If I would just raise an army and kill
+
+258
+00:11:25,840 --> 00:11:27,800
+the people in charge, that would be me.
+
+259
+00:11:27,800 --> 00:11:29,880
+Of course, you're not the only one thinking that.
+
+260
+00:11:29,880 --> 00:11:31,680
+There's a lot of people thinking that.
+
+261
+00:11:31,680 --> 00:11:35,000
+So if you know the show or books Game of Thrones,
+
+262
+00:11:35,000 --> 00:11:36,720
+there's enormous surplus.
+
+263
+00:11:36,720 --> 00:11:38,320
+But basically, it looks like it's
+
+264
+00:11:38,320 --> 00:11:40,200
+all going to be dissipated.
+
+265
+00:11:40,200 --> 00:11:42,480
+There's going to be the whole area will be totally laid
+
+266
+00:11:42,480 --> 00:11:43,600
+waste.
+
+267
+00:11:43,600 --> 00:11:45,200
+I don't know the final outcome.
+
+268
+00:11:45,200 --> 00:11:50,280
+But realistically, it just seems like that's it for them.
+
+269
+00:11:50,280 --> 00:11:52,160
+But I suppose that wouldn't really
+
+270
+00:11:52,160 --> 00:11:54,280
+be a good ending for the story.
+
+271
+00:11:54,280 --> 00:11:57,640
+But the idea is that if it's really good to be the king,
+
+272
+00:11:57,640 --> 00:12:00,720
+then people will fight very bitterly to become the king.
+
+273
+00:12:00,720 --> 00:12:04,200
+So the king can very peaceably go and raise lots of revenue
+
+274
+00:12:04,200 --> 00:12:06,080
+from auctioning off monopolies.
+
+275
+00:12:06,080 --> 00:12:08,280
+There will be other people around, interesting
+
+276
+00:12:08,280 --> 00:12:10,560
+and very brutally, taking over that job.
+
+277
+00:12:10,560 --> 00:12:13,640
+So Game of Thrones is based on the War of the Roses.
+
+278
+00:12:13,640 --> 00:12:16,240
+So if you ever looked at the fraction
+
+279
+00:12:16,240 --> 00:12:18,720
+of the warring families that survived at the end of the war,
+
+280
+00:12:18,720 --> 00:12:21,320
+I think like 90% of them were dead by the end.
+
+281
+00:12:21,320 --> 00:12:23,840
+So they were killing each other left and right.
+
+282
+00:12:23,840 --> 00:12:26,040
+So if only they could have just lived in peace,
+
+283
+00:12:26,040 --> 00:12:27,520
+things would have been a lot better.
+
+284
+00:12:27,520 --> 00:12:30,560
+But instead, red dissipation came along.
+
+285
+00:12:30,560 --> 00:12:33,240
+And they fought for it.
+
+286
+00:12:33,240 --> 00:12:35,360
+Now, another example of red dissipation
+
+287
+00:12:35,360 --> 00:12:37,360
+that Talhah would like to talk about.
+
+288
+00:12:37,360 --> 00:12:39,120
+So Talhah's family, the family of Talhah,
+
+289
+00:12:39,120 --> 00:12:40,560
+he would like to talk about.
+
+290
+00:12:40,560 --> 00:12:42,960
+So Talhah spent quite a few years in China
+
+291
+00:12:42,960 --> 00:12:45,160
+during World War II and after World War II.
+
+292
+00:12:45,160 --> 00:12:49,880
+So he'd like to talk about the system of the Chinese civil
+
+293
+00:12:49,880 --> 00:12:51,320
+service exams.
+
+294
+00:12:51,320 --> 00:12:53,320
+So people often talk about how China
+
+295
+00:12:53,320 --> 00:12:55,920
+had these impartial civil service exams.
+
+296
+00:12:55,920 --> 00:12:57,520
+But the content of the exams was not
+
+297
+00:12:57,520 --> 00:12:59,280
+on anything in social science or anything
+
+298
+00:12:59,280 --> 00:13:01,600
+like that that would seem to improve your ability to do
+
+299
+00:13:01,600 --> 00:13:02,100
+the job.
+
+300
+00:13:02,100 --> 00:13:04,480
+Instead, it was basically just exams
+
+301
+00:13:04,480 --> 00:13:08,360
+about what long-dead classical thinkers said,
+
+302
+00:13:08,360 --> 00:13:10,920
+what Confucius said, things like this.
+
+303
+00:13:10,920 --> 00:13:15,520
+I once talked to a guy who had gone to, let's see.
+
+304
+00:13:15,520 --> 00:13:17,920
+So he'd actually done 20 years in a slave labor
+
+305
+00:13:17,920 --> 00:13:19,360
+camps under Mao.
+
+306
+00:13:19,360 --> 00:13:21,560
+But before that, he'd been at the International School
+
+307
+00:13:21,560 --> 00:13:22,520
+in Beijing.
+
+308
+00:13:22,520 --> 00:13:24,320
+But he said that his parents also
+
+309
+00:13:24,320 --> 00:13:26,800
+made him go and do Confucius and get
+
+310
+00:13:26,800 --> 00:13:29,280
+to be prepared for the civil service exams
+
+311
+00:13:29,280 --> 00:13:30,680
+if they ever came back.
+
+312
+00:13:30,680 --> 00:13:32,680
+But he was saying, so I heard that they was just
+
+313
+00:13:32,680 --> 00:13:33,720
+memorizing Confucius.
+
+314
+00:13:33,720 --> 00:13:34,360
+Is that true?
+
+315
+00:13:34,360 --> 00:13:35,400
+Yeah, that's what it was.
+
+316
+00:13:35,400 --> 00:13:37,200
+He was memorizing Confucius.
+
+317
+00:13:37,200 --> 00:13:39,240
+But anyway, so what Tullock said was
+
+318
+00:13:39,240 --> 00:13:42,360
+that under the old imperial system,
+
+319
+00:13:42,360 --> 00:13:44,840
+villages would look around for a really smart kid.
+
+320
+00:13:44,840 --> 00:13:46,360
+If they could find one, the village
+
+321
+00:13:46,360 --> 00:13:49,640
+would pour all these resources into hiring tutors and so on
+
+322
+00:13:49,640 --> 00:13:52,060
+so the kid could get a really high score on the civil service
+
+323
+00:13:52,060 --> 00:13:54,160
+test and then get a great job.
+
+324
+00:13:54,160 --> 00:13:55,600
+And then what is the kid supposed
+
+325
+00:13:55,600 --> 00:13:57,160
+to do once he gets this great job?
+
+326
+00:13:57,160 --> 00:13:58,640
+Bring us back delicious rents.
+
+327
+00:13:58,640 --> 00:14:01,240
+Yes, funnel money back to the home village.
+
+328
+00:14:01,240 --> 00:14:03,720
+So give all the money back to the home village.
+
+329
+00:14:03,720 --> 00:14:05,920
+And so you do have a competitive system.
+
+330
+00:14:05,920 --> 00:14:08,480
+But it's one where you burn an enormous amount of resources
+
+331
+00:14:08,480 --> 00:14:10,720
+as well as all the smartest people in the country,
+
+332
+00:14:10,720 --> 00:14:13,800
+studying subjects of very little practical relevance,
+
+333
+00:14:13,800 --> 00:14:14,760
+from what I've heard.
+
+334
+00:14:14,760 --> 00:14:15,680
+I did read Confucius.
+
+335
+00:14:15,680 --> 00:14:17,160
+I just feel, at least the analects,
+
+336
+00:14:17,160 --> 00:14:19,800
+this does not seem very useful for anything.
+
+337
+00:14:19,800 --> 00:14:22,440
+The right number of steps to walk through.
+
+338
+00:14:22,440 --> 00:14:23,720
+I don't know.
+
+339
+00:14:23,720 --> 00:14:25,200
+Maybe there's something I'm missing.
+
+340
+00:14:25,200 --> 00:14:28,840
+But it sure didn't seem like it was some kind of proto-economics
+
+341
+00:14:28,840 --> 00:14:33,160
+or anything else, cost-benefit analysis, or even game theory.
+
+342
+00:14:33,160 --> 00:14:34,560
+No, none of those things.
+
+343
+00:14:34,560 --> 00:14:37,520
+So anyway, so this is a story, again,
+
+344
+00:14:37,520 --> 00:14:39,320
+of rent dissipation, where people
+
+345
+00:14:39,320 --> 00:14:43,040
+know that if you become a civil servant by passing this test,
+
+346
+00:14:43,040 --> 00:14:45,040
+then you are able to bring home lots of rewards
+
+347
+00:14:45,040 --> 00:14:45,880
+to your village.
+
+348
+00:14:45,880 --> 00:14:48,600
+So they pour all these brains and all these resources
+
+349
+00:14:48,600 --> 00:14:50,600
+into getting that job.
+
+350
+00:14:50,600 --> 00:14:55,920
+So whatever system we use for handing out the rents,
+
+351
+00:14:55,920 --> 00:14:58,480
+people then pour resources into gaining that system.
+
+352
+00:15:02,440 --> 00:15:04,080
+So people members in politics, they'll
+
+353
+00:15:04,080 --> 00:15:05,920
+pay more to win a seat.
+
+354
+00:15:05,920 --> 00:15:08,720
+And of course, this works in a dictatorship or monarchy.
+
+355
+00:15:08,720 --> 00:15:11,200
+So if you get rich by handing out monopoly privileges,
+
+356
+00:15:11,200 --> 00:15:13,640
+then this strengthens the incentives upstarts to seize
+
+357
+00:15:13,640 --> 00:15:17,120
+a coup, to seize this realm, seize your coup, and so on.
+
+358
+00:15:17,120 --> 00:15:21,640
+So if you could actually go and get a really stable monarchy,
+
+359
+00:15:21,640 --> 00:15:24,600
+where no one thinks the rebellion would ever happen,
+
+360
+00:15:24,600 --> 00:15:26,000
+then maybe.
+
+361
+00:15:26,000 --> 00:15:28,760
+Although even there, there are always workarounds.
+
+362
+00:15:28,760 --> 00:15:31,960
+So I think the Japanese emperor, the line
+
+363
+00:15:31,960 --> 00:15:35,040
+was unbroken for thousands of years.
+
+364
+00:15:35,040 --> 00:15:37,720
+But there were still all sorts of civil wars.
+
+365
+00:15:37,720 --> 00:15:40,240
+How can you have civil wars, but the same guy, always
+
+366
+00:15:40,240 --> 00:15:42,640
+killing, the same line, always stays in power?
+
+367
+00:15:42,640 --> 00:15:44,160
+And the answer is, there are civil wars
+
+368
+00:15:44,160 --> 00:15:46,800
+over who gets to marry the emperor.
+
+369
+00:15:46,800 --> 00:15:49,720
+And the winner says, all right, emperor, lord of all the world,
+
+370
+00:15:49,720 --> 00:15:53,120
+you're marrying our daughter now, or else.
+
+371
+00:15:53,120 --> 00:15:54,840
+And also, all your relatives are going
+
+372
+00:15:54,840 --> 00:15:57,200
+to marry all of our people here.
+
+373
+00:15:57,200 --> 00:15:58,960
+And in this way, you can gradually
+
+374
+00:15:58,960 --> 00:16:02,480
+do a genetic takeover of the imperial house,
+
+375
+00:16:02,480 --> 00:16:05,600
+even though there is an unbroken line of succession.
+
+376
+00:16:05,600 --> 00:16:08,000
+You can have massive bloodshed, even when
+
+377
+00:16:08,000 --> 00:16:10,280
+there's no totally clear at all times
+
+378
+00:16:10,280 --> 00:16:13,640
+what the chain of what the line of succession is.
+
+379
+00:16:13,640 --> 00:16:14,760
+All right.
+
+380
+00:16:14,760 --> 00:16:17,240
+So and then a repeat play, could we do a better equilibrium?
+
+381
+00:16:17,240 --> 00:16:19,480
+But as usual, not necessarily.
+
+382
+00:16:19,480 --> 00:16:22,440
+Firm might lobby extra hard to get reputation for toughness.
+
+383
+00:16:22,440 --> 00:16:25,680
+You might lobby way past the point of profitability
+
+384
+00:16:25,680 --> 00:16:27,800
+just to scare people.
+
+385
+00:16:27,800 --> 00:16:29,560
+They never try to lobby against us.
+
+386
+00:16:29,560 --> 00:16:33,200
+We'll just pour as much money in as much as it takes.
+
+387
+00:16:33,200 --> 00:16:33,760
+All right.
+
+388
+00:16:33,760 --> 00:16:36,360
+So questions about this?
+
+389
+00:16:36,360 --> 00:16:42,800
+So again, this is the ultimate pessimistic diagram of markets,
+
+390
+00:16:42,800 --> 00:16:45,400
+because it shows where all three kinds of inefficiency
+
+391
+00:16:45,400 --> 00:16:48,760
+are piled on top of each other.
+
+392
+00:16:48,760 --> 00:16:51,080
+But on the other hand, you say it's also how much better
+
+393
+00:16:51,080 --> 00:16:52,480
+the world can be.
+
+394
+00:16:52,480 --> 00:16:53,520
+So yes.
+
+395
+00:16:53,520 --> 00:16:56,160
+So any time you just say the world right now
+
+396
+00:16:56,160 --> 00:16:59,800
+is way below potential, in a way that's very optimistic,
+
+397
+00:16:59,800 --> 00:17:01,480
+because there's so many gains.
+
+398
+00:17:01,480 --> 00:17:05,440
+It could be fantastic if only people would learn economics
+
+399
+00:17:05,440 --> 00:17:07,400
+and act upon it.
+
+400
+00:17:07,400 --> 00:17:09,200
+That's nice.
+
+401
+00:17:09,200 --> 00:17:09,960
+All right.
+
+402
+00:17:09,960 --> 00:17:14,120
+So questions about rent seeking and all?
+
+403
+00:17:14,120 --> 00:17:15,920
+Now, then let's talk about the exam.
+
+404
+00:17:15,920 --> 00:17:17,680
+And then I'll take any questions that you
+
+405
+00:17:17,680 --> 00:17:20,800
+might have about any material.
+
+406
+00:17:20,800 --> 00:17:24,040
+So the basics of the exam.
+
+407
+00:17:24,040 --> 00:17:26,520
+OK.
+
+408
+00:17:26,520 --> 00:17:27,920
+All right.
+
+409
+00:17:27,920 --> 00:17:29,680
+So the exam will be next class.
+
+410
+00:17:29,680 --> 00:17:31,560
+You know that, right?
+
+411
+00:17:31,560 --> 00:17:36,040
+And the best way of studying is to take
+
+412
+00:17:36,040 --> 00:17:39,000
+old exams under time pressure.
+
+413
+00:17:39,000 --> 00:17:40,800
+Take old exams under time pressure.
+
+414
+00:17:40,800 --> 00:17:44,280
+There are 14 old exams up there.
+
+415
+00:17:44,280 --> 00:17:47,680
+So the early ones are just a bit longer than the one
+
+416
+00:17:47,680 --> 00:17:48,720
+that you're going to get.
+
+417
+00:17:48,720 --> 00:17:51,200
+I gradually shorten the exams over time.
+
+418
+00:17:51,200 --> 00:17:53,480
+But essentially, the questions that
+
+419
+00:17:53,480 --> 00:17:58,000
+are asked will be very similar in form and difficulty.
+
+420
+00:17:58,000 --> 00:18:01,480
+See, then in terms of the breakdown of material,
+
+421
+00:18:01,480 --> 00:18:04,080
+when I write the exams, I try to get about 50%
+
+422
+00:18:04,080 --> 00:18:08,120
+of the questions from lecture, about 30% from homework,
+
+423
+00:18:08,120 --> 00:18:11,120
+and about 20% from the readings.
+
+424
+00:18:11,120 --> 00:18:12,640
+So remember this class has readings.
+
+425
+00:18:12,640 --> 00:18:14,120
+They're on a syllabus.
+
+426
+00:18:14,120 --> 00:18:16,120
+You may have been postponing them.
+
+427
+00:18:16,120 --> 00:18:19,000
+But you will be asked.
+
+428
+00:18:19,000 --> 00:18:21,240
+And I often like to go and write a question that
+
+429
+00:18:21,240 --> 00:18:22,400
+blends two of these things.
+
+430
+00:18:22,400 --> 00:18:24,760
+So you mentioned something on homework,
+
+431
+00:18:24,760 --> 00:18:27,760
+and then how it's something that you read, change that.
+
+432
+00:18:27,760 --> 00:18:32,360
+See whether you can combine those two things.
+
+433
+00:18:32,360 --> 00:18:34,560
+Now, important things to know about the exams.
+
+434
+00:18:34,560 --> 00:18:36,840
+The exam is fully open book and notes.
+
+435
+00:18:39,920 --> 00:18:41,880
+So you can bring any written materials
+
+436
+00:18:41,880 --> 00:18:45,280
+that you want whatsoever without any limit.
+
+437
+00:18:45,280 --> 00:18:48,000
+So you can bring a dictionary if English is not
+
+438
+00:18:48,000 --> 00:18:48,960
+your native language.
+
+439
+00:18:48,960 --> 00:18:50,360
+If it is your native language, you
+
+440
+00:18:50,360 --> 00:18:53,320
+can bring a dictionary to give you anything you want.
+
+441
+00:18:53,320 --> 00:18:55,880
+You may not use an electronic device,
+
+442
+00:18:55,880 --> 00:18:59,360
+because you could be in contact with the outside world.
+
+443
+00:18:59,360 --> 00:19:02,560
+And that's what I don't want to allow.
+
+444
+00:19:02,560 --> 00:19:04,800
+People often say, can I just put it in airplane mode?
+
+445
+00:19:04,800 --> 00:19:08,080
+No, because you would just take it out of airplane mode.
+
+446
+00:19:08,080 --> 00:19:11,120
+So that doesn't really solve anything.
+
+447
+00:19:11,120 --> 00:19:14,280
+So yes, you are allowed to print off your entire hard drive
+
+448
+00:19:14,280 --> 00:19:15,560
+if you want.
+
+449
+00:19:15,560 --> 00:19:17,600
+So that's perfectly fine.
+
+450
+00:19:17,600 --> 00:19:20,720
+If you look at the amount of time you'll have,
+
+451
+00:19:20,720 --> 00:19:22,160
+it's not super rushed.
+
+452
+00:19:22,160 --> 00:19:26,120
+But if you want to just take your chances
+
+453
+00:19:26,120 --> 00:19:28,160
+and not do the readings and then rush through them
+
+454
+00:19:28,160 --> 00:19:29,800
+during the exam, that's possible.
+
+455
+00:19:29,800 --> 00:19:33,240
+Not only I wouldn't recommend it.
+
+456
+00:19:33,240 --> 00:19:35,360
+So mostly, this is just if you're
+
+457
+00:19:35,360 --> 00:19:37,840
+someone who draws a blank under pressure,
+
+458
+00:19:37,840 --> 00:19:39,520
+oh my god, I forgot, what is this?
+
+459
+00:19:39,520 --> 00:19:41,120
+And you can go and check your notes,
+
+460
+00:19:41,120 --> 00:19:45,680
+and then you can show what you actually know.
+
+461
+00:19:45,680 --> 00:19:49,800
+I'm trying to reduce the effect of a nervous personality
+
+462
+00:19:49,800 --> 00:19:54,200
+during an exam or just sudden stress prone amnesia.
+
+463
+00:19:54,200 --> 00:19:58,280
+Now, since I am letting you have all your books and notes,
+
+464
+00:19:58,280 --> 00:20:00,160
+and of course, since this is a PhD class,
+
+

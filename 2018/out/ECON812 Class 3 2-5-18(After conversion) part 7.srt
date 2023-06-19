@@ -1,0 +1,1557 @@
+1
+00:00:00,000 --> 00:00:05,440
+And then, when we finally hit upon something that we could really use, try to point that
+
+2
+00:00:05,440 --> 00:00:06,440
+out.
+
+3
+00:00:06,440 --> 00:00:07,440
+Of course, you can always dispute about that.
+
+4
+00:00:07,440 --> 00:00:08,440
+How useful is it?
+
+5
+00:00:08,440 --> 00:00:13,280
+But, again, of course, even to dispute the real world usefulness of something, you must
+
+6
+00:00:13,280 --> 00:00:16,680
+think about the real world.
+
+7
+00:00:16,680 --> 00:00:19,680
+And that is all for the good.
+
+8
+00:00:19,680 --> 00:00:25,440
+Possibly I'm just an anti-theory philistine, always bringing up this real world thing.
+
+9
+00:00:25,440 --> 00:00:28,440
+But, you know, it's where I live.
+
+10
+00:00:28,440 --> 00:00:32,640
+I agree tower, I'm a subset of the real world.
+
+11
+00:00:32,640 --> 00:00:37,280
+So one of the main applications of game perfection is what's called the entry game.
+
+12
+00:00:37,280 --> 00:00:42,080
+So in the entry game, we basically picture two scenarios that I like to go with.
+
+13
+00:00:42,080 --> 00:00:43,080
+There are two firms.
+
+14
+00:00:43,080 --> 00:00:45,480
+One of the firms is going to be an entrant.
+
+15
+00:00:45,480 --> 00:00:52,200
+So there's an entrant, and the entrant can decide to either go in or out of a market.
+
+16
+00:00:52,200 --> 00:00:57,800
+And then, if the entrant stays out, then the incumbent has a nice monopoly.
+
+17
+00:00:57,800 --> 00:01:03,920
+So the entrant gets zero profits, and the monopolist gets a good profit, say, 10.
+
+18
+00:01:03,920 --> 00:01:07,920
+On the other hand, if the entrant goes in, then the monopolist has two options.
+
+19
+00:01:07,920 --> 00:01:12,880
+He can either fight the entrant, or he can accommodate the entrant.
+
+20
+00:01:12,880 --> 00:01:19,920
+So he can either go very competitive and try to punish the entrant, or he can just go and
+
+21
+00:01:19,920 --> 00:01:22,520
+say, fine, I'll have to share the market with you.
+
+22
+00:01:22,520 --> 00:01:27,920
+So in the scenario where there's a fight, then say both firms will have losses.
+
+23
+00:01:27,920 --> 00:01:32,800
+So they compete down to marginal costs, say, their fixed costs are negative 10, so they
+
+24
+00:01:32,800 --> 00:01:33,800
+both lose 10.
+
+25
+00:01:33,800 --> 00:01:37,360
+Then on the other hand, in the accommodation scenario, that's one where they share the
+
+26
+00:01:37,360 --> 00:01:41,120
+market, and then say they each get payoffs of, what, 4-4.
+
+27
+00:01:41,120 --> 00:01:46,160
+So the total output's out, so total profits are less, and they each split them.
+
+28
+00:01:46,160 --> 00:01:55,080
+Now, in terms of just regular Nash equilibria, there are actually two Nash equilibria in
+
+29
+00:01:55,080 --> 00:01:56,080
+this game.
+
+30
+00:01:56,080 --> 00:02:02,640
+So one, there's one equilibria, which is out-fight.
+
+31
+00:02:02,640 --> 00:02:06,960
+This is one where the incumbent makes an empty threat to fight if the entrant enters, and
+
+32
+00:02:06,960 --> 00:02:10,840
+then the entrant says, oh, I made an empty threat, I'm not entering.
+
+33
+00:02:10,840 --> 00:02:11,840
+So that's one ending it.
+
+34
+00:02:11,840 --> 00:02:14,040
+Why is this a Nash equilibrium?
+
+35
+00:02:14,040 --> 00:02:21,000
+Because given that the entrant is staying out, is there any cost to the incumbent of
+
+36
+00:02:21,000 --> 00:02:22,000
+making the empty threat?
+
+37
+00:02:22,000 --> 00:02:25,000
+No, so like anything, there's no cost to anything.
+
+38
+00:02:25,000 --> 00:02:32,960
+On the other hand, given that the incumbent has said, well, he has plans, I'm going to
+
+39
+00:02:32,960 --> 00:02:37,520
+fight if you come in, then as long as the entrant believes the empty threat, does he
+
+40
+00:02:37,520 --> 00:02:38,520
+want to enter?
+
+41
+00:02:38,520 --> 00:02:42,600
+No, because if he stays out, he gets zero, it's a negative 10.
+
+42
+00:02:42,600 --> 00:02:47,640
+So that is a Nash equilibrium where each one believes what the other, each one holds constant
+
+43
+00:02:47,640 --> 00:02:51,160
+what the other one's plans are, then they want to stick to their plans.
+
+44
+00:02:51,160 --> 00:02:55,240
+There is, of course, the other equilibrium, which is an accommodate.
+
+45
+00:02:55,240 --> 00:02:57,480
+So that's a perfectly good equilibrium, too.
+
+46
+00:02:57,480 --> 00:03:01,920
+So if the firm goes in, then the incumbent wants to accommodate, and if the entrant expects
+
+47
+00:03:01,920 --> 00:03:06,560
+accommodation, then he definitely wants to go in.
+
+48
+00:03:06,560 --> 00:03:11,480
+So these are two Nash equilibria, so they're both Nash equilibria, but only one is subgame
+
+49
+00:03:11,480 --> 00:03:12,480
+perfect.
+
+50
+00:03:12,480 --> 00:03:13,480
+How so?
+
+51
+00:03:13,480 --> 00:03:19,120
+Well, the subgame perfect one requires to first go and figure out what will happen if
+
+52
+00:03:19,120 --> 00:03:21,320
+this situation occurs.
+
+53
+00:03:21,320 --> 00:03:23,240
+So if the entrant does play in, what will occur?
+
+54
+00:03:23,240 --> 00:03:26,720
+Well, what will the incumbent actually do in that scenario?
+
+55
+00:03:26,720 --> 00:03:30,160
+He'll accommodate, because he'd rather get four than negative 10.
+
+56
+00:03:30,160 --> 00:03:35,720
+So in that case, we can just go and erase that as a viable possibility, and then the
+
+57
+00:03:35,720 --> 00:03:37,680
+entrant isn't looking at the downside.
+
+58
+00:03:37,680 --> 00:03:40,680
+Now the entrant's saying, I can have zero or four, what do I want?
+
+59
+00:03:40,680 --> 00:03:42,060
+I'd rather have four.
+
+60
+00:03:42,060 --> 00:03:45,480
+So in that case, the entrant's still saying, that's what I'm going to do.
+
+61
+00:03:45,480 --> 00:03:51,760
+So this one is just a regular old Nash equilibrium, and this is a subgame perfect one.
+
+62
+00:03:51,760 --> 00:04:00,440
+So they're both Nash equilibrium, but that is the one that rules out NP threats as having
+
+63
+00:04:00,440 --> 00:04:01,440
+an effect on behavior.
+
+64
+00:04:01,440 --> 00:04:02,440
+Yes, please.
+
+65
+00:04:02,440 --> 00:04:03,440
+Would the figure 12.5 have a subgame perfect equilibrium?
+
+66
+00:04:03,440 --> 00:04:04,440
+Let's see, 12.5, let's take a look.
+
+67
+00:04:04,440 --> 00:04:16,160
+Let's see, so 12.5, oh yeah, yeah, yeah, definitely.
+
+68
+00:04:16,160 --> 00:04:19,400
+So in that one, we can take a look and see that player two is definitely going to do
+
+69
+00:04:19,400 --> 00:04:24,120
+left, and if player one knows he's definitely going to do left, then he'll do up.
+
+70
+00:04:24,120 --> 00:04:25,120
+Yeah, absolutely.
+
+71
+00:04:25,120 --> 00:04:29,120
+So that is a game of perfect information.
+
+72
+00:04:29,120 --> 00:04:35,320
+So you can solve the backwards induction, which means it definitely has a subgame perfect
+
+73
+00:04:35,320 --> 00:04:36,320
+Nash equilibrium.
+
+74
+00:04:36,320 --> 00:04:39,720
+And in fact, as long as there's no ties in the payoffs, there's a unique one.
+
+75
+00:04:39,720 --> 00:04:43,680
+There can only be one, because it comes where we go to the end of every tree and we erase
+
+76
+00:04:43,680 --> 00:04:45,440
+everything except the one thing that happened.
+
+77
+00:04:45,440 --> 00:04:52,200
+And we do that all the way up the tree until we're down to just one branch that goes a
+
+78
+00:04:52,200 --> 00:04:53,200
+very definite way.
+
+79
+00:04:53,200 --> 00:04:54,200
+Yes, over here, please, over the corner.
+
+80
+00:04:54,200 --> 00:05:07,200
+Let's see, was out fight, so out, yeah, actually, the way that it's set up is that if the ender
+
+81
+00:05:07,200 --> 00:05:10,200
+plays out, the other things don't even happen.
+
+82
+00:05:10,200 --> 00:05:13,680
+So the incumbent doesn't actually even have to play those things.
+
+83
+00:05:13,680 --> 00:05:17,880
+So you should think about fight and accommodate, these are hypothetical responses.
+
+84
+00:05:17,880 --> 00:05:21,960
+What would you do if there were an entrant?
+
+85
+00:05:21,960 --> 00:05:27,880
+Yes, so that's the best way of thinking about everything in these normal forms, is if this
+
+86
+00:05:27,880 --> 00:05:31,160
+thing happens, then what's your plan for that?
+
+87
+00:05:31,160 --> 00:05:37,040
+And again, so, the standard thing for a well-run military is they have a lot of contingency
+
+88
+00:05:37,040 --> 00:05:38,040
+plans.
+
+89
+00:05:38,040 --> 00:05:39,680
+It's like, what if Britain double-crossed us?
+
+90
+00:05:39,680 --> 00:05:43,040
+So in the 1930s, the US did have a contingency plan for what if the British decide to sneak
+
+91
+00:05:43,040 --> 00:05:44,040
+attack the US.
+
+92
+00:05:44,040 --> 00:05:50,040
+All right, now, a normal form is even more extreme than just having a big file, tons
+
+93
+00:05:50,040 --> 00:05:52,080
+of files, full of contingency plans.
+
+94
+00:05:52,080 --> 00:05:57,040
+A normal form is one contingency plan for every conceivable situation in the universe,
+
+95
+00:05:57,040 --> 00:06:02,920
+which again, of course, no one really does, but that is the basic structure of a normal
+
+96
+00:06:02,920 --> 00:06:05,920
+form, is a contingency plan for every single conceivable possibility.
+
+97
+00:06:05,920 --> 00:06:10,720
+And again, as I was saying, even possibilities where you could say that the whole model rules
+
+98
+00:06:10,720 --> 00:06:11,720
+out will never happen.
+
+99
+00:06:11,720 --> 00:06:14,400
+Well, we'll have a contingency plan just in case.
+
+100
+00:06:14,400 --> 00:06:15,400
+The thing that never happens, happens.
+
+101
+00:06:15,400 --> 00:06:20,080
+And again, if this just seems really weird to you, it seems like...
+
+102
+00:06:20,080 --> 00:06:23,640
+I mean, to me, every time I explain it, it seems even stranger than the last time that
+
+103
+00:06:23,640 --> 00:06:24,640
+I explained it.
+
+104
+00:06:24,640 --> 00:06:29,440
+And the only way to really come to grips with this is realize these are mathematicians or
+
+105
+00:06:29,440 --> 00:06:31,800
+wannabe mathematicians who have come up with this.
+
+106
+00:06:31,800 --> 00:06:36,680
+And mathematicians love the idea of having a complete contingency plan for every conceivable
+
+107
+00:06:36,680 --> 00:06:37,680
+possibility.
+
+108
+00:06:37,680 --> 00:06:39,840
+That sounds really cool to a mathematician.
+
+109
+00:06:39,840 --> 00:06:44,280
+Whereas to a more practical person, they would say, why not just have plans for the things
+
+110
+00:06:44,280 --> 00:06:48,680
+that have one in a million chance of more happening and then forget the other ones?
+
+111
+00:06:48,680 --> 00:06:52,680
+And then the mathematician might have a daffy duck, a fallacy.
+
+112
+00:06:52,680 --> 00:06:53,680
+All right?
+
+113
+00:06:53,680 --> 00:06:58,080
+So then the reaction will be like, oh, that's all you care about, things that happen.
+
+114
+00:06:58,080 --> 00:06:59,080
+Well, very profound.
+
+115
+00:06:59,080 --> 00:07:00,080
+Yes, please.
+
+116
+00:07:00,080 --> 00:07:01,080
+Maybe I'm just missing something on 12.5, but if player one knows that player two will
+
+117
+00:07:01,080 --> 00:07:02,080
+always choose left, then why wouldn't he choose down where his payoff is three as opposed
+
+118
+00:07:02,080 --> 00:07:03,080
+to if he chooses up, his payoff is three?
+
+119
+00:07:03,080 --> 00:07:17,400
+Let's see, so hold on, repeat that please.
+
+120
+00:07:17,400 --> 00:07:22,400
+If player one knows that player two will always choose left, then why would it not be the
+
+121
+00:07:22,400 --> 00:07:27,280
+case that player one chooses down where his payoff is three?
+
+122
+00:07:27,280 --> 00:07:30,920
+I mean, oh, excuse me, I was reversing the payoffs.
+
+123
+00:07:30,920 --> 00:07:31,920
+You're a dad.
+
+124
+00:07:31,920 --> 00:07:32,920
+You're absolutely right.
+
+125
+00:07:32,920 --> 00:07:33,920
+You're a dad.
+
+126
+00:07:33,920 --> 00:07:34,920
+You're a dad.
+
+127
+00:07:34,920 --> 00:07:35,920
+Yes, you're a dad.
+
+128
+00:07:35,920 --> 00:07:36,920
+Yes, yes, yes.
+
+129
+00:07:36,920 --> 00:07:37,920
+What I said is exactly wrong.
+
+130
+00:07:37,920 --> 00:07:38,920
+Yes, so that is absolutely correct.
+
+131
+00:07:38,920 --> 00:07:39,920
+I was just mixing up.
+
+132
+00:07:39,920 --> 00:07:40,920
+It was one and two, which is excusable.
+
+133
+00:07:40,920 --> 00:07:41,920
+Just because I did it in class doesn't mean you can do it on a test.
+
+134
+00:07:41,920 --> 00:07:52,920
+Yes, you get partial credit, which is all I can give myself now.
+
+135
+00:07:52,920 --> 00:07:57,760
+All right.
+
+136
+00:07:57,760 --> 00:08:00,920
+So questions about subgame correction?
+
+137
+00:08:00,920 --> 00:08:05,840
+So as we go on, we're going to talk about cases where maybe you would be able to actually
+
+138
+00:08:05,840 --> 00:08:11,960
+make what seems like an empty threat into a viable threat.
+
+139
+00:08:11,960 --> 00:08:15,440
+As you might, a clue you might get from my own self-description.
+
+140
+00:08:15,440 --> 00:08:19,720
+So if you had people who were saying, you'll never do that, that's an empty threat, what
+
+141
+00:08:19,720 --> 00:08:22,920
+might you do to change their minds about whether it's an evaluated?
+
+142
+00:08:22,920 --> 00:08:23,920
+Do it.
+
+143
+00:08:23,920 --> 00:08:24,920
+Do it.
+
+144
+00:08:24,920 --> 00:08:25,920
+Do it.
+
+145
+00:08:25,920 --> 00:08:26,920
+And they're like, there's no way you're going to do that.
+
+146
+00:08:26,920 --> 00:08:27,920
+I just did it.
+
+147
+00:08:27,920 --> 00:08:28,920
+All right.
+
+148
+00:08:28,920 --> 00:08:31,920
+And then they're like, well, they know what you do a second time.
+
+149
+00:08:31,920 --> 00:08:32,920
+They do it a second time.
+
+150
+00:08:32,920 --> 00:08:33,920
+This guy is terrible.
+
+151
+00:08:33,920 --> 00:08:34,920
+I hate him.
+
+152
+00:08:34,920 --> 00:08:41,040
+And then the third time it comes up, maybe the stuff that's an empty threat for everyone
+
+153
+00:08:41,040 --> 00:08:42,040
+else is real for this person.
+
+154
+00:08:42,040 --> 00:08:46,240
+Man, I never had to deal with an adversary like this before.
+
+155
+00:08:46,240 --> 00:08:49,240
+So you might try something like that.
+
+156
+00:08:49,240 --> 00:08:50,240
+OK.
+
+157
+00:08:50,240 --> 00:08:55,880
+Or another version of the serverless enemy game that I was showing you where the game
+
+158
+00:08:55,880 --> 00:09:00,200
+perversely ends immediately, even though there's all of these opportunities for both sides
+
+159
+00:09:00,200 --> 00:09:03,200
+to profit if you make the game last longer.
+
+160
+00:09:03,200 --> 00:09:07,280
+Again, in the real world, if I were player one, I would just go and cooperate.
+
+161
+00:09:07,280 --> 00:09:10,280
+The other guy would just say, what's wrong with this guy?
+
+162
+00:09:10,280 --> 00:09:13,080
+He just cooperated when it was clearly in his best interest not to.
+
+163
+00:09:13,080 --> 00:09:14,080
+What was he trying to pull?
+
+164
+00:09:14,080 --> 00:09:15,080
+And then they're like, hmm.
+
+165
+00:09:15,080 --> 00:09:19,200
+Well, I mean, if he understood the game, he wouldn't have done that.
+
+166
+00:09:19,200 --> 00:09:25,160
+So maybe I should try playing a few more rounds with this guy and see what happens.
+
+167
+00:09:25,160 --> 00:09:30,040
+And there are models where just the small probability that your opponent misunderstands
+
+168
+00:09:30,040 --> 00:09:37,160
+the game, which can lead to a lot of cooperation in a world where you could have no cooperation
+
+169
+00:09:37,160 --> 00:09:42,400
+if there were certitude about both players understanding the game.
+
+170
+00:09:42,400 --> 00:09:45,120
+Or of course, you get the same result if you said, maybe there's a small chance my opponent
+
+171
+00:09:45,120 --> 00:09:46,120
+is just a nice person.
+
+172
+00:09:46,120 --> 00:09:51,600
+It's hard to believe, but what if there's a small chance that this person is just genuinely
+
+173
+00:09:51,600 --> 00:09:52,600
+nice?
+
+174
+00:09:52,600 --> 00:09:56,880
+Well, I don't want to go and stab them in the back right away and ruin all the opportunities
+
+175
+00:09:56,880 --> 00:10:01,080
+that I could profit from playing with one of these genuinely nice people.
+
+176
+00:10:01,080 --> 00:10:04,200
+Instead, I want to keep the game going and then stab them in the back right towards the
+
+177
+00:10:04,200 --> 00:10:05,200
+end.
+
+178
+00:10:05,200 --> 00:10:08,200
+That would be what I do to the nice guy.
+
+179
+00:10:08,200 --> 00:10:12,560
+And of course, both sides might say there's a small probability the other person's a nice
+
+180
+00:10:12,560 --> 00:10:13,560
+guy.
+
+181
+00:10:13,560 --> 00:10:16,760
+And then at the very end, there's a sudden double crossing.
+
+182
+00:10:16,760 --> 00:10:17,760
+And then it's like, ah, weren't really nice guys.
+
+183
+00:10:17,760 --> 00:10:18,760
+No, of course not.
+
+184
+00:10:18,760 --> 00:10:19,760
+Who is?
+
+185
+00:10:19,760 --> 00:10:20,760
+I hate him.
+
+186
+00:10:20,760 --> 00:10:22,840
+So that has been done.
+
+187
+00:10:22,840 --> 00:10:27,960
+But once you see these models and how they play out under simple assumptions, you can
+
+188
+00:10:27,960 --> 00:10:32,400
+start thinking about what you might do to actually get to a better result when playing
+
+189
+00:10:32,400 --> 00:10:33,400
+with an actual human being.
+
+190
+00:10:33,400 --> 00:10:37,040
+You'll get some old midterms, by the way, or old exams.
+
+191
+00:10:37,040 --> 00:10:40,720
+Sometimes I actually do ask, after people have mastered what the game theory says, then
+
+192
+00:10:40,720 --> 00:10:46,080
+I'll say, all right, so what should you really do to actually do well in this game?
+
+193
+00:10:46,080 --> 00:10:49,640
+And in the real world, if you're actually playing as a human being.
+
+194
+00:10:49,640 --> 00:10:52,720
+Or sometimes I will say, what would you do if you're really playing as a fellow student
+
+195
+00:10:52,720 --> 00:10:55,720
+from a class versus, say, just a random person?
+
+196
+00:10:55,720 --> 00:10:59,120
+And again, if you really understand the model, say, well, if I'm playing as another student
+
+197
+00:10:59,120 --> 00:11:01,120
+from a class, then maybe I just have to rely on them.
+
+198
+00:11:01,120 --> 00:11:03,680
+Maybe we would be stuck at double crossing each other.
+
+199
+00:11:03,680 --> 00:11:05,920
+But a normal person wouldn't know this stuff.
+
+200
+00:11:05,920 --> 00:11:11,520
+And so for them, maybe I could stretch the game out for a long time and make a great
+
+201
+00:11:11,520 --> 00:11:12,520
+profit.
+
+202
+00:11:12,520 --> 00:11:13,520
+All right.
+
+203
+00:11:13,520 --> 00:11:14,520
+So now let's go over a few applied games.
+
+204
+00:11:14,520 --> 00:11:17,680
+You've probably heard about some, but not all of them.
+
+205
+00:11:17,680 --> 00:11:20,360
+So the first one that you've probably heard about a lot is the Prisoner's Dilemma.
+
+206
+00:11:20,360 --> 00:11:23,240
+So this has got to be the most analyzed game in economics.
+
+207
+00:11:23,240 --> 00:11:28,600
+I'm trying to think, like, how many economists have made their entire careers on doing slight
+
+208
+00:11:28,600 --> 00:11:30,240
+variations of the Prisoner's Dilemma?
+
+209
+00:11:30,240 --> 00:11:35,800
+I think there's at least 100 living economists who owe their careers to this game.
+
+210
+00:11:35,800 --> 00:11:36,800
+All right.
+
+211
+00:11:36,800 --> 00:11:39,440
+Of course, you can't just write another paper on the same game.
+
+212
+00:11:39,440 --> 00:11:40,520
+You have to tweak it a bit.
+
+213
+00:11:40,520 --> 00:11:44,520
+But still, an enormous number of people have built their careers on this.
+
+214
+00:11:44,520 --> 00:11:49,280
+And even to this day, you can still go and do experiments on the Prisoner's Dilemma and
+
+215
+00:11:49,280 --> 00:11:50,280
+get tenure on that.
+
+216
+00:11:50,280 --> 00:11:53,840
+Again, it takes a lot of originality to come up with an experiment nobody's done before,
+
+217
+00:11:53,840 --> 00:11:55,800
+but it can be done.
+
+218
+00:11:55,800 --> 00:11:57,720
+So here's the standard representation.
+
+219
+00:11:57,720 --> 00:12:01,880
+So you've got two people who can either cooperate with each other or not.
+
+220
+00:12:01,880 --> 00:12:02,880
+They decide this independently.
+
+221
+00:12:02,880 --> 00:12:07,440
+If they both cooperate, then they both get a pretty good payoff of, say, six.
+
+222
+00:12:07,440 --> 00:12:11,480
+If one cooperates and one doesn't, the non-cooperator does great.
+
+223
+00:12:11,480 --> 00:12:14,640
+And the person who did cooperate gets a terrible payoff.
+
+224
+00:12:14,640 --> 00:12:18,960
+And if they don't and neither cooperates, then they both get a pretty bad payoff.
+
+225
+00:12:18,960 --> 00:12:22,760
+So the basic set of the Prisoner's Dilemma is that you both get the second best payoff
+
+226
+00:12:22,760 --> 00:12:24,120
+if you cooperate.
+
+227
+00:12:24,120 --> 00:12:28,960
+If you cooperate and the other guy does not, then you get the worst payoff.
+
+228
+00:12:28,960 --> 00:12:31,200
+But he gets the best payoff.
+
+229
+00:12:31,200 --> 00:12:36,200
+And if, on the other hand, you both fail to cooperate, then both of you get the third
+
+230
+00:12:36,200 --> 00:12:37,200
+worst payoff.
+
+231
+00:12:37,200 --> 00:12:39,240
+That's the setup.
+
+232
+00:12:39,240 --> 00:12:44,800
+So when you're dealing with this, the natural solution to what people refer to is for dominance.
+
+233
+00:12:44,800 --> 00:12:48,480
+Player one's better off not cooperating no matter what player two does.
+
+234
+00:12:48,480 --> 00:12:51,200
+Player two's better off not cooperating no matter what player one does.
+
+235
+00:12:51,200 --> 00:12:55,080
+Therefore, as night follows day, neither cooperates.
+
+236
+00:12:55,080 --> 00:13:01,120
+At least this is what most theorists would tell you.
+
+237
+00:13:01,120 --> 00:13:05,240
+Most theorists would at least know, oh, yeah, by the way, that's not what you really do
+
+238
+00:13:05,240 --> 00:13:06,240
+in experiments.
+
+239
+00:13:06,240 --> 00:13:07,240
+But then there's like, oh, what's going on?
+
+240
+00:13:07,240 --> 00:13:09,640
+All right, so, all right.
+
+241
+00:13:09,640 --> 00:13:12,840
+Now, the Prisoner's Dilemma has a lot of applications.
+
+242
+00:13:12,840 --> 00:13:17,120
+And even though it fails experimentally, you can still say it's one of these models that
+
+243
+00:13:17,120 --> 00:13:20,080
+gives a lot of insight even though the prediction is too strong.
+
+244
+00:13:20,080 --> 00:13:21,280
+All right?
+
+245
+00:13:21,280 --> 00:13:24,400
+So people use it to understand public goods and externalities.
+
+246
+00:13:24,400 --> 00:13:27,520
+Why is it that it's so hard to voluntarily supply public good?
+
+247
+00:13:27,520 --> 00:13:31,120
+Well, there's a Prisoner's Dilemma story.
+
+248
+00:13:31,120 --> 00:13:35,240
+So what happens to you if you voluntarily contribute to the public good and it still
+
+249
+00:13:35,240 --> 00:13:38,280
+doesn't get produced?
+
+250
+00:13:38,280 --> 00:13:39,560
+You wasted your time.
+
+251
+00:13:39,560 --> 00:13:44,000
+What happens if you voluntarily contribute to a public good and it does get produced?
+
+252
+00:13:44,000 --> 00:13:46,600
+You wasted your time because it would have happened without you.
+
+253
+00:13:46,600 --> 00:13:47,600
+All right?
+
+254
+00:13:47,600 --> 00:13:50,320
+So that's, you know, a standard story about public goods and externalities.
+
+255
+00:13:50,320 --> 00:13:53,920
+And again, like, isn't it possible that what you do makes a difference?
+
+256
+00:13:53,920 --> 00:13:56,800
+Yeah, if you like, your contribution is the crucial one.
+
+257
+00:13:56,800 --> 00:13:59,680
+You tip the scales of the world.
+
+258
+00:13:59,680 --> 00:14:00,680
+That's pretty hard to believe.
+
+259
+00:14:00,680 --> 00:14:01,680
+Okay?
+
+260
+00:14:01,680 --> 00:14:05,960
+Collusion, another standard case where people have applied the Prisoner's Dilemma.
+
+261
+00:14:05,960 --> 00:14:10,240
+So if you have all the oil producing countries in the world all together in a meeting, what
+
+262
+00:14:10,240 --> 00:14:11,960
+is their common interest to do?
+
+263
+00:14:11,960 --> 00:14:12,960
+Race prices.
+
+264
+00:14:12,960 --> 00:14:14,440
+Race prices restrict production.
+
+265
+00:14:14,440 --> 00:14:20,280
+And yet, it is so hard in the real world to make that occur.
+
+266
+00:14:20,280 --> 00:14:21,280
+Right?
+
+267
+00:14:21,280 --> 00:14:27,280
+Because if you say, let's all just cut our oil production by a third, then there's a
+
+268
+00:14:27,280 --> 00:14:32,600
+wide variety of reactions you get, all of which make it really a pain in the neck.
+
+269
+00:14:32,600 --> 00:14:36,600
+There's the cheesiest one of all, which is everyone in the room says, absolutely, yay,
+
+270
+00:14:36,600 --> 00:14:37,600
+cut one third.
+
+271
+00:14:37,600 --> 00:14:38,600
+Everyone says, absolutely, I solemnly swear.
+
+272
+00:14:38,600 --> 00:14:43,960
+And the second they're out of the room, they whip out their cell phones and start calling
+
+273
+00:14:43,960 --> 00:14:49,160
+their best clients saying, now, you may have heard that prices are going way up, but not
+
+274
+00:14:49,160 --> 00:14:50,160
+for my very best customers.
+
+275
+00:14:50,160 --> 00:14:55,160
+I have a super special discount for you, but don't tell anyone.
+
+276
+00:14:55,160 --> 00:14:56,160
+And everyone's doing that.
+
+277
+00:14:56,160 --> 00:14:59,920
+And then once you've locked down your own customers, then you start calling up your
+
+278
+00:14:59,920 --> 00:15:04,840
+competitor's best customers and saying, I've heard that you're facing an enormous price
+
+279
+00:15:04,840 --> 00:15:05,840
+increase.
+
+280
+00:15:05,840 --> 00:15:06,840
+I think that's very unfair.
+
+281
+00:15:06,840 --> 00:15:10,840
+I think you deserve better treatment than that, and I would never treat you that way.
+
+282
+00:15:10,840 --> 00:15:11,840
+So you do that.
+
+283
+00:15:11,840 --> 00:15:12,840
+All right.
+
+284
+00:15:12,840 --> 00:15:15,840
+So that's one thing that happens very dangerously with any kind of collusion.
+
+285
+00:15:15,840 --> 00:15:16,840
+All right.
+
+286
+00:15:16,840 --> 00:15:21,480
+Of course, in the real world, there's some people who are cheating and some people that
+
+287
+00:15:21,480 --> 00:15:22,480
+don't.
+
+288
+00:15:22,480 --> 00:15:26,240
+Some people that don't come away saying, what just happened?
+
+289
+00:15:26,240 --> 00:15:27,560
+I did everything right.
+
+290
+00:15:27,560 --> 00:15:31,520
+I tried to starve the peasantry, and then I lost money.
+
+291
+00:15:31,520 --> 00:15:35,640
+And these other horrible people who maybe just grew more food so that everyone would
+
+292
+00:15:35,640 --> 00:15:36,640
+have enough.
+
+293
+00:15:36,640 --> 00:15:37,640
+Oh, my God.
+
+294
+00:15:37,640 --> 00:15:42,840
+I don't want to live in a world with people like those farmers who lie.
+
+295
+00:15:42,840 --> 00:15:43,840
+So there's that.
+
+296
+00:15:43,840 --> 00:15:47,520
+But then even if everyone is above board, if you say, let's all cut our production by
+
+297
+00:15:47,520 --> 00:15:51,040
+a third, there are some people who say that's a pretty good deal, but there's other people
+
+298
+00:15:51,040 --> 00:15:54,560
+who are probably going to say, no way, that's a terrible deal for me.
+
+299
+00:15:54,560 --> 00:15:57,560
+What kinds of firms do not want to cut their production by a third?
+
+300
+00:15:57,560 --> 00:15:58,560
+What's that?
+
+301
+00:15:58,560 --> 00:15:59,560
+Yes.
+
+302
+00:15:59,560 --> 00:16:06,560
+How about new firms, which before the collusion had went, were rapidly increasing their market
+
+303
+00:16:06,560 --> 00:16:07,560
+share?
+
+304
+00:16:07,560 --> 00:16:11,080
+And you're like, so I have to cut to one third of what I'm currently doing, and then I can't
+
+305
+00:16:11,080 --> 00:16:12,080
+increase anymore?
+
+306
+00:16:12,080 --> 00:16:13,080
+Say, no, no, no, no, no.
+
+307
+00:16:13,080 --> 00:16:14,080
+Here's what we should do.
+
+308
+00:16:14,080 --> 00:16:15,080
+It should be based upon trend.
+
+309
+00:16:15,080 --> 00:16:20,640
+And say, look, my trend was to go up to 100%.
+
+310
+00:16:20,640 --> 00:16:25,800
+So I should cut one third relative to what I was going to be doing.
+
+311
+00:16:25,800 --> 00:16:29,560
+Right now, if you are a large, successful firm, you're going to say, no, we're not going
+
+312
+00:16:29,560 --> 00:16:34,640
+to give you credit for doing the anti-social thing that you were going to do anyway, that
+
+313
+00:16:34,640 --> 00:16:35,640
+you claimed you were going to do.
+
+314
+00:16:35,640 --> 00:16:36,640
+And say, I deny you were going to expand anymore.
+
+315
+00:16:36,640 --> 00:16:43,040
+I say that you would reach your upper limit, and that was the end of the line for you.
+
+316
+00:16:43,040 --> 00:16:47,680
+So anyway, these are all prisoners of limits scenarios where every colluder would like
+
+317
+00:16:47,680 --> 00:16:50,480
+to be the one firm that doesn't collude.
+
+318
+00:16:50,480 --> 00:16:52,240
+And then you get all these customers.
+
+319
+00:16:52,240 --> 00:16:55,120
+And there's high prices and lots of customers.
+
+320
+00:16:55,120 --> 00:16:59,680
+But if all firms think this way, then of course collusion cannot work.
+
+321
+00:16:59,680 --> 00:17:01,160
+All right, voting.
+
+322
+00:17:01,160 --> 00:17:06,280
+So if you believe that for some reason, and again, this is one where I am more and more
+
+323
+00:17:06,280 --> 00:17:07,680
+mystified as to how anyone would think this.
+
+324
+00:17:07,680 --> 00:17:12,680
+But you thought it was good just to have high levels of voting, regardless of how you're
+
+325
+00:17:12,680 --> 00:17:13,680
+going to vote.
+
+326
+00:17:13,680 --> 00:17:17,440
+I can see people saying that some kinds of voters are good and some are bad, and we should
+
+327
+00:17:17,440 --> 00:17:20,320
+encourage the good voters and discourage the bad voters.
+
+328
+00:17:20,320 --> 00:17:21,320
+That makes sense to me.
+
+329
+00:17:21,320 --> 00:17:25,760
+And something that would horrify most people is the thing that I say is obvious.
+
+330
+00:17:25,760 --> 00:17:28,520
+And on the other hand, the thing that I don't understand is someone saying, wouldn't it
+
+331
+00:17:28,520 --> 00:17:30,400
+be great if everyone voted?
+
+332
+00:17:30,400 --> 00:17:31,400
+What if Nazis voted?
+
+333
+00:17:31,400 --> 00:17:32,400
+That would be better.
+
+334
+00:17:32,400 --> 00:17:33,400
+What if like if senile people voted?
+
+335
+00:17:33,400 --> 00:17:34,400
+That would be better.
+
+336
+00:17:34,400 --> 00:17:35,400
+Like why is it better if they vote?
+
+337
+00:17:35,400 --> 00:17:36,400
+Like wouldn't it be better if they didn't vote?
+
+338
+00:17:36,400 --> 00:17:37,400
+Then decisions would be made by people who know something and don't want to kill other
+
+339
+00:17:37,400 --> 00:17:38,400
+people.
+
+340
+00:17:38,400 --> 00:17:39,400
+That seems like a better world.
+
+341
+00:17:39,400 --> 00:17:40,400
+I do hate democracy.
+
+342
+00:17:40,400 --> 00:17:41,400
+I like democracy.
+
+343
+00:17:41,400 --> 00:17:42,400
+True.
+
+344
+00:17:42,400 --> 00:17:56,040
+Well, I'm flexible.
+
+345
+00:17:56,040 --> 00:18:01,000
+If someone says they could go and have done a coup d'etat against Hitler, and I wouldn't
+
+346
+00:18:01,000 --> 00:18:04,360
+have been there, my reaction would have been, but will it work?
+
+347
+00:18:04,360 --> 00:18:05,360
+Not.
+
+348
+00:18:05,360 --> 00:18:06,360
+But isn't this undemocratic?
+
+349
+00:18:06,360 --> 00:18:07,360
+Well, yeah, it's undemocratic.
+
+350
+00:18:07,360 --> 00:18:08,360
+So what?
+
+351
+00:18:08,360 --> 00:18:09,360
+It's going to save millions of lives.
+
+352
+00:18:09,360 --> 00:18:12,520
+For what?
+
+353
+00:18:12,520 --> 00:18:14,800
+Anyway, that's me.
+
+354
+00:18:14,800 --> 00:18:18,720
+If you're curious about this perspective, Walser and Hayson Redding has a great book
+
+355
+00:18:18,720 --> 00:18:19,720
+called Against Democracy.
+
+356
+00:18:19,720 --> 00:18:20,720
+I've just explored these subjects.
+
+357
+00:18:20,720 --> 00:18:24,840
+There's a less controversial one called The Ethics of Voting, where he tries not to really
+
+358
+00:18:24,840 --> 00:18:25,840
+accept people.
+
+359
+00:18:25,840 --> 00:18:26,840
+And then there's the subsequent follow-up, a much better one.
+
+360
+00:18:26,840 --> 00:18:27,840
+The first one's good.
+
+361
+00:18:27,840 --> 00:18:28,840
+The next one's awesome.
+
+362
+00:18:28,840 --> 00:18:29,840
+It's against democracy.
+
+363
+00:18:29,840 --> 00:18:36,360
+Anyway, so, but anyway, if you thought the more people voted, the better, then again,
+
+364
+00:18:36,360 --> 00:18:41,360
+you might say, well, voting is like a British Jerusalem, because we all want to have high
+
+365
+00:18:41,360 --> 00:18:42,360
+voter turnout, right?
+
+366
+00:18:42,360 --> 00:18:43,360
+Let's just say we do.
+
+367
+00:18:43,360 --> 00:18:49,240
+In that case, but no one individual has any appreciable effect on turnout, so therefore,
+
+368
+00:18:49,240 --> 00:18:52,800
+you want other people to vote while you stay home and relax, right?
+
+369
+00:18:52,800 --> 00:18:54,400
+And then this will apply to revolutions.
+
+370
+00:18:54,400 --> 00:18:59,680
+So the late Gordon Tullock has a whole book on the theory of revolution, which just begins
+
+371
+00:18:59,680 --> 00:19:03,800
+by saying, look, suppose there really were a revolution that were going to be great for
+
+372
+00:19:03,800 --> 00:19:04,800
+most people.
+
+373
+00:19:04,800 --> 00:19:09,600
+It still would not be in the interest of most people to participate, because either the
+
+374
+00:19:09,600 --> 00:19:13,440
+revolution's going to see, with your help or without it, because you're not, the most
+
+375
+00:19:13,440 --> 00:19:14,440
+important, you're not a crucial individual, probably.
+
+376
+00:19:14,440 --> 00:19:15,440
+Like, almost certainly you're not a crucial individual.
+
+377
+00:19:15,440 --> 00:19:16,440
+But if you participate in the revolution, you're risking your life.
+
+378
+00:19:16,440 --> 00:19:17,440
+And if you don't participate, you're not.
+
+379
+00:19:17,440 --> 00:19:18,440
+So again, it would seem like the prisoner's lemma says that everyone will stay home for
+
+380
+00:19:18,440 --> 00:19:19,440
+the revolution.
+
+381
+00:19:19,440 --> 00:19:20,440
+Now, Gordon Tullock is one of the rare people who actually basically bit the bullet, and
+
+382
+00:19:20,440 --> 00:19:33,440
+he just said, look, the kinds of revolutions that you read, that you hear about, from,
+
+383
+00:19:33,440 --> 00:19:37,880
+in civic textbooks, simply do not occur.
+
+384
+00:19:37,880 --> 00:19:41,360
+And every revolution you think that you've heard about that is the people rising up against
+
+385
+00:19:41,360 --> 00:19:46,920
+tyranny is actually another group of power-hungry people who want to replace the existing people
+
+386
+00:19:46,920 --> 00:19:50,400
+with their own power-hungry selves.
+
+387
+00:19:50,400 --> 00:19:54,960
+All in the name of the people and so on, but that's the real story, is it's just a fight
+
+388
+00:19:54,960 --> 00:19:59,520
+between rival elites, and then there's a fig leaf of the public who really could bit on
+
+389
+00:19:59,520 --> 00:20:00,520
+you.
+
+

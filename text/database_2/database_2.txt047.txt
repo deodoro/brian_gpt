@@ -1,0 +1,4 @@
+5. True, False, and Explain: I will not hire any workers, so asymmetric information entails no deadweight cost.
+ 
+False. Although I may not hire any good workers (since they can make $75,000 on their own and would have to be paid at least $100k to work for me if I can only identify them by their having a degree), it's still worth it to hire bad workers. They can make $18,750 on their own, but they are worth $25k to me, so I can make approximately $6,250  for each bad worker. If there were not asymmetric information problems and I could identify who the good and bad workers are, then I would hire good workers and they would generate $100k of wealth instead of $75k on their own. Thus the asymmetric information entails a deadweight cost.
+ 

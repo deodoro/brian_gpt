@@ -1,0 +1,8 @@
+8. Consider an efficiency wage model.
+
+True, False, and Explain:  As the average worker becomes less selfish, the unemployment rate falls. As the average worker becomes more myopic, the unemployment rate rises. 
+ 
+True. The efficiency wage model states that workers may be paid a higher wage to increase the threat of firing and lead to less shirking. A less selfish employee will not need to be "threatened" to work as hard as possible for the company--lower wages can be paid, thus lowering the unemployment rate. A myopic employee will need to be paid this efficiency wage, leading to higher unemployment as jobs become more scarce relative to those seeking them and increasing the threat of a firing.
+
+---- I interpret "myopic" to mean that people that currently hold jobs don't think about the time they may be unemployed in the future and how their behavior today (getting paid efficiency wages) may affect their employment prospects down the line.--- 
+ 

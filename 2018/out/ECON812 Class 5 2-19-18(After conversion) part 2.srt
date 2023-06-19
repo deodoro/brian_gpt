@@ -1,0 +1,1861 @@
+1
+00:00:00,000 --> 00:00:04,080
+Multinationals have lower costs because they
+
+2
+00:00:04,080 --> 00:00:05,680
+are better managed.
+
+3
+00:00:05,680 --> 00:00:09,440
+And if they were allowed to, so I actually asked Ben Reed.
+
+4
+00:00:09,440 --> 00:00:13,120
+And so back of a napkin, what if multinationals simply
+
+5
+00:00:13,120 --> 00:00:15,800
+took over the entire world economy completely?
+
+6
+00:00:15,800 --> 00:00:18,400
+What are your results say would happen?
+
+7
+00:00:18,400 --> 00:00:22,280
+And he's like, global GDP rise is 50%.
+
+8
+00:00:22,280 --> 00:00:25,280
+All right.
+
+9
+00:00:25,280 --> 00:00:27,360
+And if you think about every country on Earth
+
+10
+00:00:27,360 --> 00:00:29,120
+that has tried to keep multinationals out
+
+11
+00:00:29,120 --> 00:00:31,120
+there's otherwise regarded them with suspicion.
+
+12
+00:00:31,120 --> 00:00:35,440
+So I guess they're going to come here and take your inputs
+
+13
+00:00:35,440 --> 00:00:37,480
+and turn them into a lot more outputs.
+
+14
+00:00:37,480 --> 00:00:43,000
+And then of course, competition leads to a bunch of other things.
+
+15
+00:00:43,000 --> 00:00:44,360
+Anyway, all right.
+
+16
+00:00:44,360 --> 00:00:47,000
+So questions about allocating reproductive efficiency?
+
+17
+00:00:47,000 --> 00:00:48,400
+I'll be there.
+
+18
+00:00:48,400 --> 00:00:52,760
+All right, so probably the person that talked about this the most
+
+19
+00:00:52,760 --> 00:00:55,320
+was actually Robert Bork in his book, The Antitrust Paradox,
+
+20
+00:00:55,320 --> 00:00:57,440
+years before he was nominated to Supreme Court.
+
+21
+00:00:57,440 --> 00:01:01,320
+So he has a lot of good stuff on that, all the outdated facts.
+
+22
+00:01:01,320 --> 00:01:02,720
+In general, productive inefficiency
+
+23
+00:01:02,720 --> 00:01:04,720
+just doesn't get much attention.
+
+24
+00:01:04,720 --> 00:01:07,000
+I mean, probably some of it is there's just a theory of,
+
+25
+00:01:07,000 --> 00:01:09,880
+well, how could it be that any firm is ever producing
+
+26
+00:01:09,880 --> 00:01:12,040
+at excessively high costs?
+
+27
+00:01:12,040 --> 00:01:13,760
+There's the obvious point, what if it's
+
+28
+00:01:13,760 --> 00:01:15,920
+illegal to produce at low costs?
+
+29
+00:01:15,920 --> 00:01:17,120
+What about that?
+
+30
+00:01:17,120 --> 00:01:19,240
+And then again, in the real world,
+
+31
+00:01:19,240 --> 00:01:22,040
+there's always disequilibria where, for at least a while,
+
+32
+00:01:22,040 --> 00:01:24,240
+firms probably might be doing things.
+
+33
+00:01:24,240 --> 00:01:25,280
+Yeah, you had a question?
+
+34
+00:01:25,280 --> 00:01:28,360
+I was wondering, what are the higher estimates of allocative
+
+35
+00:01:28,360 --> 00:01:28,860
+efficiency?
+
+36
+00:01:28,860 --> 00:01:31,880
+Yeah, so I think there was one paper that got up to 10%
+
+37
+00:01:31,880 --> 00:01:34,360
+by assuming that every single industry in the United States
+
+38
+00:01:34,360 --> 00:01:35,800
+was monopolized by one firm.
+
+39
+00:01:35,800 --> 00:01:36,300
+Oh.
+
+40
+00:01:36,300 --> 00:01:39,280
+Right, so.
+
+41
+00:01:39,280 --> 00:01:41,480
+Yeah, so it only got to 10% as you can do that way.
+
+42
+00:01:41,480 --> 00:01:46,160
+So you did, they had to make a very strict assumption.
+
+43
+00:01:46,160 --> 00:01:48,360
+All right, moving on then.
+
+44
+00:01:48,360 --> 00:01:49,560
+Everyone happy?
+
+45
+00:01:49,560 --> 00:01:53,040
+Everyone full of energy for microeconomics?
+
+46
+00:01:53,040 --> 00:01:58,400
+Everyone ready to ignore all signs of your biorhythms
+
+47
+00:01:58,400 --> 00:01:59,320
+and the time of day?
+
+48
+00:01:59,320 --> 00:02:02,080
+And all right.
+
+49
+00:02:02,080 --> 00:02:04,600
+Right, of course, biorhythms are not important.
+
+50
+00:02:04,600 --> 00:02:06,320
+This is not a biology class.
+
+51
+00:02:06,320 --> 00:02:07,160
+This is economics.
+
+52
+00:02:07,160 --> 00:02:09,400
+And the economy runs nonstop.
+
+53
+00:02:09,400 --> 00:02:11,240
+And so must we.
+
+54
+00:02:11,240 --> 00:02:13,160
+So continuing.
+
+55
+00:02:13,160 --> 00:02:16,360
+All right, so predation, entry, deterrence, and mixed strategies.
+
+56
+00:02:16,360 --> 00:02:18,600
+So predation means a lot of things to a lot of people.
+
+57
+00:02:18,600 --> 00:02:22,400
+Is Amazon predating on the entire economy right now?
+
+58
+00:02:22,400 --> 00:02:24,040
+Maybe.
+
+59
+00:02:24,040 --> 00:02:24,720
+I don't know.
+
+60
+00:02:24,720 --> 00:02:26,440
+What does the word even mean?
+
+61
+00:02:26,440 --> 00:02:28,680
+So what insight can game theory give us
+
+62
+00:02:28,680 --> 00:02:32,880
+into what predation might even mean or how much there is?
+
+63
+00:02:32,880 --> 00:02:35,840
+So here's a very simple model of predation.
+
+64
+00:02:39,080 --> 00:02:40,440
+And it just says, well, predation
+
+65
+00:02:40,440 --> 00:02:42,960
+is the same thing as what is sometimes
+
+66
+00:02:42,960 --> 00:02:44,360
+called limit pricing.
+
+67
+00:02:44,360 --> 00:02:46,740
+And this just says, suppose there's a bunch of producers
+
+68
+00:02:46,740 --> 00:02:47,680
+varying costs.
+
+69
+00:02:47,680 --> 00:02:49,080
+And the lowest priced producer just
+
+70
+00:02:49,080 --> 00:02:52,440
+prices just below the cost of the second most efficient
+
+71
+00:02:52,440 --> 00:02:54,800
+producer.
+
+72
+00:02:54,800 --> 00:02:56,480
+So imagine you've got a world like that.
+
+73
+00:02:56,480 --> 00:02:59,840
+So we can go and here's demand.
+
+74
+00:02:59,840 --> 00:03:04,960
+And then here's average cost firm 5, average cost firm 4,
+
+75
+00:03:04,960 --> 00:03:09,040
+average cost firm 3, average cost firm 2,
+
+76
+00:03:09,040 --> 00:03:10,960
+average cost firm 1.
+
+77
+00:03:10,960 --> 00:03:12,440
+And if the most efficient producer
+
+78
+00:03:12,440 --> 00:03:15,880
+goes just below those costs, then how many firms
+
+79
+00:03:15,880 --> 00:03:18,800
+can actually profitably survive in the industry?
+
+80
+00:03:18,800 --> 00:03:19,300
+One.
+
+81
+00:03:19,300 --> 00:03:20,600
+Just one.
+
+82
+00:03:20,600 --> 00:03:22,840
+And how did it occur?
+
+83
+00:03:22,840 --> 00:03:27,280
+He set prices so low that everyone else either died
+
+84
+00:03:27,280 --> 00:03:30,520
+or just was never even born.
+
+85
+00:03:30,520 --> 00:03:32,480
+He made the other firms wish they had never
+
+86
+00:03:32,480 --> 00:03:37,120
+been born by going and setting the price so low.
+
+87
+00:03:37,120 --> 00:03:41,600
+Now, this kind of thing probably happens a lot.
+
+88
+00:03:41,600 --> 00:03:43,640
+And a lot of the question is just, well,
+
+89
+00:03:43,640 --> 00:03:46,080
+are they even trying to do it?
+
+90
+00:03:46,080 --> 00:03:48,720
+So who cares whether they're trying to do it or not?
+
+91
+00:03:48,720 --> 00:03:50,080
+Lawyers care.
+
+92
+00:03:50,080 --> 00:03:52,080
+Juries care.
+
+93
+00:03:52,080 --> 00:03:53,720
+You are much more likely to get convicted
+
+94
+00:03:53,720 --> 00:03:56,240
+if there's a single memo that they can dig out
+
+95
+00:03:56,240 --> 00:04:00,240
+of your archives saying, let's destroy the competition.
+
+96
+00:04:00,240 --> 00:04:02,920
+Let's drive them into the ground forever.
+
+97
+00:04:02,920 --> 00:04:05,280
+Whereas you simply offer a great product
+
+98
+00:04:05,280 --> 00:04:09,120
+at a low price, which causes the very same destruction.
+
+99
+00:04:09,120 --> 00:04:10,680
+But there's no memo.
+
+100
+00:04:10,680 --> 00:04:12,880
+It's like, look, we don't want to hurt anybody.
+
+101
+00:04:12,880 --> 00:04:16,480
+We just want to give everybody a fantastic deal.
+
+102
+00:04:16,480 --> 00:04:19,720
+Yes, but that will automatically cause destruction
+
+103
+00:04:19,720 --> 00:04:21,040
+of your competitors.
+
+104
+00:04:21,040 --> 00:04:23,240
+Well, that's just a theory.
+
+105
+00:04:23,240 --> 00:04:24,040
+I don't know.
+
+106
+00:04:24,040 --> 00:04:26,720
+I don't want to hurt anybody.
+
+107
+00:04:26,720 --> 00:04:28,840
+I'm just trying to help people.
+
+108
+00:04:28,840 --> 00:04:30,640
+That's all I want to do.
+
+109
+00:04:30,640 --> 00:04:33,960
+So it matters a lot in the eyes of the law.
+
+110
+00:04:33,960 --> 00:04:34,960
+I didn't.
+
+111
+00:04:34,960 --> 00:04:36,640
+Why is it so important?
+
+112
+00:04:36,640 --> 00:04:40,840
+Well, that's a good question.
+
+113
+00:04:40,840 --> 00:04:44,000
+Does it matter if you destroyed all your competitors
+
+114
+00:04:44,000 --> 00:04:45,560
+because you were trying to do it,
+
+115
+00:04:45,560 --> 00:04:47,120
+or if it just happened inadvertently
+
+116
+00:04:47,120 --> 00:04:49,520
+as a result of offering a great product at low prices?
+
+117
+00:04:52,080 --> 00:04:53,560
+But predatory intent is a lot more
+
+118
+00:04:53,560 --> 00:04:55,560
+likely to cost you a lot of money.
+
+119
+00:04:55,560 --> 00:04:57,880
+So it's important for that reason.
+
+120
+00:04:57,880 --> 00:04:59,920
+And again, if this were a law in economics class,
+
+121
+00:04:59,920 --> 00:05:01,320
+we'd be going into this more.
+
+122
+00:05:01,320 --> 00:05:04,440
+So there is sort of an interesting question,
+
+123
+00:05:04,440 --> 00:05:09,200
+like why is it that we punish murder more harshly
+
+124
+00:05:09,200 --> 00:05:11,920
+than attempted murder?
+
+125
+00:05:11,920 --> 00:05:12,800
+So what's the deal?
+
+126
+00:05:12,800 --> 00:05:15,680
+Yeah, why not determine both equally?
+
+127
+00:05:15,680 --> 00:05:17,160
+What's the difference?
+
+128
+00:05:17,160 --> 00:05:19,200
+And the best story anyone in law economics
+
+129
+00:05:19,200 --> 00:05:22,520
+ever come up with is, well, if you punish murder,
+
+130
+00:05:22,520 --> 00:05:24,440
+attempted murder equally harshly,
+
+131
+00:05:24,440 --> 00:05:27,240
+then the attempted murderer has a clear incentive
+
+132
+00:05:27,240 --> 00:05:29,120
+to try to finish the job if he screws up
+
+133
+00:05:29,120 --> 00:05:31,280
+the first time around.
+
+134
+00:05:31,280 --> 00:05:33,920
+All right, so how many of you have witnessed murders
+
+135
+00:05:33,920 --> 00:05:36,360
+where they are like, uh-oh.
+
+136
+00:05:36,360 --> 00:05:38,560
+No, like there are actually maybe a few.
+
+137
+00:05:38,560 --> 00:05:41,320
+So maybe like hit men, for example.
+
+138
+00:05:41,320 --> 00:05:43,120
+I might be calculating that carefully.
+
+139
+00:05:43,120 --> 00:05:47,080
+That's even a little bit hard to believe.
+
+140
+00:05:47,080 --> 00:05:49,080
+So this is one model, which is something
+
+141
+00:05:49,080 --> 00:05:52,480
+you can call predation if you want to.
+
+142
+00:05:52,480 --> 00:05:54,080
+Should it be called predation or not,
+
+143
+00:05:54,080 --> 00:05:57,600
+I'll just leave that to your judgment.
+
+144
+00:05:57,600 --> 00:05:59,400
+Now, a more interesting model of predation
+
+145
+00:05:59,400 --> 00:06:00,600
+is something more like this.
+
+146
+00:06:00,600 --> 00:06:04,000
+There's an incumbent, and he has a conditional pricing strategy,
+
+147
+00:06:04,000 --> 00:06:06,440
+which he prices high if there's no entrance,
+
+148
+00:06:06,440 --> 00:06:08,120
+and low if there's an entrance.
+
+149
+00:06:08,120 --> 00:06:10,800
+And then the entrance size is whether to enter.
+
+150
+00:06:10,800 --> 00:06:13,200
+And you might remember we even talked about this situation
+
+151
+00:06:13,200 --> 00:06:15,160
+before.
+
+152
+00:06:15,160 --> 00:06:17,600
+So if you have a situation like this,
+
+153
+00:06:17,600 --> 00:06:20,840
+then we've got two Nash equilibrium.
+
+154
+00:06:20,840 --> 00:06:22,960
+So we've got our first Nash equilibrium,
+
+155
+00:06:22,960 --> 00:06:26,800
+the Nash equilibrium out fight, which
+
+156
+00:06:26,800 --> 00:06:29,360
+means that the entrant first goes and enters.
+
+157
+00:06:29,360 --> 00:06:31,920
+Or the entrant doesn't enter.
+
+158
+00:06:31,920 --> 00:06:36,320
+And then the incumbent would have gone and drastically cut
+
+159
+00:06:36,320 --> 00:06:38,480
+prices if the entrant had entered,
+
+160
+00:06:38,480 --> 00:06:41,440
+and therefore, neither wants to change its behavior.
+
+161
+00:06:41,440 --> 00:06:44,040
+Because if you know that the incumbent would have cut its
+
+162
+00:06:44,040 --> 00:06:46,120
+prices if you entered, you don't want to enter.
+
+163
+00:06:46,120 --> 00:06:48,720
+And if the entrant is staying out,
+
+164
+00:06:48,720 --> 00:06:53,160
+you don't want to change what you would do if he came in.
+
+165
+00:06:53,160 --> 00:06:55,640
+And then there's the inaccommodate one as well.
+
+166
+00:06:55,640 --> 00:06:58,160
+Inaccommodate, so that's where the entrant does go in,
+
+167
+00:06:58,160 --> 00:07:03,880
+and then the incumbent goes and actually reduces output
+
+168
+00:07:03,880 --> 00:07:06,120
+to accommodate the new entrant.
+
+169
+00:07:06,120 --> 00:07:08,640
+So that's where you actually cut back on your production
+
+170
+00:07:08,640 --> 00:07:10,240
+because it's new entrant, and you now
+
+171
+00:07:10,240 --> 00:07:12,560
+need to share the market.
+
+172
+00:07:12,560 --> 00:07:14,680
+And you may remember one of these two outcomes
+
+173
+00:07:14,680 --> 00:07:16,560
+is not sub-key perfect, because it
+
+174
+00:07:16,560 --> 00:07:17,960
+involves a threat to do something
+
+175
+00:07:17,960 --> 00:07:19,560
+you wouldn't want to do if you actually
+
+176
+00:07:19,560 --> 00:07:21,600
+had to carry it out.
+
+177
+00:07:21,600 --> 00:07:24,520
+Which one of these two is not sub-key perfect?
+
+178
+00:07:24,520 --> 00:07:25,520
+Out fight.
+
+179
+00:07:25,520 --> 00:07:28,060
+So you come in there, and you say, well, now that you're here,
+
+180
+00:07:28,060 --> 00:07:29,880
+I'm going to destroy us both.
+
+181
+00:07:29,880 --> 00:07:30,920
+It's like, hmm.
+
+182
+00:07:30,920 --> 00:07:32,880
+I mean, it's one thing to say, if you come in,
+
+183
+00:07:32,880 --> 00:07:34,040
+I'll destroy us both.
+
+184
+00:07:34,040 --> 00:07:34,960
+That's kind of scary.
+
+185
+00:07:34,960 --> 00:07:36,480
+Once you're in, now destroy us both.
+
+186
+00:07:36,480 --> 00:07:36,980
+Really?
+
+187
+00:07:36,980 --> 00:07:38,600
+You're really going to destroy us both?
+
+188
+00:07:38,600 --> 00:07:41,160
+Wouldn't you rather just cooperate with me?
+
+189
+00:07:41,160 --> 00:07:43,600
+Oh, don't want to.
+
+190
+00:07:43,600 --> 00:07:47,960
+Cooperating with an entrant is so humiliating.
+
+191
+00:07:47,960 --> 00:07:49,120
+It's a daffy duck.
+
+192
+00:07:49,120 --> 00:07:50,920
+Daffy duck is so humiliating.
+
+193
+00:07:50,920 --> 00:07:51,800
+I'd rather cooperate.
+
+194
+00:07:54,640 --> 00:07:56,520
+So anyway, this is a case where the incumbent
+
+195
+00:07:56,520 --> 00:07:58,520
+would be cutting off his nose to spite his face.
+
+196
+00:07:58,520 --> 00:08:00,400
+It doesn't make a lot of sense.
+
+197
+00:08:00,400 --> 00:08:04,000
+Now, there is a less formal literature on predation.
+
+198
+00:08:04,000 --> 00:08:07,280
+It's like an earlier one from the 50s and 60s and 70s,
+
+199
+00:08:07,280 --> 00:08:10,400
+which adds on and says, on top of all this,
+
+200
+00:08:10,400 --> 00:08:14,000
+not only is fighting a bad idea, but fighting is actually
+
+201
+00:08:14,000 --> 00:08:16,080
+especially bad for the incumbent.
+
+202
+00:08:16,080 --> 00:08:18,560
+Because normally, which firm has the bigger market share,
+
+203
+00:08:18,560 --> 00:08:21,120
+the incumbent or the entrant?
+
+204
+00:08:21,120 --> 00:08:23,160
+The incumbent normally has a bigger market share.
+
+205
+00:08:23,160 --> 00:08:28,760
+So if you go and slash prices down to a level
+
+206
+00:08:28,760 --> 00:08:31,960
+where you're losing money, and you have 90% of the market,
+
+207
+00:08:31,960 --> 00:08:35,840
+then you'll be losing nine times as much money as the entrant.
+
+208
+00:08:35,840 --> 00:08:38,760
+It sounds like it's like cutting your face nine times
+
+209
+00:08:38,760 --> 00:08:41,240
+to go and cut the entrant's face one time.
+
+210
+00:08:41,240 --> 00:08:43,240
+It doesn't sound very smart.
+
+211
+00:08:43,240 --> 00:08:45,120
+And actually, even that's not right.
+
+212
+00:08:45,120 --> 00:08:52,160
+Because suppose that if you didn't go and cut your price
+
+213
+00:08:52,160 --> 00:08:55,840
+response, you'd have 90%, and the entrant would have 5%,
+
+214
+00:08:55,840 --> 00:08:57,280
+and the entrant would have 10%.
+
+215
+00:08:57,280 --> 00:09:05,000
+So suppose you keep output the same, then the divide is 90-10.
+
+216
+00:09:05,000 --> 00:09:07,920
+But if the incumbent actually wants to fight,
+
+217
+00:09:07,920 --> 00:09:10,360
+he's got to go and do what with his output?
+
+218
+00:09:10,360 --> 00:09:10,960
+Increase it.
+
+219
+00:09:10,960 --> 00:09:11,480
+Increase it.
+
+220
+00:09:11,480 --> 00:09:15,600
+So then that might mean going up to 95% of the industry.
+
+221
+00:09:15,600 --> 00:09:18,280
+So then you're losing 19 times as much money
+
+222
+00:09:18,280 --> 00:09:20,560
+as the entrant, which again doesn't
+
+223
+00:09:20,560 --> 00:09:22,920
+sound like a very good deal.
+
+224
+00:09:22,920 --> 00:09:26,800
+So this is a vaguely related literature
+
+225
+00:09:26,800 --> 00:09:29,880
+to saying that actually, since the real world incumbents usually
+
+226
+00:09:29,880 --> 00:09:33,440
+are the market leader, they lose more money from predation
+
+227
+00:09:33,440 --> 00:09:35,560
+than the entrant would.
+
+228
+00:09:35,560 --> 00:09:37,400
+But anyway, the game theory point
+
+229
+00:09:37,400 --> 00:09:39,520
+is just that regardless of that, it's
+
+230
+00:09:39,520 --> 00:09:41,600
+cheaper to accommodate than to fight.
+
+231
+00:09:41,600 --> 00:09:44,560
+And so incumbents want to do that.
+
+232
+00:09:44,560 --> 00:09:52,160
+Now, all of this is, of course, forgetting about the first word
+
+233
+00:09:52,160 --> 00:09:52,720
+of the notes.
+
+234
+00:09:52,720 --> 00:09:54,120
+What is the first word?
+
+235
+00:09:54,120 --> 00:09:58,440
+Let's double check the first word of the notes.
+
+236
+00:09:58,440 --> 00:09:59,840
+Yes.
+
+237
+00:09:59,840 --> 00:10:02,360
+So after the colon, yes, repeating.
+
+238
+00:10:02,360 --> 00:10:06,600
+So all of these arguments are ignoring repeated play.
+
+239
+00:10:06,600 --> 00:10:10,560
+So what if this same game is infinitely repeated?
+
+240
+00:10:10,560 --> 00:10:14,440
+And the simple answer is, well, then predation might work.
+
+241
+00:10:14,440 --> 00:10:17,880
+So why can it work to go and destroy money?
+
+242
+00:10:17,880 --> 00:10:20,280
+Well, it's partially destroy both of us
+
+243
+00:10:20,280 --> 00:10:23,680
+if there's an infinitely repeated game.
+
+244
+00:10:23,680 --> 00:10:27,640
+So I go and I blow up all our profits for this period.
+
+245
+00:10:27,640 --> 00:10:29,920
+It's kind of like reputation.
+
+246
+00:10:29,920 --> 00:10:31,280
+Yeah, exactly.
+
+247
+00:10:31,280 --> 00:10:34,440
+Walmart has some of its people who try to unionize,
+
+248
+00:10:34,440 --> 00:10:37,040
+or shut down the whole store and just give up
+
+249
+00:10:37,040 --> 00:10:39,280
+all the profits on that whole store
+
+250
+00:10:39,280 --> 00:10:41,280
+to break the back of the union members
+
+251
+00:10:41,280 --> 00:10:45,560
+so that it has a reputation that it's worth its time.
+
+252
+00:10:45,560 --> 00:10:47,920
+Sounds pretty clever.
+
+253
+00:10:47,920 --> 00:10:50,720
+Want to try it?
+
+254
+00:10:50,720 --> 00:10:52,160
+All right, yes, so that's the idea.
+
+255
+00:10:52,160 --> 00:10:54,040
+It's like, look, you might actually
+
+256
+00:10:54,040 --> 00:10:56,880
+want to let one of your stores go down the drain
+
+257
+00:10:56,880 --> 00:10:59,560
+if this is going to wind up giving you
+
+258
+00:10:59,560 --> 00:11:02,160
+other benefits in the future.
+
+259
+00:11:02,160 --> 00:11:05,880
+So anyway, so it is possible that with infinite repetition,
+
+260
+00:11:05,880 --> 00:11:08,120
+then predation would be successful.
+
+261
+00:11:08,120 --> 00:11:10,840
+And that's when arguments like this become important.
+
+262
+00:11:10,840 --> 00:11:12,840
+That's when arguments like that become important,
+
+263
+00:11:12,840 --> 00:11:15,840
+because it's like, you're going to go and build a reputation
+
+264
+00:11:15,840 --> 00:11:20,000
+by losing 19 times as much money as the competition for a while.
+
+265
+00:11:20,000 --> 00:11:22,240
+That's a great plan.
+
+266
+00:11:22,240 --> 00:11:24,200
+That's probably a stupid plan.
+
+267
+00:11:24,200 --> 00:11:26,440
+It's the kind of thing where you might actually
+
+268
+00:11:26,440 --> 00:11:30,040
+lead competitors to say, wow, you lost so much money.
+
+269
+00:11:30,040 --> 00:11:32,480
+I don't think I'll ever try that dumb move again.
+
+270
+00:11:32,480 --> 00:11:35,200
+Now I really don't believe him anymore.
+
+271
+00:11:35,200 --> 00:11:38,880
+So it could easily lead to that reaction.
+
+272
+00:11:38,880 --> 00:11:41,880
+Now, there is a substantial literature on, especially
+
+273
+00:11:41,880 --> 00:11:46,840
+the 19th century economic history, which probably gets
+
+274
+00:11:46,840 --> 00:11:49,520
+more attention, because back then,
+
+275
+00:11:49,520 --> 00:11:53,280
+there was no legal reason not to admit you were doing predation.
+
+276
+00:11:53,280 --> 00:11:56,720
+And the general result of people who have looked at this,
+
+277
+00:11:56,720 --> 00:12:00,040
+as far as I know, I haven't looked closely,
+
+278
+00:12:00,040 --> 00:12:03,080
+but Don McGraw would actually know this quite well,
+
+279
+00:12:03,080 --> 00:12:06,040
+is that Rockefeller, for example,
+
+280
+00:12:06,040 --> 00:12:07,720
+so Rockefeller is actually, or the Citadel
+
+281
+00:12:07,720 --> 00:12:10,240
+is the most famous one for supposedly engaging predation.
+
+282
+00:12:10,240 --> 00:12:12,200
+The people that have looked at it most closely
+
+283
+00:12:12,200 --> 00:12:14,360
+came away saying, no, no, in an unengaged predation,
+
+284
+00:12:14,360 --> 00:12:16,440
+he did something that's almost the opposite of that,
+
+285
+00:12:16,440 --> 00:12:18,320
+which is he would go and buy competitors out
+
+286
+00:12:18,320 --> 00:12:20,280
+at above market rates.
+
+287
+00:12:20,280 --> 00:12:21,720
+So he did do that.
+
+288
+00:12:21,720 --> 00:12:25,520
+So going and just slashing the price of kerosene
+
+289
+00:12:25,520 --> 00:12:29,000
+for a long time to drive people out, that, no sign that he did
+
+290
+00:12:29,000 --> 00:12:29,760
+it.
+
+291
+00:12:29,760 --> 00:12:32,440
+But what he would do is go to firms and say, look,
+
+292
+00:12:32,440 --> 00:12:34,840
+I'll go and pay you double the value of your assets
+
+293
+00:12:34,840 --> 00:12:36,400
+to sell me.
+
+294
+00:12:36,400 --> 00:12:39,400
+And then, my memory is that we actually
+
+295
+00:12:39,400 --> 00:12:41,360
+have the smoking gun of Rockefeller,
+
+296
+00:12:41,360 --> 00:12:43,360
+then saying, we have to stop doing this,
+
+297
+00:12:43,360 --> 00:12:46,040
+because people are building new refineries simply
+
+298
+00:12:46,040 --> 00:12:49,200
+to be bought out at double the price of the refinery.
+
+299
+00:12:49,200 --> 00:12:53,280
+So he calls it blackmailing us, and then he
+
+300
+00:12:53,280 --> 00:12:55,000
+just gave up on that.
+
+301
+00:12:55,000 --> 00:12:59,440
+So not much historical sign of predation in this sense,
+
+302
+00:12:59,440 --> 00:13:02,000
+where you deliberately are losing money for a while
+
+303
+00:13:02,000 --> 00:13:08,760
+in order to scare people off.
+
+304
+00:13:08,760 --> 00:13:10,360
+And in the case of the union there,
+
+305
+00:13:10,360 --> 00:13:12,520
+you say, well, you just have to shut down one store,
+
+306
+00:13:12,520 --> 00:13:14,480
+and that can scare a ton of people.
+
+307
+00:13:14,480 --> 00:13:19,400
+But if you had to go and lose a ton of money for the whole,
+
+308
+00:13:19,400 --> 00:13:21,480
+all of Walmart for years, possibly,
+
+309
+00:13:21,480 --> 00:13:23,560
+then there's other considerations people want out.
+
+310
+00:13:23,560 --> 00:13:25,400
+Like, suppose there's a durable good,
+
+311
+00:13:25,400 --> 00:13:29,080
+and you're concerned that the price is only temporarily low.
+
+312
+00:13:29,080 --> 00:13:32,400
+What might you as a consumer do?
+
+313
+00:13:32,400 --> 00:13:33,800
+Yes, stock up.
+
+314
+00:13:33,800 --> 00:13:36,360
+So then you might have to expand your output massively
+
+315
+00:13:36,360 --> 00:13:40,000
+to deal with all the people who are stockpiling the good.
+
+316
+00:13:40,000 --> 00:13:41,680
+Imagine you were, say, going to try
+
+317
+00:13:41,680 --> 00:13:44,360
+doing predation in automobiles by cutting the price
+
+318
+00:13:44,360 --> 00:13:45,960
+to half the normal price.
+
+319
+00:13:45,960 --> 00:13:47,960
+How many people would want to just go and buy,
+
+320
+00:13:47,960 --> 00:13:52,600
+oh, let's go and buy cars for all of our kids right now.
+
+321
+00:13:52,600 --> 00:13:55,640
+Depending upon how much land you have.
+
+322
+00:13:55,640 --> 00:13:58,040
+If you're in New York City, you probably wouldn't do that.
+
+323
+00:13:58,040 --> 00:13:59,840
+But if you're out in the country, you've got a barn,
+
+324
+00:13:59,840 --> 00:14:01,920
+put them in there, put a car cover on them,
+
+325
+00:14:01,920 --> 00:14:04,280
+start them once a month, and it's a pretty good deal.
+
+326
+00:14:08,240 --> 00:14:10,800
+Now, a big question about this kind of predation
+
+327
+00:14:10,800 --> 00:14:13,320
+is, why couldn't everybody do it?
+
+328
+00:14:13,320 --> 00:14:15,480
+So why would it have to be limited, actually,
+
+329
+00:14:15,480 --> 00:14:17,000
+to incumbents?
+
+330
+00:14:17,000 --> 00:14:19,160
+Why couldn't entrants predict?
+
+331
+00:14:19,160 --> 00:14:21,400
+So you could have an entrant say, tell you what,
+
+332
+00:14:21,400 --> 00:14:24,280
+if you don't just flee from this industry right now,
+
+333
+00:14:24,280 --> 00:14:26,680
+I'm going to come in and I'm going to go and make us lose
+
+334
+00:14:26,680 --> 00:14:30,200
+a ton of money.
+
+335
+00:14:30,200 --> 00:14:33,480
+And that seems structurally very similar to, if you enter,
+
+336
+00:14:33,480 --> 00:14:35,200
+I'm going to make us both lose money.
+
+337
+00:14:35,200 --> 00:14:37,160
+And say, look, if you don't run away,
+
+338
+00:14:37,160 --> 00:14:39,760
+I am going to make us both lose money.
+
+339
+00:14:39,760 --> 00:14:42,840
+So it seems like a principle that could happen.
+
+340
+00:14:42,840 --> 00:14:45,240
+And this seems very odd to imagine, say,
+
+341
+00:14:45,240 --> 00:14:48,200
+like one small chicken shack threatening
+
+342
+00:14:48,200 --> 00:14:51,120
+to do this to Kentucky Fried Chicken or something like that.
+
+343
+00:14:51,120 --> 00:14:53,280
+You can imagine large-scale entry,
+
+344
+00:14:53,280 --> 00:14:55,280
+where, say, McDonald's might say,
+
+345
+00:14:55,280 --> 00:14:59,520
+we're going to open up our own line of chicken restaurants.
+
+346
+00:14:59,520 --> 00:15:03,080
+And there are some interesting cases of large-scale entry.
+
+347
+00:15:03,080 --> 00:15:08,720
+For example, Microsoft came along with the Xbox.
+
+348
+00:15:08,720 --> 00:15:11,840
+So it wasn't just like some small video game company
+
+349
+00:15:11,840 --> 00:15:13,200
+out of somebody's garage.
+
+350
+00:15:13,200 --> 00:15:15,600
+Microsoft said, we're going to go and enter
+
+351
+00:15:15,600 --> 00:15:19,360
+this console video game industry on a massive scale.
+
+352
+00:15:19,360 --> 00:15:20,840
+That's what they did.
+
+353
+00:15:20,840 --> 00:15:24,560
+And so Amazon, remember what Amazon used to sell only?
+
+354
+00:15:24,560 --> 00:15:25,060
+Books.
+
+355
+00:15:25,060 --> 00:15:26,920
+They only sold books.
+
+356
+00:15:26,920 --> 00:15:29,320
+But there's one of the biggest booksellers.
+
+357
+00:15:29,320 --> 00:15:32,720
+And now they start selling, we'll also sell reflecting
+
+358
+00:15:32,720 --> 00:15:33,720
+flashers.
+
+359
+00:15:33,720 --> 00:15:35,680
+And we'll make you attach some to your car
+
+360
+00:15:35,680 --> 00:15:37,020
+so you don't need them at night.
+
+361
+00:15:37,020 --> 00:15:38,360
+We'll also do that.
+
+362
+00:15:38,360 --> 00:15:41,360
+So that's possible as well.
+
+363
+00:15:41,360 --> 00:15:44,160
+So anyway, so why can't entrants bring it against incumbents,
+
+364
+00:15:44,160 --> 00:15:46,440
+just like incumbents bring it against entrants?
+
+365
+00:15:46,440 --> 00:15:48,080
+And when you start thinking about this,
+
+366
+00:15:48,080 --> 00:15:50,640
+then remember that mixed strategy concept
+
+367
+00:15:50,640 --> 00:15:52,920
+that we had before?
+
+368
+00:15:52,920 --> 00:15:55,960
+Maybe you could actually have every possible kind
+
+369
+00:15:55,960 --> 00:15:57,000
+of prediction.
+
+370
+00:15:57,000 --> 00:15:59,360
+You could have incumbents bringing it against entrants,
+
+371
+00:15:59,360 --> 00:16:01,200
+entrants bringing it against incumbents.
+
+372
+00:16:01,200 --> 00:16:03,720
+You would have cases where they both go in,
+
+373
+00:16:03,720 --> 00:16:06,600
+thinking that the other one would be scared off.
+
+374
+00:16:06,600 --> 00:16:08,960
+And you can also have a case where everyone is so scared
+
+375
+00:16:08,960 --> 00:16:11,040
+that they're going to lose money that they don't go in the industry
+
+376
+00:16:11,040 --> 00:16:11,540
+at all.
+
+377
+00:16:15,320 --> 00:16:18,160
+So anyway, the idea in these cases
+
+378
+00:16:18,160 --> 00:16:20,840
+is that in addition to the pure strategy
+
+379
+00:16:20,840 --> 00:16:22,600
+Nash equilibrium with one brigading
+
+380
+00:16:22,600 --> 00:16:24,320
+and the other one staying away, you've
+
+381
+00:16:24,320 --> 00:16:26,480
+also got the mixed strategy Nash equilibrium
+
+382
+00:16:26,480 --> 00:16:28,840
+of every possible combination happening
+
+383
+00:16:28,840 --> 00:16:31,720
+with some probability.
+
+384
+00:16:31,720 --> 00:16:33,720
+Intuitively, what has to happen is
+
+385
+00:16:33,720 --> 00:16:35,800
+that the potential for monopoly profits,
+
+386
+00:16:35,800 --> 00:16:37,560
+if you get to be the monopoly, have
+
+387
+00:16:37,560 --> 00:16:40,200
+to balance out the expected losses
+
+388
+00:16:40,200 --> 00:16:44,280
+from this destructive competition.
+
+389
+00:16:44,280 --> 00:16:46,360
+You've heard this phrase, destructive competition
+
+390
+00:16:46,360 --> 00:16:47,520
+at some point?
+
+391
+00:16:47,520 --> 00:16:51,400
+Destructive competition.
+
+392
+00:16:51,400 --> 00:16:52,800
+Of course, you could just use this
+
+393
+00:16:52,800 --> 00:16:55,400
+for as a synonym for competition.
+
+394
+00:16:55,400 --> 00:16:58,160
+All competition is destructive as far as I'm concerned.
+
+395
+00:16:58,160 --> 00:17:01,080
+But normally, when outsiders, observers describe it,
+
+396
+00:17:01,080 --> 00:17:04,520
+this is where firms that have substantial fixed costs
+
+397
+00:17:04,520 --> 00:17:07,000
+wind up driving prices down to marginal cost
+
+398
+00:17:07,000 --> 00:17:10,160
+and then they lose money.
+
+399
+00:17:10,160 --> 00:17:11,120
+All right.
+
+400
+00:17:11,120 --> 00:17:13,000
+So anyway, say that the mixed strategy story
+
+401
+00:17:13,000 --> 00:17:14,840
+does make more sense.
+
+402
+00:17:14,840 --> 00:17:19,320
+So again, there's no way you can credibly commit to be in no
+
+403
+00:17:19,320 --> 00:17:20,920
+matter what.
+
+404
+00:17:20,920 --> 00:17:24,160
+So the bigger the conditional benefit of being monopoly
+
+405
+00:17:24,160 --> 00:17:25,800
+is, the harder firms will compete
+
+406
+00:17:25,800 --> 00:17:28,560
+to get to be that person.
+
+407
+00:17:28,560 --> 00:17:31,000
+Which you can probably see a lot of this on the internet.
+
+408
+00:17:31,000 --> 00:17:32,760
+So remember in the early days, there
+
+409
+00:17:32,760 --> 00:17:34,680
+were a bunch of firms that actually really did
+
+410
+00:17:34,680 --> 00:17:36,600
+seem to be losing a ton of money.
+
+411
+00:17:36,600 --> 00:17:39,360
+Strangely, no one complained about it.
+
+412
+00:17:39,360 --> 00:17:41,440
+Again, if there's ever a case where you just say,
+
+413
+00:17:41,440 --> 00:17:44,280
+predation smoking gun, wouldn't be a whole industry
+
+414
+00:17:44,280 --> 00:17:47,240
+where most of the firms were losing money?
+
+415
+00:17:47,240 --> 00:17:50,240
+And again, you might say, well, maybe that'd be a hard time.
+
+416
+00:17:50,240 --> 00:17:51,920
+No.
+
+417
+00:17:51,920 --> 00:17:54,840
+They show up and start losing money immediately,
+
+418
+00:17:54,840 --> 00:17:58,240
+and they lose money for years.
+
+419
+00:17:58,240 --> 00:18:00,240
+It seems a lot like predation.
+
+420
+00:18:00,240 --> 00:18:02,440
+Now, in practice, fortunately, the law just
+
+421
+00:18:02,440 --> 00:18:04,200
+turned a blind eye to this.
+
+422
+00:18:04,200 --> 00:18:08,320
+And anyway, why would the law turn a blind eye to this?
+
+423
+00:18:08,320 --> 00:18:11,440
+Well, how do laws get enforced in the real world normally?
+
+424
+00:18:11,440 --> 00:18:12,840
+AUDIENCE MEMBER 5 In the courts.
+
+425
+00:18:12,840 --> 00:18:17,560
+Well, but how does something even get to the courts?
+
+426
+00:18:17,560 --> 00:18:20,600
+Someone has to complain.
+
+427
+00:18:20,600 --> 00:18:22,600
+Someone has to complain.
+
+428
+00:18:22,600 --> 00:18:25,000
+And if there's an industry that's changing real rapidly,
+
+429
+00:18:25,000 --> 00:18:26,420
+by the time you get to the courts,
+
+430
+00:18:26,420 --> 00:18:28,160
+the whole industry may change anyway.
+
+431
+00:18:28,160 --> 00:18:31,360
+So that's a lot of what I saw during the early days
+
+432
+00:18:31,360 --> 00:18:33,760
+of the internet, is firms that just went in and lost
+
+433
+00:18:33,760 --> 00:18:35,760
+a ton of money, and then actually most of them
+
+434
+00:18:35,760 --> 00:18:37,200
+just went bankrupt.
+
+435
+00:18:37,200 --> 00:18:40,320
+So I guess.
+
+436
+00:18:40,320 --> 00:18:43,360
+So you listed six reasons in the past six minutes
+
+437
+00:18:43,360 --> 00:18:46,080
+of why predation isn't a good idea.
+
+438
+00:18:46,080 --> 00:18:49,080
+And you gave an example of Rockefeller
+
+439
+00:18:49,080 --> 00:18:50,480
+doing the exact opposite.
+
+440
+00:18:50,480 --> 00:18:53,720
+So if he wasn't doing it, and it's a bad idea to do it,
+
+441
+00:18:53,720 --> 00:18:57,000
+then who was first spreading the rumor that he was doing it?
+
+442
+00:18:57,000 --> 00:18:59,000
+I don't know at first, but Ida Charbel
+
+443
+00:18:59,000 --> 00:19:02,880
+was a very big spreader of these rumors, which
+
+444
+00:19:02,880 --> 00:19:03,840
+is an interesting case.
+
+445
+00:19:03,840 --> 00:19:05,840
+So you may actually remember the name Ida Charbel
+
+446
+00:19:05,840 --> 00:19:07,440
+from the US history class.
+
+447
+00:19:07,440 --> 00:19:10,520
+You probably were told that her dad was driven to bankruptcy
+
+448
+00:19:10,520 --> 00:19:12,560
+by Rockefeller, which doesn't prove
+
+449
+00:19:12,560 --> 00:19:13,980
+that what she was saying was wrong.
+
+450
+00:19:13,980 --> 00:19:15,680
+But normally, you would just sort of
+
+451
+00:19:15,680 --> 00:19:17,480
+mention a possible conflict of interest
+
+452
+00:19:17,480 --> 00:19:21,560
+for a historical source of that kind.
+
+453
+00:19:21,560 --> 00:19:24,280
+So the other thing is, it sounds really good.
+
+454
+00:19:24,280 --> 00:19:27,640
+So do you know who believes in predation with all his heart?
+
+455
+00:19:27,640 --> 00:19:29,240
+My dad.
+
+456
+00:19:29,240 --> 00:19:31,360
+My dad believes that the whole economy
+
+457
+00:19:31,360 --> 00:19:33,240
+is run based on predation.
+
+458
+00:19:33,240 --> 00:19:38,120
+And he had one of the arguments here.
+
+459
+00:19:38,120 --> 00:19:39,840
+His general model of the whole economy
+
+460
+00:19:39,840 --> 00:19:42,200
+is that every industry by its own
+
+461
+00:19:42,200 --> 00:19:47,840
+is run in a caricature of a monopoly,
+
+462
+00:19:47,840 --> 00:19:50,480
+except his own industry was ultra-competitive.
+
+463
+00:19:50,480 --> 00:19:52,600
+And what was my dad's own industry?
+
+464
+00:19:52,600 --> 00:19:53,800
+Defense contracting.
+
+465
+00:19:53,800 --> 00:20:03,760
+Oh, no.
+
+

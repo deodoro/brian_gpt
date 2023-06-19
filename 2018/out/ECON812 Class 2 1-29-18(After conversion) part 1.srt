@@ -1,0 +1,1585 @@
+1
+00:00:00,000 --> 00:00:04,000
+Remember we did two different versions of probability.
+
+2
+00:00:04,000 --> 00:00:12,000
+Objective probability, which you don't know anyone who takes a really hard line and just says,
+
+3
+00:00:12,000 --> 00:00:14,000
+I refuse to accept that could be a thing.
+
+4
+00:00:14,000 --> 00:00:21,000
+And then subjective probability, where there are some people saying, no, no, no, there's something wrong here.
+
+5
+00:00:21,000 --> 00:00:27,000
+You can't say these things. You can't say that you have a 40, that you think there's a 40% chance of something happening.
+
+6
+00:00:27,000 --> 00:00:32,000
+I don't know if I just said it. There's something, some people think there's something illegitimate.
+
+7
+00:00:32,000 --> 00:00:38,000
+But anyway, all of modern economics is based upon saying that it's perfectly fine to use subjective probability.
+
+8
+00:00:38,000 --> 00:00:45,000
+So we're going to do that. And if you do have some philosophical objection, you just have to suspend disbelief and work with it anyway.
+
+9
+00:00:45,000 --> 00:00:51,000
+You may be amazed at how far you can get talking about unicorns, even though there are no unicorns.
+
+10
+00:00:51,000 --> 00:01:00,000
+Now one interesting thing about subjective probability is that it doesn't put any constraints at all on what you can believe before you see facts.
+
+11
+00:01:00,000 --> 00:01:06,000
+You believe you can have any probabilities you want. 99% probability that I am the emperor of Antarctica.
+
+12
+00:01:06,000 --> 00:01:10,000
+Which is if you have John Nash out, you don't have to be the emperor of the world.
+
+13
+00:01:10,000 --> 00:01:16,000
+But it does actually restrict the way that you can update these beliefs.
+
+14
+00:01:16,000 --> 00:01:25,000
+So built in to subjective probability are some rules about how updating or revising beliefs in response to what you see has to change.
+
+15
+00:01:25,000 --> 00:01:28,000
+And there's two big formulas that are worth knowing.
+
+16
+00:01:28,000 --> 00:01:31,000
+First one is just the conditional probability formula.
+
+17
+00:01:31,000 --> 00:01:38,000
+Which most of you probably either know or can just intuit.
+
+18
+00:01:38,000 --> 00:01:42,000
+And this just says the probability of A given B.
+
+19
+00:01:42,000 --> 00:01:46,000
+And probability, whenever you see that vertical line, that means given.
+
+20
+00:01:46,000 --> 00:01:52,000
+So the probability of A given that B has occurred or that B is seen or whatever.
+
+21
+00:01:52,000 --> 00:02:00,000
+Is going to be equal to the probability that you get both A and B divided by the probability of B.
+
+22
+00:02:00,000 --> 00:02:07,000
+So a classic example would be what's the probability that you get two coins that both flip heads?
+
+23
+00:02:07,000 --> 00:02:10,000
+Conditional upon or given that the first one already flipped heads.
+
+24
+00:02:10,000 --> 00:02:16,000
+And then, well, the probability that you get two coins flipping heads is going to be 0.25.
+
+25
+00:02:16,000 --> 00:02:18,000
+It's a fair coin, right?
+
+26
+00:02:18,000 --> 00:02:21,000
+You flip it twice, you probably get heads twice in a row.
+
+27
+00:02:21,000 --> 00:02:23,000
+It's going to be 1 in 4.
+
+28
+00:02:23,000 --> 00:02:28,000
+Probability that the B happened is 0.5.
+
+29
+00:02:28,000 --> 00:02:32,000
+Then you go through and then you come up with probability of 0.5.
+
+30
+00:02:32,000 --> 00:02:40,000
+So this means that there's a 1 in 4 probability that you would get two heads before you know what the first one was.
+
+31
+00:02:40,000 --> 00:02:44,000
+But then the second one, before you flipped it, you already have.
+
+32
+00:02:44,000 --> 00:02:47,000
+But before you flipped it, you've not had a 50% chance.
+
+33
+00:02:47,000 --> 00:02:52,000
+So the probability that you will get two heads given you've already got one head is going to be 0.5.
+
+34
+00:02:52,000 --> 00:02:58,000
+On the other hand, you say what's the probability that you will get two heads given the first one was a tails?
+
+35
+00:02:58,000 --> 00:03:02,000
+Of course, that's impossible, right?
+
+36
+00:03:02,000 --> 00:03:05,000
+Now that is just a classic boring example.
+
+37
+00:03:05,000 --> 00:03:08,000
+We could also use this for a more interesting probability problem.
+
+38
+00:03:08,000 --> 00:03:11,000
+Like suppose a child claims that he saw a monster.
+
+39
+00:03:11,000 --> 00:03:14,000
+A monster! I've seen a monster!
+
+40
+00:03:14,000 --> 00:03:18,000
+And then, if you were to apply this formula, you start with, alright,
+
+41
+00:03:18,000 --> 00:03:22,000
+well, there's the probability the child saw a monster and there really was a monster.
+
+42
+00:03:22,000 --> 00:03:25,000
+So, I'm going to turn out what counts as a monster.
+
+43
+00:03:25,000 --> 00:03:28,000
+You know, like a Tyrannosaurus, that would count.
+
+44
+00:03:28,000 --> 00:03:31,000
+You know, just a list of things that would be good contenders.
+
+45
+00:03:31,000 --> 00:03:35,000
+I think if it turned out there was a Tyrannosaurus Rex in the backyard,
+
+46
+00:03:35,000 --> 00:03:39,000
+I think you would be very pedantic to say, well, a dinosaur is not a true monster.
+
+47
+00:03:39,000 --> 00:03:42,000
+But, in any case, so just picture this.
+
+48
+00:03:42,000 --> 00:03:44,000
+Alright, so the probability he saw a monster and there was a monster,
+
+49
+00:03:44,000 --> 00:03:46,000
+divided by the probability he says he saw a monster.
+
+50
+00:03:46,000 --> 00:03:50,000
+So, if the probability he says he saw a monster and there was a monster is one in a billion,
+
+51
+00:03:50,000 --> 00:03:52,000
+a very low probability,
+
+52
+00:03:52,000 --> 00:03:55,000
+and the probability that he says he saw a monster is, say, 0.1,
+
+53
+00:03:55,000 --> 00:03:59,000
+10% chance a kid will go and just make up any kind of outlandish story.
+
+54
+00:03:59,000 --> 00:04:04,000
+But, if you're my younger son, it's more like a 90% chance it's going to be an outlandish story.
+
+55
+00:04:04,000 --> 00:04:07,000
+Then the conditional probability turns out to be more than 100 million.
+
+56
+00:04:07,000 --> 00:04:11,000
+So, even though, of course, you still think it's highly unlikely there's a monster,
+
+57
+00:04:11,000 --> 00:04:15,000
+the fact the kid said it does dramatically multiply the probability,
+
+58
+00:04:15,000 --> 00:04:17,000
+by a factor of 10.
+
+59
+00:04:17,000 --> 00:04:19,000
+And, of course, that's more than it's only small probability to begin with,
+
+60
+00:04:19,000 --> 00:04:22,000
+and it's not very impressive.
+
+61
+00:04:22,000 --> 00:04:25,000
+This is actually a general point about probability.
+
+62
+00:04:25,000 --> 00:04:29,000
+You'll notice in the media, sometimes they'll say that there's a 47% increase
+
+63
+00:04:29,000 --> 00:04:33,000
+in the number of puppies that Sikhs have killed in the last month.
+
+64
+00:04:33,000 --> 00:04:37,000
+Alright, you're like, wait a second, how long does it happen anyway?
+
+65
+00:04:37,000 --> 00:04:42,000
+So, well, there were two incidents last month and three this month,
+
+66
+00:04:42,000 --> 00:04:47,000
+so roughly a 47% increase, something like that.
+
+67
+00:04:47,000 --> 00:04:51,000
+So, in general, whenever you see the media going and switching to percent changes,
+
+68
+00:04:51,000 --> 00:04:56,000
+it is a reason to think that maybe it's an enormous change over a very small base,
+
+69
+00:04:56,000 --> 00:05:00,000
+and is therefore still absolutely nothing a sane person would ever worry about or talk about
+
+70
+00:05:00,000 --> 00:05:02,000
+or pay attention to.
+
+71
+00:05:02,000 --> 00:05:08,000
+But, that's your audience, so I can make it in advertising, so don't worry about it.
+
+72
+00:05:08,000 --> 00:05:12,000
+And then a general point, a conjunction can never be more probable than either of the components.
+
+73
+00:05:12,000 --> 00:05:16,000
+So, a classic example here of probability, or actually in experimental psychology,
+
+74
+00:05:16,000 --> 00:05:20,000
+so there's a famous experiment where you randomly assign people to two groups,
+
+75
+00:05:20,000 --> 00:05:25,000
+so, randomly assign the even number of people to one group, odd number of people to another group,
+
+76
+00:05:25,000 --> 00:05:28,000
+I split you up so you don't find out what the other one is hearing,
+
+77
+00:05:28,000 --> 00:05:34,000
+and I go to both groups, and I give you the same story about, I don't know what her name is,
+
+78
+00:05:34,000 --> 00:05:37,000
+it's like a woman named Carol or something like that.
+
+79
+00:05:37,000 --> 00:05:41,000
+So, both of you here, you know, Carol is a long-time environmentalist.
+
+80
+00:05:41,000 --> 00:05:44,000
+She has always been concerned with animals and flowers.
+
+81
+00:05:44,000 --> 00:05:51,000
+When she was an undergraduate, she majored in environmental science, something like that.
+
+82
+00:05:51,000 --> 00:05:54,000
+But then, you both hear the same prompt, but then group one is told,
+
+83
+00:05:54,000 --> 00:05:56,000
+what's the probability that Carol is a banker?
+
+84
+00:05:56,000 --> 00:06:01,000
+And group two is asked, what's the probability that Carol is a banker who is active in environmental causes?
+
+85
+00:06:01,000 --> 00:06:06,000
+And, bizarrely, the people who were just asked, probably she's a banker,
+
+86
+00:06:06,000 --> 00:06:08,000
+were like, no, no way it's Carol a banker.
+
+87
+00:06:08,000 --> 00:06:12,000
+But the people who were asked if she's a banker active in environmental causes,
+
+88
+00:06:12,000 --> 00:06:14,000
+were like, no, no, 20%.
+
+89
+00:06:14,000 --> 00:06:18,000
+It's like 1% says she's a banker, 20% she's a banker active in environmental causes,
+
+90
+00:06:18,000 --> 00:06:22,000
+which, basic probability is absolutely absurd, that can't be.
+
+91
+00:06:22,000 --> 00:06:31,000
+Because, the worst case scenario is that if she's a banker, she's always active in environmental causes.
+
+92
+00:06:31,000 --> 00:06:35,000
+I'm not even, I'm not involved in that one.
+
+93
+00:06:35,000 --> 00:06:43,000
+In which case, if there's a 20% probability that she's a banker active in environmental causes,
+
+94
+00:06:43,000 --> 00:06:48,000
+the probability that she's a banker of some sort or other, must be greater than or equal to 20%, right?
+
+95
+00:06:48,000 --> 00:06:51,000
+So, this is a big issue in psychology.
+
+96
+00:06:51,000 --> 00:06:56,000
+Alright, now there's another formula, this one is one where a lot of people can kind of figure it out,
+
+97
+00:06:56,000 --> 00:06:59,000
+you don't need to know the formula to go do problems like this,
+
+98
+00:06:59,000 --> 00:07:01,000
+maybe a hard one you might need the formula.
+
+99
+00:07:01,000 --> 00:07:09,000
+There's another one that virtually no one can do without the formula, and this is called Bayes' Rule.
+
+100
+00:07:09,000 --> 00:07:15,000
+Alright, and this links the probability of A given B to the probability of B given A.
+
+101
+00:07:15,000 --> 00:07:22,000
+So what this says is that the probability of A given B is equal to the probability of B given A,
+
+102
+00:07:22,000 --> 00:07:28,000
+times the probability of A, all over the probability of B given A,
+
+103
+00:07:28,000 --> 00:07:35,000
+times the probability of A, plus the probability of B given not A,
+
+104
+00:07:35,000 --> 00:07:41,000
+the tilde means not in probability of mutation, times the probability of not A.
+
+105
+00:07:41,000 --> 00:07:44,000
+Now I'm sure this is instantly obvious to all of you,
+
+106
+00:07:44,000 --> 00:07:48,000
+and you never, you know, if you're the age of five you've been going around reciting this formula.
+
+107
+00:07:48,000 --> 00:07:52,000
+But anyway, this is the formula, right, and you have one example,
+
+108
+00:07:52,000 --> 00:07:55,000
+so I'm not going to prove it, but you want to look at one example of this.
+
+109
+00:07:55,000 --> 00:07:58,000
+So, you know, we just go and plug in for A and B,
+
+110
+00:07:58,000 --> 00:08:03,000
+that says the probability that a child saw a monster, given that he says he saw a monster,
+
+111
+00:08:03,000 --> 00:08:06,000
+is equal to the probability that he says he saw a monster if he did see a monster,
+
+112
+00:08:06,000 --> 00:08:09,000
+times probability of saw a monster, all divided by the probability saw a monster,
+
+113
+00:08:09,000 --> 00:08:15,000
+times the probability that he, you know, times the probability that he says he saw a monster if he saw a monster,
+
+114
+00:08:15,000 --> 00:08:18,000
+plus the probability that he say saw a monster if did not see a monster,
+
+115
+00:08:18,000 --> 00:08:20,000
+times the probability that he did not see a monster.
+
+116
+00:08:20,000 --> 00:08:24,000
+So, for example, if the probability that he says he saw a monster, if he did see a monster is one,
+
+117
+00:08:24,000 --> 00:08:27,360
+So if he sees a monster, he definitely can tell you.
+
+118
+00:08:27,360 --> 00:08:29,240
+And the probability he says he saw a monster
+
+119
+00:08:29,240 --> 00:08:30,740
+and he did not see a monster is 0.1.
+
+120
+00:08:30,740 --> 00:08:33,120
+So 10% chance the crowd is making an outrageous lie
+
+121
+00:08:33,120 --> 00:08:34,640
+to make a tension.
+
+122
+00:08:34,640 --> 00:08:37,160
+And the probability he saw a monster is, say, 1 in 10
+
+123
+00:08:37,160 --> 00:08:37,880
+million.
+
+124
+00:08:37,880 --> 00:08:39,720
+And the probability he didn't see a monster
+
+125
+00:08:39,720 --> 00:08:42,600
+is going to be, of course, 1 minus 1 in 10 million.
+
+126
+00:08:42,600 --> 00:08:44,880
+Then the conditional probability that he did, in fact,
+
+127
+00:08:44,880 --> 00:08:47,480
+see a monster and he says it is going to work out
+
+128
+00:08:47,480 --> 00:08:53,920
+to the 0.9999991 times to the negative 7.
+
+129
+00:08:53,920 --> 00:08:57,280
+So again, this has raised the probability.
+
+130
+00:08:57,280 --> 00:09:00,040
+Now, what's interesting about Bayesian's rule?
+
+131
+00:09:00,040 --> 00:09:01,580
+Bayesian's rule actually gives rise
+
+132
+00:09:01,580 --> 00:09:05,280
+to an entire philosophy of science called Bayesianism.
+
+133
+00:09:05,280 --> 00:09:06,560
+The Bayesian view of science.
+
+134
+00:09:06,560 --> 00:09:09,960
+And in fact, it gives rise to an entire view of epistemology
+
+135
+00:09:09,960 --> 00:09:13,560
+called Bayesian's view of epistemology.
+
+136
+00:09:13,560 --> 00:09:16,400
+And just thinking about it for science,
+
+137
+00:09:16,400 --> 00:09:18,480
+there's a natural framework for scientists
+
+138
+00:09:18,480 --> 00:09:20,760
+to relate hypotheses to evidence.
+
+139
+00:09:20,760 --> 00:09:22,680
+So there is a lingering idea that you
+
+140
+00:09:22,680 --> 00:09:24,960
+do a crucial experiment, and then this
+
+141
+00:09:24,960 --> 00:09:26,440
+either proves your theory is true
+
+142
+00:09:26,440 --> 00:09:29,680
+or proves your theory is false.
+
+143
+00:09:29,680 --> 00:09:32,000
+Now, has this ever happened in reality, ever,
+
+144
+00:09:32,000 --> 00:09:34,080
+in the history of science?
+
+145
+00:09:34,080 --> 00:09:34,920
+No.
+
+146
+00:09:34,920 --> 00:09:36,400
+No way.
+
+147
+00:09:36,400 --> 00:09:37,320
+So think about this.
+
+148
+00:09:37,320 --> 00:09:40,520
+Have you ever done an experiment in, say, high school chemistry
+
+149
+00:09:40,520 --> 00:09:42,000
+and you get the wrong answer?
+
+150
+00:09:42,000 --> 00:09:44,360
+And then the whole scientific community comes, oh my god,
+
+151
+00:09:44,360 --> 00:09:46,440
+a high school in Virginia.
+
+152
+00:09:46,440 --> 00:09:48,120
+The experiment was done disproving
+
+153
+00:09:48,120 --> 00:09:51,720
+the fundamental basis of relativity.
+
+154
+00:09:51,720 --> 00:09:53,040
+No.
+
+155
+00:09:53,040 --> 00:09:55,120
+So a minimum, if there's some questions
+
+156
+00:09:55,120 --> 00:09:57,840
+about the competence of the experimenter,
+
+157
+00:09:57,840 --> 00:09:59,800
+then some doubts will be raised.
+
+158
+00:09:59,800 --> 00:10:01,640
+And of course, there's always doubts
+
+159
+00:10:01,640 --> 00:10:03,360
+about the competence of the experimenter.
+
+160
+00:10:03,360 --> 00:10:07,800
+Even the very best person can screw up.
+
+161
+00:10:07,800 --> 00:10:09,880
+So even if the experiment's been done 10 times,
+
+162
+00:10:09,880 --> 00:10:12,600
+well, wait a second, who conducted this experiment?
+
+163
+00:10:12,600 --> 00:10:14,360
+Maybe there was some bias, or maybe there
+
+164
+00:10:14,360 --> 00:10:16,160
+was something else going on.
+
+165
+00:10:16,160 --> 00:10:17,640
+All these things.
+
+166
+00:10:17,640 --> 00:10:21,000
+So anyway, in general, if you let A be an hypothesis,
+
+167
+00:10:21,000 --> 00:10:24,280
+so A is an hypothesis of any kind,
+
+168
+00:10:24,280 --> 00:10:29,960
+and B is some evidence, B is some evidence of any kind,
+
+169
+00:10:29,960 --> 00:10:31,680
+then we can calculate the probability
+
+170
+00:10:31,680 --> 00:10:35,640
+that the hypothesis is true given the evidence.
+
+171
+00:10:35,640 --> 00:10:37,880
+So for example, the probability that the minimum wage
+
+172
+00:10:37,880 --> 00:10:41,040
+causes unemployment, given Karn and Kruger's famous study
+
+173
+00:10:41,040 --> 00:10:43,760
+on the minimum wage in New Jersey and Pennsylvania.
+
+174
+00:10:43,760 --> 00:10:45,960
+How many have heard of the famous Karn-Kruger study
+
+175
+00:10:45,960 --> 00:10:48,400
+in New York, Pennsylvania?
+
+176
+00:10:48,400 --> 00:10:51,160
+So when I was doing labor at Princeton,
+
+177
+00:10:51,160 --> 00:10:52,320
+I had to present the paper.
+
+178
+00:10:52,320 --> 00:10:54,320
+Yes, I was a Karn student, although I never saw him
+
+179
+00:10:54,320 --> 00:10:55,560
+talk about anything empirical.
+
+180
+00:10:55,560 --> 00:10:59,160
+He only did the theory for a class.
+
+181
+00:10:59,160 --> 00:11:01,320
+But anyway, so a famous study which
+
+182
+00:11:01,320 --> 00:11:04,320
+seemed to show that when New Jersey raised its minimum wage
+
+183
+00:11:04,320 --> 00:11:06,640
+and Pennsylvania didn't, that New Jersey's low-skilled
+
+184
+00:11:06,640 --> 00:11:10,120
+employment actually increased relative to Pennsylvania.
+
+185
+00:11:10,120 --> 00:11:12,960
+There's a bunch of complaints about the study.
+
+186
+00:11:12,960 --> 00:11:15,640
+Most of them seem to come from people who have not read
+
+187
+00:11:15,640 --> 00:11:18,280
+the study, because there's a bunch of complaints
+
+188
+00:11:18,280 --> 00:11:21,640
+where they do specifically address various concerns.
+
+189
+00:11:21,640 --> 00:11:22,520
+Is it a perfect study?
+
+190
+00:11:22,520 --> 00:11:23,520
+Of course not.
+
+191
+00:11:23,520 --> 00:11:26,960
+But a lot more careful than critics would have you believe.
+
+192
+00:11:26,960 --> 00:11:29,200
+So anyway, suppose that the probability
+
+193
+00:11:29,200 --> 00:11:31,400
+that we get these findings that the minimum wage does
+
+194
+00:11:31,400 --> 00:11:35,960
+cause unemployment is only going to be 0.3.
+
+195
+00:11:35,960 --> 00:11:37,560
+Right now, why?
+
+196
+00:11:37,560 --> 00:11:40,640
+So if, in fact, the usual view that minimum wage does
+
+197
+00:11:40,640 --> 00:11:43,840
+cause unemployment is true, why would we get these results?
+
+198
+00:11:43,840 --> 00:11:46,080
+Well, maybe our econometric results suck.
+
+199
+00:11:46,080 --> 00:11:47,480
+Maybe econometric methods suck.
+
+200
+00:11:47,480 --> 00:11:48,960
+Maybe the data sucks.
+
+201
+00:11:48,960 --> 00:11:51,800
+Maybe there's human fallibility.
+
+202
+00:11:51,800 --> 00:11:53,520
+In general, any time someone goes and does
+
+203
+00:11:53,520 --> 00:11:55,600
+an analysis of some horrible accident,
+
+204
+00:11:55,600 --> 00:11:59,600
+the most likely answer for what went wrong is human error.
+
+205
+00:11:59,600 --> 00:12:00,520
+Why the plane crashed?
+
+206
+00:12:00,520 --> 00:12:01,920
+Human error.
+
+207
+00:12:01,920 --> 00:12:02,920
+Why was the car crashed?
+
+208
+00:12:02,920 --> 00:12:03,720
+Human error.
+
+209
+00:12:03,720 --> 00:12:05,160
+Why was there a ship crash?
+
+210
+00:12:05,160 --> 00:12:06,880
+Human error.
+
+211
+00:12:06,880 --> 00:12:08,840
+So suppose that you would have a probability
+
+212
+00:12:08,840 --> 00:12:10,240
+that you would get the findings.
+
+213
+00:12:10,240 --> 00:12:13,080
+Go ahead and get the findings.
+
+214
+00:12:13,080 --> 00:12:16,760
+If minimum wage does cause unemployment,
+
+215
+00:12:16,760 --> 00:12:18,120
+suppose that's 0.3.
+
+216
+00:12:18,120 --> 00:12:19,840
+So still, it's less likely the chance,
+
+217
+00:12:19,840 --> 00:12:22,000
+but there's still a good chance that the methods just
+
+218
+00:12:22,000 --> 00:12:24,720
+aren't that good enough to actually give the right answer,
+
+219
+00:12:24,720 --> 00:12:27,400
+even when the theory's true.
+
+220
+00:12:27,400 --> 00:12:29,400
+And on the other hand, suppose the probability
+
+221
+00:12:29,400 --> 00:12:31,480
+that we'll get their findings, so the probability
+
+222
+00:12:31,480 --> 00:12:33,840
+that we'll get the findings if minimum wage does not
+
+223
+00:12:33,840 --> 00:12:38,680
+cause unemployment, does not cause unemployment,
+
+224
+00:12:38,680 --> 00:12:41,000
+suppose that equals 0.8.
+
+225
+00:12:41,000 --> 00:12:43,280
+This says that if, in fact, minimum wage doesn't
+
+226
+00:12:43,280 --> 00:12:46,200
+cause unemployment, there's an 80% chance we'll get.
+
+227
+00:12:46,200 --> 00:12:47,160
+These findings.
+
+228
+00:12:47,160 --> 00:12:50,000
+So that could be a probability.
+
+229
+00:12:50,000 --> 00:12:53,120
+And then, now we come up with a key thing,
+
+230
+00:12:53,120 --> 00:12:56,440
+which is if you knew nothing about the empirical literature,
+
+231
+00:12:56,440 --> 00:12:58,200
+and someone says, yeah, what do you
+
+232
+00:12:58,200 --> 00:13:00,440
+think the odds are that raising the price of asparagus
+
+233
+00:13:00,440 --> 00:13:03,520
+would reduce the amount of asparagus people buy?
+
+234
+00:13:03,520 --> 00:13:06,040
+Any product, so any random product.
+
+235
+00:13:06,040 --> 00:13:06,960
+What would you say?
+
+236
+00:13:06,960 --> 00:13:08,520
+What would your odds be?
+
+237
+00:13:08,520 --> 00:13:09,400
+I haven't seen any evidence.
+
+238
+00:13:09,400 --> 00:13:10,560
+I've never seen a single study.
+
+239
+00:13:10,560 --> 00:13:11,980
+But for all I know, there's never
+
+240
+00:13:11,980 --> 00:13:15,680
+been a single study about the demand for asparagus.
+
+241
+00:13:15,680 --> 00:13:19,000
+But still, it's a probability that, in this case,
+
+242
+00:13:19,000 --> 00:13:21,080
+minimum wage does cause unemployment
+
+243
+00:13:21,080 --> 00:13:23,160
+if you don't know anything else.
+
+244
+00:13:23,160 --> 00:13:28,720
+So I'm going to say, for me, that's like a 99% probability.
+
+245
+00:13:28,720 --> 00:13:30,880
+And that's just ideology.
+
+246
+00:13:30,880 --> 00:13:32,240
+Is it?
+
+247
+00:13:32,240 --> 00:13:34,880
+Is it or is it just a common sense point?
+
+248
+00:13:34,880 --> 00:13:37,400
+And one, by the way, that I'm happy to adhere to even
+
+249
+00:13:37,400 --> 00:13:40,520
+for cases where I wish it were true.
+
+250
+00:13:40,520 --> 00:13:42,880
+For example, what's my probability
+
+251
+00:13:42,880 --> 00:13:47,040
+that going and more harshly punishing illegal immigration
+
+252
+00:13:47,040 --> 00:13:49,840
+will reduce the amount of illegal immigration?
+
+253
+00:13:49,840 --> 00:13:51,000
+0.99.
+
+254
+00:13:51,000 --> 00:13:53,960
+And what's the probability you think that punishing drug users
+
+255
+00:13:53,960 --> 00:13:56,720
+more harshly will reduce drug consumption?
+
+256
+00:13:56,720 --> 00:13:58,640
+0.99.
+
+257
+00:13:58,640 --> 00:14:02,080
+So these are all things that I might not like to be true.
+
+258
+00:14:02,080 --> 00:14:06,400
+But nevertheless, it just seems highly implausible to me
+
+259
+00:14:06,400 --> 00:14:09,200
+that going and changing incentives in that way
+
+260
+00:14:09,200 --> 00:14:13,160
+would not have the obvious common sense effect.
+
+261
+00:14:13,160 --> 00:14:14,600
+So we got that.
+
+262
+00:14:14,600 --> 00:14:15,880
+0.99.
+
+263
+00:14:15,880 --> 00:14:17,400
+And then, of course, the probability
+
+264
+00:14:17,400 --> 00:14:21,720
+that minimum wage does not cause unemployment,
+
+265
+00:14:21,720 --> 00:14:23,520
+that's just going to be 0.01.
+
+266
+00:14:23,520 --> 00:14:24,960
+So notice, these two probabilities
+
+267
+00:14:24,960 --> 00:14:26,560
+don't have to sum to one.
+
+268
+00:14:26,560 --> 00:14:29,200
+In fact, it could be that you think
+
+269
+00:14:29,200 --> 00:14:31,000
+that the current career findings are highly
+
+270
+00:14:31,000 --> 00:14:32,760
+likely regardless of the facts.
+
+271
+00:14:32,760 --> 00:14:35,000
+For example, suppose you thought that they were hacks
+
+272
+00:14:35,000 --> 00:14:36,960
+and were falsifying the evidence.
+
+273
+00:14:36,960 --> 00:14:39,560
+In that case, I don't believe that.
+
+274
+00:14:39,560 --> 00:14:41,360
+I'm just hypothetic.
+
+275
+00:14:41,360 --> 00:14:43,120
+It seemed like fine work to me.
+
+276
+00:14:43,120 --> 00:14:45,400
+So anyway, suppose you believe that they
+
+277
+00:14:45,400 --> 00:14:47,640
+were going to say that they were getting their findings
+
+278
+00:14:47,640 --> 00:14:48,800
+regardless of the evidence.
+
+279
+00:14:48,800 --> 00:14:51,600
+Then you can have one and one, and that could sum to two.
+
+280
+00:14:51,600 --> 00:14:53,720
+Totally possible.
+
+281
+00:14:53,720 --> 00:14:55,600
+Or again, suppose that what do people
+
+282
+00:14:55,600 --> 00:14:57,760
+think would happen if I were doing the study?
+
+283
+00:14:57,760 --> 00:14:59,360
+Then they'd say, no way, Brian is
+
+284
+00:14:59,360 --> 00:15:01,000
+going to go and find the wrong results.
+
+285
+00:15:01,000 --> 00:15:05,200
+So it's going to sum to 0.01.
+
+286
+00:15:05,200 --> 00:15:06,560
+The two probabilities together.
+
+287
+00:15:06,560 --> 00:15:08,320
+So anyway, these don't have to sum to one.
+
+288
+00:15:08,320 --> 00:15:12,040
+They can sum to anything between 0 and 2.
+
+289
+00:15:12,040 --> 00:15:14,560
+But these ones logically do have to sum to one.
+
+290
+00:15:14,560 --> 00:15:17,400
+Probability something happens or doesn't happen.
+
+291
+00:15:17,400 --> 00:15:19,280
+Everything either happens or doesn't happen.
+
+292
+00:15:19,280 --> 00:15:22,160
+So that is certain.
+
+293
+00:15:22,160 --> 00:15:26,760
+So we go and plug these probabilities into a basis rule.
+
+294
+00:15:26,760 --> 00:15:29,440
+And then we get the conditional probability.
+
+295
+00:15:29,440 --> 00:15:32,120
+Given these, again, I'm saying conditional probability,
+
+296
+00:15:32,120 --> 00:15:34,880
+that the minimum wage causes unemployment
+
+297
+00:15:34,880 --> 00:15:38,320
+given their findings, is just going to be equal to 0.3 times
+
+298
+00:15:38,320 --> 00:15:45,560
+0.99 over 0.3 times 0.99 plus 0.8 times 0.01.
+
+299
+00:15:45,560 --> 00:15:49,440
+And that's going to be equal to 97.4%.
+
+300
+00:15:49,440 --> 00:15:52,240
+So in other words, we go and we do a study run by someone else,
+
+301
+00:15:52,240 --> 00:15:54,800
+some very careful guys, against the wrong result,
+
+302
+00:15:54,800 --> 00:15:57,600
+and we still say there's a 97.4% probability
+
+303
+00:15:57,600 --> 00:16:01,080
+that minimum wage does have the expected effect.
+
+304
+00:16:01,080 --> 00:16:03,080
+How is it that we're able to get this result?
+
+305
+00:16:03,080 --> 00:16:06,160
+Well, because we start out very confident in this,
+
+306
+00:16:06,160 --> 00:16:07,240
+if you're like me.
+
+307
+00:16:07,240 --> 00:16:10,120
+Of course, you might have a totally different probability.
+
+308
+00:16:10,120 --> 00:16:12,480
+And from being a CART student, my impression
+
+309
+00:16:12,480 --> 00:16:16,440
+is his probability for that is 0.5.
+
+310
+00:16:16,440 --> 00:16:19,360
+So he's just like, I'm just totally open-minded to anything.
+
+311
+00:16:19,360 --> 00:16:21,400
+Anything can happen.
+
+312
+00:16:21,400 --> 00:16:24,200
+I always have a little puzzle when people say, really?
+
+313
+00:16:24,200 --> 00:16:26,840
+So when you talk to people about what
+
+314
+00:16:26,840 --> 00:16:29,480
+will happen if you start cracking down more on late
+
+315
+00:16:29,480 --> 00:16:31,000
+homework, you're like, 50% chance it
+
+316
+00:16:31,000 --> 00:16:33,600
+leads to more late homework, 50% chance it leads to less late
+
+317
+00:16:33,600 --> 00:16:34,200
+homework.
+
+318
+00:16:34,200 --> 00:16:35,440
+Who knows?
+
+319
+00:16:35,440 --> 00:16:39,080
+Until we do empirical study, anything can happen.
+
+320
+00:16:39,080 --> 00:16:41,000
+I'm a little puzzled by people with that.
+
+321
+00:16:41,000 --> 00:16:44,440
+I'm like, you can't really be that open-minded, can you?
+
+322
+00:16:44,440 --> 00:16:46,280
+Nor should you be.
+
+323
+00:16:46,280 --> 00:16:47,840
+Your brain is falling out of your head
+
+324
+00:16:47,840 --> 00:16:49,360
+if you're that open-minded.
+
+325
+00:16:49,360 --> 00:16:52,840
+But anyway, now notice that after the CART group
+
+326
+00:16:52,840 --> 00:16:56,600
+was studied, I am less confident than I was initially.
+
+327
+00:16:56,600 --> 00:17:00,000
+Initially, like, 99% chance that the usual standard textbook
+
+328
+00:17:00,000 --> 00:17:01,000
+for you is right.
+
+329
+00:17:01,000 --> 00:17:03,760
+Now I'm down to 97.4.
+
+330
+00:17:03,760 --> 00:17:06,160
+So I have had my confidence reduced.
+
+331
+00:17:06,160 --> 00:17:09,040
+But given that I thought it was very likely to begin with
+
+332
+00:17:09,040 --> 00:17:12,000
+and that I didn't put that much trust in the methods anyway,
+
+333
+00:17:12,000 --> 00:17:16,000
+then it's not so surprising that I didn't update very much.
+
+334
+00:17:16,000 --> 00:17:19,240
+Anyway, general good rule for reading empirical work
+
+335
+00:17:19,240 --> 00:17:21,760
+is before you actually get to the section where
+
+336
+00:17:21,760 --> 00:17:24,320
+they give you the answer, just to honestly say,
+
+337
+00:17:24,320 --> 00:17:26,600
+well, if the result comes out the wrong way,
+
+338
+00:17:26,600 --> 00:17:28,560
+would I put much credence in it?
+
+339
+00:17:28,560 --> 00:17:31,200
+If your answer is no, you also shouldn't put much credence
+
+340
+00:17:31,200 --> 00:17:34,040
+in it if it comes out the right way.
+
+341
+00:17:34,040 --> 00:17:36,360
+So before you approach, you just say, look,
+
+342
+00:17:36,360 --> 00:17:37,520
+this is a really hard issue.
+
+343
+00:17:37,520 --> 00:17:39,640
+And I greatly doubt that anyone could
+
+344
+00:17:39,640 --> 00:17:42,520
+write a paper that was very good on this topic.
+
+345
+00:17:42,520 --> 00:17:44,520
+That means that at the end of the paper,
+
+346
+00:17:44,520 --> 00:17:47,440
+you should not be going and saying, oh, it was so great.
+
+347
+00:17:47,440 --> 00:17:49,120
+Because it had the right answer.
+
+348
+00:17:49,120 --> 00:17:51,080
+That's what we call circular reasoning.
+
+349
+00:17:51,080 --> 00:17:52,040
+And it's bad.
+
+350
+00:17:52,040 --> 00:17:54,440
+OK?
+
+351
+00:17:54,440 --> 00:17:59,040
+All right, so questions about Mace's rule?
+
+352
+00:17:59,040 --> 00:18:04,560
+Now, I'll say that there's very little doubt that most people
+
+353
+00:18:04,560 --> 00:18:06,480
+are ignorant of this formula.
+
+354
+00:18:06,480 --> 00:18:08,480
+The question is not, do people know the formula,
+
+355
+00:18:08,480 --> 00:18:11,080
+but do they act like they know the formula?
+
+356
+00:18:11,080 --> 00:18:13,440
+At least, are there some signs that they
+
+357
+00:18:13,440 --> 00:18:15,040
+are in the ballpark of this formula?
+
+358
+00:18:15,040 --> 00:18:16,200
+That doesn't look so bad.
+
+359
+00:18:16,200 --> 00:18:18,640
+So for example, people generally run away
+
+360
+00:18:18,640 --> 00:18:22,240
+when they appear to see a large fire.
+
+361
+00:18:22,240 --> 00:18:22,840
+And why?
+
+362
+00:18:22,840 --> 00:18:26,400
+Well, initial probability that there is a fire,
+
+363
+00:18:26,400 --> 00:18:29,080
+given that there seems to be a large fire, pretty good, right?
+
+364
+00:18:29,080 --> 00:18:31,000
+Where there's smoke, there's fire.
+
+365
+00:18:31,000 --> 00:18:34,680
+Of course, it could be all elaborately staged hoax.
+
+366
+00:18:34,680 --> 00:18:36,560
+But probably not.
+
+367
+00:18:36,560 --> 00:18:38,120
+Or here's another fun one.
+
+368
+00:18:38,120 --> 00:18:41,960
+I assume most of you in the room meet reports of alien
+
+369
+00:18:41,960 --> 00:18:44,040
+abduction with skepticism.
+
+370
+00:18:44,040 --> 00:18:45,120
+I do.
+
+371
+00:18:45,120 --> 00:18:47,600
+All right, so if you don't, then this isn't a good example.
+
+372
+00:18:47,600 --> 00:18:51,160
+But if someone just says, I was abducted by aliens last night,
+
+373
+00:18:51,160 --> 00:18:54,040
+if your reaction is, well, I mean, he said it.
+
+374
+00:18:54,040 --> 00:18:54,800
+Why would he lie?
+
+375
+00:18:54,800 --> 00:18:56,080
+I guess he was abducted.
+
+376
+00:18:56,080 --> 00:19:00,000
+Or you're like, I don't know, 50-50 that it happened.
+
+377
+00:19:00,000 --> 00:19:01,840
+If that's your reaction, then maybe you're
+
+378
+00:19:01,840 --> 00:19:03,280
+not so consistent with Bayes' rule.
+
+379
+00:19:03,280 --> 00:19:08,560
+On the other hand, if your reaction is, oh, come on.
+
+380
+00:19:08,560 --> 00:19:10,400
+Really, there's aliens?
+
+381
+00:19:10,400 --> 00:19:12,960
+This seems very suspicious.
+
+382
+00:19:12,960 --> 00:19:15,400
+Anyone ever seen, there's a great infographic
+
+383
+00:19:15,400 --> 00:19:24,640
+showing the amount of evidence of alien abduction
+
+384
+00:19:24,640 --> 00:19:29,360
+as a function of camera phone ownership in the population?
+
+385
+00:19:29,360 --> 00:19:31,400
+And strangely, the number of reports
+
+386
+00:19:31,400 --> 00:19:33,240
+don't seem to change much as camera phones
+
+387
+00:19:33,240 --> 00:19:36,040
+have become ubiquitous.
+
+388
+00:19:36,040 --> 00:19:37,360
+That's pretty odd.
+
+389
+00:19:37,360 --> 00:19:39,240
+Now again, of course, you always try to say the theory
+
+390
+00:19:39,240 --> 00:19:40,600
+is that, well, the aliens aren't going to come now.
+
+391
+00:19:40,600 --> 00:19:42,120
+There's camera phones.
+
+392
+00:19:42,120 --> 00:19:46,280
+They were making up their anti-camera phone technology.
+
+393
+00:19:46,280 --> 00:19:49,000
+So you can always try to say the hypothesis that way.
+
+394
+00:19:49,000 --> 00:19:52,400
+But still, there's something pretty odd about it.
+
+395
+00:19:52,400 --> 00:19:54,560
+My brother does believe in Bigfoot and mermaids.
+
+396
+00:19:54,560 --> 00:20:10,400
+So he was never that into this.
+
+

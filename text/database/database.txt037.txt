@@ -1,0 +1,15 @@
+1.  " The assumptions of the Arrow -Debreu model are sufficient but not necessary conditions for 
+the efficiency of laissez -faire."  
+ 
+Discuss this statement, using two specific examples from game theory to 
+illustrate your point.   
+ 
+Arrow -Debreu  assumes that firms have no control over prices.  But in the Bertrand oligopoly 
+game, firms set prices, but can still reach the first -best outcome where P=MC.  Similarly, in the 
+Ultimatum game, there  are no enforceable trades at all, and yet the game theoretic prediction 
+($.01 for you, rest for me) is perfectly efficient.   In both cases, then, laissez -faire is fully efficient 
+even though the A -D assumptions do not hold.  
+ 
+Other good examples some stude nts used: repeated play (including reputation), coordination 
+games.  
+ 

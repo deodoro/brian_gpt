@@ -1,0 +1,8 @@
+7.  True, False, and Explain:  If the players play the Hawk -Dove game first , 
+and the Ultimatum game second, exactly two SGPPSNE exist.  
+ 
+TRUE.  In the last turn, it is only subgame perfect for  Player 1 to offer 0 and keep 10 for him self, 
+and Player 2 to accept.  But there are two PSNE in the first turn: (Dove, Hawk) and (Hawk, Dove).  
+So for the whole game, there are two SGPPSNE: (Dove, Hawk, 0, Accept) and (Hawk, Dove, 0, 
+Accept).   
+ 

@@ -1,0 +1,18 @@
+1.  Democratic governments are often lobbied to extend mo nopoly protection to 
+various firms.  Carefully analyze and diagram  the full Kaldor -Hicks efficiency 
+consequences (allocative, productive, lobbying) of this practice if (a) productive 
+efficiency and lobbying ability are perfectly correlated (i.e., the lowes t-cost firm 
+always defeats higher -cost rivals in political battles if they spend the same 
+amount), and (b) productive efficiency and lobbying abilities are imperfectly 
+correlated.  
+ 
+In case (a), there will be allocative and lobbying inefficiency, but no pro ductive inefficiency.  That is 
+because the most productively efficient firms wins every time.  In contrast, in case (b), there is a 
+probability of productive inefficiency in addition to allocative and lobbying inefficiency, because the 
+higher -cost firm mig ht win the lobbying contest.  It is also worth noting that a more productively 
+efficient firm will always be willing to pay more to get a monopoly privilege because the lower your 
+costs, the greater the monopoly profits the privilege enables you to earn.  With unequal costs, you 
+will not necessarily see full rent dissipation, especially in case (a).  There, the most productively 
+efficient firm only needs to spend an amount greater than the monopoly profits the second most -
+efficient firm could earn if it won  the privilege.  
+

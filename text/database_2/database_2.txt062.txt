@@ -1,0 +1,18 @@
+2. Suppose that two players play the following game twice. 
+ 
+ 
+Left
+Right
+Left
+1,5
+0,0
+Right
+0,0
+5,1
+ 
+True, False, and Explain: What Kreps calls "cheap talk" cannot improve the efficiency of this game if both players engage in backwards induction.
+ 
+False. *pg. 388 & 403. Cheap talk is communicating by one or both sides that is costless but which nonetheless might be useful in coordinating actions. There are two NE (1,5; 5,1). If the two players engage in backwards induction, cheap talk can improve the efficiency of the game. There is no benefit from defecting in a coordination game. 
+
+
+

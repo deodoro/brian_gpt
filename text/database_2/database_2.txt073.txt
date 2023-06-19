@@ -1,0 +1,11 @@
+3. Consider a simple game-theoretic model of bargaining.
+ 
+True, False, and Explain: With fully rational agents, one MSNE and no PSNE exist. With imperfectly rational agents (or at least some uncertainty about whether other players are fully rational), there is one MSNE and two PSNE.
+ 
+False. There are two PSNE (1,5; 5,1) and one MSNE (0.5,0.5) with fully rational agents. *Week 6 Notes, V
+
+
+Nathan--would you know how to address this part of the question: " With imperfectly rational agents (or at least some uncertainty about whether other players are fully rational), there is one MSNE and two PSNE."?
+
+It seems pretty clear that the answer is that you don't need to introduce any imperfections in rationality to get one MSNE and two PSNE. There are already two PSNE even with standard assumptions of rationality.
+

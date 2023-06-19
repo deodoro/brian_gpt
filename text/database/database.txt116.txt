@@ -1,0 +1,26 @@
+3. “Free market economists typically express confidence in the ability of markets to produce 
+public goods... At the same time, free market economists tend to be pessimistic about the stability 
+of cartels in an unregulated market.   If markets successfully produce local public goods, however, 
+why are stable cartels not more prevalent?” (Cowen and Sutter 1999)  
+ 
+Explain Cowen and Sutter’s  argument using basic game theory.  Does it make 
+sense in the real world?  Why or why not?  
+ 
+Their argument is that producing public goods and maintaining cartels are both Prisoners’ 
+Dilemmas.  (In fact, you could say that “maintaining the cartel” is a public good from the point of 
+view of the participating firms).  While is in the collective interest o f mem bers to cooperate, it is in 
+their individual interests to defect.  
+ 
+The argument makes some  sense in the real world.  Private production of public goods and 
+stable, voluntary cartels are both rare.  H owever, there are some important differences.  Many 
+people get a “warm glow” from contributing to public goods production – showing a little altruism 
+makes them feel like better people.  It’s a lot harder for cartels to appeal to members’ altruism.  
+Unions  are a good exception – and it’s interesting to note that unions often enroll a few percent of 
+the workforce even without government help.  Another point worth mentioning: The short -run 
+gains from undercutting a cartel are much larger than the short -run ga ins of refusing to contribute 
+to a public good.  The firm that cheats on a cartel can steal the whole market; the donor who 
+cheats on a voluntary public good just saves his donation.  
+ 
+ 
+ 
+ 

@@ -1,0 +1,8 @@
+3. True, False, and Explain:  The Ultimatum Game can be solved using strict 
+dominance.  
+
+FALSE.  It can be solved using  weak  dominance.  Always accepting is a weakly dominant strategy 
+for the recipient.  But it is not strictly dominant because accepting 0 and rejecting 0 yields the 
+same outcome.  
+ 
+ 

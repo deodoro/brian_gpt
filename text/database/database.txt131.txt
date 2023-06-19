@@ -1,0 +1,11 @@
+2. True, False, and E xplain:   This game has one PSNE if the players play 
+sequentially, but three PSNE if the players play simultaneously.  
+
+FALSE.  For the simultaneous game, (Comics, Comics, Comics), (Chess, Chess, Chess), and 
+(Opera, Opera, Opera) are all PSNE equilibria.  Bu t so is every situation where each players plays 
+a different  strategy: e.g. (Comics, Chess, Opera).  This gives everyone zero payoffs, but no 
+individual can increase his payoff by switching.  For the sequential game , there is only one 
+subgame perfect  PSNE,  where the first mover picks the strategy that he most prefers everyone to 
+play – Comics for Bryan, Chess for Tyler or John.  But every PSNE in the simultaneous game 
+remains a PSNE in the sequential game.  
+ 

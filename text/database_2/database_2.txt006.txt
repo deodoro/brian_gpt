@@ -1,0 +1,12 @@
+6. In a "market for lemons," the true value of cars to sellers is uniformly distributed on the interval [0,100]. Buyers value cars at 25% more than sellers. Now suppose that buyers in this market do NOT have rational expectations, but sellers do. To be specific, buyers believe the quality of the average car available for sale is as high as the quality of the average car not available for sale.
+ 
+True, False, and Explain: This market with asymmetric information and irrational expectations is as efficient as a comparable market with symmetric information and rational expectations.
+
+See 2009 final
+
+False. In theory, irrationality could increase or decrease market efficiency; in practice, experiments show that irrationality makes the "market for lemons" less efficient. 
+
+This market with asymmetric information and irrational expectations is not as efficient as market with symmetric information and rational expectations, but it is more efficient than a market with asymmetric info and rational expectations (this market "unravels").
+
+True. We argue that both markets will clear. The first one, where irrationality exists, will clear but with a transfer to sellers. The second market, where there is symmetric imperfect information, will clear fairly easily.[5]
+

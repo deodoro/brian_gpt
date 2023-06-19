@@ -1,0 +1,6 @@
+11. True, False, and Explain: A standard neoclassical agent with diminishing marginal utility of wealth and access to perfect capital markets will always have a constant level of consumption.
+
+A standard neoclassical agent will smooth consumption and conform to the permanent income hypothesis. One objection that might be raised is that sometimes an individual will receive windfall or unexpected gains, altering their permanent income. But assuming the individual has rational expectations, the deviations in income from their expectations will not be systematically biased upward or downward[16].  
+False. Under those assumptions, we can expect the agent to have a constant level of consumption. However, we cannot expect the agent to ALWAYS have a constant level of consumption. The agent will have a constant level of consumption plus or minus a random term. The agent will update expectations for permanent income in each period. In the limit, we can expect these changes in expectation to be equally distributed around zero, but we cannot expect this in each period.
+
+

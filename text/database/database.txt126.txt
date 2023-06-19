@@ -1,0 +1,16 @@
+2.  Modify the Hawk/Dove game to explain why  in the real world  – unlike Thomas 
+Hobbes ’ Leviathan  – two shipwrecked people are unlike ly to try to murder each 
+other.  Carefully explain why your model is a good  description of the choices and 
+payoffs that human beings  would actually  face in this situation.  
+ 
+The simplest way to modify the Hawk/Dove game is to change the payoffs.  In the real world, 
+(Dove, Dove) is usually more profitable for both parties than (Haw k, Dove) or (Dove,  Hawk).  
+Unilateral aggression could easily lead to the breakdown of trust and cooperation, and require 
+frequent, costly monitoring.  And d epending on how “dovish” Dove is, unilateral aggression might 
+even result in some costly injuries f or the aggressor as well as the victim.  As a result, Dove 
+becomes a strictly dominant strategy.  
+ 
+You could simply keep the usual  Hawk/Dove payoffs and model the situation as a repeated game, 
+but then you’d have to explain why repeat ed play seems likely to  lead to cooperation rather than a 
+struggle for dominance.   Focal points, perhaps?  
+ 

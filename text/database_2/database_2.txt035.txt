@@ -1,0 +1,12 @@
+3. Suppose you have a 2-player version of the voluntary donation game from the notes, with one difference: Each agent cares somewhat about the other, so player one maximizes U1=c1D+.7*c2D, and player two maximizes U2=c2D+.7*c1D. 
+
+True, False, and Explain: In symmetric Nash equilibrium, c1=c2>4/7.
+
+U1=c1D+.7c2D
+=(c1+.7c2)D
+=(c1+.7c2)(1-c1+1-c2)
+=(c1+.7c2)(2-c1-c2)
+?U1/?c1=(2-c1-c2)-(c1+.7c2)=0
+2c1=2-.3c2
+c1=1-.15c2=1-.15(1-.15c1) because c2 is symmetric with c1
+c1=1-.15-.0225c1

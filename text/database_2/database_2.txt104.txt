@@ -1,0 +1,5 @@
+4.  True, False, and Explain:  Efficiency wages cease to encourage work effort if all employers pay efficiency wages. 
+
+False. Employees will still have the incentive to work hard, as finding a new job if you are fired becomes more difficult. The higher wage across the entire industry means that finding a job will be more difficult, as your marginal productivity must now be higher to secure a job when the wage is above the market clearing level. The higher wage will also induce more people to enter the labor market, creating a larger surplus of labor, making finding a job more competitive.
+
+ 

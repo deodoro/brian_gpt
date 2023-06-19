@@ -1,0 +1,10 @@
+8.  True, False, and Explain:   In a market with perfectly selfish consumers 
+and producers, the existence of a public good implies both allocative and 
+productive inefficiency.  
+ 
+FALSE.  A public good implies that market output is roughly zero, so there will be  no productive 
+inefficiency.  However, there will be massive allocative efficiency – all the area between the SB 
+curve and the cost curve disappears.  When a good is not produced at all, the effective price is 
+infinite, so P>>MC.  
+ 
+ 

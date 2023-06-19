@@ -1,0 +1,11 @@
+5.  "The initial attempt to believe is an automatic operation of System 1, which involves the construction of the best possible interpretation of the situation." (Kahneman, Thinking, Fast and Slow) (p. 81)
+ 
+True, False, and Explain:  This model of belief formation implies that lies are persuasive because people are usually telling the truth. 
+
+
+False. Here is the quote with context (pg. 81):
+
+"Gilbert proposed that understanding a statement must begin with an attempt to believe it: you must first know what the idea would mean if it were true. Only then can you decide whether or not to unbelieve it. The initial attempt to believe is an automatic operation of System 1, which involves a construction of the best possible interpretation of the situation. Even a nonsensical statement, Gilbert argues, will evoke initial belief."
+
+False, this model doesn't rely on an assumption that people are usually truthful; rather, it relies on testing the implications of the statement in order to determine its validity. Kahneman says that System 1 accepts the statement as true so that System 2 can evaluate how its implications match reality.
+

@@ -1,0 +1,15 @@
+2. “[I]t seems that the basic textbook commentary on bilateral monopoly and bargaining had it 
+right.” (Kreps, A Course in Microeconomic Theory )  Carefully explain (a) what Kreps is 
+claiming here, and (b) why he claims it.  Does a MS NE view of bargaining lead to 
+a different conclusion?  
+ 
+Kreps is claiming that, according to standard textbook treatments, “bargaining outcomes depend 
+on individual’s expectations as to what the outcomes should be”; furthermore, such expectations 
+can be “ma nipulated.”  He claims this because experiments show precisely this: Playing 
+bargaining games with computers that demand 20% of the surplus subsequently leads human 
+beings to bargain harder with other humans than playing bargaining games with computers tha t 
+demand 50% of the surplus.  The MSNE view leads to a somewhat different conclusion: While 
+expectations do matter, some expectations are not stable .  In particular, if people expect too 
+much, lowering your expectations leads to higher payoffs – and if peo ple expect too little, raising 
+expectations leads to higher payoffs.  
+ 

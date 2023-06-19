@@ -1,0 +1,15 @@
+7.  Suppose that two  firms flip a coin, then play a contestable monopoly game 
+with sunk  costs.  
+ 
+True, False, and Explain:  The coin flip allows the firms to raise their 
+expected profits, even though the set of equilibria in the contestable 
+monopoly game does not change.  
+ 
+TRUE.   With or without the coin flip, this game has a MSNE where expected profits are zero, and 
+two PSNE where one firm earns monopoly profits and the other earns nothing.  However, if firms 
+play simultaneously, neither of the PSNE is focal.  Flipping the coin creates a focal point: If the 
+coin says heads, then firm 1 plays In and firm 2 plays out; if the coin says tails, the reverse 
+happens.  This doesn’t change the set of equilibria, but it does make it easier for firms to reach 
+the profitable equilibria.  
+ 
+ 

@@ -1,0 +1,8 @@
+7. "Most things in life don't turn out as well as you thought they would. While psychologists, poets, and philosophers have often remarked on this phenomenon, few have recognized that it is a necessary consequence of informed, rational decision making." (Landsburg, The Armchair Economist)
+ 
+True, False, and Explain: If by "rational," Landsburg means "rational expectations," his last statement is incorrect.
+ 
+*Chap. 18, first paragraph on pg. 224 (My pagination has it on page 174)
+
+False. The fact that most things in life don't turn out as well as you thought they would is still consistent with rational expectations. Rational expectations does not mean that you will be correct all the time--instead, your judgments are unbiased. Your mean error will be zero, but there is variance about this mean due to differing levels of information held by individuals. This "problem" is compounded when selecting things that you like--one is likely to select the objects that they think are among the best, which are also the most likely to disappoint (your errors will tend to be overestimates rather than underestimates.) 
+

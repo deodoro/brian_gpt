@@ -1,0 +1,10 @@
+9. A critic of behavioral economics runs the following experiment. Half of the subjects guess the populations of twenty countries. The remaining subjects try to list as many people as they can from each of the twenty countries. The true populations of these countries are known to the experimenter.
+ 
+True, False, and Explain: This data can be used to test for availability bias.
+
+False? A better test for availability bias would have the subjects guess the populations of 
+countries they are most knowledgeable about. The participant should have a high correlation between their knowledge of the country and the value of the estimated population.[15]
+This test asks about number of people who can be named, but a key thing for the availability heuristic is ease and fluency of recall. If people can name lots of people but find it very difficult, availability bias might make them less likely to see the population as large, rather than more. Number of names and ease of naming must be correlated for this to be an effective test.
+ 
+Scott: I think that another important aspect is that you need to have the group who were asked to name as many people from a country as they could be the ones who estimate the population. Alex and I are disagreeing if this "priming" effect is an example of the availability heuristic. I think there is evidence of this on page 132 of Thinking Fast and Slow. We should talk about this as a group tomorrow.
+

@@ -1,0 +1,8 @@
+3. True, False, and Explain:   In an U ltimatum game, a 50/50 split is the only 
+SGPPSNE ; in a Dictator game, a 100/0 split is the only SGPPSNE.  
+ 
+FALSE.  In an Ultimatum game, a 100 -ε/ε split is the only SGPPSNE; as long a s the giver offers 
+more than 0, the receiver has an incentive to accept, so the giver offers as little as possible.  
+(There are an infinite number of PSNE, but only one is SGP).  In the Dictator game, a 100/0 split 
+is the only SGPPSNE, because there’s no r eason for the giver to share anything.  
+

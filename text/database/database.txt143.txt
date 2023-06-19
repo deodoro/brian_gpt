@@ -1,0 +1,32 @@
+5.  Consider an infinitely repeated Bertrand game with N equally productively 
+efficient firms  with constant MC and 0 fixed cost .  The firms want to collude.  
+Their system: each period,  the cartel  randomly  pick s one firm (1/N cha nce per 
+firm) to charge the monopoly price.  All the other firms charge the monopoly price 
++ $0.01.   The firms enforce this agreement with trigger strategies.  
+ 
+True, False, and Explain:   Since all firms expect a 1/Nth share of the 
+monopoly, this equilibriu m is sustainable as long as 
+NN 1 . 
+FALSE.  In any period, a firm that is NOT supposed to charge the monopoly price earns 0 if it 
+sticks to the plan, but earns 
+m  if it deviates  by charging $.01 less than the monopoly price .  The 
+expected value of future profits for subsequent periods are 
+
+
+1tmt
+N , because each firm has a 
+1-in-N chance of getting to charge the monopoly price and reaping the monopoly profits  in each 
+period .  To sustain collusion, then, we need:  
+ 
+m
+tmt
+N
+1
+.  This simplifies to: 
+111
+N , implying 
+1NN .   
+ 
+Collusion is harder to sustain in this scenario than when colluding firms evenly divide the 
+monopoly profits every period.  
+ 

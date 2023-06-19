@@ -1,0 +1,10 @@
+1. Agents are endowed with 2 units of good 1 and 1 unit of good 2.  There are two types of agents:
+ 
+Type A:  One-third of the agents have U=ln c1 + 2 ln c2.  
+ 
+Type B:  The other two-thirds have U=ln c1 + ln c2
+ 
+True, False, and Explain: The price of good 2 will be at least 50% higher than the price of good 1.
+
+This is a plug-and-chug general equilibrium. Make sure you have an example in your notes, but this one is pretty rote.
+

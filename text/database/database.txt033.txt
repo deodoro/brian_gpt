@@ -1,0 +1,18 @@
+6.  True, False, and Explain:  If the game is repeated  twice , β=1,  and players 
+get to flip a coin after turn 1, there is no NE where players play (Dove, 
+Dove) in turn 1.  
+
+FALSE.  I propose the following NE.  We both play Dove in turn 1.  If we keep this agreement, 
+then in turn 2 we play (Dove, Hawk) if the coin said Heads, and (Hawk, Dove) if the coin said 
+Tails.  But if player 1 plays Hawk in turn 1, then in turn 2 we play (Dove, Hawk) reg ardless of the 
+coin toss, and if  player 2 plays Hawk in turn 1, then in turn 2 we play (Hawk, Dove) regardless of 
+the coin toss.  The payoff from playing this strategy is 3+.5*5=5.5, which exceeds the payoff from 
+cheating, which would be 5+0=5.  
+ 
+Incidentally, you could sustain cooperation even without a coin flip.  Just do the MSNE in turn two 
+if both players played Dove in turn 1.  But if player 1 plays Hawk in turn 1, then in turn 2 we play 
+(Dove, Hawk), and if player 2 plays Hawk in turn 1, then in turn 2 we play (Hawk, Dove).  Since 
+both players play Hawk with p=1/6 in the MSNE, the expected MSNE payoff is once again:  
+ 
+1/36* -10+5/ 36*5+5/36*0+25/36*3=2.5.  
+ 

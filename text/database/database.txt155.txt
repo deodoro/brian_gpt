@@ -1,0 +1,16 @@
+1. Why doesn’t the First Welfare Theorem imply that market outcomes are 
+Pareto efficient even in the presence of externalities?  Why does Caplan claim 
+that, the First Welfare Theorem notwithstanding, real -world market outcomes are  
+Pareto efficient in the pres ence of externalities?  
+ 
+The no -externalities assumption is implicit in the assumption that Utility Ui(x) solely  depends on all 
+K commodities  in YOUR consumption bundle .  This means that no consumers’ consumption 
+affects any OTHER consumer’s utility .  With externalities, this assumption is false, so the FWT 
+need not hold.  
+ 
+Caplan claims that real -world outcomes are Pareto efficient because (a) any change is almost 
+certain to make SOMEONE worse off, and (b) there is no feasible way to compensate 100% of 
+the l osers for any realistic change.  As a result, there is no actual way to make one person better 
+off without  making someone else worse off.  As a result, the world is Pareto efficient with or 
+without externalities.  
+

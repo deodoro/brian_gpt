@@ -1,0 +1,8 @@
+10. More educated workers tend to enjoy their work more and are less likely to be unemployed. 
+ 
+True, False, and Explain: BOTH of these factors bias standard estimates of the return to education downwards.
+
+False. Standard estimates of the return to education only concern wages. Omitting utility of work biases the estimate upward -- the true estimate of education and income should be lower[6][7]. More educated workers are less likely to be unemployed, which means they're more likely to earn more income over their lifetime. 
+
+
+

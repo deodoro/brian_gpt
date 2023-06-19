@@ -1,0 +1,11 @@
+7.  True, False, and Explain:   If firms have heterogeneous costs, the e quilibrium 
+in a one -shot Bertrand game will definitely be more allocatively efficient but may 
+be less productively efficient than a one -shot Cournot game.   
+ 
+FALSE.  The one -shot Bertrand game is always perfectly productively efficient, because the 
+lowest -cost producer(s) take over the whole market.  In Cournot, in contrast, productively 
+inefficient firms may survive.  Bertrand games have no allocative inefficiency if the two most 
+efficient firms are equally efficient, but if there is a big gap in costs it is possible that allocative 
+inefficiency will be more severe than in Cournot.  
+ 
+ 

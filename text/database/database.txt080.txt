@@ -1,0 +1,28 @@
+2.  N players are deciding whether to contribute to a public good.   The public 
+good  is discrete: it is produced at the optimal level so l ong as one  person 
+contributes.   If the public good is produced, everyone gets a benefit of 3  if they 
+didn't contribute, and 2 if they did.  If no one contributes, everyone gets  0.  Find 
+the MSNE.  When is the MSNE Kaldor -Hicks efficient?  
+  
+(Hint:  If p is the probability that one player contributes, the probability that no 
+other player  contributes equals 
+1) 1(Np , and the probability that at least one 
+other player  contributes is 
+1) 1( 1Np ). 
+ 
+If you contribute, then you get (3 -1)=2 for sure.  If you don't contribute, you get 3 if at least one 
+other player contributed, and 0 otherwise.  Therefore, by symmetry , each player is indifferent if:  
+ 
+2=0*
+1) 1(Np +3*(
+1) 1( 1Np ) 
+ 
+This implies indifference when 
+3/1 ) 1(1 Np , implying that 
+13/1 1Np . 
+ 
+The MSNE is efficient in all cases where one a nd only one player contributes.  
+ 
+Students who correctly solved the 2 -player version got substan tial partial credit.  
+
+ 

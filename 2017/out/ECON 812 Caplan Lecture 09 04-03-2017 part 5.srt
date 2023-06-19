@@ -1,0 +1,2125 @@
+1
+00:00:00,000 --> 00:00:02,800
+They're already there, they've gotten to know the child.
+
+2
+00:00:02,800 --> 00:00:04,520
+If you were to say, well, we could go and replace this
+
+3
+00:00:04,520 --> 00:00:06,720
+with another child who's better,
+
+4
+00:00:06,720 --> 00:00:09,160
+people normally respond very poorly.
+
+5
+00:00:10,440 --> 00:00:12,080
+Now, if the kid's an ax murderer,
+
+6
+00:00:12,080 --> 00:00:14,480
+then maybe there's an issue.
+
+7
+00:00:14,480 --> 00:00:17,660
+They're like, man, this kid is the worst.
+
+8
+00:00:17,660 --> 00:00:21,120
+But if it is just a totally normal kid,
+
+9
+00:00:21,120 --> 00:00:22,360
+no better than what you expect,
+
+10
+00:00:22,360 --> 00:00:24,960
+and you offer to replace it with a super kid,
+
+11
+00:00:24,960 --> 00:00:27,400
+normal human reaction is horror.
+
+12
+00:00:27,400 --> 00:00:28,840
+And to look at you like you,
+
+13
+00:00:28,840 --> 00:00:31,040
+like what kind of an inhuman monster are you,
+
+14
+00:00:31,040 --> 00:00:33,080
+you would suggest such a thing.
+
+15
+00:00:33,080 --> 00:00:35,640
+And certainly, no, if so,
+
+16
+00:00:35,640 --> 00:00:38,360
+in the ultimate tragic situation of someone losing a child,
+
+17
+00:00:38,360 --> 00:00:40,080
+if you were to say, well, it's really no different
+
+18
+00:00:40,080 --> 00:00:41,560
+than if you never had the child in the first place,
+
+19
+00:00:41,560 --> 00:00:42,540
+never say this.
+
+20
+00:00:42,540 --> 00:00:47,040
+This is because it doesn't feel that way
+
+21
+00:00:47,040 --> 00:00:48,160
+to any normal human.
+
+22
+00:00:49,440 --> 00:00:51,600
+Robin Hanson actually did bite the bullet and said,
+
+23
+00:00:51,600 --> 00:00:55,400
+yeah, I'd go and swap my kids out for improved models.
+
+24
+00:00:56,640 --> 00:00:58,800
+I didn't believe him, but.
+
+25
+00:00:58,800 --> 00:01:00,280
+So people are like, what if the existing one says,
+
+26
+00:01:00,280 --> 00:01:03,200
+please, daddy, don't go back in time
+
+27
+00:01:03,200 --> 00:01:06,720
+and replace me with another child, please, no.
+
+28
+00:01:06,720 --> 00:01:08,100
+I love you, daddy.
+
+29
+00:01:09,240 --> 00:01:11,160
+Feel like Robin would really bite the bullet,
+
+30
+00:01:11,160 --> 00:01:14,000
+but he's never been in that situation, so I don't know.
+
+31
+00:01:15,480 --> 00:01:20,480
+And notice, so something like 25%
+
+32
+00:01:20,480 --> 00:01:22,280
+of all pregnancies are unplanned.
+
+33
+00:01:23,600 --> 00:01:25,080
+So you have an unplanned pregnancy,
+
+34
+00:01:25,080 --> 00:01:27,160
+and a very common thing is for people to say,
+
+35
+00:01:27,160 --> 00:01:28,280
+well, we weren't planning on having a kid,
+
+36
+00:01:28,280 --> 00:01:29,960
+and we'll have a kid, but you know what?
+
+37
+00:01:29,960 --> 00:01:31,480
+We're gonna have a kid now.
+
+38
+00:01:31,480 --> 00:01:34,000
+And what is the normal way people feel about that kid
+
+39
+00:01:34,000 --> 00:01:36,720
+after they've had the kid for a few hours,
+
+40
+00:01:36,720 --> 00:01:38,300
+say certainly a few weeks?
+
+41
+00:01:39,400 --> 00:01:41,360
+Yes, we love him.
+
+42
+00:01:41,360 --> 00:01:43,720
+We love this child that we were desperately trying
+
+43
+00:01:43,720 --> 00:01:44,560
+to not have.
+
+44
+00:01:44,560 --> 00:01:49,360
+Because 10 short months ago, we were really trying
+
+45
+00:01:49,360 --> 00:01:52,360
+to not have anything remotely in this ballpark.
+
+46
+00:01:52,360 --> 00:01:54,560
+And now we have the child, and we love him,
+
+47
+00:01:54,560 --> 00:01:57,640
+and he's great, and he's fantastic in every way.
+
+48
+00:01:57,640 --> 00:02:00,600
+This is the best baby in the whole world.
+
+49
+00:02:00,600 --> 00:02:02,280
+All right, very normal human reaction.
+
+50
+00:02:02,280 --> 00:02:04,120
+And no, this is an important decision.
+
+51
+00:02:04,120 --> 00:02:06,420
+This is not just a small thing.
+
+52
+00:02:07,600 --> 00:02:09,960
+All right, now notice this has some interesting implications
+
+53
+00:02:09,960 --> 00:02:10,800
+of the Coase theorem.
+
+54
+00:02:10,800 --> 00:02:14,040
+So I know that Walter Williams said you read
+
+55
+00:02:14,040 --> 00:02:17,080
+Coase's original article, The Problem of Social Cost.
+
+56
+00:02:17,080 --> 00:02:19,440
+This does not invalidate the Coase theorem,
+
+57
+00:02:19,440 --> 00:02:22,160
+but it does mean that what people value
+
+58
+00:02:22,160 --> 00:02:23,960
+actually depends upon what they start with,
+
+59
+00:02:23,960 --> 00:02:25,920
+so which means that the initial assignment of rights
+
+60
+00:02:25,920 --> 00:02:27,920
+matters a lot more than it seems.
+
+61
+00:02:27,920 --> 00:02:31,480
+Because to, not entirely, but to some extent,
+
+62
+00:02:31,480 --> 00:02:35,840
+but there will be a large effect of who starts with what
+
+63
+00:02:35,840 --> 00:02:37,560
+on what finally happens.
+
+64
+00:02:37,560 --> 00:02:39,480
+So if the farmer is the one that has the right
+
+65
+00:02:39,480 --> 00:02:41,840
+to not be polluted on, and there's an endowment effect,
+
+66
+00:02:41,840 --> 00:02:44,580
+this will make him value not being polluted on more.
+
+67
+00:02:45,600 --> 00:02:48,600
+This changes his mind, changes the way that he feels,
+
+68
+00:02:48,600 --> 00:02:50,920
+and therefore, if you go and give it to the farmer
+
+69
+00:02:50,920 --> 00:02:52,800
+that says that even with zero transaction costs,
+
+70
+00:02:52,800 --> 00:02:53,920
+you would still see less pollution
+
+71
+00:02:53,920 --> 00:02:56,480
+and equilibrium because of this.
+
+72
+00:02:56,480 --> 00:02:59,840
+So, again, it doesn't mean the Coase theorem is wrong,
+
+73
+00:02:59,840 --> 00:03:02,360
+but it does mean that there is a deeper psychology going on,
+
+74
+00:03:02,360 --> 00:03:04,120
+and possibly this explains why the Coase theorem
+
+75
+00:03:04,120 --> 00:03:06,400
+is so counterintuitive to most people,
+
+76
+00:03:06,400 --> 00:03:09,160
+because most people feel the endowment effect
+
+77
+00:03:09,160 --> 00:03:10,280
+is there on some level, you know,
+
+78
+00:03:10,280 --> 00:03:11,840
+they can't really articulate it,
+
+79
+00:03:11,840 --> 00:03:13,760
+and then when you say it doesn't matter who gets it
+
+80
+00:03:13,760 --> 00:03:15,880
+and show them the logic, okay, I guess that's right,
+
+81
+00:03:15,880 --> 00:03:17,760
+but something's missing.
+
+82
+00:03:17,760 --> 00:03:20,520
+Maybe what's missing is that you're forgetting
+
+83
+00:03:20,520 --> 00:03:22,640
+that whoever starts the right actually
+
+84
+00:03:22,640 --> 00:03:25,960
+is going to care about it more, all else equal, of course,
+
+85
+00:03:25,960 --> 00:03:26,960
+although, you know, obviously,
+
+86
+00:03:26,960 --> 00:03:28,080
+if you go and give me the right
+
+87
+00:03:28,080 --> 00:03:31,440
+to some basketball trading cards or something,
+
+88
+00:03:31,440 --> 00:03:33,320
+I'm not gonna be interested, and then I'll sell them,
+
+89
+00:03:33,320 --> 00:03:35,600
+even though I'm probably a little bit more likely
+
+90
+00:03:35,600 --> 00:03:37,560
+to want to keep them than I am to buy them,
+
+91
+00:03:37,560 --> 00:03:38,800
+and I'm certainly not gonna buy them,
+
+92
+00:03:38,800 --> 00:03:40,080
+but there's some small chance I'd say,
+
+93
+00:03:40,080 --> 00:03:43,120
+I don't know, it's kinda cool, look at these things.
+
+94
+00:03:44,680 --> 00:03:46,840
+All right, now, of course, the standard way
+
+95
+00:03:46,840 --> 00:03:48,020
+of dealing with the endowment effect
+
+96
+00:03:48,020 --> 00:03:50,280
+is just to appeal to transactions costs.
+
+97
+00:03:50,280 --> 00:03:52,960
+In experiments, people generally have nothing else
+
+98
+00:03:52,960 --> 00:03:55,480
+to do with their time except trade something,
+
+99
+00:03:55,480 --> 00:03:57,000
+so if anything, you think there's a bias
+
+100
+00:03:57,000 --> 00:03:59,720
+in favor of making deals because otherwise,
+
+101
+00:03:59,720 --> 00:04:02,000
+you're sitting there bored, right,
+
+102
+00:04:02,000 --> 00:04:04,520
+just like if you're in, you're playing a board game,
+
+103
+00:04:04,520 --> 00:04:06,520
+and one thing you can do is trade,
+
+104
+00:04:06,520 --> 00:04:08,240
+sometimes people trade just because they don't know,
+
+105
+00:04:08,240 --> 00:04:10,440
+well, I'm kinda bored here, I wanna do something or other,
+
+106
+00:04:10,440 --> 00:04:12,520
+let's trade some wheat for some sheep
+
+107
+00:04:12,520 --> 00:04:14,640
+or something like that, let's try it,
+
+108
+00:04:14,640 --> 00:04:16,480
+I don't know, let's see what happens, right?
+
+109
+00:04:16,480 --> 00:04:20,120
+So the fact that we have fewer trades than you expect
+
+110
+00:04:20,120 --> 00:04:22,680
+in an experimental setting, which is super boring
+
+111
+00:04:22,680 --> 00:04:25,400
+and there's nothing else much going on,
+
+112
+00:04:25,400 --> 00:04:27,520
+seems to be pretty strong evidence,
+
+113
+00:04:27,520 --> 00:04:30,320
+but again, also, just when you make it really easy
+
+114
+00:04:30,320 --> 00:04:32,840
+to do the transaction and people still act
+
+115
+00:04:32,840 --> 00:04:34,720
+like there's really high transactions costs,
+
+116
+00:04:34,720 --> 00:04:36,880
+you say, look, I'll handle all the legwork,
+
+117
+00:04:36,880 --> 00:04:38,920
+I'll handle everything, I'll give you the money
+
+118
+00:04:38,920 --> 00:04:41,200
+right here, right now, you don't have to trust me,
+
+119
+00:04:41,200 --> 00:04:42,960
+you don't have to worry about anything,
+
+120
+00:04:42,960 --> 00:04:46,060
+even then, there's still quite a bit of reluctance.
+
+121
+00:04:46,060 --> 00:04:50,640
+So my in-laws are, they would be capable
+
+122
+00:04:50,640 --> 00:04:52,400
+of being on hoarders, actually.
+
+123
+00:04:52,400 --> 00:04:56,000
+They would be in the lower, like in the bottom third
+
+124
+00:04:56,000 --> 00:04:58,320
+of people that appear on hoarders,
+
+125
+00:04:58,320 --> 00:05:00,760
+but if they were on hoarders, it would not be,
+
+126
+00:05:00,760 --> 00:05:03,080
+people would not say, why are they on hoarders?
+
+127
+00:05:03,080 --> 00:05:07,160
+And literally, they had a car, a non-working car
+
+128
+00:05:07,160 --> 00:05:08,600
+sitting in their driveway, someone came
+
+129
+00:05:08,600 --> 00:05:10,440
+and knocked on their door and said,
+
+130
+00:05:10,440 --> 00:05:15,160
+I'll give you $4,000 for this Oldsmobile from the 80s,
+
+131
+00:05:15,160 --> 00:05:17,600
+which would have a blue book value of maybe that
+
+132
+00:05:17,600 --> 00:05:19,120
+if you're lucky if it worked.
+
+133
+00:05:19,120 --> 00:05:21,400
+And my mother-in-law wanted to say yes,
+
+134
+00:05:21,400 --> 00:05:24,160
+but my father-in-law vetoed it, no, it is our car.
+
+135
+00:05:24,160 --> 00:05:26,680
+We did not just go and sell our cars
+
+136
+00:05:26,680 --> 00:05:30,280
+just because they don't drive and I'm never gonna fix it
+
+137
+00:05:30,280 --> 00:05:33,960
+and they're offering us a price that is way behind
+
+138
+00:05:33,960 --> 00:05:35,040
+what any, what do you ever think,
+
+139
+00:05:35,040 --> 00:05:37,320
+and the guy is right here at our door
+
+140
+00:05:37,320 --> 00:05:40,200
+with a certified check, no.
+
+141
+00:05:40,200 --> 00:05:42,880
+All right, that's where, so it's not transactions costs
+
+142
+00:05:42,880 --> 00:05:47,040
+in this case, it's somehow the fact that they own the car
+
+143
+00:05:47,040 --> 00:05:50,000
+makes them, if not exactly fall in love with the car,
+
+144
+00:05:50,000 --> 00:05:52,740
+at least feel extremely attached,
+
+145
+00:05:52,740 --> 00:05:55,600
+like you are ripping out part of my soul
+
+146
+00:05:55,600 --> 00:05:57,500
+if you make me sell this car.
+
+147
+00:05:58,640 --> 00:06:01,360
+All right, so questions about the Neyman effect?
+
+148
+00:06:01,360 --> 00:06:03,720
+Understanding these questions, all right.
+
+149
+00:06:03,720 --> 00:06:07,120
+So, and again, this is very much fits with my pet theory,
+
+150
+00:06:07,120 --> 00:06:09,480
+which is that you wanna see the true nature
+
+151
+00:06:09,480 --> 00:06:12,000
+of human emotions, look at preschoolers,
+
+152
+00:06:12,000 --> 00:06:15,000
+because they're honest and they're not hiding
+
+153
+00:06:15,000 --> 00:06:17,240
+their emotions very much, they're just blurting out
+
+154
+00:06:17,240 --> 00:06:19,600
+whatever their feelings are and acting on them
+
+155
+00:06:19,600 --> 00:06:22,760
+and then you can see, wow, just selling someone
+
+156
+00:06:22,760 --> 00:06:24,320
+that belongs to them really changes the way
+
+157
+00:06:24,320 --> 00:06:26,760
+they feel about it, even if it's like a leaf
+
+158
+00:06:26,760 --> 00:06:28,440
+a kid picks up on the ground, like,
+
+159
+00:06:28,440 --> 00:06:31,520
+where my leaf broke?
+
+160
+00:06:31,520 --> 00:06:34,800
+I'll give you another one, that's not my leaf!
+
+161
+00:06:34,800 --> 00:06:36,880
+Like, you can't even tell the difference.
+
+162
+00:06:36,880 --> 00:06:39,360
+Oh yes I can, like, describe it.
+
+163
+00:06:39,360 --> 00:06:42,080
+I can't really describe it, but from sight,
+
+164
+00:06:42,080 --> 00:06:44,740
+I can say that's mine, that's my special leaf.
+
+165
+00:06:45,640 --> 00:06:48,960
+All right, now, a more complex anomaly
+
+166
+00:06:48,960 --> 00:06:52,240
+of the effect goes under the name of status quo bias.
+
+167
+00:06:57,120 --> 00:06:59,360
+All right, so this says that people are somewhat
+
+168
+00:06:59,360 --> 00:07:01,680
+reluctant to either buy or sell.
+
+169
+00:07:01,680 --> 00:07:04,160
+So you can, and in general reluctant to go
+
+170
+00:07:04,160 --> 00:07:07,600
+and modify a situation, even when they can do so
+
+171
+00:07:07,600 --> 00:07:10,600
+at a low cost, and even when the situation,
+
+172
+00:07:10,600 --> 00:07:12,280
+ex ante would not have been considered
+
+173
+00:07:12,280 --> 00:07:14,600
+an especially good one, but there's something about
+
+174
+00:07:14,600 --> 00:07:16,680
+you throw the dice, this is what you get,
+
+175
+00:07:16,680 --> 00:07:19,840
+people don't wanna go and fiddle with it.
+
+176
+00:07:19,840 --> 00:07:21,320
+All right, so you can make an alternative
+
+177
+00:07:21,320 --> 00:07:23,840
+more popular just by calling it the status quo,
+
+178
+00:07:23,840 --> 00:07:26,520
+right, and even when transactions costs are negligible.
+
+179
+00:07:26,520 --> 00:07:30,400
+So, you know, like, if there is like a standard burger
+
+180
+00:07:30,400 --> 00:07:33,860
+on the menu, even people who would not have ordered
+
+181
+00:07:33,860 --> 00:07:36,200
+that burger, there's a tendency to say,
+
+182
+00:07:36,200 --> 00:07:38,400
+fine, that's the one that I want.
+
+183
+00:07:38,400 --> 00:07:39,680
+But you don't really like some of those things,
+
+184
+00:07:39,680 --> 00:07:42,800
+and let's just go with that standard thing.
+
+185
+00:07:42,800 --> 00:07:44,800
+I don't wanna have something different there.
+
+186
+00:07:44,800 --> 00:07:47,720
+Right, now, Jeff Sachs, when he was going
+
+187
+00:07:47,720 --> 00:07:50,120
+and advising a lot of ex-communist countries
+
+188
+00:07:50,120 --> 00:07:53,440
+on how to privatize, he explicitly appealed to this
+
+189
+00:07:53,440 --> 00:07:55,620
+and said, this is why we need to just ram down
+
+190
+00:07:55,620 --> 00:07:57,040
+as much privatization down their throats
+
+191
+00:07:57,040 --> 00:07:59,600
+as we can before the next election.
+
+192
+00:07:59,600 --> 00:08:02,680
+Because they don't like it, we're changing things,
+
+193
+00:08:02,680 --> 00:08:04,200
+but it's gonna be really good in the long run,
+
+194
+00:08:04,200 --> 00:08:07,000
+and if we can successfully ram it down their throats,
+
+195
+00:08:07,000 --> 00:08:08,700
+they won't reverse it.
+
+196
+00:08:08,700 --> 00:08:10,520
+Then they'll just accept it.
+
+197
+00:08:10,520 --> 00:08:12,680
+Right, so that was his theory, and like you said,
+
+198
+00:08:12,680 --> 00:08:15,560
+while not 100% correct, still, the idea
+
+199
+00:08:15,560 --> 00:08:18,720
+that if you just push it through, that it will stay there,
+
+200
+00:08:18,720 --> 00:08:19,560
+seems to be a lot to that.
+
+201
+00:08:19,560 --> 00:08:21,640
+You can see that now with Obamacare.
+
+202
+00:08:21,640 --> 00:08:25,280
+Right, so, it seems like there's a lot of dissatisfaction
+
+203
+00:08:25,280 --> 00:08:26,280
+with Obamacare.
+
+204
+00:08:26,280 --> 00:08:28,320
+If people could go back in time and unpass it,
+
+205
+00:08:28,320 --> 00:08:30,720
+they probably would, but given that it's here,
+
+206
+00:08:30,720 --> 00:08:32,040
+it's really hard for people to just say,
+
+207
+00:08:32,040 --> 00:08:33,560
+fine, let's just go and wipe it off the books
+
+208
+00:08:33,560 --> 00:08:35,000
+and go back to where we were.
+
+209
+00:08:36,440 --> 00:08:38,480
+Right, so, again, of course, in the real world,
+
+210
+00:08:38,480 --> 00:08:39,840
+you can always go and say, well,
+
+211
+00:08:39,840 --> 00:08:41,400
+it's not really a good example,
+
+212
+00:08:41,400 --> 00:08:43,960
+but if no real world example seems good to you,
+
+213
+00:08:43,960 --> 00:08:46,800
+then maybe you are just deliberately trying
+
+214
+00:08:46,800 --> 00:08:48,960
+to refuse to acknowledge something
+
+215
+00:08:48,960 --> 00:08:51,540
+that is actually a big deal.
+
+216
+00:08:53,920 --> 00:08:56,080
+All right, so, and again, so, like,
+
+217
+00:08:56,080 --> 00:08:58,720
+if you just look at government policies around the world,
+
+218
+00:08:58,720 --> 00:09:01,160
+and just think, so, suppose that we could get rid
+
+219
+00:09:01,160 --> 00:09:04,560
+of the program and then wipe everybody's memories clear
+
+220
+00:09:04,560 --> 00:09:06,800
+so they don't remember they ever had the program.
+
+221
+00:09:06,800 --> 00:09:09,720
+Would they immediately readopt it or not?
+
+222
+00:09:09,720 --> 00:09:11,440
+Right, so, imagine that we just got rid
+
+223
+00:09:11,440 --> 00:09:13,000
+of Social Security overnight,
+
+224
+00:09:13,000 --> 00:09:14,360
+and then we wiped everybody's memory
+
+225
+00:09:14,360 --> 00:09:16,800
+that there ever had been Social Security.
+
+226
+00:09:16,800 --> 00:09:18,120
+I can believe that it would happen again,
+
+227
+00:09:18,120 --> 00:09:20,280
+but it wouldn't happen this year.
+
+228
+00:09:20,280 --> 00:09:23,040
+It might take decades for it to happen again.
+
+229
+00:09:23,040 --> 00:09:24,440
+Right, but once it's on the book,
+
+230
+00:09:24,440 --> 00:09:26,520
+then people take it for granted, people acclimate to it,
+
+231
+00:09:26,520 --> 00:09:28,800
+and that's what we are going to have.
+
+232
+00:09:28,800 --> 00:09:29,960
+Right, but you could also have got,
+
+233
+00:09:29,960 --> 00:09:31,840
+you know, if you had put on some restrictions on it,
+
+234
+00:09:31,840 --> 00:09:34,880
+people will acclimate to those restrictions.
+
+235
+00:09:34,880 --> 00:09:37,520
+Right, so, and people just get used
+
+236
+00:09:37,520 --> 00:09:39,680
+to whatever it actually is that they've got,
+
+237
+00:09:39,680 --> 00:09:41,640
+and tend to stick with it.
+
+238
+00:09:43,000 --> 00:09:45,760
+All right, so questions about that?
+
+239
+00:09:45,760 --> 00:09:47,240
+Yeah, Nathan?
+
+240
+00:09:47,240 --> 00:09:50,400
+Could some of these biases be explained
+
+241
+00:09:50,400 --> 00:09:53,120
+in terms of, like, a search theoretic account
+
+242
+00:09:53,120 --> 00:09:55,000
+of it's costly to figure out
+
+243
+00:09:55,000 --> 00:09:56,040
+whether a change would be good or bad?
+
+244
+00:09:56,040 --> 00:09:57,360
+Yeah, yeah, sure, in the real world,
+
+245
+00:09:57,360 --> 00:09:58,920
+you can always say maybe you just don't understand
+
+246
+00:09:58,920 --> 00:10:00,720
+what's going on, and then maybe some information
+
+247
+00:10:00,720 --> 00:10:01,920
+is provided for it.
+
+248
+00:10:01,920 --> 00:10:04,880
+In the experiment, that's where they try
+
+249
+00:10:04,880 --> 00:10:05,960
+to make it very clear.
+
+250
+00:10:05,960 --> 00:10:07,800
+It's like, all right, look, here's the coffee cup.
+
+251
+00:10:07,800 --> 00:10:09,000
+Look it over all you want.
+
+252
+00:10:09,000 --> 00:10:10,320
+It's a coffee cup.
+
+253
+00:10:10,320 --> 00:10:12,280
+You say, well, now that I've got it,
+
+254
+00:10:12,280 --> 00:10:14,600
+I can tell that it's a really great coffee cup.
+
+255
+00:10:14,600 --> 00:10:15,560
+It's pretty strange to say,
+
+256
+00:10:15,560 --> 00:10:17,000
+like, what have you learned about it?
+
+257
+00:10:17,000 --> 00:10:18,600
+This isn't about, but yes, you know,
+
+258
+00:10:18,600 --> 00:10:21,160
+in the real world, you could always say things like that,
+
+259
+00:10:21,160 --> 00:10:22,560
+but, you know, in an experimental setting,
+
+260
+00:10:22,560 --> 00:10:23,960
+that's where you can go and rule that out
+
+261
+00:10:23,960 --> 00:10:25,400
+by saying, look, we randomly assigned it,
+
+262
+00:10:25,400 --> 00:10:26,800
+and whatever people randomly assigned,
+
+263
+00:10:26,800 --> 00:10:28,880
+they acted like it was better.
+
+264
+00:10:28,880 --> 00:10:30,400
+Even if they knew it was random,
+
+265
+00:10:30,400 --> 00:10:31,720
+so they knew that there isn't really
+
+266
+00:10:31,720 --> 00:10:33,320
+any search going on here.
+
+267
+00:10:33,320 --> 00:10:36,040
+It's just, you've only seen one of two options.
+
+268
+00:10:36,040 --> 00:10:38,280
+Here's one thing that I've noticed even with older kids.
+
+269
+00:10:38,280 --> 00:10:40,240
+Like, I've noticed older kids will say, look,
+
+270
+00:10:40,240 --> 00:10:41,960
+this movie is the best movie ever,
+
+271
+00:10:41,960 --> 00:10:44,000
+and there's no other movie as good as it,
+
+272
+00:10:44,000 --> 00:10:46,960
+and say, well, you haven't seen any of the other movies.
+
+273
+00:10:46,960 --> 00:10:50,600
+So why, and, or maybe you say that, like,
+
+274
+00:10:50,600 --> 00:10:51,960
+your parents would only go and show you
+
+275
+00:10:51,960 --> 00:10:54,680
+the best possible movie, but, you know,
+
+276
+00:10:54,680 --> 00:10:57,240
+very often when you actually go and try things
+
+277
+00:10:57,240 --> 00:10:58,320
+that your parents ever recommended,
+
+278
+00:10:58,320 --> 00:10:59,920
+you learn that you actually like the things
+
+279
+00:10:59,920 --> 00:11:01,680
+your parents didn't recommend better.
+
+280
+00:11:01,680 --> 00:11:03,400
+So what is it about the fact that this is
+
+281
+00:11:03,400 --> 00:11:04,880
+the only Western you've ever seen
+
+282
+00:11:04,880 --> 00:11:06,520
+that makes you go around confidently saying
+
+283
+00:11:06,520 --> 00:11:08,080
+it's the best Western ever?
+
+284
+00:11:08,080 --> 00:11:09,320
+Again, you might say search theory.
+
+285
+00:11:09,320 --> 00:11:10,680
+It doesn't seem like search.
+
+286
+00:11:10,680 --> 00:11:13,840
+It seems more like endowment effect masquerading
+
+287
+00:11:13,840 --> 00:11:15,560
+as search was like, well, you know,
+
+288
+00:11:15,560 --> 00:11:18,960
+I mean, like, I hear, you know, even very smart,
+
+289
+00:11:18,960 --> 00:11:20,680
+I want to say even very smart teenagers,
+
+290
+00:11:20,680 --> 00:11:23,320
+I almost want to say especially very smart teenagers,
+
+291
+00:11:23,320 --> 00:11:25,280
+like, read one science fiction book,
+
+292
+00:11:25,280 --> 00:11:26,760
+and they'll say, it's the best science fiction book
+
+293
+00:11:26,760 --> 00:11:28,480
+ever written by far.
+
+294
+00:11:28,480 --> 00:11:29,920
+Like, well, how do you know, kid?
+
+295
+00:11:29,920 --> 00:11:31,840
+You haven't read any other books.
+
+296
+00:11:31,840 --> 00:11:33,000
+You know, I've read enough.
+
+297
+00:11:33,000 --> 00:11:35,000
+One answers it.
+
+298
+00:11:35,000 --> 00:11:36,680
+It's like, well, you know what?
+
+299
+00:11:36,680 --> 00:11:37,720
+You're actually part of experiment.
+
+300
+00:11:37,720 --> 00:11:39,280
+I randomly assigned it to you.
+
+301
+00:11:39,280 --> 00:11:43,080
+I could have been any book, and I said,
+
+302
+00:11:43,080 --> 00:11:44,360
+well, apparently you randomly assigned
+
+303
+00:11:44,360 --> 00:11:46,520
+the best sci-fi book in the universe.
+
+304
+00:11:46,520 --> 00:11:49,760
+It's possible, but seems suspicious.
+
+305
+00:11:49,760 --> 00:11:52,120
+All right, so what I'm saying, in the real world,
+
+306
+00:11:52,120 --> 00:11:54,880
+it's always easy to say, oh, none of the examples
+
+307
+00:11:54,880 --> 00:11:55,840
+are really any good.
+
+308
+00:11:55,840 --> 00:11:57,680
+The endowment effect, status quo bias,
+
+309
+00:11:57,680 --> 00:12:00,640
+say it's transactions cost, you can say it's information cost.
+
+310
+00:12:00,640 --> 00:12:02,720
+And again, if you start thinking about
+
+311
+00:12:02,720 --> 00:12:05,280
+why is something your endowment,
+
+312
+00:12:05,280 --> 00:12:07,200
+or why is it that something is in the,
+
+313
+00:12:07,200 --> 00:12:09,440
+or why is it that something's status quo,
+
+314
+00:12:09,440 --> 00:12:11,360
+there's usually a reason for it.
+
+315
+00:12:11,360 --> 00:12:13,160
+So, like, when your parents go and give you
+
+316
+00:12:13,160 --> 00:12:14,680
+a gift for Christmas, is it because they think
+
+317
+00:12:14,680 --> 00:12:15,840
+you're going to hate it?
+
+318
+00:12:16,760 --> 00:12:17,880
+No, your parents give you things
+
+319
+00:12:17,880 --> 00:12:20,320
+they think that you're going to like, hopefully.
+
+320
+00:12:20,320 --> 00:12:21,200
+They're nice parents, anyway.
+
+321
+00:12:21,200 --> 00:12:23,080
+They give you stuff they think that you're going to like.
+
+322
+00:12:23,080 --> 00:12:25,080
+So the very fact that they're giving it to you,
+
+323
+00:12:25,080 --> 00:12:26,720
+that may provide some information.
+
+324
+00:12:26,720 --> 00:12:27,720
+Look, they're going and saying,
+
+325
+00:12:27,720 --> 00:12:29,920
+look, this is your special bicycle.
+
+326
+00:12:29,920 --> 00:12:30,920
+Right, and we picked it out.
+
+327
+00:12:30,920 --> 00:12:32,440
+We think this is one that you're really going to like.
+
+328
+00:12:32,440 --> 00:12:34,280
+It's just the right, right for you.
+
+329
+00:12:34,280 --> 00:12:36,000
+We thought about it, really enjoyed it.
+
+330
+00:12:36,000 --> 00:12:37,920
+Or sometimes you may say, look, this is a book
+
+331
+00:12:37,920 --> 00:12:39,400
+that I loved when I was your age,
+
+332
+00:12:39,400 --> 00:12:41,200
+and I think you might like it, too.
+
+333
+00:12:41,200 --> 00:12:44,480
+Right, so here, there's information being given,
+
+334
+00:12:44,480 --> 00:12:46,800
+and the fact that it's your endowment
+
+335
+00:12:46,800 --> 00:12:49,080
+actually might tell you something in the real world.
+
+336
+00:12:49,080 --> 00:12:51,960
+Right, or the status quo in a restaurant.
+
+337
+00:12:51,960 --> 00:12:53,560
+Do restaurants randomly decide
+
+338
+00:12:53,560 --> 00:12:55,160
+what the contents of a Big Mac will be?
+
+339
+00:12:55,160 --> 00:12:57,080
+Like McDonald's say, well, let's see, what is this?
+
+340
+00:12:57,080 --> 00:12:58,480
+It's got seven features, right?
+
+341
+00:12:58,480 --> 00:12:59,600
+Seven, was it nine?
+
+342
+00:12:59,600 --> 00:13:01,800
+What are the standardized features of a Big Mac?
+
+343
+00:13:01,800 --> 00:13:03,840
+Two all-beef patties, special sauce,
+
+344
+00:13:03,840 --> 00:13:05,400
+lettuce, cheese, pickles, onions,
+
+345
+00:13:05,400 --> 00:13:06,800
+on a sesame seed bun.
+
+346
+00:13:06,800 --> 00:13:07,920
+All right, that one.
+
+347
+00:13:07,920 --> 00:13:09,960
+Now, do you think that they just throw dice
+
+348
+00:13:09,960 --> 00:13:11,880
+to come up with that combination?
+
+349
+00:13:11,880 --> 00:13:13,600
+They probably did a lot of market research
+
+350
+00:13:13,600 --> 00:13:16,200
+to find out what most people like,
+
+351
+00:13:16,200 --> 00:13:18,280
+and that's why they make it the standard option,
+
+352
+00:13:18,280 --> 00:13:19,440
+because you don't want to pick
+
+353
+00:13:19,440 --> 00:13:21,160
+a really weird standard option,
+
+354
+00:13:21,160 --> 00:13:22,880
+which would then require that you're constantly
+
+355
+00:13:22,880 --> 00:13:25,080
+going and adjusting the order.
+
+356
+00:13:25,080 --> 00:13:26,360
+Instead, you want to get an option
+
+357
+00:13:26,360 --> 00:13:28,040
+that has very broad appeal,
+
+358
+00:13:28,040 --> 00:13:30,160
+and then you only have to adjust it for someone,
+
+359
+00:13:30,160 --> 00:13:31,320
+well, this guy doesn't like pickles.
+
+360
+00:13:31,320 --> 00:13:32,680
+There's weird people who don't like pickles.
+
+361
+00:13:32,680 --> 00:13:33,800
+All right, fine, we'll go and adjust it.
+
+362
+00:13:33,800 --> 00:13:36,040
+But you want to go and pick a standard option
+
+363
+00:13:36,040 --> 00:13:37,520
+that's popular normally.
+
+364
+00:13:37,520 --> 00:13:40,920
+So usually the status quo becomes the status quo
+
+365
+00:13:40,920 --> 00:13:42,960
+by a process of market research,
+
+366
+00:13:42,960 --> 00:13:45,800
+so a lot of people would genuinely and sincerely like it,
+
+367
+00:13:45,800 --> 00:13:50,080
+and therefore, the effect is not nearly as big
+
+368
+00:13:50,080 --> 00:13:52,280
+as it might seem on the surface.
+
+369
+00:13:52,280 --> 00:13:55,240
+Okay, all right.
+
+370
+00:13:55,240 --> 00:13:57,960
+So, and let's see, I was thinking of something else
+
+371
+00:13:57,960 --> 00:13:59,320
+relating to that.
+
+372
+00:13:59,320 --> 00:14:00,840
+Let's see.
+
+373
+00:14:00,840 --> 00:14:02,080
+It'll come to me.
+
+374
+00:14:02,080 --> 00:14:02,920
+All right.
+
+375
+00:14:03,840 --> 00:14:05,440
+Okay, all right, and like I said,
+
+376
+00:14:05,440 --> 00:14:08,360
+most experiments focus on pretty close choices,
+
+377
+00:14:08,360 --> 00:14:10,560
+so it's not like they give you,
+
+378
+00:14:10,560 --> 00:14:13,320
+like the status quo was either you have a job
+
+379
+00:14:13,320 --> 00:14:15,560
+as a professor or a job as a janitor,
+
+380
+00:14:15,560 --> 00:14:18,280
+like let's say, and then let's see what happens, right?
+
+381
+00:14:18,280 --> 00:14:19,400
+Because of course, in that case,
+
+382
+00:14:19,400 --> 00:14:21,480
+there would be an enormous number of people
+
+383
+00:14:21,480 --> 00:14:22,800
+who want to shift over and be a professor
+
+384
+00:14:22,800 --> 00:14:23,880
+rather than a janitor.
+
+385
+00:14:24,760 --> 00:14:27,480
+So instead, you get jobs that are really close to each other,
+
+386
+00:14:27,480 --> 00:14:28,640
+or like I don't think this has ever been
+
+387
+00:14:28,640 --> 00:14:31,520
+an experiment with jobs, but that is the idea.
+
+388
+00:14:31,520 --> 00:14:34,360
+So yeah, it's true that kids, for example,
+
+389
+00:14:34,360 --> 00:14:36,280
+seem like they gravitate to jobs
+
+390
+00:14:36,280 --> 00:14:39,040
+that are ones that their parents had, right?
+
+391
+00:14:39,040 --> 00:14:42,360
+But again, this is the case where it's like,
+
+392
+00:14:42,360 --> 00:14:45,160
+well, it's within a broad social class
+
+393
+00:14:45,160 --> 00:14:47,160
+where this is a job, this is a kind of general job
+
+394
+00:14:47,160 --> 00:14:49,160
+that people like me would ordinarily get,
+
+395
+00:14:49,160 --> 00:14:50,920
+but if you're Einstein and you're a dad to a janitor,
+
+396
+00:14:50,920 --> 00:14:52,760
+then you're not very likely to become a janitor
+
+397
+00:14:52,760 --> 00:14:54,040
+in that case, that's one like,
+
+398
+00:14:54,040 --> 00:14:55,160
+oh, that doesn't seem very good,
+
+399
+00:14:55,160 --> 00:14:57,560
+whereas if you're Einstein and your dad's an economist,
+
+400
+00:14:57,560 --> 00:15:00,360
+then you might get into economics at an early age,
+
+401
+00:15:00,360 --> 00:15:02,720
+and you go down that appealing route
+
+402
+00:15:02,720 --> 00:15:04,400
+rather than a bunch of other routes
+
+403
+00:15:04,400 --> 00:15:05,880
+that are also very appealing,
+
+404
+00:15:05,880 --> 00:15:09,360
+which would use those talents, right?
+
+405
+00:15:09,360 --> 00:15:12,040
+Similarly, if someone gave you 100 coffee cups,
+
+406
+00:15:12,040 --> 00:15:14,720
+it is likely that you would sell almost all of them.
+
+407
+00:15:14,720 --> 00:15:16,800
+Now, since I wrote this, Jonathan List
+
+408
+00:15:16,800 --> 00:15:18,640
+has done a bunch of field experiments
+
+409
+00:15:18,640 --> 00:15:20,000
+involving things like this.
+
+410
+00:15:20,000 --> 00:15:21,560
+In particular, he did field experiments
+
+411
+00:15:21,560 --> 00:15:23,800
+where he tested for endowment effects
+
+412
+00:15:23,800 --> 00:15:26,560
+among professional baseball card traders.
+
+413
+00:15:27,440 --> 00:15:29,840
+And what he found is professional baseball card traders
+
+414
+00:15:29,840 --> 00:15:32,240
+do not seem to have an endowment effect.
+
+415
+00:15:32,240 --> 00:15:33,800
+So even though the professional traders
+
+416
+00:15:33,800 --> 00:15:35,560
+usually are also collectors,
+
+417
+00:15:35,560 --> 00:15:37,760
+but nevertheless, they seem to be very good
+
+418
+00:15:37,760 --> 00:15:40,800
+at distinguishing between objective market value
+
+419
+00:15:40,800 --> 00:15:44,280
+and value to them, and they do not readily fall prey
+
+420
+00:15:44,280 --> 00:15:46,200
+to this endowment effect.
+
+421
+00:15:46,200 --> 00:15:47,680
+And again, the whole point of this was,
+
+422
+00:15:47,680 --> 00:15:49,720
+these are people in the real world.
+
+423
+00:15:49,720 --> 00:15:51,120
+These are people who actually buy
+
+424
+00:15:51,120 --> 00:15:53,440
+and sell baseball cards for a living,
+
+425
+00:15:53,440 --> 00:15:56,200
+and it seems like that process actually goes
+
+426
+00:15:56,200 --> 00:15:58,680
+and weaves the endowment effect out of them.
+
+427
+00:15:58,680 --> 00:16:00,760
+Yet it might be that if you have a big endowment effect,
+
+428
+00:16:00,760 --> 00:16:01,800
+you don't stay in business very long
+
+429
+00:16:01,800 --> 00:16:02,880
+because you wind up wasting a lot of money
+
+430
+00:16:02,880 --> 00:16:04,520
+on your own hobby, right?
+
+431
+00:16:04,520 --> 00:16:06,200
+So don't get high on your own supply
+
+432
+00:16:06,200 --> 00:16:08,560
+is another way of thinking about it.
+
+433
+00:16:08,560 --> 00:16:09,400
+Yes?
+
+434
+00:16:09,400 --> 00:16:11,480
+Do things like that potentially invalidate
+
+435
+00:16:11,480 --> 00:16:13,600
+the critique that incentives don't matter?
+
+436
+00:16:15,240 --> 00:16:17,520
+Yeah, I mean, that's certainly one way of reading it,
+
+437
+00:16:17,520 --> 00:16:19,880
+is saying that when it is your occupation,
+
+438
+00:16:19,880 --> 00:16:22,520
+when being unreasonable would go and be very costly,
+
+439
+00:16:22,520 --> 00:16:25,040
+then you're more reasonable, yeah, so that seems fair.
+
+440
+00:16:25,040 --> 00:16:28,400
+Although you could also say maybe it's incentives,
+
+441
+00:16:28,400 --> 00:16:30,520
+maybe it's learning or experience,
+
+442
+00:16:30,520 --> 00:16:34,280
+maybe it's actually that being part of the market process
+
+443
+00:16:34,280 --> 00:16:35,960
+kills some normal human emotions.
+
+444
+00:16:37,600 --> 00:16:42,600
+Right, so if you buy and sell securities for a living,
+
+445
+00:16:42,600 --> 00:16:44,800
+probably a lot of the thrill of it goes out.
+
+446
+00:16:44,800 --> 00:16:49,080
+Just like if you are a dealer at a Las Vegas casino,
+
+447
+00:16:49,080 --> 00:16:50,920
+I'm not sure, but my guess is that the game
+
+448
+00:16:50,920 --> 00:16:52,880
+no longer seems all that exciting to you anymore
+
+449
+00:16:52,880 --> 00:16:54,240
+after a while.
+
+450
+00:16:54,240 --> 00:16:56,040
+My guess is that when they want thrills,
+
+451
+00:16:56,040 --> 00:16:58,560
+they don't just go and move around
+
+452
+00:16:58,560 --> 00:17:00,000
+from the dealer side of the table
+
+453
+00:17:00,000 --> 00:17:03,240
+over to the player side of the table in order to go and play.
+
+454
+00:17:03,240 --> 00:17:05,080
+Instead, I'm thinking that it's likely,
+
+455
+00:17:05,080 --> 00:17:06,960
+I have no evidence for this, it just seems fair,
+
+456
+00:17:06,960 --> 00:17:09,200
+like an observation that's likely to be true,
+
+457
+00:17:09,200 --> 00:17:10,880
+that they've done it so much
+
+458
+00:17:10,880 --> 00:17:12,600
+that all of the allure of the game is gone,
+
+459
+00:17:12,600 --> 00:17:15,800
+the magic has gone out, and it's no fun anymore.
+
+460
+00:17:15,800 --> 00:17:17,080
+But maybe I'm wrong.
+
+461
+00:17:18,760 --> 00:17:22,480
+All right, so, let's see here.
+
+462
+00:17:25,920 --> 00:17:27,600
+All right, other questions about this?
+
+463
+00:17:27,600 --> 00:17:28,440
+Other things you're wondering about?
+
+464
+00:17:28,440 --> 00:17:29,840
+Oh yeah, now I remember what I was gonna say.
+
+465
+00:17:29,840 --> 00:17:31,040
+So Richard Thaler,
+
+466
+00:17:31,040 --> 00:17:33,760
+again, one of the three most famous behavioral economists,
+
+467
+00:17:33,760 --> 00:17:37,840
+has made a very big deal about nudging.
+
+468
+00:17:37,840 --> 00:17:39,280
+So you're familiar with the book Nudge,
+
+469
+00:17:39,280 --> 00:17:41,200
+co-author of the Cass Sunstein.
+
+470
+00:17:41,200 --> 00:17:43,880
+All right, now a key part of the book is this idea
+
+471
+00:17:43,880 --> 00:17:46,480
+that you could use things like status quo bias
+
+472
+00:17:46,480 --> 00:17:48,760
+to nudge people in healthier directions.
+
+473
+00:17:48,760 --> 00:17:50,200
+So one of his suggestions is,
+
+474
+00:17:50,200 --> 00:17:51,400
+why don't we go and put the salad bar
+
+475
+00:17:51,400 --> 00:17:53,040
+at the front of the buffet
+
+476
+00:17:53,040 --> 00:17:56,760
+to encourage people to eat more healthy meals?
+
+477
+00:17:56,760 --> 00:17:59,160
+All right, now it's all interesting,
+
+478
+00:17:59,160 --> 00:18:01,680
+but here's something that at least seems to me
+
+479
+00:18:01,680 --> 00:18:02,560
+that he's never dealt with,
+
+480
+00:18:02,560 --> 00:18:06,520
+which is that, well, the salad is not put there randomly.
+
+481
+00:18:06,520 --> 00:18:08,280
+Who decides where to put the salad?
+
+482
+00:18:08,280 --> 00:18:11,720
+The owner of the buffet decides where to arrange things.
+
+483
+00:18:11,720 --> 00:18:13,600
+Why did they decide where to do it?
+
+484
+00:18:13,600 --> 00:18:17,000
+Presumably because, yes, they make more money
+
+485
+00:18:17,000 --> 00:18:19,400
+if they don't put the salad at the front.
+
+486
+00:18:19,400 --> 00:18:21,840
+So when he talks about, look, there's a free lunch
+
+487
+00:18:21,840 --> 00:18:24,120
+where we can make people just as satisfied as customers,
+
+488
+00:18:24,120 --> 00:18:25,520
+but also make them healthier.
+
+489
+00:18:25,520 --> 00:18:26,640
+It's not really a free lunch
+
+490
+00:18:26,640 --> 00:18:29,200
+because someone else has already optimized this
+
+491
+00:18:29,200 --> 00:18:30,160
+for their own purposes.
+
+492
+00:18:30,160 --> 00:18:31,760
+So there isn't really some way
+
+493
+00:18:31,760 --> 00:18:33,320
+that you can just go and change things around
+
+494
+00:18:33,320 --> 00:18:35,120
+and no one will be the wiser.
+
+495
+00:18:35,120 --> 00:18:38,280
+Even if the customers' behavior has changed,
+
+496
+00:18:38,280 --> 00:18:41,440
+it looks like the restaurants that run the buffets
+
+497
+00:18:41,440 --> 00:18:43,760
+feel like they're gonna go home unhappy.
+
+498
+00:18:43,760 --> 00:18:45,280
+It's like, yeah, I go there, the salad's first,
+
+499
+00:18:45,280 --> 00:18:46,440
+so I eat some salad,
+
+500
+00:18:46,440 --> 00:18:48,720
+and then I never went back to that buffet again
+
+501
+00:18:48,720 --> 00:18:52,200
+because I came away with a very dissatisfied feeling,
+
+502
+00:18:52,200 --> 00:18:54,400
+like I was being bossed around,
+
+503
+00:18:54,400 --> 00:18:55,640
+like they were trying to guilt me
+
+504
+00:18:55,640 --> 00:18:57,640
+into eating something I didn't wanna eat.
+
+505
+00:18:58,560 --> 00:19:01,480
+So that's something that you have to consider
+
+506
+00:19:01,480 --> 00:19:02,680
+when you're thinking about nudging.
+
+507
+00:19:02,680 --> 00:19:07,000
+When you actually have a self-interested actor
+
+508
+00:19:07,000 --> 00:19:09,480
+that is arranging the nudges,
+
+509
+00:19:09,480 --> 00:19:11,160
+the fact that if someone went
+
+510
+00:19:11,160 --> 00:19:12,480
+and made them change things around
+
+511
+00:19:12,480 --> 00:19:13,880
+is not really very relevant
+
+512
+00:19:13,880 --> 00:19:17,200
+because they've already figured out how they wanna do it,
+
+513
+00:19:17,200 --> 00:19:18,960
+which is optimal for them.
+
+514
+00:19:18,960 --> 00:19:21,600
+So it's not nearly the simple free lunch
+
+515
+00:19:21,600 --> 00:19:26,040
+that at least the popularizations of Sunstein and Thaler
+
+516
+00:19:26,040 --> 00:19:27,360
+will often present.
+
+517
+00:19:27,360 --> 00:19:30,400
+Although, so I would say that
+
+518
+00:19:30,400 --> 00:19:33,240
+when I talk to them often, I would say their own view,
+
+519
+00:19:33,240 --> 00:19:34,480
+their full view is more subtle
+
+520
+00:19:34,480 --> 00:19:37,760
+than the view that people often attribute to them.
+
+521
+00:19:37,760 --> 00:19:39,840
+Although I'd also say that they're kind of responsible
+
+522
+00:19:39,840 --> 00:19:41,080
+for the view that people attribute to them
+
+523
+00:19:41,080 --> 00:19:43,600
+because you have to sort of cross-examine them
+
+524
+00:19:43,600 --> 00:19:45,640
+to get the qualifications.
+
+525
+00:19:45,640 --> 00:19:48,600
+They aren't volunteering the qualifications,
+
+526
+00:19:48,600 --> 00:19:50,200
+which seems like they should.
+
+527
+00:19:50,200 --> 00:19:51,040
+Yes?
+
+528
+00:19:51,040 --> 00:19:52,680
+I was gonna say, doesn't that beg the question
+
+529
+00:19:52,680 --> 00:19:55,680
+that the restaurateurs didn't just suffer
+
+530
+00:19:55,680 --> 00:19:57,240
+from the status quo bias?
+
+531
+00:19:57,240 --> 00:20:02,240
+The restaurateurs didn't just suffer from the status quo bias?
+
+

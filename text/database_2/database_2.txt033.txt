@@ -1,0 +1,6 @@
+1. Suppose you have a betting market for the 2004 presidential election. The price of "Bush wins" shares sell for twice as much as "Bush does not win" shares.
+ 
+True, False, and Explain: As long as Arrow-Debreu assumptions and expected utility theory hold, this shows that the marginal trader believes that Bush will win with p=2/3.
+ 
+
+ 

@@ -1,0 +1,7 @@
+8. More educated workers usually get more benefits. 
+True, False, and Explain:  This tends to bias standard estimates of the return to education downwards.
+ 
+True. If the "benefits" are excluded from the dependent variable (e.g. monetary income) the beta of education would be downward biased. 
+
+
+

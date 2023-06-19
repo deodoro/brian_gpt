@@ -1,0 +1,1957 @@
+1
+00:00:00,000 --> 00:00:02,340
+Some people believe the sky is blue,
+
+2
+00:00:02,340 --> 00:00:05,000
+others believe that it's orange or purple.
+
+3
+00:00:05,000 --> 00:00:07,960
+Right, and I don't know, it's just one example,
+
+4
+00:00:07,960 --> 00:00:11,880
+but who's to say it really is blue?
+
+5
+00:00:11,880 --> 00:00:13,000
+I mean, I remember it being blue,
+
+6
+00:00:13,000 --> 00:00:15,360
+but then maybe my memories are wrong.
+
+7
+00:00:15,360 --> 00:00:17,840
+Maybe we're in the matrix.
+
+8
+00:00:17,840 --> 00:00:20,300
+All of these concerns occur to people.
+
+9
+00:00:21,200 --> 00:00:25,000
+Now, what can we do about this problem?
+
+10
+00:00:25,000 --> 00:00:27,640
+Well, there's a leading theoretical effort
+
+11
+00:00:27,640 --> 00:00:30,200
+to go and link up these two,
+
+12
+00:00:30,200 --> 00:00:33,100
+to go and say that there's going to be a connection
+
+13
+00:00:33,100 --> 00:00:35,720
+between objective and subjective probabilities
+
+14
+00:00:35,720 --> 00:00:39,800
+is called rational expectations, or RE for short.
+
+15
+00:00:46,040 --> 00:00:49,600
+So, how many people here have heard of RE before?
+
+16
+00:00:49,600 --> 00:00:51,720
+Right, so most of you, all right.
+
+17
+00:00:51,720 --> 00:00:54,520
+So, rational expectations,
+
+18
+00:00:54,520 --> 00:00:56,200
+actually the earliest papers by John Booth
+
+19
+00:00:56,200 --> 00:00:57,920
+in the early 1960s, although he didn't call it
+
+20
+00:00:57,920 --> 00:01:00,280
+rational expectations, but the idea's there.
+
+21
+00:01:00,280 --> 00:01:02,440
+And then it was actually in macroeconomics
+
+22
+00:01:02,440 --> 00:01:05,920
+that rational expectations first became a big deal.
+
+23
+00:01:05,920 --> 00:01:07,360
+This was during a period when people
+
+24
+00:01:07,360 --> 00:01:09,040
+were trying to understand inflation.
+
+25
+00:01:09,040 --> 00:01:11,600
+The early proceeding models were all based
+
+26
+00:01:11,600 --> 00:01:13,320
+upon adaptive expectations,
+
+27
+00:01:13,320 --> 00:01:16,200
+saying that people would just very mechanically
+
+28
+00:01:16,200 --> 00:01:19,360
+go and average recent inflation to form an opinion.
+
+29
+00:01:19,360 --> 00:01:20,560
+And rational expectation says,
+
+30
+00:01:20,560 --> 00:01:22,120
+no, that doesn't make sense.
+
+31
+00:01:22,120 --> 00:01:25,340
+People are going to take all the information into account.
+
+32
+00:01:25,340 --> 00:01:28,160
+And so, for example, if inflation has been rising,
+
+33
+00:01:28,160 --> 00:01:31,080
+they will perhaps forecast that it will continue to rise.
+
+34
+00:01:31,080 --> 00:01:32,680
+And then you shouldn't just go and take an average
+
+35
+00:01:32,680 --> 00:01:35,040
+of earlier periods, you should rather extrapolate
+
+36
+00:01:35,040 --> 00:01:37,580
+in the future, possibly, things like that.
+
+37
+00:01:37,580 --> 00:01:39,960
+All right, so, a simple characterization
+
+38
+00:01:39,960 --> 00:01:41,720
+of rational expectations is to say
+
+39
+00:01:41,720 --> 00:01:42,920
+that you have rational expectations
+
+40
+00:01:42,920 --> 00:01:46,420
+as long as your judgments are, first of all, unbiased.
+
+41
+00:01:48,440 --> 00:01:50,980
+Which means that your mean error is zero.
+
+42
+00:01:50,980 --> 00:01:52,680
+Your mean error is zero.
+
+43
+00:01:52,680 --> 00:01:55,040
+Right, so, what would that be like?
+
+44
+00:01:55,040 --> 00:01:56,820
+Well, for example, when you're forecasting inflation,
+
+45
+00:01:56,820 --> 00:01:59,360
+sometimes you're too high, sometimes you're too low.
+
+46
+00:01:59,360 --> 00:02:00,840
+And what rational expectation says
+
+47
+00:02:00,840 --> 00:02:03,160
+is that your average error will be zero.
+
+48
+00:02:03,160 --> 00:02:06,160
+So your high value, the times when you overestimate inflation
+
+49
+00:02:06,160 --> 00:02:08,400
+will balance out the times that you underestimate inflation,
+
+50
+00:02:08,400 --> 00:02:09,880
+and when you average it out,
+
+51
+00:02:09,880 --> 00:02:12,880
+your forecast error will be zero.
+
+52
+00:02:12,880 --> 00:02:14,920
+Right, and furthermore, rational expectations
+
+53
+00:02:14,920 --> 00:02:17,960
+adds on another condition, which says
+
+54
+00:02:17,960 --> 00:02:20,200
+that mistakes are uncorrelated with available information.
+
+55
+00:02:20,200 --> 00:02:25,200
+So errors, uncorrelated with available information.
+
+56
+00:02:28,400 --> 00:02:31,840
+Right, now, this word available is a reasonable word
+
+57
+00:02:31,840 --> 00:02:35,000
+because, well, what counts as available?
+
+58
+00:02:35,000 --> 00:02:36,960
+In practice, when people started doing this in 70s,
+
+59
+00:02:36,960 --> 00:02:38,280
+available meant, well, was it in
+
+60
+00:02:38,280 --> 00:02:40,160
+the Wall Street Journal yesterday?
+
+61
+00:02:40,160 --> 00:02:41,640
+Then it's available.
+
+62
+00:02:41,640 --> 00:02:43,680
+On the other hand, if it's known
+
+63
+00:02:43,680 --> 00:02:46,800
+to only a few people working at Microsoft,
+
+64
+00:02:46,800 --> 00:02:47,840
+I don't know, was Microsoft?
+
+65
+00:02:47,840 --> 00:02:50,240
+I don't know, late 70s, was already Microsoft.
+
+66
+00:02:51,320 --> 00:02:53,440
+So it's only available to people
+
+67
+00:02:53,440 --> 00:02:55,720
+like on the board of directors of Microsoft,
+
+68
+00:02:55,720 --> 00:02:57,520
+then that's not available.
+
+69
+00:02:57,520 --> 00:03:00,560
+But, all right, so anyway, this is the simple version,
+
+70
+00:03:00,560 --> 00:03:03,360
+and this is the one that is used for empirical testing.
+
+71
+00:03:04,560 --> 00:03:08,620
+But there is a deeper version of rational expectations,
+
+72
+00:03:08,620 --> 00:03:11,200
+which you can see in theoretical papers
+
+73
+00:03:11,200 --> 00:03:13,120
+that apply rational expectations.
+
+74
+00:03:13,120 --> 00:03:15,000
+So the deeper version says
+
+75
+00:03:15,000 --> 00:03:16,960
+that you have rational expectations.
+
+76
+00:03:16,960 --> 00:03:19,460
+If your subject of probability distribution
+
+77
+00:03:19,460 --> 00:03:21,820
+matches the object of probability distribution.
+
+78
+00:03:23,760 --> 00:03:27,220
+And again, in a theoretical paper, you can make this true.
+
+79
+00:03:27,220 --> 00:03:30,120
+So theoretical paper, if you know what you're doing,
+
+80
+00:03:30,120 --> 00:03:32,080
+and a number of people do,
+
+81
+00:03:32,080 --> 00:03:34,760
+you can work it out so that you come up
+
+82
+00:03:34,760 --> 00:03:36,560
+with an internally consistent system
+
+83
+00:03:36,560 --> 00:03:39,920
+where there is, in fact, a distribution of outcomes,
+
+84
+00:03:39,920 --> 00:03:41,560
+and people's beliefs about those outcomes
+
+85
+00:03:41,560 --> 00:03:43,880
+have exactly the same distribution as the actual one,
+
+86
+00:03:43,880 --> 00:03:46,620
+and everything fits together like a glove.
+
+87
+00:03:46,620 --> 00:03:49,160
+Okay, so just like with Nash equilibrium,
+
+88
+00:03:49,160 --> 00:03:51,480
+you may remember when, so this is when,
+
+89
+00:03:51,480 --> 00:03:55,200
+if I assume that everyone else stays the same,
+
+90
+00:03:55,200 --> 00:03:56,840
+I wanna keep doing what I'm doing,
+
+91
+00:03:56,840 --> 00:03:59,000
+and this is true for every single person.
+
+92
+00:03:59,000 --> 00:04:02,060
+Similarly, with this deep version of rational expectations,
+
+93
+00:04:02,060 --> 00:04:06,360
+the idea is that given the beliefs that everybody has,
+
+94
+00:04:06,360 --> 00:04:08,400
+there is an objective distribution,
+
+95
+00:04:08,400 --> 00:04:10,360
+and when there is that objective distribution,
+
+96
+00:04:10,360 --> 00:04:12,760
+everybody's beliefs about it match.
+
+97
+00:04:12,760 --> 00:04:16,000
+So it's all the pieces fit together perfectly.
+
+98
+00:04:16,000 --> 00:04:18,760
+All right, now, of course, you cannot test that empirically,
+
+99
+00:04:18,760 --> 00:04:21,600
+but what you can do is test for these things,
+
+100
+00:04:21,600 --> 00:04:24,080
+like unbiasedness, or see whether the errors
+
+101
+00:04:24,080 --> 00:04:27,300
+are uncorrelated with available information.
+
+102
+00:04:28,280 --> 00:04:31,160
+All right, now, rational expectations,
+
+103
+00:04:31,160 --> 00:04:35,120
+real, inspires a very standard modeling technique,
+
+104
+00:04:35,120 --> 00:04:36,820
+and any time you've ever talked to an economist
+
+105
+00:04:36,820 --> 00:04:37,660
+where you've said, well, look,
+
+106
+00:04:37,660 --> 00:04:39,200
+the problem is people have really bad information
+
+107
+00:04:39,200 --> 00:04:41,840
+about this, and you've gotten frustrated
+
+108
+00:04:41,840 --> 00:04:44,560
+because, at least I've experienced it many times,
+
+109
+00:04:44,560 --> 00:04:46,320
+well, people don't know that, right?
+
+110
+00:04:46,320 --> 00:04:50,560
+Because, well, if you take rational expectations for granted
+
+111
+00:04:50,560 --> 00:04:51,880
+then you say, all right, well, you're saying
+
+112
+00:04:51,880 --> 00:04:53,700
+that there's really bad information, right?
+
+113
+00:04:53,700 --> 00:04:56,680
+Well, this is the truth here, capital T truth here,
+
+114
+00:04:56,680 --> 00:05:00,200
+all right, and if people have really good information,
+
+115
+00:05:00,200 --> 00:05:02,680
+then their belief distribution will be
+
+116
+00:05:02,680 --> 00:05:05,360
+very tightly clustered around the truth,
+
+117
+00:05:05,360 --> 00:05:07,240
+but if people have bad information,
+
+118
+00:05:07,240 --> 00:05:09,400
+then their belief distribution will be
+
+119
+00:05:09,400 --> 00:05:11,440
+widely distributed around the truth.
+
+120
+00:05:11,440 --> 00:05:16,440
+So, this is bad info, this is good info,
+
+121
+00:05:18,720 --> 00:05:21,340
+and of course, this is perfect info.
+
+122
+00:05:25,640 --> 00:05:28,480
+All right, so, in the rational expectations model,
+
+123
+00:05:28,480 --> 00:05:32,060
+there is endless room for degrees of knowledge,
+
+124
+00:05:32,060 --> 00:05:36,460
+but it still rules out a lot of complaints about the world.
+
+125
+00:05:36,460 --> 00:05:38,440
+Like, if you were to just say, well, look,
+
+126
+00:05:38,440 --> 00:05:41,760
+you know, the problem with private auto safety
+
+127
+00:05:41,760 --> 00:05:43,560
+is most people don't realize that they,
+
+128
+00:05:43,560 --> 00:05:45,760
+that an accident could ever happen to them.
+
+129
+00:05:47,360 --> 00:05:49,000
+All right, have you ever heard that from this?
+
+130
+00:05:49,000 --> 00:05:51,320
+See, Jonathan Gruber's Obamacare graphic novel,
+
+131
+00:05:51,320 --> 00:05:53,720
+he says, look, a lot of young people don't get insurance
+
+132
+00:05:53,720 --> 00:05:56,440
+because they don't know that they could get sick.
+
+133
+00:05:56,440 --> 00:05:58,320
+It was actually, like, that's almost a quote,
+
+134
+00:05:58,320 --> 00:06:00,160
+and I'm like, Jonathan Gruber wrote this?
+
+135
+00:06:00,160 --> 00:06:02,920
+So, you think that young people literally believe
+
+136
+00:06:02,920 --> 00:06:05,120
+they can't get sick, this is a common view?
+
+137
+00:06:06,520 --> 00:06:08,400
+Or maybe they actually have the rational view
+
+138
+00:06:08,400 --> 00:06:10,120
+that they're unlikely to get sick.
+
+139
+00:06:10,120 --> 00:06:13,400
+Another possibility why someone might not buy insurance,
+
+140
+00:06:13,400 --> 00:06:15,280
+but it sounds a lot better to just say,
+
+141
+00:06:15,280 --> 00:06:18,160
+look, these poor people don't have the slightest clue
+
+142
+00:06:18,160 --> 00:06:20,560
+that they are mortal.
+
+143
+00:06:20,560 --> 00:06:21,640
+All right, you might have heard your parents
+
+144
+00:06:21,640 --> 00:06:23,480
+say this in high school, the problem with these kids
+
+145
+00:06:23,480 --> 00:06:26,080
+is they don't realize they could die.
+
+146
+00:06:26,080 --> 00:06:29,740
+Well, it's not literally true, I'm good.
+
+147
+00:06:29,740 --> 00:06:33,720
+Anyway, so, so this is the standard way
+
+148
+00:06:33,720 --> 00:06:37,280
+that economists, the economists model uncertainty,
+
+149
+00:06:37,280 --> 00:06:39,120
+which is to say, look, everyone's unbiased,
+
+150
+00:06:39,120 --> 00:06:40,800
+whether you got perfect information,
+
+151
+00:06:40,800 --> 00:06:43,120
+good information, bad information,
+
+152
+00:06:43,120 --> 00:06:47,840
+the average view in all cases is still literal truth,
+
+153
+00:06:47,840 --> 00:06:51,440
+but, but, the less you know,
+
+154
+00:06:51,440 --> 00:06:53,080
+the greater the variance will be.
+
+155
+00:06:53,080 --> 00:06:55,960
+So, with bad information, you got this big variance,
+
+156
+00:06:55,960 --> 00:06:57,880
+good information, you got a small variance,
+
+157
+00:06:57,880 --> 00:07:01,400
+perfect information, you got a zero variance, and so on.
+
+158
+00:07:03,520 --> 00:07:05,880
+Right, now, there are many myths about rationalizations,
+
+159
+00:07:05,880 --> 00:07:07,920
+and sometimes I feel like some of my colleagues
+
+160
+00:07:07,920 --> 00:07:11,840
+spread the myths, so, I'll, possibly they've stopped,
+
+161
+00:07:11,840 --> 00:07:14,800
+I don't know, but, any case, it is a myth to say
+
+162
+00:07:14,800 --> 00:07:17,040
+that rational expectations assumes perfect knowledge
+
+163
+00:07:17,040 --> 00:07:18,800
+or assumes away ignorance.
+
+164
+00:07:18,800 --> 00:07:21,720
+It doesn't, rational expectations totally allows
+
+165
+00:07:21,720 --> 00:07:25,400
+for ignorance, totally allows for perfect information,
+
+166
+00:07:25,400 --> 00:07:29,080
+but it does require that it look a certain way.
+
+167
+00:07:29,080 --> 00:07:32,520
+So it is a theory about what extreme ignorance looks like.
+
+168
+00:07:32,520 --> 00:07:37,520
+So, if you had an incredibly wide distribution of views,
+
+169
+00:07:38,280 --> 00:07:43,280
+you, that would still be, you would be highly ignorant,
+
+170
+00:07:43,640 --> 00:07:45,480
+you would think almost anything could happen,
+
+171
+00:07:45,480 --> 00:07:47,120
+but as long as your average view were true,
+
+172
+00:07:47,120 --> 00:07:49,480
+then you could still have rational expectations.
+
+173
+00:07:51,240 --> 00:07:53,480
+Okay, so it doesn't rule out error,
+
+174
+00:07:53,480 --> 00:07:56,640
+in fact, any time you see a deviation from truth,
+
+175
+00:07:56,640 --> 00:07:57,760
+that is an error.
+
+176
+00:07:58,920 --> 00:08:00,560
+Right now, sometimes Austrians will say,
+
+177
+00:08:00,560 --> 00:08:02,480
+well, that's not a real error.
+
+178
+00:08:02,480 --> 00:08:04,280
+A real error isn't when you think something
+
+179
+00:08:04,280 --> 00:08:05,800
+and it's not true.
+
+180
+00:08:05,800 --> 00:08:08,920
+A real error is something other than that,
+
+181
+00:08:08,920 --> 00:08:10,880
+and it's like something worse,
+
+182
+00:08:10,880 --> 00:08:13,560
+what's worse than thinking something when it's not true?
+
+183
+00:08:13,560 --> 00:08:16,400
+It's like thinking something that's super not true,
+
+184
+00:08:16,400 --> 00:08:18,880
+being like a million miles from the truth, no, no, no,
+
+185
+00:08:18,880 --> 00:08:21,360
+that's just a regular but severe error.
+
+186
+00:08:21,360 --> 00:08:23,800
+There's a higher kind of error, right?
+
+187
+00:08:23,800 --> 00:08:26,760
+And I have written about this, but ultimately,
+
+188
+00:08:26,760 --> 00:08:28,240
+I cannot plausibly explain it
+
+189
+00:08:28,240 --> 00:08:30,240
+because it doesn't make any sense to me.
+
+190
+00:08:30,240 --> 00:08:33,560
+All right, so again, the best thing people will do
+
+191
+00:08:33,560 --> 00:08:36,240
+is someone will say, look, this talks about
+
+192
+00:08:36,240 --> 00:08:39,520
+the known unknowns, but there's also the unknown unknowns.
+
+193
+00:08:39,520 --> 00:08:40,360
+You may have heard about that,
+
+194
+00:08:40,360 --> 00:08:43,320
+but we know something about these allegedly
+
+195
+00:08:43,320 --> 00:08:45,200
+unknown unknowns.
+
+196
+00:08:45,200 --> 00:08:48,360
+For example, it's like, well, so what are the odds
+
+197
+00:08:48,360 --> 00:08:50,680
+of an unknown unknown mattering?
+
+198
+00:08:50,680 --> 00:08:52,760
+Again, you have an opinion about that.
+
+199
+00:08:52,760 --> 00:08:56,120
+How often in your life have unknown unknowns caused a problem?
+
+200
+00:08:56,120 --> 00:08:57,480
+In that sense, you could still say,
+
+201
+00:08:57,480 --> 00:09:00,080
+well, they're really known unknown unknowns.
+
+202
+00:09:00,080 --> 00:09:02,200
+So while I didn't think about them in advance,
+
+203
+00:09:02,200 --> 00:09:04,960
+I had a general idea about things going wrong.
+
+204
+00:09:04,960 --> 00:09:09,080
+So let's see, so like on,
+
+205
+00:09:09,080 --> 00:09:11,880
+number of times on bets, the bets that I made,
+
+206
+00:09:11,880 --> 00:09:15,240
+there's been an issue, like in the real world,
+
+207
+00:09:15,240 --> 00:09:17,080
+which has allowed me to win, and then someone will say,
+
+208
+00:09:17,080 --> 00:09:18,960
+well, did you anticipate that that issue
+
+209
+00:09:18,960 --> 00:09:19,800
+would allow you to win?
+
+210
+00:09:19,800 --> 00:09:21,520
+I was like, no, I have no clue about that issue.
+
+211
+00:09:21,520 --> 00:09:24,040
+But I did know there would be issues.
+
+212
+00:09:24,040 --> 00:09:25,720
+I knew there would be issues.
+
+213
+00:09:25,720 --> 00:09:28,520
+Like when I have a bet about whether any country
+
+214
+00:09:28,520 --> 00:09:32,480
+in the EU will officially withdraw by January 1st, 2020.
+
+215
+00:09:32,480 --> 00:09:34,360
+I chose the language officially withdraw
+
+216
+00:09:34,360 --> 00:09:36,760
+because I knew that there might be lots
+
+217
+00:09:36,760 --> 00:09:39,480
+of different unofficial attempts to withdraw,
+
+218
+00:09:39,480 --> 00:09:42,400
+or preliminary measures which don't go anywhere,
+
+219
+00:09:42,400 --> 00:09:45,440
+or several steps, and then they stop and delay.
+
+220
+00:09:45,440 --> 00:09:47,600
+Right, and I said officially withdraw by that date
+
+221
+00:09:47,600 --> 00:09:50,080
+because I knew there's tons of stuff going on there.
+
+222
+00:09:50,080 --> 00:09:52,800
+Many things which I would have no ability to articulate,
+
+223
+00:09:52,800 --> 00:09:55,200
+but I still know they're out there.
+
+224
+00:09:55,200 --> 00:09:56,960
+Right, or if you have ever, say,
+
+225
+00:09:56,960 --> 00:09:59,360
+to fill out some bureaucratic paperwork,
+
+226
+00:09:59,360 --> 00:10:01,040
+and then someone says, well, what are the odds
+
+227
+00:10:01,040 --> 00:10:02,600
+you think this is gonna work out for you,
+
+228
+00:10:02,600 --> 00:10:04,480
+that you get your visa or whatever,
+
+229
+00:10:04,480 --> 00:10:06,120
+and you have a probability on that,
+
+230
+00:10:06,120 --> 00:10:09,640
+even though you have very little specific idea
+
+231
+00:10:09,640 --> 00:10:10,480
+about what the problems could be.
+
+232
+00:10:10,480 --> 00:10:11,640
+It's just like, well, it'll be just like
+
+233
+00:10:11,640 --> 00:10:13,780
+some bureaucratic problem or other.
+
+234
+00:10:15,600 --> 00:10:18,040
+As long as you can think of it like that,
+
+235
+00:10:18,040 --> 00:10:19,680
+then it would be counterintuitive.
+
+236
+00:10:19,680 --> 00:10:20,960
+Noted that counterintuitive would come
+
+237
+00:10:20,960 --> 00:10:22,600
+under rationalized negations.
+
+238
+00:10:23,480 --> 00:10:25,200
+All right, now, rationalized negations
+
+239
+00:10:25,200 --> 00:10:27,820
+also does not assume that information is free.
+
+240
+00:10:27,820 --> 00:10:29,440
+In fact, there's an underlying assumption
+
+241
+00:10:29,440 --> 00:10:30,980
+that it's not free because if it were free,
+
+242
+00:10:30,980 --> 00:10:33,720
+why wouldn't everyone have perfect information?
+
+243
+00:10:33,720 --> 00:10:35,420
+If you could get a large and infinite amount for free,
+
+244
+00:10:35,420 --> 00:10:37,200
+then everyone should just be there.
+
+245
+00:10:37,200 --> 00:10:39,720
+So presumably the reason why there is this Y,
+
+246
+00:10:39,720 --> 00:10:41,280
+why there's a Y distribution,
+
+247
+00:10:41,280 --> 00:10:44,120
+is because it's not free to acquire information.
+
+248
+00:10:44,120 --> 00:10:45,280
+Right, and of course, doesn't assume
+
+249
+00:10:45,280 --> 00:10:47,480
+that cognition is free either.
+
+250
+00:10:47,480 --> 00:10:50,340
+So you can think about, for example,
+
+251
+00:10:50,340 --> 00:10:52,880
+the cost of solving the game of chess,
+
+252
+00:10:52,880 --> 00:10:55,560
+a cost no one in the universe, as far as we know,
+
+253
+00:10:55,560 --> 00:10:57,760
+has ever paid because it's still unknown
+
+254
+00:10:57,760 --> 00:10:59,800
+what the solution to chess is.
+
+255
+00:10:59,800 --> 00:11:01,920
+Last time I checked, checkers was solved.
+
+256
+00:11:01,920 --> 00:11:03,200
+I don't know what the solution was,
+
+257
+00:11:03,200 --> 00:11:06,000
+but checkers was solved to mathematicians'
+
+258
+00:11:06,000 --> 00:11:07,000
+eternal satisfaction.
+
+259
+00:11:08,400 --> 00:11:09,240
+Can I ask a question?
+
+260
+00:11:09,240 --> 00:11:10,120
+Oh, sure, sure.
+
+261
+00:11:10,120 --> 00:11:12,480
+So it seems like the way this is modeled,
+
+262
+00:11:12,480 --> 00:11:14,200
+it's like there's a number,
+
+263
+00:11:14,200 --> 00:11:15,680
+and you can be above or below that number.
+
+264
+00:11:15,680 --> 00:11:16,520
+Yes.
+
+265
+00:11:16,520 --> 00:11:18,920
+What about maybe where something's located?
+
+266
+00:11:18,920 --> 00:11:23,840
+Like if someone's searching for gold, or, you know,
+
+267
+00:11:23,840 --> 00:11:26,200
+it doesn't seem like there's a variance
+
+268
+00:11:26,200 --> 00:11:27,840
+of belief about that.
+
+269
+00:11:27,840 --> 00:11:29,080
+Hmm, well, so if it's location,
+
+270
+00:11:29,080 --> 00:11:31,360
+then you just have longitude and latitude,
+
+271
+00:11:31,360 --> 00:11:34,200
+and you could have rational locations about both,
+
+272
+00:11:34,200 --> 00:11:36,680
+and then on average, you're at exactly the right point,
+
+273
+00:11:36,680 --> 00:11:38,640
+but then there's a spread around that.
+
+274
+00:11:39,960 --> 00:11:40,800
+I mean, yeah.
+
+275
+00:11:40,800 --> 00:11:44,280
+But why would we expect the mean to be the true value?
+
+276
+00:11:44,280 --> 00:11:45,960
+Ah, so.
+
+277
+00:11:45,960 --> 00:11:46,800
+You see what I'm saying?
+
+278
+00:11:46,800 --> 00:11:48,160
+Like there's no reason.
+
+279
+00:11:48,160 --> 00:11:51,560
+Well, I mean, so that is a totally fair question,
+
+280
+00:11:51,560 --> 00:11:54,120
+and so John Muth, on the original article,
+
+281
+00:11:54,120 --> 00:11:55,720
+at a footnote, giving three arguments
+
+282
+00:11:55,720 --> 00:11:57,240
+for why we should believe it,
+
+283
+00:11:57,240 --> 00:11:58,920
+the arguments are not awful,
+
+284
+00:11:58,920 --> 00:12:00,760
+but they're also not very convincing.
+
+285
+00:12:01,920 --> 00:12:06,920
+They're sort of like, yeah, kind of, maybe, arguments.
+
+286
+00:12:07,120 --> 00:12:08,480
+Now, and then for a long time,
+
+287
+00:12:08,480 --> 00:12:09,640
+hardly anyone bothered with it,
+
+288
+00:12:09,640 --> 00:12:11,520
+and then psychology and economics came along
+
+289
+00:12:11,520 --> 00:12:12,840
+and started presenting a lot of evidence
+
+290
+00:12:12,840 --> 00:12:15,520
+that actually a lot of errors don't look like that.
+
+291
+00:12:15,520 --> 00:12:17,480
+So, like, as to why should we really believe it,
+
+292
+00:12:17,480 --> 00:12:19,120
+that's a totally fair question.
+
+293
+00:12:19,120 --> 00:12:20,880
+Now, one thing is, like, often you could go
+
+294
+00:12:20,880 --> 00:12:24,480
+and transform the question so that the thing
+
+295
+00:12:24,480 --> 00:12:28,880
+that you are thinking about for errors
+
+296
+00:12:28,880 --> 00:12:31,360
+is just on a different axis or something like that,
+
+297
+00:12:31,360 --> 00:12:34,000
+so maybe it wouldn't literally be location,
+
+298
+00:12:34,000 --> 00:12:35,680
+maybe it would be rational expectations
+
+299
+00:12:35,680 --> 00:12:37,080
+about the amount of time it would take
+
+300
+00:12:37,080 --> 00:12:39,760
+for you to discover gold, for example,
+
+301
+00:12:39,760 --> 00:12:42,160
+and then you transform it from location to time,
+
+302
+00:12:42,160 --> 00:12:44,040
+and of course, what you really wanna think about,
+
+303
+00:12:44,040 --> 00:12:46,320
+well, what's the economically relevant variable?
+
+304
+00:12:46,320 --> 00:12:47,720
+I mean, economically isn't really, like,
+
+305
+00:12:47,720 --> 00:12:49,880
+who cares what the actual geography is?
+
+306
+00:12:49,880 --> 00:12:51,840
+It's really, like, maybe time, or better yet,
+
+307
+00:12:51,840 --> 00:12:54,280
+how about cost, expected value of the cost
+
+308
+00:12:54,280 --> 00:12:56,440
+of finding the gold, which is what people
+
+309
+00:12:56,440 --> 00:12:57,880
+would actually care about.
+
+310
+00:12:57,880 --> 00:12:59,520
+See how that might work.
+
+311
+00:12:59,520 --> 00:13:01,640
+All right, so, I mean, plenty of examples here,
+
+312
+00:13:01,640 --> 00:13:03,240
+so, like, attending graduate school,
+
+313
+00:13:03,240 --> 00:13:05,680
+no one knows for sure how you'll do,
+
+314
+00:13:05,680 --> 00:13:07,520
+but rational expectation says, on average,
+
+315
+00:13:07,520 --> 00:13:09,280
+you'll correctly estimate how well you do in the program
+
+316
+00:13:09,280 --> 00:13:11,240
+and what completion will do it for you.
+
+317
+00:13:11,240 --> 00:13:13,040
+Or it could be running a movie, right?
+
+318
+00:13:13,040 --> 00:13:15,040
+So, until you see it, there's no way to really know
+
+319
+00:13:15,040 --> 00:13:17,440
+for sure how much you're going to like it,
+
+320
+00:13:17,440 --> 00:13:19,880
+but rational expectation says that, on average,
+
+321
+00:13:19,880 --> 00:13:21,920
+your prospective ratings will equal
+
+322
+00:13:21,920 --> 00:13:23,800
+your retrospective ratings.
+
+323
+00:13:23,800 --> 00:13:26,480
+So, now you think about something like Netflix reviews,
+
+324
+00:13:26,480 --> 00:13:29,320
+where you go and you've got a rating
+
+325
+00:13:29,320 --> 00:13:30,440
+you think you're gonna give it,
+
+326
+00:13:30,440 --> 00:13:32,120
+there's a rating you actually give it,
+
+327
+00:13:32,120 --> 00:13:34,720
+and then the question is, on average, are you correct?
+
+328
+00:13:34,720 --> 00:13:37,320
+And if you are, then you've got rational expectations.
+
+329
+00:13:37,320 --> 00:13:40,360
+All right, and then, of course, the same would go
+
+330
+00:13:40,360 --> 00:13:44,440
+for correlation of any errors with available information.
+
+331
+00:13:44,440 --> 00:13:47,800
+So, if you know the genre, the actors, the director,
+
+332
+00:13:47,800 --> 00:13:49,080
+then there shouldn't be any correlation
+
+333
+00:13:49,080 --> 00:13:52,040
+between your errors and that available information.
+
+334
+00:13:52,040 --> 00:13:53,480
+All right, so, if it's prominently displayed,
+
+335
+00:13:53,480 --> 00:13:55,880
+at least that would seem to be a problem.
+
+336
+00:13:56,920 --> 00:13:59,440
+All right, Donald Whitman has an example
+
+337
+00:13:59,440 --> 00:14:01,480
+on pork barrel spending.
+
+338
+00:14:01,480 --> 00:14:03,520
+So, back in the 70s and 80s,
+
+339
+00:14:03,520 --> 00:14:04,960
+there were many public choice economists who said,
+
+340
+00:14:04,960 --> 00:14:07,840
+well, look, do you know why government wastes so much money?
+
+341
+00:14:07,840 --> 00:14:10,240
+Because nobody knows what it's doing.
+
+342
+00:14:10,240 --> 00:14:12,280
+So, of course, there's tons of spending
+
+343
+00:14:12,280 --> 00:14:14,520
+wasted on stupid bridges to nowhere
+
+344
+00:14:14,520 --> 00:14:16,920
+when voters don't know what's going on.
+
+345
+00:14:16,920 --> 00:14:19,600
+All right, that sounds like a plausible story,
+
+346
+00:14:19,600 --> 00:14:23,280
+but Whitman pointed out it's not a rational expectation story
+
+347
+00:14:23,280 --> 00:14:25,960
+because rational expectation says, look,
+
+348
+00:14:25,960 --> 00:14:27,640
+sometimes people overestimate
+
+349
+00:14:27,640 --> 00:14:28,720
+how much government is spending,
+
+350
+00:14:28,720 --> 00:14:29,960
+sometimes they'll underestimate it,
+
+351
+00:14:29,960 --> 00:14:31,760
+but on average, they will be correct.
+
+352
+00:14:31,760 --> 00:14:33,160
+And as long as you know, on average,
+
+353
+00:14:33,160 --> 00:14:35,040
+how much money government is wasting,
+
+354
+00:14:35,040 --> 00:14:37,840
+then you should have the proper level of interest
+
+355
+00:14:37,840 --> 00:14:39,800
+in a politician who says,
+
+356
+00:14:39,800 --> 00:14:42,280
+I'm gonna go and try to save you some money.
+
+357
+00:14:43,200 --> 00:14:45,640
+So, if in fact government's saving very little money,
+
+358
+00:14:45,640 --> 00:14:47,240
+then some politician comes along to that
+
+359
+00:14:47,240 --> 00:14:48,800
+and says, eh, we'll just figure problems
+
+360
+00:14:48,800 --> 00:14:50,000
+and just save you some money.
+
+361
+00:14:50,000 --> 00:14:51,320
+On the other hand, if on average,
+
+362
+00:14:51,320 --> 00:14:53,280
+the correct view is that government's wasting a lot,
+
+363
+00:14:53,280 --> 00:14:56,040
+then you'll be interested in that person, and so on.
+
+364
+00:14:57,360 --> 00:14:59,240
+All right, now let's give an example
+
+365
+00:14:59,240 --> 00:15:01,240
+of applied rationalization,
+
+366
+00:15:01,240 --> 00:15:03,640
+so testing for the rational expectations
+
+367
+00:15:03,640 --> 00:15:05,640
+of beliefs about the economy.
+
+368
+00:15:05,640 --> 00:15:08,760
+So, as I said, the first area where rational expectations
+
+369
+00:15:08,760 --> 00:15:11,240
+made a big splash was in macro.
+
+370
+00:15:11,240 --> 00:15:14,400
+There was no intellectual reason for this at all.
+
+371
+00:15:14,400 --> 00:15:17,280
+All right, so even though rational expectations
+
+372
+00:15:17,280 --> 00:15:20,120
+is psychologically tied to macro,
+
+373
+00:15:20,120 --> 00:15:22,080
+there was never any reason for that,
+
+374
+00:15:22,080 --> 00:15:25,680
+and now, so anytime there's a theory paper
+
+375
+00:15:25,680 --> 00:15:27,560
+that isn't specifically about rational expectations
+
+376
+00:15:27,560 --> 00:15:29,720
+not holding, normally we'll go
+
+377
+00:15:29,720 --> 00:15:31,760
+and build rational expectations in the model,
+
+378
+00:15:31,760 --> 00:15:34,560
+whether it's macro or macro, it doesn't matter.
+
+379
+00:15:34,560 --> 00:15:36,200
+But anyway, so in the 70s,
+
+380
+00:15:36,200 --> 00:15:37,640
+there were a bunch of empirical tests
+
+381
+00:15:37,640 --> 00:15:39,400
+made on things like inflation forecasts
+
+382
+00:15:39,400 --> 00:15:41,600
+to test rational expectations.
+
+383
+00:15:41,600 --> 00:15:43,320
+So how do you do this?
+
+384
+00:15:43,320 --> 00:15:44,400
+Well, very simple.
+
+385
+00:15:44,400 --> 00:15:47,240
+So suppose you've got a bunch of forecasts of inflation.
+
+386
+00:15:47,240 --> 00:15:49,680
+Of course, a forecast means that it's what somebody says
+
+387
+00:15:49,680 --> 00:15:52,080
+about inflation at what time?
+
+388
+00:15:53,400 --> 00:15:55,080
+Before the inflation's observed,
+
+389
+00:15:55,080 --> 00:15:57,280
+otherwise it's not a forecast, all right?
+
+390
+00:15:57,280 --> 00:16:00,280
+So call that F, and then we're gonna estimate this
+
+391
+00:16:00,280 --> 00:16:04,160
+as a constant plus a coefficient times I,
+
+392
+00:16:04,160 --> 00:16:06,800
+where I is actual observed inflation later on.
+
+393
+00:16:06,800 --> 00:16:08,840
+So we can have a bunch of forecasts about inflation,
+
+394
+00:16:08,840 --> 00:16:11,680
+and even today, there would be plenty of newsletters
+
+395
+00:16:11,680 --> 00:16:13,480
+and things like that with different investment advisors
+
+396
+00:16:13,480 --> 00:16:15,240
+give you their forecast of inflation.
+
+397
+00:16:15,240 --> 00:16:18,360
+In the 70s, these might be in little mail,
+
+398
+00:16:18,360 --> 00:16:19,760
+I think they'd actually get in the mail,
+
+399
+00:16:19,760 --> 00:16:21,120
+piece of paper that you might spend
+
+400
+00:16:21,120 --> 00:16:22,400
+hundreds of dollars a year for
+
+401
+00:16:22,400 --> 00:16:24,920
+if you think the person actually knows something.
+
+402
+00:16:24,920 --> 00:16:26,880
+All right, so you've had so many ways.
+
+403
+00:16:26,880 --> 00:16:30,960
+So I is the actual observed inflation after the forecast.
+
+404
+00:16:30,960 --> 00:16:34,080
+Of course, you have to wait until after the forecasts
+
+405
+00:16:34,080 --> 00:16:38,040
+have been, the time, so you have to wait
+
+406
+00:16:38,040 --> 00:16:40,200
+for the time period of the forecast to occur
+
+407
+00:16:40,200 --> 00:16:42,560
+before you can go and find out what really happened,
+
+408
+00:16:42,560 --> 00:16:44,000
+and then compare.
+
+409
+00:16:44,000 --> 00:16:45,440
+All right, now, rational expectations
+
+410
+00:16:45,440 --> 00:16:48,040
+makes a specific prediction.
+
+411
+00:16:48,040 --> 00:16:50,680
+It says that alpha will be zero and beta will be one.
+
+412
+00:16:52,120 --> 00:16:54,200
+All right, and you can get a lot of data,
+
+413
+00:16:54,200 --> 00:16:56,320
+and you can then go and test that hypothesis
+
+414
+00:16:56,320 --> 00:16:57,560
+and see how it turns out.
+
+415
+00:16:58,600 --> 00:17:00,880
+All right, so that's one example.
+
+416
+00:17:00,880 --> 00:17:03,760
+And so in the 70s, usually it didn't work exactly,
+
+417
+00:17:03,760 --> 00:17:05,400
+but especially given that they didn't have
+
+418
+00:17:05,400 --> 00:17:06,960
+a lot of that many data points,
+
+419
+00:17:06,960 --> 00:17:08,920
+a lot of students didn't seem to be too bad.
+
+420
+00:17:09,840 --> 00:17:11,880
+All right, so that's just one example.
+
+421
+00:17:11,880 --> 00:17:12,920
+And of course, this could be anything.
+
+422
+00:17:12,920 --> 00:17:15,240
+That could be interest rates, it could be GDP,
+
+423
+00:17:15,240 --> 00:17:17,120
+anything that people are forecasting.
+
+424
+00:17:17,120 --> 00:17:19,880
+You would go and collect a bunch of forecasts,
+
+425
+00:17:19,880 --> 00:17:21,280
+and then collect a bunch of facts,
+
+426
+00:17:21,280 --> 00:17:22,920
+and then test the forecast against the facts
+
+427
+00:17:22,920 --> 00:17:24,120
+and see what's going on.
+
+428
+00:17:25,280 --> 00:17:27,200
+Right, make sense?
+
+429
+00:17:27,200 --> 00:17:29,880
+Okay, all right, now, another case
+
+430
+00:17:29,880 --> 00:17:31,800
+that's very interesting to me
+
+431
+00:17:31,800 --> 00:17:36,360
+is the rationalizations for beliefs about economics itself.
+
+432
+00:17:36,360 --> 00:17:38,440
+So it seems to me that one of the main goals
+
+433
+00:17:38,440 --> 00:17:41,720
+of intro econ classes is to correct students'
+
+434
+00:17:41,720 --> 00:17:44,200
+misconceptions about economics.
+
+435
+00:17:44,200 --> 00:17:46,920
+Now, what is a misconception?
+
+436
+00:17:46,920 --> 00:17:48,240
+Well, to me, a misconception is something
+
+437
+00:17:48,240 --> 00:17:50,680
+that doesn't fit in that model, right?
+
+438
+00:17:50,680 --> 00:17:52,560
+You know, so like a misconception about free trade
+
+439
+00:17:52,560 --> 00:17:54,960
+isn't maybe free trade is better than it really is.
+
+440
+00:17:54,960 --> 00:17:56,400
+Some people think free trade is better than it is.
+
+441
+00:17:56,400 --> 00:17:58,080
+Other things, it's worse than it really is.
+
+442
+00:17:58,080 --> 00:18:00,880
+Misconception about free trade to me
+
+443
+00:18:00,880 --> 00:18:03,640
+is something like people think that imports are bad
+
+444
+00:18:03,640 --> 00:18:06,520
+and exports are good, and the ideal world is one
+
+445
+00:18:06,520 --> 00:18:07,560
+where you don't import anything
+
+446
+00:18:07,560 --> 00:18:09,320
+and you export all your stuff.
+
+447
+00:18:09,320 --> 00:18:11,640
+That to me is a misconception, right?
+
+448
+00:18:11,640 --> 00:18:13,200
+Or it could be a misconception to think
+
+449
+00:18:13,200 --> 00:18:15,720
+that trade must be based upon absolute advantage,
+
+450
+00:18:15,720 --> 00:18:18,960
+when in fact, trade is based upon, what again?
+
+451
+00:18:18,960 --> 00:18:20,720
+Comparative advantage, right?
+
+452
+00:18:20,720 --> 00:18:25,720
+So these things, so, well, to me, are misconceptions,
+
+453
+00:18:26,440 --> 00:18:29,120
+or, you know, misconception if someone thinks
+
+454
+00:18:29,120 --> 00:18:31,360
+that price controls have no side effects.
+
+455
+00:18:32,440 --> 00:18:35,160
+Right, and you're like, does anyone really think that?
+
+456
+00:18:35,160 --> 00:18:38,000
+Well, I know one person who thought that until he was 17,
+
+457
+00:18:38,000 --> 00:18:40,560
+which is me, because I had no idea
+
+458
+00:18:40,560 --> 00:18:43,080
+there could be any negative side effect of any price control.
+
+459
+00:18:43,080 --> 00:18:45,600
+Never heard it, never occurred to me independently.
+
+460
+00:18:45,600 --> 00:18:47,720
+Furthermore, I never, I have no memory
+
+461
+00:18:47,720 --> 00:18:49,240
+of any human being ever saying
+
+462
+00:18:49,240 --> 00:18:51,480
+there could be anything, any negative effect.
+
+463
+00:18:52,560 --> 00:18:55,920
+Possibly I was just ignoring everyone.
+
+464
+00:18:55,920 --> 00:18:57,560
+Maybe every time I walked down the hall,
+
+465
+00:18:57,560 --> 00:18:59,720
+people were saying, my God, minimum wage
+
+466
+00:18:59,720 --> 00:19:01,720
+and its negative side effects.
+
+467
+00:19:01,720 --> 00:19:03,240
+And I was just lost in my own world,
+
+468
+00:19:03,240 --> 00:19:04,880
+not listening to these things being said,
+
+469
+00:19:04,880 --> 00:19:08,280
+but it just appeared that these things were never mentioned,
+
+470
+00:19:08,280 --> 00:19:10,800
+and instead that everyone around me
+
+471
+00:19:10,800 --> 00:19:14,240
+had the ultra-naive view that the higher the minimum wage,
+
+472
+00:19:14,240 --> 00:19:16,800
+the better for workers, and the only reason
+
+473
+00:19:16,800 --> 00:19:18,000
+anyone could oppose the minimum wage
+
+474
+00:19:18,000 --> 00:19:20,000
+is because you don't care about workers.
+
+475
+00:19:20,880 --> 00:19:24,880
+And now to me, that would count as a misconception, right?
+
+476
+00:19:24,880 --> 00:19:28,440
+A view which is not just some people
+
+477
+00:19:28,440 --> 00:19:30,000
+overestimate the negative side effects,
+
+478
+00:19:30,000 --> 00:19:33,040
+some underestimate them, but rather a systematic tendency
+
+479
+00:19:33,040 --> 00:19:37,380
+to think that the negative side effects just don't exist.
+
+480
+00:19:38,400 --> 00:19:40,320
+All right, so anyway, it seems to me
+
+481
+00:19:40,320 --> 00:19:42,480
+that most intro econ classes try to correct
+
+482
+00:19:42,480 --> 00:19:45,220
+students' preexisting economic misconceptions.
+
+483
+00:19:46,320 --> 00:19:49,000
+Now, of course, it could be that it's the economists
+
+484
+00:19:49,000 --> 00:19:51,440
+who are wrong and students know what they're talking about,
+
+485
+00:19:51,440 --> 00:19:52,640
+at least on average.
+
+486
+00:19:52,640 --> 00:19:55,200
+Might be, well, maybe yes.
+
+487
+00:19:55,200 --> 00:19:57,580
+So there's some people who are naive protectionists,
+
+488
+00:19:57,580 --> 00:19:59,040
+but there's other people who think
+
+489
+00:19:59,040 --> 00:20:23,040
+the free trade will go.
+
+

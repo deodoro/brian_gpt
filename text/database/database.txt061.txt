@@ -1,0 +1,10 @@
+6.  Suppose there are two firms able to produce a good.  Firm #1 has TC=$1000  
++ $0Q ;  Firm #2 has TC= $0 + $10Q.  
+ 
+True, False, and Explain:  If demand goes up high enough, Firm #1 will drop 
+out of the market and Firm #2 wi ll set its price just below Firm #1's AC.  
+ 
+FALSE.  The opposite holds: Firm #2 has lower AC at low quantities, but Firm #1 has lower AC at 
+high quantities.  If quantity>100, Firm #1 can charge just below $10 and take the whole market at 
+a profit.  
+ 

@@ -1,0 +1,1625 @@
+1
+00:00:00,000 --> 00:00:05,840
+All the other ways are fine too, but you'll probably find that is the best one for you.
+
+2
+00:00:05,840 --> 00:00:10,200
+If you're looking on Blackboard for any of the materials, don't.
+
+3
+00:00:10,760 --> 00:00:13,780
+I set up my website long before there was Blackboard,
+
+4
+00:00:13,780 --> 00:00:16,060
+and it works better than Blackboard in my view.
+
+5
+00:00:16,480 --> 00:00:18,480
+So I'm not going to use Blackboard.
+
+6
+00:00:18,480 --> 00:00:20,320
+Just go to bcapla.com.
+
+7
+00:00:20,320 --> 00:00:21,120
+Everything's there.
+
+8
+00:00:21,700 --> 00:00:24,700
+And actually, get the email that I sent out to the whole class.
+
+9
+00:00:24,700 --> 00:00:29,740
+All right, so you can actually download one master file of all the notes
+
+10
+00:00:29,740 --> 00:00:31,200
+for the whole semester in one click.
+
+11
+00:00:31,200 --> 00:00:33,260
+Print that, and that is done.
+
+12
+00:00:33,260 --> 00:00:35,720
+I'm going to see four homeworks.
+
+13
+00:00:35,720 --> 00:00:36,760
+You can get those online.
+
+14
+00:00:36,760 --> 00:00:42,780
+And then for answer keys, I will be just turning on the answer keys as,
+
+15
+00:00:42,780 --> 00:00:43,860
+when you turn them in.
+
+16
+00:00:43,860 --> 00:00:46,560
+So basically, when you are entitled to see the answer keys,
+
+17
+00:00:46,560 --> 00:00:49,500
+then I will change the permissions so that you're able to access them.
+
+18
+00:00:50,440 --> 00:00:51,980
+All right, so that should all be there.
+
+19
+00:00:52,580 --> 00:00:53,520
+All right, so what are we going to do?
+
+20
+00:00:53,520 --> 00:00:56,280
+All right, so remember everything Williams did?
+
+21
+00:00:56,280 --> 00:00:57,320
+We're going to do everything else.
+
+22
+00:00:57,860 --> 00:00:59,740
+All right, all the other stuff.
+
+23
+00:00:59,740 --> 00:01:02,160
+So we're going to do game theory, information economics,
+
+24
+00:01:02,740 --> 00:01:05,640
+and we're also going to explore anomalies.
+
+25
+00:01:06,300 --> 00:01:10,280
+So anomalies was the name of the column that Richard Thaler won his Nobel Prize for,
+
+26
+00:01:10,380 --> 00:01:11,020
+more or less.
+
+27
+00:01:11,620 --> 00:01:15,100
+People said, did he really win for writing a column?
+
+28
+00:01:16,180 --> 00:01:19,980
+Maybe. All right, so Richard Thaler, right, so yes, for many years
+
+29
+00:01:19,980 --> 00:01:22,340
+in the Journal of Economic Perspectives, he had his anomalies column.
+
+30
+00:01:22,340 --> 00:01:26,020
+Sometimes he would summarize his own work, sometimes the other people's.
+
+31
+00:01:26,400 --> 00:01:27,940
+Anyway, so we're going to go over this.
+
+32
+00:01:29,000 --> 00:01:31,860
+I find the longer I've been in economics, the more I think
+
+33
+00:01:31,860 --> 00:01:34,400
+that if you don't know psychology, you cannot be a good economist.
+
+34
+00:01:34,860 --> 00:01:37,380
+And that is what most of the anomalies are all about.
+
+35
+00:01:37,380 --> 00:01:41,500
+Let's see, of course, starting with a really basic one of walking out of bad movies.
+
+36
+00:01:41,500 --> 00:01:43,380
+Everyone here does that now, hopefully.
+
+37
+00:01:43,800 --> 00:01:46,100
+All right, if not, you must steal yourself.
+
+38
+00:01:46,100 --> 00:01:47,940
+It is an affront to economics if you don't.
+
+39
+00:01:48,480 --> 00:01:51,740
+Right, again, of course, the key thing would be, do you do something differently
+
+40
+00:01:51,740 --> 00:01:53,760
+at a free movie versus what you paid for?
+
+41
+00:01:54,440 --> 00:01:56,500
+Because in both cases, since you can't get your money back,
+
+42
+00:01:56,620 --> 00:01:59,520
+then the marginal cost of staying there is just the time.
+
+43
+00:01:59,520 --> 00:02:03,480
+So if you wouldn't keep watching a crummy movie for free, why would you watch it?
+
+44
+00:02:03,480 --> 00:02:06,120
+Because you paid some money that you can no longer get back.
+
+45
+00:02:06,620 --> 00:02:08,020
+All right, that's just one example.
+
+46
+00:02:08,340 --> 00:02:11,320
+I do know, actually, some economists who still don't walk out of movies.
+
+47
+00:02:11,840 --> 00:02:13,220
+Right, I'm aghast.
+
+48
+00:02:13,540 --> 00:02:14,400
+What's going on?
+
+49
+00:02:15,200 --> 00:02:16,780
+But don't you believe this stuff?
+
+50
+00:02:17,300 --> 00:02:18,880
+But, of course, a lot of people don't.
+
+51
+00:02:18,880 --> 00:02:22,420
+And to understand their behavior, you've got to go beyond regular economics,
+
+52
+00:02:22,420 --> 00:02:25,700
+recognize there's something weird about what they're doing, and understand why.
+
+53
+00:02:26,980 --> 00:02:28,380
+All right, and then we got an underlying goal,
+
+54
+00:02:28,380 --> 00:02:32,440
+which all psychology says is extremely difficult, but I'm going to try anyway,
+
+55
+00:02:32,440 --> 00:02:34,180
+which is to teach you to think like economists.
+
+56
+00:02:35,100 --> 00:02:39,060
+So there is a big literature going back 100 years on how hard is it
+
+57
+00:02:39,060 --> 00:02:40,340
+to teach people how to think?
+
+58
+00:02:40,340 --> 00:02:42,880
+And the general answer is incredibly difficult.
+
+59
+00:02:43,920 --> 00:02:48,480
+So people generally just learn exactly what you teach them and then spit it back to you.
+
+60
+00:02:48,480 --> 00:02:52,020
+If you are lucky, if you're lucky, that's what you get your students to do.
+
+61
+00:02:52,580 --> 00:02:57,580
+But we're going to shoot for the stars, so it'll be a ruined shot to actually come away thinking
+
+62
+00:02:57,580 --> 00:03:00,120
+like economists, but we'll see what we can do.
+
+63
+00:03:00,960 --> 00:03:03,120
+All right, and then for prerequisites, so assume that you're familiar
+
+64
+00:03:03,120 --> 00:03:06,560
+with multivariate calculus, right, nothing, not the hard kind,
+
+65
+00:03:06,560 --> 00:03:10,280
+just basic multivariate calculus, and intermediate micro.
+
+66
+00:03:10,900 --> 00:03:14,760
+So, again, you don't absolutely have to have had these classes before, but if you feel
+
+67
+00:03:14,760 --> 00:03:18,020
+like there's something that you don't understand because you didn't take these classes,
+
+68
+00:03:18,020 --> 00:03:21,180
+then you do need to take the extra effort to catch up.
+
+69
+00:03:22,320 --> 00:03:23,340
+All right, and then texts.
+
+70
+00:03:23,880 --> 00:03:27,220
+All right, so we got David Kreps, course in microeconomic theory,
+
+71
+00:03:27,220 --> 00:03:29,660
+so he looks like 25 years old, so it's cheap, right?
+
+72
+00:03:29,660 --> 00:03:30,620
+Is it cheap now?
+
+73
+00:03:30,620 --> 00:03:32,540
+All right, all right, so what is it?
+
+74
+00:03:33,220 --> 00:03:33,760
+How much is it now?
+
+75
+00:03:33,760 --> 00:03:34,140
+Okay, so.
+
+76
+00:03:34,140 --> 00:03:40,560
+Yeah, so have there not been improvements
+
+77
+00:03:40,560 --> 00:03:42,460
+in microeconomic theory in the last 25 years?
+
+78
+00:03:42,460 --> 00:03:48,280
+A little bit, but, you know, not hundreds of dollars per kid worth of improvements.
+
+79
+00:03:48,760 --> 00:03:53,360
+So, you know, the real improvements have come in empirics, right, which we will be touching on,
+
+80
+00:03:53,460 --> 00:03:58,840
+but in a microeconomic theory course, the empirics get sidelined, unfortunately.
+
+81
+00:03:58,840 --> 00:04:01,720
+I've tried to bring them in as much as I can, but there's so much theory to teach you,
+
+82
+00:04:01,720 --> 00:04:03,800
+and of course a lot of times, you know, you know the theory,
+
+83
+00:04:03,800 --> 00:04:05,640
+it's really the empirics don't make sense anyway.
+
+84
+00:04:06,240 --> 00:04:08,120
+So, of course, sometimes once you learn the theory,
+
+85
+00:04:08,120 --> 00:04:10,280
+you realize the empirics don't make sense, right?
+
+86
+00:04:10,280 --> 00:04:11,280
+So there's that problem, too.
+
+87
+00:04:11,280 --> 00:04:12,560
+We'll talk about that a bit.
+
+88
+00:04:12,560 --> 00:04:13,360
+All right, so we got Kreps.
+
+89
+00:04:13,840 --> 00:04:16,520
+Then we got two totally readable books by Steve Landsberg.
+
+90
+00:04:17,040 --> 00:04:20,140
+Then there is Richard Thaler's The Winner's Curse, and then finally,
+
+91
+00:04:20,140 --> 00:04:23,740
+there is Condiment, Thinking Fast and Slow, which is fantastic.
+
+92
+00:04:24,220 --> 00:04:28,160
+All right, then there's also some readings you can get from JSTOR, Mark with an A star,
+
+93
+00:04:28,480 --> 00:04:31,820
+and then anything from me you can get on the class webpage.
+
+94
+00:04:32,820 --> 00:04:34,040
+All right, four grading exams.
+
+95
+00:04:34,040 --> 00:04:36,220
+All right, so we're going to have one midterm and one final.
+
+96
+00:04:36,220 --> 00:04:41,620
+Midterm will be 40%, final is 45, and homeworks are 15, but don't think
+
+97
+00:04:41,620 --> 00:04:42,820
+that means you don't need to do the homeworks,
+
+98
+00:04:42,880 --> 00:04:47,640
+because there is not much variance in the homeworks, especially in a graduate class.
+
+99
+00:04:48,300 --> 00:04:50,560
+Most people just do their work and get full credit,
+
+100
+00:04:51,160 --> 00:04:52,660
+and if you decide you don't feel like doing them,
+
+101
+00:04:52,660 --> 00:04:56,280
+that means that you have lost 15 almost sure percentage points,
+
+102
+00:04:56,900 --> 00:05:03,060
+which can make the difference between, say, an A and a C, an A minus and C anyway.
+
+103
+00:05:03,740 --> 00:05:05,280
+All right, so not advised.
+
+104
+00:05:05,280 --> 00:05:09,020
+Okay, once, actually it wasn't a graduate class, but I had a student who had A's on the test
+
+105
+00:05:09,020 --> 00:05:10,380
+and just didn't do the homework.
+
+106
+00:05:10,380 --> 00:05:13,600
+I was like, man, why are you making me give you a C?
+
+107
+00:05:13,840 --> 00:05:18,560
+I don't want to, but the formula is my contract, so I'm not going to change that.
+
+108
+00:05:19,680 --> 00:05:24,440
+All right, so and these weights are fixed, as I do consider it my contract with you,
+
+109
+00:05:24,800 --> 00:05:29,240
+and so if you are, if your performance on the midterm or the homeworks is poor
+
+110
+00:05:29,620 --> 00:05:32,520
+and you ask me what can I do to improve, the answer
+
+111
+00:05:32,520 --> 00:05:34,020
+to that question is implied by the formula.
+
+112
+00:05:34,020 --> 00:05:36,820
+So just use the formula.
+
+113
+00:05:37,760 --> 00:05:41,380
+All right, and then no formal grade participation, but at the end I do go through
+
+114
+00:05:41,380 --> 00:05:46,700
+and give a one-third grade bump to anyone who, in my subjective opinion, improved the class.
+
+115
+00:05:47,660 --> 00:05:52,420
+See, I also, towards the end, encourage everyone to email me a headshot
+
+116
+00:05:52,820 --> 00:05:56,780
+if you think you, if A, you think you deserve credit, and B, fear I don't know your name.
+
+117
+00:05:57,480 --> 00:05:59,960
+All right, so the conjunction of those things occurs.
+
+118
+00:05:59,960 --> 00:06:04,820
+I will remind you to do this with a class this large, and since we only meet once a week,
+
+119
+00:06:04,820 --> 00:06:07,440
+I think I almost have an excuse for not knowing everybody's names.
+
+120
+00:06:08,120 --> 00:06:14,160
+I will try, but my memory's getting worse over time, not better, unfortunately, Sam,
+
+121
+00:06:14,880 --> 00:06:19,440
+but I will try to make sure that everyone has a chance to get credit if they deserve it.
+
+122
+00:06:19,980 --> 00:06:22,000
+All right, then homework.
+
+123
+00:06:22,060 --> 00:06:24,020
+There's going to be a lot of homework in this class.
+
+124
+00:06:24,020 --> 00:06:27,740
+There'll be eight graded homeworks, as well as two ungraded homeworks.
+
+125
+00:06:28,240 --> 00:06:29,500
+Here's my philosophy.
+
+126
+00:06:29,500 --> 00:06:34,260
+So, first of all, first premise, getting this PhD should now be the most important thing
+
+127
+00:06:34,260 --> 00:06:35,560
+in your life, right?
+
+128
+00:06:35,800 --> 00:06:40,060
+Yes, of course, and then microeconomics is the most important part of the PhD program, right?
+
+129
+00:06:40,060 --> 00:06:40,540
+Of course.
+
+130
+00:06:41,020 --> 00:06:45,600
+So, this class is now the most important thing in your lives, obviously.
+
+131
+00:06:46,180 --> 00:06:49,640
+All right, and if you don't see the multiple logical errors in that argument,
+
+132
+00:06:49,760 --> 00:06:52,360
+don't worry about it because the conclusion's still true.
+
+133
+00:06:52,360 --> 00:06:53,960
+This is the most important thing in your life.
+
+134
+00:06:54,760 --> 00:06:56,540
+All right, the homeworks are great.
+
+135
+00:06:56,540 --> 00:07:00,380
+You receive a discrete grade on them, just check plus, check, check minus.
+
+136
+00:07:00,880 --> 00:07:04,880
+So, if you have check plus and you think that you were mistakenly graded on something
+
+137
+00:07:04,880 --> 00:07:09,400
+but you understand the answer, no need to lobby for a better grade
+
+138
+00:07:09,400 --> 00:07:10,860
+because you already have the best possible grade.
+
+139
+00:07:11,420 --> 00:07:15,200
+All right, and then if you don't turn it in, you get zero points.
+
+140
+00:07:15,300 --> 00:07:16,280
+Late homework, lose a point.
+
+141
+00:07:17,060 --> 00:07:19,800
+Once I activate the answer key, you can't get credit anymore.
+
+142
+00:07:21,080 --> 00:07:23,940
+So, yeah, so I said the best way to contact me is this.
+
+143
+00:07:23,940 --> 00:07:29,100
+You can satisfy most of your requests on the email or rather on the class website.
+
+144
+00:07:29,400 --> 00:07:30,420
+You don't need to do it by email.
+
+145
+00:07:30,420 --> 00:07:32,040
+You can just help yourself, self-service.
+
+146
+00:07:32,700 --> 00:07:34,280
+Then I'm over in Carroll Hall.
+
+147
+00:07:34,760 --> 00:07:36,420
+How many of you have ever been to Carroll Hall?
+
+148
+00:07:37,020 --> 00:07:38,080
+All right, so like half.
+
+149
+00:07:38,620 --> 00:07:40,700
+All right, it's about seven minutes from here.
+
+150
+00:07:41,620 --> 00:07:42,980
+Off in the middle of nowhere.
+
+151
+00:07:43,640 --> 00:07:47,620
+I am more than happy to have visitors at any time during office hours or whatever,
+
+152
+00:07:48,000 --> 00:07:52,620
+but if that is an assumable obstacle to you, there are other ways of contacting me,
+
+153
+00:07:52,620 --> 00:07:55,640
+such as email, phone, I will Skype with you.
+
+154
+00:07:55,640 --> 00:08:00,640
+Every now and then there's someone who works in D.C. who leaves work two hours early to go
+
+155
+00:08:00,640 --> 00:08:02,700
+against traffic to come and see me face to face.
+
+156
+00:08:03,100 --> 00:08:05,720
+They have one question, I'm confused why they did that.
+
+157
+00:08:06,240 --> 00:08:09,960
+You know, quite flattering, but you don't have to suffer like that.
+
+158
+00:08:10,440 --> 00:08:12,960
+It does not factor into your grade or anything like that.
+
+159
+00:08:13,580 --> 00:08:17,380
+Otherwise, people might make up fake stories about how hard they suffered to come here.
+
+160
+00:08:18,060 --> 00:08:18,960
+I live in the North Pole.
+
+161
+00:08:18,960 --> 00:08:20,680
+I only come here just for this.
+
+162
+00:08:20,680 --> 00:08:24,120
+All right, so and then, you know, phone number there.
+
+163
+00:08:24,120 --> 00:08:26,780
+You can still use the phone in many ways is better.
+
+164
+00:08:27,520 --> 00:08:30,880
+Let's see, I've got official office hours Monday, Wednesday from 133.
+
+165
+00:08:31,320 --> 00:08:34,100
+Find a schedule appointment, and I do not mind drop-ins either.
+
+166
+00:08:34,980 --> 00:08:39,860
+With a drop-in, you are assuming the risk that I will not be there or I'll be on the radio.
+
+167
+00:08:39,860 --> 00:08:43,240
+I'm going to be on the radio more often this semester than usual
+
+168
+00:08:43,240 --> 00:08:44,860
+because I have a new book that just came out.
+
+169
+00:08:45,860 --> 00:08:48,280
+All right, okay, and let's see.
+
+170
+00:08:48,280 --> 00:08:49,780
+Then here's the proposed schedule.
+
+171
+00:08:49,780 --> 00:08:55,580
+I've done this class like 16 times, so I feel like I understand the right pace of the class
+
+172
+00:08:55,580 --> 00:08:57,420
+and that we are going to finish all material.
+
+173
+00:08:57,800 --> 00:09:03,480
+Unless they're saying there's two snow days, that will preclude doing everything probably,
+
+174
+00:09:03,960 --> 00:09:05,740
+but then I will start trimming material.
+
+175
+00:09:06,740 --> 00:09:10,940
+All right, and I do happen to get behind because of multiple blizzards.
+
+176
+00:09:11,500 --> 00:09:15,960
+We want to just get us back on track by trimming some of the low marginal value sections,
+
+177
+00:09:15,960 --> 00:09:19,160
+and then we'll still get to the last topics.
+
+178
+00:09:20,580 --> 00:09:22,720
+All right, so let's see.
+
+179
+00:09:22,820 --> 00:09:26,580
+Any questions at all about what we're doing here?
+
+180
+00:09:27,960 --> 00:09:29,320
+So any bureaucratic questions?
+
+181
+00:09:29,320 --> 00:09:31,620
+Anyone wonder whether they're allowed to be here?
+
+182
+00:09:31,980 --> 00:09:32,840
+The answer is yes.
+
+183
+00:09:33,420 --> 00:09:37,400
+So in my book on the signaling model of education,
+
+184
+00:09:37,400 --> 00:09:43,080
+I point out how almost no students ever seek out free education, but here you may receive it.
+
+185
+00:09:43,080 --> 00:09:46,940
+You can receive it from almost anyone, but here you're totally welcome.
+
+186
+00:09:46,940 --> 00:09:48,480
+And if you ever say, can I bring someone?
+
+187
+00:09:48,480 --> 00:09:50,600
+Yes, of course, you can bring all the people you want.
+
+188
+00:09:51,260 --> 00:09:52,800
+I wouldn't let that get crowded.
+
+189
+00:09:53,420 --> 00:09:55,020
+Not in my experience, it will not.
+
+190
+00:09:55,580 --> 00:09:59,920
+This one, we're pushing it just a little bit.
+
+191
+00:09:59,920 --> 00:10:03,260
+So if you have a very large family and you want to bring them all,
+
+192
+00:10:03,860 --> 00:10:09,180
+then maybe there could be a problem, but attendance tends to be high in PhD classes.
+
+193
+00:10:09,180 --> 00:10:13,280
+Upwards of 90% of people keep showing up usually.
+
+194
+00:10:13,980 --> 00:10:16,960
+Anyway, so you don't even have to ask if you want to bring people normally.
+
+195
+00:10:16,960 --> 00:10:22,940
+You can probably just grab a chair from another room and learn PhD microeconomics
+
+196
+00:10:23,000 --> 00:10:24,960
+for free off the grid.
+
+197
+00:10:25,720 --> 00:10:31,860
+And as we'll talk about when we do labor economics and then see how far the unofficial education
+
+198
+00:10:31,860 --> 00:10:34,480
+actually gets you in the labor market, probably won't get you anywhere,
+
+199
+00:10:34,480 --> 00:10:37,520
+but if you just want enlightenment, then here it is.
+
+200
+00:10:37,520 --> 00:10:38,020
+All right.
+
+201
+00:10:38,020 --> 00:10:38,520
+Let's see.
+
+202
+00:10:38,520 --> 00:10:40,540
+I'm not going to go over all the stuff.
+
+203
+00:10:40,540 --> 00:10:42,000
+You can check that out for yourselves.
+
+204
+00:10:42,540 --> 00:10:43,040
+Let's see.
+
+205
+00:10:43,040 --> 00:10:46,380
+Any questions before we actually get started on the real material?
+
+206
+00:10:46,380 --> 00:10:47,380
+Anyone happy?
+
+207
+00:10:47,380 --> 00:10:48,380
+Anyone content?
+
+208
+00:10:48,380 --> 00:10:49,380
+Okay. All right.
+
+209
+00:10:49,380 --> 00:10:50,380
+Let's get this.
+
+210
+00:10:50,380 --> 00:10:51,380
+Let us begin.
+
+211
+00:10:51,380 --> 00:10:52,380
+All right.
+
+212
+00:10:52,380 --> 00:11:01,140
+So this lecture, we're just going to go over two of the main concepts in economics.
+
+213
+00:11:01,140 --> 00:11:06,560
+You've almost certainly heard them before, and yet most people learn them incorrectly
+
+214
+00:11:06,560 --> 00:11:12,480
+and then they continue to believe them incorrectly, and then often I've seen economics professors
+
+215
+00:11:12,480 --> 00:11:18,240
+go and talk to large audiences to say things that are so obviously wrong.
+
+216
+00:11:18,240 --> 00:11:22,640
+Usually people just accept it, but it's like, hey, what you're saying is demonstrably wrong.
+
+217
+00:11:22,640 --> 00:11:28,280
+I disagree, but here's a counter example, devastating, what you said is false.
+
+218
+00:11:28,280 --> 00:11:32,840
+But anyway, so ideally none of you will ever be in that position because you will not say
+
+219
+00:11:32,840 --> 00:11:33,840
+the wrong thing anymore.
+
+220
+00:11:33,840 --> 00:11:34,840
+All right.
+
+221
+00:11:34,840 --> 00:11:35,840
+So let's get started.
+
+222
+00:11:35,840 --> 00:11:36,840
+All right.
+
+223
+00:11:36,840 --> 00:11:37,840
+So efficiency and probability.
+
+224
+00:11:37,840 --> 00:11:38,840
+All right.
+
+225
+00:11:38,840 --> 00:11:44,080
+So, and again, so as I said, I do encourage people to actually print off the notes.
+
+226
+00:11:44,080 --> 00:11:50,800
+There is some actual experimental research on note-taking by hand does improve learning
+
+227
+00:11:50,800 --> 00:11:54,960
+better than just typing on the screen.
+
+228
+00:11:54,960 --> 00:11:56,440
+So it seems pretty solid.
+
+229
+00:11:56,440 --> 00:11:59,800
+So anyway, so you don't absolutely have to, but yeah.
+
+230
+00:11:59,800 --> 00:12:02,760
+So you follow the notes closely.
+
+231
+00:12:02,760 --> 00:12:06,680
+People often find it helpful to have the printed out notes, and then you can go and just write
+
+232
+00:12:06,680 --> 00:12:07,680
+the margins.
+
+233
+00:12:07,680 --> 00:12:11,720
+You are the first people that I'm actually going paperless with.
+
+234
+00:12:11,720 --> 00:12:15,600
+There's a copy center, something like, it's like a three or 400% increase in the price
+
+235
+00:12:15,600 --> 00:12:16,600
+of copying.
+
+236
+00:12:16,600 --> 00:12:19,240
+And if you have a model of that, I'd like to know.
+
+237
+00:12:19,240 --> 00:12:24,320
+It's like, wow, the elasticity of M suddenly fell by a factor of four.
+
+238
+00:12:24,320 --> 00:12:25,320
+All right.
+
+239
+00:12:25,320 --> 00:12:27,120
+I don't think that's a good story.
+
+240
+00:12:27,120 --> 00:12:28,920
+So I don't know what the right story is.
+
+241
+00:12:28,920 --> 00:12:33,240
+But anyway, so it seemed like a good time to start.
+
+242
+00:12:33,240 --> 00:12:34,240
+All right.
+
+243
+00:12:34,240 --> 00:12:36,240
+First of all, so many meetings, efficiency.
+
+244
+00:12:36,240 --> 00:12:42,640
+Efficiency is a word like rationality with many meetings, and people use it to try to
+
+245
+00:12:42,640 --> 00:12:45,360
+end arguments quickly and often with verbal trickery.
+
+246
+00:12:45,360 --> 00:12:48,000
+So you're going to try to prevent the verbal trickery.
+
+247
+00:12:48,000 --> 00:12:54,040
+A lot of equivocation where you use the word in one sense in one paragraph, different sense
+
+248
+00:12:54,040 --> 00:12:56,800
+in another paragraph, but people don't notice what you're doing.
+
+249
+00:12:56,800 --> 00:12:57,800
+All right.
+
+250
+00:12:57,800 --> 00:13:02,080
+So Merriam-Webster College Dictionary defines efficiency as, quote, effective operation
+
+251
+00:13:02,080 --> 00:13:06,800
+is measured by comparison of production with cost, as in energy, time, and money.
+
+252
+00:13:06,800 --> 00:13:09,960
+Once in a long while, economists use the word efficiency in this normal way.
+
+253
+00:13:09,960 --> 00:13:16,600
+It is not unheard of for economists to say this, as in, wouldn't it be more efficient
+
+254
+00:13:16,600 --> 00:13:23,080
+if, say, what would be a good example of this?
+
+255
+00:13:23,080 --> 00:13:30,320
+If, like, wouldn't it be more efficient if everyone were to go and enter the plane with
+
+256
+00:13:30,320 --> 00:13:32,120
+the latest numbers first or something like that?
+
+257
+00:13:32,120 --> 00:13:35,640
+So we are just using the resources better.
+
+258
+00:13:35,640 --> 00:13:36,640
+All right.
+
+259
+00:13:36,640 --> 00:13:37,640
+But yes, sir.
+
+260
+00:13:37,640 --> 00:13:38,640
+Oh, sorry.
+
+261
+00:13:38,640 --> 00:13:39,640
+All right.
+
+262
+00:13:39,640 --> 00:13:40,640
+Yeah.
+
+263
+00:13:40,640 --> 00:13:41,640
+Anyway.
+
+264
+00:13:41,640 --> 00:13:45,200
+By the way, so if you've ever been to the Public Choice Seminar there, I do have the
+
+265
+00:13:45,200 --> 00:13:48,880
+rule of stopping all questions until the lecture is done.
+
+266
+00:13:48,880 --> 00:13:52,200
+Here, of course, you're free to interrupt.
+
+267
+00:13:52,200 --> 00:13:55,840
+So different rules, we optimize for different circumstances.
+
+268
+00:13:55,840 --> 00:13:56,840
+All right.
+
+269
+00:13:56,840 --> 00:13:57,840
+All right.
+
+270
+00:13:57,840 --> 00:14:02,440
+Anyway, so yes, because in seminars, the problem is too many people interrupting and asking
+
+271
+00:14:02,440 --> 00:14:06,160
+questions that are going to be answered eventually, whereas in classrooms, the problem is more
+
+272
+00:14:06,160 --> 00:14:10,440
+of people not asking questions ever, no matter how desperate they are.
+
+273
+00:14:10,440 --> 00:14:11,440
+All right.
+
+274
+00:14:11,440 --> 00:14:16,080
+So anyway, so occasionally, we do use efficiency in this dictionary sense, which would be something
+
+275
+00:14:16,080 --> 00:14:20,200
+like the ratio of the value of output to the value of input, that kind of thing.
+
+276
+00:14:20,200 --> 00:14:23,080
+But normally, we use it in very different ways.
+
+277
+00:14:23,080 --> 00:14:25,080
+And then, as I said, we equivocate.
+
+278
+00:14:25,080 --> 00:14:26,080
+All right.
+
+279
+00:14:26,080 --> 00:14:29,240
+So the most common uses in economics are as follows.
+
+280
+00:14:29,240 --> 00:14:32,240
+First of all, Pareto efficiency.
+
+281
+00:14:32,240 --> 00:14:38,680
+Named after a famed Italian economist, Vilfredo Pareto, the teacher of Mussolini.
+
+282
+00:14:38,680 --> 00:14:42,160
+One of the teachers was the only one who taught Mussolini.
+
+283
+00:14:42,160 --> 00:14:47,320
+Mussolini was in exile, and he came to the University of Lassalle, and then Pareto taught
+
+284
+00:14:47,320 --> 00:14:48,320
+him.
+
+285
+00:14:48,320 --> 00:14:50,880
+So there are some interesting questions about connection.
+
+286
+00:14:50,880 --> 00:14:53,880
+Nothing to do with what this efficiency concept.
+
+287
+00:14:53,880 --> 00:14:54,880
+All right.
+
+288
+00:14:54,880 --> 00:15:03,160
+And another one, Calgary efficiency, which strangely is widely used in government, although
+
+289
+00:15:03,160 --> 00:15:07,000
+no one ever says Calgary or X when they do it.
+
+290
+00:15:07,000 --> 00:15:10,000
+Instead, they call it just cost-benefit efficiency.
+
+291
+00:15:10,000 --> 00:15:12,000
+Cost-benefit efficiency.
+
+292
+00:15:12,000 --> 00:15:14,000
+All right.
+
+293
+00:15:14,000 --> 00:15:20,320
+Now, a lot of micro builds around efficiency, so it's very important to understand these
+
+294
+00:15:20,320 --> 00:15:21,320
+terms in precise meanings.
+
+295
+00:15:21,320 --> 00:15:22,320
+All right.
+
+296
+00:15:22,320 --> 00:15:23,320
+And that's what we're going to do.
+
+297
+00:15:23,320 --> 00:15:24,320
+All right.
+
+298
+00:15:24,320 --> 00:15:25,320
+So starting with Pareto efficiency.
+
+299
+00:15:25,320 --> 00:15:26,320
+All right.
+
+300
+00:15:26,320 --> 00:15:30,320
+How many people have ever heard of the first or second welfare theorems?
+
+301
+00:15:30,320 --> 00:15:31,320
+Yes.
+
+302
+00:15:31,320 --> 00:15:32,320
+Often discussed.
+
+303
+00:15:32,320 --> 00:15:33,320
+All right.
+
+304
+00:15:33,320 --> 00:15:34,320
+And we're going to do them today, next week.
+
+305
+00:15:34,320 --> 00:15:35,320
+All right.
+
+306
+00:15:35,320 --> 00:15:38,320
+So anyway, most of them, so many of the most famous theorems, in fact, I was able to say
+
+307
+00:15:38,320 --> 00:15:42,320
+the two most famous theorems in microeconomics are about Pareto efficiency.
+
+308
+00:15:42,320 --> 00:15:49,320
+A situation is Pareto efficient if and only if, that's that familiar with the if or do
+
+309
+00:15:49,320 --> 00:15:50,320
+Fs.
+
+310
+00:15:50,320 --> 00:15:51,320
+That's not a typo.
+
+311
+00:15:51,320 --> 00:15:52,320
+If and only if.
+
+312
+00:15:52,320 --> 00:15:53,320
+All right.
+
+313
+00:15:53,320 --> 00:15:57,320
+It's Pareto efficient if and only if the only way to make one person better off is to make
+
+314
+00:15:57,320 --> 00:15:58,320
+another person worse off.
+
+315
+00:15:58,320 --> 00:16:02,320
+The only way to make one person better off is to make another person worse off.
+
+316
+00:16:02,320 --> 00:16:06,320
+And then a Pareto improvement is any change that makes at least one person better off
+
+317
+00:16:06,320 --> 00:16:09,320
+without making anyone else worse off.
+
+318
+00:16:09,320 --> 00:16:13,320
+So notice these are two concepts that fit together.
+
+319
+00:16:13,320 --> 00:16:17,320
+Where if you are Pareto efficient, can you have a Pareto improvement?
+
+320
+00:16:17,320 --> 00:16:18,320
+No.
+
+321
+00:16:18,320 --> 00:16:19,320
+Right.
+
+322
+00:16:19,320 --> 00:16:23,320
+So the only way to have a Pareto improvement is if the world is not Pareto efficient.
+
+323
+00:16:23,320 --> 00:16:30,320
+I have seen professors actually go and say, well, this change is going to be Pareto efficient.
+
+324
+00:16:30,320 --> 00:16:31,320
+Wait a second.
+
+325
+00:16:31,320 --> 00:16:32,320
+No, no, no.
+
+326
+00:16:32,320 --> 00:16:37,320
+If things were Pareto efficient, then it couldn't be a, then there couldn't be a change.
+
+327
+00:16:37,320 --> 00:16:38,320
+What are you talking about?
+
+328
+00:16:38,320 --> 00:16:43,320
+So you are mixing up two concepts which actually preclude each other.
+
+329
+00:16:43,320 --> 00:16:49,320
+So when you're done with all the Pareto improvements, you've done every single possible one, then
+
+330
+00:16:49,320 --> 00:16:51,320
+you're in the world of Pareto efficiency.
+
+331
+00:16:51,320 --> 00:16:52,320
+OK.
+
+332
+00:16:52,320 --> 00:16:56,320
+Now sometimes when people are explaining Pareto efficiency, they say, they give a slightly
+
+333
+00:16:56,320 --> 00:16:57,320
+different definition.
+
+334
+00:16:57,320 --> 00:17:00,320
+And when you hear it, you say, wait, that's not slightly different.
+
+335
+00:17:00,320 --> 00:17:01,320
+That's really different.
+
+336
+00:17:01,320 --> 00:17:05,320
+Another definition people give of Pareto efficiency is to say that there's no way to make everyone
+
+337
+00:17:05,320 --> 00:17:06,320
+better off.
+
+338
+00:17:06,320 --> 00:17:11,320
+Now, is there a difference between making everyone better off and making one person
+
+339
+00:17:11,320 --> 00:17:12,320
+better off and no one else worse off?
+
+340
+00:17:12,320 --> 00:17:14,320
+Are those the same thing?
+
+341
+00:17:14,320 --> 00:17:16,320
+In normal English, those are not the same thing.
+
+342
+00:17:16,320 --> 00:17:19,320
+And in the real world, they're not the same thing.
+
+343
+00:17:19,320 --> 00:17:24,320
+The trick is that when theorists use the terms, they're assuming perfect continuity, perfect
+
+344
+00:17:24,320 --> 00:17:25,320
+divisibility of the world.
+
+345
+00:17:25,320 --> 00:17:29,320
+And therefore, if one person is better off by a penny, we can just go and split that
+
+346
+00:17:29,320 --> 00:17:33,320
+penny 7.6 billion ways, and then everyone's better off.
+
+347
+00:17:33,320 --> 00:17:39,320
+So in that bizarre scenario that is actually the standard one a theorist assumes, then
+
+348
+00:17:39,320 --> 00:17:41,320
+the two things are the same.
+
+349
+00:17:41,320 --> 00:17:43,320
+But anyway, the more fundamental one is the first one.
+
+350
+00:17:43,320 --> 00:17:48,320
+You make one person better off at least without making anyone else worse off.
+
+351
+00:17:48,320 --> 00:17:49,320
+OK.
+
+352
+00:17:49,320 --> 00:17:55,320
+Now, it is, so in theory, it is possible that I can propose, just imagine we're the only
+
+353
+00:17:55,320 --> 00:17:56,320
+people on Earth.
+
+354
+00:17:56,320 --> 00:17:57,320
+There's no one else on Earth.
+
+355
+00:17:57,320 --> 00:18:00,320
+And I propose an idea which is a genuine Pareto proof.
+
+356
+00:18:00,320 --> 00:18:03,320
+It is conceivable that every one of you will complain.
+
+357
+00:18:03,320 --> 00:18:05,320
+Say, that's a terrible idea.
+
+358
+00:18:05,320 --> 00:18:06,320
+It's the worst idea I ever heard.
+
+359
+00:18:06,320 --> 00:18:10,320
+Everyone will be throwing tomatoes at me for proposing a Pareto improvement.
+
+360
+00:18:10,320 --> 00:18:16,320
+It's like, why would someone get people angry at them for proposing a Pareto improvement?
+
+361
+00:18:16,320 --> 00:18:18,320
+Everyone, so at least one person can be better off.
+
+362
+00:18:18,320 --> 00:18:20,320
+No one's worse off.
+
+363
+00:18:20,320 --> 00:18:25,320
+And the answer to that is the same reason why you might go and complain when your boss
+
+364
+00:18:25,320 --> 00:18:27,320
+offers you a $10 raise.
+
+365
+00:18:27,320 --> 00:18:30,320
+A $10 raise, that's all you're offering?
+
+366
+00:18:30,320 --> 00:18:32,320
+Like, well, is $10 better than nothing?
+
+367
+00:18:32,320 --> 00:18:34,320
+Shut up.
+
+368
+00:18:34,320 --> 00:18:36,320
+No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+
+369
+00:18:36,320 --> 00:18:37,320
+don't distract the issue.
+
+370
+00:18:37,320 --> 00:18:39,320
+The important thing is I want what?
+
+371
+00:18:39,320 --> 00:18:41,320
+Starts with an M.
+
+372
+00:18:41,320 --> 00:18:42,320
+More.
+
+373
+00:18:42,320 --> 00:18:43,320
+More.
+
+374
+00:18:43,320 --> 00:18:48,320
+So why might everyone in the room get mad at me when I go and propose a Pareto improvement?
+
+375
+00:18:48,320 --> 00:18:50,320
+Because everyone wants more.
+
+376
+00:18:50,320 --> 00:18:52,320
+You all might want to get extra.
+
+377
+00:18:52,320 --> 00:18:53,320
+Right?
+
+378
+00:18:53,320 --> 00:18:56,320
+So, you know, this could be, you know, it's just down to two people.
+
+379
+00:18:56,320 --> 00:18:59,320
+And I say, well, how about, you know, I cook and you clean.
+
+380
+00:18:59,320 --> 00:19:01,320
+And that's a great deal for you.
+
+381
+00:19:01,320 --> 00:19:03,320
+You might say, no way.
+
+382
+00:19:03,320 --> 00:19:04,320
+You do both.
+
+383
+00:19:04,320 --> 00:19:06,320
+That's the deal I want.
+
+384
+00:19:06,320 --> 00:19:07,320
+What do you do?
+
+385
+00:19:07,320 --> 00:19:09,320
+I eat the food.
+
+386
+00:19:09,320 --> 00:19:10,320
+All right.
+
+387
+00:19:10,320 --> 00:19:11,320
+But I keep you company.
+
+388
+00:19:11,320 --> 00:19:12,320
+That's what I can offer.
+
+389
+00:19:12,320 --> 00:19:13,320
+All right.
+
+390
+00:19:13,320 --> 00:19:17,320
+And even though my name's a Pareto improvement, you might be jockeying to get a bigger share
+
+391
+00:19:17,320 --> 00:19:19,320
+of the surplus.
+
+392
+00:19:19,320 --> 00:19:20,320
+All right.
+
+393
+00:19:20,320 --> 00:19:23,320
+So it's not equivalent to what's been called a demonstrated preference standard where
+
+394
+00:19:23,320 --> 00:19:26,320
+everyone has to sign on.
+
+395
+00:19:26,320 --> 00:19:29,320
+There could be a Pareto improvement that's widely objected to.
+
+396
+00:19:29,320 --> 00:19:32,320
+In fact, every single person could be saying this is terrible.
+
+397
+00:19:32,320 --> 00:19:35,320
+You can all sign a petition saying, you know, this is the worst idea ever.
+
+398
+00:19:35,320 --> 00:19:37,320
+And I just say, tough luck.
+
+399
+00:19:37,320 --> 00:19:39,320
+This is what you're getting.
+
+400
+00:19:39,320 --> 00:19:40,320
+Shut up.
+
+401
+00:19:40,320 --> 00:19:43,320
+And it's possible that's a Pareto improvement.
+
+402
+00:19:43,320 --> 00:19:46,320
+It's also possible that I'm ruining all your lives.
+
+403
+00:19:46,320 --> 00:19:53,320
+But the point is that this concept could, in principle, apply to a room of people that
+
+404
+00:19:53,320 --> 00:19:56,320
+are all complaining and saying that they're unhappy.
+
+405
+00:19:56,320 --> 00:19:59,320
+And that's completely possible.
+
+406
+00:19:59,320 --> 00:20:00,320
+All right.
+
+

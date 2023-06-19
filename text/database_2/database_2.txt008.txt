@@ -1,0 +1,8 @@
+8.In experiments on the endowment effect, some people are given mugs and asked to sell them back, while others are merely given the opportunity to buy a mug. The Coase Theorem predicts that mugs will sell for the same price in both treatments.
+ 
+True, False, and Explain: Thaler admits that transactions costs make it impossible to give a clear experimental prediction about mug prices.
+
+False. Pg. 65  -  "Since transactions costs have been shown to be insignificant in the induced value markets, and income effects are trivial, a clear prediction is available; when the market clears, the objects will be owned by those subjects who value them most." This is the prediction, but evidence shows that there are fewer trades than predicted. *re-word this.
+
+
+

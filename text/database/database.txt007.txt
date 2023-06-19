@@ -1,0 +1,14 @@
+5.  True, False, and Explain:  In a game of complete and perfect information, 
+every Nash equilibrium is subgame perfect, and MSNE can never  exist.  
+ 
+FALSE.  Kreps Figure 12.11(a) shows a game of complete and perfect information with two NE, 
+only one of which is subgame perfect.  Every gam e of complete and perfect information has a 
+SGPNE, but that does NOT mean that every NE is SGP.  
+ 
+MSNE can exist in a game of complete and perfect information if there are tied payoffs.  
+ 
+ 
+ 
+ 
+ 
+ 

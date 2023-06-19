@@ -1,0 +1,24 @@
+4.  Consider the following normal form:  
+ 
+ Left  Right  
+Left  2,2  0,0  
+Right  0,0  0,0  
+ 
+True, False, and Explain:   This game has one PSNE and one MSNE, but it 
+can be solved through weak dominance.  
+ 
+FALSE.  Th e game has two PSNE: (Left, Left), and (Right, Right).  It has no MSNE – if you try to 
+solve for one, you just get “play Right ” with 100% probability for both players.  The game can 
+however be solved through weak dominance: Left is sometimes better the Rig ht, and never 
+worse.  
+ 
+ 
+Problems 5 and 6 refer to the following information.  
+ 
+Kreps imagines a monopolist’s monologue:  
+ 
+Out there are many people who would enter this industry and take away my 
+profits if they thought they that they could themselves make a p rofit... My choice 
+of an output level of 5 may look silly in the short run, but if it keeps you (and other 
+potential entrants) out of my market, it is a good strategy to employ.  
+ 

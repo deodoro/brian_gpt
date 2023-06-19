@@ -1,0 +1,16 @@
+1.  Suppose a million new immigrants enter the U.S., driving down the wages of 
+low -skilled Americans by $1/hour.  
+ 
+True, False, and Explain:  According to Landsburg ( Fair Play ), this change 
+usually increases Kaldor -Hicks ef ficien cy, because the positive effect of 
+population growth on innovation tends to outweigh the negative externality 
+of falling wages.  
+ 
+FALSE.  While Landsburg does discuss the R&D externalities of population growth, he explains 
+that falling wages are not a n externality at all.  It is at worst a transfer from workers to employers, 
+and if there is any demand elasticity the fall leads to additional surplus.  
+ 
+Several students also mentioned that immigration does not necessarily increase world R&D 
+because one co untry's population must fall for another's to rise.  These answers received a 
+couple extra points.  
+ 

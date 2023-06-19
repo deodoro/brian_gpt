@@ -1,0 +1,1997 @@
+1
+00:00:00,000 --> 00:00:01,960
+So when you put goods in your shopping basket,
+
+2
+00:00:01,960 --> 00:00:03,040
+you are buying a vector.
+
+3
+00:00:03,900 --> 00:00:04,800
+Buying a vector of stuff.
+
+4
+00:00:04,800 --> 00:00:07,340
+You have a comfortable look at the vectors.
+
+5
+00:00:07,340 --> 00:00:08,060
+All right.
+
+6
+00:00:08,560 --> 00:00:09,020
+That's a vector.
+
+7
+00:00:09,900 --> 00:00:12,680
+Okay. And then, of course, we also have a price vector.
+
+8
+00:00:13,160 --> 00:00:17,160
+Price vector is going to be, you know, is going to list the prices
+
+9
+00:00:17,160 --> 00:00:19,080
+of one of each of these objects.
+
+10
+00:00:19,080 --> 00:00:20,200
+All right.
+
+11
+00:00:20,200 --> 00:00:21,440
+And then, of course, when you're trying to find
+
+12
+00:00:21,440 --> 00:00:24,920
+out how much does your whole shopping cart cost,
+
+13
+00:00:25,600 --> 00:00:27,680
+then you are doing vector multiplication.
+
+14
+00:00:27,680 --> 00:00:30,900
+You're taking, well, the price of, you know, price of pigs times the number of pigs.
+
+15
+00:00:30,900 --> 00:00:31,820
+What's the price of pancakes?
+
+16
+00:00:31,820 --> 00:00:32,480
+Number of pancakes.
+
+17
+00:00:32,800 --> 00:00:35,620
+What's the price of gouda times the amount of gouda times the price
+
+18
+00:00:35,620 --> 00:00:38,580
+of gouda plus the number of tic tac times the price of tic tacs?
+
+19
+00:00:39,060 --> 00:00:42,300
+And that equals whatever you have to pay the cash register on.
+
+20
+00:00:42,840 --> 00:00:46,420
+Right? You're trying to figure out how much money am I going to have to pay?
+
+21
+00:00:46,460 --> 00:00:48,760
+Take the price of good one times the amount
+
+22
+00:00:48,760 --> 00:00:51,480
+of good one times the price of good one plus the amount of good two times the price
+
+23
+00:00:51,480 --> 00:00:53,460
+of good two plus the amount of the good three times the price
+
+24
+00:00:53,460 --> 00:00:58,740
+good three, and so on, for all K goods that you purchased.
+
+25
+00:00:58,740 --> 00:01:02,420
+So there's the continuous price vector, which all consumers
+
+26
+00:01:02,420 --> 00:01:04,500
+treat as exogenous.
+
+27
+00:01:04,500 --> 00:01:06,220
+Again, that means that every individual
+
+28
+00:01:06,220 --> 00:01:10,020
+assumes that that price vector is above them and beyond them.
+
+29
+00:01:10,020 --> 00:01:14,100
+They have no effect on that price vector at all.
+
+30
+00:01:14,100 --> 00:01:16,260
+And then we can define a general equilibrium
+
+31
+00:01:16,260 --> 00:01:19,540
+as follows, a situation in which your consumer
+
+32
+00:01:19,540 --> 00:01:23,580
+may maximize the own utility subject to this constraint
+
+33
+00:01:23,580 --> 00:01:24,540
+for all individuals.
+
+34
+00:01:24,540 --> 00:01:28,140
+So every single individual does this,
+
+35
+00:01:28,140 --> 00:01:30,300
+maximize utility subject to the constraint
+
+36
+00:01:30,300 --> 00:01:33,500
+that the price vector times the consumption vector
+
+37
+00:01:33,500 --> 00:01:35,460
+is less than or equal to the price vector times
+
+38
+00:01:35,460 --> 00:01:36,740
+his personal endowment vector.
+
+39
+00:01:36,740 --> 00:01:40,180
+So actually, we should put an i there, too.
+
+40
+00:01:40,180 --> 00:01:43,540
+So again, this just means that no individual consumes more
+
+41
+00:01:43,540 --> 00:01:46,580
+than he has income.
+
+42
+00:01:46,580 --> 00:01:47,900
+Duh, right?
+
+43
+00:01:47,900 --> 00:01:50,780
+So every individual must live within his means.
+
+44
+00:01:50,780 --> 00:01:52,820
+Now, if you're wondering, what's with the less
+
+45
+00:01:52,820 --> 00:01:54,780
+than or equal to thing?
+
+46
+00:01:54,780 --> 00:01:58,700
+This is a finicky mathematician's thing.
+
+47
+00:01:58,700 --> 00:02:02,140
+It just says, look, it's possible, logically,
+
+48
+00:02:02,140 --> 00:02:07,500
+for a person to consume less than they're equal for.
+
+49
+00:02:07,500 --> 00:02:09,700
+Now, you might say, yeah, this is a one-period model.
+
+50
+00:02:09,700 --> 00:02:11,500
+And every one of people, utility's increasing at all
+
+51
+00:02:11,500 --> 00:02:12,260
+goods.
+
+52
+00:02:12,260 --> 00:02:15,060
+So why would anyone ever fail and not spend their money?
+
+53
+00:02:15,060 --> 00:02:17,980
+Why would anyone ever hold back even a penny?
+
+54
+00:02:17,980 --> 00:02:21,460
+And that's where, for a finicky mathematical economist,
+
+55
+00:02:21,460 --> 00:02:24,180
+they say, whoa, whoa, whoa, slow down there.
+
+56
+00:02:24,180 --> 00:02:26,980
+That's going to be a corollary.
+
+57
+00:02:26,980 --> 00:02:30,780
+So don't try to take away one of my results from me now.
+
+58
+00:02:30,780 --> 00:02:32,740
+You might say, yeah, but that's totally trivial.
+
+59
+00:02:32,740 --> 00:02:35,860
+I need W or what?
+
+60
+00:02:35,860 --> 00:02:38,700
+Look, this is a major intellectual accomplishment
+
+61
+00:02:38,700 --> 00:02:40,980
+to start with a less than or equal to sign
+
+62
+00:02:40,980 --> 00:02:45,460
+and then replace it with a full epoch sign.
+
+63
+00:02:45,460 --> 00:02:47,180
+If you're like, so what?
+
+64
+00:02:47,180 --> 00:02:48,740
+Sorry, yeah, that's my reaction, too.
+
+65
+00:02:48,740 --> 00:02:53,500
+But anyway, in the subculture or cult of mathematical economics,
+
+66
+00:02:53,500 --> 00:02:55,900
+depending upon your view, it's really cool
+
+67
+00:02:55,900 --> 00:02:57,740
+to start off with a mathematically weaker
+
+68
+00:02:57,740 --> 00:03:00,860
+assumption, no matter how intuitively obvious it is
+
+69
+00:03:00,860 --> 00:03:02,380
+what's going to happen in the end.
+
+70
+00:03:02,380 --> 00:03:05,980
+And then you can crank an extra result out.
+
+71
+00:03:05,980 --> 00:03:09,180
+And you can even go and put it in a special font.
+
+72
+00:03:09,180 --> 00:03:10,980
+Let us six.
+
+73
+00:03:10,980 --> 00:03:13,980
+Everyone consumes all their money.
+
+74
+00:03:13,980 --> 00:03:16,660
+Whoa.
+
+75
+00:03:16,660 --> 00:03:19,060
+So part of what we're doing here is
+
+76
+00:03:19,060 --> 00:03:21,140
+we're just getting an example of what
+
+77
+00:03:21,140 --> 00:03:22,980
+this kind of work looks like.
+
+78
+00:03:22,980 --> 00:03:26,780
+And partly, of course, I'm just copying it out of the book.
+
+79
+00:03:26,780 --> 00:03:29,420
+Not just copying, but that's part of what I'm doing.
+
+80
+00:03:29,420 --> 00:03:31,660
+When I went to write the notes, I went back to the book
+
+81
+00:03:31,660 --> 00:03:34,100
+to make sure, yeah, that works.
+
+82
+00:03:34,100 --> 00:03:34,980
+OK.
+
+83
+00:03:34,980 --> 00:03:35,700
+All right.
+
+84
+00:03:35,700 --> 00:03:36,620
+So there's that.
+
+85
+00:03:36,620 --> 00:03:39,780
+So for any individual, every individual can't.
+
+86
+00:03:39,780 --> 00:03:41,940
+No individual can consume more than they've got.
+
+87
+00:03:41,940 --> 00:03:43,400
+But that's not the only constraint.
+
+88
+00:03:43,400 --> 00:03:46,940
+The other constraint is that society cannot consume more
+
+89
+00:03:46,940 --> 00:03:49,340
+than society has for anything.
+
+90
+00:03:49,340 --> 00:03:52,300
+So individuals can consume more than what they start with
+
+91
+00:03:52,300 --> 00:03:53,820
+of lots of stuff.
+
+92
+00:03:53,820 --> 00:03:54,860
+That's fine.
+
+93
+00:03:54,860 --> 00:03:57,300
+If you had one really valuable good that you didn't like,
+
+94
+00:03:57,300 --> 00:03:58,620
+you could sell it all.
+
+95
+00:03:58,620 --> 00:04:01,380
+And then you could go and buy tons of all the other stuff.
+
+96
+00:04:01,380 --> 00:04:02,540
+That would be fine.
+
+97
+00:04:02,540 --> 00:04:03,700
+But society can't do that.
+
+98
+00:04:03,700 --> 00:04:06,180
+Society cannot consume more than it starts with.
+
+99
+00:04:06,180 --> 00:04:12,500
+So what we need for society is for the summation of all the xi's
+
+100
+00:04:12,500 --> 00:04:25,060
+to be less than or equal to the summation of all the x super i's
+
+101
+00:04:25,060 --> 00:04:31,420
+is equal to the summation of all the e i's, e super i's.
+
+102
+00:04:31,420 --> 00:04:34,260
+Now, again, remember, this is new because these are actually
+
+103
+00:04:34,260 --> 00:04:35,820
+vectors.
+
+104
+00:04:35,820 --> 00:04:38,300
+So this is saying, and intuitively what this means
+
+105
+00:04:38,300 --> 00:04:42,980
+is that every single commodity that we have,
+
+106
+00:04:42,980 --> 00:04:46,580
+society cannot consume more of anything than exists.
+
+107
+00:04:46,580 --> 00:04:51,060
+So even if there's 1,001 goods and we're OK on 1,000 of them,
+
+108
+00:04:51,060 --> 00:04:52,620
+but then society's consuming more
+
+109
+00:04:52,620 --> 00:04:56,220
+than exists of one of those 1,001 goods,
+
+110
+00:04:56,220 --> 00:04:57,700
+that is not allowed.
+
+111
+00:04:57,700 --> 00:04:58,580
+Something's wrong.
+
+112
+00:04:58,580 --> 00:05:00,160
+We have not really solved the problem.
+
+113
+00:05:00,160 --> 00:05:02,460
+Something is screwing if it turns out
+
+114
+00:05:02,460 --> 00:05:04,540
+that people are consuming more than exists.
+
+115
+00:05:04,540 --> 00:05:08,580
+And that is like operating at 101% of your potential.
+
+116
+00:05:08,580 --> 00:05:11,780
+Can anyone operate at 101% of their potential?
+
+117
+00:05:11,780 --> 00:05:12,580
+No.
+
+118
+00:05:12,580 --> 00:05:14,700
+By definition, as the Simpsons teach us,
+
+119
+00:05:14,700 --> 00:05:17,180
+100% is the maximum that anyone can do.
+
+120
+00:05:17,180 --> 00:05:19,180
+Potential is the maximum anyone can do.
+
+121
+00:05:19,180 --> 00:05:22,140
+If you appear to be doing more than 100% of your potential,
+
+122
+00:05:22,140 --> 00:05:28,020
+it is because your potential was mismeasured, misestimated.
+
+123
+00:05:28,020 --> 00:05:28,740
+All right.
+
+124
+00:05:28,740 --> 00:05:30,580
+Now, this is all I got to say.
+
+125
+00:05:30,580 --> 00:05:32,280
+So I will be first to admit this is not
+
+126
+00:05:32,280 --> 00:05:34,020
+the most exciting part of economics.
+
+127
+00:05:34,020 --> 00:05:36,700
+But there is a useful intuition here.
+
+128
+00:05:36,700 --> 00:05:38,780
+And the useful intuition is this.
+
+129
+00:05:38,780 --> 00:05:42,060
+We've got a world where we assume that, first of all,
+
+130
+00:05:42,060 --> 00:05:43,460
+endowments are fixed.
+
+131
+00:05:43,460 --> 00:05:44,500
+So there's no production.
+
+132
+00:05:44,500 --> 00:05:46,220
+There's just a pile of stuff that exists.
+
+133
+00:05:46,220 --> 00:05:48,140
+Nothing anybody can do about that.
+
+134
+00:05:48,140 --> 00:05:51,020
+And then also, preferences are fixed.
+
+135
+00:05:51,020 --> 00:05:53,860
+This isn't general psychological theory.
+
+136
+00:05:53,860 --> 00:05:55,940
+This is general equilibrium theory.
+
+137
+00:05:55,940 --> 00:05:59,020
+And so these preferences, the weights
+
+138
+00:05:59,020 --> 00:06:01,460
+that people put on each good, those are going to be fixed,
+
+139
+00:06:01,460 --> 00:06:02,980
+too.
+
+140
+00:06:02,980 --> 00:06:05,340
+And by the way, so we no longer even need this assumption
+
+141
+00:06:05,340 --> 00:06:07,820
+as this functional form as long as utility is increasing
+
+142
+00:06:07,820 --> 00:06:09,660
+in the good for everybody.
+
+143
+00:06:09,660 --> 00:06:10,220
+All right.
+
+144
+00:06:10,220 --> 00:06:12,980
+So if we can't change the amount of stuff,
+
+145
+00:06:12,980 --> 00:06:16,020
+and we can't change the tastes, how can we
+
+146
+00:06:16,020 --> 00:06:17,980
+make the world consistent?
+
+147
+00:06:17,980 --> 00:06:21,140
+And the answer is, well, let me give you a hint.
+
+148
+00:06:21,140 --> 00:06:22,020
+This isn't economics.
+
+149
+00:06:22,020 --> 00:06:24,220
+Since this is, in fact, PhD economics,
+
+150
+00:06:24,220 --> 00:06:26,500
+what is the thing that does vary?
+
+151
+00:06:26,500 --> 00:06:27,180
+What's left?
+
+152
+00:06:27,180 --> 00:06:30,780
+Where does the flexibility of the world come from?
+
+153
+00:06:30,780 --> 00:06:31,280
+Prices.
+
+154
+00:06:31,280 --> 00:06:32,460
+Prices, yes.
+
+155
+00:06:32,460 --> 00:06:33,780
+Prices can vary.
+
+156
+00:06:33,780 --> 00:06:36,700
+Prices are what allows society to be consistent and make
+
+157
+00:06:36,700 --> 00:06:37,540
+sense.
+
+158
+00:06:37,540 --> 00:06:41,660
+Prices are what reconciles all of the inconsistent
+
+159
+00:06:41,660 --> 00:06:44,100
+wants of mankind.
+
+160
+00:06:44,100 --> 00:06:47,420
+It is what reconciles all the endowments, regardless
+
+161
+00:06:47,420 --> 00:06:48,980
+what the endowments might be.
+
+162
+00:06:48,980 --> 00:06:50,860
+The prices are what moves around so that even
+
+163
+00:06:50,860 --> 00:06:53,780
+if endowments change, if the amount of one thing
+
+164
+00:06:53,780 --> 00:06:56,820
+becomes greater or smaller, if someone actually
+
+165
+00:06:56,820 --> 00:06:59,300
+drops all their stuff into the ocean.
+
+166
+00:06:59,300 --> 00:07:03,180
+Prices are what allows the world to continue to be internally
+
+167
+00:07:03,180 --> 00:07:06,020
+consistent and make sense.
+
+168
+00:07:06,020 --> 00:07:08,340
+So the price vector P is what is left.
+
+169
+00:07:08,340 --> 00:07:12,060
+The price vector P is what is around and can still vary.
+
+170
+00:07:12,060 --> 00:07:14,500
+And that is, again, general regulatory theory.
+
+171
+00:07:14,500 --> 00:07:16,620
+It's saying, given all this information
+
+172
+00:07:16,620 --> 00:07:18,540
+about all the individuals in society,
+
+173
+00:07:18,540 --> 00:07:21,620
+what is the social outcome?
+
+174
+00:07:21,620 --> 00:07:23,460
+Which is a bigger question that is asking,
+
+175
+00:07:23,460 --> 00:07:25,860
+what does any one individual do?
+
+176
+00:07:25,860 --> 00:07:28,260
+And again, that kind of begs the question, well,
+
+177
+00:07:28,260 --> 00:07:31,860
+can all individuals simultaneously be
+
+178
+00:07:31,860 --> 00:07:32,500
+maximizing?
+
+179
+00:07:32,500 --> 00:07:34,100
+Is that even possible?
+
+180
+00:07:34,100 --> 00:07:37,300
+And the answer is, under these assumptions, it's possible.
+
+181
+00:07:37,300 --> 00:07:37,800
+Questions?
+
+182
+00:07:37,800 --> 00:07:39,780
+Everyone content?
+
+183
+00:07:39,780 --> 00:07:44,340
+Everyone still energized and ready to learn this stuff?
+
+184
+00:07:44,340 --> 00:07:46,220
+OK.
+
+185
+00:07:46,220 --> 00:07:49,260
+Now, we come to sufficient conditions
+
+186
+00:07:49,260 --> 00:07:52,260
+for the existence of general equilibrium.
+
+187
+00:07:52,260 --> 00:07:54,300
+But first, let's back up.
+
+188
+00:07:54,300 --> 00:07:57,380
+It's very important to remember the difference in logic
+
+189
+00:07:57,380 --> 00:08:00,220
+between necessary and sufficient conditions.
+
+190
+00:08:03,620 --> 00:08:05,340
+Necessary and sufficient conditions.
+
+191
+00:08:05,340 --> 00:08:07,100
+So if something's a necessary condition,
+
+192
+00:08:07,100 --> 00:08:09,020
+this means that if you don't have it,
+
+193
+00:08:09,020 --> 00:08:09,780
+you don't have it.
+
+194
+00:08:09,780 --> 00:08:11,820
+If you lack a necessary condition for x,
+
+195
+00:08:11,820 --> 00:08:14,260
+you definitely don't have x.
+
+196
+00:08:14,260 --> 00:08:15,940
+On the other hand, sufficient conditions
+
+197
+00:08:15,940 --> 00:08:19,460
+tell you if you've got the stuff, you've got x.
+
+198
+00:08:19,460 --> 00:08:21,620
+But there could be lots of other ways of doing it.
+
+199
+00:08:21,620 --> 00:08:23,180
+So if you lack a necessary condition,
+
+200
+00:08:23,180 --> 00:08:24,900
+then you don't have the thing you want.
+
+201
+00:08:24,900 --> 00:08:27,900
+If you lack a sufficient condition, you might still have it.
+
+202
+00:08:27,900 --> 00:08:29,900
+Because there could be many different sufficient
+
+203
+00:08:29,900 --> 00:08:30,940
+conditions.
+
+204
+00:08:30,940 --> 00:08:32,740
+So you think about this.
+
+205
+00:08:32,740 --> 00:08:36,700
+So suppose someone has been, yeah,
+
+206
+00:08:36,700 --> 00:08:38,340
+I kind of go for the gruesome example.
+
+207
+00:08:38,340 --> 00:08:40,860
+So if I've been decapitated, say, all right,
+
+208
+00:08:40,860 --> 00:08:43,060
+is that a sufficient condition to kill me?
+
+209
+00:08:43,060 --> 00:08:43,740
+Yes.
+
+210
+00:08:43,740 --> 00:08:45,660
+But it's not the only way to kill me.
+
+211
+00:08:45,660 --> 00:08:47,020
+There's lots of ways to kill me.
+
+212
+00:08:47,020 --> 00:08:49,340
+You could stone me to death by electrifying me.
+
+213
+00:08:49,340 --> 00:08:50,260
+There's tons of stuff.
+
+214
+00:08:50,260 --> 00:08:52,680
+Hopefully, you're not planning on doing any of this stuff.
+
+215
+00:08:52,680 --> 00:08:54,580
+But there's lots of ways of doing it.
+
+216
+00:08:54,580 --> 00:08:55,260
+All right.
+
+217
+00:08:55,260 --> 00:08:58,860
+Now, in general, in mathematics, and especially
+
+218
+00:08:58,860 --> 00:09:02,700
+in mathematical economics, very often what you're receiving
+
+219
+00:09:02,700 --> 00:09:04,180
+are sufficient conditions.
+
+220
+00:09:04,180 --> 00:09:05,740
+And yet, people often be confused
+
+221
+00:09:05,740 --> 00:09:07,740
+and think they're getting necessary conditions.
+
+222
+00:09:07,740 --> 00:09:09,260
+So it's very useful to keep in mind,
+
+223
+00:09:09,260 --> 00:09:12,100
+to remember which thing are you actually giving us.
+
+224
+00:09:12,100 --> 00:09:12,700
+All right.
+
+225
+00:09:12,700 --> 00:09:14,260
+So if you had a proof where you said,
+
+226
+00:09:14,260 --> 00:09:16,500
+look, if you don't have condition alpha,
+
+227
+00:09:16,500 --> 00:09:18,220
+then it doesn't happen.
+
+228
+00:09:18,220 --> 00:09:20,340
+Then that's a proof about necessary conditions.
+
+229
+00:09:20,340 --> 00:09:21,340
+On the other hand, if you said, look,
+
+230
+00:09:21,340 --> 00:09:24,300
+if these six assumptions are met, then it happens.
+
+231
+00:09:24,300 --> 00:09:27,100
+Then that's just a proof about sufficient conditions.
+
+232
+00:09:27,100 --> 00:09:29,340
+And the way you can think about it
+
+233
+00:09:29,340 --> 00:09:31,100
+is, if you got sufficient conditions,
+
+234
+00:09:31,100 --> 00:09:35,140
+then you could say, well, so we know.
+
+235
+00:09:35,140 --> 00:09:38,500
+So if that's happened, then this definitely occurred.
+
+236
+00:09:38,500 --> 00:09:40,940
+And you say, yeah, but could it still occur in other ways?
+
+237
+00:09:40,940 --> 00:09:44,460
+Yeah, but then we couldn't know for sure.
+
+238
+00:09:44,460 --> 00:09:46,740
+So just like in a good zombie movie,
+
+239
+00:09:46,740 --> 00:09:49,420
+when do you know for sure the zombie's dead?
+
+240
+00:09:49,420 --> 00:09:49,920
+All right.
+
+241
+00:09:49,920 --> 00:09:52,540
+Well, decapitation is, again, the standard.
+
+242
+00:09:52,540 --> 00:09:53,460
+The zombie's fine.
+
+243
+00:09:53,460 --> 00:09:55,300
+There's nothing that zombie's going to do.
+
+244
+00:09:55,300 --> 00:09:57,620
+And there's a lot of other cases where it's like, well,
+
+245
+00:09:57,620 --> 00:09:59,140
+probably he's not coming back.
+
+246
+00:09:59,140 --> 00:10:01,180
+Probably the zombie's gone.
+
+247
+00:10:01,180 --> 00:10:02,900
+But again, if you're a mathematician,
+
+248
+00:10:02,900 --> 00:10:05,100
+you're like, probably not good enough.
+
+249
+00:10:05,100 --> 00:10:07,540
+If I don't have absolute mathematical proof,
+
+250
+00:10:07,540 --> 00:10:11,060
+I'm not coming within 100 feet of that zombie.
+
+251
+00:10:11,060 --> 00:10:13,420
+Zombie movies, that's generally a wise approach.
+
+252
+00:10:13,420 --> 00:10:15,060
+But anyway, if you're a mathematician,
+
+253
+00:10:15,060 --> 00:10:18,660
+you are generally obsessed with having absolute certainty.
+
+254
+00:10:18,660 --> 00:10:20,940
+And that is why they put so much energy
+
+255
+00:10:20,940 --> 00:10:23,900
+into mathematical proofs that say, we've got absolute proof.
+
+256
+00:10:23,900 --> 00:10:25,500
+And if all these conditions are met,
+
+257
+00:10:25,500 --> 00:10:27,420
+then this thing definitely occurs.
+
+258
+00:10:27,420 --> 00:10:29,260
+So yeah, but maybe it occurred, and maybe we
+
+259
+00:10:29,260 --> 00:10:30,260
+didn't need that.
+
+260
+00:10:30,260 --> 00:10:32,220
+What if we just came up with something
+
+261
+00:10:32,220 --> 00:10:34,060
+that gave us preponderance of the evidence,
+
+262
+00:10:34,060 --> 00:10:35,060
+and that's good enough?
+
+263
+00:10:35,060 --> 00:10:36,860
+And we can watch the mathematicians,
+
+264
+00:10:36,860 --> 00:10:38,940
+the hair on the back of their neck go up,
+
+265
+00:10:38,940 --> 00:10:41,420
+and the fire in their eyes.
+
+266
+00:10:41,420 --> 00:10:44,140
+You think that's, what would it be?
+
+267
+00:10:44,140 --> 00:10:46,140
+Did Ptolemy just say, no, not Ptolemy.
+
+268
+00:10:46,140 --> 00:10:47,860
+You could just say that he had something
+
+269
+00:10:47,860 --> 00:10:50,340
+that probably showed about what the angles
+
+270
+00:10:50,340 --> 00:10:51,260
+of the triangle were.
+
+271
+00:10:51,260 --> 00:10:53,220
+No, he worked and worked and worked
+
+272
+00:10:53,220 --> 00:10:55,300
+until he had absolute proof.
+
+273
+00:10:55,300 --> 00:10:57,500
+And I won't settle for anything less.
+
+274
+00:10:57,500 --> 00:11:00,060
+That is the mathematician's mentality.
+
+275
+00:11:00,060 --> 00:11:02,620
+So now we're going to talk about sufficient conditions
+
+276
+00:11:02,620 --> 00:11:04,660
+for the existence of general equilibrium.
+
+277
+00:11:04,660 --> 00:11:08,100
+So key point, the equilibrium might exist anyway,
+
+278
+00:11:08,100 --> 00:11:10,740
+even if these conditions are not met.
+
+279
+00:11:10,740 --> 00:11:12,180
+And we're going to talk about that.
+
+280
+00:11:12,180 --> 00:11:14,140
+But if all these assumptions are met,
+
+281
+00:11:14,140 --> 00:11:20,180
+then we've got a guarantee, a mathematical ironclad proof.
+
+282
+00:11:20,180 --> 00:11:22,980
+And again, this word proof in that technical mathematician
+
+283
+00:11:22,980 --> 00:11:26,100
+sense, if this, like, we've proven it,
+
+284
+00:11:26,100 --> 00:11:29,500
+there is no way in the world this is wrong now.
+
+285
+00:11:29,500 --> 00:11:31,060
+Unless, of course, the mathematician
+
+286
+00:11:31,060 --> 00:11:33,660
+made an error somewhere, which could have happened.
+
+287
+00:11:33,660 --> 00:11:36,620
+But that's not true mathematics.
+
+288
+00:11:36,620 --> 00:11:38,700
+And you start worrying, what about the fallibility
+
+289
+00:11:38,700 --> 00:11:39,620
+of the mathematician?
+
+290
+00:11:39,620 --> 00:11:41,200
+No, no, no, you're putting probability
+
+291
+00:11:41,200 --> 00:11:42,900
+into a beautiful proof.
+
+292
+00:11:42,900 --> 00:11:44,180
+It won't let you do it.
+
+293
+00:11:44,180 --> 00:11:45,980
+No.
+
+294
+00:11:45,980 --> 00:11:48,460
+So anyways, general equilibrium might still
+
+295
+00:11:48,460 --> 00:11:52,020
+exist even though sufficient conditions are not met.
+
+296
+00:11:52,020 --> 00:11:53,660
+Right, all right.
+
+297
+00:11:53,660 --> 00:11:55,460
+OK.
+
+298
+00:11:55,460 --> 00:11:57,500
+Yes, and by the way, so like another good example
+
+299
+00:11:57,500 --> 00:11:59,040
+is you may have ever, how many of you
+
+300
+00:11:59,040 --> 00:12:01,420
+have ever heard of Arrow's impossibility theorem?
+
+301
+00:12:01,420 --> 00:12:01,980
+Yes.
+
+302
+00:12:01,980 --> 00:12:03,560
+If more properly named, it would just
+
+303
+00:12:03,560 --> 00:12:06,460
+be Arrow's impossible to be certain theorem, which
+
+304
+00:12:06,460 --> 00:12:09,540
+sounds a lot less cool, right?
+
+305
+00:12:09,540 --> 00:12:12,540
+Because he doesn't really prove that it's
+
+306
+00:12:12,540 --> 00:12:14,540
+impossible to meet all of his conditions.
+
+307
+00:12:14,540 --> 00:12:17,700
+Just proves it's impossible to be certain.
+
+308
+00:12:17,700 --> 00:12:19,160
+And when you hear that, well, yeah,
+
+309
+00:12:19,160 --> 00:12:20,460
+I didn't care that much anyway.
+
+310
+00:12:20,460 --> 00:12:23,500
+So I don't have to be certain as long as it's not that likely.
+
+311
+00:12:23,500 --> 00:12:24,980
+All right, anyway.
+
+312
+00:12:24,980 --> 00:12:28,660
+OK, so let's just go through these sufficient conditions.
+
+313
+00:12:28,660 --> 00:12:31,300
+All right, so first thing to notice,
+
+314
+00:12:31,300 --> 00:12:33,860
+the inequalities can be replaced with equalities
+
+315
+00:12:33,860 --> 00:12:37,940
+because we assume strictly increasing utility.
+
+316
+00:12:37,940 --> 00:12:42,100
+So that's just a little finicky thing that we can take care of.
+
+317
+00:12:42,100 --> 00:12:46,060
+All right, and then secondly, since this is an endowment
+
+318
+00:12:46,060 --> 00:12:49,500
+economy, we can multiply all prices through by a scalar
+
+319
+00:12:49,500 --> 00:12:51,940
+that we'll call lambda.
+
+320
+00:12:51,940 --> 00:12:54,980
+And this means so if p is an equilibrium price vector,
+
+321
+00:12:54,980 --> 00:12:58,540
+then lambda times p is as well, where the lambda is a scalar.
+
+322
+00:12:58,540 --> 00:13:01,460
+So basically, this is like you can knock a 0 off all
+
+323
+00:13:01,460 --> 00:13:03,500
+of your currency at every price in the economy
+
+324
+00:13:03,500 --> 00:13:04,900
+and it doesn't change anything.
+
+325
+00:13:04,900 --> 00:13:07,180
+You've heard about economies where sometimes they just
+
+326
+00:13:07,180 --> 00:13:09,180
+knock four 0's off the currency.
+
+327
+00:13:09,180 --> 00:13:10,820
+This is basically that.
+
+328
+00:13:10,820 --> 00:13:14,220
+It's saying that if we knock four 0's off everything,
+
+329
+00:13:14,220 --> 00:13:16,780
+then nothing changes.
+
+330
+00:13:16,780 --> 00:13:19,020
+And what this means is that we can restrict attention
+
+331
+00:13:19,020 --> 00:13:22,780
+to price vectors where they sum to 1.
+
+332
+00:13:22,780 --> 00:13:26,220
+You're saying, all right, so OK, but who cares?
+
+333
+00:13:26,220 --> 00:13:28,660
+Well, the answer is there's a bunch of theorems that only
+
+334
+00:13:28,660 --> 00:13:32,620
+work if the price vector of a vector sums to 1.
+
+335
+00:13:32,620 --> 00:13:34,260
+These are big theorems in topology
+
+336
+00:13:34,260 --> 00:13:35,900
+where that's a key assumption.
+
+337
+00:13:35,900 --> 00:13:38,900
+And so what this is showing is that we can cleanly
+
+338
+00:13:38,900 --> 00:13:44,020
+go and take the economy and do a slight trivial transformation
+
+339
+00:13:44,020 --> 00:13:46,780
+of it, and we can shoehorn it into a theorem that's already
+
+340
+00:13:46,780 --> 00:13:50,340
+been proven by some really smart people.
+
+341
+00:13:50,340 --> 00:13:52,180
+And by the way, this is a general strategy
+
+342
+00:13:52,180 --> 00:13:55,060
+any time you're proving anything in mathematical economics.
+
+343
+00:13:55,060 --> 00:13:58,180
+Say, is there a theorem that's almost exactly the same
+
+344
+00:13:58,180 --> 00:13:59,340
+as what I'm trying to prove?
+
+345
+00:13:59,340 --> 00:14:00,760
+Well, step one, is there a theorem
+
+346
+00:14:00,760 --> 00:14:03,140
+that's exactly the same as what I'm trying to prove?
+
+347
+00:14:03,140 --> 00:14:05,500
+In that case, just say, hey, that theorem.
+
+348
+00:14:05,500 --> 00:14:06,900
+I'm done.
+
+349
+00:14:06,900 --> 00:14:08,660
+Unfortunately, that won't get you papers.
+
+350
+00:14:08,660 --> 00:14:09,300
+It's too easy.
+
+351
+00:14:09,300 --> 00:14:11,700
+So you really want to have some intermediate difficulty
+
+352
+00:14:11,700 --> 00:14:14,620
+where, say, right, so there isn't any theorem that exactly
+
+353
+00:14:14,620 --> 00:14:18,700
+fits this, but I can go and do three little transformations,
+
+354
+00:14:18,700 --> 00:14:21,900
+and I can show that the problem that's economically interesting
+
+355
+00:14:21,900 --> 00:14:25,740
+is isomorphic to the theorems that are long been known.
+
+356
+00:14:25,740 --> 00:14:27,700
+But that's not obvious, and so give me tenure
+
+357
+00:14:27,700 --> 00:14:29,020
+for writing this paper.
+
+358
+00:14:29,020 --> 00:14:34,340
+OK, so that's important, at least professionally.
+
+359
+00:14:34,340 --> 00:14:36,140
+So you're familiar with the general way
+
+360
+00:14:36,140 --> 00:14:40,860
+in which dream jobs for life are handed out in academia?
+
+361
+00:14:40,860 --> 00:14:42,460
+Are the dream jobs for life handed out
+
+362
+00:14:42,460 --> 00:14:43,740
+for excellent teaching?
+
+363
+00:14:43,740 --> 00:14:44,240
+No.
+
+364
+00:14:44,240 --> 00:14:44,740
+No.
+
+365
+00:14:47,220 --> 00:14:51,460
+Are they handed out for being a really nice guy?
+
+366
+00:14:51,460 --> 00:14:52,140
+No.
+
+367
+00:14:52,140 --> 00:14:55,460
+Once in a little bit, but no.
+
+368
+00:14:55,460 --> 00:14:58,420
+That will put you over the top.
+
+369
+00:14:58,420 --> 00:15:01,060
+Are they handed out for publications?
+
+370
+00:15:01,060 --> 00:15:02,340
+Yes.
+
+371
+00:15:02,340 --> 00:15:05,820
+What if the publications are ultimately just not that good?
+
+372
+00:15:05,820 --> 00:15:07,420
+Do people often steal your dream jobs
+
+373
+00:15:07,420 --> 00:15:10,220
+for life for publications that aren't even that good?
+
+374
+00:15:10,220 --> 00:15:12,940
+How many publications that weren't that good?
+
+375
+00:15:12,940 --> 00:15:14,820
+That's an important question.
+
+376
+00:15:14,820 --> 00:15:16,940
+And of course, this has no bearing
+
+377
+00:15:16,940 --> 00:15:19,060
+upon our own glorious economics department here,
+
+378
+00:15:19,060 --> 00:15:22,380
+but I have served on the tenure oversight committee,
+
+379
+00:15:22,380 --> 00:15:25,860
+and I've seen the horrors of the system up front.
+
+380
+00:15:25,860 --> 00:15:30,340
+And yeah, so there are a lot of people getting jobs
+
+381
+00:15:30,340 --> 00:15:34,620
+that I call dream job for life for work that just seems quite
+
+382
+00:15:34,620 --> 00:15:36,180
+crummy, but they got it.
+
+383
+00:15:36,180 --> 00:15:38,260
+They racked up a bunch of publications in some place
+
+384
+00:15:38,260 --> 00:15:39,260
+or other.
+
+385
+00:15:39,260 --> 00:15:41,460
+Doesn't the quality of the publication matter?
+
+386
+00:15:41,460 --> 00:15:43,420
+Depends a lot upon the school.
+
+387
+00:15:43,420 --> 00:15:45,860
+If you're at Harvard, yeah, then in fact,
+
+388
+00:15:45,860 --> 00:15:49,540
+low-rank publications probably count for negative at Harvard.
+
+389
+00:15:49,540 --> 00:15:51,460
+But on the other hand, it depends on how low.
+
+390
+00:15:51,460 --> 00:15:53,100
+But what were you actually able to say?
+
+391
+00:15:53,100 --> 00:15:54,860
+If you're a assistant professor at Harvard,
+
+392
+00:15:54,860 --> 00:15:57,740
+then if you want a publication in a low-rank journal,
+
+393
+00:15:57,740 --> 00:15:59,900
+people say, what in the world is he wasting his time
+
+394
+00:15:59,900 --> 00:16:01,420
+with those losers for?
+
+395
+00:16:01,420 --> 00:16:03,140
+So there have been some people at Harvard
+
+396
+00:16:03,140 --> 00:16:06,060
+who've gotten tenure based upon three papers in the air
+
+397
+00:16:06,060 --> 00:16:07,060
+or something like that.
+
+398
+00:16:07,060 --> 00:16:08,680
+Let me have Harvard, go one level down.
+
+399
+00:16:08,680 --> 00:16:10,020
+Wow, you say.
+
+400
+00:16:10,020 --> 00:16:11,060
+All right.
+
+401
+00:16:11,060 --> 00:16:14,300
+But anyway, so where was I?
+
+402
+00:16:14,300 --> 00:16:17,340
+Yeah, so anyway, but if you just go down
+
+403
+00:16:17,340 --> 00:16:19,700
+to schools that are ranked, say, 50 to 100,
+
+404
+00:16:19,700 --> 00:16:21,940
+then it's very common you've got 10 publications some way
+
+405
+00:16:21,940 --> 00:16:23,020
+or other.
+
+406
+00:16:23,020 --> 00:16:24,860
+And then all you need to do is combine that
+
+407
+00:16:24,860 --> 00:16:27,260
+with some letter writers who say that you walk on water,
+
+408
+00:16:27,260 --> 00:16:29,660
+and that you're awesome, and that your 10 publications are
+
+409
+00:16:29,660 --> 00:16:31,060
+path-breaking and brilliant.
+
+410
+00:16:31,060 --> 00:16:34,220
+And how many people cannot find a single human being
+
+411
+00:16:34,220 --> 00:16:36,100
+willing to write such a letter for them
+
+412
+00:16:36,100 --> 00:16:39,020
+when their whole future is on the line?
+
+413
+00:16:39,020 --> 00:16:40,580
+I have yet to encounter a person who
+
+414
+00:16:40,580 --> 00:16:44,260
+could not get such a letter, just saying.
+
+415
+00:16:44,260 --> 00:16:48,060
+All right, so this seems like a very cynical view.
+
+416
+00:16:48,060 --> 00:16:51,420
+I suppose it is, but it doesn't mean it's wrong.
+
+417
+00:16:51,420 --> 00:16:53,660
+Yeah, so yes, when I was on the committee,
+
+418
+00:16:53,660 --> 00:16:55,460
+I tried to point out some of these ugly trues
+
+419
+00:16:55,460 --> 00:16:57,740
+and try to say, perhaps we should raise our standards a
+
+420
+00:16:57,740 --> 00:16:58,240
+bit.
+
+421
+00:16:58,240 --> 00:17:00,660
+And generally, I just ran into a brick wall.
+
+422
+00:17:00,660 --> 00:17:02,860
+Then finally, I found out the best thing
+
+423
+00:17:02,860 --> 00:17:04,360
+I could do on the committee was just
+
+424
+00:17:04,360 --> 00:17:06,500
+to stop them from hassling deserving people.
+
+425
+00:17:06,500 --> 00:17:08,620
+Because sometimes they'll be very deserving people,
+
+426
+00:17:08,620 --> 00:17:09,660
+like, well, the letter was printed
+
+427
+00:17:09,660 --> 00:17:10,820
+on official stationery.
+
+428
+00:17:10,820 --> 00:17:12,460
+I don't think we can count this.
+
+429
+00:17:12,460 --> 00:17:15,820
+And I was like, come on.
+
+430
+00:17:15,820 --> 00:17:18,060
+All right, so I felt like I could at least prevent
+
+431
+00:17:18,060 --> 00:17:20,020
+someone's life from being screwed up.
+
+432
+00:17:20,020 --> 00:17:22,020
+In the end, of course, they would still get it.
+
+433
+00:17:22,020 --> 00:17:25,260
+But just to stop someone from screwing someone else,
+
+434
+00:17:25,260 --> 00:17:26,780
+I can serve that function.
+
+435
+00:17:26,780 --> 00:17:28,140
+I'm no longer on this committee.
+
+436
+00:17:28,140 --> 00:17:31,380
+No, it's not that.
+
+437
+00:17:31,380 --> 00:17:33,980
+It's one of those things where I learned a lot about the world
+
+438
+00:17:33,980 --> 00:17:35,380
+a little bit worse than I thought.
+
+439
+00:17:35,380 --> 00:17:37,180
+And I'm traumatized by it.
+
+440
+00:17:37,180 --> 00:17:40,700
+But still, at least I did look into the belly of the beast
+
+441
+00:17:40,700 --> 00:17:42,540
+and just see, yeah.
+
+442
+00:17:42,540 --> 00:17:44,780
+You thought the system was functioned before.
+
+443
+00:17:44,780 --> 00:17:46,500
+See, and the other thing I'll say,
+
+444
+00:17:46,500 --> 00:17:47,940
+I know this is a regression advice,
+
+445
+00:17:47,940 --> 00:17:49,460
+but I do have to mention it, since this does
+
+446
+00:17:49,460 --> 00:17:50,780
+bear upon your future.
+
+447
+00:17:50,780 --> 00:17:53,740
+There was one professor with a British accent
+
+448
+00:17:53,740 --> 00:17:55,500
+who says, a dream job full of life?
+
+449
+00:17:55,500 --> 00:17:56,900
+What are you bloody talking about?
+
+450
+00:17:56,900 --> 00:17:58,140
+We work in Fairfax.
+
+451
+00:17:58,140 --> 00:18:05,020
+And I say, look, it's a job to receive a middle class salary
+
+452
+00:18:05,020 --> 00:18:08,540
+to do whatever you want without any customers who could ever
+
+453
+00:18:08,540 --> 00:18:11,500
+really complain about you?
+
+454
+00:18:11,500 --> 00:18:13,740
+That sounds like a dream job to me.
+
+455
+00:18:13,740 --> 00:18:15,740
+I think almost every person in the economy
+
+456
+00:18:15,740 --> 00:18:17,300
+would agree about this.
+
+457
+00:18:17,300 --> 00:18:19,060
+Of course, if you take that for granted,
+
+458
+00:18:19,060 --> 00:18:20,860
+it's the worst that could possibly happen.
+
+459
+00:18:20,860 --> 00:18:22,780
+Then you're good.
+
+460
+00:18:22,780 --> 00:18:23,700
+All right.
+
+461
+00:18:23,700 --> 00:18:25,780
+So why don't we go and take a break now?
+
+462
+00:18:25,780 --> 00:18:29,100
+So that clock is actually three minutes slow.
+
+463
+00:18:29,100 --> 00:18:30,540
+My apologies.
+
+464
+00:18:30,540 --> 00:18:33,180
+You will reconvene in 10 minutes.
+
+465
+00:18:33,180 --> 00:18:35,540
+And again, this is a good time to turn in your homework
+
+466
+00:18:35,540 --> 00:18:37,140
+if you want to do it physically.
+
+467
+00:18:37,140 --> 00:18:39,780
+Again, as I said, you can also email directly to the class
+
+468
+00:18:39,780 --> 00:18:40,300
+today.
+
+469
+00:18:40,300 --> 00:18:41,300
+Is everyone in the hall?
+
+470
+00:18:41,300 --> 00:18:43,380
+Or can you just close the door?
+
+471
+00:18:43,380 --> 00:18:45,700
+When you close the door, if there's people desperately
+
+472
+00:18:45,700 --> 00:18:47,500
+rushing to get back in, just let them in.
+
+473
+00:18:47,500 --> 00:18:49,300
+Can you close the door?
+
+474
+00:18:49,300 --> 00:18:50,780
+All right, great.
+
+475
+00:18:50,780 --> 00:18:52,780
+OK.
+
+476
+00:18:52,780 --> 00:18:54,580
+All right, and now, unfortunately, there's
+
+477
+00:18:54,580 --> 00:18:56,500
+some math we have to do after the break, which
+
+478
+00:18:56,500 --> 00:19:00,020
+I try to avoid, but can't always be avoided.
+
+479
+00:19:00,020 --> 00:19:00,900
+All right.
+
+480
+00:19:00,900 --> 00:19:05,540
+But when possible, I will simply give you the gist of the math
+
+481
+00:19:05,540 --> 00:19:09,100
+rather than actually working it through in gory detail.
+
+482
+00:19:09,100 --> 00:19:11,140
+All right, so I've given you all the assumptions.
+
+483
+00:19:11,140 --> 00:19:13,940
+So we've got the abouts, the conditions that we got.
+
+484
+00:19:13,940 --> 00:19:17,420
+And now, we then just need the following assumptions
+
+485
+00:19:17,420 --> 00:19:20,340
+to guarantee the existence of general equilibrium.
+
+486
+00:19:20,340 --> 00:19:24,300
+All right, so assumption one is the utility
+
+487
+00:19:24,300 --> 00:19:26,940
+as a function of p has to have a unique solution for all p
+
+488
+00:19:26,940 --> 00:19:31,260
+for all prices, which, again, may seem like a very odd point.
+
+489
+00:19:31,260 --> 00:19:36,380
+This is just saying that for any given set of prices,
+
+490
+00:19:36,380 --> 00:19:39,180
+there's only one utility you're going to get in equilibrium.
+
+491
+00:19:39,180 --> 00:19:42,180
+You can't have two different utilities that you have.
+
+492
+00:19:42,180 --> 00:19:44,300
+Yeah, why would you?
+
+493
+00:19:44,300 --> 00:19:47,980
+All right, assumption two, you need total demand for a good k
+
+494
+00:19:47,980 --> 00:19:50,540
+exceeds total endowment for a small enough price
+
+495
+00:19:50,540 --> 00:19:51,960
+and falls short of total endowment
+
+496
+00:19:51,960 --> 00:19:53,340
+for a large enough price.
+
+497
+00:19:53,340 --> 00:19:56,580
+So there's got to be a price so high that people actually
+
+498
+00:19:56,580 --> 00:19:58,580
+consume less than exists.
+
+499
+00:19:58,580 --> 00:20:23,580
+There's got to be a price so low that people actually
+
+

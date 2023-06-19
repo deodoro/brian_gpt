@@ -1,0 +1,1513 @@
+1
+00:00:00,000 --> 00:00:04,480
+A better thing to tell them is that resources can be destroyed, leaving no one better off.
+
+2
+00:00:04,480 --> 00:00:07,040
+Resources can be destroyed, leaving no one better off.
+
+3
+00:00:07,040 --> 00:00:11,280
+By itself, it's almost as obvious until you start applying the concept.
+
+4
+00:00:11,280 --> 00:00:13,840
+That's where you really can get some great insight.
+
+5
+00:00:13,840 --> 00:00:16,280
+All right, so let's say you're a piracy.
+
+6
+00:00:16,280 --> 00:00:20,680
+I actually used this example when Peter Leeson was a student in your very situation, before
+
+7
+00:00:20,680 --> 00:00:22,760
+he was writing anything about pirates.
+
+8
+00:00:22,760 --> 00:00:27,240
+I don't think I inspired his book on pirates by any means, but here we are.
+
+9
+00:00:27,240 --> 00:00:28,240
+All right.
+
+10
+00:00:28,240 --> 00:00:31,160
+So if you were to go and say, what are pirates doing?
+
+11
+00:00:31,160 --> 00:00:35,480
+Well, obviously pirates are trying to transfer resources from their victims to themselves.
+
+12
+00:00:35,480 --> 00:00:37,680
+All right, and that's clear, right?
+
+13
+00:00:37,680 --> 00:00:41,920
+So whatever treasure they're able to get off the victims, that's the transfer.
+
+14
+00:00:41,920 --> 00:00:44,600
+But the deadweight costs are a lot less obvious.
+
+15
+00:00:44,600 --> 00:00:47,160
+Once you start listing them, it's hard to complete the list.
+
+16
+00:00:47,160 --> 00:00:49,780
+They are so enormous, they are so numerous.
+
+17
+00:00:49,780 --> 00:00:53,040
+So imagine that some treasure gets lost in the fight.
+
+18
+00:00:53,040 --> 00:00:57,880
+So while the pirates and the victims are firing cannons at each other, a cannon actually
+
+19
+00:00:57,880 --> 00:01:02,480
+goes and hits a hole in the other ship, and a bunch of treasure gets sent down to Davy
+
+20
+00:01:02,480 --> 00:01:04,680
+Jones' locker.
+
+21
+00:01:04,680 --> 00:01:06,360
+Who gets that treasure?
+
+22
+00:01:06,360 --> 00:01:07,360
+Davy Jones.
+
+23
+00:01:07,360 --> 00:01:09,120
+Yeah, Davy Jones, who is a fictional character.
+
+24
+00:01:09,120 --> 00:01:14,360
+So I don't think even Robin believes that the welfare of fictional characters matters.
+
+25
+00:01:14,360 --> 00:01:17,400
+All right, so that doesn't matter.
+
+26
+00:01:17,400 --> 00:01:19,720
+And so that was actually lost to both sides.
+
+27
+00:01:19,720 --> 00:01:23,600
+This is a loss to the victims that's not a gain to the pirates.
+
+28
+00:01:23,600 --> 00:01:25,000
+Or there's damage to the ships.
+
+29
+00:01:25,000 --> 00:01:26,960
+Who gets the holes?
+
+30
+00:01:26,960 --> 00:01:29,840
+Who is the proud owner of the holes?
+
+31
+00:01:29,840 --> 00:01:31,840
+No one is the proud owner of the holes.
+
+32
+00:01:31,840 --> 00:01:34,840
+Or how about the deaths on both sides or divide?
+
+33
+00:01:34,840 --> 00:01:36,680
+Who gets the deaths?
+
+34
+00:01:36,680 --> 00:01:39,680
+Who gets to say, all right, now I've got a bunch of deaths.
+
+35
+00:01:39,680 --> 00:01:40,680
+Great.
+
+36
+00:01:40,680 --> 00:01:41,680
+Okay.
+
+37
+00:01:41,680 --> 00:01:43,920
+Right, so there's all that.
+
+38
+00:01:43,920 --> 00:01:47,160
+And then when you start thinking more, you can say, well, let's see, how might people
+
+39
+00:01:47,160 --> 00:01:49,600
+go and change their behavior in response to piracy?
+
+40
+00:01:49,600 --> 00:01:52,960
+Like suppose there's a lot of piracy in the center of the Caribbean.
+
+41
+00:01:52,960 --> 00:01:56,160
+What might ships and shippers decide to do then?
+
+42
+00:01:56,160 --> 00:01:57,160
+Avoid the Caribbean.
+
+43
+00:01:57,160 --> 00:01:58,160
+Avoid the Caribbean.
+
+44
+00:01:58,160 --> 00:02:04,080
+In so doing, they will waste time and resources to go take the longer route.
+
+45
+00:02:04,080 --> 00:02:08,120
+And do the pirates get a share of the extra resources that are spent?
+
+46
+00:02:08,120 --> 00:02:09,960
+No, they do not.
+
+47
+00:02:09,960 --> 00:02:15,560
+So here, the pirates got nothing out of it, but the victims suffered because they took
+
+48
+00:02:15,560 --> 00:02:20,000
+an extra expense to avoid the harm of the pirates.
+
+49
+00:02:20,000 --> 00:02:23,200
+Now, none of this is saying that pirates somehow hurt themselves deep inside.
+
+50
+00:02:23,200 --> 00:02:24,200
+It's not like a Mormon point.
+
+51
+00:02:24,200 --> 00:02:26,200
+Piracy hurts your soul.
+
+52
+00:02:26,200 --> 00:02:27,200
+It's not that.
+
+53
+00:02:27,200 --> 00:02:30,200
+It would be a nice point, but that's not the point here.
+
+54
+00:02:30,200 --> 00:02:33,200
+All right, so the point is the pirates are making themselves worse off by piracy.
+
+55
+00:02:33,200 --> 00:02:35,200
+The presumption is ex ante.
+
+56
+00:02:35,200 --> 00:02:39,080
+They're choosing between piratical and non-piratical occupations.
+
+57
+00:02:39,080 --> 00:02:44,520
+And therefore, when they go and compare what they're getting to what they're giving up,
+
+58
+00:02:44,520 --> 00:02:45,760
+this is their best option for them.
+
+59
+00:02:45,760 --> 00:02:51,360
+But the point is the pirates are gaining only a small fraction of what the non-pirates lose.
+
+60
+00:02:51,360 --> 00:02:55,120
+Now, of course, all of this does make some assumptions about preferences.
+
+61
+00:02:55,120 --> 00:03:00,120
+It assumes the pirates do not just enjoy the aesthetic of watching gold fall into the ocean.
+
+62
+00:03:00,120 --> 00:03:05,120
+So if they had some very unusual preferences, then it might, in fact, be efficient after
+
+63
+00:03:05,120 --> 00:03:06,120
+all.
+
+64
+00:03:06,120 --> 00:03:07,120
+So you do have to consider that.
+
+65
+00:03:07,120 --> 00:03:10,120
+Of course, if you're doing this empirically, you say, well, how many?
+
+66
+00:03:10,120 --> 00:03:15,120
+Now, if it's Pareto, of course, if there's one pirate who likes it, then that could ruin
+
+67
+00:03:15,120 --> 00:03:16,120
+a Pareto movement.
+
+68
+00:03:16,120 --> 00:03:19,120
+But are you also right or are you wrong?
+
+69
+00:03:19,120 --> 00:03:26,120
+But on the other hand, if it's Calder Hicks, it's got to actually be a common or intense
+
+70
+00:03:26,120 --> 00:03:28,120
+preference for it to matter.
+
+71
+00:03:28,120 --> 00:03:33,120
+So with Calder Hicks, if there's one weirdo on earth, does it really matter?
+
+72
+00:03:33,120 --> 00:03:34,120
+No.
+
+73
+00:03:34,120 --> 00:03:35,120
+He's just one person.
+
+74
+00:03:35,120 --> 00:03:36,120
+He has a willingness to pay.
+
+75
+00:03:36,120 --> 00:03:45,120
+We'll go and toss that into a giant pile of social preferences, and it doesn't matter.
+
+76
+00:03:45,120 --> 00:03:47,120
+All right.
+
+77
+00:03:47,120 --> 00:03:50,120
+So questions about this?
+
+78
+00:03:50,120 --> 00:03:51,120
+Questions?
+
+79
+00:03:51,120 --> 00:03:52,120
+All right.
+
+80
+00:03:52,120 --> 00:03:55,120
+So that's piracy.
+
+81
+00:03:55,120 --> 00:03:56,120
+All right.
+
+82
+00:03:56,120 --> 00:04:01,120
+So now let's go over Steve Linsberg's Calder Hicks analysis of drug legalization.
+
+83
+00:04:01,120 --> 00:04:09,120
+One of the best skills economics can teach you is to energetically attack people whose
+
+84
+00:04:09,120 --> 00:04:12,120
+conclusion you agree with just because their argument was crummy.
+
+85
+00:04:12,120 --> 00:04:17,120
+Of course, that's what academia in general is supposed to teach you to do, right?
+
+86
+00:04:17,120 --> 00:04:19,120
+To say, look, I disagree with you, but that's a great argument.
+
+87
+00:04:19,120 --> 00:04:22,120
+Or I agree with you, but your argument's terrible.
+
+88
+00:04:22,120 --> 00:04:28,120
+So it is trying to break down the tribalism of the internet where people rally behind
+
+89
+00:04:28,120 --> 00:04:34,120
+people based upon conclusions instead of doing the intellectually sound thing of saying,
+
+90
+00:04:34,120 --> 00:04:36,120
+look, the argument's good.
+
+91
+00:04:36,120 --> 00:04:39,120
+So what do we do about that?
+
+92
+00:04:39,120 --> 00:04:43,120
+Or the argument's bad, so I can no longer be associated with someone who makes terrible
+
+93
+00:04:43,120 --> 00:04:44,120
+arguments.
+
+94
+00:04:44,120 --> 00:04:45,120
+All right.
+
+95
+00:04:45,120 --> 00:04:46,120
+Okay.
+
+96
+00:04:46,120 --> 00:04:50,120
+So the background is that I believe there's a piece in the Atlantic Monthly defending
+
+97
+00:04:50,120 --> 00:04:51,120
+drug legalization.
+
+98
+00:04:51,120 --> 00:04:55,120
+Linsberg says, you know, I think drug legalization's a great idea, but a great idea does not justify
+
+99
+00:04:55,120 --> 00:04:58,120
+terrible cost-benefit analysis, and that's what you've done.
+
+100
+00:04:58,120 --> 00:05:02,120
+So here are some of the main things that Linsberg said in his critique of the terrible cost-benefit
+
+101
+00:05:02,120 --> 00:05:04,120
+analysis.
+
+102
+00:05:04,120 --> 00:05:08,120
+So the original article said, well, we can raise all these taxes, and that's a benefit.
+
+103
+00:05:08,120 --> 00:05:13,120
+Linsberg says, no, taxes are a transfer, not a benefit.
+
+104
+00:05:13,120 --> 00:05:17,120
+That would be like me saying I've gone and taken some money from you, and then that's
+
+105
+00:05:17,120 --> 00:05:19,120
+a social benefit.
+
+106
+00:05:19,120 --> 00:05:27,120
+No, that is a transfer from you to me, so plus 20 minus 20 equals zero.
+
+107
+00:05:27,120 --> 00:05:28,120
+All right.
+
+108
+00:05:28,120 --> 00:05:34,120
+Then the article does go and count the cost of imprisoning people for drug use and selling
+
+109
+00:05:34,120 --> 00:05:39,120
+drugs, but Linsberg says that that's just the tip of the iceberg.
+
+110
+00:05:39,120 --> 00:05:44,120
+You've also got to count the disutility of being in prison.
+
+111
+00:05:44,120 --> 00:05:48,120
+So it's not just the out-of-pocket cost of imprisoning someone, it's like 50,000 bucks
+
+112
+00:05:48,120 --> 00:05:53,120
+a year, and Linsberg says that's actually probably a pittance compared to the real social
+
+113
+00:05:53,120 --> 00:05:54,120
+cost.
+
+114
+00:05:54,120 --> 00:05:58,120
+How much is it only enough to pay you to spend a year in jail voluntarily?
+
+115
+00:05:58,120 --> 00:05:59,120
+50,000?
+
+116
+00:05:59,120 --> 00:06:00,120
+More?
+
+117
+00:06:00,120 --> 00:06:05,120
+I think I'm at the point, I don't know that there's a billion dollars for a year in jail.
+
+118
+00:06:05,120 --> 00:06:09,120
+What would I do with the billion dollars when I got out?
+
+119
+00:06:09,120 --> 00:06:11,120
+I'd be so miserable there.
+
+120
+00:06:11,120 --> 00:06:12,120
+What's that?
+
+121
+00:06:12,120 --> 00:06:14,120
+A minimum security net stake, right?
+
+122
+00:06:14,120 --> 00:06:15,120
+A million dollars.
+
+123
+00:06:15,120 --> 00:06:21,120
+I'm not saying, I mean, when I was young, maybe I would have.
+
+124
+00:06:21,120 --> 00:06:23,120
+At my age?
+
+125
+00:06:23,120 --> 00:06:26,120
+That could really hurt.
+
+126
+00:06:26,120 --> 00:06:33,120
+If I were an effective altruist, obviously I would do it.
+
+127
+00:06:33,120 --> 00:06:37,120
+But, well, it's just a year of my life, a billion dollars, think about all the lives
+
+128
+00:06:37,120 --> 00:06:38,120
+I could save.
+
+129
+00:06:38,120 --> 00:06:41,120
+Yeah, but complete strangers, maybe in jail for a year.
+
+130
+00:06:41,120 --> 00:06:43,120
+I don't want to.
+
+131
+00:06:43,120 --> 00:06:49,120
+Anyway, so just the cost, the pain and suffering of being in prison, and also that means you
+
+132
+00:06:49,120 --> 00:06:54,120
+should probably count whatever suffering of the families and friends of the people in
+
+133
+00:06:54,120 --> 00:06:58,120
+prison, though of course by that logic, I don't think Lansbury mentions this, but some
+
+134
+00:06:58,120 --> 00:07:01,120
+of the people in prison are such miserable people, the people around them are probably
+
+135
+00:07:01,120 --> 00:07:02,120
+happy they're in prison.
+
+136
+00:07:02,120 --> 00:07:04,120
+So you can get to crack that out.
+
+137
+00:07:04,120 --> 00:07:06,120
+So it gets even more complicated.
+
+138
+00:07:06,120 --> 00:07:09,120
+Yeah, so if your dad beats you, then he goes to jail.
+
+139
+00:07:09,120 --> 00:07:10,120
+All right.
+
+140
+00:07:10,120 --> 00:07:13,120
+I'm so, so sorry you're going to jail, Dad.
+
+141
+00:07:13,120 --> 00:07:16,120
+You don't want to celebrate because he's going to get out eventually.
+
+142
+00:07:16,120 --> 00:07:21,120
+But, you know, a few years of grief, like that horrible monster.
+
+143
+00:07:21,120 --> 00:07:22,120
+Yeah?
+
+144
+00:07:22,120 --> 00:07:25,120
+So you can count the loss of productivity as a cost, too, right?
+
+145
+00:07:25,120 --> 00:07:28,120
+Like when you're in jail, when everyone's leaving, like if you are eating.
+
+146
+00:07:28,120 --> 00:07:34,120
+Yeah, so I mean, again, of course, if you, like, so if you're doing it, like if you ask
+
+147
+00:07:34,120 --> 00:07:38,120
+them what is the value you attach to being outside of prison, that would actually, in
+
+148
+00:07:38,120 --> 00:07:41,120
+principle, that should actually include, like, whatever value they attach to the earnings
+
+149
+00:07:41,120 --> 00:07:42,120
+they could have made.
+
+150
+00:07:42,120 --> 00:07:44,120
+So that's actually a better and all-inclusive measure.
+
+151
+00:07:44,120 --> 00:07:49,120
+So it's kind of double counting to count both the productivity and the value they attach
+
+152
+00:07:49,120 --> 00:07:50,120
+to the time.
+
+153
+00:07:50,120 --> 00:07:52,120
+Yeah?
+
+154
+00:07:52,120 --> 00:07:53,120
+Yeah.
+
+155
+00:07:53,120 --> 00:07:59,120
+So if there is consumer surplus, then that's right.
+
+156
+00:07:59,120 --> 00:08:01,120
+Yeah, if there's consumer surplus, that's right.
+
+157
+00:08:01,120 --> 00:08:02,120
+Yes.
+
+158
+00:08:02,120 --> 00:08:05,120
+But again, if they were just getting paid their opportunity costs, then that's already
+
+159
+00:08:05,120 --> 00:08:06,120
+factored in.
+
+160
+00:08:06,120 --> 00:08:07,120
+All right.
+
+161
+00:08:07,120 --> 00:08:08,120
+All right.
+
+162
+00:08:08,120 --> 00:08:12,120
+And then, again, they talk about, you know, the guy's saying accounts reduction of theft
+
+163
+00:08:12,120 --> 00:08:13,120
+is being a benefit.
+
+164
+00:08:13,120 --> 00:08:15,120
+Well, that's kind of a transfer, too.
+
+165
+00:08:15,120 --> 00:08:20,120
+He then says, but resources that, you know, that are used to steal are a deadweight cost.
+
+166
+00:08:20,120 --> 00:08:23,120
+And also should have put in resources that are used for event stealing are a deadweight
+
+167
+00:08:23,120 --> 00:08:24,120
+cost.
+
+168
+00:08:24,120 --> 00:08:28,120
+Then you can also put what about all the production that doesn't happen because people are, feel
+
+169
+00:08:28,120 --> 00:08:31,120
+like they're going to get robbed if they produce anything.
+
+170
+00:08:31,120 --> 00:08:32,120
+So there's that.
+
+171
+00:08:32,120 --> 00:08:36,120
+I remember when I was a teenager, very few people had a car CD player.
+
+172
+00:08:36,120 --> 00:08:37,120
+This is Los Angeles.
+
+173
+00:08:37,120 --> 00:08:38,120
+Any idea why so?
+
+174
+00:08:38,120 --> 00:08:41,120
+Like, the main reason why people didn't have car CD players in those days?
+
+175
+00:08:41,120 --> 00:08:42,120
+We'll give you a hint.
+
+176
+00:08:42,120 --> 00:08:46,120
+They were worth about 500 bucks when they first came out.
+
+177
+00:08:46,120 --> 00:08:50,120
+So what would generally happen to you within a few months if you bought one?
+
+178
+00:08:50,120 --> 00:08:52,120
+Your window broke and it would be stolen.
+
+179
+00:08:52,120 --> 00:08:53,120
+Yeah.
+
+180
+00:08:53,120 --> 00:08:58,120
+So here's a case where a lot of people wanted one, didn't buy one because they didn't think
+
+181
+00:08:58,120 --> 00:08:59,120
+they'd be able to keep them.
+
+182
+00:08:59,120 --> 00:09:04,120
+Then they actually sold some ones where every time you left your car, you would go and pop
+
+183
+00:09:04,120 --> 00:09:08,120
+a button and the face of the CD player would come off and you put it in your pocket, making
+
+184
+00:09:08,120 --> 00:09:13,120
+the resale value of the stub very low.
+
+185
+00:09:13,120 --> 00:09:18,120
+And then you got a dead weight cost of having to go and cart around the face of a CD player.
+
+186
+00:09:18,120 --> 00:09:20,120
+Now they're cheap, nobody steals them anymore.
+
+187
+00:09:20,120 --> 00:09:23,120
+I never heard of a CD player getting stolen for years anyway.
+
+188
+00:09:23,120 --> 00:09:25,120
+So, yeah.
+
+189
+00:09:25,120 --> 00:09:28,120
+And then we come to the one that is most blatant.
+
+190
+00:09:28,120 --> 00:09:33,120
+And Lanesburg says, you know what you managed to do in writing your article about the social
+
+191
+00:09:33,120 --> 00:09:35,120
+benefits of drug legalization?
+
+192
+00:09:35,120 --> 00:09:39,120
+You managed to forget that people like taking drugs.
+
+193
+00:09:39,120 --> 00:09:43,120
+You managed to never mention consumption benefits.
+
+194
+00:09:43,120 --> 00:09:46,120
+And that's just weird.
+
+195
+00:09:46,120 --> 00:09:53,120
+Because if no one likes consuming a thing, is there any good reason for it to exist?
+
+196
+00:09:53,120 --> 00:09:56,120
+Doesn't seem like it.
+
+197
+00:09:56,120 --> 00:10:00,120
+So the main reason why it's good for movies to exist is people like movies.
+
+198
+00:10:00,120 --> 00:10:05,120
+Can you really make the case for movies while ignoring the fact that anyone on earth enjoys
+
+199
+00:10:05,120 --> 00:10:06,120
+watching movies?
+
+200
+00:10:06,120 --> 00:10:08,120
+Probably not.
+
+201
+00:10:08,120 --> 00:10:11,120
+So Lanesburg says you should have put in the consumer service.
+
+202
+00:10:11,120 --> 00:10:13,120
+Of course.
+
+203
+00:10:13,120 --> 00:10:20,120
+And then the guy does go and count in things like losses, he counts as a cost that drugged
+
+204
+00:10:20,120 --> 00:10:21,120
+out workers are worse workers.
+
+205
+00:10:21,120 --> 00:10:25,120
+And then Lanesburg says, well, as long as employers know your productivity is lower,
+
+206
+00:10:25,120 --> 00:10:26,120
+they'll just pay you less.
+
+207
+00:10:26,120 --> 00:10:27,120
+And so that's all internalized.
+
+208
+00:10:27,120 --> 00:10:28,120
+Not a problem.
+
+209
+00:10:28,120 --> 00:10:31,120
+Same way that just being lazy.
+
+210
+00:10:31,120 --> 00:10:33,120
+Is being lazy a social cost?
+
+211
+00:10:33,120 --> 00:10:36,120
+As long as employers know you're lazy, then they don't promote you, and then you get low
+
+212
+00:10:36,120 --> 00:10:38,120
+pay, and then it all balances out.
+
+213
+00:10:38,120 --> 00:10:43,120
+And here you could go and think about it more and say, well, suppose employers know average
+
+214
+00:10:43,120 --> 00:10:46,120
+worker productivity, but they don't actually know who's on drugs.
+
+215
+00:10:46,120 --> 00:10:52,120
+Then if you come in on drugs, this might actually lead employers to fail to hire a non-drugged
+
+216
+00:10:52,120 --> 00:10:55,120
+out employee because he's about 10% of this person's on drugs.
+
+217
+00:10:55,120 --> 00:11:01,120
+He'd be worth hiring if I knew for sure that he wasn't, but since 10% chance that he is,
+
+218
+00:11:01,120 --> 00:11:04,120
+this goes in tips and scales, so I'm not going to hire him.
+
+219
+00:11:04,120 --> 00:11:06,120
+So you could get some deadweight costs that way.
+
+220
+00:11:06,120 --> 00:11:08,120
+All right.
+
+221
+00:11:08,120 --> 00:11:14,120
+So now reading this, in no way does Lanesburg have the spot on deadweight cost analysis
+
+222
+00:11:14,120 --> 00:11:15,120
+of what's going on.
+
+223
+00:11:15,120 --> 00:11:25,120
+But just to see how you improve upon premium cost benefit analysis, it is a great, great
+
+224
+00:11:25,120 --> 00:11:26,120
+site.
+
+225
+00:11:26,120 --> 00:11:28,120
+And I think Lanesburg's the first person to go, if you want to start improving, is yeah,
+
+226
+00:11:28,120 --> 00:11:30,120
+you can improve it more and more and more.
+
+227
+00:11:30,120 --> 00:11:32,120
+You could do it really well.
+
+228
+00:11:32,120 --> 00:11:37,120
+And just don't do it like that guy, though, because that guy did a terrible, terrible
+
+229
+00:11:37,120 --> 00:11:38,120
+job.
+
+230
+00:11:38,120 --> 00:11:39,120
+All right.
+
+231
+00:11:39,120 --> 00:11:42,120
+So questions about drug legalization?
+
+232
+00:11:42,120 --> 00:11:45,120
+I like that.
+
+233
+00:11:45,120 --> 00:11:46,120
+All right.
+
+234
+00:11:46,120 --> 00:11:50,120
+And then, by the way, so there's one huge cost of drug legalization that I don't think
+
+235
+00:11:50,120 --> 00:11:53,120
+either the original Crumby study or Lanesburg ever mentioned.
+
+236
+00:11:53,120 --> 00:11:59,120
+So yeah, sure, mention the benefits of voluntary consumption, but now here's something else.
+
+237
+00:11:59,120 --> 00:12:02,120
+Do you know two people on earth who might be really upset if you started taking a lot
+
+238
+00:12:02,120 --> 00:12:03,120
+of drugs?
+
+239
+00:12:03,120 --> 00:12:04,120
+Your parents.
+
+240
+00:12:04,120 --> 00:12:07,120
+What's their willingness to pay to get you to not do it?
+
+241
+00:12:07,120 --> 00:12:08,120
+Yeah.
+
+242
+00:12:08,120 --> 00:12:12,120
+And I actually think it's an interesting thought experiment.
+
+243
+00:12:12,120 --> 00:12:15,120
+Imagine a world where it was legal for adults to do all the drugs they wanted as long as
+
+244
+00:12:15,120 --> 00:12:17,120
+they had a parental permission slip.
+
+245
+00:12:17,120 --> 00:12:18,120
+Right?
+
+246
+00:12:18,120 --> 00:12:24,120
+And again, you say, well, so, man, you could bribe your parents and try to get them to
+
+247
+00:12:24,120 --> 00:12:26,120
+sign the permission slip, right?
+
+248
+00:12:26,120 --> 00:12:31,120
+And in terms of cost-benefit analysis, I think this is probably the strongest argument against
+
+249
+00:12:31,120 --> 00:12:36,120
+legalization is, yeah, there's one kid that probably really wants to do it, but there's
+
+250
+00:12:36,120 --> 00:12:39,120
+two older people who really wanted to not do it.
+
+251
+00:12:39,120 --> 00:12:44,120
+Now, a more common argument is you're affecting all society, you're hurting it.
+
+252
+00:12:44,120 --> 00:12:45,120
+Yeah.
+
+253
+00:12:45,120 --> 00:12:51,120
+Like most people couldn't care less if I'm smoking pot, but I think even at my age, my
+
+254
+00:12:51,120 --> 00:12:53,120
+parents would not go for it.
+
+255
+00:12:53,120 --> 00:12:55,120
+And they wouldn't like it.
+
+256
+00:12:55,120 --> 00:12:58,120
+So certainly when I was young, my parents would not have liked it.
+
+257
+00:12:58,120 --> 00:13:03,120
+So while I think that when people claim, like, drug use affects us all, oh, come on, we don't
+
+258
+00:13:03,120 --> 00:13:05,120
+really care.
+
+259
+00:13:05,120 --> 00:13:10,120
+Like, how many people, if they go, like, I guess one or two days ago, someone posted
+
+260
+00:13:10,120 --> 00:13:14,120
+a new study saying that 10% of the citizens of New Hampshire, the adults of New Hampshire,
+
+261
+00:13:14,120 --> 00:13:17,120
+are either drug addicts or alcoholics.
+
+262
+00:13:17,120 --> 00:13:21,120
+How many people in New Hampshire read that and said, oh, my God, this is terrible, I
+
+263
+00:13:21,120 --> 00:13:24,120
+can't live my life here anymore, I've got to get out of the state?
+
+264
+00:13:24,120 --> 00:13:27,120
+I think personally, nobody's, oh, it's terrible, terrible.
+
+265
+00:13:27,120 --> 00:13:29,120
+And then they went back to their lives.
+
+266
+00:13:29,120 --> 00:13:33,120
+Whereas if you found out that your kid were on drugs, very different story.
+
+267
+00:13:33,120 --> 00:13:39,120
+So I think an honest case for drug prohibition would just focus on these family externalities.
+
+268
+00:13:39,120 --> 00:13:43,120
+Of course, once you start taking that seriously, there's all kinds of weird policies that might
+
+269
+00:13:43,120 --> 00:13:45,120
+start to make sense.
+
+270
+00:13:45,120 --> 00:13:48,120
+Like, maybe parents should get to veto your spouse.
+
+271
+00:13:48,120 --> 00:13:51,120
+Really, if you go and marry the wrong person, it really hurts your parents.
+
+272
+00:13:51,120 --> 00:13:53,120
+They don't want that.
+
+273
+00:13:53,120 --> 00:13:55,120
+And maybe they would know better than you.
+
+274
+00:13:55,120 --> 00:13:57,120
+Is that possible?
+
+275
+00:13:57,120 --> 00:14:00,120
+Do you think that parents can predict divorce?
+
+276
+00:14:00,120 --> 00:14:05,120
+I think they have some additional ability to predict marriages that won't work out.
+
+277
+00:14:05,120 --> 00:14:10,120
+And when they say they're opposed, maybe it's because they actually know, they understand
+
+278
+00:14:10,120 --> 00:14:12,120
+the world better than you do.
+
+279
+00:14:12,120 --> 00:14:14,120
+Is it possible?
+
+280
+00:14:14,120 --> 00:14:15,120
+It's possible.
+
+281
+00:14:15,120 --> 00:14:17,120
+Why don't the kids listen to them?
+
+282
+00:14:17,120 --> 00:14:19,120
+That's another interesting question.
+
+283
+00:14:19,120 --> 00:14:21,120
+Richard Thaler could write a column about that.
+
+284
+00:14:21,120 --> 00:14:26,120
+Like, why don't people listen to their parents when their parents love them and have more experience?
+
+285
+00:14:26,120 --> 00:14:30,120
+I think Robin Hanson still has a cartoon on his door to this effect.
+
+286
+00:14:30,120 --> 00:14:33,120
+There's a kid playing video games and his grandpa comes along and says,
+
+287
+00:14:33,120 --> 00:14:38,120
+Yo grandson, during my 70 years of life I have learned many valuable life lessons and I was wondering
+
+288
+00:14:38,120 --> 00:14:40,120
+if you would like me to share any of them with you.
+
+289
+00:14:40,120 --> 00:14:41,120
+And the kid just keeps playing it.
+
+290
+00:14:41,120 --> 00:14:42,120
+No, thanks.
+
+291
+00:14:42,120 --> 00:14:43,120
+And keeps doing it.
+
+292
+00:14:43,120 --> 00:14:45,120
+But, yeah, why?
+
+293
+00:14:45,120 --> 00:14:47,120
+Okay.
+
+294
+00:14:47,120 --> 00:14:50,120
+Alright, so wrapping up with deadweight costs.
+
+295
+00:14:50,120 --> 00:14:55,120
+We're actually, so I guess that clock is a little bit slow, so why don't we finish up with this after the break.
+
+296
+00:14:55,120 --> 00:15:01,120
+And so we'll take our break now, so try to be back on time at 845.
+
+297
+00:15:19,120 --> 00:15:24,120
+There's a sense in which economists, that way economists are more optimistic than the public
+
+298
+00:15:24,120 --> 00:15:26,120
+because we do think of the pie as something to grow.
+
+299
+00:15:26,120 --> 00:15:30,120
+But there's another way in which we're more pessimistic is we also think of the pie as shrinking.
+
+300
+00:15:30,120 --> 00:15:34,120
+Normal people often think, look, if there's someone losing, at least there's someone else winning.
+
+301
+00:15:34,120 --> 00:15:38,120
+Whereas the whole idea of deadweight costs, it's possible there's just a massive amount of loss
+
+302
+00:15:38,120 --> 00:15:40,120
+that's being borne by the whole world.
+
+303
+00:15:40,120 --> 00:15:44,120
+Which, sometimes you convince people about it after a 30 year war has gone on,
+
+304
+00:15:44,120 --> 00:15:46,120
+you say, you know, there's really no winners here.
+
+305
+00:15:46,120 --> 00:15:47,120
+They go, what do you mean?
+
+306
+00:15:47,120 --> 00:15:48,120
+Some people win.
+
+307
+00:15:48,120 --> 00:15:52,120
+And you know, things would have been much better if it had never happened.
+
+308
+00:15:52,120 --> 00:15:55,120
+That is also packed into the concept of deadweight costs.
+
+309
+00:15:55,120 --> 00:15:59,120
+It's possible that we could get an equilibrium where actually everyone is worse off
+
+310
+00:15:59,120 --> 00:16:01,120
+than if there had been something else.
+
+311
+00:16:01,120 --> 00:16:05,120
+Of course, that's a homework problem, but by Calric's standard,
+
+312
+00:16:05,120 --> 00:16:08,120
+by least where the dollar value of social resources is much less.
+
+313
+00:16:08,120 --> 00:16:13,120
+So in other words, there's a fixed pie of stuff, conflict always benefits somebody.
+
+314
+00:16:13,120 --> 00:16:20,120
+If there is a variable pie, the conflict might actually lead to just a massive round of loss.
+
+315
+00:16:20,120 --> 00:16:25,120
+And then another conceptual point, reducing deadweight costs is by definition
+
+316
+00:16:25,120 --> 00:16:27,120
+going to be a Calric's improvement.
+
+317
+00:16:27,120 --> 00:16:30,120
+Just two different perspectives on the same thing.
+
+318
+00:16:30,120 --> 00:16:37,120
+And then if a situation is Calric's efficient, deadweight costs are automatically zero by definition.
+
+319
+00:16:37,120 --> 00:16:40,120
+So questions about Pareto and Calric's?
+
+320
+00:16:40,120 --> 00:16:41,120
+Everyone happy there?
+
+321
+00:16:41,120 --> 00:16:45,120
+Everyone feel betrayed by whatever time they spent on Pareto efficiency?
+
+322
+00:16:45,120 --> 00:16:48,120
+Or Pareto without any discussion of how relevant it is?
+
+323
+00:16:48,120 --> 00:16:52,120
+So any time someone actually has talked about having a Pareto improvement in the real world,
+
+324
+00:16:52,120 --> 00:16:55,120
+I'm like, what are you talking about?
+
+325
+00:16:55,120 --> 00:17:01,120
+So Buchanan liked to talk about approximate Pareto improvements,
+
+326
+00:17:01,120 --> 00:17:05,120
+so rough Pareto improvements, but also not a Pareto improvement.
+
+327
+00:17:05,120 --> 00:17:08,120
+He said, you can fix cell, like talk about 80% of people are better off,
+
+328
+00:17:08,120 --> 00:17:11,120
+and now you can come up with your own Fixcellian efficiency.
+
+329
+00:17:11,120 --> 00:17:14,120
+That's where 80% of people are better off or more.
+
+330
+00:17:14,120 --> 00:17:17,120
+But that's a different concept.
+
+331
+00:17:17,120 --> 00:17:21,120
+Why not just use your own concept and be honest about it?
+
+332
+00:17:21,120 --> 00:17:24,120
+Well, if you come up with your own efficiency concept, who's going to take you seriously?
+
+333
+00:17:24,120 --> 00:17:27,120
+You're like, this is capellini deficient.
+
+334
+00:17:27,120 --> 00:17:30,120
+So you sound like a megalomaniac when you start creating new efficiency concepts
+
+335
+00:17:30,120 --> 00:17:32,120
+and aiming them after yourself.
+
+336
+00:17:32,120 --> 00:17:36,120
+Whereas if you try to spuriously latch on to an existing concept,
+
+337
+00:17:36,120 --> 00:17:38,120
+you may be able to fool people.
+
+338
+00:17:38,120 --> 00:17:40,120
+That's my cynical take.
+
+339
+00:17:40,120 --> 00:17:41,120
+All right.
+
+340
+00:17:41,120 --> 00:17:48,120
+Now moving on to another value-pitch standard that economists have long been associated with,
+
+341
+00:17:48,120 --> 00:17:51,120
+and that is utilitarianism.
+
+342
+00:17:51,120 --> 00:17:55,120
+At least three famous economists, even more, at least four.
+
+343
+00:17:55,120 --> 00:18:01,120
+I think of four 19th century British economists who were all closely linked to utilitarianism.
+
+344
+00:18:01,120 --> 00:18:06,120
+So Bentham, James Mill, John Stuart Mill, and Sedgwick.
+
+345
+00:18:06,120 --> 00:18:07,120
+All right.
+
+346
+00:18:07,120 --> 00:18:08,120
+There's a bunch more.
+
+347
+00:18:08,120 --> 00:18:12,120
+So this is yet a third evaluative standard.
+
+348
+00:18:12,120 --> 00:18:14,120
+Okay.
+
+349
+00:18:14,120 --> 00:18:17,120
+So how is it different from Cowderyx?
+
+350
+00:18:17,120 --> 00:18:20,120
+Well, Cowderyx is based upon dollar valuation.
+
+351
+00:18:20,120 --> 00:18:24,120
+It's not based on utility, not based on happiness.
+
+352
+00:18:24,120 --> 00:18:26,120
+Aren't these the same thing?
+
+353
+00:18:26,120 --> 00:18:29,120
+Isn't willingness to pay and happiness the same?
+
+354
+00:18:29,120 --> 00:18:32,120
+If someone's buying something, doesn't it automatically make them happy?
+
+355
+00:18:32,120 --> 00:18:36,120
+Does that fit your observation of the world?
+
+356
+00:18:36,120 --> 00:18:40,120
+Have you ever bought something that cost a lot of money and then you weren't happy afterwards?
+
+357
+00:18:40,120 --> 00:18:46,120
+Have you ever spent a lot of money on something and you knew you were going to be unhappy and you did it anyway?
+
+358
+00:18:46,120 --> 00:18:51,120
+Such as when you bought a gift for the aunt you don't like and you gave it to her.
+
+359
+00:18:51,120 --> 00:18:54,120
+It's like, oh, God, I spent money for her.
+
+360
+00:18:54,120 --> 00:18:58,120
+I knew I couldn't give anything to her.
+
+361
+00:18:58,120 --> 00:19:00,120
+She's such a negative present to the world.
+
+362
+00:19:00,120 --> 00:19:03,120
+Never brought me a moment's joy.
+
+363
+00:19:03,120 --> 00:19:04,120
+All right.
+
+364
+00:19:04,120 --> 00:19:05,120
+Well, you just spent some money.
+
+365
+00:19:05,120 --> 00:19:08,120
+You're less happy than you were before.
+
+366
+00:19:08,120 --> 00:19:13,120
+So it can't be that spending money and happiness are just the same thing.
+
+367
+00:19:13,120 --> 00:19:18,120
+Now, there are some economists who will just draw a line in the sand and say, oh, yes, you must be happy.
+
+368
+00:19:18,120 --> 00:19:20,120
+Do you know my aunt?
+
+369
+00:19:20,120 --> 00:19:21,120
+I don't know.
+
+370
+00:19:21,120 --> 00:19:27,120
+So, really?
+
+371
+00:19:27,120 --> 00:19:34,120
+Even if you always spend money in a way directly proportional to the happiness it brings you,
+
+372
+00:19:34,120 --> 00:19:37,120
+have you ever noticed other people don't seem to be doing this?
+
+373
+00:19:37,120 --> 00:19:40,120
+And, of course, there's a possibility they're just confused about what brings them happiness.
+
+374
+00:19:40,120 --> 00:19:43,120
+Then sometimes there seems to be something else going on.
+
+375
+00:19:43,120 --> 00:19:46,120
+Like think about someone who is in a feud with another person.
+
+376
+00:19:46,120 --> 00:19:53,120
+You said, look, if you just apologized to the other person, you would be much happier.
+
+377
+00:19:53,120 --> 00:19:54,120
+Right?
+
+378
+00:19:54,120 --> 00:20:00,120
+And some people will actually say, that would be the worst thing of all.
+
+

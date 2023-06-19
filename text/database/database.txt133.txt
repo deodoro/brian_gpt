@@ -1,0 +1,25 @@
+4. Consider a simple contestable monopoly model where an incumbent faces an 
+equally productively efficient potential entrant.  Both have constant marginal 
+costs and zero fixed costs of production.  Both firms know that there is a 
+probability p that – if the incumbent remains in business – the government will 
+prosecute the incumbent  for antitrust violations.  If this occurs, the incumbent 
+loses a fixed cost K.  The entrant never faces antitrust prosecution.  
+ 
+True, False, and Explain:   Equilibrium quantity is decreasing in both p and K.  
+ 
+TRUE.  pK is effectively a fixed cost.  Since o nly the incumbent faces this cost, the entrant will 
+inevitably drive him from the market.  The en trant chooses the highest price  consistent with 
+driving the incumbent from the market, an epsilon below the point where the incumbent’s AC 
+curve intersects the  demand curve.  The higher p and K, the higher the incumbent’s AC, and the 
+higher the price the entrant can safety charge.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

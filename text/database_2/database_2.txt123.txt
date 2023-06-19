@@ -1,0 +1,6 @@
+3.  An agent faces two choices: (1) A utility of 10 for sure; (2) A utility of 0 with 50% probability and a utility of 20 with 50% probability.
+ 
+True, False, and Explain: If the agent is indifferent between (1) and (2), then in terms of Expected Utility Theory, he must be risk-neutral.
+
+False. Expected Utility Theory concerns utility derived from wealth and other consumer goods, and says that an agent will seek to maximize that utility. The question gives the output of the utility function, so the level of risk-aversion is already accounted for. Thus, no matter what the agent's level of risk-aversion is, he/ she is indifferent between (1) and (2). 
+

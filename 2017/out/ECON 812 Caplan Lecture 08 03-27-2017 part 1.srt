@@ -1,0 +1,1865 @@
+1
+00:00:00,000 --> 00:00:04,940
+Okay, so I'm around at least.
+
+2
+00:00:04,940 --> 00:00:07,720
+If you've got questions about the museum, happy to take them.
+
+3
+00:00:07,720 --> 00:00:09,440
+All right.
+
+4
+00:00:09,440 --> 00:00:14,120
+So, where were we?
+
+5
+00:00:14,120 --> 00:00:16,240
+Yes. So we've been going over the law hazard,
+
+6
+00:00:16,740 --> 00:00:19,400
+and I was mentioning the great neglected topic
+
+7
+00:00:19,400 --> 00:00:20,820
+of voluntary punishment.
+
+8
+00:00:22,500 --> 00:00:24,080
+Like why can't you write a contract
+
+9
+00:00:24,080 --> 00:00:26,260
+where you specify how you'll be punished
+
+10
+00:00:26,260 --> 00:00:27,340
+if you break the contract?
+
+11
+00:00:27,760 --> 00:00:29,920
+And why isn't a contract like that enforceable
+
+12
+00:00:29,920 --> 00:00:31,400
+under Anglo-American law,
+
+13
+00:00:31,920 --> 00:00:34,220
+which traditionally does not fit, right?
+
+14
+00:00:34,220 --> 00:00:36,240
+And if you read the legal statements,
+
+15
+00:00:36,240 --> 00:00:38,040
+it's even more confusing,
+
+16
+00:00:38,380 --> 00:00:40,560
+because you'll just get some
+
+17
+00:00:40,560 --> 00:00:42,420
+of the most question-begging comments like,
+
+18
+00:00:42,600 --> 00:00:44,480
+well, it is not the purpose of the law to punish.
+
+19
+00:00:44,720 --> 00:00:50,160
+This is the punishment that is least objectionable.
+
+20
+00:00:50,160 --> 00:00:51,900
+This is punishment someone signed a contract
+
+21
+00:00:51,900 --> 00:00:53,860
+and said they wanted to accept the punishment.
+
+22
+00:00:54,740 --> 00:00:57,220
+And of course, basic compensating differentials,
+
+23
+00:00:57,220 --> 00:01:00,600
+if a contract is very slanted against you, what does that do
+
+24
+00:01:00,600 --> 00:01:01,860
+to the price you receive?
+
+25
+00:01:03,440 --> 00:01:04,620
+Yeah, you get a better deal.
+
+26
+00:01:04,980 --> 00:01:06,900
+So, if you say, you catch me playing Tetris,
+
+27
+00:01:06,900 --> 00:01:08,520
+you can fine me $5,000.
+
+28
+00:01:08,900 --> 00:01:11,080
+That makes it easier for you to get a high-paying job,
+
+29
+00:01:11,080 --> 00:01:12,900
+because then people feel comfortable
+
+30
+00:01:13,140 --> 00:01:15,480
+that they are not going to actually be playing a Tet,
+
+31
+00:01:15,480 --> 00:01:16,900
+paying you to play Tetris all day.
+
+32
+00:01:18,340 --> 00:01:20,340
+And as I said, Robin Henson has a chapter
+
+33
+00:01:20,340 --> 00:01:21,700
+in his dissertation on this topic.
+
+34
+00:01:22,140 --> 00:01:24,320
+I haven't heard anyone else doing anything more with this,
+
+35
+00:01:24,320 --> 00:01:27,780
+even though it seems like an obvious and great idea.
+
+36
+00:01:28,820 --> 00:01:31,780
+So, one day, someone in this class will take the idea
+
+37
+00:01:31,780 --> 00:01:34,280
+and run with it, and this could be the year for this.
+
+38
+00:01:35,860 --> 00:01:36,180
+All right.
+
+39
+00:01:37,900 --> 00:01:39,240
+So, moving on.
+
+40
+00:01:40,340 --> 00:01:41,180
+Adverse selection.
+
+41
+00:01:41,740 --> 00:01:43,300
+All right, so we've already done moral hazard.
+
+42
+00:01:43,300 --> 00:01:44,380
+Now, adverse selection.
+
+43
+00:01:44,740 --> 00:01:46,760
+All right, this is a much more complex form
+
+44
+00:01:46,760 --> 00:01:47,960
+of asymmetric information.
+
+45
+00:01:48,260 --> 00:01:50,180
+Moral hazard is really very simple, right?
+
+46
+00:01:50,180 --> 00:01:52,160
+It's just the idea, once you have insurance,
+
+47
+00:01:52,160 --> 00:01:53,740
+then you're going to do, you're going to take more risks,
+
+48
+00:01:53,740 --> 00:01:54,440
+do more on the way.
+
+49
+00:01:54,440 --> 00:01:56,880
+If someone else is picking up the bill, then you're going
+
+50
+00:01:56,880 --> 00:01:57,940
+to do more bad things.
+
+51
+00:01:58,480 --> 00:01:59,700
+Like, no big surprise there.
+
+52
+00:02:00,540 --> 00:02:00,720
+All right.
+
+53
+00:02:01,200 --> 00:02:05,280
+But adverse selection is a little bit more complicated,
+
+54
+00:02:05,960 --> 00:02:10,740
+and not really obvious at first to people what's going on.
+
+55
+00:02:11,360 --> 00:02:12,460
+All right, so the basic idea
+
+56
+00:02:12,460 --> 00:02:15,540
+of adverse selection, though, is you know what you are.
+
+57
+00:02:16,260 --> 00:02:17,500
+You know the real you.
+
+58
+00:02:18,000 --> 00:02:20,280
+But the world, however, does not know the real you.
+
+59
+00:02:20,280 --> 00:02:24,360
+The world has to judge you based upon your superficial
+
+60
+00:02:24,360 --> 00:02:25,280
+characteristics.
+
+61
+00:02:25,660 --> 00:02:26,660
+What you look like.
+
+62
+00:02:26,700 --> 00:02:28,160
+What you seem like on the surface.
+
+63
+00:02:28,160 --> 00:02:31,100
+Which, of course, could be literal physical appearance.
+
+64
+00:02:31,520 --> 00:02:34,760
+Like if I had a spider web face tattoo.
+
+65
+00:02:35,240 --> 00:02:38,040
+That's as superficial a trait as you can get.
+
+66
+00:02:38,420 --> 00:02:39,780
+And yet, you would judge me for it.
+
+67
+00:02:40,540 --> 00:02:42,640
+Right? Or I remember once my, who was it?
+
+68
+00:02:43,200 --> 00:02:46,200
+Once my daughter had lice, so I just decided to shave my head.
+
+69
+00:02:46,200 --> 00:02:48,560
+And I'm walking around saying, wow, I look really tough now.
+
+70
+00:02:48,560 --> 00:02:50,920
+Like Walter White.
+
+71
+00:02:50,920 --> 00:02:52,540
+I'm walking around with a bald head.
+
+72
+00:02:52,540 --> 00:02:54,620
+Someone, people should be scared to mess with me.
+
+73
+00:02:54,620 --> 00:02:57,700
+And I look in the mirror, like I actually am a little scary now.
+
+74
+00:02:57,700 --> 00:02:59,900
+Whereas normally, not scary at all.
+
+75
+00:02:59,900 --> 00:03:03,140
+Right? And what's so scary about having a shaved head?
+
+76
+00:03:03,880 --> 00:03:04,380
+I don't know.
+
+77
+00:03:04,380 --> 00:03:08,480
+But, look, but simple story is that on average,
+
+78
+00:03:08,480 --> 00:03:11,480
+the guys with the shaved heads are, in fact, scarier.
+
+79
+00:03:11,780 --> 00:03:13,360
+So if you happen to shave your head
+
+80
+00:03:13,360 --> 00:03:16,560
+for a totally unrelated reason, namely lice paranoia,
+
+81
+00:03:16,560 --> 00:03:21,020
+like how can I be absolutely sure there isn't lice in my hair?
+
+82
+00:03:21,540 --> 00:03:24,560
+I can't be, oh, every little feel,
+
+83
+00:03:24,560 --> 00:03:26,760
+if you feel it in your scalp, oh, there could be lice.
+
+84
+00:03:27,040 --> 00:03:28,060
+Or just take it off.
+
+85
+00:03:28,060 --> 00:03:29,360
+Shave all the hair off.
+
+86
+00:03:29,800 --> 00:03:32,440
+And now, I'm not trying to be scary.
+
+87
+00:03:32,700 --> 00:03:34,340
+I'm just trying to get rid of the lice.
+
+88
+00:03:34,340 --> 00:03:36,880
+But people walk near the street and they judge me
+
+89
+00:03:37,120 --> 00:03:39,880
+as a scary guy, at least on average.
+
+90
+00:03:39,880 --> 00:03:42,040
+They will think I'm scarier than I would normally anyway.
+
+91
+00:03:42,040 --> 00:03:44,300
+So, you know, yes?
+
+92
+00:03:44,300 --> 00:03:46,760
+Maybe they think you're scary because you might have lice.
+
+93
+00:03:47,160 --> 00:03:52,200
+It's not normally, it's disgusting more than scary.
+
+94
+00:03:52,200 --> 00:03:52,880
+But, yeah.
+
+95
+00:03:53,560 --> 00:03:53,840
+All right.
+
+96
+00:03:54,280 --> 00:03:56,360
+So, anyway, it could be a totally superficial trait.
+
+97
+00:03:56,360 --> 00:03:59,400
+But it could also be superficial as in your resume.
+
+98
+00:03:59,840 --> 00:04:01,980
+Your resume isn't the real you, is it?
+
+99
+00:04:02,760 --> 00:04:05,080
+There's more to you than what you can put on one piece
+
+100
+00:04:05,080 --> 00:04:08,460
+of paper about your signature strengths and so on.
+
+101
+00:04:08,860 --> 00:04:11,380
+And yet, if someone's trying to decide to interview you,
+
+102
+00:04:11,380 --> 00:04:13,920
+they're likely to do it just based purely upon the basis
+
+103
+00:04:13,920 --> 00:04:16,640
+of what's on this piece of paper, right?
+
+104
+00:04:16,640 --> 00:04:18,220
+Or when you're coming up for tenure.
+
+105
+00:04:18,660 --> 00:04:21,480
+Yes, there are people who actually count the lines
+
+106
+00:04:21,480 --> 00:04:23,300
+on the VITA, right?
+
+107
+00:04:23,300 --> 00:04:26,200
+At least, normally, they only count the publication lines.
+
+108
+00:04:26,200 --> 00:04:29,500
+And so, but, you know, other people might count even more.
+
+109
+00:04:29,500 --> 00:04:31,140
+So, you know, he's got 10 publications.
+
+110
+00:04:31,140 --> 00:04:32,100
+That's good enough here.
+
+111
+00:04:32,620 --> 00:04:33,100
+You're like, what?
+
+112
+00:04:33,440 --> 00:04:34,660
+They don't weight them by quality?
+
+113
+00:04:34,660 --> 00:04:37,040
+Well, the higher the quality of the place
+
+114
+00:04:37,040 --> 00:04:38,300
+that you're being evaluated at,
+
+115
+00:04:38,300 --> 00:04:39,500
+the more weight you put on quality.
+
+116
+00:04:39,960 --> 00:04:42,240
+There are plenty of places where publications
+
+117
+00:04:42,240 --> 00:04:45,060
+and publication, hence the joke about getting published
+
+118
+00:04:45,060 --> 00:04:49,820
+in capital A, capital R, refereed, capital J journal,
+
+119
+00:04:49,820 --> 00:04:51,860
+A referee journal, right?
+
+120
+00:04:51,860 --> 00:04:54,580
+So, where all you need is a publication somewhere or other,
+
+121
+00:04:54,580 --> 00:04:56,360
+and that can count, right?
+
+122
+00:04:56,360 --> 00:04:58,040
+And this is where someone is being very superficial.
+
+123
+00:04:58,040 --> 00:05:00,900
+Like, well, I don't know the quality of the journals
+
+124
+00:05:00,900 --> 00:05:02,300
+or the quality of the articles.
+
+125
+00:05:02,300 --> 00:05:04,820
+I'm just going to hand out dream jobs for life based
+
+126
+00:05:04,820 --> 00:05:06,420
+upon whether you got 10 publications
+
+127
+00:05:06,420 --> 00:05:07,160
+in something or other.
+
+128
+00:05:07,840 --> 00:05:08,160
+All right?
+
+129
+00:05:08,160 --> 00:05:10,140
+So, that's another way that people might do it.
+
+130
+00:05:10,140 --> 00:05:13,940
+Okay. So, there's lots of different kind
+
+131
+00:05:13,940 --> 00:05:16,680
+of superficialities, physical appearance,
+
+132
+00:05:16,720 --> 00:05:19,400
+what's written on a page, you know, your car,
+
+133
+00:05:19,680 --> 00:05:22,500
+the clothes you're wearing, you know, like your family,
+
+134
+00:05:22,500 --> 00:05:25,280
+your family name, your race, your gender.
+
+135
+00:05:25,280 --> 00:05:27,740
+There's so many different ways that someone could just take two
+
+136
+00:05:27,740 --> 00:05:30,040
+seconds to look at you and then say, yeah, all right,
+
+137
+00:05:30,460 --> 00:05:31,340
+like a three out of 10.
+
+138
+00:05:31,960 --> 00:05:32,220
+All right?
+
+139
+00:05:32,220 --> 00:05:32,840
+Very simple.
+
+140
+00:05:32,840 --> 00:05:34,140
+That's all I need to know.
+
+141
+00:05:34,360 --> 00:05:35,880
+At least that's all I'm going to bother learning.
+
+142
+00:05:36,800 --> 00:05:38,020
+Okay. All right.
+
+143
+00:05:38,020 --> 00:05:40,780
+Now, so you know, however, what you're really like.
+
+144
+00:05:41,160 --> 00:05:42,400
+You have your selection model.
+
+145
+00:05:42,600 --> 00:05:44,740
+Other people are going to treat you based upon the average
+
+146
+00:05:44,740 --> 00:05:47,420
+characteristics of people who superficially resemble you.
+
+147
+00:05:48,600 --> 00:05:49,340
+Now, what does this mean?
+
+148
+00:05:49,780 --> 00:05:51,980
+Well, suppose that you are above average.
+
+149
+00:05:52,400 --> 00:05:54,960
+You're above average for people who look like you.
+
+150
+00:05:55,800 --> 00:05:59,420
+Then you might decide that there's no point participating
+
+151
+00:05:59,980 --> 00:06:02,780
+because you get treated like you're average even though you're
+
+152
+00:06:02,780 --> 00:06:03,640
+better than average.
+
+153
+00:06:04,260 --> 00:06:05,280
+Let's see if I can get that to fall.
+
+154
+00:06:05,280 --> 00:06:06,560
+There. That's good.
+
+155
+00:06:06,560 --> 00:06:07,560
+All right.
+
+156
+00:06:07,560 --> 00:06:09,720
+So you get treated like you are average when, in fact,
+
+157
+00:06:09,720 --> 00:06:10,620
+you're better than average.
+
+158
+00:06:10,960 --> 00:06:13,520
+So if you have any options of whether you want to participate
+
+159
+00:06:13,520 --> 00:06:16,360
+in something, above average people naturally want
+
+160
+00:06:16,360 --> 00:06:17,060
+to drop out.
+
+161
+00:06:17,620 --> 00:06:19,580
+Right? At least they are more inclined to drop out.
+
+162
+00:06:20,040 --> 00:06:21,920
+Whereas below average people, on the other hand, say, hey,
+
+163
+00:06:21,920 --> 00:06:22,380
+this is great.
+
+164
+00:06:22,380 --> 00:06:23,940
+I love being treated like I'm average
+
+165
+00:06:24,220 --> 00:06:25,360
+because I'm not average.
+
+166
+00:06:25,400 --> 00:06:26,500
+I'm terrible, actually.
+
+167
+00:06:27,000 --> 00:06:28,220
+But I can blend in.
+
+168
+00:06:28,700 --> 00:06:29,780
+I can just blend in.
+
+169
+00:06:30,320 --> 00:06:35,440
+Right? So if you are, say, what would it be?
+
+170
+00:06:35,440 --> 00:06:38,780
+Yeah. So suppose that you look like me.
+
+171
+00:06:39,140 --> 00:06:39,580
+Right? All right.
+
+172
+00:06:39,580 --> 00:06:40,900
+So look at this here.
+
+173
+00:06:41,180 --> 00:06:45,780
+But suppose that actually you are even more socially inept
+
+174
+00:06:45,840 --> 00:06:47,680
+than someone who looks like me would normally be.
+
+175
+00:06:47,680 --> 00:06:50,240
+In that case, you say, isn't it great I get judged
+
+176
+00:06:50,240 --> 00:06:53,460
+as just being average because I'm not average, actually.
+
+177
+00:06:53,820 --> 00:06:57,560
+On the other hand, if you are the unusually socially adept guy
+
+178
+00:06:57,560 --> 00:07:00,240
+who wears a Mutants of Mastermind shirt, then,
+
+179
+00:07:00,240 --> 00:07:02,980
+those are the cases where you say, well,
+
+180
+00:07:02,980 --> 00:07:04,500
+maybe I don't want to participate
+
+181
+00:07:04,500 --> 00:07:06,860
+because I get treated like scum.
+
+182
+00:07:07,500 --> 00:07:08,880
+Right? So that's the idea.
+
+183
+00:07:08,880 --> 00:07:09,940
+All right.
+
+184
+00:07:09,940 --> 00:07:11,220
+Now, here's the problem.
+
+185
+00:07:11,220 --> 00:07:13,680
+If enough above average people think this way,
+
+186
+00:07:13,960 --> 00:07:16,060
+then the average goes down.
+
+187
+00:07:16,060 --> 00:07:17,780
+And when the average goes down,
+
+188
+00:07:17,780 --> 00:07:19,440
+then more people may want to drop out.
+
+189
+00:07:19,440 --> 00:07:21,440
+And then when more people, and who wants to drop out again?
+
+190
+00:07:21,440 --> 00:07:23,980
+The people that, the best of the remaining people.
+
+191
+00:07:24,320 --> 00:07:25,960
+And then the best of the remaining people.
+
+192
+00:07:25,960 --> 00:07:27,080
+And the best of the remaining people.
+
+193
+00:07:27,540 --> 00:07:28,660
+As I think I said last class,
+
+194
+00:07:28,660 --> 00:07:30,900
+imagine if I said I failed the bottom half of the class.
+
+195
+00:07:31,700 --> 00:07:33,340
+Well, if you know where you're going to be,
+
+196
+00:07:33,340 --> 00:07:34,520
+then the bottom half drops.
+
+197
+00:07:35,020 --> 00:07:37,220
+But then I said, well, I didn't say I would fail the bottom half
+
+198
+00:07:37,220 --> 00:07:38,460
+of the initial class.
+
+199
+00:07:38,900 --> 00:07:41,000
+I said I'd fail the bottom half of the class,
+
+200
+00:07:41,000 --> 00:07:42,820
+which is defined as people who are enrolled.
+
+201
+00:07:42,820 --> 00:07:44,600
+And I said, all right, now I've got to worry
+
+202
+00:07:44,600 --> 00:07:48,000
+from the bottom half of the top half, the original top half.
+
+203
+00:07:48,380 --> 00:07:49,360
+And that group drops.
+
+204
+00:07:49,360 --> 00:07:51,780
+And then the bottom half of the remainder may drop.
+
+205
+00:07:51,780 --> 00:07:52,300
+And so on.
+
+206
+00:07:52,680 --> 00:07:53,260
+Same idea.
+
+207
+00:07:54,000 --> 00:07:54,200
+All right.
+
+208
+00:07:54,200 --> 00:07:57,200
+Now, there's a classic example, which is surprising.
+
+209
+00:07:57,200 --> 00:07:58,220
+Oh, can you close the door back there?
+
+210
+00:07:58,220 --> 00:08:03,100
+So there's a classic example, which has also been
+
+211
+00:08:03,100 --> 00:08:04,100
+done experimentally.
+
+212
+00:08:04,100 --> 00:08:06,720
+And again, it's a very similar model with a result
+
+213
+00:08:06,720 --> 00:08:09,000
+that is extremely surprising to almost everyone
+
+214
+00:08:09,000 --> 00:08:11,280
+who hasn't actually worked through the model in detail.
+
+215
+00:08:12,060 --> 00:08:12,320
+All right.
+
+216
+00:08:12,660 --> 00:08:13,300
+And here's the idea.
+
+217
+00:08:13,300 --> 00:08:17,500
+Suppose that there are companies with true values
+
+218
+00:08:17,500 --> 00:08:19,880
+that are uniformly distributed between 0 and 100.
+
+219
+00:08:20,680 --> 00:08:20,920
+All right.
+
+220
+00:08:21,100 --> 00:08:24,880
+But, key point, every company is worth 50% more
+
+221
+00:08:24,880 --> 00:08:26,060
+in the hands of the buyer.
+
+222
+00:08:26,060 --> 00:08:28,300
+So there's sellers who have these companies.
+
+223
+00:08:28,300 --> 00:08:29,900
+But if you can find a buyer,
+
+224
+00:08:30,160 --> 00:08:32,460
+the buyer will actually be better at managing the company.
+
+225
+00:08:32,520 --> 00:08:34,260
+And you just inherited this company, say.
+
+226
+00:08:34,260 --> 00:08:35,980
+You inherited it, but you know how good it is.
+
+227
+00:08:36,520 --> 00:08:37,020
+That's key.
+
+228
+00:08:37,020 --> 00:08:38,940
+So you sell it to someone else who knows what they're doing,
+
+229
+00:08:38,940 --> 00:08:41,100
+it'll be worth 50% more in their hands than in your hands.
+
+230
+00:08:42,020 --> 00:08:42,360
+All right.
+
+231
+00:08:43,000 --> 00:08:46,620
+So, now all that buyers know, let's assume,
+
+232
+00:08:46,820 --> 00:08:49,100
+is the average value of companies that are being sold.
+
+233
+00:08:49,500 --> 00:08:51,640
+They don't know whether your company is good or not.
+
+234
+00:08:51,940 --> 00:08:53,500
+All they know is what's average.
+
+235
+00:08:53,880 --> 00:08:54,340
+All right.
+
+236
+00:08:54,340 --> 00:08:57,920
+So, of course, the average value of these companies,
+
+237
+00:08:57,920 --> 00:08:59,800
+since it's a uniform distribution, is 50.
+
+238
+00:09:00,460 --> 00:09:04,800
+Right? And a normal reaction people have is, well,
+
+239
+00:09:04,800 --> 00:09:07,160
+why don't we, is that, why don't we just bid 50?
+
+240
+00:09:07,160 --> 00:09:08,640
+Let's just bid 50.
+
+241
+00:09:09,260 --> 00:09:14,720
+And then the idea is if we bid 50, then 50 plus 50% is 75.
+
+242
+00:09:14,720 --> 00:09:17,520
+So then we're going to go and get, and we have a profit of 25.
+
+243
+00:09:18,280 --> 00:09:19,080
+But that's wrong.
+
+244
+00:09:19,720 --> 00:09:20,520
+That's so wrong.
+
+245
+00:09:20,520 --> 00:09:25,320
+That's so wrong, because if you bid 50, which companies will not be sold?
+
+246
+00:09:25,920 --> 00:09:27,080
+The ones that are worth more than 50.
+
+247
+00:09:27,080 --> 00:09:30,980
+Yes. None of these companies are on the market when you offer 50.
+
+248
+00:09:31,560 --> 00:09:36,060
+And, therefore, the companies that are going to be sold will have an average value of 25.
+
+249
+00:09:37,160 --> 00:09:45,060
+And 50% more than 25 is 37.5.
+
+250
+00:09:45,060 --> 00:09:50,520
+And since you bid 50, and on average you only, you get a company worth 37.5 to you,
+
+251
+00:09:50,740 --> 00:09:52,200
+you have lost 12.5.
+
+252
+00:09:53,280 --> 00:09:53,520
+All right.
+
+253
+00:09:53,520 --> 00:09:54,460
+So that didn't work out.
+
+254
+00:09:54,900 --> 00:09:57,080
+And you might say, well, why don't we go and up our bid?
+
+255
+00:09:57,080 --> 00:09:58,360
+How about we go and bid 80?
+
+256
+00:09:58,780 --> 00:10:02,380
+Well, if you bid 80, then you do have more good companies that are in the mix.
+
+257
+00:10:02,800 --> 00:10:05,980
+But still, the top companies don't, are not going to be involved.
+
+258
+00:10:06,820 --> 00:10:10,200
+And, therefore, you're going to have all companies that are worth between zero
+
+259
+00:10:10,200 --> 00:10:12,240
+and 80 to the sellers.
+
+260
+00:10:12,240 --> 00:10:16,220
+And the average of that is, of course, 40.
+
+261
+00:10:16,220 --> 00:10:17,900
+Add 50%.
+
+262
+00:10:18,640 --> 00:10:23,320
+60. So now we are paying, well, now we are offering 80 for companies worth 60.
+
+263
+00:10:23,320 --> 00:10:24,960
+We've actually made our losses even worse.
+
+264
+00:10:25,720 --> 00:10:25,940
+All right.
+
+265
+00:10:25,940 --> 00:10:27,320
+So this is where you say, all right, fine.
+
+266
+00:10:27,320 --> 00:10:29,080
+Let's not go and raise our bid.
+
+267
+00:10:29,080 --> 00:10:29,800
+Let's cut our bid.
+
+268
+00:10:29,800 --> 00:10:31,720
+How about we cut the bid down to 20?
+
+269
+00:10:31,720 --> 00:10:36,060
+Cut the bid down to 20, average value, average company solds worth 10 to the seller,
+
+270
+00:10:36,060 --> 00:10:36,960
+15 to the buyer.
+
+271
+00:10:36,960 --> 00:10:38,260
+So now we're only losing five.
+
+272
+00:10:38,800 --> 00:10:40,360
+So we're moving in the right direction, at least.
+
+273
+00:10:40,800 --> 00:10:41,120
+All right.
+
+274
+00:10:41,120 --> 00:10:44,100
+Now we cut the bid down to four.
+
+275
+00:10:44,360 --> 00:10:46,080
+Now the average company sold two, we're three.
+
+276
+00:10:46,080 --> 00:10:47,600
+We've only lost $1.
+
+277
+00:10:48,000 --> 00:10:48,280
+All right.
+
+278
+00:10:48,280 --> 00:10:49,600
+We're still going in the right direction.
+
+279
+00:10:49,940 --> 00:10:50,840
+But keep going.
+
+280
+00:10:50,840 --> 00:10:54,920
+And it turns out there's only one bid you can make that doesn't lose you money.
+
+281
+00:10:55,280 --> 00:10:56,040
+And that's zero.
+
+282
+00:10:56,600 --> 00:10:57,420
+Bid zero.
+
+283
+00:10:57,840 --> 00:11:00,240
+No companies are sold with an average value of zero.
+
+284
+00:11:00,240 --> 00:11:02,400
+50% more than zero is zero.
+
+285
+00:11:02,680 --> 00:11:03,680
+So you bid zero.
+
+286
+00:11:03,680 --> 00:11:06,240
+You get no companies that are worth zero each.
+
+287
+00:11:06,560 --> 00:11:07,580
+And you amass the leading.
+
+288
+00:11:09,280 --> 00:11:09,600
+Okay.
+
+289
+00:11:09,600 --> 00:11:13,140
+So in equilibrium, zero is the equilibrium price.
+
+290
+00:11:13,740 --> 00:11:14,420
+That's what happens.
+
+291
+00:11:14,420 --> 00:11:15,940
+And the whole market has vanished.
+
+292
+00:11:16,420 --> 00:11:18,020
+A market full of surplus.
+
+293
+00:11:18,580 --> 00:11:24,100
+A market rich with surplus, where every company's worth 50% more to the buyer than it is to the seller.
+
+294
+00:11:24,980 --> 00:11:27,580
+Now notice, with symmetric information, none of this would happen.
+
+295
+00:11:28,620 --> 00:11:33,340
+So with symmetric information, if you offer 50, then which companies get sold?
+
+296
+00:11:33,980 --> 00:11:38,260
+Well, so you use the symmetric information so the sellers don't know how good their company is.
+
+297
+00:11:38,260 --> 00:11:41,940
+So if you offer 50 and the sellers don't know how good their company is,
+
+298
+00:11:41,940 --> 00:11:43,380
+what do they believe their company's worth?
+
+299
+00:11:45,140 --> 00:11:45,740
+It's 50.
+
+300
+00:11:46,060 --> 00:11:47,380
+So you offer 50.
+
+301
+00:11:47,380 --> 00:11:48,300
+Everyone sells.
+
+302
+00:11:48,300 --> 00:11:51,940
+Because they don't know that the people with above average companies don't know their companies are
+
+303
+00:11:51,940 --> 00:11:52,580
+above average.
+
+304
+00:11:53,140 --> 00:12:00,020
+And then on average, the buyer gets the company worth 50 to the seller, but worth 50% more.
+
+305
+00:12:00,020 --> 00:12:01,300
+So then it's worth 75.
+
+306
+00:12:01,860 --> 00:12:06,100
+So with symmetric information, notice, symmetric imperfect information.
+
+307
+00:12:06,100 --> 00:12:09,140
+Symmetric imperfect information, the market works perfectly.
+
+308
+00:12:09,540 --> 00:12:13,300
+Further proving my point at the end of last class, which is that symmetric information is not an
+
+309
+00:12:13,300 --> 00:12:14,020
+efficiency issue.
+
+310
+00:12:14,740 --> 00:12:21,060
+If there were imperfect information on both sides to equal degrees, so buyers and sellers were equally
+
+311
+00:12:21,060 --> 00:12:26,420
+ignorant about the true value of the companies, sellers offer 50, all companies are sold, all
+
+312
+00:12:26,420 --> 00:12:27,460
+surpluses realized.
+
+313
+00:12:29,140 --> 00:12:30,500
+Which is a pretty amazing result.
+
+314
+00:12:31,100 --> 00:12:31,220
+Right?
+
+315
+00:12:31,220 --> 00:12:36,020
+Because it's always tempting when you're learning economics to think that once you have one
+
+316
+00:12:36,020 --> 00:12:38,980
+problem in a market, that adding another problem will make things even worse.
+
+317
+00:12:39,700 --> 00:12:40,340
+Not so.
+
+318
+00:12:41,300 --> 00:12:43,060
+It doesn't have to at all.
+
+319
+00:12:43,060 --> 00:12:46,980
+If you have one problem, it can be better if you add on another problem, which then
+
+320
+00:12:46,980 --> 00:12:48,420
+counterbalances those problems.
+
+321
+00:12:49,140 --> 00:12:49,380
+Right?
+
+322
+00:12:49,380 --> 00:12:51,780
+Just like if you have pollution, right?
+
+323
+00:12:51,780 --> 00:12:53,540
+You may remember this.
+
+324
+00:12:53,540 --> 00:12:57,300
+If you've already got pollution, you can get an efficiency gain from monopoly.
+
+325
+00:12:58,020 --> 00:12:58,180
+Right?
+
+326
+00:12:58,180 --> 00:13:01,220
+Because the monopoly effectively will produce less.
+
+327
+00:13:01,220 --> 00:13:06,340
+The whole problem of negative externalities is firms are producing what?
+
+328
+00:13:06,340 --> 00:13:07,220
+Too much.
+
+329
+00:13:07,220 --> 00:13:08,020
+So yes.
+
+330
+00:13:08,020 --> 00:13:10,820
+So a monopoly can correct a negative externality.
+
+331
+00:13:10,820 --> 00:13:14,980
+And making the buyers ignorant can correct the problems caused by the sellers being,
+
+332
+00:13:14,980 --> 00:13:18,340
+or rather making the sellers ignorant can correct the problem of the buyers being ignorant.
+
+333
+00:13:19,860 --> 00:13:20,100
+Right?
+
+334
+00:13:20,100 --> 00:13:21,940
+Now this is just one example.
+
+335
+00:13:23,060 --> 00:13:24,500
+This is not always true.
+
+336
+00:13:24,500 --> 00:13:29,700
+I have deliberately constructed the numbers, or actually I have borrowed numbers constructed
+
+337
+00:13:29,700 --> 00:13:32,020
+by others to lead to total disaster.
+
+338
+00:13:32,980 --> 00:13:33,300
+All right?
+
+339
+00:13:33,300 --> 00:13:34,820
+You don't have to have total disaster.
+
+340
+00:13:35,540 --> 00:13:44,180
+So for example, suppose that companies were worth not 50% more to the sellers, but what
+
+341
+00:13:44,180 --> 00:13:45,620
+if they were worth 100% more to sellers?
+
+342
+00:13:46,580 --> 00:13:46,900
+All right?
+
+343
+00:13:46,900 --> 00:13:49,380
+So in that case, let's see.
+
+344
+00:13:49,380 --> 00:13:51,860
+So in that case, there's no effect at all.
+
+345
+00:13:51,860 --> 00:13:52,020
+Right?
+
+346
+00:13:52,020 --> 00:13:58,180
+Because you could go and bid 50, and then, let's see, you could go and bid 100, and
+
+347
+00:13:58,180 --> 00:14:00,180
+then all companies would be sold.
+
+348
+00:14:00,180 --> 00:14:01,060
+And let's see.
+
+349
+00:14:01,060 --> 00:14:02,660
+Then you would break even, I believe.
+
+350
+00:14:02,660 --> 00:14:07,060
+I think actually if 100% more, then I think you break even no matter what you do.
+
+351
+00:14:07,060 --> 00:14:08,100
+Let me just double check that.
+
+352
+00:14:08,100 --> 00:14:08,260
+Yeah.
+
+353
+00:14:08,260 --> 00:14:13,540
+So if you offer 50, then the average value of the company sold, of somebody sold is 25,
+
+354
+00:14:14,260 --> 00:14:15,940
+but it's worth 100% more to you, so 50.
+
+355
+00:14:15,940 --> 00:14:16,180
+Yeah.
+
+356
+00:14:16,180 --> 00:14:21,140
+So if the companies are worth twice as much in the buyers' hands as the sellers, then
+
+357
+00:14:21,140 --> 00:14:22,260
+everything's in equilibrium.
+
+358
+00:14:23,540 --> 00:14:23,860
+Right?
+
+359
+00:14:23,860 --> 00:14:26,740
+So every bid is going to be equally profitable.
+
+360
+00:14:26,740 --> 00:14:31,860
+So then there is an equilibrium of full efficiency, where you just bid 100, and you get something
+
+361
+00:14:31,860 --> 00:14:32,900
+that's worth 100.
+
+362
+00:14:32,900 --> 00:14:33,700
+So that's a good deal.
+
+363
+00:14:34,500 --> 00:14:34,740
+Right?
+
+364
+00:14:34,740 --> 00:14:38,420
+Or you could imagine doing a change in the distribution.
+
+365
+00:14:39,540 --> 00:14:44,660
+So imagine that instead of having a uniform distribution, we had a world where half the
+
+366
+00:14:44,660 --> 00:14:47,140
+companies are worth 50, and half are worth 100.
+
+367
+00:14:47,940 --> 00:14:53,940
+So there's this 50% weight here, 50% weight worth here, all right?
+
+368
+00:14:53,940 --> 00:14:58,820
+But we're back to the world where it's worth 50% more to the sellers and the buyers.
+
+369
+00:14:59,940 --> 00:15:04,100
+So in this world, you wouldn't want to go and offer 100, right?
+
+370
+00:15:04,100 --> 00:15:06,500
+Because if you offered 100, then let's see.
+
+371
+00:15:06,500 --> 00:15:07,380
+Actually, maybe you would.
+
+372
+00:15:07,380 --> 00:15:08,260
+Let me just double check.
+
+373
+00:15:08,260 --> 00:15:13,940
+So if you offer 100, now then the average value of the company sold will be 75, and
+
+374
+00:15:13,940 --> 00:15:14,420
+let's see.
+
+375
+00:15:14,980 --> 00:15:15,380
+Actually, no.
+
+376
+00:15:15,380 --> 00:15:17,140
+Yeah, I guess, yeah.
+
+377
+00:15:17,140 --> 00:15:18,980
+Then actually, yes, you would make a profit.
+
+378
+00:15:18,980 --> 00:15:19,300
+Let's see.
+
+379
+00:15:19,300 --> 00:15:20,660
+Maybe, yeah.
+
+380
+00:15:20,660 --> 00:15:25,860
+So as you see, so if you offer 100, then the average value of the company sold is 75, and
+
+381
+00:15:25,860 --> 00:15:31,140
+then the average value, the average to the sellers will be 112.5, right?
+
+382
+00:15:32,100 --> 00:15:33,460
+Yes, so that would be right.
+
+383
+00:15:33,460 --> 00:15:36,500
+And so you offer 75, and you make a profit there.
+
+384
+00:15:37,060 --> 00:15:37,700
+And let's see.
+
+385
+00:15:37,700 --> 00:15:39,140
+What if you went and offered 100?
+
+386
+00:15:39,140 --> 00:15:39,860
+No, no, excuse me.
+
+387
+00:15:39,860 --> 00:15:41,540
+That's actually when you offer 100.
+
+388
+00:15:41,540 --> 00:15:46,020
+So you offer 100, all companies are sold, yes, and then you get perfect efficiency.
+
+389
+00:15:46,020 --> 00:15:51,860
+If you went and offered 50, then what would it be, then half the companies would be sold.
+
+390
+00:15:52,420 --> 00:15:56,180
+You would make, you'd pay 50, you'd make a bigger profit on each one.
+
+391
+00:15:56,180 --> 00:15:56,900
+You'd make a profit.
+
+392
+00:15:56,900 --> 00:15:57,540
+Actually, no.
+
+393
+00:15:57,540 --> 00:15:57,940
+Actually, no.
+
+394
+00:15:57,940 --> 00:15:59,220
+You'd make a higher average profit there.
+
+395
+00:15:59,220 --> 00:16:04,340
+So yeah, in that case, was it with this distribution, then you want to go and actually pay 100.
+
+396
+00:16:04,340 --> 00:16:07,700
+So you bid 100, and you get all the companies, and again, perfect efficiency.
+
+397
+00:16:08,260 --> 00:16:15,300
+So you've got to get the distribution right and the value difference right in order to
+
+398
+00:16:15,300 --> 00:16:16,340
+get a total disaster.
+
+399
+00:16:18,180 --> 00:16:22,980
+Right, so when you hear about like the market for lemons, something like that, remember that
+
+400
+00:16:22,980 --> 00:16:26,420
+it doesn't prove that you will always get a total market unraveling.
+
+401
+00:16:26,420 --> 00:16:29,540
+Just proves that you could get a market unraveling, right?
+
+402
+00:16:29,540 --> 00:16:31,540
+So that's an important distinction.
+
+403
+00:16:31,540 --> 00:16:36,580
+There's a big distinction between there might be disaster and there will be disaster, right?
+
+404
+00:16:36,580 --> 00:16:41,300
+One where if all of the, if everything comes out wrong, then there will be disaster, right?
+
+405
+00:16:41,300 --> 00:16:43,140
+That's not surprising at all, right?
+
+406
+00:16:43,140 --> 00:16:46,100
+But on the other hand, if there's normally disaster, that's more surprising.
+
+407
+00:16:47,860 --> 00:16:49,860
+All right, so questions?
+
+408
+00:16:49,860 --> 00:16:51,060
+Questions about the setup?
+
+409
+00:16:52,180 --> 00:16:56,660
+All right, now the implications of adverse selection are very poorly understood because
+
+410
+00:16:56,660 --> 00:16:59,860
+the model is normally applied to markets where people are very angry.
+
+411
+00:17:01,220 --> 00:17:03,540
+All right, some of the markets where people are very angry.
+
+412
+00:17:03,540 --> 00:17:07,540
+Well, there's the original market for lemons, which at least in the United States means
+
+413
+00:17:07,540 --> 00:17:08,580
+the market for used cars.
+
+414
+00:17:08,580 --> 00:17:13,860
+All right, so do other countries call bad cars lemons or is this even done in other
+
+415
+00:17:13,860 --> 00:17:15,940
+English speaking countries or any idea?
+
+416
+00:17:16,900 --> 00:17:19,700
+So like in England, do they call bad used cars lemons or not?
+
+417
+00:17:19,700 --> 00:17:20,500
+I don't think so.
+
+418
+00:17:20,500 --> 00:17:21,700
+No, all right, so just here.
+
+419
+00:17:22,580 --> 00:17:25,060
+But anyway, so there's the original used car market.
+
+420
+00:17:25,860 --> 00:17:30,900
+Now actually resentment of the used car market has gone down because many companies have
+
+421
+00:17:30,900 --> 00:17:34,020
+figured out ways of reducing this adverse selection problem.
+
+422
+00:17:34,020 --> 00:17:38,420
+But certainly when I was a kid, the stereotype of the correct use of used cars was that
+
+423
+00:17:38,420 --> 00:17:40,900
+corrupt, evil used car dealers were very strong.
+
+424
+00:17:42,100 --> 00:17:46,100
+And then similarly, another kind of market where people are generally very angry is insurance
+
+425
+00:17:46,100 --> 00:17:47,540
+markets, especially health insurance.
+
+426
+00:17:48,100 --> 00:17:50,740
+So that's another one where people are concerned about adverse selection.
+
+427
+00:17:50,740 --> 00:17:54,740
+And again, people are very angry at these horrible, horrible health insurance companies
+
+428
+00:17:54,740 --> 00:17:55,540
+and what they're doing.
+
+429
+00:17:56,740 --> 00:18:02,340
+All right, so people often look at this model and say, aha, that's why health insurance
+
+430
+00:18:02,340 --> 00:18:03,140
+market is terrible.
+
+431
+00:18:03,140 --> 00:18:05,300
+That's why used car dealers are terrible.
+
+432
+00:18:05,300 --> 00:18:09,220
+All right, and in particular, that's why they're always ripping us off.
+
+433
+00:18:10,420 --> 00:18:16,740
+That's why they're able to go and bleed us dry, charging enormous prices for their
+
+434
+00:18:16,740 --> 00:18:17,620
+shoddy products.
+
+435
+00:18:18,340 --> 00:18:20,420
+A common view of how these markets work.
+
+436
+00:18:21,460 --> 00:18:28,180
+But that model might be true, but this is not the model that justifies that story at
+
+437
+00:18:28,180 --> 00:18:28,180
+all.
+
+438
+00:18:29,220 --> 00:18:35,060
+All right, so if the used car market has an adverse selection problem, and it's not
+
+439
+00:18:35,060 --> 00:18:42,340
+a problem, this does not mean that asymmetric information allows car sellers to take advantage
+
+440
+00:18:42,340 --> 00:18:44,420
+of buyers and make lots of profits by selling junk.
+
+441
+00:18:45,140 --> 00:18:46,020
+It's not the story.
+
+442
+00:18:46,580 --> 00:18:47,300
+It's not the story.
+
+443
+00:18:47,300 --> 00:18:51,380
+So it's not a model that is primarily about cheating.
+
+444
+00:18:51,380 --> 00:18:54,020
+It's not a model about taking advantage of people.
+
+445
+00:18:54,020 --> 00:18:56,100
+It's not a model about ripping people off.
+
+446
+00:18:56,100 --> 00:18:58,500
+It's not a model about this is a wonderful industry to be in.
+
+447
+00:18:58,500 --> 00:19:00,020
+You can make tons of money by selling junk.
+
+448
+00:19:00,020 --> 00:19:01,140
+It's none of those things.
+
+449
+00:19:01,940 --> 00:19:02,660
+Right?
+
+450
+00:19:02,660 --> 00:19:07,860
+Key point, in these models, buyers on average benefit from purchasing the product.
+
+451
+00:19:09,220 --> 00:19:14,340
+So conditional upon buying a used car, if there's adverse selection in the used car
+
+452
+00:19:14,340 --> 00:19:16,580
+market, the buyer gains on average.
+
+453
+00:19:17,780 --> 00:19:18,020
+Right?
+
+454
+00:19:18,020 --> 00:19:22,180
+Conditional upon buying health insurance, the buyer gains on average.
+
+455
+00:19:22,180 --> 00:19:23,380
+That's how these models work.
+
+456
+00:19:24,180 --> 00:19:26,260
+So you say, well, some are dissatisfied.
+
+457
+00:19:26,260 --> 00:19:29,300
+Yes, and some are over satisfied.
+
+458
+00:19:29,300 --> 00:19:33,220
+Who are the people who are dissatisfied with their used cars, if this model is the right
+
+459
+00:19:33,220 --> 00:19:33,460
+model?
+
+460
+00:19:36,020 --> 00:19:37,940
+With the people who are dissatisfied.
+
+461
+00:19:39,700 --> 00:19:43,220
+The people who buy the blank dash average cars.
+
+462
+00:19:46,100 --> 00:19:47,860
+Below average cars.
+
+463
+00:19:47,860 --> 00:19:51,300
+Who are the people who actually get a great deal and are super happy?
+
+464
+00:19:51,300 --> 00:19:53,860
+People who get the blank dash average cars.
+
+465
+00:19:54,580 --> 00:19:55,700
+The above average cars.
+
+466
+00:19:55,700 --> 00:20:00,260
+So in a symmetric world, half the people, half the cars are going to be people who are
+
+

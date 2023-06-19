@@ -1,0 +1,8 @@
+4. Suppose everyone is risk-preferring.
+ 
+True, False, and Explain: Insurance markets can still exist.
+ 
+True. It is possible. However, agents must have different endowments, or their preferences for risk must vary (as long as they are all ?>1). In such instances insurance is possible. A risk preferring arsonist in a community of arsonists might like to take the risk of insuring that people's houses don't burn down. In reality though since risk preferring agents generally fail to insure themselves the conclusion is dubious. 
+ 
+
+ 

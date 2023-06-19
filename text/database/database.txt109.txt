@@ -1,0 +1,21 @@
+2.  Two types of agents consume guns (g) and butter (b).   The Type A agents 
+have U=.5 ln g + .5 ln b, and initially own 10 units of guns and 10 units of butter.   
+The Type B agents have U=.3 ln g + .7 ln b, a nd initially own nothing .  10% of the 
+agents are Type A; the other 90% are Type B.  
+ 
+True, False, and Explain:  The equilibrium price of guns will equal the 
+equilibrium price of butter.  
+ 
+Using the formula from the notes:  
+10*7.*90 10*5.*100*3.*90 10*5.*10
+bg
+pp
+.   
+ 
+But there ’s no need to use the formula.  Since the Type B agents have nothing to sell, they’re 
+irrelevant to the market.  And since the Type A agents have equal endowments of both goods and 
+value both goods equally, the price ratio has to be 1:1.  (To get full cred it, you had to note these 
+facts).  
+ 
+ 
+ 

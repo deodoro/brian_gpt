@@ -1,0 +1,16 @@
+3.  In any long -term friendship, there are multiple equilibria, of which only a small 
+fraction are ever played .  Give a good example to illustrate this principle.  
+Building on Kreps' discussion of "Why Might There Be an Obvio us Way to Play a 
+Game?"  analyze what makes the observed equilibria "special."  
+ 
+There are many ways that friends could pay for joint restaurant meals: even split, Dutch treat, 
+alternating full payment, {you pay for one meal, then I pay for two, then you pa y for three...}, and 
+so on ad infinitum.  If your friends expected you to go along with any of these practices, you 
+probably would.  But in practice, the even split and the Dutch treat are far more common than any 
+other technique.  What makes these equilib ria "special"?  Kreps talks about preplay negotiation, 
+convention, learned behavior, and focal points.  Friends rarely negotiate their bill -splitting system 
+in advance.  But convention, learned behavior, and focal points all probably play a role.  I would 
+guess that focal points are the most crucial: If I ate lunch with a member of an unfamiliar culture, I 
+would still expect him to expect that we would either split the bill or each pay our own ways.   11 
+
+

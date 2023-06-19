@@ -1,0 +1,1073 @@
+1
+00:00:00,000 --> 00:00:03,080
+A and pi ever equals to make it really easy.
+
+2
+00:00:03,080 --> 00:00:05,520
+I don't think your homework doesn't make it that easy,
+
+3
+00:00:05,520 --> 00:00:07,600
+but we can make that easy.
+
+4
+00:00:07,600 --> 00:00:09,240
+Then 25 percent of the time,
+
+5
+00:00:09,240 --> 00:00:12,040
+there'll be two firms that are in and they drive prices down to
+
+6
+00:00:12,040 --> 00:00:14,340
+marginal cost and each firm is there saying,
+
+7
+00:00:14,340 --> 00:00:15,760
+why are you up to enter too?
+
+8
+00:00:15,760 --> 00:00:16,960
+I thought I was going to be the only one.
+
+9
+00:00:16,960 --> 00:00:18,120
+Like, why are you up to enter?
+
+10
+00:00:18,120 --> 00:00:19,560
+I thought you'd be the only one.
+
+11
+00:00:19,560 --> 00:00:22,400
+Then 25 percent of the time,
+
+12
+00:00:22,400 --> 00:00:24,000
+the firm one enters like,
+
+13
+00:00:24,000 --> 00:00:26,120
+I'm the only one here making money.
+
+14
+00:00:26,120 --> 00:00:27,280
+The other firms like, no,
+
+15
+00:00:27,280 --> 00:00:29,160
+why is it that we're in?
+
+16
+00:00:29,160 --> 00:00:30,760
+And over here, it's the other way around.
+
+17
+00:00:30,760 --> 00:00:32,280
+You don't enter, oh man,
+
+18
+00:00:32,280 --> 00:00:33,840
+the other guy's making money.
+
+19
+00:00:33,840 --> 00:00:35,720
+Then finally, this is the one where both sides are
+
+20
+00:00:35,720 --> 00:00:37,520
+so scared that neither enters.
+
+21
+00:00:37,520 --> 00:00:39,040
+For each side said, man,
+
+22
+00:00:39,040 --> 00:00:43,440
+I don't want to be stuck in that situation, losing money.
+
+23
+00:00:43,440 --> 00:00:46,600
+So, both firms hold back and the result is
+
+24
+00:00:46,600 --> 00:00:50,360
+the firm doesn't, there simply isn't a firm doing it.
+
+25
+00:00:50,360 --> 00:00:53,120
+Which also is a possibility.
+
+26
+00:00:53,120 --> 00:00:56,240
+Like, sometimes people use models like this for,
+
+27
+00:00:56,240 --> 00:00:58,760
+when do you want to build the first ski resort in
+
+28
+00:00:58,760 --> 00:01:00,720
+a developing area?
+
+29
+00:01:00,720 --> 00:01:03,640
+Right? And the idea is that if it's a developing area,
+
+30
+00:01:03,640 --> 00:01:04,840
+there still aren't enough people there to
+
+31
+00:01:04,840 --> 00:01:06,560
+actually make it profitable yet.
+
+32
+00:01:06,560 --> 00:01:08,800
+But if you can see the writing on the wall,
+
+33
+00:01:08,800 --> 00:01:11,200
+see the population is growing 10 percent a year,
+
+34
+00:01:11,200 --> 00:01:12,920
+then you might want to go and build
+
+35
+00:01:12,920 --> 00:01:16,000
+your ski resort 10 years before it's profitable,
+
+36
+00:01:16,000 --> 00:01:18,600
+so that you will be the incumbent ski lift or
+
+37
+00:01:18,600 --> 00:01:20,280
+you'll have a ski resort when
+
+38
+00:01:20,280 --> 00:01:22,480
+the population finally becomes sufficient.
+
+39
+00:01:22,480 --> 00:01:24,840
+And then you can have some years of
+
+40
+00:01:24,840 --> 00:01:27,160
+being the only firm there and charging high prices.
+
+41
+00:01:27,160 --> 00:01:28,880
+Of course, if the population is big enough,
+
+42
+00:01:28,880 --> 00:01:30,560
+eventually there will actually be room for
+
+43
+00:01:30,560 --> 00:01:34,160
+a second profitable ski resort.
+
+44
+00:01:34,160 --> 00:01:38,000
+All right. So, questions about this?
+
+45
+00:01:38,000 --> 00:01:40,600
+Everyone happy? So, this one,
+
+46
+00:01:40,600 --> 00:01:41,760
+if you're confused, not a problem,
+
+47
+00:01:41,760 --> 00:01:44,680
+because you get to de-confuse yourself on the line.
+
+48
+00:01:44,680 --> 00:01:46,680
+So, you said that's going to be,
+
+49
+00:01:46,680 --> 00:01:48,040
+which is perfect, right?
+
+50
+00:01:48,040 --> 00:01:49,760
+It would be boring to go and do all the problems
+
+51
+00:01:49,760 --> 00:01:51,440
+where you already perfectly understood at the beginning,
+
+52
+00:01:51,440 --> 00:01:53,080
+right? Worth the challenge.
+
+53
+00:01:53,080 --> 00:01:56,200
+So, mathematically it's not a hard problem,
+
+54
+00:01:56,200 --> 00:01:59,360
+but interpreting it may be a little harder.
+
+55
+00:01:59,360 --> 00:02:01,400
+Okay. So, questions.
+
+56
+00:02:01,400 --> 00:02:03,240
+Questions about sub-costs.
+
+57
+00:02:03,240 --> 00:02:05,760
+Again, the main lesson is that once you go and look at
+
+58
+00:02:05,760 --> 00:02:07,480
+the mixed strategy and equilibrium,
+
+59
+00:02:07,480 --> 00:02:10,600
+then the difference between how
+
+60
+00:02:10,600 --> 00:02:11,920
+the market works and fixed costs and
+
+61
+00:02:11,920 --> 00:02:13,920
+sub-costs is actually pretty minimal.
+
+62
+00:02:13,920 --> 00:02:15,840
+It's basically a difference between,
+
+63
+00:02:15,840 --> 00:02:17,880
+you have more variance with sub-costs,
+
+64
+00:02:17,880 --> 00:02:21,880
+but it's not actually overall worse for consumers.
+
+65
+00:02:21,880 --> 00:02:26,040
+All right. Okay.
+
+66
+00:02:26,040 --> 00:02:28,080
+So, last topic for this evening,
+
+67
+00:02:28,080 --> 00:02:30,680
+allocated versus productive and efficiency.
+
+68
+00:02:30,680 --> 00:02:33,080
+All right. Now, I mentioned this,
+
+69
+00:02:33,080 --> 00:02:34,440
+but worth reviewing.
+
+70
+00:02:34,440 --> 00:02:36,440
+So, let's go back to that monopoly diagram,
+
+71
+00:02:36,440 --> 00:02:39,800
+commercial cost, demand,
+
+72
+00:02:39,800 --> 00:02:43,960
+commercial revenue, monopoly price,
+
+73
+00:02:43,960 --> 00:02:47,240
+and then we have the deadweight loss triangle,
+
+74
+00:02:47,240 --> 00:02:49,520
+the trend deadweight loss triangle.
+
+75
+00:02:49,520 --> 00:02:51,240
+So, I think I mentioned,
+
+76
+00:02:51,240 --> 00:02:52,640
+when I was an undergraduate,
+
+77
+00:02:52,640 --> 00:02:55,680
+I must have seen a thousand of these triangles from
+
+78
+00:02:55,680 --> 00:03:01,320
+the blackboards and described in the most lurid terms.
+
+79
+00:03:01,320 --> 00:03:04,680
+Then there's a horrible deadweight loss triangle.
+
+80
+00:03:04,680 --> 00:03:06,680
+The triangles are coming for us.
+
+81
+00:03:06,680 --> 00:03:08,360
+These horrible triangles.
+
+82
+00:03:08,360 --> 00:03:11,840
+Oh my God. So, don't tell me that
+
+83
+00:03:11,840 --> 00:03:14,880
+free markets work when there are triangles out there.
+
+84
+00:03:14,880 --> 00:03:17,200
+What kind of a fool you take me for?
+
+85
+00:03:17,200 --> 00:03:19,200
+I've seen the triangles and if you're a fool,
+
+86
+00:03:19,200 --> 00:03:21,280
+you can't see these triangles too.
+
+87
+00:03:21,280 --> 00:03:26,160
+All right. Anyway. So, the description of,
+
+88
+00:03:26,160 --> 00:03:28,320
+like why exactly this is so horrible,
+
+89
+00:03:28,320 --> 00:03:29,840
+it was never all that clear.
+
+90
+00:03:29,840 --> 00:03:30,920
+But when I was in grad school,
+
+91
+00:03:30,920 --> 00:03:33,120
+I finally got to get a really good description from
+
+92
+00:03:33,120 --> 00:03:35,760
+Steve Landsberg in his chapter,
+
+93
+00:03:35,760 --> 00:03:38,760
+why taxes are bad, the logic of efficiency.
+
+94
+00:03:38,760 --> 00:03:40,920
+All right. So, here, just in case
+
+95
+00:03:40,920 --> 00:03:45,080
+your undergraduate teachers were as bad as mine, maybe.
+
+96
+00:03:45,080 --> 00:03:48,040
+Just in case, if they say you're here,
+
+97
+00:03:48,040 --> 00:03:49,200
+of course not, of course they're great.
+
+98
+00:03:49,200 --> 00:03:50,600
+But on the other hand,
+
+99
+00:03:50,600 --> 00:03:52,080
+they said, don't go to George Mason,
+
+100
+00:03:52,080 --> 00:03:55,680
+they're crazy there. Then, now you can see.
+
+101
+00:03:55,680 --> 00:03:57,920
+Now you'll see one of their many flaws.
+
+102
+00:03:57,920 --> 00:04:02,600
+All right. So, here is Landsberg's story.
+
+103
+00:04:02,600 --> 00:04:05,480
+All right. So, let's start with a really simple case
+
+104
+00:04:05,480 --> 00:04:08,640
+where we've got shirts where
+
+105
+00:04:08,640 --> 00:04:11,240
+there's an $18 marginal cost producing them,
+
+106
+00:04:11,240 --> 00:04:14,840
+and then you are willing to pay $20 for a shirt.
+
+107
+00:04:14,840 --> 00:04:17,520
+All right. And there's no taxes, let's start off with.
+
+108
+00:04:17,520 --> 00:04:19,200
+So, there's a point of competition.
+
+109
+00:04:19,200 --> 00:04:22,640
+So, you value a shirt for $20,
+
+110
+00:04:22,640 --> 00:04:25,040
+they're sold for $18, do you buy the shirt?
+
+111
+00:04:25,040 --> 00:04:28,200
+Sure. Right? And when you buy the shirt,
+
+112
+00:04:28,200 --> 00:04:29,720
+how much consumer surplus do you get?
+
+113
+00:04:29,720 --> 00:04:31,960
+Two dollars. And how much revenue does
+
+114
+00:04:31,960 --> 00:04:33,840
+the government get when the tax is zero?
+
+115
+00:04:33,840 --> 00:04:36,280
+Zero. All right. Now, suppose the government
+
+116
+00:04:36,280 --> 00:04:38,080
+goes and imposes a one cent tax.
+
+117
+00:04:38,080 --> 00:04:40,240
+Now, the price is $19.01.
+
+118
+00:04:40,240 --> 00:04:41,240
+Do you still buy the shirt?
+
+119
+00:04:41,240 --> 00:04:43,880
+Yes. Yes. What consumer surplus do you get?
+
+120
+00:04:43,880 --> 00:04:45,200
+$0.99.
+
+121
+00:04:45,200 --> 00:04:48,200
+$1.99. And how much tax revenue
+
+122
+00:04:48,200 --> 00:04:49,480
+does the government raise off of you?
+
+123
+00:04:49,480 --> 00:04:51,040
+One cent. One cent. All right.
+
+124
+00:04:51,040 --> 00:04:52,320
+Fine. The government puts a dollar tax.
+
+125
+00:04:52,320 --> 00:04:53,800
+How much consumer surplus do you get?
+
+126
+00:04:53,800 --> 00:04:55,440
+One. One. A dollar. How much tax revenue
+
+127
+00:04:55,440 --> 00:04:56,680
+does the government get? A dollar.
+
+128
+00:04:56,680 --> 00:04:59,440
+Government imposes a $1.99 tax on the shirt.
+
+129
+00:04:59,440 --> 00:05:01,280
+How much can you still buy?
+
+130
+00:05:01,280 --> 00:05:03,520
+Yes. Sure. And how much surplus do you get?
+
+131
+00:05:03,520 --> 00:05:04,960
+A penny. A penny. How much tax revenue
+
+132
+00:05:04,960 --> 00:05:06,880
+does the government get? $1.99.
+
+133
+00:05:06,880 --> 00:05:08,840
+All right. So, so far, this is so obvious,
+
+134
+00:05:08,840 --> 00:05:10,040
+you may wonder what the point is.
+
+135
+00:05:10,040 --> 00:05:11,600
+Then the government goes and imposes
+
+136
+00:05:11,600 --> 00:05:13,720
+a $2.01 tax.
+
+137
+00:05:13,720 --> 00:05:15,720
+The price is now $20.01.
+
+138
+00:05:15,720 --> 00:05:16,880
+Do you still buy?
+
+139
+00:05:16,880 --> 00:05:19,960
+No. No. How much consumer surplus do you get?
+
+140
+00:05:19,960 --> 00:05:21,760
+Zero. None. How much revenue
+
+141
+00:05:21,760 --> 00:05:22,720
+does the government raise?
+
+142
+00:05:22,720 --> 00:05:25,120
+Zero. None. And that's what
+
+143
+00:05:25,120 --> 00:05:27,120
+deadweight costs are all about.
+
+144
+00:05:27,120 --> 00:05:31,040
+So, as long as all the government doing,
+
+145
+00:05:31,040 --> 00:05:33,320
+doing is raising the, raising,
+
+146
+00:05:33,320 --> 00:05:35,400
+raising the tax without changing behavior,
+
+147
+00:05:35,400 --> 00:05:38,200
+it's just shifting the surplus from you to itself.
+
+148
+00:05:38,200 --> 00:05:40,360
+But if you raise it enough,
+
+149
+00:05:40,360 --> 00:05:42,320
+then the result is not that it shifts
+
+150
+00:05:42,320 --> 00:05:44,240
+even more from you to itself,
+
+151
+00:05:44,240 --> 00:05:46,320
+but that it destroys all of your surplus
+
+152
+00:05:46,320 --> 00:05:48,360
+and gets no surplus for itself.
+
+153
+00:05:48,360 --> 00:05:52,800
+And that's why taxes are bad in economic terms.
+
+154
+00:05:52,800 --> 00:05:54,000
+That's the whole problem.
+
+155
+00:05:54,000 --> 00:05:56,040
+And that's, and again, of course,
+
+156
+00:05:56,040 --> 00:05:58,720
+the same goes for, if this were a monopolist.
+
+157
+00:05:58,720 --> 00:06:00,640
+So if there's a monopolist that
+
+158
+00:06:00,640 --> 00:06:02,120
+we're going and starts up by
+
+159
+00:06:02,120 --> 00:06:04,120
+charging marginal cost and it gets no surplus,
+
+160
+00:06:04,120 --> 00:06:05,520
+you get it all, if it raises
+
+161
+00:06:05,520 --> 00:06:07,480
+the price on the unit that you're buying,
+
+162
+00:06:07,480 --> 00:06:09,920
+then it takes away more and more of your surplus,
+
+163
+00:06:09,920 --> 00:06:11,120
+you're getting less and less.
+
+164
+00:06:11,120 --> 00:06:13,400
+But then finally it reaches the breaking point
+
+165
+00:06:13,400 --> 00:06:15,160
+where it's beyond your willingness to pay.
+
+166
+00:06:15,160 --> 00:06:17,760
+And then you say, I don't want it anymore.
+
+167
+00:06:17,760 --> 00:06:20,480
+And then the firm gets nothing.
+
+168
+00:06:20,480 --> 00:06:23,040
+And that's the nature of
+
+169
+00:06:23,040 --> 00:06:24,280
+allocated efficiency and that's
+
+170
+00:06:24,280 --> 00:06:25,760
+what this triangle is all about.
+
+171
+00:06:25,760 --> 00:06:29,400
+This is all the surplus that is lost without it
+
+172
+00:06:29,400 --> 00:06:31,160
+being a loss to consumers without
+
+173
+00:06:31,160 --> 00:06:33,800
+being gained by the producers.
+
+174
+00:06:35,240 --> 00:06:38,560
+All right. So, questions.
+
+175
+00:06:38,560 --> 00:06:42,120
+Yes. How does that work with things like
+
+176
+00:06:42,120 --> 00:06:46,600
+syntaxes where you're on the books,
+
+177
+00:06:46,600 --> 00:06:50,160
+you're making it just to push people away from it?
+
+178
+00:06:50,160 --> 00:06:52,000
+Ah, yeah, yeah. So, like,
+
+179
+00:06:52,000 --> 00:06:53,560
+if it's something with a negative externality,
+
+180
+00:06:53,560 --> 00:06:55,480
+which is often the way that economists think about
+
+181
+00:06:55,480 --> 00:06:57,200
+syntaxes, although of course
+
+182
+00:06:57,200 --> 00:06:58,800
+the language suggests otherwise.
+
+183
+00:06:58,800 --> 00:07:00,200
+But anyway, if and if,
+
+184
+00:07:00,200 --> 00:07:01,760
+but if that's what's going on,
+
+185
+00:07:01,760 --> 00:07:03,920
+then the key thing is that there are
+
+186
+00:07:03,920 --> 00:07:05,240
+some bystanders who are actually
+
+187
+00:07:05,240 --> 00:07:07,480
+gaining by your non-consumption.
+
+188
+00:07:07,480 --> 00:07:09,680
+And so, again,
+
+189
+00:07:09,680 --> 00:07:10,920
+essentially the whole idea of
+
+190
+00:07:10,920 --> 00:07:13,880
+an efficient Mokovian tax is that you have to
+
+191
+00:07:13,880 --> 00:07:17,760
+consider the loss surplus to the consumers,
+
+192
+00:07:17,760 --> 00:07:20,040
+the gain surplus to the government,
+
+193
+00:07:20,040 --> 00:07:21,360
+and the gain surplus to
+
+194
+00:07:21,360 --> 00:07:22,680
+the bystanders who don't have to
+
+195
+00:07:22,680 --> 00:07:24,320
+breathe their smoke anymore or don't get
+
+196
+00:07:24,320 --> 00:07:27,440
+hit by your drunk drivers anymore or whatever.
+
+197
+00:07:27,440 --> 00:07:29,200
+So, that's the answer is.
+
+198
+00:07:29,200 --> 00:07:30,920
+So, when you count basically,
+
+199
+00:07:30,920 --> 00:07:32,160
+so when you count those people,
+
+200
+00:07:32,160 --> 00:07:33,560
+then again, it may be that you're
+
+201
+00:07:33,560 --> 00:07:36,000
+actually are increasing surplus by doing this.
+
+202
+00:07:36,000 --> 00:07:38,040
+Okay. All right.
+
+203
+00:07:38,040 --> 00:07:41,800
+Now, so last topic before we go,
+
+204
+00:07:41,800 --> 00:07:44,240
+there have been empirical efforts
+
+205
+00:07:44,240 --> 00:07:46,160
+to estimate these triangles.
+
+206
+00:07:46,160 --> 00:07:49,120
+And almost all of the empirical estimates
+
+207
+00:07:49,120 --> 00:07:52,600
+turn out to say that they are very small.
+
+208
+00:07:52,600 --> 00:07:55,880
+And that a whole generation of economists or
+
+209
+00:07:55,880 --> 00:07:58,800
+two generations were freaking out about triangles,
+
+210
+00:07:58,800 --> 00:07:59,920
+that turned out to be of
+
+211
+00:07:59,920 --> 00:08:02,560
+empirically negligible importance.
+
+212
+00:08:02,560 --> 00:08:05,000
+So, the first big paper on this was written by
+
+213
+00:08:05,000 --> 00:08:06,720
+a Chicago economist named Harberger.
+
+214
+00:08:06,720 --> 00:08:08,160
+And as a result, these are now
+
+215
+00:08:08,160 --> 00:08:10,080
+called Harberger triangles.
+
+216
+00:08:10,080 --> 00:08:12,320
+And he came up with an estimate that
+
+217
+00:08:12,320 --> 00:08:15,400
+if you added these all up for the whole economy.
+
+218
+00:08:15,400 --> 00:08:19,240
+And again, actually made a bunch of assumptions
+
+219
+00:08:19,240 --> 00:08:20,600
+that stacked it in favor
+
+220
+00:08:20,600 --> 00:08:22,720
+of thinking that these triangles are bad.
+
+221
+00:08:22,720 --> 00:08:23,840
+Like basically saying, well,
+
+222
+00:08:23,840 --> 00:08:26,240
+assume that there's cost-returns scale anywhere,
+
+223
+00:08:26,240 --> 00:08:27,760
+so there's never any actual cost
+
+224
+00:08:27,760 --> 00:08:29,520
+reason for there to be a monopoly.
+
+225
+00:08:29,520 --> 00:08:31,520
+Then he came up with a number of
+
+226
+00:08:31,520 --> 00:08:33,080
+the sum cost of all these,
+
+227
+00:08:33,080 --> 00:08:36,400
+American economies and like 0.1% GDP.
+
+228
+00:08:36,400 --> 00:08:38,880
+Are those just deadweight losses from monopoly
+
+229
+00:08:38,880 --> 00:08:40,920
+or deadweight losses from monopoly and taxation?
+
+230
+00:08:40,920 --> 00:08:43,240
+No, no, no, he was only doing monopoly.
+
+231
+00:08:43,240 --> 00:08:44,920
+Yeah, yes, that's right.
+
+232
+00:08:44,920 --> 00:08:47,160
+Oh yes, although of course the logic is exactly the same
+
+233
+00:08:47,160 --> 00:08:48,960
+for it, but yeah.
+
+234
+00:08:48,960 --> 00:08:51,200
+So, anyway, so he came up with this number
+
+235
+00:08:51,200 --> 00:08:54,120
+which was microscopic, right?
+
+236
+00:08:54,120 --> 00:08:57,040
+Like, so, and all out of whack with a bunch of
+
+237
+00:08:57,040 --> 00:08:58,960
+other problems that economists were working on
+
+238
+00:08:58,960 --> 00:09:00,520
+as well as a bunch of problems
+
+239
+00:09:00,520 --> 00:09:03,200
+that no economist cares about.
+
+240
+00:09:03,200 --> 00:09:05,360
+So, and he basically said, you know,
+
+241
+00:09:05,360 --> 00:09:07,080
+I like how all of you guys are really worried
+
+242
+00:09:07,080 --> 00:09:08,120
+about the triangles.
+
+243
+00:09:08,120 --> 00:09:09,680
+They're actually empirically of almost no importance,
+
+244
+00:09:09,680 --> 00:09:11,200
+so get over yourselves.
+
+245
+00:09:11,200 --> 00:09:13,240
+Now, as you might expect,
+
+246
+00:09:13,240 --> 00:09:14,680
+people didn't generally take the standing down
+
+247
+00:09:14,680 --> 00:09:16,520
+of their life's work as being validated.
+
+248
+00:09:16,520 --> 00:09:19,800
+And so there were a bunch of variations on this.
+
+249
+00:09:19,800 --> 00:09:21,320
+Some of them coming all the way down
+
+250
+00:09:21,320 --> 00:09:23,680
+to assume the entire economy is monopolized.
+
+251
+00:09:23,680 --> 00:09:25,960
+And then what can we get it up to?
+
+252
+00:09:25,960 --> 00:09:26,800
+Right, and in the end,
+
+253
+00:09:26,800 --> 00:09:28,520
+I think the pretty standard view was that
+
+254
+00:09:28,520 --> 00:09:33,200
+Harberger did in fact reach a pretty strong result.
+
+255
+00:09:33,200 --> 00:09:35,920
+And almost the only, like the most memorable
+
+256
+00:09:35,920 --> 00:09:38,600
+critique of Harberger came from Paul Samuelson
+
+257
+00:09:38,600 --> 00:09:41,240
+who just said, well, anything is as small
+
+258
+00:09:41,240 --> 00:09:42,680
+if you divide it by GDP.
+
+259
+00:09:44,160 --> 00:09:45,360
+So that was his big answer,
+
+260
+00:09:45,360 --> 00:09:47,000
+but of course he knew better than that
+
+261
+00:09:47,000 --> 00:09:49,880
+because, like, who spent more time on
+
+262
+00:09:49,880 --> 00:09:52,760
+deadweight costs of unemployment than Samuelson?
+
+263
+00:09:52,760 --> 00:09:53,880
+You know, like, there's a lot of things
+
+264
+00:09:53,880 --> 00:09:55,760
+that aren't small if you divide it by GDP.
+
+265
+00:09:55,760 --> 00:09:57,920
+Is the Great Depression small if you divide it by GDP?
+
+266
+00:09:57,920 --> 00:10:00,280
+No, so, you know, yes,
+
+267
+00:10:00,280 --> 00:10:03,080
+this was actually a greatly overbought problem.
+
+268
+00:10:03,080 --> 00:10:28,080
+So we'll stop here, and I'll see you next week.
+
+

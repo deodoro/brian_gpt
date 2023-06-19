@@ -1,0 +1,2173 @@
+1
+00:00:00,000 --> 00:00:02,160
+Prisoner's dilemma, right?
+
+2
+00:00:02,160 --> 00:00:07,200
+So the most commonly studied game in all of social science,
+
+3
+00:00:07,200 --> 00:00:08,760
+really, really without a doubt.
+
+4
+00:00:08,760 --> 00:00:10,720
+And again, with many applications.
+
+5
+00:00:10,720 --> 00:00:12,140
+Of course, when we apply it to the real world,
+
+6
+00:00:12,140 --> 00:00:14,720
+then you'll notice that even when people appear
+
+7
+00:00:14,720 --> 00:00:15,880
+to be in a prisoner's dilemma,
+
+8
+00:00:15,880 --> 00:00:18,160
+it's actually pretty common for people to cooperate
+
+9
+00:00:18,160 --> 00:00:19,720
+to some degree.
+
+10
+00:00:19,720 --> 00:00:21,760
+There's not that many people who immediately stab you
+
+11
+00:00:21,760 --> 00:00:23,080
+in the back in a prisoner's dilemma,
+
+12
+00:00:23,080 --> 00:00:24,920
+although it has been known to happen.
+
+13
+00:00:27,000 --> 00:00:28,640
+And again, if you're actually thinking about
+
+14
+00:00:28,640 --> 00:00:30,560
+ever beating in a prisoner's dilemma,
+
+15
+00:00:30,560 --> 00:00:32,400
+you're wondering like the best way to play,
+
+16
+00:00:32,400 --> 00:00:34,480
+especially if it is even a finitely repeated
+
+17
+00:00:34,480 --> 00:00:36,160
+prisoner's dilemma.
+
+18
+00:00:36,160 --> 00:00:39,040
+In practice, you may be well advised to cooperate,
+
+19
+00:00:39,040 --> 00:00:40,880
+if only to create some confusion to your opponent
+
+20
+00:00:40,880 --> 00:00:44,000
+about whether you have a clue about what the game is about.
+
+21
+00:00:44,000 --> 00:00:46,080
+But we'll get to that later on.
+
+22
+00:00:46,080 --> 00:00:48,120
+All right, so prisoner's dilemma,
+
+23
+00:00:48,120 --> 00:00:50,640
+and now let's move on to coordination games.
+
+24
+00:00:50,640 --> 00:00:53,240
+Also very high profile, both theoretically
+
+25
+00:00:53,240 --> 00:00:55,320
+and also in policy.
+
+26
+00:00:55,320 --> 00:00:56,880
+All right, so here's a standard discussion.
+
+27
+00:00:56,880 --> 00:00:59,000
+We start with a game where both players
+
+28
+00:00:59,000 --> 00:01:00,760
+can either play left or right,
+
+29
+00:01:00,760 --> 00:01:02,840
+and then we say that if they both play left,
+
+30
+00:01:02,840 --> 00:01:04,880
+they both get three, if they both play right,
+
+31
+00:01:04,880 --> 00:01:07,040
+they both get five, and if they do different things,
+
+32
+00:01:07,040 --> 00:01:08,600
+then they both get zero.
+
+33
+00:01:08,600 --> 00:01:10,320
+That's the heart of the coordination game.
+
+34
+00:01:10,320 --> 00:01:13,360
+People do different things, then it's bad.
+
+35
+00:01:13,360 --> 00:01:15,720
+If they do the same things, then it's good,
+
+36
+00:01:15,720 --> 00:01:18,400
+but doing different same things,
+
+37
+00:01:18,400 --> 00:01:20,980
+some same things are better than other same things.
+
+38
+00:01:20,980 --> 00:01:22,680
+So in this one, both people playing right
+
+39
+00:01:22,680 --> 00:01:25,200
+is better for both of them than both playing left.
+
+40
+00:01:25,200 --> 00:01:27,380
+All right, and then this is a case
+
+41
+00:01:27,380 --> 00:01:29,660
+where we very easily apply the concept
+
+42
+00:01:29,660 --> 00:01:31,620
+of pure strategy and actual equilibrium.
+
+43
+00:01:31,620 --> 00:01:34,020
+And again, it's three, three, a PS and E.
+
+44
+00:01:35,340 --> 00:01:37,820
+Is either person gained from switching unilaterally?
+
+45
+00:01:37,820 --> 00:01:39,140
+No, so that's one.
+
+46
+00:01:39,140 --> 00:01:41,260
+Is zero a zero, a PS and E?
+
+47
+00:01:41,260 --> 00:01:43,500
+No, no, no, that one.
+
+48
+00:01:43,500 --> 00:01:45,220
+What about five, five, is that a PS and E?
+
+49
+00:01:45,220 --> 00:01:46,460
+That one is two.
+
+50
+00:01:46,460 --> 00:01:49,300
+So here we've got a game where we've got two equilibrium.
+
+51
+00:01:49,300 --> 00:01:51,780
+So if you know the other person's playing left,
+
+52
+00:01:51,780 --> 00:01:52,620
+you wanna play left too.
+
+53
+00:01:52,620 --> 00:01:53,940
+If you know the other person's playing right,
+
+54
+00:01:53,940 --> 00:01:56,500
+you wanna play right too, right, and so on.
+
+55
+00:01:58,500 --> 00:02:02,540
+Now, coordination games are the basis
+
+56
+00:02:02,540 --> 00:02:05,780
+for the entire literature on so-called path dependence,
+
+57
+00:02:07,460 --> 00:02:10,780
+which really is just a fancy piece of vocabulary
+
+58
+00:02:10,780 --> 00:02:12,760
+for when it's a coordination game.
+
+59
+00:02:14,260 --> 00:02:16,580
+And again, the main idea that gets emphasized
+
+60
+00:02:16,580 --> 00:02:21,060
+in this area of path dependence is that it's possible,
+
+61
+00:02:21,060 --> 00:02:24,220
+underscore possible, that in a situation like this,
+
+62
+00:02:24,220 --> 00:02:27,020
+you get locked into the bad equilibrium.
+
+63
+00:02:27,020 --> 00:02:30,220
+Not the really bad one, there's no danger of that,
+
+64
+00:02:30,220 --> 00:02:32,060
+at least in the game, but there's a danger
+
+65
+00:02:32,060 --> 00:02:34,900
+of getting locked into the inferior equilibrium, right?
+
+66
+00:02:34,900 --> 00:02:36,460
+One that isn't the best possible one
+
+67
+00:02:36,460 --> 00:02:38,180
+from the point of view of anyone.
+
+68
+00:02:38,180 --> 00:02:40,280
+That can in fact happen.
+
+69
+00:02:40,280 --> 00:02:42,180
+Right, now remember, if you look at this,
+
+70
+00:02:42,180 --> 00:02:43,340
+is there anything about this game
+
+71
+00:02:43,340 --> 00:02:46,340
+that says that you naturally tend to go to this?
+
+72
+00:02:46,340 --> 00:02:49,860
+No, all right, so when people just say path dependence
+
+73
+00:02:49,860 --> 00:02:51,740
+and that's why things are terrible,
+
+74
+00:02:51,740 --> 00:02:53,700
+it's like, well, path dependence means
+
+75
+00:02:53,700 --> 00:02:56,620
+that things could be terrible, or at least,
+
+76
+00:02:56,620 --> 00:02:59,380
+maybe not so terrible you might think as those two.
+
+77
+00:02:59,380 --> 00:03:01,620
+And then we say mediocre might be a word
+
+78
+00:03:01,620 --> 00:03:03,620
+that you might apply, so path dependence
+
+79
+00:03:03,620 --> 00:03:05,620
+can lead to a mediocre outcome,
+
+80
+00:03:05,620 --> 00:03:07,900
+but it totally does not have to.
+
+81
+00:03:07,900 --> 00:03:09,140
+Totally does not have to.
+
+82
+00:03:10,780 --> 00:03:13,380
+Now, when you take a look at these two at Bolivia,
+
+83
+00:03:13,380 --> 00:03:16,140
+you have one thing, imagine you're playing this game
+
+84
+00:03:16,140 --> 00:03:18,340
+with one of the random students in this class, right?
+
+85
+00:03:18,340 --> 00:03:20,180
+So we both move simultaneously,
+
+86
+00:03:20,180 --> 00:03:22,300
+and your opponent plays left.
+
+87
+00:03:22,300 --> 00:03:24,780
+All right, what would your reaction be
+
+88
+00:03:24,780 --> 00:03:27,380
+if the person just played left out of the blue?
+
+89
+00:03:27,380 --> 00:03:29,540
+I show you this game, you're paired up with a person
+
+90
+00:03:29,540 --> 00:03:31,980
+and they play left, and then you say,
+
+91
+00:03:31,980 --> 00:03:33,460
+wait, why in the world would you play left
+
+92
+00:03:33,460 --> 00:03:35,220
+if I thought you would play left?
+
+93
+00:03:35,220 --> 00:03:38,700
+Well, why would you think I would be so dumb as to play left?
+
+94
+00:03:38,700 --> 00:03:41,540
+All right, so there's something very odd
+
+95
+00:03:41,540 --> 00:03:44,660
+about starting this game from scratch
+
+96
+00:03:44,660 --> 00:03:47,460
+and ending up at that equilibrium, right?
+
+97
+00:03:47,460 --> 00:03:49,820
+If you would be quite puzzled by the response
+
+98
+00:03:49,820 --> 00:03:51,700
+of I just assumed you would play left,
+
+99
+00:03:51,700 --> 00:03:53,860
+so was the equilibrium, well, yeah,
+
+100
+00:03:53,860 --> 00:03:55,940
+but where would you ever get it in your head
+
+101
+00:03:55,940 --> 00:03:57,500
+that I would do left?
+
+102
+00:03:57,500 --> 00:03:58,580
+Why?
+
+103
+00:03:58,580 --> 00:04:00,100
+Why would you even think that?
+
+104
+00:04:02,420 --> 00:04:04,540
+Now, in the real world, there may be cases
+
+105
+00:04:04,540 --> 00:04:07,220
+where it's easier to understand what's going on.
+
+106
+00:04:07,220 --> 00:04:09,620
+For example, suppose that we came up
+
+107
+00:04:09,620 --> 00:04:12,180
+with a better system for spelling in English.
+
+108
+00:04:13,060 --> 00:04:15,300
+How hard would it be to come up with a better system
+
+109
+00:04:15,300 --> 00:04:17,460
+for spelling in English?
+
+110
+00:04:17,460 --> 00:04:19,540
+I think everyone in this room could improve
+
+111
+00:04:19,540 --> 00:04:22,700
+English spelling given 30 minutes, right?
+
+112
+00:04:22,700 --> 00:04:25,820
+I mean, just think about the letters we should abolish.
+
+113
+00:04:25,820 --> 00:04:27,700
+Q, there's no need for Q.
+
+114
+00:04:27,700 --> 00:04:30,260
+Q can be wiped off the face of the earth in English.
+
+115
+00:04:30,260 --> 00:04:31,900
+We never need it again.
+
+116
+00:04:31,900 --> 00:04:34,140
+Terrible letter, right?
+
+117
+00:04:34,140 --> 00:04:36,460
+Right, it's just a needless confusion, right?
+
+118
+00:04:36,460 --> 00:04:38,580
+You're like, so then you just go through,
+
+119
+00:04:38,580 --> 00:04:41,140
+like other letters, yeah, C, you don't need C.
+
+120
+00:04:41,140 --> 00:04:43,340
+C is a useless letter, right?
+
+121
+00:04:43,340 --> 00:04:46,980
+And just go down the line, so it's X, you don't need X.
+
+122
+00:04:46,980 --> 00:04:48,660
+So we got rid of three letters.
+
+123
+00:04:48,660 --> 00:04:49,900
+We're like, this is what?
+
+124
+00:04:49,900 --> 00:04:54,340
+This is like a 10% improvement in just about 30 seconds.
+
+125
+00:04:54,340 --> 00:04:56,100
+Like so, and then there's so many other things
+
+126
+00:04:56,100 --> 00:04:57,220
+you need to fix.
+
+127
+00:04:57,220 --> 00:04:59,860
+You know, so I cannot make all the spelling phonetic.
+
+128
+00:05:01,140 --> 00:05:02,940
+There are languages that work that way.
+
+129
+00:05:02,940 --> 00:05:05,180
+Why can't English work that way?
+
+130
+00:05:05,180 --> 00:05:07,540
+All right, and of course, if you've had to learn English
+
+131
+00:05:07,540 --> 00:05:09,260
+as a second language, you know how terrible
+
+132
+00:05:09,260 --> 00:05:10,940
+our system is, right?
+
+133
+00:05:10,940 --> 00:05:13,340
+Isn't it a terrible system?
+
+134
+00:05:13,340 --> 00:05:15,460
+All right, and yet, does anyone feel inclined
+
+135
+00:05:15,460 --> 00:05:18,780
+to switch over to your new and improved spelling system?
+
+136
+00:05:18,780 --> 00:05:20,020
+Unilaterally?
+
+137
+00:05:20,020 --> 00:05:21,820
+Right, no one is going to try this.
+
+138
+00:05:21,820 --> 00:05:23,900
+People would think that you were crazy to do it.
+
+139
+00:05:23,900 --> 00:05:26,820
+So it does seem like situations like that
+
+140
+00:05:26,820 --> 00:05:29,980
+can actually occur, but it's interesting to think about
+
+141
+00:05:29,980 --> 00:05:32,660
+what's the difference between getting stuck
+
+142
+00:05:32,660 --> 00:05:34,580
+with a crummy spelling system
+
+143
+00:05:34,580 --> 00:05:37,420
+and just doing a two by two game.
+
+144
+00:05:37,420 --> 00:05:39,980
+So like, the first one possibility is it's just
+
+145
+00:05:39,980 --> 00:05:41,940
+when there's more people, it's hard to switch.
+
+146
+00:05:41,940 --> 00:05:44,940
+Another one is when knowledge of what the better
+
+147
+00:05:44,940 --> 00:05:47,380
+equilibrium is spreads gradually.
+
+148
+00:05:47,380 --> 00:05:50,380
+And so we'll talk about this more as we go on.
+
+149
+00:05:50,380 --> 00:05:52,100
+Now anyway, once you start thinking about
+
+150
+00:05:52,100 --> 00:05:54,620
+why this equilibrium seems to make so much more sense
+
+151
+00:05:54,620 --> 00:05:56,820
+than this one, it takes us very quickly
+
+152
+00:05:56,820 --> 00:05:59,740
+to the notion of focal points,
+
+153
+00:06:00,820 --> 00:06:02,980
+also known as Schelling points.
+
+154
+00:06:05,860 --> 00:06:07,780
+Anyone get to see Thomas Schelling speak
+
+155
+00:06:07,780 --> 00:06:10,660
+a year or two ago at the Public Choice Center?
+
+156
+00:06:10,660 --> 00:06:13,300
+So he died since then, but he was there.
+
+157
+00:06:13,300 --> 00:06:14,860
+He was so quiet I couldn't hear him actually,
+
+158
+00:06:14,860 --> 00:06:16,820
+but people in the front row said he was great.
+
+159
+00:06:16,820 --> 00:06:19,660
+He was still very young, he was 96, I guess.
+
+160
+00:06:19,660 --> 00:06:21,660
+Yes, it seems to me from what you're saying
+
+161
+00:06:21,660 --> 00:06:24,460
+that the idea of time dependence implies
+
+162
+00:06:24,460 --> 00:06:27,340
+or has this assumption of iteration, right?
+
+163
+00:06:29,420 --> 00:06:31,500
+Again, yeah, so you could say that, yeah,
+
+164
+00:06:31,500 --> 00:06:35,180
+because the idea is that since we are already expecting this
+
+165
+00:06:35,180 --> 00:06:37,300
+then we'll keep doing this, so yeah.
+
+166
+00:06:37,300 --> 00:06:40,020
+But in a way what you're saying is that as an equilibrium
+
+167
+00:06:40,020 --> 00:06:41,780
+it's a repeated game, it's not.
+
+168
+00:06:41,780 --> 00:06:43,180
+Yeah, it could be, so it could be,
+
+169
+00:06:43,180 --> 00:06:45,820
+although it could also be that it's just
+
+170
+00:06:45,820 --> 00:06:48,740
+people have expectations that the bad thing will occur
+
+171
+00:06:48,740 --> 00:06:50,980
+and that just the expectations might lead to that
+
+172
+00:06:50,980 --> 00:06:52,900
+even though there's no real repeat.
+
+173
+00:06:52,900 --> 00:06:54,620
+That's another possibility.
+
+174
+00:06:54,620 --> 00:06:55,460
+Right.
+
+175
+00:06:55,460 --> 00:06:56,300
+You could talk about time dependence,
+
+176
+00:06:56,300 --> 00:06:57,300
+you know, one shot thing.
+
+177
+00:06:57,300 --> 00:06:58,620
+Yeah, yeah, in principle.
+
+178
+00:06:58,620 --> 00:07:01,780
+Again, like you might say that it's not truly one shot
+
+179
+00:07:01,780 --> 00:07:03,900
+because everyone brings some expectations
+
+180
+00:07:03,900 --> 00:07:06,300
+about how people play games with them, right?
+
+181
+00:07:06,300 --> 00:07:09,260
+Which again sort of takes us to this idea here.
+
+182
+00:07:09,260 --> 00:07:10,540
+So anyway, Thomas Schelling is famous
+
+183
+00:07:10,540 --> 00:07:12,140
+for his idea of focal points.
+
+184
+00:07:12,140 --> 00:07:13,980
+And he began with a case where he said,
+
+185
+00:07:13,980 --> 00:07:15,740
+all right, look, suppose that tomorrow
+
+186
+00:07:15,740 --> 00:07:18,140
+you have to meet an unknown person
+
+187
+00:07:18,140 --> 00:07:21,380
+in somewhere in New York City at an unknown time.
+
+188
+00:07:21,380 --> 00:07:23,620
+All right, where and when do you go?
+
+189
+00:07:23,620 --> 00:07:26,100
+And then he had everyone secretly write down their answer.
+
+190
+00:07:26,100 --> 00:07:27,900
+And he found out an extraordinarily high percentage
+
+191
+00:07:27,900 --> 00:07:29,800
+of people would have successfully met.
+
+192
+00:07:30,980 --> 00:07:34,540
+All right, now if we were to go and write down
+
+193
+00:07:34,540 --> 00:07:36,900
+this game in terms of this, there'd basically be
+
+194
+00:07:36,900 --> 00:07:38,380
+like four location.
+
+195
+00:07:38,380 --> 00:07:40,460
+Essentially like the payoff is if you're at the same location
+
+196
+00:07:40,460 --> 00:07:42,100
+there's a good payoff.
+
+197
+00:07:42,100 --> 00:07:44,580
+And if you're not at the same location, there's a bad payoff.
+
+198
+00:07:44,580 --> 00:07:46,300
+But then of course some locations are worse than others.
+
+199
+00:07:46,300 --> 00:07:50,220
+You could be in the worst neighborhood of New York City,
+
+200
+00:07:50,220 --> 00:07:51,260
+for example.
+
+201
+00:07:51,260 --> 00:07:52,700
+Things wouldn't be that bad anymore
+
+202
+00:07:52,700 --> 00:07:54,140
+if that's what Schelling was writing.
+
+203
+00:07:54,140 --> 00:07:55,060
+It would be deadly.
+
+204
+00:07:57,060 --> 00:07:58,500
+Anyway, so you think about it,
+
+205
+00:07:58,500 --> 00:07:59,980
+you know, so like there's really an infinity
+
+206
+00:07:59,980 --> 00:08:00,820
+of equilibrium, right?
+
+207
+00:08:00,820 --> 00:08:04,300
+So like every location, like it's a continuous space.
+
+208
+00:08:04,300 --> 00:08:06,620
+And then of course time's continuous, right?
+
+209
+00:08:06,620 --> 00:08:07,460
+Is time continuous?
+
+210
+00:08:07,460 --> 00:08:08,500
+It's continuous.
+
+211
+00:08:08,500 --> 00:08:10,580
+So when are people actually going,
+
+212
+00:08:10,580 --> 00:08:11,900
+when and where would people meet?
+
+213
+00:08:11,900 --> 00:08:14,860
+And just to guess, when do you think people,
+
+214
+00:08:14,860 --> 00:08:15,940
+what time do you think people,
+
+215
+00:08:15,940 --> 00:08:17,540
+almost everybody said they would meet?
+
+216
+00:08:17,540 --> 00:08:18,380
+Noon.
+
+217
+00:08:18,380 --> 00:08:19,200
+Noon, right?
+
+218
+00:08:19,200 --> 00:08:20,220
+So noon pops in people's heads.
+
+219
+00:08:20,220 --> 00:08:21,980
+Few people say midnight.
+
+220
+00:08:21,980 --> 00:08:23,440
+But those are the two main ones.
+
+221
+00:08:23,440 --> 00:08:26,700
+And then where in New York City do you meet at noon?
+
+222
+00:08:26,700 --> 00:08:27,540
+Town.
+
+223
+00:08:27,540 --> 00:08:28,660
+Yes.
+
+224
+00:08:28,660 --> 00:08:30,540
+So that's one answer.
+
+225
+00:08:30,540 --> 00:08:33,100
+Another one is right into the clock at Grand Central Station
+
+226
+00:08:33,100 --> 00:08:34,460
+but the most popular one of all was
+
+227
+00:08:34,460 --> 00:08:36,500
+the top of the Empire State Building.
+
+228
+00:08:36,500 --> 00:08:37,500
+I think this was before the movie
+
+229
+00:08:37,500 --> 00:08:38,700
+Sleepless in Seattle came out.
+
+230
+00:08:38,700 --> 00:08:41,420
+So it's already understood that there's something special
+
+231
+00:08:41,420 --> 00:08:44,260
+about the top of the Empire State Building, right?
+
+232
+00:08:44,260 --> 00:08:47,100
+And anyway, the neat thing about this is that
+
+233
+00:08:47,100 --> 00:08:49,380
+there's an infinity of equilibria
+
+234
+00:08:49,380 --> 00:08:51,260
+and yet without any communication,
+
+235
+00:08:51,260 --> 00:08:55,220
+there was in fact a lot of people were able to coordinate.
+
+236
+00:08:56,140 --> 00:08:57,540
+And so there's something more focal
+
+237
+00:08:57,540 --> 00:09:00,020
+about some equilibria rather than others.
+
+238
+00:09:00,020 --> 00:09:01,420
+Right, now if you look at this one,
+
+239
+00:09:01,420 --> 00:09:02,500
+knowing nothing else about it,
+
+240
+00:09:02,500 --> 00:09:04,420
+which one seems more focal to you?
+
+241
+00:09:04,420 --> 00:09:05,260
+Right, right?
+
+242
+00:09:05,260 --> 00:09:07,100
+Yeah, I mean, and it's nothing about like,
+
+243
+00:09:07,100 --> 00:09:08,460
+you know, society values,
+
+244
+00:09:08,460 --> 00:09:09,900
+where you know, prefers right-handed people
+
+245
+00:09:09,900 --> 00:09:10,780
+over left-handed people,
+
+246
+00:09:10,780 --> 00:09:12,260
+which is of course true too.
+
+247
+00:09:12,260 --> 00:09:13,100
+Right.
+
+248
+00:09:13,100 --> 00:09:13,940
+I have to say.
+
+249
+00:09:13,940 --> 00:09:14,780
+At least when I was a kid,
+
+250
+00:09:14,780 --> 00:09:16,260
+they were no longer making left-handed people
+
+251
+00:09:16,260 --> 00:09:17,700
+learn to write right-handed.
+
+252
+00:09:19,260 --> 00:09:21,380
+But yeah, but there's just something about it.
+
+253
+00:09:21,380 --> 00:09:22,740
+Well, it's just a higher payout for both.
+
+254
+00:09:22,740 --> 00:09:24,580
+So that could make it focal.
+
+255
+00:09:24,580 --> 00:09:26,700
+But again, of course, if you live in a society
+
+256
+00:09:26,700 --> 00:09:29,660
+where there's a superstition against the number five,
+
+257
+00:09:29,660 --> 00:09:31,100
+then it might be, oh my God,
+
+258
+00:09:31,100 --> 00:09:31,940
+right in the middle of that,
+
+259
+00:09:31,940 --> 00:09:32,780
+in the middle of the room in a building
+
+260
+00:09:32,780 --> 00:09:34,500
+where there's no 13th floor.
+
+261
+00:09:34,500 --> 00:09:36,140
+Hmm, interesting.
+
+262
+00:09:36,140 --> 00:09:36,980
+Like how do they,
+
+263
+00:09:36,980 --> 00:09:39,620
+like how would you decide that though?
+
+264
+00:09:39,620 --> 00:09:42,620
+Given that there's people who avoid labeling floors
+
+265
+00:09:43,540 --> 00:09:45,780
+in the normal sequence because of the superstition,
+
+266
+00:09:45,780 --> 00:09:47,780
+people might also be reluctant to play that, right?
+
+267
+00:09:47,780 --> 00:09:50,140
+And that might actually change the equilibrium.
+
+268
+00:09:51,460 --> 00:09:53,500
+All right, so anyway, so some coordinate,
+
+269
+00:09:53,500 --> 00:09:55,300
+so even though we have multiple equilibria,
+
+270
+00:09:55,300 --> 00:09:58,980
+some coordination equilibria are more likely to occur.
+
+271
+00:09:58,980 --> 00:10:02,180
+And again, what Schelling said is that they are more focal.
+
+272
+00:10:02,180 --> 00:10:03,020
+Right, and by that he meant, you know,
+
+273
+00:10:03,020 --> 00:10:05,940
+like they're more obvious, they pop into people's heads.
+
+274
+00:10:05,940 --> 00:10:07,340
+And once it pops into your head,
+
+275
+00:10:07,340 --> 00:10:08,380
+it occurs to you that it might pop
+
+276
+00:10:08,380 --> 00:10:10,460
+into somebody else's head.
+
+277
+00:10:10,460 --> 00:10:12,580
+Right, and of course, this is where it's important
+
+278
+00:10:12,580 --> 00:10:14,380
+to put yourself in someone else's shoes.
+
+279
+00:10:14,380 --> 00:10:16,380
+Like if you're a very strange person,
+
+280
+00:10:16,380 --> 00:10:19,100
+and you say, well, the first place I think of in Manhattan
+
+281
+00:10:19,100 --> 00:10:21,980
+is Midtown Comics on 40th Street.
+
+282
+00:10:21,980 --> 00:10:22,820
+It's like, well, wait a second,
+
+283
+00:10:22,820 --> 00:10:24,500
+that wouldn't occur at other places.
+
+284
+00:10:24,500 --> 00:10:28,540
+Or like, first place I think to be is my brother's house.
+
+285
+00:10:28,540 --> 00:10:31,180
+Right, so like, would that occur to other people?
+
+286
+00:10:31,180 --> 00:10:33,660
+No, it wouldn't, unless they knew me.
+
+287
+00:10:33,660 --> 00:10:35,060
+Then they might say, of course,
+
+288
+00:10:35,060 --> 00:10:37,140
+that would be a great place to be.
+
+289
+00:10:37,140 --> 00:10:41,740
+So this is a case where there's a lot of psychology
+
+290
+00:10:41,740 --> 00:10:45,180
+and sociology that winds up exposing itself
+
+291
+00:10:45,180 --> 00:10:46,780
+in these coordination games.
+
+292
+00:10:47,900 --> 00:10:50,380
+And this is, even now after Schelling,
+
+293
+00:10:50,380 --> 00:10:51,500
+still quite understudied.
+
+294
+00:10:51,500 --> 00:10:54,380
+I don't know that I've ever seen any really good attempt
+
+295
+00:10:54,380 --> 00:10:57,820
+to synthesize psychology, sociology, and Schelling.
+
+296
+00:10:57,820 --> 00:11:00,540
+Although it seems like it's begging for some work.
+
+297
+00:11:00,540 --> 00:11:02,180
+I've been saying this for like 15 years in this class,
+
+298
+00:11:02,180 --> 00:11:03,020
+and now I'm starting.
+
+299
+00:11:03,020 --> 00:11:06,380
+So presumably, there's some reason for that, right?
+
+300
+00:11:06,380 --> 00:11:08,380
+Maybe it is, maybe people just want it.
+
+301
+00:11:09,500 --> 00:11:12,340
+It's better than a lot of ideas I've seen people run with.
+
+302
+00:11:13,580 --> 00:11:17,380
+Does that change then, or would that be the same
+
+303
+00:11:17,380 --> 00:11:20,260
+if you had people who were from New York City
+
+304
+00:11:20,260 --> 00:11:21,580
+and people from out of town,
+
+305
+00:11:21,580 --> 00:11:24,620
+considering how to think of what they would think as well?
+
+306
+00:11:24,620 --> 00:11:27,180
+Yeah, exactly, assuming like, depending upon what you know
+
+307
+00:11:27,180 --> 00:11:29,540
+about the other person, that would change the so-called.
+
+308
+00:11:29,540 --> 00:11:32,980
+Right, and of course, this is a case where if they know
+
+309
+00:11:32,980 --> 00:11:35,180
+that you know that they're, say, not from New York City,
+
+310
+00:11:35,180 --> 00:11:37,180
+then this could change their behavior.
+
+311
+00:11:38,180 --> 00:11:40,620
+And again, in general, there are so many striking examples
+
+312
+00:11:40,620 --> 00:11:43,540
+of this concept, like if you are ever in a position
+
+313
+00:11:43,540 --> 00:11:44,780
+to bargain with a total stranger,
+
+314
+00:11:44,780 --> 00:11:46,620
+you want to reach a decision quickly.
+
+315
+00:11:47,500 --> 00:11:49,780
+So like, here's a pie, all right?
+
+316
+00:11:49,780 --> 00:11:50,940
+How are we gonna divide the pie?
+
+317
+00:11:50,940 --> 00:11:54,220
+What's the most, so there's an infinity of equilibrium.
+
+318
+00:11:54,220 --> 00:11:56,980
+Like anything that sums the total amount of pie
+
+319
+00:11:56,980 --> 00:11:58,940
+seems like an equilibrium, and yet,
+
+320
+00:11:58,940 --> 00:12:01,420
+what would you predict almost everyone would do?
+
+321
+00:12:01,420 --> 00:12:04,580
+50-50, right, so there's something very focal
+
+322
+00:12:04,580 --> 00:12:07,140
+about 50-50, right, in this society.
+
+323
+00:12:07,140 --> 00:12:07,980
+On the other hand, if you're in the world
+
+324
+00:12:07,980 --> 00:12:09,700
+of Game of Thrones, then it might be,
+
+325
+00:12:09,700 --> 00:12:11,260
+well, who's highborn here?
+
+326
+00:12:11,260 --> 00:12:12,100
+Anyone highborn?
+
+327
+00:12:12,100 --> 00:12:13,460
+If you're highborn, you just get the whole pie,
+
+328
+00:12:13,460 --> 00:12:14,820
+and then I don't get killed.
+
+329
+00:12:14,820 --> 00:12:18,060
+That could be the equilibrium instead, right?
+
+330
+00:12:18,060 --> 00:12:20,660
+So there's, you know, so that might make a difference
+
+331
+00:12:20,660 --> 00:12:22,660
+as well, so you know, if you're in a caste society,
+
+332
+00:12:22,660 --> 00:12:27,660
+for example, then there could be a different equilibrium.
+
+333
+00:12:30,820 --> 00:12:32,820
+All right, so now, what would it actually take
+
+334
+00:12:32,820 --> 00:12:35,580
+to get people to this Pareto-inferior equilibrium?
+
+335
+00:12:35,580 --> 00:12:36,620
+All right, so, I mean, first thing,
+
+336
+00:12:36,620 --> 00:12:38,700
+it seems like you need a moderate number of players.
+
+337
+00:12:38,700 --> 00:12:41,500
+With two players, then it would seem bizarre to get that,
+
+338
+00:12:42,500 --> 00:12:43,420
+at least to me, right?
+
+339
+00:12:43,420 --> 00:12:46,060
+So, on the other hand, if you had 30 players,
+
+340
+00:12:46,060 --> 00:12:49,020
+and people were told, by the way,
+
+341
+00:12:49,020 --> 00:12:51,380
+we've always done, we've always gone left-left,
+
+342
+00:12:51,380 --> 00:12:55,580
+then you might say, but if everyone were to switch,
+
+343
+00:12:55,580 --> 00:12:56,740
+then that would happen.
+
+344
+00:12:56,740 --> 00:12:59,260
+So if, you know, if you were to put it that way,
+
+345
+00:12:59,260 --> 00:13:00,100
+then you might be nervous.
+
+346
+00:13:00,100 --> 00:13:01,860
+If a single person not switching
+
+347
+00:13:01,860 --> 00:13:02,900
+would ruin the equilibrium,
+
+348
+00:13:02,900 --> 00:13:04,740
+then maybe you wouldn't want to switch.
+
+349
+00:13:04,740 --> 00:13:08,060
+So, you know, so at least having a moderate number of players
+
+350
+00:13:08,060 --> 00:13:10,380
+but I think it's probably like a gradual dispersion
+
+351
+00:13:10,380 --> 00:13:11,780
+of information.
+
+352
+00:13:11,780 --> 00:13:13,940
+There's a gradual dispersion of information.
+
+353
+00:13:13,940 --> 00:13:16,980
+So imagine that we're just playing the game,
+
+354
+00:13:16,980 --> 00:13:19,140
+but it's, but, oh, but like in the first round,
+
+355
+00:13:19,140 --> 00:13:22,540
+only one person finds out what the actual payoffs are.
+
+356
+00:13:22,540 --> 00:13:23,860
+Which one, you know, so I say, look,
+
+357
+00:13:23,860 --> 00:13:25,340
+as long as you do the same thing,
+
+358
+00:13:25,340 --> 00:13:26,660
+then you get an okay payout.
+
+359
+00:13:26,660 --> 00:13:28,420
+I'm not gonna tell you which the really good payout is
+
+360
+00:13:28,420 --> 00:13:29,380
+until later.
+
+361
+00:13:29,380 --> 00:13:32,100
+And imagine if, first, you know, like you said,
+
+362
+00:13:32,100 --> 00:13:33,420
+like you start off playing left-left,
+
+363
+00:13:33,420 --> 00:13:35,660
+and then I go and give someone a note saying,
+
+364
+00:13:35,660 --> 00:13:38,340
+by the way, actually right-right is higher payout,
+
+365
+00:13:38,340 --> 00:13:39,380
+and higher payoff.
+
+366
+00:13:39,380 --> 00:13:41,940
+And then I randomly, you know, gradually give,
+
+367
+00:13:41,940 --> 00:13:43,300
+you know, give more and more notes,
+
+368
+00:13:43,300 --> 00:13:44,980
+spreading more and more information.
+
+369
+00:13:44,980 --> 00:13:47,980
+And then eventually, after like turn 30,
+
+370
+00:13:47,980 --> 00:13:49,820
+everyone has received the notes.
+
+371
+00:13:49,820 --> 00:13:52,980
+But if, by turn 29, people have not switched,
+
+372
+00:13:52,980 --> 00:13:56,020
+when you get the last note, are you gonna switch then?
+
+373
+00:13:56,020 --> 00:13:56,940
+Maybe.
+
+374
+00:13:56,940 --> 00:13:58,180
+On the other hand, you might go,
+
+375
+00:13:58,180 --> 00:14:00,660
+hmm, I mean, if no one has switched till now,
+
+376
+00:14:00,660 --> 00:14:02,380
+do I wanna go and blow this thing?
+
+377
+00:14:04,100 --> 00:14:06,100
+Right, and again, if you are,
+
+378
+00:14:06,100 --> 00:14:08,420
+you're not just a good game theorist,
+
+379
+00:14:08,420 --> 00:14:10,380
+but if you were psychologically strategic,
+
+380
+00:14:10,380 --> 00:14:12,220
+the first person to go and get the notes
+
+381
+00:14:12,220 --> 00:14:13,980
+revealing that five-five is better
+
+382
+00:14:13,980 --> 00:14:16,220
+might want to immediately just play right.
+
+383
+00:14:16,220 --> 00:14:18,020
+And then when it's like,
+
+384
+00:14:18,020 --> 00:14:19,740
+and then like everyone gets zero in the class,
+
+385
+00:14:19,740 --> 00:14:21,140
+but there's one person played right,
+
+386
+00:14:21,140 --> 00:14:22,540
+everyone else played left,
+
+387
+00:14:22,540 --> 00:14:24,100
+and then what might you conclude
+
+388
+00:14:24,100 --> 00:14:25,860
+about why one person did that,
+
+389
+00:14:25,860 --> 00:14:29,420
+the one seemingly totally terrible thing to the whole group?
+
+390
+00:14:30,540 --> 00:14:32,100
+That person knows something.
+
+391
+00:14:32,100 --> 00:14:33,780
+And then, you know,
+
+392
+00:14:33,780 --> 00:14:35,540
+and in that case, you might go,
+
+393
+00:14:35,540 --> 00:14:37,140
+like you might hope they go up the next chart,
+
+394
+00:14:37,140 --> 00:14:38,140
+a few more people will do it,
+
+395
+00:14:38,140 --> 00:14:41,340
+and then eventually maybe you could tip them, right?
+
+396
+00:14:41,340 --> 00:14:43,260
+Which in a room of 25 or 30 people,
+
+397
+00:14:43,260 --> 00:14:44,820
+maybe you think that a good curve.
+
+398
+00:14:44,820 --> 00:14:47,820
+Anyone think you could tip a room of a million people?
+
+399
+00:14:47,820 --> 00:14:49,020
+Right, you know, in a room of a million people,
+
+400
+00:14:49,020 --> 00:14:51,140
+there's always just gonna be some crazy people in there
+
+401
+00:14:51,140 --> 00:14:54,020
+doing whatever, so you might just look like
+
+402
+00:14:54,020 --> 00:14:54,860
+a strange person.
+
+403
+00:14:57,500 --> 00:14:59,700
+All right, so anyway, so moderate number of players,
+
+404
+00:14:59,700 --> 00:15:03,740
+gradual dispersion of information, right?
+
+405
+00:15:04,900 --> 00:15:05,780
+And then again, you might wonder,
+
+406
+00:15:05,780 --> 00:15:07,860
+like what are we gonna set a big memory like?
+
+407
+00:15:07,860 --> 00:15:08,820
+What are we gonna swipe our memory
+
+408
+00:15:08,820 --> 00:15:11,180
+about what anyone has ever done before?
+
+409
+00:15:11,180 --> 00:15:13,460
+Right, and you know, that could work too, right?
+
+410
+00:15:13,460 --> 00:15:15,540
+So the other week, I was talking to a student,
+
+411
+00:15:15,540 --> 00:15:17,340
+I was saying, well, history's really valuable
+
+412
+00:15:17,340 --> 00:15:19,380
+because it allows people to,
+
+413
+00:15:19,380 --> 00:15:20,620
+you know, it's a light gallery,
+
+414
+00:15:20,620 --> 00:15:23,940
+like you know the history of racial oppression in the US,
+
+415
+00:15:23,940 --> 00:15:27,860
+then this lets you go and like build a better society.
+
+416
+00:15:27,860 --> 00:15:29,620
+And I say, hmm, maybe.
+
+417
+00:15:29,620 --> 00:15:32,540
+Then again, maybe if everyone in Yugoslavia in the 90s
+
+418
+00:15:32,540 --> 00:15:35,020
+had their memory wiped about World War II,
+
+419
+00:15:35,020 --> 00:15:36,340
+they would have had peace.
+
+420
+00:15:37,380 --> 00:15:39,020
+Also possible, right?
+
+421
+00:15:39,020 --> 00:15:42,860
+So if no one had any memory of bloodshed ever,
+
+422
+00:15:42,860 --> 00:15:45,060
+then maybe no one would be very angry
+
+423
+00:15:45,060 --> 00:15:46,900
+and nothing bad would happen.
+
+424
+00:15:46,900 --> 00:15:48,140
+Which is also possible.
+
+425
+00:15:48,140 --> 00:15:50,700
+Will this be your new peace campaign, always forget?
+
+426
+00:15:50,700 --> 00:15:51,540
+Too strong.
+
+427
+00:15:51,540 --> 00:15:53,540
+But nevertheless, you know,
+
+428
+00:15:53,540 --> 00:15:58,540
+remembering the past may make it more likely to repeat
+
+429
+00:16:02,620 --> 00:16:04,420
+and a lot of other people remember it,
+
+430
+00:16:04,420 --> 00:16:07,060
+especially some people remember it differently than others.
+
+431
+00:16:07,060 --> 00:16:09,660
+So some people remember it as your people
+
+432
+00:16:09,660 --> 00:16:10,980
+killing my people and others.
+
+433
+00:16:10,980 --> 00:16:13,940
+No, no, none of that happens.
+
+434
+00:16:13,940 --> 00:16:16,220
+No, it was all the other way around.
+
+435
+00:16:16,220 --> 00:16:18,100
+Once I listened to two people have a debate
+
+436
+00:16:18,100 --> 00:16:18,940
+about the Korean War,
+
+437
+00:16:18,940 --> 00:16:21,700
+one said, like, no, the US didn't bomb
+
+438
+00:16:21,700 --> 00:16:22,860
+any buildings in North Korea.
+
+439
+00:16:22,860 --> 00:16:23,700
+The other one said, no,
+
+440
+00:16:23,700 --> 00:16:25,660
+it bombed every building in North Korea.
+
+441
+00:16:25,660 --> 00:16:28,260
+And I'm like, you're both clearly wrong.
+
+442
+00:16:28,260 --> 00:16:31,420
+That's the craziest thing I've ever heard.
+
+443
+00:16:31,420 --> 00:16:32,820
+I mean, it's like, look,
+
+444
+00:16:32,820 --> 00:16:34,860
+you're crazy enough to be having this argument.
+
+445
+00:16:34,860 --> 00:16:36,220
+I'm not gonna get involved.
+
+446
+00:16:38,580 --> 00:16:40,060
+All right, now for experimental evidence,
+
+447
+00:16:40,060 --> 00:16:41,660
+you know, not too surprising.
+
+448
+00:16:41,660 --> 00:16:43,380
+There's plenty of experiments on Shelling Point
+
+449
+00:16:43,380 --> 00:16:46,220
+showing that there's a lot of Shelling Points out there.
+
+450
+00:16:46,220 --> 00:16:47,060
+You know, like, again,
+
+451
+00:16:47,060 --> 00:16:49,100
+another great one was Shelling Point's language.
+
+452
+00:16:49,100 --> 00:16:50,940
+So, you know, like, there's much better languages
+
+453
+00:16:50,940 --> 00:16:52,380
+than English in terms of speed of learning.
+
+454
+00:16:52,380 --> 00:16:54,460
+We can switch to Esperanto,
+
+455
+00:16:54,460 --> 00:16:57,500
+but anyone feel like switching to Esperanto?
+
+456
+00:16:57,500 --> 00:16:58,340
+You know, personally doing it?
+
+457
+00:16:58,340 --> 00:17:00,340
+I do, so it would not be very convenient
+
+458
+00:17:00,340 --> 00:17:03,700
+for the first person to switch over, right?
+
+459
+00:17:03,700 --> 00:17:05,940
+There are, you know, there's, of course,
+
+460
+00:17:05,940 --> 00:17:07,620
+there are plenty of cases of one language
+
+461
+00:17:07,620 --> 00:17:09,180
+gradually replacing another.
+
+462
+00:17:09,180 --> 00:17:12,460
+When both languages have some use, right?
+
+463
+00:17:12,460 --> 00:17:13,460
+So if you're in a country
+
+464
+00:17:13,460 --> 00:17:15,980
+where people speak both Flemish and French,
+
+465
+00:17:15,980 --> 00:17:18,540
+then it might be that people
+
+466
+00:17:18,540 --> 00:17:20,620
+will switch from one language to another, right?
+
+467
+00:17:20,620 --> 00:17:22,700
+So you may have heard,
+
+468
+00:17:22,700 --> 00:17:25,460
+what language did the people of Israel speak
+
+469
+00:17:25,460 --> 00:17:26,780
+in the time of Jesus?
+
+470
+00:17:26,780 --> 00:17:28,260
+Was it Hebrew?
+
+471
+00:17:28,260 --> 00:17:30,100
+No, it was Aramaic.
+
+472
+00:17:30,100 --> 00:17:30,940
+How did that happen?
+
+473
+00:17:30,940 --> 00:17:31,780
+You started speaking Hebrew,
+
+474
+00:17:31,780 --> 00:17:32,900
+and then a few centuries later,
+
+475
+00:17:32,900 --> 00:17:34,980
+they're speaking a totally different language,
+
+476
+00:17:34,980 --> 00:17:36,460
+related, but still, right?
+
+477
+00:17:36,460 --> 00:17:40,180
+And it seems like, well, gradually,
+
+478
+00:17:40,180 --> 00:17:41,100
+there was, you know, like,
+
+479
+00:17:41,100 --> 00:17:42,860
+more and more people switched over to a different language,
+
+480
+00:17:42,860 --> 00:17:45,060
+and then you might think Hebrew would never come back,
+
+481
+00:17:45,060 --> 00:17:46,940
+but then, strangely, it did.
+
+482
+00:17:46,940 --> 00:17:50,180
+Super rare, but it does, more or less.
+
+483
+00:17:50,180 --> 00:17:51,940
+So experimentally, you know,
+
+484
+00:17:51,940 --> 00:17:52,780
+like, you know, if you do an experiment,
+
+485
+00:17:52,780 --> 00:17:53,900
+you know, if you do something like this,
+
+486
+00:17:53,900 --> 00:17:55,980
+then obviously, unless you go
+
+487
+00:17:55,980 --> 00:17:57,980
+and try to make the game strange,
+
+488
+00:17:57,980 --> 00:17:59,620
+everyone's gonna do that.
+
+489
+00:17:59,620 --> 00:18:03,140
+And then, as we go, I'm sure we'll get results.
+
+490
+00:18:03,140 --> 00:18:05,220
+All right, so questions about coordination means?
+
+491
+00:18:05,220 --> 00:18:06,500
+We will be coming back to this,
+
+492
+00:18:06,500 --> 00:18:09,780
+because it's worth thinking about more
+
+493
+00:18:09,780 --> 00:18:13,300
+as we go on with these games, right?
+
+494
+00:18:13,300 --> 00:18:15,580
+And, you know, so there are some people,
+
+495
+00:18:15,580 --> 00:18:17,500
+I know, like, you know the blogger Scott Alexander,
+
+496
+00:18:17,500 --> 00:18:19,580
+there's a whole piece on coordination failures,
+
+497
+00:18:19,580 --> 00:18:21,260
+and read the piece, you would almost get the idea
+
+498
+00:18:21,260 --> 00:18:22,860
+that everything wrong in the world
+
+499
+00:18:22,860 --> 00:18:24,580
+is a coordination failure.
+
+500
+00:18:24,580 --> 00:18:25,420
+It's like, everything wrong,
+
+501
+00:18:25,420 --> 00:18:26,980
+that's the only thing that can ever go wrong
+
+502
+00:18:26,980 --> 00:18:28,780
+in the world is that thing, right?
+
+503
+00:18:28,780 --> 00:18:30,980
+So, you know, it's odd, because, well, like,
+
+504
+00:18:30,980 --> 00:18:31,980
+how about prisoner's dilemmas?
+
+505
+00:18:31,980 --> 00:18:34,980
+That's, prisoner's dilemmas are not coordination failures.
+
+506
+00:18:34,980 --> 00:18:36,940
+Again, because this is a case where if everyone switched,
+
+507
+00:18:36,940 --> 00:18:38,700
+you'd wanna switch too, right?
+
+508
+00:18:38,700 --> 00:18:40,060
+Whereas the whole idea of the prisoner's dilemma
+
+509
+00:18:40,060 --> 00:18:43,340
+is even if everyone did switch, you wouldn't wanna switch.
+
+510
+00:18:43,340 --> 00:18:46,020
+So that seems like a considerably more stubborn problem,
+
+511
+00:18:46,020 --> 00:18:46,860
+right?
+
+512
+00:18:48,380 --> 00:18:51,140
+All right, so, all right, moving on, right?
+
+513
+00:18:51,140 --> 00:18:52,340
+Ultimatum game.
+
+514
+00:18:52,340 --> 00:18:55,140
+Our ultimatum game, another one that has gotten
+
+515
+00:18:55,140 --> 00:18:58,460
+a ton of academic attention.
+
+516
+00:18:58,460 --> 00:18:59,980
+All right, so here's the standard setup.
+
+517
+00:18:59,980 --> 00:19:01,660
+Start with 10 bucks.
+
+518
+00:19:01,660 --> 00:19:03,180
+Give 10 bucks to player one,
+
+519
+00:19:03,180 --> 00:19:04,700
+and then you say, give however much you want
+
+520
+00:19:04,700 --> 00:19:06,060
+to player two.
+
+521
+00:19:06,060 --> 00:19:07,740
+And then what is player two's choice?
+
+522
+00:19:07,740 --> 00:19:11,180
+He can either say no, in which case both players get zero,
+
+523
+00:19:11,180 --> 00:19:13,380
+or he can accept whatever the ultimatum was.
+
+524
+00:19:14,460 --> 00:19:15,620
+Those are your options.
+
+525
+00:19:17,420 --> 00:19:19,860
+Okay, so in that case, if you were to go and set this up
+
+526
+00:19:19,860 --> 00:19:22,540
+as, you know, as a normal form,
+
+527
+00:19:22,540 --> 00:19:23,900
+and you'd have player one,
+
+528
+00:19:24,860 --> 00:19:29,020
+and he would go, and he goes and offers an amount, T.
+
+529
+00:19:29,020 --> 00:19:31,180
+That's, you know, continuous, or we would like to,
+
+530
+00:19:31,180 --> 00:19:32,260
+in principle, it could be continuous,
+
+531
+00:19:32,260 --> 00:19:33,580
+or we might say it's limited in pennies,
+
+532
+00:19:33,580 --> 00:19:35,100
+but I'm not gonna go and write,
+
+533
+00:19:35,100 --> 00:19:35,940
+what would it be?
+
+534
+00:19:35,940 --> 00:19:39,140
+Let's see, $10, I'm gonna write 10,001
+
+535
+00:19:39,140 --> 00:19:41,300
+different numbers on the board.
+
+536
+00:19:41,300 --> 00:19:43,020
+So, this is obviously now T.
+
+537
+00:19:43,020 --> 00:19:45,940
+And then player two just has the option of respect reject.
+
+538
+00:19:45,940 --> 00:19:49,220
+And then if he accepts, then player one gets 10 minus T,
+
+539
+00:19:49,220 --> 00:19:51,780
+and player two gets T.
+
+540
+00:19:51,780 --> 00:19:53,700
+All right, so T is the offer.
+
+541
+00:19:53,700 --> 00:19:55,620
+It's the amount offered to the other person.
+
+542
+00:19:55,620 --> 00:19:58,060
+And if player two rejects, they both get zero.
+
+543
+00:19:58,060 --> 00:20:03,060
+All right, on to the next one.
+
+

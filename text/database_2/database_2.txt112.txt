@@ -1,0 +1,14 @@
+3.  Suppose insurance companies are perfectly competitive and know true accident probabilities.  All of their potential customers are risk-neutral, but have a subjective P(getting in an accident) equal to the square root of the objective P(getting in an accident).  
+ 
+True, False, and Explain: All potential customers will definitely buy insurance.
+
+If ?P_s=P_0^(1/2)?_, then customers will systematically overestimate their risk of getting into an accident. 
+
+If Po = 0, then the customer will not buy insurance, and if Po=1 then the insurance company will not sell the customer insurance.
+
+If, however, for all customers who face  0<Po<1 will buy insurance. In the situation that this is true for all customers, only then will all potential customers will definitely buy insurance. Because we cannot assume this to be the case, the answer is False. 
+
+sqrt(P)>P. This means that all customers will overestimate their probability of getting into an accident. 
+
+For some reason, the notes I had typed when meeting with Caplan were: "Perfectly competitive doesn't imply actuarily fair. Actuarily fair doesn't occur in the real world because it implies zero transaction costs." This leads me to believe that the answer is no, not all potential customers will buy insurance.
+

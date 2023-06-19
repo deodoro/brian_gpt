@@ -1,0 +1,1953 @@
+1
+00:00:00,000 --> 00:00:01,160
+is an idiot.
+
+2
+00:00:01,160 --> 00:00:02,620
+So anyone who continues to believe
+
+3
+00:00:02,620 --> 00:00:04,920
+that minimum wage causes unemployment is an idiot.
+
+4
+00:00:04,920 --> 00:00:07,560
+So as it turns out, if you apply Bayes' rule,
+
+5
+00:00:07,560 --> 00:00:10,120
+you will see that neither of these extreme conclusions
+
+6
+00:00:10,120 --> 00:00:11,440
+makes much sense.
+
+7
+00:00:11,440 --> 00:00:14,800
+And rather, the sensible view is that you
+
+8
+00:00:14,800 --> 00:00:19,640
+should move your view in the direction of just leading
+
+9
+00:00:19,640 --> 00:00:22,120
+the standard view, that minimum wage causes unemployment.
+
+10
+00:00:22,120 --> 00:00:23,840
+But depending upon how good you think
+
+11
+00:00:23,840 --> 00:00:26,360
+econometric studies are, and how confident you
+
+12
+00:00:26,360 --> 00:00:29,240
+were to begin with, you may not actually
+
+13
+00:00:29,240 --> 00:00:32,880
+end up with a view that's very different from the standard one.
+
+14
+00:00:32,880 --> 00:00:35,480
+So here is the general application of Bayes' rule.
+
+15
+00:00:35,480 --> 00:00:37,720
+So Probability Minimum Wage Causes Unemployment,
+
+16
+00:00:37,720 --> 00:00:40,200
+given the Karl Kruger findings, is equal to the probability
+
+17
+00:00:40,200 --> 00:00:41,900
+that you'll get the Karl Kruger findings
+
+18
+00:00:41,900 --> 00:00:44,340
+if minimum wage does cause unemployment times
+
+19
+00:00:44,340 --> 00:00:46,520
+the probability it causes unemployment
+
+20
+00:00:46,520 --> 00:00:49,240
+all over probability Karl Kruger findings.
+
+21
+00:00:49,240 --> 00:00:51,520
+As you get those, if min wage does cause unemployment,
+
+22
+00:00:51,520 --> 00:00:54,720
+the probability it causes unemployment plus the chance
+
+23
+00:00:54,720 --> 00:00:56,320
+that you get the Karl Kruger findings,
+
+24
+00:00:56,320 --> 00:00:58,400
+if minimum wage does not cause unemployment,
+
+25
+00:00:58,400 --> 00:01:01,480
+All that times the probability does not cost any money.
+
+26
+00:01:01,480 --> 00:01:03,760
+So I just picked some numbers, which
+
+27
+00:01:03,760 --> 00:01:05,920
+may seem plausible to me.
+
+28
+00:01:05,920 --> 00:01:09,000
+The numbers you pick may vary.
+
+29
+00:01:09,000 --> 00:01:12,000
+Remember, if we're dealing with basic and prior probabilities,
+
+30
+00:01:12,000 --> 00:01:14,880
+then who says what they should be?
+
+31
+00:01:14,880 --> 00:01:18,320
+Yes, you say what they should be for yourself.
+
+32
+00:01:18,320 --> 00:01:21,800
+Someone could go and say your prior probabilities are silly.
+
+33
+00:01:21,800 --> 00:01:24,040
+But nevertheless, the formula does not
+
+34
+00:01:24,040 --> 00:01:26,040
+give any explanation as to where they come from.
+
+35
+00:01:26,040 --> 00:01:27,600
+You just have to get them.
+
+36
+00:01:27,600 --> 00:01:29,880
+You say, well, how do I get them if I don't have them?
+
+37
+00:01:29,880 --> 00:01:32,240
+Well, fortunately, you already do.
+
+38
+00:01:32,240 --> 00:01:34,480
+So there's no issue where you don't already
+
+39
+00:01:34,480 --> 00:01:37,400
+have some opinion, even if it is something
+
+40
+00:01:37,400 --> 00:01:42,200
+as obscure as, will this substance I've never
+
+41
+00:01:42,200 --> 00:01:43,400
+encountered kill me?
+
+42
+00:01:43,400 --> 00:01:46,360
+Well, most of us assume that things we never encountered
+
+43
+00:01:46,360 --> 00:01:48,600
+won't suddenly kill us.
+
+44
+00:01:48,600 --> 00:01:51,000
+Once in a while, it turns out to be wrong.
+
+45
+00:01:51,000 --> 00:01:54,320
+But usually, if there is a new food in a room,
+
+46
+00:01:54,320 --> 00:01:56,120
+you don't run away in terror saying,
+
+47
+00:01:56,120 --> 00:01:58,200
+I have no proof that won't kill me.
+
+48
+00:01:58,200 --> 00:02:01,200
+But instead, your presumption is, well, if it's food,
+
+49
+00:02:01,200 --> 00:02:04,400
+if it's around humans, probably it is not immediately fatal.
+
+50
+00:02:04,400 --> 00:02:06,120
+So I should not run.
+
+51
+00:02:06,120 --> 00:02:08,840
+But you could, of course, be the paranoid person
+
+52
+00:02:08,840 --> 00:02:11,400
+who does assume the worst, a new food,
+
+53
+00:02:11,400 --> 00:02:13,720
+and thinks it will be fatal to ingest it.
+
+54
+00:02:13,720 --> 00:02:17,920
+Anyway, so the probabilities that I just picked out,
+
+55
+00:02:17,920 --> 00:02:20,200
+because they seem reasonable to me, is first of all,
+
+56
+00:02:20,200 --> 00:02:22,360
+probability that we get the current career findings
+
+57
+00:02:22,360 --> 00:02:27,000
+that the minimum wage does cause unemployment is 0.3.
+
+58
+00:02:27,000 --> 00:02:28,680
+So let's see.
+
+59
+00:02:28,680 --> 00:02:30,920
+So we get the set of another set of like this part.
+
+60
+00:02:30,920 --> 00:02:32,520
+We have this term here.
+
+61
+00:02:32,520 --> 00:02:34,360
+And actually, this term's the same here.
+
+62
+00:02:34,360 --> 00:02:36,800
+So I assign those equal to 0.3.
+
+63
+00:02:36,800 --> 00:02:38,960
+And again, the idea is that if the minimum wage does
+
+64
+00:02:38,960 --> 00:02:41,280
+cause unemployment, at least you would
+
+65
+00:02:41,280 --> 00:02:43,960
+expect it's more likely that you would get a result consistent
+
+66
+00:02:43,960 --> 00:02:46,000
+with that than not.
+
+67
+00:02:46,000 --> 00:02:47,120
+Seems reasonable.
+
+68
+00:02:47,120 --> 00:02:49,360
+So if the minimum wage really does cause unemployment,
+
+69
+00:02:49,360 --> 00:02:51,920
+and you do a high-quality empirical study,
+
+70
+00:02:51,920 --> 00:02:54,040
+you would think that it is more likely you will confirm
+
+71
+00:02:54,040 --> 00:02:56,040
+the truth than that you wouldn't.
+
+72
+00:02:56,040 --> 00:02:57,640
+You could imagine a perverse world
+
+73
+00:02:57,640 --> 00:03:03,200
+where whatever is true turns out to be disproven experimentally.
+
+74
+00:03:03,200 --> 00:03:05,960
+Like your experiments are controlled by Satan
+
+75
+00:03:05,960 --> 00:03:08,000
+or something, so he's always there to deceive you.
+
+76
+00:03:08,000 --> 00:03:10,840
+Whatever the real result is, you're like, ah, I don't care.
+
+77
+00:03:10,840 --> 00:03:12,880
+I'm going to push the results to make it the opposite of whatever
+
+78
+00:03:12,880 --> 00:03:14,000
+it seems to be.
+
+79
+00:03:14,000 --> 00:03:15,420
+I'll plant the world with fossils
+
+80
+00:03:15,420 --> 00:03:17,600
+to spread the lie about Musa or whatever.
+
+81
+00:03:17,600 --> 00:03:18,960
+All right, fine.
+
+82
+00:03:18,960 --> 00:03:23,400
+Normally, you would not think that, at least I wouldn't.
+
+83
+00:03:23,400 --> 00:03:25,760
+And then similarly, we have probability
+
+84
+00:03:25,760 --> 00:03:27,880
+that you get the Karl Kruger findings if it does not
+
+85
+00:03:27,880 --> 00:03:29,240
+cause unemployment.
+
+86
+00:03:29,240 --> 00:03:33,040
+So this term over here, let's say that's equal to 0.8.
+
+87
+00:03:33,040 --> 00:03:35,560
+Namely, that if the minimum wage doesn't cause unemployment,
+
+88
+00:03:35,560 --> 00:03:37,400
+then you would expect a good empirical study
+
+89
+00:03:37,400 --> 00:03:39,600
+to find that it doesn't cause unemployment.
+
+90
+00:03:39,600 --> 00:03:40,100
+Yes?
+
+91
+00:03:40,100 --> 00:03:42,480
+I was curious why I was doing that up to 1.
+
+92
+00:03:42,480 --> 00:03:46,280
+So here's the key thing is that these probabilities don't
+
+93
+00:03:46,280 --> 00:03:49,800
+have to because they're not complementarily probabilities.
+
+94
+00:03:49,800 --> 00:03:51,560
+So think about it this way.
+
+95
+00:03:51,560 --> 00:03:54,920
+Could be that, so for example, it
+
+96
+00:03:54,920 --> 00:03:57,080
+might be that there's an 80% chance
+
+97
+00:03:57,080 --> 00:03:59,520
+you get the Karl Kruger findings no matter what because the
+
+98
+00:03:59,520 --> 00:04:01,920
+methods are not informative.
+
+99
+00:04:01,920 --> 00:04:06,360
+And say, you might think it's just a correct process where
+
+100
+00:04:06,360 --> 00:04:09,440
+whatever the truth is, 80% chance
+
+101
+00:04:09,440 --> 00:04:11,400
+that they'll just say the minimum wage doesn't
+
+102
+00:04:11,400 --> 00:04:13,240
+cause unemployment.
+
+103
+00:04:13,240 --> 00:04:16,240
+So in general, there's no need for the probability
+
+104
+00:04:16,240 --> 00:04:19,240
+of A given B plus the probability of A given not B
+
+105
+00:04:19,240 --> 00:04:20,880
+to add up to 1.
+
+106
+00:04:20,880 --> 00:04:24,760
+So you think about the probability that you will.
+
+107
+00:04:24,760 --> 00:04:27,600
+Let's see, what would be a good example here that makes sense?
+
+108
+00:04:27,600 --> 00:04:31,240
+So the probability that you will go past the exam
+
+109
+00:04:31,240 --> 00:04:34,880
+if you drank tea the night before, so that might be 0.9.
+
+110
+00:04:34,880 --> 00:04:36,280
+And the probability that you will
+
+111
+00:04:36,280 --> 00:04:38,500
+pass the exam if you didn't drink tea the night before
+
+112
+00:04:38,500 --> 00:04:39,800
+might also be 0.9.
+
+113
+00:04:39,800 --> 00:04:41,120
+And that sums to 1.8.
+
+114
+00:04:41,120 --> 00:04:42,200
+And how can that be?
+
+115
+00:04:42,200 --> 00:04:45,800
+Because there's no reason for those two things to sum to 1.
+
+116
+00:04:45,800 --> 00:04:46,300
+Make sense?
+
+117
+00:04:46,300 --> 00:04:48,680
+But it's a very good question.
+
+118
+00:04:48,680 --> 00:04:51,160
+And now, there is a part that does have to sum to 1.
+
+119
+00:04:51,160 --> 00:04:54,280
+So probability of causes plus probability of not causes,
+
+120
+00:04:54,280 --> 00:04:57,320
+that does have to sum to 1.
+
+121
+00:04:57,320 --> 00:05:01,920
+And then, I'll let us go and put in some probabilities that
+
+122
+00:05:01,920 --> 00:05:03,440
+make sense to me.
+
+123
+00:05:03,440 --> 00:05:05,840
+So I would just say, before there's any empirical studies,
+
+124
+00:05:05,840 --> 00:05:07,800
+I just say 99% certain that the minimum wage
+
+125
+00:05:07,800 --> 00:05:10,000
+causes unemployment.
+
+126
+00:05:10,000 --> 00:05:13,400
+Because that intro textbook and how awesome it is.
+
+127
+00:05:13,400 --> 00:05:17,320
+And also, how someone said that a minimum price for asparagus
+
+128
+00:05:17,320 --> 00:05:19,120
+wouldn't cost surplus asparagus.
+
+129
+00:05:19,120 --> 00:05:20,160
+You'd be like, what?
+
+130
+00:05:20,160 --> 00:05:20,840
+Come on.
+
+131
+00:05:20,840 --> 00:05:21,640
+No way.
+
+132
+00:05:21,640 --> 00:05:23,800
+All right, and like, if someone just
+
+133
+00:05:23,800 --> 00:05:27,720
+started making up examples of products and saying, hey,
+
+134
+00:05:27,720 --> 00:05:29,640
+would that one cause a surplus?
+
+135
+00:05:29,640 --> 00:05:30,720
+Yes, that one would.
+
+136
+00:05:30,720 --> 00:05:31,720
+And that one.
+
+137
+00:05:31,720 --> 00:05:34,040
+How about a minimum price for markers?
+
+138
+00:05:34,040 --> 00:05:36,120
+Totally, that would cause a surplus of markers.
+
+139
+00:05:36,120 --> 00:05:37,080
+And paper.
+
+140
+00:05:37,080 --> 00:05:40,760
+Suddenly, all of these other things, then why not labor?
+
+141
+00:05:40,760 --> 00:05:41,600
+I don't know.
+
+142
+00:05:41,600 --> 00:05:42,840
+Doesn't seem like it would.
+
+143
+00:05:42,840 --> 00:05:44,960
+But then, of course, the probability doesn't.
+
+144
+00:05:44,960 --> 00:05:47,560
+That does have to equal 1 minus the probability it does.
+
+145
+00:05:47,560 --> 00:05:49,480
+So that will be 0.01.
+
+146
+00:05:49,480 --> 00:05:51,760
+And then, we can plug all these in.
+
+147
+00:05:51,760 --> 00:05:57,760
+So we get 0.3 times 0.99 over 0.3 times 0.99 plus 0.8 times
+
+148
+00:05:57,760 --> 00:05:58,880
+0.01.
+
+149
+00:05:58,880 --> 00:06:00,120
+And what do we come up with?
+
+150
+00:06:00,120 --> 00:06:03,280
+Well, we have the anodized bias, which is 97.4%
+
+151
+00:06:03,280 --> 00:06:05,040
+the minimum wage causes unemployment,
+
+152
+00:06:05,040 --> 00:06:08,120
+despite the Karger findings.
+
+153
+00:06:08,120 --> 00:06:11,680
+And again, how can we come up with so much confidence
+
+154
+00:06:11,680 --> 00:06:14,520
+in the orthodox result, given that the actual empirical study
+
+155
+00:06:14,520 --> 00:06:15,520
+said something else?
+
+156
+00:06:15,520 --> 00:06:16,560
+Well, there's two parts.
+
+157
+00:06:16,560 --> 00:06:19,520
+First of all, how confident were we to begin with?
+
+158
+00:06:19,520 --> 00:06:22,560
+And then secondly, how good are the methods?
+
+159
+00:06:22,560 --> 00:06:24,520
+So if the methods are not actually that great,
+
+160
+00:06:24,520 --> 00:06:28,240
+even at their best, and you just sit around thinking
+
+161
+00:06:28,240 --> 00:06:30,720
+about all the ways things could be messed up,
+
+162
+00:06:30,720 --> 00:06:33,480
+there's endless ways things could be messed up.
+
+163
+00:06:33,480 --> 00:06:36,360
+So you probably heard about the replication crisis
+
+164
+00:06:36,360 --> 00:06:37,880
+in psychology.
+
+165
+00:06:37,880 --> 00:06:40,080
+So there's a bunch of ways that things seem messed up
+
+166
+00:06:40,080 --> 00:06:41,080
+in psychology.
+
+167
+00:06:41,080 --> 00:06:44,520
+So economics has not been doing as badly.
+
+168
+00:06:44,520 --> 00:06:46,960
+But still, if you have actually been
+
+169
+00:06:46,960 --> 00:06:48,680
+involved in any empirical work, you're like, wow,
+
+170
+00:06:48,680 --> 00:06:49,600
+things could be really messed up.
+
+171
+00:06:49,600 --> 00:06:51,000
+Or if you ever tried to replicate anyone,
+
+172
+00:06:51,000 --> 00:06:53,340
+did anyone here ever have a replication project where you
+
+173
+00:06:53,340 --> 00:06:56,200
+just tried to go and match what somebody else did?
+
+174
+00:06:56,200 --> 00:06:58,840
+And you'll find problems there.
+
+175
+00:06:58,840 --> 00:07:02,200
+And then, of course, there are two senses of replication.
+
+176
+00:07:02,200 --> 00:07:04,280
+So you may have heard about John Lott's libel suit
+
+177
+00:07:04,280 --> 00:07:05,240
+against Steve Levitt.
+
+178
+00:07:05,240 --> 00:07:06,120
+I think it was Steve.
+
+179
+00:07:06,120 --> 00:07:07,240
+Yeah, I think it was Steve.
+
+180
+00:07:07,240 --> 00:07:07,740
+What was it?
+
+181
+00:07:07,740 --> 00:07:09,240
+It was the Levitt co-author.
+
+182
+00:07:09,240 --> 00:07:11,720
+Anyway, so I want to be careful here.
+
+183
+00:07:11,720 --> 00:07:13,300
+When you're talking about libel cases,
+
+184
+00:07:13,300 --> 00:07:14,800
+you better describe them accurately.
+
+185
+00:07:14,800 --> 00:07:20,200
+But in any case, the lawsuit involved
+
+186
+00:07:20,200 --> 00:07:22,080
+the definition of replication.
+
+187
+00:07:22,080 --> 00:07:25,640
+So someone, Lott sued someone who
+
+188
+00:07:25,640 --> 00:07:27,600
+said that his results did not replicate.
+
+189
+00:07:27,600 --> 00:07:29,440
+And Lott said they totally replicated.
+
+190
+00:07:29,440 --> 00:07:32,040
+Because to replicate means to get the same result if you
+
+191
+00:07:32,040 --> 00:07:33,720
+do exactly the same thing.
+
+192
+00:07:33,720 --> 00:07:35,480
+And the other guy said, no, by replicate,
+
+193
+00:07:35,480 --> 00:07:38,240
+I meant that if you just do another empirical study,
+
+194
+00:07:38,240 --> 00:07:40,760
+you'd get a different result.
+
+195
+00:07:40,760 --> 00:07:42,120
+And these are two senses.
+
+196
+00:07:42,120 --> 00:07:44,240
+But anyway, which sense is actually?
+
+197
+00:07:44,240 --> 00:07:49,320
+So there's the low bar of getting the very same result
+
+198
+00:07:49,320 --> 00:07:50,760
+if you do exactly the same thing.
+
+199
+00:07:50,760 --> 00:07:52,480
+But that's not all that impressive, is it?
+
+200
+00:07:52,480 --> 00:07:52,980
+Right?
+
+201
+00:07:52,980 --> 00:07:55,000
+Because you might then say, yeah, OK,
+
+202
+00:07:55,000 --> 00:07:57,160
+if I do it exactly the way, I get exactly the same result
+
+203
+00:07:57,160 --> 00:07:57,660
+you did.
+
+204
+00:07:57,660 --> 00:08:00,080
+You passed the very basic test.
+
+205
+00:08:00,080 --> 00:08:03,320
+But my real criticism is your methods were crummy.
+
+206
+00:08:03,320 --> 00:08:04,980
+And that would be a stronger criticism.
+
+207
+00:08:04,980 --> 00:08:08,560
+And that's something that you can always apply.
+
+208
+00:08:08,560 --> 00:08:10,240
+So what about for an experiment?
+
+209
+00:08:10,240 --> 00:08:12,160
+Even for an experiment, you can find problems
+
+210
+00:08:12,160 --> 00:08:13,120
+with an experiment.
+
+211
+00:08:13,120 --> 00:08:14,440
+So in experimental fields, people
+
+212
+00:08:14,440 --> 00:08:15,320
+would criticize, well, the experiment
+
+213
+00:08:15,320 --> 00:08:16,760
+wasn't really done very well.
+
+214
+00:08:16,760 --> 00:08:18,760
+Or you were sort of leading the witness.
+
+215
+00:08:18,760 --> 00:08:20,560
+Or it doesn't mean what you think it means.
+
+216
+00:08:20,560 --> 00:08:23,840
+So there's always problems.
+
+217
+00:08:23,840 --> 00:08:26,840
+All right, so questions about this
+
+218
+00:08:26,840 --> 00:08:29,680
+as a general approach to scientific inference?
+
+219
+00:08:29,680 --> 00:08:30,180
+Yes?
+
+220
+00:08:30,180 --> 00:08:38,160
+I mean, I guess in a sense, this isn't really
+
+221
+00:08:38,160 --> 00:08:40,560
+how we work as humans, right?
+
+222
+00:08:40,560 --> 00:08:41,920
+Ah, great question.
+
+223
+00:08:41,920 --> 00:08:44,880
+So we're going to talk about that a lot after the midterm,
+
+224
+00:08:44,880 --> 00:08:47,400
+because there's a lot of scientific work,
+
+225
+00:08:47,400 --> 00:08:49,400
+especially in psychology, but also in economics,
+
+226
+00:08:49,400 --> 00:08:52,040
+about whether people really do this in practice
+
+227
+00:08:52,040 --> 00:08:54,320
+or act as if they do.
+
+228
+00:08:54,320 --> 00:08:55,760
+We know they don't really do this,
+
+229
+00:08:55,760 --> 00:08:58,880
+because if I gave everyone here a test with a bunch of problems
+
+230
+00:08:58,880 --> 00:09:01,680
+like this, I bet a lot of people would blow a lot of the problems.
+
+231
+00:09:01,680 --> 00:09:04,240
+And you guys have way more training and familiarity
+
+232
+00:09:04,240 --> 00:09:06,120
+with this kind of stuff than almost any human.
+
+233
+00:09:06,120 --> 00:09:08,880
+So if you guys can't do it perfectly,
+
+234
+00:09:08,880 --> 00:09:11,040
+well, the odds of my mom's doing it.
+
+235
+00:09:11,040 --> 00:09:12,360
+That seems really unlikely.
+
+236
+00:09:12,360 --> 00:09:13,880
+But then there is the question, well,
+
+237
+00:09:13,880 --> 00:09:15,680
+maybe people act as if they're doing this,
+
+238
+00:09:15,680 --> 00:09:17,880
+at least when they're dealing with familiar problems,
+
+239
+00:09:17,880 --> 00:09:18,640
+things like this.
+
+240
+00:09:18,640 --> 00:09:19,920
+So we will come back to that.
+
+241
+00:09:19,920 --> 00:09:21,680
+But that is a key issue.
+
+242
+00:09:21,680 --> 00:09:24,080
+Now, the main thing you can say is, at minimum,
+
+243
+00:09:24,080 --> 00:09:25,920
+this is what we call a normative principle.
+
+244
+00:09:25,920 --> 00:09:27,760
+This is the way you should be updating your beliefs.
+
+245
+00:09:27,760 --> 00:09:30,640
+This is the way a reasonable person updates their beliefs.
+
+246
+00:09:30,640 --> 00:09:31,640
+Doesn't answer the question of where
+
+247
+00:09:31,640 --> 00:09:33,140
+does a reasonable person get beliefs
+
+248
+00:09:33,140 --> 00:09:36,400
+in the first place, which is probably also very important.
+
+249
+00:09:36,400 --> 00:09:38,400
+In fact, it's certainly also very important
+
+250
+00:09:38,400 --> 00:09:40,840
+to where you start.
+
+251
+00:09:40,840 --> 00:09:43,120
+I don't know if Don Boudreau did this explicitly
+
+252
+00:09:43,120 --> 00:09:44,800
+and dumbed it down for a debate, but he
+
+253
+00:09:44,800 --> 00:09:47,280
+made this argument in the debate about the minimum wage,
+
+254
+00:09:47,280 --> 00:09:51,480
+basically saying that we have 99% confidence in the theory.
+
+255
+00:09:51,480 --> 00:09:53,320
+And yes, there is countervailing evidence,
+
+256
+00:09:53,320 --> 00:09:55,520
+but it's just not strong enough to overcome the theory.
+
+257
+00:09:55,520 --> 00:09:56,020
+Right.
+
+258
+00:09:56,020 --> 00:09:57,480
+And also, the end view.
+
+259
+00:09:57,480 --> 00:09:59,520
+Karl Kruger's study is probably the most famous
+
+260
+00:09:59,520 --> 00:10:00,640
+in the history of minimum wage research.
+
+261
+00:10:00,640 --> 00:10:01,640
+There's a lot of other research.
+
+262
+00:10:01,640 --> 00:10:02,280
+More recent.
+
+263
+00:10:02,280 --> 00:10:04,040
+So we can sort of the way that Karl Kruger framed it as well,
+
+264
+00:10:04,040 --> 00:10:06,640
+there's all these low-level people in the past
+
+265
+00:10:06,640 --> 00:10:07,760
+who did this crummy stuff.
+
+266
+00:10:07,760 --> 00:10:09,180
+And now, we've got the good stuff.
+
+267
+00:10:09,180 --> 00:10:12,100
+But now, whenever you try that method and let 20 years pass,
+
+268
+00:10:12,100 --> 00:10:14,400
+there's going to be some other people saying, now, I've
+
+269
+00:10:14,400 --> 00:10:15,560
+got the really good stuff.
+
+270
+00:10:15,560 --> 00:10:18,400
+And your stuff is now down the memory hole
+
+271
+00:10:18,400 --> 00:10:19,960
+of stuff from the past.
+
+272
+00:10:19,960 --> 00:10:22,800
+It was really, can't be taken very seriously any longer.
+
+273
+00:10:22,800 --> 00:10:25,000
+But yeah.
+
+274
+00:10:25,000 --> 00:10:26,840
+All right.
+
+275
+00:10:26,840 --> 00:10:28,640
+So anyway, so do people update their beliefs
+
+276
+00:10:28,640 --> 00:10:29,920
+as if they knew these formulas?
+
+277
+00:10:29,920 --> 00:10:32,480
+So I can say is to some degree, at least.
+
+278
+00:10:32,480 --> 00:10:34,840
+So for example, people generally run away
+
+279
+00:10:34,840 --> 00:10:36,640
+when they appear to see a large fire.
+
+280
+00:10:36,640 --> 00:10:38,140
+You might say, well, why do they not
+
+281
+00:10:38,140 --> 00:10:40,480
+if there really is a large fire, given that there
+
+282
+00:10:40,480 --> 00:10:42,000
+appears to be a large fire?
+
+283
+00:10:42,000 --> 00:10:45,000
+It could just be a projected fire on a video screen
+
+284
+00:10:45,000 --> 00:10:46,480
+or something like that.
+
+285
+00:10:46,480 --> 00:10:48,360
+Could be just all kinds of possible ways
+
+286
+00:10:48,360 --> 00:10:50,400
+that people can try to confuse you.
+
+287
+00:10:50,400 --> 00:10:51,920
+You've been in some amusement parks
+
+288
+00:10:51,920 --> 00:10:54,120
+where they have fake fire and scary.
+
+289
+00:10:54,120 --> 00:10:54,620
+All right.
+
+290
+00:10:54,620 --> 00:10:59,400
+But still, normally, if there appears to be a large fire,
+
+291
+00:10:59,400 --> 00:11:02,240
+you do run in terror, as we predict.
+
+292
+00:11:02,240 --> 00:11:04,920
+How about when you hear that 10% of Americans
+
+293
+00:11:04,920 --> 00:11:07,440
+claim they've been abducted by aliens?
+
+294
+00:11:07,440 --> 00:11:07,940
+All right.
+
+295
+00:11:07,940 --> 00:11:10,560
+So I'm trying to remember if I ever actually double-checked
+
+296
+00:11:10,560 --> 00:11:12,480
+that the survey was even reasonable.
+
+297
+00:11:12,480 --> 00:11:15,360
+But suppose that you checked it out,
+
+298
+00:11:15,360 --> 00:11:18,320
+and it turned out to be true.
+
+299
+00:11:18,320 --> 00:11:20,600
+So first of all, would you get a little more confident
+
+300
+00:11:20,600 --> 00:11:23,000
+that alien abductions are happening?
+
+301
+00:11:23,000 --> 00:11:24,680
+Like you showed, about 10%.
+
+302
+00:11:24,680 --> 00:11:25,480
+That's quite a bit.
+
+303
+00:11:25,480 --> 00:11:28,240
+On the other hand, though, how skeptical
+
+304
+00:11:28,240 --> 00:11:30,760
+should you be about alien abductions in the first place?
+
+305
+00:11:30,760 --> 00:11:33,000
+There's a lot of pretty obvious questions about them.
+
+306
+00:11:33,000 --> 00:11:35,320
+Or you might have seen a cartoon.
+
+307
+00:11:35,320 --> 00:11:38,040
+I'm trying to remember if it was Zach Beener-Smith,
+
+308
+00:11:38,040 --> 00:11:41,160
+showing as smartphones came along,
+
+309
+00:11:41,160 --> 00:11:43,800
+the number of times they increased
+
+310
+00:11:43,800 --> 00:11:46,080
+the amount of alien abductions that had been videotaped
+
+311
+00:11:46,080 --> 00:11:47,880
+seems to have not really increased.
+
+312
+00:11:47,880 --> 00:11:50,160
+Whereas, there's other things that people
+
+313
+00:11:50,160 --> 00:11:52,200
+heard about where we have a lot more video of it
+
+314
+00:11:52,200 --> 00:11:53,600
+than we used to.
+
+315
+00:11:53,600 --> 00:11:55,680
+So there's that.
+
+316
+00:11:55,680 --> 00:11:57,960
+But in any case, it's the kind of thing where you say,
+
+317
+00:11:57,960 --> 00:12:00,520
+well, there's many arguments against alien abduction.
+
+318
+00:12:00,520 --> 00:12:03,120
+Like one of my favorite ones is, how come
+
+319
+00:12:03,120 --> 00:12:07,000
+each country has a different kind of alien that abducts it?
+
+320
+00:12:07,000 --> 00:12:09,840
+So if you listen to the testimony of alien abductions,
+
+321
+00:12:09,840 --> 00:12:12,920
+like the Swedes get abducted by a very different kind of alien
+
+322
+00:12:12,920 --> 00:12:15,080
+than the Americans get abducted by.
+
+323
+00:12:15,080 --> 00:12:16,660
+And it's like, all right, well, maybe
+
+324
+00:12:16,660 --> 00:12:18,360
+there's some kind of United Nations of aliens
+
+325
+00:12:18,360 --> 00:12:20,280
+where they said, OK, you guys get the Swedes.
+
+326
+00:12:20,280 --> 00:12:23,640
+OK, you get all them, and the Americans get the aliens.
+
+327
+00:12:23,640 --> 00:12:27,720
+But it does start to sound like a pretty crazy story.
+
+328
+00:12:27,720 --> 00:12:30,720
+I have no clear disproof that there's not
+
+329
+00:12:30,720 --> 00:12:32,560
+some kind of property rights assigned
+
+330
+00:12:32,560 --> 00:12:35,040
+to which humans get abducted by which species of alien.
+
+331
+00:12:35,040 --> 00:12:39,680
+But it does start to sound like a pretty silly theory.
+
+332
+00:12:39,680 --> 00:12:42,160
+Then when you read about shocking disaster stories
+
+333
+00:12:42,160 --> 00:12:45,000
+in the New York Times, you almost instantly believe them,
+
+334
+00:12:45,000 --> 00:12:46,600
+no matter how weird they are.
+
+335
+00:12:46,600 --> 00:12:48,240
+Whereas if it's the weekly world news,
+
+336
+00:12:48,240 --> 00:12:51,160
+anyone ever seen this newspaper?
+
+337
+00:12:51,160 --> 00:12:55,160
+It's the original and most awesome of all fake news.
+
+338
+00:12:55,160 --> 00:12:56,360
+Bat Boy.
+
+339
+00:12:56,360 --> 00:12:57,840
+And well, I think my favorite one
+
+340
+00:12:57,840 --> 00:12:59,440
+would be Bat Boy Elected Pope.
+
+341
+00:12:59,440 --> 00:13:04,680
+All right, so the New York Times did Bat Boy's Elected Pope.
+
+342
+00:13:04,680 --> 00:13:05,440
+I might check.
+
+343
+00:13:05,440 --> 00:13:07,020
+It was just really the New York Times.
+
+344
+00:13:07,020 --> 00:13:09,600
+But I don't think they would say that.
+
+345
+00:13:09,600 --> 00:13:12,760
+Bat Boy Elected Pope.
+
+346
+00:13:12,760 --> 00:13:13,520
+I remember so long.
+
+347
+00:13:13,520 --> 00:13:16,080
+September 11, 2001, I told Robin Hanson
+
+348
+00:13:16,080 --> 00:13:18,280
+that the World Trade Center has been destroyed.
+
+349
+00:13:18,280 --> 00:13:21,640
+And he looked at a watch to see if it was April 1.
+
+350
+00:13:21,640 --> 00:13:23,720
+It's like, hmm, it's not April 1.
+
+351
+00:13:23,720 --> 00:13:26,440
+So maybe I should believe this.
+
+352
+00:13:26,440 --> 00:13:28,080
+And then similarly, also, we generally
+
+353
+00:13:28,080 --> 00:13:29,960
+don't change our minds about the minimum wage
+
+354
+00:13:29,960 --> 00:13:32,120
+when astronomers discover a new galaxy,
+
+355
+00:13:32,120 --> 00:13:35,000
+because our view about the effects of minimum wage
+
+356
+00:13:35,000 --> 00:13:37,840
+are the same whether or not that galaxy exists.
+
+357
+00:13:37,840 --> 00:13:40,160
+So view of the minimum wage will raise unemployment given
+
+358
+00:13:40,160 --> 00:13:42,680
+if the galaxy does exist is equal to the probability
+
+359
+00:13:42,680 --> 00:13:45,560
+the minimum wage will raise unemployment if that galaxy
+
+360
+00:13:45,560 --> 00:13:46,240
+does not exist.
+
+361
+00:13:46,240 --> 00:13:49,040
+So we don't change our minds when something irrelevant pops
+
+362
+00:13:49,040 --> 00:13:49,540
+up.
+
+363
+00:13:52,200 --> 00:13:57,480
+Now, we update our beliefs in at least the general ballpark
+
+364
+00:13:57,480 --> 00:13:59,560
+of this equation, as fortunate, because we're
+
+365
+00:13:59,560 --> 00:14:02,160
+going to see is that game theory and information economics all
+
+366
+00:14:02,160 --> 00:14:05,760
+rely heavily upon this equation.
+
+367
+00:14:05,760 --> 00:14:06,960
+Now, after the midterm, we're going
+
+368
+00:14:06,960 --> 00:14:08,640
+to look at a lot of evidence that the equation's not
+
+369
+00:14:08,640 --> 00:14:10,440
+perfect and there's a bunch of problems.
+
+370
+00:14:10,440 --> 00:14:13,440
+And we're also going to talk a bit about people's priors
+
+371
+00:14:13,440 --> 00:14:15,760
+and how weird people's priors can be.
+
+372
+00:14:15,760 --> 00:14:17,560
+So of course, that's one where if you just
+
+373
+00:14:17,560 --> 00:14:20,520
+share the weird priors, then you say it's not weird.
+
+374
+00:14:20,520 --> 00:14:22,080
+It's weird that you doubt it.
+
+375
+00:14:22,080 --> 00:14:24,320
+It's weird that you don't believe the alien abduction
+
+376
+00:14:24,320 --> 00:14:25,520
+reports.
+
+377
+00:14:25,520 --> 00:14:28,640
+So I don't have any definitive answer there
+
+378
+00:14:28,640 --> 00:14:31,400
+other than the just incredulous look of, really?
+
+379
+00:14:31,400 --> 00:14:34,680
+You really believe the aliens?
+
+380
+00:14:34,680 --> 00:14:36,800
+Don't think of anything that you probably
+
+381
+00:14:36,800 --> 00:14:38,440
+would have thought of before yourself.
+
+382
+00:14:38,440 --> 00:14:39,920
+But anyway.
+
+383
+00:14:39,920 --> 00:14:41,360
+Now, one last application.
+
+384
+00:14:41,360 --> 00:14:43,560
+Suppose that you think you witness a zero probability
+
+385
+00:14:43,560 --> 00:14:44,120
+event.
+
+386
+00:14:44,120 --> 00:14:47,920
+What should you conclude according to Bayes' rule?
+
+387
+00:14:47,920 --> 00:14:49,760
+It's still a zero probability event.
+
+388
+00:14:49,760 --> 00:14:50,320
+What's that?
+
+389
+00:14:50,320 --> 00:14:52,480
+It's still a zero probability event.
+
+390
+00:14:52,480 --> 00:14:54,320
+Well, think about this.
+
+391
+00:14:54,320 --> 00:14:57,440
+Is there any chance at all that you have wrongly
+
+392
+00:14:57,440 --> 00:14:59,280
+thought that you wrongly concluded something
+
+393
+00:14:59,280 --> 00:15:01,320
+was a zero probability event?
+
+394
+00:15:01,320 --> 00:15:03,040
+There's even a one in a million chance
+
+395
+00:15:03,040 --> 00:15:06,120
+that you're wrong about that and you think you see one.
+
+396
+00:15:06,120 --> 00:15:08,720
+You say, oh my god, well, maybe I
+
+397
+00:15:08,720 --> 00:15:10,840
+was wrong to think it was a zero probability event.
+
+398
+00:15:10,840 --> 00:15:12,800
+If you work through the math, then you realize,
+
+399
+00:15:12,800 --> 00:15:14,600
+wow, given that I would update it all,
+
+400
+00:15:14,600 --> 00:15:19,200
+given that it occurs, it means that I was wrong
+
+401
+00:15:19,200 --> 00:15:20,400
+to assign a zero probability.
+
+402
+00:15:20,400 --> 00:15:23,240
+Because remember, if there's a 99% chance that something
+
+403
+00:15:23,240 --> 00:15:26,400
+is a zero probability, does it have a zero probability?
+
+404
+00:15:26,400 --> 00:15:28,040
+No, it doesn't have a zero probability.
+
+405
+00:15:28,040 --> 00:15:30,080
+It has a 99% chance that it's zero.
+
+406
+00:15:30,080 --> 00:15:33,080
+Because if there's a 1% chance that it's not zero,
+
+407
+00:15:33,080 --> 00:15:34,760
+and it's 1% chance that it's not zero,
+
+408
+00:15:34,760 --> 00:15:39,920
+what is 0.99 times 0 plus 0.01 times its other probability?
+
+409
+00:15:39,920 --> 00:15:41,600
+Must be, what is that?
+
+410
+00:15:41,600 --> 00:15:42,600
+Let's put it this way.
+
+411
+00:15:42,600 --> 00:15:43,840
+We got it.
+
+412
+00:15:43,840 --> 00:15:47,320
+Zero, and then less than, equal to, or greater than,
+
+413
+00:15:47,320 --> 00:15:51,800
+less than, or equal to 0.99 times 0, times 0,
+
+414
+00:15:51,800 --> 00:15:54,960
+plus 0.01 times some other probability.
+
+415
+00:15:54,960 --> 00:16:00,600
+So what do we know just based upon the nature of probability?
+
+416
+00:16:00,600 --> 00:16:04,080
+Is zero less than, equal to, or greater than, less than,
+
+417
+00:16:04,080 --> 00:16:06,840
+greater than, equal to, or less than that?
+
+418
+00:16:06,840 --> 00:16:07,840
+Yes, it must be.
+
+419
+00:16:07,840 --> 00:16:09,960
+So it must be less than that, strictly,
+
+420
+00:16:09,960 --> 00:16:12,520
+because if that is even one in a million,
+
+421
+00:16:12,520 --> 00:16:14,840
+then that thing is greater than zero.
+
+422
+00:16:14,840 --> 00:16:17,320
+And then you have no business assigning a zero probability
+
+423
+00:16:17,320 --> 00:16:18,280
+to it.
+
+424
+00:16:18,280 --> 00:16:20,360
+Now, after the midterm, we'll talk
+
+425
+00:16:20,360 --> 00:16:24,560
+about how human beings have a weird tendency
+
+426
+00:16:24,560 --> 00:16:28,440
+to actually assign zero probabilities in the real world.
+
+427
+00:16:28,440 --> 00:16:30,840
+And then, in fact, if you go and make
+
+428
+00:16:30,840 --> 00:16:34,200
+a graph of probabilities people assign,
+
+429
+00:16:34,200 --> 00:16:36,800
+and then the actual observed frequencies,
+
+430
+00:16:36,800 --> 00:16:39,320
+when people assign a 0% chance to something,
+
+431
+00:16:39,320 --> 00:16:43,280
+generally it has about a 20% chance of actually happening.
+
+432
+00:16:43,280 --> 00:16:45,160
+And similarly, if they assign 100% chance,
+
+433
+00:16:45,160 --> 00:16:48,240
+that means that that's like 80.
+
+434
+00:16:48,240 --> 00:16:51,760
+So there does seem to be a human tendency
+
+435
+00:16:51,760 --> 00:16:57,000
+to be overly free with the extreme probabilities, which
+
+436
+00:16:57,000 --> 00:17:00,640
+the simple interpretation is human beings are just wrong.
+
+437
+00:17:00,640 --> 00:17:02,920
+There's also just the one that human beings speak loosely
+
+438
+00:17:02,920 --> 00:17:06,600
+and enjoy hyperbole, and they're not serious.
+
+439
+00:17:06,600 --> 00:17:08,400
+So when people say it's certain, they
+
+440
+00:17:08,400 --> 00:17:10,280
+don't really mean it's certain.
+
+441
+00:17:10,280 --> 00:17:13,960
+So we'll talk about that more after the midterm.
+
+442
+00:17:13,960 --> 00:17:17,040
+All right, so questions about probability before we move on?
+
+443
+00:17:33,600 --> 00:17:36,280
+Do you want to pass in our homework?
+
+444
+00:17:36,280 --> 00:17:37,560
+Please do it during the break.
+
+445
+00:18:06,280 --> 00:18:14,600
+So I left a big margin of error, but apparently there's
+
+446
+00:18:14,600 --> 00:18:16,880
+a lot more people in this class than we're supposed to.
+
+447
+00:18:16,880 --> 00:18:18,440
+Does that explain why you have errors?
+
+448
+00:18:18,440 --> 00:18:20,600
+Yeah, I have the printed out.
+
+449
+00:18:20,600 --> 00:18:21,720
+Oh, you already have.
+
+450
+00:18:21,720 --> 00:18:23,920
+So anyone else who still need it?
+
+451
+00:18:23,920 --> 00:18:27,880
+Or I guess you can have your second copy after all.
+
+452
+00:18:27,880 --> 00:18:28,960
+Oh, one link.
+
+453
+00:18:28,960 --> 00:18:29,960
+Yeah, I printed it out.
+
+454
+00:18:29,960 --> 00:18:31,720
+Oh, OK.
+
+455
+00:18:31,720 --> 00:18:37,440
+So someone, let's see.
+
+456
+00:18:37,440 --> 00:18:41,000
+OK, all right.
+
+457
+00:18:41,000 --> 00:18:42,600
+All right, now we move into a subject
+
+458
+00:18:42,600 --> 00:18:45,360
+that I was forced to spend six weeks in graduate school on,
+
+459
+00:18:45,360 --> 00:18:48,680
+and we're going to do it in one week.
+
+460
+00:18:48,680 --> 00:18:51,480
+But we're only going to learn the part that you might
+
+461
+00:18:51,480 --> 00:18:54,880
+actually want to know, rather than the additional five
+
+462
+00:18:54,880 --> 00:18:56,880
+weeks' work, which I don't think we're worth,
+
+463
+00:18:56,880 --> 00:19:00,240
+which I think almost nobody wants to know.
+
+464
+00:19:00,240 --> 00:19:02,800
+So you see, this is a historically very important
+
+465
+00:19:02,800 --> 00:19:05,560
+area, but the amount of actual new research being done
+
+466
+00:19:05,560 --> 00:19:08,160
+in this area is so thin, there's hardly anyone does it.
+
+467
+00:19:08,160 --> 00:19:10,480
+It's what we call a mature research area,
+
+468
+00:19:10,480 --> 00:19:13,560
+or you would also think of it as just a dead research area,
+
+469
+00:19:13,560 --> 00:19:16,120
+where almost everything that people can think of
+
+470
+00:19:16,120 --> 00:19:18,640
+has been done, and some people have moved on.
+
+471
+00:19:18,640 --> 00:19:22,720
+But hundreds of people made their careers on this,
+
+472
+00:19:22,720 --> 00:19:25,320
+received very nice upper middle class incomes,
+
+473
+00:19:25,320 --> 00:19:26,400
+and dream jobs for life.
+
+474
+00:19:26,400 --> 00:19:31,080
+So we're doing minor tweaks on what we're going to do today.
+
+475
+00:19:31,080 --> 00:19:34,160
+All right, but we can't do that, nor would you want to,
+
+476
+00:19:34,160 --> 00:19:34,680
+I don't think.
+
+477
+00:19:34,680 --> 00:19:37,600
+But not to dissuade you, but afterwards at the end,
+
+478
+00:19:37,600 --> 00:19:39,480
+you may say this is the best thing you've ever
+
+479
+00:19:39,480 --> 00:19:40,960
+read in economics.
+
+480
+00:19:40,960 --> 00:19:44,560
+But anyway, you do need to know it, whether or not
+
+481
+00:19:44,560 --> 00:19:45,800
+you find it very interesting.
+
+482
+00:19:45,800 --> 00:19:48,160
+So I try to make it as interesting as it possibly
+
+483
+00:19:48,160 --> 00:19:49,520
+can be.
+
+484
+00:19:49,520 --> 00:19:51,600
+General equilibrium.
+
+485
+00:19:51,600 --> 00:19:53,520
+All right, so to start it.
+
+486
+00:19:53,520 --> 00:19:55,760
+So as you know, economists usually think about actors
+
+487
+00:19:55,760 --> 00:19:58,040
+as maximizing something, maximizing utility,
+
+488
+00:19:58,040 --> 00:20:26,080
+maximizing profits, maximizing.
+
+

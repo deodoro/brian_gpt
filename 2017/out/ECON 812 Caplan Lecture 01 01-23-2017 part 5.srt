@@ -1,0 +1,1509 @@
+1
+00:00:00,000 --> 00:00:03,560
+But if in fact there are deadweight costs or are an issue,
+
+2
+00:00:03,560 --> 00:00:06,440
+they were that the winner of the conflict might really be nobody.
+
+3
+00:00:06,440 --> 00:00:09,280
+It might be that there's just a giant bonfire of wealth,
+
+4
+00:00:09,280 --> 00:00:13,240
+and there's great misery that is caused by the conflicts.
+
+5
+00:00:13,240 --> 00:00:17,340
+Once you have something like a 30 years war and Europe is laid waste,
+
+6
+00:00:17,340 --> 00:00:19,760
+then finally non-economists may start saying,
+
+7
+00:00:19,760 --> 00:00:21,720
+you know there really was no winner here.
+
+8
+00:00:21,720 --> 00:00:25,120
+But, although even there not technically true,
+
+9
+00:00:25,120 --> 00:00:29,240
+what about the most fanatical people who thought it was better,
+
+10
+00:00:29,240 --> 00:00:32,720
+that it's better to murder people than let their souls be destroyed?
+
+11
+00:00:32,720 --> 00:00:36,160
+Or said, look if we by killing the people of the wrong religion,
+
+12
+00:00:36,160 --> 00:00:39,640
+we prevented them from spreading the poison to others and destroying their souls.
+
+13
+00:00:39,640 --> 00:00:44,560
+So, but still, the idea that a lot of resources get burned up and are
+
+14
+00:00:44,560 --> 00:00:48,800
+captured by nobody in a very serious war people eventually get the idea.
+
+15
+00:00:48,800 --> 00:00:52,240
+But when it's a less destructive war then who won?
+
+16
+00:00:52,240 --> 00:00:54,680
+Who came out of this looking great?
+
+17
+00:00:54,680 --> 00:00:57,880
+And again the answer according to the concept of deadweight costs,
+
+18
+00:00:57,880 --> 00:01:01,000
+maybe actually there's just a great deal of destruction.
+
+19
+00:01:01,000 --> 00:01:05,120
+So, in other words if you have a fixed pie of resources all conflict benefits somebody.
+
+20
+00:01:05,120 --> 00:01:08,600
+And if there is a variable pie of resources,
+
+21
+00:01:08,600 --> 00:01:11,960
+conflict might actually just be generally disruptive.
+
+22
+00:01:11,960 --> 00:01:15,120
+All right. Now, again as a matter of just definition,
+
+23
+00:01:15,120 --> 00:01:18,440
+reducing deadweight costs is automatically a Calrix improvements.
+
+24
+00:01:18,440 --> 00:01:20,520
+And then if a situation is Calrix efficient,
+
+25
+00:01:20,520 --> 00:01:23,240
+then deadweight costs are zero automatically.
+
+26
+00:01:23,240 --> 00:01:30,960
+All right. So, questions about Calrix versus Pareto efficiency?
+
+27
+00:01:30,960 --> 00:01:34,800
+Any questions about either of these concepts?
+
+28
+00:01:34,800 --> 00:01:37,080
+Right. And again, so, and remind me,
+
+29
+00:01:37,080 --> 00:01:41,080
+which one is tends to appear on homework problems and journal articles again?
+
+30
+00:01:41,080 --> 00:01:42,200
+Pareto.
+
+31
+00:01:42,200 --> 00:01:45,440
+Which one is used to analyze actual policies in the real world?
+
+32
+00:01:45,440 --> 00:01:46,160
+Calrix.
+
+33
+00:01:46,160 --> 00:01:51,880
+Calrix. Again, normally under the name cost-benefit analysis.
+
+34
+00:01:51,880 --> 00:02:01,880
+Okay. So, moving on.
+
+35
+00:02:01,880 --> 00:02:05,240
+So, Calrix efficiency is based on dollar valuations.
+
+36
+00:02:05,240 --> 00:02:08,600
+It's not based on utility in any sense,
+
+37
+00:02:08,600 --> 00:02:10,640
+and it's not based upon happiness in
+
+38
+00:02:10,640 --> 00:02:14,200
+the rich psychological sense that you probably know about.
+
+39
+00:02:14,200 --> 00:02:16,880
+Right. So, if you ever heard someone who's happy,
+
+40
+00:02:16,880 --> 00:02:18,360
+and if they appear to be,
+
+41
+00:02:18,360 --> 00:02:20,240
+if they have a very miserable face on,
+
+42
+00:02:20,240 --> 00:02:22,640
+then you generally say you don't look happy.
+
+43
+00:02:22,640 --> 00:02:25,080
+Right. Your action is generally not,
+
+44
+00:02:25,080 --> 00:02:26,800
+well, you did what you want most wanted to do,
+
+45
+00:02:26,800 --> 00:02:28,040
+so you must be happy.
+
+46
+00:02:28,040 --> 00:02:30,560
+Or at least, you must be happier than you would have
+
+47
+00:02:30,560 --> 00:02:33,400
+been given any other possible choice that was available to you.
+
+48
+00:02:33,400 --> 00:02:35,480
+Right. If you were an economics for a while,
+
+49
+00:02:35,480 --> 00:02:36,880
+you're very tempted to say that.
+
+50
+00:02:36,880 --> 00:02:39,560
+And yet, if there's a person who was happy before they made the choice,
+
+51
+00:02:39,560 --> 00:02:40,720
+with a smile on their face,
+
+52
+00:02:40,720 --> 00:02:42,480
+and afterwards they're crying,
+
+53
+00:02:42,480 --> 00:02:45,800
+you say, maybe they're not happy after doing this.
+
+54
+00:02:45,800 --> 00:02:49,400
+Maybe they didn't do the thing that actually made them happiest.
+
+55
+00:02:49,400 --> 00:02:52,080
+Right. And how could that possibly be?
+
+56
+00:02:52,080 --> 00:02:57,440
+All right. Well, there is a difference between willingness to pay and human happiness.
+
+57
+00:02:57,440 --> 00:03:00,440
+Hopefully, you have noticed this at some point in your life.
+
+58
+00:03:00,440 --> 00:03:02,720
+There's many different counter examples,
+
+59
+00:03:02,720 --> 00:03:05,080
+but one thing, so you can know that I'm willing to pay
+
+60
+00:03:05,080 --> 00:03:09,120
+$100 for something without knowing anything at all about how happy it makes me.
+
+61
+00:03:09,120 --> 00:03:12,680
+So, here my favorite example is buying kitchen granite.
+
+62
+00:03:12,680 --> 00:03:14,720
+Kidding, I've seen granite kitchens,
+
+63
+00:03:14,720 --> 00:03:16,880
+they have granite. That granite costs a lot,
+
+64
+00:03:16,880 --> 00:03:18,680
+so $10,000 for a kitchen.
+
+65
+00:03:18,680 --> 00:03:21,240
+Now, I know a lot of people have granite,
+
+66
+00:03:21,240 --> 00:03:24,440
+and I've never seen anyone ever smile at the granite.
+
+67
+00:03:24,440 --> 00:03:26,200
+I've never seen anyone go,
+
+68
+00:03:26,200 --> 00:03:29,480
+this is my granite, I love my granite so much.
+
+69
+00:03:29,480 --> 00:03:32,920
+My beautiful, beautiful, smooth granite,
+
+70
+00:03:32,920 --> 00:03:36,200
+and it has this special cut on the side.
+
+71
+00:03:36,200 --> 00:03:38,720
+It's so cute, I just love you.
+
+72
+00:03:38,720 --> 00:03:43,760
+Right. So, I've never heard anyone express these emotions or,
+
+73
+00:03:43,760 --> 00:03:47,600
+I've seen movies in other languages where people have granite,
+
+74
+00:03:47,600 --> 00:03:52,680
+and in no language has anyone ever talked to their granite with this kind of emotion.
+
+75
+00:03:52,680 --> 00:03:57,880
+Whereas, I've seen people get an ice cream cone that costs way less than the granite,
+
+76
+00:03:57,880 --> 00:04:01,360
+and they're super happy, ice cream, and they're really happy.
+
+77
+00:04:01,360 --> 00:04:06,800
+So, there must be some disconnect between willingness to pay and happiness.
+
+78
+00:04:06,800 --> 00:04:08,480
+Seems pretty obvious,
+
+79
+00:04:08,480 --> 00:04:10,680
+unless you think the ice cream people are pretending,
+
+80
+00:04:10,680 --> 00:04:14,000
+well, hi, this ice cream is not nearly as happiness-degrading as granite,
+
+81
+00:04:14,000 --> 00:04:17,440
+but I'm going to pretend I like it a lot more than granite.
+
+82
+00:04:17,440 --> 00:04:21,120
+So, and people look at the granite,
+
+83
+00:04:21,120 --> 00:04:23,960
+my God, granite completes me as a human being,
+
+84
+00:04:23,960 --> 00:04:25,760
+but it would be weird if people knew that.
+
+85
+00:04:25,760 --> 00:04:30,560
+So, I pretend to be really cool about my granite.
+
+86
+00:04:30,560 --> 00:04:34,920
+Seems that there are actually large disparities between
+
+87
+00:04:34,920 --> 00:04:38,040
+willingness to pay and this emotion of happiness
+
+88
+00:04:38,040 --> 00:04:41,760
+that human beings are very well able to recognize in other people.
+
+89
+00:04:41,760 --> 00:04:47,040
+It's very cross-culturally easy to recognize how happy somebody is.
+
+90
+00:04:47,040 --> 00:04:49,000
+Again, you may say, well,
+
+91
+00:04:49,000 --> 00:04:53,000
+there are some cultures that frown upon the expression of happiness, that may be so.
+
+92
+00:04:53,000 --> 00:04:55,760
+Although, don't you just think they're really unhappy?
+
+93
+00:04:55,760 --> 00:04:58,680
+You see cultures where people just never smile.
+
+94
+00:04:58,680 --> 00:05:01,800
+Aren't you only seeing, maybe the culture says don't smile,
+
+95
+00:05:01,800 --> 00:05:04,400
+but maybe they're actually just miserable here.
+
+96
+00:05:04,400 --> 00:05:07,840
+Is that possible too? Seems possible. Yes.
+
+97
+00:05:07,840 --> 00:05:10,200
+On the granite versus ice cream question,
+
+98
+00:05:10,200 --> 00:05:12,720
+can we analyze that in terms of marginal utility?
+
+99
+00:05:12,720 --> 00:05:16,360
+So, the ice cream has a much higher marginal utility versus the granite?
+
+100
+00:05:16,360 --> 00:05:20,040
+So, think about a person who eats ice cream every day and they own the granite every day.
+
+101
+00:05:20,040 --> 00:05:21,400
+Yes. I mean, like the ice cream,
+
+102
+00:05:21,400 --> 00:05:24,920
+like every ice cream they seem to be enjoying it more than every day of granite.
+
+103
+00:05:24,920 --> 00:05:26,960
+I mean, I have never,
+
+104
+00:05:26,960 --> 00:05:29,920
+ever seen a person smile at granite in the kitchen.
+
+105
+00:05:29,920 --> 00:05:32,000
+A person ever eat ice cream every day?
+
+106
+00:05:32,000 --> 00:05:32,560
+Yes.
+
+107
+00:05:32,560 --> 00:05:33,400
+Have that reaction?
+
+108
+00:05:33,400 --> 00:05:36,440
+Yes. Well, I mean, that actually is so, let's see.
+
+109
+00:05:36,440 --> 00:05:37,120
+Yes.
+
+110
+00:05:37,120 --> 00:05:38,480
+People eat ice cream every day.
+
+111
+00:05:38,480 --> 00:05:40,440
+I know a number of people eat ice cream,
+
+112
+00:05:40,440 --> 00:05:43,160
+any chance they get each time, ice cream.
+
+113
+00:05:43,160 --> 00:05:48,480
+Yes. The fact that they smile at the ice cream ever and never smile at the granite,
+
+114
+00:05:48,480 --> 00:05:50,200
+which costs so much more.
+
+115
+00:05:50,200 --> 00:05:55,760
+That's a lifetime supply of ice cream you have just put into a surface.
+
+116
+00:05:55,960 --> 00:05:59,600
+So, where did the cost of ice cream come from?
+
+117
+00:05:59,600 --> 00:06:02,440
+All right. Right. And then, in addition,
+
+118
+00:06:02,440 --> 00:06:03,520
+just think about, say,
+
+119
+00:06:03,520 --> 00:06:07,400
+you have high happiness and low happiness friends that you have.
+
+120
+00:06:07,400 --> 00:06:11,320
+It's possible that the friends you have who seem to smile a lot are really not all that happy,
+
+121
+00:06:11,320 --> 00:06:15,480
+and the friends you have who seem to be kind of miserable all the time are super happy inside.
+
+122
+00:06:15,480 --> 00:06:17,720
+But it's really hard to believe that.
+
+123
+00:06:17,720 --> 00:06:22,000
+So, yeah, maybe they're just really private people and they smile a lot in private,
+
+124
+00:06:22,000 --> 00:06:24,680
+or maybe this is like this,
+
+125
+00:06:24,680 --> 00:06:27,120
+is them feeling jubilation.
+
+126
+00:06:27,120 --> 00:06:32,280
+It's possible, but it seems kind of hard to believe, at least to me.
+
+127
+00:06:32,280 --> 00:06:34,480
+So, you know something that makes me very happy,
+
+128
+00:06:34,480 --> 00:06:36,640
+you do have low willingness to pay for it.
+
+129
+00:06:36,640 --> 00:06:41,200
+In fact, there are a number of things that most people will say make them very happy,
+
+130
+00:06:41,200 --> 00:06:43,200
+and yet they wouldn't pay anything for it.
+
+131
+00:06:43,200 --> 00:06:46,800
+For example, how about a hug from your child?
+
+132
+00:06:46,800 --> 00:06:48,960
+How much would you have paid for that hug?
+
+133
+00:06:48,960 --> 00:06:50,480
+I wouldn't pay anything for the hug.
+
+134
+00:06:50,480 --> 00:06:52,640
+If I had to pay for it, that would ruin the whole thing.
+
+135
+00:06:52,640 --> 00:06:56,680
+It's got to come for free from the heart in exchange for nothing.
+
+136
+00:06:56,680 --> 00:06:59,080
+Otherwise, it wouldn't make me happy at all.
+
+137
+00:06:59,080 --> 00:07:01,200
+And then, but you do get, oh, wow, that's great.
+
+138
+00:07:01,200 --> 00:07:03,640
+I get the hug from the child, and I love you, Daddy.
+
+139
+00:07:03,640 --> 00:07:06,000
+You're the best daddy in the world.
+
+140
+00:07:06,000 --> 00:07:08,880
+And that, for many people, they will say, and it seems plausible,
+
+141
+00:07:08,880 --> 00:07:11,360
+that was the best thing that happened to them the entire day,
+
+142
+00:07:11,360 --> 00:07:13,760
+and they wouldn't have paid anything for it.
+
+143
+00:07:13,760 --> 00:07:18,000
+So, that would also seem to be a counter example.
+
+144
+00:07:18,000 --> 00:07:18,520
+All right.
+
+145
+00:07:18,520 --> 00:07:24,720
+Now, the philosophy of utilitarianism, which historically has very close ties to economics.
+
+146
+00:07:24,720 --> 00:07:29,040
+So, who are some famous economists who are also famous utilitarian philosophers?
+
+147
+00:07:29,040 --> 00:07:34,240
+Yeah, Bentham, Mill, and then we got Edgeworth, and we can keep going on.
+
+148
+00:07:34,240 --> 00:07:36,240
+There's even more obscure ones than that.
+
+149
+00:07:36,240 --> 00:07:37,520
+So, Jaylin, Mill.
+
+150
+00:07:37,520 --> 00:07:38,680
+Which Mill?
+
+151
+00:07:38,680 --> 00:07:39,200
+Jaime.
+
+152
+00:07:39,200 --> 00:07:40,400
+Yes, Jaime Mill.
+
+153
+00:07:40,400 --> 00:07:43,360
+Yes, John Stuart Mill, but then there's James Mill.
+
+154
+00:07:43,360 --> 00:07:43,560
+All right.
+
+155
+00:07:43,560 --> 00:07:48,480
+So, you know, a bunch of economists are closely associated with the philosophy of utilitarianism.
+
+156
+00:07:48,480 --> 00:07:54,640
+But utilitarianism is distinct from economics in that it is not about something,
+
+157
+00:07:54,640 --> 00:07:58,760
+it is not about maximizing efficiency, rather it is about maximizing happiness
+
+158
+00:07:58,760 --> 00:08:02,440
+in the ordinary sense that psychologists would typically study.
+
+159
+00:08:02,440 --> 00:08:04,560
+Although now, there are actually plenty of economists
+
+160
+00:08:04,560 --> 00:08:08,040
+who study the happiness that psychologists care about.
+
+161
+00:08:08,040 --> 00:08:12,440
+I mean, why would an economist study something so stupid as human happiness?
+
+162
+00:08:12,440 --> 00:08:18,520
+What's the possible point of going and thinking about something that psychologists care about?
+
+163
+00:08:18,520 --> 00:08:22,040
+Well, who cares about it besides psychologists again?
+
+164
+00:08:22,040 --> 00:08:23,000
+Like, almost everybody.
+
+165
+00:08:23,000 --> 00:08:29,960
+So, even among economists who officially don't even believe in happiness,
+
+166
+00:08:29,960 --> 00:08:34,160
+they still, they too seem to care a lot about their own happiness normally.
+
+167
+00:08:34,160 --> 00:08:39,480
+All right, so Robin Hanson, who is a super happy guy, when you bring it up, he'll say,
+
+168
+00:08:39,480 --> 00:08:42,240
+well, I think people care a lot less about happiness than they claim to.
+
+169
+00:08:42,240 --> 00:08:44,480
+And there again, I think he is right.
+
+170
+00:08:44,480 --> 00:08:49,040
+So, there are many things that people do where it's pretty obvious they could be happier
+
+171
+00:08:49,040 --> 00:08:50,680
+if they did something else.
+
+172
+00:08:50,680 --> 00:08:53,640
+And even if you tell them, they will sometimes admit it.
+
+173
+00:08:53,640 --> 00:08:55,160
+And then they don't do it.
+
+174
+00:08:55,160 --> 00:08:56,320
+Like what?
+
+175
+00:08:56,320 --> 00:09:00,880
+Well, we can go back to one of the greatest and briefest philosophers of all time, Epicurus.
+
+176
+00:09:00,880 --> 00:09:04,560
+We have about 10 pages of every, 10 pages of his writing survive.
+
+177
+00:09:04,560 --> 00:09:06,280
+They are 10 fantastic pages.
+
+178
+00:09:06,280 --> 00:09:07,640
+Every paragraph is great.
+
+179
+00:09:07,640 --> 00:09:09,040
+Every sentence is great.
+
+180
+00:09:09,040 --> 00:09:10,800
+And you can read it in half an hour and you're done.
+
+181
+00:09:10,800 --> 00:09:13,640
+And now you know the thought of a philosopher way better than say,
+
+182
+00:09:13,640 --> 00:09:18,720
+Manuel Kant, who has thousands of pages of mostly gibberish that people have been arguing
+
+183
+00:09:18,720 --> 00:09:21,440
+about the meaning of for 200 years.
+
+184
+00:09:21,440 --> 00:09:24,480
+Because, you know, there is a whole journal called Kantstudien.
+
+185
+00:09:24,480 --> 00:09:29,400
+If you look at it, in 1851, what did Germans think Edward Kant really meant?
+
+186
+00:09:29,400 --> 00:09:30,600
+How about 1857?
+
+187
+00:09:30,600 --> 00:09:31,600
+How about 1888?
+
+188
+00:09:31,600 --> 00:09:33,080
+It just goes on and on.
+
+189
+00:09:33,080 --> 00:09:36,600
+Anyway, nothing like that for Epicurus because he was clear, said it right the first time.
+
+190
+00:09:36,600 --> 00:09:41,440
+Anyway, so Epicurus has a number of pieces of advice for people who want to be happier.
+
+191
+00:09:41,440 --> 00:09:46,120
+And his first one, which is very commonsensical and which has been strongly confirmed
+
+192
+00:09:46,120 --> 00:09:49,600
+by our research is lower your expectations.
+
+193
+00:09:49,600 --> 00:09:52,040
+Lower your expectations.
+
+194
+00:09:52,040 --> 00:09:55,880
+Expect as little out of life as you possibly can and then you will be happier
+
+195
+00:09:55,880 --> 00:09:59,320
+because you will appreciate what you have.
+
+196
+00:09:59,320 --> 00:10:04,480
+All right, and many people, you know, many will hear this and then like, yeah,
+
+197
+00:10:04,480 --> 00:10:06,240
+but I can't do that.
+
+198
+00:10:06,240 --> 00:10:08,520
+Have you tried?
+
+199
+00:10:08,520 --> 00:10:09,720
+Just try.
+
+200
+00:10:09,720 --> 00:10:13,680
+At the margin, if you could just marginally lower your expectations by 5%,
+
+201
+00:10:13,680 --> 00:10:18,200
+that would do more for your happiness than almost anything else you're trying to do right now.
+
+202
+00:10:18,200 --> 00:10:22,200
+But I told this to my wife, she said, that's cheating.
+
+203
+00:10:22,200 --> 00:10:27,120
+Well, who made up the rules of this game anyway?
+
+204
+00:10:27,120 --> 00:10:30,560
+Who said those are the rules that you can't lower your expectations to be happy?
+
+205
+00:10:30,560 --> 00:10:35,720
+Why not? All right, so in any case, utilitarianism is precisely
+
+206
+00:10:35,720 --> 00:10:40,680
+about maximizing happiness or pleasure is another word that people sometimes use.
+
+207
+00:10:40,680 --> 00:10:43,320
+And of course, there's a debate about whether happiness is just pleasure
+
+208
+00:10:43,320 --> 00:10:45,320
+or whether there's more to it than that.
+
+209
+00:10:45,320 --> 00:10:51,040
+Now, the main reason that economists rarely talk about happiness, although it has increased
+
+210
+00:10:51,040 --> 00:10:54,280
+over time, is that talking about happiness seems
+
+211
+00:10:54,280 --> 00:10:57,160
+to require interpersonal utility comparisons.
+
+212
+00:10:57,160 --> 00:10:58,280
+Oh my God.
+
+213
+00:10:58,280 --> 00:11:02,760
+Interpersonal utility comparisons, saying that one person is happier than another person
+
+214
+00:11:02,760 --> 00:11:06,360
+and also figuring out how much happier they are than another person.
+
+215
+00:11:06,360 --> 00:11:09,440
+So a way that some economists put it, how do you add happiness?
+
+216
+00:11:09,440 --> 00:11:10,720
+How do you sum it?
+
+217
+00:11:10,720 --> 00:11:13,080
+You know, if we were to say, what's the happiness of all the people on this side of the room
+
+218
+00:11:13,080 --> 00:11:16,400
+and compare it to the happiness of all the people on that side of the room, how can we ever do that?
+
+219
+00:11:16,400 --> 00:11:20,360
+It seems like a meaningless question, and so we shouldn't do it.
+
+220
+00:11:20,360 --> 00:11:23,640
+Okay, so that is a common view among economists.
+
+221
+00:11:23,640 --> 00:11:29,640
+Although, it is one that I've never known an economist to actually consistently execute.
+
+222
+00:11:29,640 --> 00:11:32,800
+So even Walter Block.
+
+223
+00:11:32,800 --> 00:11:39,240
+So as staunchly Austrian economist as I have ever met, who has an official position of,
+
+224
+00:11:39,240 --> 00:11:42,800
+yeah, you can't do interpersonal comparisons at all.
+
+225
+00:11:42,800 --> 00:11:47,160
+And I said, but like, what about like you here smiling versus that guy
+
+226
+00:11:47,160 --> 00:11:49,680
+over there who seems really unhappy?
+
+227
+00:11:49,680 --> 00:11:54,520
+And you're like, is it meaningless to say that you're happier than him?
+
+228
+00:11:54,520 --> 00:11:58,120
+I mean, you might say that I'm wrong, but it just sort of doesn't seem meaningless.
+
+229
+00:11:58,120 --> 00:12:02,760
+And then even he says, well, there's two senses of the word happiness.
+
+230
+00:12:02,760 --> 00:12:07,960
+There's the normal sense, where sure, of course, I'm way happier than that guy over there.
+
+231
+00:12:07,960 --> 00:12:13,400
+But then there's the scientific sense, in which case the sentence is meaningless.
+
+232
+00:12:13,400 --> 00:12:18,560
+And then I said, well, could we just switch over to the normal meaning from now on?
+
+233
+00:12:18,560 --> 00:12:22,320
+And then could we go and make the null meaning the scientific meaning
+
+234
+00:12:22,320 --> 00:12:27,000
+and flush the scientific meaning down because it doesn't serve any purpose anyway?
+
+235
+00:12:27,000 --> 00:12:29,160
+No. We're not allowed to do that.
+
+236
+00:12:29,160 --> 00:12:31,320
+I'm still confused about why not.
+
+237
+00:12:31,320 --> 00:12:38,560
+But in any case, so anyone who says that interpersonal utility comparisons are possible,
+
+238
+00:12:38,560 --> 00:12:41,920
+yet they do actually rank people by more or less happy.
+
+239
+00:12:41,920 --> 00:12:44,920
+They say that this friend is less happy than they normally are.
+
+240
+00:12:44,920 --> 00:12:47,760
+They say that one friend is more happy than another person.
+
+241
+00:12:47,760 --> 00:12:51,400
+They can go and say, look, who is the least happy character in Seinfeld?
+
+242
+00:12:51,400 --> 00:12:52,920
+How do the main characters?
+
+243
+00:12:52,920 --> 00:12:54,200
+Well, of course, it's George.
+
+244
+00:12:54,200 --> 00:12:57,960
+The question's meaningless, but the answer is George.
+
+245
+00:12:57,960 --> 00:12:58,840
+So they do this.
+
+246
+00:12:58,840 --> 00:13:06,200
+And then, of course, once you start taking this philosophy or dogma, if you prefer, very seriously,
+
+247
+00:13:06,200 --> 00:13:11,720
+then if you can't do interpersonal comparisons, why can you do intrapersonal comparisons?
+
+248
+00:13:11,720 --> 00:13:15,520
+If it's meaningless to say that one person is happier than another, does it also mean
+
+249
+00:13:15,520 --> 00:13:19,480
+that you can't say that one person is happier than he was yesterday?
+
+250
+00:13:19,480 --> 00:13:24,120
+In both cases, if you say that you can't measure it so you can't compare it,
+
+251
+00:13:24,120 --> 00:13:28,560
+then whether you're doing it across people or between people or even between yourself today
+
+252
+00:13:28,560 --> 00:13:34,240
+and tomorrow, if you're at the point where you say, I can no longer say that I'm more
+
+253
+00:13:34,240 --> 00:13:37,720
+or less happy than I was yesterday, it's a meaningless statement.
+
+254
+00:13:37,720 --> 00:13:38,200
+All right?
+
+255
+00:13:38,200 --> 00:13:40,280
+This is where the conversation ends.
+
+256
+00:13:40,280 --> 00:13:43,240
+I'm not going to persuade you of anything, but doesn't that sound crazy?
+
+257
+00:13:43,240 --> 00:13:46,400
+It seems crazy to me.
+
+258
+00:13:46,400 --> 00:13:46,760
+All right.
+
+259
+00:13:46,760 --> 00:13:52,240
+Now, some people who want to go and just be a little bit utilitarian will say, well, look,
+
+260
+00:13:52,240 --> 00:13:59,000
+all utilitarianism is is like regular Calgary Hicks cost-benefit analysis with an adjustment
+
+261
+00:13:59,000 --> 00:14:00,600
+for marginal utility and wealth.
+
+262
+00:14:00,600 --> 00:14:05,760
+So all we do is the regular thing, and then we go and do an adjustment based upon the idea
+
+263
+00:14:05,760 --> 00:14:09,800
+that a dollar's worth less to Bill Gates than it is to a homeless man.
+
+264
+00:14:09,800 --> 00:14:12,480
+Okay? Of course, you know, at a philosophical level, that's no help
+
+265
+00:14:12,480 --> 00:14:14,360
+because you saw it, so how much less?
+
+266
+00:14:14,360 --> 00:14:17,720
+We can't do the calculation unless we go and assign a functional form.
+
+267
+00:14:17,720 --> 00:14:22,440
+Is it like the square root of the wealth that is proportional to or what?
+
+268
+00:14:22,440 --> 00:14:27,040
+But in any case, this is the usual problem where once you go and make one concession
+
+269
+00:14:27,040 --> 00:14:31,440
+to common sense, then why not make two concessions to common sense?
+
+270
+00:14:31,440 --> 00:14:34,600
+Why not make all the concessions to common sense?
+
+271
+00:14:34,600 --> 00:14:41,240
+So once you say that you're factoring marginal utility wealth, why not also factor in things
+
+272
+00:14:41,240 --> 00:14:45,040
+like some people are more materialistic than other people.
+
+273
+00:14:45,040 --> 00:14:49,080
+Right? So more materialistic people get more joy out of material things.
+
+274
+00:14:49,080 --> 00:14:52,080
+Less materialistic people get less joy out of material things.
+
+275
+00:14:52,080 --> 00:14:56,360
+So if you're a utilitarian, who would you take money from?
+
+276
+00:14:56,360 --> 00:14:57,920
+The monks.
+
+277
+00:14:57,920 --> 00:15:00,960
+You take money from the monks, the people who don't care about material things,
+
+278
+00:15:00,960 --> 00:15:04,480
+who don't appreciate material things, and then you give it to the yuppies.
+
+279
+00:15:04,480 --> 00:15:08,480
+You give it to the people who like shopping for designer goods and the people
+
+280
+00:15:08,480 --> 00:15:11,440
+who have a big smile when they buy a new pair of pants.
+
+281
+00:15:11,440 --> 00:15:15,760
+You know, we took money from those monks who don't care about material possessions at all
+
+282
+00:15:15,760 --> 00:15:19,000
+and gave it to the people who just love talking about, well,
+
+283
+00:15:19,000 --> 00:15:22,240
+this pair of designer jeans might seem no better than the other.
+
+284
+00:15:22,240 --> 00:15:23,320
+Oh, but you're so wrong.
+
+285
+00:15:23,320 --> 00:15:24,560
+It's so much better.
+
+286
+00:15:24,560 --> 00:15:25,120
+It's wonderful.
+
+287
+00:15:25,120 --> 00:15:26,920
+The stitching, look at it.
+
+288
+00:15:26,920 --> 00:15:27,760
+It's wonderful.
+
+289
+00:15:27,760 --> 00:15:30,240
+Right? And those people I have met, actually.
+
+290
+00:15:30,240 --> 00:15:31,840
+Not the great people.
+
+291
+00:15:31,840 --> 00:15:36,280
+But the great lovers are, as far as you can tell, just non-existent.
+
+292
+00:15:36,280 --> 00:15:38,520
+They've got to be out there somewhere.
+
+293
+00:15:38,520 --> 00:15:41,800
+But I've looked around and I know a lot of people with granite.
+
+294
+00:15:41,800 --> 00:15:44,640
+But the people who can get excited over clothes, I've seen those.
+
+295
+00:15:44,640 --> 00:15:46,480
+Those people are out there.
+
+296
+00:15:46,480 --> 00:15:47,040
+All right.
+
+297
+00:15:47,040 --> 00:15:52,120
+So once you start saying, well, yeah, it's not just about marginal utility of wealth.
+
+298
+00:15:52,120 --> 00:15:54,920
+We have to adjust for how materialistic you are.
+
+299
+00:15:54,920 --> 00:15:59,080
+And then you might want to just, like, how happy of a person are you?
+
+300
+00:15:59,080 --> 00:16:04,880
+So you might think that people who just have a happy personality just appreciate everything more.
+
+301
+00:16:04,880 --> 00:16:08,040
+Yeah, it's possible that miserable people have higher marginal utility.
+
+302
+00:16:08,040 --> 00:16:10,480
+But I've never seen any sign of it.
+
+303
+00:16:10,480 --> 00:16:13,680
+So, you know, like the perennial miserable person, you get them a present.
+
+304
+00:16:13,680 --> 00:16:14,760
+Oh, thanks.
+
+305
+00:16:14,760 --> 00:16:17,240
+See, but it's not just the material thing.
+
+306
+00:16:17,240 --> 00:16:18,960
+It also shows people care about you.
+
+307
+00:16:18,960 --> 00:16:19,960
+Yes, they care about me.
+
+308
+00:16:19,960 --> 00:16:21,360
+That's so great.
+
+309
+00:16:21,360 --> 00:16:22,280
+All right.
+
+310
+00:16:22,280 --> 00:16:22,560
+All right.
+
+311
+00:16:22,560 --> 00:16:23,840
+So you know some people like this.
+
+312
+00:16:23,840 --> 00:16:27,680
+And then there's people, oh, goody, a present for me.
+
+313
+00:16:27,680 --> 00:16:28,080
+All right.
+
+314
+00:16:28,080 --> 00:16:33,080
+So, you know, if you're a utilitarian, want to transfer resources from the grumpy people
+
+315
+00:16:33,080 --> 00:16:37,040
+over to the cheerful people who will really appreciate the stuff.
+
+316
+00:16:37,040 --> 00:16:37,720
+All right.
+
+317
+00:16:37,720 --> 00:16:40,480
+So that is what would be applied by utilitarian.
+
+318
+00:16:40,480 --> 00:16:47,120
+And once you make the adjusting for wealth, then why not adjust for everything you can think of?
+
+319
+00:16:47,120 --> 00:16:48,080
+All right.
+
+320
+00:16:48,080 --> 00:16:52,880
+So anyway, so people often say utilitarianism is factors of marginal utility of wealth.
+
+321
+00:16:52,880 --> 00:16:54,280
+But not necessarily true.
+
+322
+00:16:54,280 --> 00:16:56,920
+People might be willing to pay for things other than happiness.
+
+323
+00:16:56,920 --> 00:17:00,360
+And utilitarianism is often used to justify redistribution.
+
+324
+00:17:00,360 --> 00:17:02,560
+But even on its own terms, it's not necessarily followed.
+
+325
+00:17:02,560 --> 00:17:06,040
+There's a famous counter example involving a utility monster.
+
+326
+00:17:06,040 --> 00:17:09,680
+This is a creature that has increasing marginal utility of wealth.
+
+327
+00:17:09,680 --> 00:17:13,040
+Even if you don't think they currently exist, they could be genetically engineered.
+
+328
+00:17:13,040 --> 00:17:17,320
+And if you were utilitarian, then you'd like, let's just go and give everything
+
+329
+00:17:17,320 --> 00:17:21,360
+to the utility monster who just loves stuff beyond all imagination,
+
+330
+00:17:21,360 --> 00:17:23,920
+more than any of us could possibly do.
+
+331
+00:17:23,920 --> 00:17:25,360
+All right.
+
+332
+00:17:25,360 --> 00:17:27,520
+So questions?
+
+333
+00:17:27,520 --> 00:17:28,480
+Questions?
+
+334
+00:17:28,480 --> 00:17:31,640
+So this, by the way, is the most philosophical lecture by far.
+
+335
+00:17:31,640 --> 00:17:34,920
+Although I mention it because it's so interesting and worth knowing.
+
+336
+00:17:34,920 --> 00:17:39,320
+And also, GMU PhDs are especially likely to do economics and philosophy.
+
+337
+00:17:39,320 --> 00:17:44,280
+So perhaps I am starting you on your pathway to these bigger and better things.
+
+338
+00:17:44,280 --> 00:17:47,440
+And note, if you do want to do philosophy, the best place to do it is in the econ department
+
+339
+00:17:47,440 --> 00:17:48,840
+where you have a job and a salary.
+
+340
+00:17:48,840 --> 00:17:56,840
+So just, you may need to do something else in addition until you have tenure.
+
+341
+00:17:56,840 --> 00:18:04,680
+And then, it's all philosophy now, with economics in the background.
+
+342
+00:18:04,680 --> 00:18:06,960
+So moving on.
+
+343
+00:18:06,960 --> 00:18:07,160
+All right.
+
+344
+00:18:07,160 --> 00:18:10,480
+The Commercial Instant Proofs approach and second best.
+
+345
+00:18:10,480 --> 00:18:16,360
+So I'm guessing that Walter Williams told you about Harold Dempset at some point.
+
+346
+00:18:16,360 --> 00:18:18,320
+Yes, the great Harold Dempset.
+
+347
+00:18:18,320 --> 00:18:23,200
+So Dempset famously complained about what he called the Nirvana Fallacy.
+
+348
+00:18:23,200 --> 00:18:28,040
+All right, which, as far as I understand, is based upon a misunderstanding of Buddhist
+
+349
+00:18:28,040 --> 00:18:28,600
+theology.
+
+350
+00:18:28,600 --> 00:18:32,800
+But almost everybody misunderstands it in the same way.
+
+351
+00:18:32,800 --> 00:18:36,200
+So he still makes his point.
+
+352
+00:18:36,200 --> 00:18:40,800
+All right, so what is the Nirvana Fallacy?
+
+353
+00:18:40,800 --> 00:18:43,840
+Metaphorically, it's comparing the real world to heaven.
+
+354
+00:18:43,840 --> 00:18:47,000
+From what I understand, Nirvana is actually a state of nothingness, not heaven.
+
+355
+00:18:47,000 --> 00:18:51,640
+But in any case, comparing the real world to an unrealizable ideal.
+
+356
+00:18:51,640 --> 00:18:54,720
+And then say, you know what, the real world stinks compared to heaven.
+
+357
+00:18:54,720 --> 00:18:59,760
+And so now, let's go and regulate pollution.
+
+358
+00:18:59,760 --> 00:19:00,400
+All right.
+
+359
+00:19:00,400 --> 00:19:04,920
+So anyway, what he literally meant was doing efficiency calculations.
+
+360
+00:19:04,920 --> 00:19:08,480
+And again, of course, since he's talking about real world calculations,
+
+361
+00:19:08,480 --> 00:19:10,600
+he's talking about Caldeirx or cost benefits.
+
+362
+00:19:10,600 --> 00:19:14,480
+So doing Caldeirx efficiency comparisons while selectively relaxing
+
+363
+00:19:14,480 --> 00:19:16,440
+important constraints.
+
+364
+00:19:16,440 --> 00:19:18,920
+While selectively relaxing important constraints, generally without ever
+
+365
+00:19:18,920 --> 00:19:22,240
+mentioning you're doing it, and just hoping everyone in the audience will let
+
+366
+00:19:22,240 --> 00:19:26,360
+you get away with it, because they have the same bias of what they're looking for.
+
+367
+00:19:26,360 --> 00:19:28,480
+All right, so what in the world is going on?
+
+368
+00:19:28,480 --> 00:19:34,760
+Well, Demsetz is criticizing old style welfare economics of the 1950s, the 1960s,
+
+369
+00:19:34,760 --> 00:19:39,520
+1970s, and based upon what it was like when I was an undergraduate, also the 1980s
+
+370
+00:19:39,520 --> 00:19:41,480
+and the 1990s.
+
+371
+00:19:41,480 --> 00:19:45,480
+And how does old style welfare economics works?
+
+372
+00:19:45,480 --> 00:19:46,680
+Well, it's something like this.
+
+373
+00:19:46,680 --> 00:19:51,040
+Step one, you point out one of these deadweight loss triangles.
+
+374
+00:19:51,040 --> 00:19:51,760
+All right.
+
+375
+00:19:51,760 --> 00:19:56,400
+Step two, you say, government can, should, will, and must fix that deadweight loss
+
+376
+00:19:56,400 --> 00:19:57,600
+triangle.
+
+377
+00:19:57,600 --> 00:20:17,600
+And then say, and that's it.
+
+

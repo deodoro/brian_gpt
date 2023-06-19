@@ -1,0 +1,9 @@
+8.  Suppose two Bertrand competitors collude in an infinitely -repeated game, but 
+the first firm insists on getting the "lion's share" of the profits.  The first firm gets  
+90% of the monopoly profits .  The second firm gets the remaining  10%.  
+ 
+True, False, and Explain:   This is a NE as long as β≥.1 for both firms.  
+ 
+FALSE.  The first firm will not defect as long as 
+
+

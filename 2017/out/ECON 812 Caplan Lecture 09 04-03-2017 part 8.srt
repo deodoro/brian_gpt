@@ -1,0 +1,1325 @@
+1
+00:00:00,000 --> 00:00:01,760
+getting into petty disputes with people
+
+2
+00:00:01,760 --> 00:00:03,700
+over very small amounts of money.
+
+3
+00:00:05,640 --> 00:00:06,980
+He's not even really retired,
+
+4
+00:00:06,980 --> 00:00:08,760
+so he has a decent opportunity cost,
+
+5
+00:00:08,760 --> 00:00:11,560
+but nevertheless, he will go out of his way
+
+6
+00:00:11,560 --> 00:00:15,480
+to go and say, I'm very angry about this here,
+
+7
+00:00:15,480 --> 00:00:18,080
+and I wanna talk to the manager.
+
+8
+00:00:18,080 --> 00:00:20,080
+Like, that's gonna do any good.
+
+9
+00:00:20,080 --> 00:00:22,360
+But that's the way that my dad is,
+
+10
+00:00:22,360 --> 00:00:24,760
+and he's not the only one for sure.
+
+11
+00:00:24,760 --> 00:00:27,060
+So plenty of people get angry at others,
+
+12
+00:00:27,060 --> 00:00:28,800
+and then wanna get back at them.
+
+13
+00:00:28,800 --> 00:00:30,360
+I'm gonna get back at them.
+
+14
+00:00:30,360 --> 00:00:32,040
+All right, so you may think about
+
+15
+00:00:32,040 --> 00:00:34,440
+whether you've ever wanted to get back at somebody.
+
+16
+00:00:34,440 --> 00:00:35,280
+All right.
+
+17
+00:00:37,320 --> 00:00:38,360
+So that's the idea.
+
+18
+00:00:38,360 --> 00:00:40,080
+All right, so real-world significance
+
+19
+00:00:40,080 --> 00:00:43,520
+of fairness and vindictiveness.
+
+20
+00:00:43,520 --> 00:00:44,920
+So pretty easy to observe.
+
+21
+00:00:44,920 --> 00:00:47,200
+So we wouldn't have tipping without fairness norms probably.
+
+22
+00:00:47,200 --> 00:00:49,120
+At least tipping would be very different.
+
+23
+00:00:49,120 --> 00:00:50,520
+There'd only be tipping in places
+
+24
+00:00:50,520 --> 00:00:52,720
+where there's repeated customers,
+
+25
+00:00:52,720 --> 00:00:54,800
+or of course, where you go in groups.
+
+26
+00:00:55,760 --> 00:00:58,280
+Now, the funny thing about the whole,
+
+27
+00:00:58,280 --> 00:00:59,840
+the idea that people tip as much as they do
+
+28
+00:00:59,840 --> 00:01:01,280
+because other people are watching,
+
+29
+00:01:01,280 --> 00:01:04,040
+is actually restaurants seem to have the opposite theory.
+
+30
+00:01:04,040 --> 00:01:05,840
+Right, because it's very common for restaurants to say
+
+31
+00:01:05,840 --> 00:01:07,920
+that if the party has, say, six or more people,
+
+32
+00:01:07,920 --> 00:01:09,560
+what happens automatically?
+
+33
+00:01:09,560 --> 00:01:10,760
+The crudity's put in.
+
+34
+00:01:10,760 --> 00:01:12,460
+The crudity's put in.
+
+35
+00:01:12,460 --> 00:01:13,920
+So there it seems like contrary to theory,
+
+36
+00:01:13,920 --> 00:01:15,280
+that people only tip because they wanna go
+
+37
+00:01:15,280 --> 00:01:17,500
+and impress their friends with how generous they are.
+
+38
+00:01:17,500 --> 00:01:18,840
+Actually, when there's a large group,
+
+39
+00:01:18,840 --> 00:01:20,600
+the tragedy of the commons kicks in,
+
+40
+00:01:20,600 --> 00:01:22,480
+and everybody starts skimping,
+
+41
+00:01:22,480 --> 00:01:25,000
+because it will be the whole group
+
+42
+00:01:25,000 --> 00:01:26,520
+that will be regarded as an unfair group
+
+43
+00:01:26,520 --> 00:01:28,080
+rather than any one individual in the group
+
+44
+00:01:28,080 --> 00:01:29,280
+will be seen as unfair.
+
+45
+00:01:30,360 --> 00:01:33,040
+All right, so even when there's no repeated interaction,
+
+46
+00:01:33,040 --> 00:01:34,520
+we give up small personal benefits
+
+47
+00:01:34,520 --> 00:01:35,760
+to do what fairness requires,
+
+48
+00:01:35,760 --> 00:01:37,720
+expect others to do the same.
+
+49
+00:01:37,720 --> 00:01:40,760
+We might think that prices and wages would be more flexible
+
+50
+00:01:40,760 --> 00:01:43,880
+if we didn't have these fairness and vindictiveness norms,
+
+51
+00:01:43,880 --> 00:01:45,160
+because a lot of people have it in their heads
+
+52
+00:01:45,160 --> 00:01:47,680
+that it's unfair for prices to change,
+
+53
+00:01:47,680 --> 00:01:49,880
+and if a price unfairly changes,
+
+54
+00:01:49,880 --> 00:01:52,120
+it's okay to say shoplift,
+
+55
+00:01:52,120 --> 00:01:57,120
+or go and, say, buy something and then return it
+
+56
+00:01:57,120 --> 00:01:59,440
+and get your money back after you mess it up,
+
+57
+00:01:59,440 --> 00:02:03,040
+or something that was noted with a lot of foreclosures.
+
+58
+00:02:03,040 --> 00:02:05,560
+Very often, when a home is foreclosed upon,
+
+59
+00:02:05,560 --> 00:02:08,360
+what do the occupants do before they leave?
+
+60
+00:02:09,440 --> 00:02:13,920
+Trash the place, rip out the toilets.
+
+61
+00:02:13,920 --> 00:02:15,600
+It's one thing to go and try and recover
+
+62
+00:02:15,600 --> 00:02:16,960
+valuable items from the house,
+
+63
+00:02:16,960 --> 00:02:18,560
+like rip out the copper wire,
+
+64
+00:02:18,560 --> 00:02:20,720
+but just to go and put holes in the walls
+
+65
+00:02:20,720 --> 00:02:24,080
+to get back at the bank for taking your house away?
+
+66
+00:02:24,080 --> 00:02:25,040
+All right, this, in the end,
+
+67
+00:02:25,040 --> 00:02:27,640
+seemed like it was a pretty big deal,
+
+68
+00:02:27,640 --> 00:02:31,360
+and of course, it winds up having some bad effects,
+
+69
+00:02:31,360 --> 00:02:32,760
+because in general equilibrium,
+
+70
+00:02:32,760 --> 00:02:35,160
+the banks know that if they ever foreclose their home,
+
+71
+00:02:35,160 --> 00:02:36,520
+that you will trash it.
+
+72
+00:02:36,520 --> 00:02:38,360
+This does what to the interest rates
+
+73
+00:02:38,360 --> 00:02:40,120
+that everybody has to pay?
+
+74
+00:02:40,120 --> 00:02:42,000
+That increases, and especially, of course,
+
+75
+00:02:42,000 --> 00:02:43,200
+if you are a high-risk borrower,
+
+76
+00:02:43,200 --> 00:02:45,680
+high-risk borrowers have to pay especially high rates
+
+77
+00:02:45,680 --> 00:02:47,360
+because they're especially likely to foreclose,
+
+78
+00:02:47,360 --> 00:02:49,120
+which means that the bank's especially likely
+
+79
+00:02:49,120 --> 00:02:51,220
+to not get back its full investment.
+
+80
+00:02:51,220 --> 00:02:54,460
+All right, so things like this.
+
+81
+00:02:54,460 --> 00:02:58,460
+Now, one example that at least used to be talked about a lot
+
+82
+00:02:58,460 --> 00:03:00,020
+was shortages of concert tickets
+
+83
+00:03:00,020 --> 00:03:03,220
+when concert tickets would be priced well below markets,
+
+84
+00:03:03,220 --> 00:03:06,580
+especially for very exciting or big or important events.
+
+85
+00:03:06,580 --> 00:03:08,180
+I've heard people talk about this a lot less
+
+86
+00:03:08,180 --> 00:03:09,980
+than they used to.
+
+87
+00:03:09,980 --> 00:03:11,340
+Has it actually become less common
+
+88
+00:03:11,340 --> 00:03:13,980
+for tickets to be underpriced?
+
+89
+00:03:13,980 --> 00:03:14,820
+Or have you noticed?
+
+90
+00:03:14,820 --> 00:03:16,900
+So how common is it that, say,
+
+91
+00:03:16,900 --> 00:03:19,140
+tickets for popular concerts sell out
+
+92
+00:03:19,140 --> 00:03:21,660
+within a few minutes and then there's no way
+
+93
+00:03:21,660 --> 00:03:22,860
+of getting tickets?
+
+94
+00:03:22,860 --> 00:03:23,820
+It's still common.
+
+95
+00:03:23,820 --> 00:03:26,700
+It's still common, so maybe it's possibly less common
+
+96
+00:03:26,700 --> 00:03:28,100
+than it used to be, but again,
+
+97
+00:03:28,100 --> 00:03:29,100
+this is something where I can't tell
+
+98
+00:03:29,100 --> 00:03:30,140
+whether I've just gotten older
+
+99
+00:03:30,140 --> 00:03:32,380
+and so I don't talk to people who complain about it
+
+100
+00:03:32,380 --> 00:03:34,380
+or whether the world has actually changed.
+
+101
+00:03:34,380 --> 00:03:36,120
+It's certainly much easier to resell stuff
+
+102
+00:03:36,120 --> 00:03:37,220
+than it used to be.
+
+103
+00:03:37,220 --> 00:03:38,060
+Yeah.
+
+104
+00:03:38,060 --> 00:03:40,060
+So it may be that the actual harm of the norms
+
+105
+00:03:40,060 --> 00:03:42,340
+is much less because now they get bought up quickly
+
+106
+00:03:42,340 --> 00:03:43,580
+and then they get resold quickly,
+
+107
+00:03:43,580 --> 00:03:46,260
+and then in the end, it's still going to be rich people
+
+108
+00:03:46,260 --> 00:03:48,940
+who are the ones who attend the concerts.
+
+109
+00:03:48,940 --> 00:03:50,620
+So that might be what's going on.
+
+110
+00:03:50,620 --> 00:03:51,940
+Isn't there an embarrassment factor there
+
+111
+00:03:51,940 --> 00:03:53,540
+if you don't sell out?
+
+112
+00:03:53,540 --> 00:03:54,380
+I mean, you wanna-
+
+113
+00:03:54,380 --> 00:03:55,940
+Yeah, so that is a theory people are told,
+
+114
+00:03:55,940 --> 00:04:00,100
+but normally people say there's sort of like a pride factor
+
+115
+00:04:00,100 --> 00:04:02,620
+in selling out, but couldn't there also be a pride factor
+
+116
+00:04:02,620 --> 00:04:06,320
+in charging a normal ticket price successfully?
+
+117
+00:04:07,340 --> 00:04:09,120
+So similarly, it seems like there could be a shame factor
+
+118
+00:04:09,120 --> 00:04:11,340
+in making your tickets really cheap, right?
+
+119
+00:04:11,340 --> 00:04:13,740
+So like if the tickets are a dollar, wow, we sold out,
+
+120
+00:04:13,740 --> 00:04:15,300
+but that's pretty embarrassing.
+
+121
+00:04:16,140 --> 00:04:18,700
+So I mean, there is a theory that you get some advertising
+
+122
+00:04:18,700 --> 00:04:22,700
+out of the news saying tickets sold out instantly, maybe,
+
+123
+00:04:22,700 --> 00:04:25,500
+but like, what's it feel like if they always sell out,
+
+124
+00:04:25,500 --> 00:04:27,700
+then why do you want that advertising?
+
+125
+00:04:27,700 --> 00:04:30,140
+It's not so clear what the point of that is.
+
+126
+00:04:30,140 --> 00:04:30,980
+All right.
+
+127
+00:04:32,340 --> 00:04:35,500
+So when we do labor economics, we'll talk more about
+
+128
+00:04:35,500 --> 00:04:37,940
+the role of fairness norms in labor markets.
+
+129
+00:04:37,940 --> 00:04:40,180
+You know, over time, I've become more and more convinced
+
+130
+00:04:40,180 --> 00:04:43,740
+that actually labor markets are heavily affected
+
+131
+00:04:43,740 --> 00:04:46,820
+by these norms and very much for the worse.
+
+132
+00:04:46,820 --> 00:04:49,740
+It would be far better if people would just have
+
+133
+00:04:49,740 --> 00:04:52,020
+a more Vulcan attitude about it and realize
+
+134
+00:04:52,020 --> 00:04:53,940
+it's only business, it's not personal,
+
+135
+00:04:53,940 --> 00:04:56,260
+there's no reason to get offended about the way
+
+136
+00:04:56,260 --> 00:04:58,620
+that people pay, and there's certainly no reason
+
+137
+00:04:58,620 --> 00:05:00,780
+to try to get revenge on someone.
+
+138
+00:05:00,780 --> 00:05:03,700
+And in fact, this would lead to higher levels of employment,
+
+139
+00:05:03,700 --> 00:05:06,820
+lower unemployment, more rapid recoveries and recessions,
+
+140
+00:05:06,820 --> 00:05:08,260
+but we'll talk about that more when we get
+
+141
+00:05:08,260 --> 00:05:10,120
+to the labor economics section.
+
+142
+00:05:11,720 --> 00:05:13,380
+All right, questions, questions.
+
+143
+00:05:13,380 --> 00:05:15,620
+Anyone bringing about anything?
+
+144
+00:05:15,620 --> 00:05:18,740
+All right, then let's move on to a topic
+
+145
+00:05:18,740 --> 00:05:21,740
+that I have researched and therefore super important.
+
+146
+00:05:21,740 --> 00:05:22,940
+This is an endogenous, right?
+
+147
+00:05:22,940 --> 00:05:26,300
+I wouldn't research it unless it's super important.
+
+148
+00:05:26,300 --> 00:05:30,060
+All right, now, have you ever heard an economist say,
+
+149
+00:05:30,060 --> 00:05:32,420
+preferences explain everything and therefore nothing,
+
+150
+00:05:32,420 --> 00:05:34,220
+or something like that?
+
+151
+00:05:34,220 --> 00:05:36,620
+All right, so, so you say, well, maybe what happened
+
+152
+00:05:36,620 --> 00:05:39,820
+is that people just started liking heavy metal music more.
+
+153
+00:05:39,820 --> 00:05:40,660
+Right, and then economists say,
+
+154
+00:05:40,660 --> 00:05:43,220
+no, that's not a good explanation.
+
+155
+00:05:43,220 --> 00:05:45,580
+You can explain anything with preferences.
+
+156
+00:05:45,580 --> 00:05:46,500
+And explain anything,
+
+157
+00:05:46,500 --> 00:05:48,780
+they didn't really explain anything at all.
+
+158
+00:05:48,780 --> 00:05:51,380
+All right, so this attitude all comes back
+
+159
+00:05:51,380 --> 00:05:55,020
+to an article by Gary Becker and George Stigler,
+
+160
+00:05:55,020 --> 00:05:58,220
+where they made an argument that is so odd,
+
+161
+00:05:58,220 --> 00:05:59,860
+it really must be read to be believed,
+
+162
+00:05:59,860 --> 00:06:01,460
+but I will just tell you what they said,
+
+163
+00:06:01,460 --> 00:06:04,260
+and if you don't believe me, you can go and double check.
+
+164
+00:06:04,260 --> 00:06:07,820
+So what they said is, constant preferences,
+
+165
+00:06:07,820 --> 00:06:09,980
+or again, constant or also called staples,
+
+166
+00:06:09,980 --> 00:06:13,340
+stable, constant preferences, that's not really enough.
+
+167
+00:06:13,340 --> 00:06:14,660
+You know, and when it's not just preferences,
+
+168
+00:06:14,660 --> 00:06:17,020
+that's not enough, you know what we need to assume?
+
+169
+00:06:17,020 --> 00:06:18,500
+Identical preferences.
+
+170
+00:06:20,700 --> 00:06:21,580
+See, well, what do you mean
+
+171
+00:06:21,580 --> 00:06:23,180
+you're gonna assume identical preferences?
+
+172
+00:06:23,180 --> 00:06:25,060
+We're gonna assume that all human beings
+
+173
+00:06:25,060 --> 00:06:27,700
+throughout all human history in every country and society
+
+174
+00:06:27,700 --> 00:06:29,260
+have wanted exactly the same things
+
+175
+00:06:29,260 --> 00:06:32,260
+and have had exactly the same fundamental utility function.
+
+176
+00:06:33,500 --> 00:06:36,420
+But they totally don't, right?
+
+177
+00:06:36,420 --> 00:06:40,060
+Some people really like football and others don't, right?
+
+178
+00:06:40,060 --> 00:06:41,900
+And this is where Becker and Stigler say,
+
+179
+00:06:41,900 --> 00:06:44,460
+well, that's what a naive person would think,
+
+180
+00:06:44,460 --> 00:06:47,460
+but the real story, the real story,
+
+181
+00:06:47,460 --> 00:06:50,260
+is that football fans face different constraints
+
+182
+00:06:50,260 --> 00:06:53,980
+than non-football fans, and that's what's going on.
+
+183
+00:06:53,980 --> 00:06:54,820
+Like what?
+
+184
+00:06:54,820 --> 00:06:56,660
+Well, I mean, they must have some kind
+
+185
+00:06:56,660 --> 00:06:58,820
+of different price factors or income,
+
+186
+00:06:58,820 --> 00:07:01,100
+a specialized income that they're having,
+
+187
+00:07:01,100 --> 00:07:03,220
+or it may be that they had more time
+
+188
+00:07:03,220 --> 00:07:05,460
+to build up a certain kind of human capital
+
+189
+00:07:05,460 --> 00:07:08,780
+that allows them to appreciate football games,
+
+190
+00:07:08,780 --> 00:07:11,500
+and then another person might have spent their life
+
+191
+00:07:11,500 --> 00:07:13,740
+building up the human capital to appreciate books,
+
+192
+00:07:13,740 --> 00:07:15,860
+but it's not that one person is a book person
+
+193
+00:07:15,860 --> 00:07:17,420
+and another one's a sports person.
+
+194
+00:07:17,420 --> 00:07:19,700
+It's that they had prior investments
+
+195
+00:07:19,700 --> 00:07:22,220
+which went and changed their production function
+
+196
+00:07:22,220 --> 00:07:24,740
+for utility, but fundamentally,
+
+197
+00:07:24,740 --> 00:07:26,380
+everyone's got the same function.
+
+198
+00:07:27,860 --> 00:07:30,860
+Now, I think they would be okay if you were to say,
+
+199
+00:07:30,860 --> 00:07:33,340
+like some people are born smarter than others,
+
+200
+00:07:33,340 --> 00:07:36,260
+and it's easy for a smart person to appreciate a book
+
+201
+00:07:36,260 --> 00:07:38,420
+than for a not-so-smart person.
+
+202
+00:07:38,420 --> 00:07:39,860
+I think they might be okay with that,
+
+203
+00:07:39,860 --> 00:07:42,100
+because they say, ah, so then it's the people,
+
+204
+00:07:42,100 --> 00:07:44,180
+everybody has the same utility function,
+
+205
+00:07:44,180 --> 00:07:46,020
+which is everyone receives utility
+
+206
+00:07:46,020 --> 00:07:48,860
+from understanding books that they read,
+
+207
+00:07:48,860 --> 00:07:50,780
+and then smart people can get the utility
+
+208
+00:07:50,780 --> 00:07:52,700
+because they're able to understand the books,
+
+209
+00:07:52,700 --> 00:07:54,900
+and not-so-smart people can't get utility from that
+
+210
+00:07:54,900 --> 00:07:56,740
+because they can't understand the books,
+
+211
+00:07:56,740 --> 00:07:58,300
+so then it's the same utility function
+
+212
+00:07:58,300 --> 00:08:01,380
+but a different constraint and the theory of sound,
+
+213
+00:08:01,380 --> 00:08:03,300
+and that's the way they put it,
+
+214
+00:08:03,300 --> 00:08:05,300
+and I think they actually, yes,
+
+215
+00:08:05,300 --> 00:08:09,020
+so I think this might be a footnote
+
+216
+00:08:09,020 --> 00:08:10,500
+where they talk about things like,
+
+217
+00:08:10,500 --> 00:08:12,100
+well, what about Jews keeping kosher?
+
+218
+00:08:12,100 --> 00:08:14,900
+Doesn't that just mean that Jews like keeping kosher?
+
+219
+00:08:14,900 --> 00:08:18,140
+And they say, well, that's not good enough, really,
+
+220
+00:08:18,140 --> 00:08:21,620
+because, well, first of all, they don't have to be Jews.
+
+221
+00:08:23,580 --> 00:08:26,100
+So you may say it's part of being part of that religion,
+
+222
+00:08:26,100 --> 00:08:28,020
+but you could just say, fine,
+
+223
+00:08:28,020 --> 00:08:30,300
+give me your theory about why they're in that religion.
+
+224
+00:08:30,300 --> 00:08:32,020
+Say, well, their tastes were formed at a young age.
+
+225
+00:08:32,020 --> 00:08:33,460
+No, no, no, no, no, no, no.
+
+226
+00:08:33,460 --> 00:08:35,340
+No, you can't say that your tastes are formed
+
+227
+00:08:35,340 --> 00:08:37,080
+by being raised in a religion.
+
+228
+00:08:37,080 --> 00:08:41,100
+That's violating the identical preferences assumption.
+
+229
+00:08:41,100 --> 00:08:42,500
+Now, if you were to go and reframe it
+
+230
+00:08:42,500 --> 00:08:46,540
+and say, fine, they built up Jewish human capital,
+
+231
+00:08:46,540 --> 00:08:48,460
+which other people don't build up,
+
+232
+00:08:48,460 --> 00:08:51,420
+and so the fundamental utility function is not different,
+
+233
+00:08:51,420 --> 00:08:53,420
+that's okay, although even there,
+
+234
+00:08:53,420 --> 00:08:56,460
+they'd be, wait, it sounds like you're making fun of me now.
+
+235
+00:08:56,460 --> 00:08:59,660
+But any case, Stigler and Becker
+
+236
+00:08:59,660 --> 00:09:02,060
+were enormously influential with this work,
+
+237
+00:09:02,060 --> 00:09:03,900
+and even economists who have no idea
+
+238
+00:09:03,900 --> 00:09:05,100
+where this idea came from,
+
+239
+00:09:05,100 --> 00:09:07,620
+or often are themselves, whenever you say, well,
+
+240
+00:09:07,620 --> 00:09:10,100
+here's my theory about why people are doing it.
+
+241
+00:09:10,100 --> 00:09:11,580
+The people who are doing it like it,
+
+242
+00:09:11,580 --> 00:09:13,340
+and the people who aren't doing it don't like it.
+
+243
+00:09:13,340 --> 00:09:15,980
+Well, there's nothing else for economics to say.
+
+244
+00:09:15,980 --> 00:09:18,540
+Why is it that some people are eating the chocolate ice cream
+
+245
+00:09:18,540 --> 00:09:20,140
+and some are eating the vanilla?
+
+246
+00:09:21,340 --> 00:09:24,420
+And it's the same price for all the ice cream.
+
+247
+00:09:24,420 --> 00:09:26,460
+Some people like chocolate, some like vanilla.
+
+248
+00:09:26,460 --> 00:09:27,700
+It's in the utility function.
+
+249
+00:09:27,700 --> 00:09:29,540
+There's nothing more to say,
+
+250
+00:09:29,540 --> 00:09:32,460
+and yet I've heard economists say, oh, no, no, no, no.
+
+251
+00:09:32,460 --> 00:09:34,280
+You can explain anything that way.
+
+252
+00:09:34,280 --> 00:09:36,220
+Like then if you saw someone drinking motor oil,
+
+253
+00:09:36,220 --> 00:09:38,220
+you could say, well, he likes motor oil.
+
+254
+00:09:39,340 --> 00:09:40,860
+So, no, no, no.
+
+255
+00:09:40,860 --> 00:09:43,380
+There's gotta be a better explanation
+
+256
+00:09:43,380 --> 00:09:45,620
+for why some people are eating chocolate ice cream
+
+257
+00:09:45,620 --> 00:09:47,060
+and others are eating vanilla.
+
+258
+00:09:48,060 --> 00:09:49,820
+And again, the story, and again, it comes down to,
+
+259
+00:09:49,820 --> 00:09:51,580
+it's not really, what you're doing isn't science
+
+260
+00:09:51,580 --> 00:09:53,140
+because it explains everything.
+
+261
+00:09:54,300 --> 00:09:57,620
+All right, now, what I see in response is
+
+262
+00:09:57,620 --> 00:09:59,580
+there's actually a lot of empirical evidence
+
+263
+00:09:59,580 --> 00:10:00,980
+that's just not true.
+
+264
+00:10:00,980 --> 00:10:02,940
+So I have a paper in the Journal of Economic Behavior
+
+265
+00:10:02,940 --> 00:10:05,380
+and Organization on personality economics.
+
+266
+00:10:05,380 --> 00:10:06,780
+Now, personality is an area
+
+267
+00:10:06,780 --> 00:10:09,060
+that almost no economists have studied.
+
+268
+00:10:09,060 --> 00:10:11,220
+At the time that I wrote, very few had.
+
+269
+00:10:11,220 --> 00:10:13,620
+Since I did it, James Heckman got interested,
+
+270
+00:10:13,620 --> 00:10:14,980
+and so he's done a bunch of papers,
+
+271
+00:10:14,980 --> 00:10:16,900
+and his co-authors have done a bunch of papers.
+
+272
+00:10:16,900 --> 00:10:18,940
+It's still a very small number.
+
+273
+00:10:18,940 --> 00:10:22,400
+But anyway, in this paper, I go over a whole lot of evidence
+
+274
+00:10:22,400 --> 00:10:25,060
+from personality psychology that indicates
+
+275
+00:10:25,060 --> 00:10:26,900
+that there is a high degree of preference heterogeneity.
+
+276
+00:10:26,900 --> 00:10:29,180
+Human beings don't have identical preferences.
+
+277
+00:10:29,180 --> 00:10:32,300
+For example, the reason why some people are librarians
+
+278
+00:10:32,300 --> 00:10:33,820
+and other people are salesmen
+
+279
+00:10:33,820 --> 00:10:36,740
+isn't that some people just randomly started acquiring
+
+280
+00:10:36,740 --> 00:10:38,380
+librarian human capital
+
+281
+00:10:38,380 --> 00:10:39,540
+and others started randomly acquiring
+
+282
+00:10:39,540 --> 00:10:40,980
+salesman human capital.
+
+283
+00:10:40,980 --> 00:10:44,820
+Instead, some people were born very introverted,
+
+284
+00:10:44,820 --> 00:10:46,780
+some people were born very extroverted,
+
+285
+00:10:46,780 --> 00:10:49,660
+and if this is the way that you were born,
+
+286
+00:10:49,660 --> 00:10:51,220
+well, if you were born as an introvert,
+
+287
+00:10:51,220 --> 00:10:53,300
+being a librarian sounds like a much better job
+
+288
+00:10:53,300 --> 00:10:54,140
+than being a salesman,
+
+289
+00:10:54,140 --> 00:10:55,260
+where if you were born extroverted,
+
+290
+00:10:55,260 --> 00:10:56,940
+being a salesman seems like a much better job
+
+291
+00:10:56,940 --> 00:10:58,740
+than being a librarian.
+
+292
+00:10:58,740 --> 00:11:00,900
+Right, and lo and behold, we can use personality
+
+293
+00:11:00,900 --> 00:11:03,660
+to go and predict occupational choice very well, actually.
+
+294
+00:11:03,660 --> 00:11:06,460
+It's one of the best predictors of occupational choice
+
+295
+00:11:06,460 --> 00:11:08,320
+is what your personality is.
+
+296
+00:11:08,320 --> 00:11:09,900
+Almost every personality element
+
+297
+00:11:09,900 --> 00:11:12,780
+has some predictable occupational profile.
+
+298
+00:11:12,780 --> 00:11:16,580
+Like, you can think about the profile of a typical economist.
+
+299
+00:11:16,580 --> 00:11:20,080
+A typical economist, like a touchy-feely person?
+
+300
+00:11:21,020 --> 00:11:25,820
+No, typical economist is a hard-headed, hard-hearted person.
+
+301
+00:11:25,820 --> 00:11:29,300
+That's not the only profile found in economics,
+
+302
+00:11:29,300 --> 00:11:31,260
+but it's extraordinarily common
+
+303
+00:11:31,260 --> 00:11:33,660
+compared to the general population economics,
+
+304
+00:11:33,660 --> 00:11:35,060
+and there's a bunch of other occupations
+
+305
+00:11:35,060 --> 00:11:36,660
+that have similar personality profiles.
+
+306
+00:11:36,660 --> 00:11:38,580
+So, what are some other occupations
+
+307
+00:11:38,580 --> 00:11:41,580
+that just have a lot of your cold, hard-headed people?
+
+308
+00:11:41,580 --> 00:11:45,340
+Your charts and graphs, show me the numbers kind of people.
+
+309
+00:11:45,340 --> 00:11:46,180
+Bankers.
+
+310
+00:11:46,180 --> 00:11:47,300
+Bankers, yeah.
+
+311
+00:11:47,300 --> 00:11:48,140
+Statisticians.
+
+312
+00:11:48,140 --> 00:11:50,460
+Statisticians, lawyers.
+
+313
+00:11:50,460 --> 00:11:51,300
+Prison guards.
+
+314
+00:11:51,300 --> 00:11:53,700
+Yeah, prison, I don't, so prison guards are,
+
+315
+00:11:53,700 --> 00:11:55,500
+I'll say like, they're similar in that,
+
+316
+00:11:55,500 --> 00:11:58,220
+although prison guards are not very curious
+
+317
+00:11:58,220 --> 00:11:59,180
+or interested in ideas.
+
+318
+00:11:59,180 --> 00:12:01,500
+Whereas economists are, so there's that difference, yeah.
+
+319
+00:12:01,500 --> 00:12:03,180
+So, yeah.
+
+320
+00:12:03,180 --> 00:12:05,620
+So, there's all kinds of differences,
+
+321
+00:12:05,620 --> 00:12:07,700
+so we can give you, so let's see.
+
+322
+00:12:07,700 --> 00:12:08,860
+Yeah, we're out of time already,
+
+323
+00:12:08,860 --> 00:12:11,260
+so we'll talk more about some of the fun facts
+
+324
+00:12:11,260 --> 00:12:13,140
+about occupation and personality next class,
+
+325
+00:12:13,140 --> 00:12:14,600
+but let's keep going.
+
+326
+00:12:15,460 --> 00:12:17,860
+All right, and again, if you are missing any handouts
+
+327
+00:12:17,860 --> 00:12:20,460
+or you haven't given me your homework, please do so.
+
+328
+00:12:22,940 --> 00:12:24,060
+Are you familiar with the film
+
+329
+00:12:24,060 --> 00:12:25,860
+The Americanization of Emily?
+
+330
+00:12:25,860 --> 00:12:27,260
+Yes, I am, yeah, very good.
+
+331
+00:12:27,260 --> 00:12:28,100
+Yep, yep.
+
+

@@ -1,0 +1,629 @@
+1
+00:00:00,000 --> 00:00:04,000
+Right, so if you very rarely interact with them.
+
+2
+00:00:04,000 --> 00:00:09,000
+So, yeah, this is something where you probably want to modify the model so that if you,
+
+3
+00:00:09,000 --> 00:00:12,000
+like you want to speak a language that is common enough,
+
+4
+00:00:12,000 --> 00:00:15,000
+but if there would be a high cost of going and switching,
+
+5
+00:00:15,000 --> 00:00:18,000
+then you may want to stick with whatever language you started with.
+
+6
+00:00:18,000 --> 00:00:24,000
+So, yeah, it's true that every year there are a lot of rare languages that are dying out and becoming extinct.
+
+7
+00:00:24,000 --> 00:00:28,000
+Right, so there is a general tendency towards this, but it is slow.
+
+8
+00:00:28,000 --> 00:00:32,000
+You may wonder whether the tendency is so slow that it will take 10,000 years.
+
+9
+00:00:32,000 --> 00:00:35,000
+Right, so that is possible.
+
+10
+00:00:35,000 --> 00:00:38,000
+So, anyway, language is one nice example.
+
+11
+00:00:38,000 --> 00:00:39,000
+Yes?
+
+12
+00:00:39,000 --> 00:00:45,000
+Could you do that type of analysis of languages as if languages were public goods?
+
+13
+00:00:45,000 --> 00:00:52,000
+I mean, similarly, in the sense that if you are 50-50, then the N is probably very high,
+
+14
+00:00:52,000 --> 00:00:55,000
+therefore you don't want to coordinate, or it's very...
+
+15
+00:00:55,000 --> 00:00:58,000
+Yeah, well, again, public goods and coordination are actually very different.
+
+16
+00:00:58,000 --> 00:01:02,000
+The whole idea with public goods is that whatever everybody else is doing, you don't want to help.
+
+17
+00:01:02,000 --> 00:01:07,000
+With coordination, on the other hand, is that if other people are doing it, you want to do it, too.
+
+18
+00:01:07,000 --> 00:01:12,000
+So, again, if speaking English were a prisoner's limit, then probably no one would speak English.
+
+19
+00:01:12,000 --> 00:01:16,000
+Since it's a coordination game, if other people are doing it, you want to do it, too.
+
+20
+00:01:16,000 --> 00:01:19,000
+So, like, you know, a big difference.
+
+21
+00:01:19,000 --> 00:01:22,000
+Now, you can also say the same thing about culture in general.
+
+22
+00:01:22,000 --> 00:01:26,000
+So, if you look around the room, you'll notice that I don't think any two of us are wearing exactly the same clothes,
+
+23
+00:01:26,000 --> 00:01:29,000
+but there's a lot of commonalities in the clothes that we wear.
+
+24
+00:01:29,000 --> 00:01:34,000
+Right? Like, none of us have clothes that have, like, a covering of our face.
+
+25
+00:01:34,000 --> 00:01:36,000
+Right? So, like, none of us are wearing masks.
+
+26
+00:01:36,000 --> 00:01:38,000
+Like, why not?
+
+27
+00:01:38,000 --> 00:01:40,000
+So, see, there's comfort.
+
+28
+00:01:40,000 --> 00:01:41,000
+Mask week is next week.
+
+29
+00:01:41,000 --> 00:01:42,000
+Yes.
+
+30
+00:01:42,000 --> 00:01:44,000
+Right? You have a set of, like, you know, if you were...
+
+31
+00:01:44,000 --> 00:01:46,000
+Imagine you were a society where everybody wore masks.
+
+32
+00:01:46,000 --> 00:01:49,000
+You would probably wear one, too, just to fit in.
+
+33
+00:01:49,000 --> 00:01:51,000
+Right? And there are many other things like this.
+
+34
+00:01:51,000 --> 00:01:58,000
+So, for example, how hard should you encourage a guest at your home to eat food?
+
+35
+00:01:58,000 --> 00:02:01,000
+So, there is the American norm where you say, would you like some food?
+
+36
+00:02:01,000 --> 00:02:03,000
+And if the person says yes, you give it to them.
+
+37
+00:02:03,000 --> 00:02:05,000
+And if they say no, then you don't give it to them.
+
+38
+00:02:05,000 --> 00:02:07,000
+And that's it.
+
+39
+00:02:07,000 --> 00:02:10,000
+But on the other hand, if you're in a Romanian home, they have a totally different rule.
+
+40
+00:02:10,000 --> 00:02:15,000
+And the rule is they offer you food and you say no, and then they insist.
+
+41
+00:02:15,000 --> 00:02:20,000
+And if you don't want it, then you say no again, and they will then insist even more strongly.
+
+42
+00:02:20,000 --> 00:02:23,000
+And then they may try to actually put it on your plate when you don't want it.
+
+43
+00:02:23,000 --> 00:02:25,000
+And then you may need to move your plate.
+
+44
+00:02:25,000 --> 00:02:29,000
+And in this system, if you...
+
+45
+00:02:29,000 --> 00:02:30,000
+Like, it can be rude just to...
+
+46
+00:02:30,000 --> 00:02:34,000
+It can be rude not to refuse even when you do want.
+
+47
+00:02:34,000 --> 00:02:35,000
+Right?
+
+48
+00:02:35,000 --> 00:02:38,000
+And both systems can work well if everybody accepts the norm.
+
+49
+00:02:38,000 --> 00:02:42,000
+So, in the U.S., if both people accept the norm of I offer, and if you want it, you say yes.
+
+50
+00:02:42,000 --> 00:02:44,000
+And if you don't, you say no, and that's it.
+
+51
+00:02:44,000 --> 00:02:49,000
+In that case, the guest gets the food and the host feels like they've been a good host.
+
+52
+00:02:49,000 --> 00:02:56,000
+On the other hand, if you have two Romanians together, then the Romanian host offers and the guest politely refuses,
+
+53
+00:02:56,000 --> 00:03:02,000
+and then the host offers again, and then the guest may then accept at that point, and then everybody's happy.
+
+54
+00:03:02,000 --> 00:03:10,000
+But if you mix up the American with a Romanian, then you can have the unpleasant situation where one person keeps pushing
+
+55
+00:03:10,000 --> 00:03:13,000
+and the other person doesn't know how to not receive food they don't want.
+
+56
+00:03:13,000 --> 00:03:20,000
+And then there's a breakdown and people get more upset or upset.
+
+57
+00:03:20,000 --> 00:03:21,000
+All right.
+
+58
+00:03:21,000 --> 00:03:22,000
+So, lots of examples.
+
+59
+00:03:22,000 --> 00:03:24,000
+So, like many other cultural examples you can think of.
+
+60
+00:03:24,000 --> 00:03:25,000
+Yes?
+
+61
+00:03:25,000 --> 00:03:27,000
+The song, Baby, It's Cold Outside.
+
+62
+00:03:27,000 --> 00:03:28,000
+No, don't...
+
+63
+00:03:28,000 --> 00:03:33,000
+Christmas song called, Baby, It's Cold Outside, where this guy's trying to get her to stay over,
+
+64
+00:03:33,000 --> 00:03:35,000
+and she also wants to stay over, and that's what the song is about.
+
+65
+00:03:35,000 --> 00:03:36,000
+Ah, okay.
+
+66
+00:03:36,000 --> 00:03:40,000
+And she keeps making up reasons, like, why she should go.
+
+67
+00:03:40,000 --> 00:03:41,000
+And it's basically the same thing.
+
+68
+00:03:41,000 --> 00:03:42,000
+Yeah, yeah.
+
+69
+00:03:42,000 --> 00:03:45,000
+So, again, like, some cultures are very straightforward, others are not.
+
+70
+00:03:45,000 --> 00:03:50,000
+I remember philosopher John Searle was telling me that he said, like, you know, so he was American,
+
+71
+00:03:50,000 --> 00:03:52,000
+but he said, you know, be at international philosophy conferences,
+
+72
+00:03:52,000 --> 00:03:59,000
+and you would see two extremely different cultural norms about how much personal space a person needs to have a conversation.
+
+73
+00:03:59,000 --> 00:04:05,000
+So, like, the British norm, like, you need, like, a good four-foot gap to have a proper conversation.
+
+74
+00:04:05,000 --> 00:04:09,000
+And the Italian norm, maximum, like, six inches.
+
+75
+00:04:09,000 --> 00:04:17,000
+So, you know, he said you could actually look and you could see, like, the Italians almost literally chasing the Brits around the room.
+
+76
+00:04:17,000 --> 00:04:23,000
+Because the Italian keeps trying to get close enough to talk, and the Brit keeps trying to get far enough away to have a conversation.
+
+77
+00:04:23,000 --> 00:04:24,000
+Right?
+
+78
+00:04:24,000 --> 00:04:28,000
+And, again, as long as both sides have the same cultural norm, then there'd be no problem.
+
+79
+00:04:28,000 --> 00:04:34,000
+But when you have two incompatible norms, then you do have this difficulty.
+
+80
+00:04:34,000 --> 00:04:40,000
+So, coordination needs have been invoked to explain culture, and a lot of this makes a lot of sense.
+
+81
+00:04:40,000 --> 00:04:42,000
+Okay.
+
+82
+00:04:42,000 --> 00:04:44,000
+So, coordination needs have been used for technology.
+
+83
+00:04:44,000 --> 00:04:46,000
+Remember I mentioned this path-dependence literature?
+
+84
+00:04:46,000 --> 00:04:51,000
+So, again, the idea is that there are some technologies where the reason to have it is that other people have it.
+
+85
+00:04:51,000 --> 00:04:59,000
+So, when I was first teaching this class, there were two competing standards for the next-generation DVDs.
+
+86
+00:04:59,000 --> 00:05:00,000
+Right?
+
+87
+00:05:00,000 --> 00:05:05,000
+So, there's the one that won, which is Blu-rays, and then there's a totally different standard, which had a better name.
+
+88
+00:05:05,000 --> 00:05:07,000
+HD-DVD.
+
+89
+00:05:07,000 --> 00:05:08,000
+Very intuitive.
+
+90
+00:05:08,000 --> 00:05:09,000
+Right?
+
+91
+00:05:09,000 --> 00:05:11,000
+It's like high-definition DVD.
+
+92
+00:05:11,000 --> 00:05:12,000
+But Blu-ray actually won.
+
+93
+00:05:12,000 --> 00:05:13,000
+Right?
+
+94
+00:05:13,000 --> 00:05:18,000
+But there was a period, about two years, when they were both fighting to become the winner.
+
+95
+00:05:18,000 --> 00:05:22,000
+And during this period, there were an enormous number of people, including me, who just didn't buy either,
+
+96
+00:05:22,000 --> 00:05:28,000
+because we were waiting for coordination to kick in and wanted to dig over so we wouldn't need to go and get two players,
+
+97
+00:05:28,000 --> 00:05:33,000
+or make the wrong bet and then be stuck with a player that didn't work, which a bunch of people did.
+
+98
+00:05:33,000 --> 00:05:36,000
+I made the wrong bet.
+
+99
+00:05:36,000 --> 00:05:38,000
+You must be getting one at a very young age.
+
+100
+00:05:38,000 --> 00:05:39,000
+Yes.
+
+101
+00:05:39,000 --> 00:05:40,000
+Ah, all right.
+
+102
+00:05:40,000 --> 00:05:43,000
+So, anyway, that's one case.
+
+103
+00:05:43,000 --> 00:05:46,000
+Or, again, think about credit cards of a certain size.
+
+104
+00:05:46,000 --> 00:05:52,000
+Would any bank want to go and come up with a double-sized credit card?
+
+105
+00:05:52,000 --> 00:05:53,000
+Right?
+
+106
+00:05:53,000 --> 00:05:56,000
+Here, we have our new double-sized credit cards.
+
+107
+00:05:56,000 --> 00:05:58,000
+Right? They're great.
+
+108
+00:05:58,000 --> 00:06:06,000
+And, again, even if it was better, who would want one, given that it wouldn't fit in anyone else's machines?
+
+109
+00:06:06,000 --> 00:06:08,000
+You wouldn't swipe it anywhere.
+
+110
+00:06:08,000 --> 00:06:10,000
+It wouldn't fit in wallets.
+
+111
+00:06:10,000 --> 00:06:16,000
+So this is one where you want to go and have the same dimensions for your technology as everybody else.
+
+112
+00:06:16,000 --> 00:06:18,000
+Regardless of anyone.
+
+113
+00:06:18,000 --> 00:06:24,000
+Even if the other one had some extra merits, you still would have a reason to want to just have the same technology as everybody else.
+
+114
+00:06:24,000 --> 00:06:27,000
+It sounds like something Steve Jobs would do.
+
+115
+00:06:27,000 --> 00:06:28,000
+Yeah, maybe.
+
+116
+00:06:28,000 --> 00:06:34,000
+So, of course, if you're a really big player, you might think, I'm so important in this world that I can change the world.
+
+117
+00:06:34,000 --> 00:06:37,000
+I can get everyone to switch over to my new thing.
+
+118
+00:06:37,000 --> 00:06:41,000
+So, in that case, maybe you could.
+
+119
+00:06:41,000 --> 00:06:42,000
+All right.
+
+120
+00:06:42,000 --> 00:06:43,000
+So, anyway, technology reviews.
+
+121
+00:06:43,000 --> 00:06:45,000
+And then location is another great example.
+
+122
+00:06:45,000 --> 00:06:49,000
+So Paul Krugman is still bitter that his work on location hasn't really caught on.
+
+123
+00:06:49,000 --> 00:06:55,000
+I think he probably has hundreds of citations, but Paul Krugman is a high stander for how successful his work has to be.
+
+124
+00:06:55,000 --> 00:06:57,000
+But it comes down to this.
+
+125
+00:06:57,000 --> 00:06:59,000
+Why do you want to use Manhattan in Manhattan?
+
+126
+00:06:59,000 --> 00:07:02,000
+Isn't that a stupid place to have Manhattan?
+
+127
+00:07:02,000 --> 00:07:06,000
+It gets cold and you're on an island, so it's inconvenient to get in and out.
+
+128
+00:07:06,000 --> 00:07:09,000
+And the land supply is very low.
+
+129
+00:07:09,000 --> 00:07:16,000
+Why not just take everyone on Manhattan, everything on Manhattan, and move it to Florida?
+
+130
+00:07:16,000 --> 00:07:19,000
+Like a nice, unoccupied area of Florida.
+
+131
+00:07:19,000 --> 00:07:22,000
+Which, of course, is what Walt Disney did for the Magic Kingdom.
+
+132
+00:07:22,000 --> 00:07:26,000
+Because he got a giant unoccupied area and he just built his dream world there.
+
+133
+00:07:26,000 --> 00:07:35,000
+But why not just scoop up the entire area of Manhattan and move everyone to another area where there would no longer be any bridges or tunnels to worry about,
+
+134
+00:07:35,000 --> 00:07:39,000
+where you could expand out easily, and you'd have way better weather.
+
+135
+00:07:39,000 --> 00:07:44,000
+And the coordination answer is, well, you go first.
+
+136
+00:07:44,000 --> 00:07:51,000
+If you're already in Manhattan, you have a good job in Manhattan, and you say, fine, I'm going to move to the middle of nowhere in Florida,
+
+137
+00:07:51,000 --> 00:07:56,000
+what happens is not that you get to have all the benefits of Manhattan combined with all the other great stuff,
+
+138
+00:07:56,000 --> 00:08:01,000
+what happens is that you lose it all because unless everyone moves as a group, you have a problem.
+
+139
+00:08:01,000 --> 00:08:08,000
+Now, if you know the history of cities, what are the best predictors of where a city today will generally be?
+
+140
+00:08:08,000 --> 00:08:11,000
+Where the same city was 100 years ago.
+
+141
+00:08:11,000 --> 00:08:15,000
+And why did cities generally get placed where they are historically?
+
+142
+00:08:15,000 --> 00:08:19,000
+Water. Yes, water is the main reason.
+
+143
+00:08:19,000 --> 00:08:22,000
+So you'll see all these cities are either by coast or by major rivers.
+
+144
+00:08:22,000 --> 00:08:29,000
+Even though now we have a bunch of improvements in transportation, which make it much better to have cities in other places,
+
+145
+00:08:29,000 --> 00:08:32,000
+but yet still on a likelihood, likelihood.
+
+146
+00:08:32,000 --> 00:08:34,000
+So what does it suggest?
+
+147
+00:08:34,000 --> 00:08:38,000
+So I think actually 90% of the U.S. population is within 100 miles of the border even.
+
+148
+00:08:38,000 --> 00:08:41,000
+And most of the other, so an enormous amount of that is just from the coast.
+
+149
+00:08:41,000 --> 00:08:44,000
+So, anyway, that is the reason.
+
+150
+00:08:44,000 --> 00:08:51,000
+So Krugman likes to talk about, like, why is it that almost all carbon production happens in Atlanta, like outside of Atlanta?
+
+151
+00:08:51,000 --> 00:08:56,000
+And there's no particular reason based upon physical inputs or crops or anything else,
+
+152
+00:08:56,000 --> 00:09:01,000
+just that, well, there's some, like, since everybody else is doing it there, you want to do it there too.
+
+153
+00:09:01,000 --> 00:09:07,000
+And of course, like, why go and put your startup in Silicon Valley when the real estate costs are astronomical?
+
+154
+00:09:07,000 --> 00:09:11,000
+It's like, well, because there's a whole lot of other qualified people that are already there.
+
+155
+00:09:11,000 --> 00:09:16,000
+So if I set my business up there, super high cost, but there's a big pool of qualified applicants.
+
+156
+00:09:16,000 --> 00:09:18,000
+So that makes it better.
+
+157
+00:09:18,000 --> 00:09:38,000
+And we will stop here.
+
+

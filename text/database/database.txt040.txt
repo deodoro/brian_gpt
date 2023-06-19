@@ -1,0 +1,13 @@
+1.  A special medical test always  detects the presence of a disease if a person 
+has it; however, 5% of perfectly healthy people will test positive as well (there is 
+a 5% "false positive" rate). Suppose that .1% of people actually  have the 
+disease, and that members of the population are tested at random . 
+True, False, and Explain:  The approximate conditional probability of having the 
+disease given the fact that you test positive is 95%.  (Hint: Remember Bayes 
+Rule!)  
+ 
+FALSE.  A pplying Bayes' Rule, the P(have disease| you tested positive)=  
+ 
+%96.1999.*05. 001.*1001.*1
+. 
+ 

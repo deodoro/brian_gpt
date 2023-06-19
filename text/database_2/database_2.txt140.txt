@@ -1,0 +1,4 @@
+3.  True, False, and Explain: In the real world, risk misperceptions unambiguously reduce the demand for insurance.
+
+False. As Kahneman documents, people tend to either overestimate the risk of low-probability events or treat them as if they have a zero probability. This overestimation could lead individuals to over-insure. Moreover, individuals who are more risk-averse are more likely to buy insurance, but they are also less likely to engage in risky behaviors that make such insurance a good investment for the buyer. Risk-misperceptions may therefore increase demand for insurance rather than just decreasing it. [41]
+ 

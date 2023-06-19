@@ -1,0 +1,1921 @@
+1
+00:00:00,000 --> 00:00:01,960
+you'll probably have tenure before you would even get your
+
+2
+00:00:01,960 --> 00:00:04,200
+first job in history.
+
+3
+00:00:04,200 --> 00:00:06,160
+But if someone were to say, should I do a PhD at all,
+
+4
+00:00:06,160 --> 00:00:09,440
+that's where I would go to, well, do you love this stuff?
+
+5
+00:00:09,440 --> 00:00:13,440
+If yes, then I think it's a very good deal.
+
+6
+00:00:13,440 --> 00:00:18,200
+Otherwise, no, I would not recommend it.
+
+7
+00:00:18,200 --> 00:00:21,880
+So what about if you are a civil servant, you're just
+
+8
+00:00:21,880 --> 00:00:24,120
+here for the pay grade bump from getting the credential?
+
+9
+00:00:27,040 --> 00:00:29,280
+Yeah.
+
+10
+00:00:29,280 --> 00:00:31,800
+Probably not.
+
+11
+00:00:31,800 --> 00:00:33,400
+But it's OK.
+
+12
+00:00:33,400 --> 00:00:35,240
+But it seems like there's way easier ways of doing it.
+
+13
+00:00:39,400 --> 00:00:40,960
+It's actually, if you want to just do it for the civil
+
+14
+00:00:40,960 --> 00:00:43,600
+service pay grade bump, that you might want to just do the
+
+15
+00:00:43,600 --> 00:00:45,880
+easiest graduate degree you can find.
+
+16
+00:00:45,880 --> 00:00:50,680
+Because normally, at least in the military, your pay has
+
+17
+00:00:50,680 --> 00:00:53,240
+something to do with your degree, but nothing to do with
+
+18
+00:00:53,240 --> 00:00:55,120
+your major.
+
+19
+00:00:55,120 --> 00:00:58,920
+So you can get the same pay grade bump in the Air Force
+
+20
+00:00:58,920 --> 00:01:01,960
+from getting a history degree or something, although those
+
+21
+00:01:01,960 --> 00:01:03,640
+degrees do take forever to finish.
+
+22
+00:01:03,640 --> 00:01:05,560
+And the military normally says, if you don't finish in
+
+23
+00:01:05,560 --> 00:01:07,920
+three years, we all do that.
+
+24
+00:01:07,920 --> 00:01:11,160
+So anyway, that's a weird case.
+
+25
+00:01:11,160 --> 00:01:14,160
+But anyway, I would say the reason to be here is because
+
+26
+00:01:14,160 --> 00:01:15,840
+you love the subject and you are dying to
+
+27
+00:01:15,840 --> 00:01:17,120
+work in the subject.
+
+28
+00:01:17,120 --> 00:01:20,560
+And otherwise, I will say it's not a bad path, but I don't
+
+29
+00:01:20,560 --> 00:01:22,800
+think it's a good idea for you to be here.
+
+30
+00:01:22,800 --> 00:01:23,280
+Yeah.
+
+31
+00:01:23,280 --> 00:01:26,680
+And this means you should count the utility value.
+
+32
+00:01:26,680 --> 00:01:26,960
+Yeah.
+
+33
+00:01:26,960 --> 00:01:28,960
+So when you're doing it, of course, you can put a dollar
+
+34
+00:01:28,960 --> 00:01:30,760
+value on your job satisfaction.
+
+35
+00:01:30,760 --> 00:01:34,520
+So P. Becky likes to say that he made more money as a tennis
+
+36
+00:01:34,520 --> 00:01:40,240
+instructor than he did for his first 10 years in economics.
+
+37
+00:01:40,240 --> 00:01:41,720
+He's a really good tennis player.
+
+38
+00:01:41,720 --> 00:01:45,160
+He was like the Grand Timer of the world.
+
+39
+00:01:45,160 --> 00:01:47,440
+And he was in a rich part of the country, too, where people
+
+40
+00:01:47,440 --> 00:01:51,040
+would pay $200 an hour for their kid to go and learn from
+
+41
+00:01:51,040 --> 00:01:54,840
+a guy as good as he was.
+
+42
+00:01:54,840 --> 00:01:56,400
+OK.
+
+43
+00:01:56,400 --> 00:02:01,120
+Now, notice, so there's a very simple policy governments
+
+44
+00:02:01,120 --> 00:02:04,000
+could use to improve the market's efficiency.
+
+45
+00:02:04,000 --> 00:02:06,560
+Again, of course, step one is just cut the subsidies.
+
+46
+00:02:06,560 --> 00:02:09,160
+But if that's not enough, the governments could actually tax
+
+47
+00:02:09,160 --> 00:02:10,280
+education.
+
+48
+00:02:10,280 --> 00:02:12,680
+So we can innocently model education
+
+49
+00:02:12,680 --> 00:02:14,320
+race-reel resources.
+
+50
+00:02:14,320 --> 00:02:17,440
+And the idea of the tax is that it would preserve the
+
+51
+00:02:17,440 --> 00:02:19,360
+relative ranking while discouraging
+
+52
+00:02:19,360 --> 00:02:20,600
+the actual activity.
+
+53
+00:02:20,600 --> 00:02:23,680
+Now, you might remember I've talked about other cases where
+
+54
+00:02:23,680 --> 00:02:25,640
+there's a market failure.
+
+55
+00:02:25,640 --> 00:02:27,120
+And there's something government could do.
+
+56
+00:02:27,120 --> 00:02:29,280
+And then actual governments do exactly the opposite of the
+
+57
+00:02:29,280 --> 00:02:31,640
+thing that they could do and improve things.
+
+58
+00:02:31,640 --> 00:02:33,880
+Well, here's another case.
+
+59
+00:02:33,880 --> 00:02:36,600
+Just like there is something government could do to deal
+
+60
+00:02:36,600 --> 00:02:37,400
+with adverse selection.
+
+61
+00:02:37,400 --> 00:02:42,680
+And that is to require insurance, but allow for
+
+62
+00:02:42,680 --> 00:02:45,760
+insurers to charge whatever they want based upon risk.
+
+63
+00:02:45,760 --> 00:02:47,640
+In reality, governments usually try to stop.
+
+64
+00:02:47,640 --> 00:02:50,720
+Insurance companies from charging whatever they want
+
+65
+00:02:50,720 --> 00:02:51,720
+based on risk.
+
+66
+00:02:51,720 --> 00:02:54,480
+Similarly, there is something that governments could do to
+
+67
+00:02:54,480 --> 00:02:55,920
+go and reduce the signaling problem.
+
+68
+00:02:55,920 --> 00:02:56,920
+And that's tax education.
+
+69
+00:02:56,920 --> 00:02:59,280
+And there's what every known government actually does,
+
+70
+00:02:59,280 --> 00:03:02,560
+which is to subsidize education.
+
+71
+00:03:02,560 --> 00:03:05,120
+So you don't need to have a dogmatic view that markets
+
+72
+00:03:05,120 --> 00:03:07,320
+work perfectly to still say that government
+
+73
+00:03:07,320 --> 00:03:09,040
+policy's terrible.
+
+74
+00:03:09,040 --> 00:03:11,480
+But again, this is like subsidizing pollution.
+
+75
+00:03:11,480 --> 00:03:14,200
+In fact, in the signaling model, signaling is just like
+
+76
+00:03:14,200 --> 00:03:14,960
+pollution.
+
+77
+00:03:14,960 --> 00:03:18,040
+It's just a way where you make yourself better off while
+
+78
+00:03:18,040 --> 00:03:19,280
+impoverishing the world.
+
+79
+00:03:22,280 --> 00:03:25,880
+So the idea here then is if education were unsubsidized,
+
+80
+00:03:25,880 --> 00:03:28,240
+you might not be able to afford it.
+
+81
+00:03:28,240 --> 00:03:31,760
+But you also wouldn't need it to get a good job anymore.
+
+82
+00:03:31,760 --> 00:03:34,640
+So when people are freaking out at me on radio shows, and
+
+83
+00:03:34,640 --> 00:03:37,320
+like, do you want to deprive the poor of a chance to get
+
+84
+00:03:37,320 --> 00:03:39,440
+education, is it what I really want to do?
+
+85
+00:03:39,440 --> 00:03:42,000
+I want to restore to the poor the ability to get a good job
+
+86
+00:03:42,000 --> 00:03:43,840
+while still being able to afford it.
+
+87
+00:03:43,840 --> 00:03:48,640
+Or the ability to get a good job right out of high school,
+
+88
+00:03:48,640 --> 00:03:51,760
+which is a lot more relevant for poor people than your
+
+89
+00:03:51,760 --> 00:03:57,120
+thing, which benefits only the most successful.
+
+90
+00:03:57,120 --> 00:04:01,720
+So there is this odd focus on the rare, super talented kid
+
+91
+00:04:01,720 --> 00:04:04,800
+from a poor family, rather than the much larger number
+
+92
+00:04:04,800 --> 00:04:06,360
+that don't do well in school.
+
+93
+00:04:06,360 --> 00:04:09,200
+And today, I have trouble getting a job as a secretary
+
+94
+00:04:09,200 --> 00:04:11,520
+or a waiter at a good restaurant because of
+
+95
+00:04:11,520 --> 00:04:12,720
+credential inflation.
+
+96
+00:04:12,720 --> 00:04:15,440
+I did talk about credential inflation a bit when I started
+
+97
+00:04:15,440 --> 00:04:16,080
+signaling, right?
+
+98
+00:04:16,080 --> 00:04:20,120
+But again, this is a telltale sign of signaling when for one
+
+99
+00:04:20,120 --> 00:04:24,440
+and the same actual job, you need a lot more education to
+
+100
+00:04:24,440 --> 00:04:28,960
+be considered worthy of training, which really is
+
+101
+00:04:28,960 --> 00:04:30,960
+ubiquitous throughout the modern economy.
+
+102
+00:04:30,960 --> 00:04:34,000
+Jobs that in 1950, you would get right out of high school,
+
+103
+00:04:34,000 --> 00:04:36,720
+maybe even out of middle school.
+
+104
+00:04:36,720 --> 00:04:37,760
+You say, yeah, are you 14?
+
+105
+00:04:37,760 --> 00:04:38,480
+You want to be a waiter?
+
+106
+00:04:38,480 --> 00:04:39,000
+Sure, right?
+
+107
+00:04:39,000 --> 00:04:41,240
+Here's how you do it.
+
+108
+00:04:41,240 --> 00:04:43,840
+Whereas today, someone with the same credentials would
+
+109
+00:04:43,840 --> 00:04:45,400
+have their application thrown away.
+
+110
+00:04:45,400 --> 00:04:46,200
+It would be a joke.
+
+111
+00:04:46,200 --> 00:04:47,360
+They say, well, we're not going to consider
+
+112
+00:04:47,360 --> 00:04:49,560
+someone like that.
+
+113
+00:04:49,560 --> 00:04:54,480
+In a world where 80% of people finish high school, then if
+
+114
+00:04:54,480 --> 00:04:57,640
+you haven't, you put yourself in the bottom 20%.
+
+115
+00:04:57,640 --> 00:04:59,160
+And there's a lot of jobs where people are happy to
+
+116
+00:04:59,160 --> 00:05:01,000
+consider someone in the 40th percentile, where they don't
+
+117
+00:05:01,000 --> 00:05:04,600
+want to consider someone in the 10th percentile.
+
+118
+00:05:04,600 --> 00:05:06,040
+Useless idea.
+
+119
+00:05:06,040 --> 00:05:09,520
+So in a world where people are doing a lot less education,
+
+120
+00:05:09,520 --> 00:05:12,480
+people would switch to other methods, which are a lot less
+
+121
+00:05:12,480 --> 00:05:16,200
+wasteful, like apprenticing and on-the-job learning, and so
+
+122
+00:05:16,200 --> 00:05:18,240
+on, right?
+
+123
+00:05:18,240 --> 00:05:20,600
+So basically, the kind of economy that we have now, for
+
+124
+00:05:20,600 --> 00:05:24,600
+the most part, is one where you stay in school for a long
+
+125
+00:05:24,600 --> 00:05:28,760
+time, learning almost nothing that you'll ever use again.
+
+126
+00:05:28,760 --> 00:05:31,880
+But finally, at the end, you have the certification to get
+
+127
+00:05:31,880 --> 00:05:34,560
+employers to take you seriously enough to train you
+
+128
+00:05:34,560 --> 00:05:37,360
+for a job that really is quite menial, all
+
+129
+00:05:37,360 --> 00:05:39,200
+things considered.
+
+130
+00:05:39,200 --> 00:05:41,360
+I remember my best friend at Princeton had a very academic
+
+131
+00:05:41,360 --> 00:05:43,760
+personality, but he did not get an academic job.
+
+132
+00:05:43,760 --> 00:05:46,240
+Instead, he got a job in economic consulting.
+
+133
+00:05:46,240 --> 00:05:49,200
+And how intellectually demanding did he find
+
+134
+00:05:49,200 --> 00:05:51,680
+economic consulting?
+
+135
+00:05:51,680 --> 00:05:55,200
+Not very intellectually demanding at all.
+
+136
+00:05:55,200 --> 00:05:58,160
+A lot of his job just consisted in calling up firms
+
+137
+00:05:58,160 --> 00:05:59,800
+in a business and asking them some questions about their
+
+138
+00:05:59,800 --> 00:06:03,120
+business, and then writing up a report.
+
+139
+00:06:03,120 --> 00:06:04,320
+That was his job.
+
+140
+00:06:04,320 --> 00:06:07,840
+But he easily could have done it.
+
+141
+00:06:07,840 --> 00:06:09,480
+Right after undergraduate, he could have done it.
+
+142
+00:06:09,480 --> 00:06:11,200
+And again, this guy was a math genius, so he could have
+
+143
+00:06:11,200 --> 00:06:13,560
+easily done it out of high school, really.
+
+144
+00:06:13,560 --> 00:06:15,200
+And he'd say, well, maybe you wouldn't have been socially
+
+145
+00:06:15,200 --> 00:06:16,880
+polished enough to make the phone calls.
+
+146
+00:06:16,880 --> 00:06:18,840
+Fine, give him a one-month training session on how to
+
+147
+00:06:18,840 --> 00:06:20,320
+make a phone call.
+
+148
+00:06:20,320 --> 00:06:21,280
+That's all he really needed.
+
+149
+00:06:21,280 --> 00:06:23,160
+In fact, probably he was terrible at making phone calls
+
+150
+00:06:23,160 --> 00:06:25,240
+out of graduate school, going like that.
+
+151
+00:06:25,240 --> 00:06:26,640
+So he never mentioned the training.
+
+152
+00:06:26,640 --> 00:06:30,120
+But my guess is that he had a bunch of really awkward phone
+
+153
+00:06:30,120 --> 00:06:32,000
+calls at first, because he'd never done it.
+
+154
+00:06:32,000 --> 00:06:37,680
+And then he learned how to do it by doing it.
+
+155
+00:06:37,680 --> 00:06:42,520
+The way that almost everybody learns almost everything.
+
+156
+00:06:42,520 --> 00:06:47,480
+I always think about when finally, I think my kids are
+
+157
+00:06:47,480 --> 00:06:49,480
+like in third grade, and my wife is still showering them.
+
+158
+00:06:49,480 --> 00:06:50,480
+I'm like, enough's enough.
+
+159
+00:06:50,480 --> 00:06:52,960
+I'm going to teach them how to shower themselves.
+
+160
+00:06:52,960 --> 00:06:53,600
+And I get there, right?
+
+161
+00:06:53,600 --> 00:06:54,840
+I'm a professor.
+
+162
+00:06:54,840 --> 00:06:55,440
+What am I going to do?
+
+163
+00:06:55,440 --> 00:06:58,400
+Give them electron showering theory?
+
+164
+00:06:58,400 --> 00:06:59,920
+No.
+
+165
+00:06:59,920 --> 00:07:00,520
+Get in.
+
+166
+00:07:00,520 --> 00:07:01,920
+Do as I do.
+
+167
+00:07:01,920 --> 00:07:02,800
+Do this.
+
+168
+00:07:02,800 --> 00:07:03,440
+Do this.
+
+169
+00:07:03,440 --> 00:07:05,360
+And I made up a mnemonic song.
+
+170
+00:07:05,360 --> 00:07:06,520
+Do this.
+
+171
+00:07:06,520 --> 00:07:07,440
+Wash your arm.
+
+172
+00:07:07,440 --> 00:07:08,640
+Wash your arm.
+
+173
+00:07:08,640 --> 00:07:10,000
+Fully behaviorist.
+
+174
+00:07:10,000 --> 00:07:11,000
+No theory.
+
+175
+00:07:11,000 --> 00:07:13,200
+Totally anti-intellectual.
+
+176
+00:07:13,200 --> 00:07:16,960
+But the only thing is, and then correcting them in real time.
+
+177
+00:07:16,960 --> 00:07:19,880
+So they're washing their leg with two fingers.
+
+178
+00:07:19,880 --> 00:07:21,040
+Like, no, don't do that.
+
+179
+00:07:21,040 --> 00:07:21,760
+Two fingers?
+
+180
+00:07:21,760 --> 00:07:22,240
+No.
+
+181
+00:07:22,240 --> 00:07:22,960
+Full hand.
+
+182
+00:07:22,960 --> 00:07:23,440
+Like this.
+
+183
+00:07:23,440 --> 00:07:24,200
+Like a paintbrush.
+
+184
+00:07:24,200 --> 00:07:26,160
+Your hand is a paintbrush.
+
+185
+00:07:26,160 --> 00:07:27,920
+Not that helpful, because they'd also never used a
+
+186
+00:07:27,920 --> 00:07:29,240
+paintbrush.
+
+187
+00:07:29,240 --> 00:07:29,840
+Like this.
+
+188
+00:07:29,840 --> 00:07:30,560
+Like this.
+
+189
+00:07:30,560 --> 00:07:32,120
+Do this.
+
+190
+00:07:32,120 --> 00:07:37,400
+And you go through this drill 20 times, and fully effective.
+
+191
+00:07:37,400 --> 00:07:40,640
+And I could have given the shower theory lecture 20 times,
+
+192
+00:07:40,640 --> 00:07:43,600
+and what good would that have ever done?
+
+193
+00:07:43,600 --> 00:07:44,320
+And you.
+
+194
+00:07:44,320 --> 00:07:45,480
+You really pay attention to the world.
+
+195
+00:07:45,480 --> 00:07:46,960
+This is how things actually work.
+
+196
+00:07:46,960 --> 00:07:49,720
+There's a whole literature in psychology on expertise.
+
+197
+00:07:49,720 --> 00:07:52,520
+How does anyone get good at anything?
+
+198
+00:07:52,520 --> 00:07:56,320
+Practice, practice, practice.
+
+199
+00:07:56,320 --> 00:07:56,920
+So let's see.
+
+200
+00:07:56,920 --> 00:08:01,040
+Are you familiar with Malcolm Gladwell's book, Outliers?
+
+201
+00:08:01,040 --> 00:08:03,040
+Yes, so this is heavily based upon the work of a
+
+202
+00:08:03,040 --> 00:08:06,720
+psychologist named K. Anders Erickson.
+
+203
+00:08:06,720 --> 00:08:10,680
+All right, now, Erickson overstates the case for
+
+204
+00:08:10,680 --> 00:08:15,280
+practice, and he literally seems to say that the only
+
+205
+00:08:15,280 --> 00:08:18,000
+thing anyone needs to get up to the level of the best
+
+206
+00:08:18,000 --> 00:08:20,400
+person on earth is to practice as much as the best person on
+
+207
+00:08:20,400 --> 00:08:24,080
+earth, and Gladwell then repeats it.
+
+208
+00:08:24,080 --> 00:08:26,000
+And this is not a case where Gladwell
+
+209
+00:08:26,000 --> 00:08:27,920
+misunderstood Erickson.
+
+210
+00:08:27,920 --> 00:08:31,360
+Erickson had multiple statements, very explicitly,
+
+211
+00:08:31,360 --> 00:08:34,160
+that seemed to say that the reason why the Beatles became
+
+212
+00:08:34,160 --> 00:08:35,280
+the number one band in the world is because they
+
+213
+00:08:35,280 --> 00:08:37,480
+practiced more than any other band on earth.
+
+214
+00:08:37,480 --> 00:08:40,200
+It's not like you have data on all the other bands.
+
+215
+00:08:40,200 --> 00:08:42,800
+But no one tried that hard and still failed.
+
+216
+00:08:42,800 --> 00:08:44,480
+But anyway, there's a follow-up literature showing
+
+217
+00:08:44,480 --> 00:08:46,600
+that practice is important, but a bunch of other obvious
+
+218
+00:08:46,600 --> 00:08:48,800
+things are important, too.
+
+219
+00:08:48,800 --> 00:08:52,920
+But nevertheless, if you just reinterpret the Malcolm
+
+220
+00:08:52,920 --> 00:08:57,080
+Gladwell theory as, it's not a theory of excellence.
+
+221
+00:08:57,080 --> 00:08:59,240
+It's a theory of improvement.
+
+222
+00:08:59,240 --> 00:09:02,120
+It doesn't say that practice will make anybody great.
+
+223
+00:09:02,120 --> 00:09:03,400
+That's wrong.
+
+224
+00:09:03,400 --> 00:09:04,880
+There's a lot of people who practice a lot, and they're
+
+225
+00:09:04,880 --> 00:09:06,720
+still not very good.
+
+226
+00:09:06,720 --> 00:09:08,920
+But if it's a theory of how does anyone improve at
+
+227
+00:09:08,920 --> 00:09:11,720
+anything, then the practice theory is awesome and
+
+228
+00:09:11,720 --> 00:09:16,360
+explains almost everything we see.
+
+229
+00:09:16,360 --> 00:09:18,800
+There's almost nothing that is intellectually hard or
+
+230
+00:09:18,800 --> 00:09:21,400
+physically hard where the people that are good at it
+
+231
+00:09:21,400 --> 00:09:23,240
+haven't done a lot of practice.
+
+232
+00:09:23,240 --> 00:09:25,760
+And there's almost none where anyone is really good right
+
+233
+00:09:25,760 --> 00:09:26,960
+out the bat.
+
+234
+00:09:26,960 --> 00:09:29,840
+So there are people who are chess grandmasters only a
+
+235
+00:09:29,840 --> 00:09:32,240
+couple thousand hours of practice.
+
+236
+00:09:32,240 --> 00:09:33,280
+But think about it.
+
+237
+00:09:33,280 --> 00:09:38,240
+Well, you only practice for a couple thousand hours.
+
+238
+00:09:38,240 --> 00:09:40,000
+Even Mozart.
+
+239
+00:09:40,000 --> 00:09:43,000
+That kid was practicing from such an early age.
+
+240
+00:09:43,000 --> 00:09:44,880
+Also, a lot of people think his dad actually wrote a lot
+
+241
+00:09:44,880 --> 00:09:47,120
+of his earlier stuff, which is plausible.
+
+242
+00:09:47,120 --> 00:09:50,160
+But anyway.
+
+243
+00:09:50,160 --> 00:09:52,480
+So this is great stuff.
+
+244
+00:09:52,480 --> 00:09:54,800
+But just think about this workup practice as a theory of
+
+245
+00:09:54,800 --> 00:09:57,800
+how people actually improve at stuff, and then it makes
+
+246
+00:09:57,800 --> 00:09:58,880
+great sense.
+
+247
+00:09:58,880 --> 00:10:00,960
+I'll actually say that I even fell into this mistake in my
+
+248
+00:10:00,960 --> 00:10:01,720
+first year of grad school.
+
+249
+00:10:01,720 --> 00:10:04,320
+You know I practiced for all of my tests until the
+
+250
+00:10:04,320 --> 00:10:06,600
+comprehensive exams?
+
+251
+00:10:06,600 --> 00:10:08,400
+By studying the notes.
+
+252
+00:10:08,400 --> 00:10:09,800
+I went and reread the notes.
+
+253
+00:10:09,800 --> 00:10:10,600
+And that's what I did.
+
+254
+00:10:10,600 --> 00:10:14,800
+And I got C's on all the major exams.
+
+255
+00:10:14,800 --> 00:10:17,040
+And you know what other students were doing?
+
+256
+00:10:17,040 --> 00:10:17,720
+The sensible thing.
+
+257
+00:10:17,720 --> 00:10:19,960
+They got old exams and practiced them.
+
+258
+00:10:19,960 --> 00:10:21,800
+And you know what I finally did?
+
+259
+00:10:21,800 --> 00:10:23,400
+I finally said, you know what?
+
+260
+00:10:23,400 --> 00:10:26,720
+After a year of doing very poorly, maybe I should do
+
+261
+00:10:26,720 --> 00:10:28,200
+something else.
+
+262
+00:10:28,200 --> 00:10:30,360
+What if I were to get old exams and practice them for a
+
+263
+00:10:30,360 --> 00:10:33,000
+month?
+
+264
+00:10:33,000 --> 00:10:33,960
+I don't feel like it.
+
+265
+00:10:33,960 --> 00:10:37,280
+But I also really don't want to fail out of this program.
+
+266
+00:10:37,280 --> 00:10:39,240
+So yeah, I got the old exams, and I just did a
+
+267
+00:10:39,240 --> 00:10:41,080
+month of practice.
+
+268
+00:10:41,080 --> 00:10:42,080
+And you know what?
+
+269
+00:10:42,080 --> 00:10:45,920
+That improved my performance far better than sitting around
+
+270
+00:10:45,920 --> 00:10:49,840
+reading the notes, which appears to be almost a
+
+271
+00:10:49,840 --> 00:10:51,600
+complete waste of time.
+
+272
+00:10:51,600 --> 00:10:56,040
+It's not like asking students to do long essays a way to
+
+273
+00:10:56,040 --> 00:10:57,000
+avoid this.
+
+274
+00:10:57,000 --> 00:11:00,040
+Like I know that in Europe it's much more common to ask
+
+275
+00:11:00,040 --> 00:11:04,000
+you to do a 10 pages long essay for two hours or so.
+
+276
+00:11:04,000 --> 00:11:07,440
+You sit down and you just answer a subject that you
+
+277
+00:11:07,440 --> 00:11:09,000
+don't know in advance.
+
+278
+00:11:09,000 --> 00:11:10,280
+Yeah, if you don't know in advance.
+
+279
+00:11:10,280 --> 00:11:12,040
+If it's one where you're sort of told in advance what it
+
+280
+00:11:12,040 --> 00:11:13,000
+would be.
+
+281
+00:11:13,000 --> 00:11:15,400
+Or it's one where you're allowed to simply repeat
+
+282
+00:11:15,400 --> 00:11:16,160
+what's in the notes.
+
+283
+00:11:16,160 --> 00:11:16,960
+Then it's not very good.
+
+284
+00:11:16,960 --> 00:11:18,920
+It's one where you actually have to apply something you
+
+285
+00:11:18,920 --> 00:11:19,960
+learned, something new.
+
+286
+00:11:19,960 --> 00:11:24,000
+So it's much harder than actually writing.
+
+287
+00:11:24,000 --> 00:11:26,280
+Although again, how would you get good at writing
+
+288
+00:11:26,280 --> 00:11:26,920
+tests like that?
+
+289
+00:11:26,920 --> 00:11:30,120
+I would sell someone, get a bunch of old exams and try
+
+290
+00:11:30,120 --> 00:11:30,560
+writing them.
+
+291
+00:11:30,560 --> 00:11:31,880
+Because we do it since high school.
+
+292
+00:11:31,880 --> 00:11:32,760
+Yeah.
+
+293
+00:11:32,760 --> 00:11:35,960
+So sure, practice the old exams.
+
+294
+00:11:35,960 --> 00:11:37,920
+Whenever I tell you to practice old exams under time
+
+295
+00:11:37,920 --> 00:11:42,400
+pressure, this is directly inspired by all the research
+
+296
+00:11:42,400 --> 00:11:45,240
+plus all my experience in actually improving at
+
+297
+00:11:45,240 --> 00:11:46,480
+something I wasn't good at.
+
+298
+00:11:49,160 --> 00:11:50,680
+All right.
+
+299
+00:11:50,680 --> 00:11:51,880
+So moving on.
+
+300
+00:11:51,880 --> 00:11:53,880
+Oh yes, right here.
+
+301
+00:11:53,880 --> 00:11:58,320
+Suppose if you have one additional year of education
+
+302
+00:11:58,320 --> 00:12:04,920
+and it increases the income by 7.5%, then if the rate of
+
+303
+00:12:04,920 --> 00:12:10,760
+return from the credit market is higher than 7.5%
+
+304
+00:12:10,760 --> 00:12:12,040
+Wait, from the what?
+
+305
+00:12:12,040 --> 00:12:14,080
+From the credit market.
+
+306
+00:12:14,080 --> 00:12:15,040
+Credit market.
+
+307
+00:12:15,040 --> 00:12:16,000
+Credit market.
+
+308
+00:12:16,000 --> 00:12:18,360
+Credit market is higher than 7.5.
+
+309
+00:12:18,360 --> 00:12:20,920
+You should not invest into that than one year education.
+
+310
+00:12:20,920 --> 00:12:23,760
+But if it's lower than 7.5%, you should invest.
+
+311
+00:12:23,760 --> 00:12:24,720
+Right.
+
+312
+00:12:24,720 --> 00:12:27,800
+Again, so the relevant question is the normal market
+
+313
+00:12:27,800 --> 00:12:30,600
+rate versus the rate that you have to pay because you have
+
+314
+00:12:30,600 --> 00:12:31,800
+any collateral.
+
+315
+00:12:31,800 --> 00:12:34,280
+Yeah, I mean, assume the improper rate is.
+
+316
+00:12:34,280 --> 00:12:34,800
+Right.
+
+317
+00:12:34,800 --> 00:12:35,560
+Yes.
+
+318
+00:12:35,560 --> 00:12:37,080
+Yeah, exactly.
+
+319
+00:12:37,080 --> 00:12:37,440
+All right.
+
+320
+00:12:37,440 --> 00:12:38,280
+So moving on.
+
+321
+00:12:38,280 --> 00:12:38,480
+All right.
+
+322
+00:12:38,480 --> 00:12:40,280
+So novel rigidities.
+
+323
+00:12:40,280 --> 00:12:40,560
+All right.
+
+324
+00:12:40,560 --> 00:12:44,000
+Another unusual feature of labor markets that's often
+
+325
+00:12:44,000 --> 00:12:46,520
+been discussed is novel rigidities.
+
+326
+00:12:46,520 --> 00:12:49,120
+So labor markets seem like they fit the assumptions of
+
+327
+00:12:49,120 --> 00:12:50,560
+everything that I've modeled pretty well.
+
+328
+00:12:50,560 --> 00:12:53,920
+So lots of employers, lots of workers.
+
+329
+00:12:53,920 --> 00:12:54,480
+Right.
+
+330
+00:12:54,480 --> 00:12:57,640
+How bad can the information really be?
+
+331
+00:12:57,640 --> 00:12:58,800
+At least on the surface, it seems like the
+
+332
+00:12:58,800 --> 00:13:00,360
+information's OK.
+
+333
+00:13:00,360 --> 00:13:02,280
+All right.
+
+334
+00:13:02,280 --> 00:13:06,480
+But even so, nominal wages rarely seem to fall even when
+
+335
+00:13:06,480 --> 00:13:08,000
+there's a lot of surplus labor.
+
+336
+00:13:08,000 --> 00:13:10,840
+So if you look at the last recession, unemployment got
+
+337
+00:13:10,840 --> 00:13:13,320
+like, so unemployment peaked at roughly how much during the
+
+338
+00:13:13,320 --> 00:13:14,800
+last recession?
+
+339
+00:13:14,800 --> 00:13:16,560
+About 10% in the US.
+
+340
+00:13:16,560 --> 00:13:17,560
+So 10%.
+
+341
+00:13:17,560 --> 00:13:20,640
+And again, if you are paying attention, it sure seems to
+
+342
+00:13:20,640 --> 00:13:24,120
+almost everyone who is practically experienced in
+
+343
+00:13:24,120 --> 00:13:27,400
+time that there are perfectly good workers who are
+
+344
+00:13:27,400 --> 00:13:31,320
+unemployed, who are just as good as other ones that
+
+345
+00:13:31,320 --> 00:13:32,360
+continue to be employed.
+
+346
+00:13:32,360 --> 00:13:37,200
+And yet, wages are not falling to accommodate this.
+
+347
+00:13:37,200 --> 00:13:41,200
+My wife was at a job where she actually switched from private
+
+348
+00:13:41,200 --> 00:13:46,080
+practice to Freddie Mac a year before the financial crisis.
+
+349
+00:13:46,080 --> 00:13:48,240
+This was not based upon any kind of inside knowledge.
+
+350
+00:13:48,240 --> 00:13:50,880
+It was just good fortune.
+
+351
+00:13:50,880 --> 00:13:53,920
+But then, over the next couple of years, not only did she
+
+352
+00:13:53,920 --> 00:13:56,160
+have a bunch of former co-workers trying to get a job
+
+353
+00:13:56,160 --> 00:14:00,320
+through her, she had partners who had had their whole
+
+354
+00:14:00,320 --> 00:14:03,760
+practice destroyed who were coming to her.
+
+355
+00:14:03,760 --> 00:14:07,440
+It used to be two levels below them coming, hat in hand, and
+
+356
+00:14:07,440 --> 00:14:10,640
+saying, I'm really just perfectly happy just to work
+
+357
+00:14:10,640 --> 00:14:11,680
+for you now.
+
+358
+00:14:11,680 --> 00:14:12,920
+Very good.
+
+359
+00:14:12,920 --> 00:14:17,920
+And so these were not people that anyone who knew them, my
+
+360
+00:14:17,920 --> 00:14:20,920
+wife and I would consider to be incompetent or bad.
+
+361
+00:14:20,920 --> 00:14:25,720
+But nevertheless, the wages were staying high.
+
+362
+00:14:25,720 --> 00:14:29,000
+Even though there's perfectly good workers that seem totally
+
+363
+00:14:29,000 --> 00:14:33,160
+able to do the job, but there's no tendency at all to
+
+364
+00:14:33,160 --> 00:14:35,960
+go and reduce the wage of existing workers and then
+
+365
+00:14:35,960 --> 00:14:37,960
+hire this new surplus labor.
+
+366
+00:14:37,960 --> 00:14:40,120
+Instead, it seems like you've got the insiders who keep
+
+367
+00:14:40,120 --> 00:14:41,400
+their nice jobs.
+
+368
+00:14:41,400 --> 00:14:44,720
+And then, in fact, their jobs got better.
+
+369
+00:14:44,720 --> 00:14:47,240
+So if you worked at a government-sponsored
+
+370
+00:14:47,240 --> 00:14:50,240
+enterprise during this time, your job improved a lot.
+
+371
+00:14:50,240 --> 00:14:52,960
+Because your pay was essentially the same, and your
+
+372
+00:14:52,960 --> 00:14:55,320
+workload fell to almost nothing.
+
+373
+00:14:55,320 --> 00:14:58,920
+So it's like an ideal job, really.
+
+374
+00:14:58,920 --> 00:15:02,040
+Great job security, great pay, no work.
+
+375
+00:15:02,040 --> 00:15:03,280
+Wonderful.
+
+376
+00:15:05,240 --> 00:15:07,920
+So what's going on?
+
+377
+00:15:07,920 --> 00:15:10,400
+So there is a neoclassical way that you
+
+378
+00:15:10,400 --> 00:15:11,280
+could explain all this.
+
+379
+00:15:11,280 --> 00:15:15,360
+And that's to say the problem is negative costs.
+
+380
+00:15:15,360 --> 00:15:17,840
+So there's negative costs.
+
+381
+00:15:17,840 --> 00:15:20,160
+You say, why don't we adjust the wage?
+
+382
+00:15:20,160 --> 00:15:23,240
+Because the cost of adjusting the wage is too high.
+
+383
+00:15:23,240 --> 00:15:26,880
+It's like, why don't you go and adjust the price of steak
+
+384
+00:15:26,880 --> 00:15:28,880
+so that you never sell out your steak?
+
+385
+00:15:28,880 --> 00:15:31,280
+Well, because the cost of going and printing up a new
+
+386
+00:15:31,280 --> 00:15:33,520
+menu at the restaurant every single day or
+
+387
+00:15:33,520 --> 00:15:35,080
+every hour is so high.
+
+388
+00:15:35,080 --> 00:15:36,760
+So instead, we just have to sell out on it
+
+389
+00:15:36,760 --> 00:15:38,120
+based on high demand.
+
+390
+00:15:38,120 --> 00:15:39,120
+Make sense?
+
+391
+00:15:39,120 --> 00:15:41,680
+Ever wonder why a restaurant sells out on something?
+
+392
+00:15:41,680 --> 00:15:43,600
+Why didn't they just raise the price to make sure that it
+
+393
+00:15:43,600 --> 00:15:46,200
+would be available for you?
+
+394
+00:15:46,200 --> 00:15:47,960
+Menu costs are a pretty obvious story.
+
+395
+00:15:47,960 --> 00:15:50,080
+It would be such a pain in the neck to go and change the
+
+396
+00:15:50,080 --> 00:15:53,160
+menus around that they'd rather just occasionally run
+
+397
+00:15:53,160 --> 00:15:55,400
+out.
+
+398
+00:15:55,400 --> 00:15:57,840
+And you tell the same story about labor markets.
+
+399
+00:15:57,840 --> 00:16:01,600
+The reason why employers don't go and cut the wages during
+
+400
+00:16:01,600 --> 00:16:05,320
+recession is because the menu costs of going and updating
+
+401
+00:16:05,320 --> 00:16:07,840
+the website or whatever would be too high.
+
+402
+00:16:07,840 --> 00:16:11,160
+And so you just tolerate the situation of the surplus.
+
+403
+00:16:16,240 --> 00:16:19,480
+But this menu cost story seems pretty hard to believe for
+
+404
+00:16:19,480 --> 00:16:23,320
+labor markets because the menu costs seem very small
+
+405
+00:16:23,320 --> 00:16:24,840
+relative to the value of the product.
+
+406
+00:16:24,840 --> 00:16:26,400
+It's one thing to say we're not going to print up all new
+
+407
+00:16:26,400 --> 00:16:30,440
+menus rather than waste $30 worth of steak.
+
+408
+00:16:30,440 --> 00:16:34,000
+But to say we're not going to go and adjust our firm web
+
+409
+00:16:34,000 --> 00:16:37,920
+page just because there's a million dollars of perfectly
+
+410
+00:16:37,920 --> 00:16:40,880
+good labor sitting around on the market, how much does your
+
+411
+00:16:40,880 --> 00:16:43,200
+web page cost to update?
+
+412
+00:16:43,200 --> 00:16:44,400
+What's the big deal here?
+
+413
+00:16:44,400 --> 00:16:46,400
+How hard can it possibly be?
+
+414
+00:16:46,400 --> 00:16:48,520
+It doesn't seem like the menu costs are all that
+
+415
+00:16:48,520 --> 00:16:49,720
+substantial.
+
+416
+00:16:49,720 --> 00:16:51,160
+So that's the puzzle.
+
+417
+00:16:55,080 --> 00:16:58,640
+And furthermore, by the way, the menu cost model predicts
+
+418
+00:16:58,640 --> 00:17:05,680
+that while you may not adjust your prices to respond to
+
+419
+00:17:05,680 --> 00:17:09,560
+small market changes in supplier demand, you will for
+
+420
+00:17:09,560 --> 00:17:12,640
+large changes.
+
+421
+00:17:12,640 --> 00:17:15,640
+The idea is that for a small change, then you'll say, well,
+
+422
+00:17:15,640 --> 00:17:19,040
+the amount of surplus or shortage is so small, we're
+
+423
+00:17:19,040 --> 00:17:22,480
+only losing a little bit of money, and that money is
+
+424
+00:17:22,480 --> 00:17:24,840
+smaller than the menu costs.
+
+425
+00:17:24,840 --> 00:17:28,280
+But if there were a demand increase by a factor of 10, in
+
+426
+00:17:28,280 --> 00:17:30,240
+that case, you're going to go and change it.
+
+427
+00:17:30,240 --> 00:17:33,120
+Because if you didn't, you'd be losing a lot of revenue,
+
+428
+00:17:33,120 --> 00:17:34,380
+losing a lot of money.
+
+429
+00:17:37,640 --> 00:17:41,320
+What this means, then, is that really big shocks to labor
+
+430
+00:17:41,320 --> 00:17:47,400
+demand should lead to the end of labor market rigidity.
+
+431
+00:17:47,400 --> 00:17:52,280
+So how does that work out for the Great Recession?
+
+432
+00:17:52,280 --> 00:17:55,320
+It's the biggest shock since the Great Depression.
+
+433
+00:17:55,320 --> 00:17:56,720
+And was it over?
+
+434
+00:17:56,720 --> 00:17:59,680
+Did we get out of it really quickly?
+
+435
+00:17:59,680 --> 00:18:00,440
+No.
+
+436
+00:18:00,440 --> 00:18:03,280
+It seemed like it actually fit the standard long run pattern
+
+437
+00:18:03,280 --> 00:18:05,400
+of about a percentage point fall per year.
+
+438
+00:18:05,400 --> 00:18:06,320
+How about the Great Depression?
+
+439
+00:18:06,320 --> 00:18:07,840
+Was that quick?
+
+440
+00:18:07,840 --> 00:18:08,720
+No?
+
+441
+00:18:08,720 --> 00:18:09,160
+All right, yeah.
+
+442
+00:18:09,160 --> 00:18:10,800
+So the Great Depression, it wasn't just that unemployment
+
+443
+00:18:10,800 --> 00:18:12,440
+went up to 25%.
+
+444
+00:18:12,440 --> 00:18:15,280
+It stayed really high for a long time.
+
+445
+00:18:15,280 --> 00:18:17,240
+Whereas the menu cost story should say that when there's
+
+446
+00:18:17,240 --> 00:18:20,080
+that big of a change, we'll then prevent the menus.
+
+447
+00:18:20,080 --> 00:18:22,080
+We'll just print out new menus.
+
+448
+00:18:22,080 --> 00:18:24,960
+And that seems like it didn't happen.
+
+449
+00:18:24,960 --> 00:18:30,520
+Which brings us to a more popular story, which
+
+450
+00:18:30,520 --> 00:18:32,040
+were actually two different stories.
+
+451
+00:18:32,040 --> 00:18:34,680
+So two behavioral stories about what's going on,
+
+452
+00:18:34,680 --> 00:18:39,840
+one of which says that there is some kind of money illusion
+
+453
+00:18:39,840 --> 00:18:43,360
+that workers experience.
+
+454
+00:18:43,360 --> 00:18:45,560
+And the other one says there's some kind of issue
+
+455
+00:18:45,560 --> 00:18:46,840
+with wage fairness norms.
+
+456
+00:18:46,840 --> 00:18:47,320
+All right.
+
+457
+00:18:52,760 --> 00:18:53,560
+OK.
+
+458
+00:18:53,560 --> 00:18:54,840
+All right.
+
+459
+00:18:54,840 --> 00:18:56,600
+So what's the evidence for this?
+
+460
+00:18:56,600 --> 00:18:58,400
+Well, there's a bunch of psychological studies
+
+461
+00:18:58,400 --> 00:19:00,120
+that find that people do seem to have money
+
+462
+00:19:00,120 --> 00:19:01,120
+illusion to some degree.
+
+463
+00:19:04,400 --> 00:19:07,320
+Essentially, for modest inflation rates,
+
+464
+00:19:07,320 --> 00:19:10,760
+people just seem to round it down to zero.
+
+465
+00:19:10,760 --> 00:19:14,320
+So that's pretty straightforward.
+
+466
+00:19:14,320 --> 00:19:18,080
+But what's striking is even when you make it totally explicit,
+
+467
+00:19:18,080 --> 00:19:20,240
+like you just spell it out for them so that you get rid
+
+468
+00:19:20,240 --> 00:19:22,040
+of money illusion, it still seems
+
+469
+00:19:22,040 --> 00:19:27,480
+like people see a difference between a nominal pay cut
+
+470
+00:19:27,480 --> 00:19:34,560
+and a real pay cut in the presence of high inflation.
+
+471
+00:19:34,560 --> 00:19:37,880
+So here is a well-known experiment.
+
+472
+00:19:37,880 --> 00:19:39,560
+So they just ask people to evaluate
+
+473
+00:19:39,560 --> 00:19:41,840
+the behavior of two firms.
+
+474
+00:19:41,840 --> 00:19:46,240
+And they specify they're both making small profits.
+
+475
+00:19:46,240 --> 00:19:48,440
+So the first hypothetical is inflation is zero,
+
+476
+00:19:48,440 --> 00:19:51,800
+and everyone gets a 7% pay cut.
+
+477
+00:19:51,800 --> 00:19:55,200
+Fraction of Americans who say it's unfair, 62%.
+
+478
+00:19:55,200 --> 00:19:56,240
+Terrible.
+
+479
+00:19:56,240 --> 00:19:59,880
+Next hypothetical, inflation is 12%, and you get a 5% raise.
+
+480
+00:19:59,880 --> 00:20:12,440
+Boy, that's a lot of money.
+
+

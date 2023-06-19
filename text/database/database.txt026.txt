@@ -1,0 +1,11 @@
+2.  Explain why the free -entry equilibrium with fixed costs is inefficient in a 
+Cournot game.  Is this a realistic prediction?  Why or why not?  Explain how you 
+would try to break out of this equil ibrium if you ran one of the firms.  
+ 
+Take the simplest case where there is a fixed cost and zero MC.  Then obviously the cheapest 
+way to make a quantity Q is to have one firm make it all.  The social cost is K, versus N*K for the 
+free -entry equilibrium.  A ssuming a homogenous good, however, this prediction is highly 
+unrealistic.  One firm could loudly announce that it is selling for one penny below the price 
+reached by the Cournot auctioneer and steal the whole market.  Cournot oligopoly would then 
+break do wn into contestable monopoly.  
+ 

@@ -1,0 +1,44 @@
+3.     High Transfer Costs  -  Valid Criticism according to Caplan  -  Democracy lowers transfer costs.
+Granting Wittman's last two assumptions would suggest that that public choice markets are like economic markets. Thus, the only reason left for inefficiency is stupidity. No, Klein is not correct. There are a huge number of competitorsÉ And transfer costs are low. 
+Q.Suppose a woman has EU=w.5 + X. If the woman has a baby boy, X= -10; if she has a baby girl, X=5; if she has no child, X=0. Normally, she is equally likely to have a boy or a girl. But if she pays a price P, she can determine her child's gender with certainty. Suppose further that w initially equals $400, and the P is the only cost associated with having children.
+True, False, and Explain: The woman will remain childless if P>87.5.
+EU with no child =20
+EU with price to guarantee Girl
+(400-p)^.5+5
+(400-87.5)^.5+5= less than 20
+Thus, she won't do it for any price greater that 87.5
+ 
+GENERAL EQUILIBRIUM
+QT.  True, False, and Explain:  In a general equilibrium framework, "fiscal stimulus" can't work, because the funding for the stimulus package has to come from somewhere.
+ False. By changing initial endowments, redistributing in the right, you can make a Pareto efficient allocation self-sustaining.  The "fiscal stimulus" could qualify as such a distribution. This is formally described as the 2nd Welfare Theorem, which says that any Pareto efficient allocation can be a GE, given some initial endowments. Arrow-Debreau extend the 2nd welfare theorem to include inter-temporal exchange, implying that a debt-financed fiscal stimulus could be feasible.   
+ LANDSBURG
+Q.  Landsburg ("People Wanted") argues that there are positive externalities of population growth.
+True, False, and Explain:  Search theory suggests that Landsburg actually understates the case for higher population.
+False.  Search Theory says people search for opportunity up to the point where the expected MB equals expected MC.  Search Theory provides no additional positive externalities for benefits from population growth that are not already captured in Landsburg's benefits.  Landsburgs accounts for greater numbers of geniuses, higher densities, ie less costs to searching. 
+Q. True, False, and Explain: Landsburg argues that cosmetic surgery is socially wasteful signaling.
+True. Because it suggests that you are carrying genes for positively adaptive traits that would not carry on to your offspring.  It is all wasteful because you aren't relatively more beautiful if everyone does it.
+ 
+ 
+
+ 
+ASYMETRIC INFORMATION  -  MORAL HAZARD
+QET.  Consider a simple asymmetric information model: The "true value" of a company to sellers is uniformly distributed along [0,100], and the value to buyers is 50% more than to sellers.
+True, False, and Explain:  In theory, irrationality could increase or decrease market efficiency; in practice, however, experiments show that irrationality makes this "market for lemons" less efficient.
+False.  Kreps shows that with asymmetric information, and full rationality, that this market would disappear.  Irrationality therefore, could not decrease something that already disappears. Irrationality could increase market efficiency if it leads buyers to over value goods.   In practice, irrationality is shown to increase efficiency because markets are not bid down to zero in experiments.  
+If the value to buyers is 100% more than it is to sellers you end up with ? of the overall market interactions achieved. This is because, the market average is still at 50% and half the distribution is sold.   In other words, value to sellers would be 25, but value to buyers would be 50, since they value it 100% more.  Since buyers would then be willing to spend the average amount, half the distribution, those lower than 50% in the seller's eyes would get sold.  
+Q.  True, False, and Explain:  Moral hazard models predict that the people with the most insurance will take the most risks, but adverse selection models predict the opposite.
+False. Moral Hazzard predicts that "once you insure a risk-adverse agent, they may want to take additional risk." Adverse Selection suggests that people who already possess certain risk factors or already engage in riskier behavior are more likely to buy insurance.  The difference is a matter of post facto behavioral changes versus prior self-selection.
+Q.  More educated workers normally have lower unemployment rates than less educated workers.
+True, False, and Explain: The efficiency wage model can explain this pattern.
+False. The efficiency wage model says that people are paid more to avoid shirking.  It is only loosely connected to the level of education.   It would be better to suggest that the signaling model has far more explanatory power to describe why more educated workers are employed at higher rates.
+Q. True, False, and Explain: Asymmetric information problems do not require irrationality, but irrationality makes asymmetric information problems more severe.
+False, asymmetric information problems do not require irrationality, so that part is true.  However irrationality does not categorically make information problems more severe.  When making choice under uncertainty, we may not know how an individual will act with certainty but with the knowledge of common irrational biases and heuristics, we might better predict his behavior. In other words it depends on the direction of the bias. Lemon Example plays
+Q. True, False, and Explain:  There is no change in current U.S. policy that would do much to mitigate moral hazard problems.
+False. The US government continues to add to the moral hazard problem in housing.  That is they drive down the risk of lending with incentives which allows for more risky behavior. Too big to fail is another example.  Another are Countries that are guaranteed US protection are incentivized saber-rattling.  Flood insurance incentivizes folks to rebuild in flood-prone areas! Do seat belt laws make people more risky behind the wheel?
+Q. Taking into account everything you have learned, sketch your best explanation for why the U.S. political system allowed the subprime crisis to happen.
+Using a moral hazard argument, we can see that government policy had propped up unsustainable lending and borrowing.  On the lender side it allowed banks to take risks and lend to sub-optimal borrowers.  From the standpoint of buyers, it allowed them to take risks buying houses they couldn't quite afford.  Fannie and Freddie are willing to buy all mortgage loans outright so lenders don't have the risk.  However, once the bill comes due, in the form of default, government passes the risk onto the general public in the form of taxes (Debt, inflation).
+This could also be answer in an irrational rationality answer, because the cost of understanding why the bubble is so high.   The American Dream then is a reason for irrational rationality created a basis for that systemic bias. 
+Q. True, False, and Explain: Prices in betting markets are determined by agents' preferences and endowments, not objective probabilities. However, if some people have more accurate beliefs than others, then over time, prices become more and more likely to reflect objective probabilities.
+TRUE.  Your preference for irrationality in betting markets drops because you are internalizing the costs of having irrational beliefs. So to avoid that cost, you start placing bets that are closer to actual probabilities.   The cost of irrational preference indulgence is higher. 
+Q. True, False, and Explain: If the efficient markets hypothesis is correct, then the marginal private cost of irrational investing can easily be zero.
+ True. It could happen that one's irrational investments could align with the random walk of an efficient market such that the marginal private cost of irrational investing would be zero.  If EMH holds, one could face a marginal private cost of investing of zero. 

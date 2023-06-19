@@ -1,0 +1,20 @@
+5.  Suppose each firm in an industry has TC=
+2
+iq ; i.e., zero fixed costs with  
+increasing  marginal costs.  In dustry demand is given by P=1/Q, where Q=
+
+iiq . 
+True, False, and Explain:   Bertrand competition will allow an infinite number 
+of firms to survive in this market, implying no productive or allocative 
+inefficiency . 
+ 
+TRUE.  All firms have the same cost structure of  TC=
+2
+iq , so MC=
+iq2  and AC =
+iq . Due to this 
+symmetric cost structure, Bertrand equilibrium implies that P=MC=minimum AC=0.  W hen does 
+P=0?  Since P=1 /Q, this only occurs  when total output is infinite, requiring an infinite number of 
+firms, each producing an infinitesimal quantity of output.  There is no allocative inefficiency, since 
+P=MC, and no productive inefficiency, because all output is produced at the minimum AC of 0.  
+ 

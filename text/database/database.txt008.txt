@@ -1,0 +1,24 @@
+6.  Suppose the Ultimatum Game is played simultaneously  rather th an 
+sequentially.  One player writes down an offer, and the other player writes down  3 
+a minimum acceptable offer.  Both notes are then opened; if Player 1's offer is 
+greater than or equal to Player 2's minimum acceptable offer, they get Player 1's 
+allocation .  Otherwise both players get nothing.  
+ 
+True, False, and Explain:   There is only one weakly dominant strategy in this 
+game and one subgame perfection equilibrium, but (assuming players' offers do 
+not have to be whole numbers) an infinity of Nash equilibria . 
+ 
+FALSE.  It is indeed weakly dominant for Player 2 to write a minimum acceptable offer of 0, 
+making it strictly dominant for Player 1 to offer 0.  
+ 
+Moreover, it is indeed that case that there are an infinity of NE.  If Player 1's offer plus Player 2's 
+min imum acceptable offer add up to the total payoff, you have a NE.  
+ 
+HOWEVER, in a simultaneous game, all of these infinite number of NE are subgame perfect!  In a 
+simultaneous move game, there is only one subgame, so all NE are SGP.  Intuitively, in the 
+simu ltaneous game, Player 2 is in just as strong a bargaining position as Player 1.  Player 1 can 
+threaten to give a low offer, but Player 2 can just as easily threaten to reject such an offer.  In 
+contrast, in the sequential game, Player 1 does not just threa ten to give a low offer.  He makes  the 
+offer irrevocably, which then leaves Player 2 with a definite choice between something and 
+nothing.  
+ 

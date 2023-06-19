@@ -1,0 +1,10 @@
+9. Suppose Caplan is right that voters buy large quantities of irrational political beliefs.
+ 
+True, False, and Explain: This hardly shows that political markets are inefficient. Instead, it shows that we have mismeasured their primary output; the main product of political markets is psychological well-being rather than wealth-maximizing policy.
+
+False? Saying that markets are or are not efficient is a very specific claim. By appealing to Kaldor-Hicks efficiency, we are arguing that they maximize the total social value of resources. Markets that do not do this may be many things, but we cannot say they are efficient. This is Scott's answer--and Scott thinks it is bad.   Nathan adds: We could note that voter's psychological well-being can factor into efficiency if voters place a dollar-value on that psychological well-being. However, because the fact that your vote will not decide an election means voters can indulge their irrationality up to their bliss point with a price of zero, there is no reason to think that the psychological benefits of the irrationality to them exceed the social costs. This is a classic externality problem, in which the social costs are positive but the private costs to the decision-maker are zero.
+
+
+
+2009 FINAL EXAM
+

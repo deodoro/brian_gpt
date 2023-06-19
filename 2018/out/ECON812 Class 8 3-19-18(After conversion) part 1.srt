@@ -1,0 +1,1929 @@
+1
+00:00:00,000 --> 00:00:02,620
+But it has a lot of absurd implications,
+
+2
+00:00:02,620 --> 00:00:05,720
+such as everyone would be happy to take a one
+
+3
+00:00:05,720 --> 00:00:09,600
+in a trillion gamble of getting a quadrillion dollars,
+
+4
+00:00:09,600 --> 00:00:13,160
+rather than get $500 for sure.
+
+5
+00:00:13,160 --> 00:00:15,600
+And almost no one wants deals like that.
+
+6
+00:00:15,600 --> 00:00:17,180
+I mean, when the numbers get that big,
+
+7
+00:00:17,180 --> 00:00:18,180
+it's a little confusing.
+
+8
+00:00:18,180 --> 00:00:20,800
+But you can see how many people would
+
+9
+00:00:20,800 --> 00:00:24,000
+want a one in 1,000 chance of a million dollars,
+
+10
+00:00:24,000 --> 00:00:26,920
+rather than, say, $500 for sure.
+
+11
+00:00:26,920 --> 00:00:29,760
+So it seems quite unlikely.
+
+12
+00:00:29,760 --> 00:00:32,720
+So we just have paper towel.
+
+13
+00:00:32,720 --> 00:00:34,200
+You can get that.
+
+14
+00:00:34,200 --> 00:00:35,680
+Can we get rid of this?
+
+15
+00:00:35,680 --> 00:00:36,680
+It'll work, I promise.
+
+16
+00:00:36,680 --> 00:00:37,680
+Oh, all right.
+
+17
+00:00:37,680 --> 00:00:38,680
+Thank you.
+
+18
+00:00:38,680 --> 00:00:39,180
+Hold on.
+
+19
+00:00:39,180 --> 00:00:40,360
+We're going to do this one.
+
+20
+00:00:40,360 --> 00:00:40,860
+Oh, great.
+
+21
+00:00:40,860 --> 00:00:41,360
+All right.
+
+22
+00:00:41,360 --> 00:00:44,240
+So anyway, expected value maximization
+
+23
+00:00:44,240 --> 00:00:47,280
+rejected for these obviously absurd conclusions.
+
+24
+00:00:47,280 --> 00:00:49,680
+And so then economists normally switch over
+
+25
+00:00:49,680 --> 00:00:53,840
+to the expected utility theory, which many people misinterpret
+
+26
+00:00:53,840 --> 00:00:54,840
+as being the same thing.
+
+27
+00:00:54,840 --> 00:00:56,280
+But it's totally not.
+
+28
+00:00:56,280 --> 00:00:57,360
+What's the big difference?
+
+29
+00:00:57,360 --> 00:01:00,240
+The big difference is that with expected utility theory,
+
+30
+00:01:00,240 --> 00:01:04,000
+we give everyone a utility of wealth function,
+
+31
+00:01:04,000 --> 00:01:07,000
+such as utilities equal to the square root of wealth.
+
+32
+00:01:07,000 --> 00:01:10,440
+And then people maximize the expected value of that.
+
+33
+00:01:10,440 --> 00:01:12,840
+You'll maximize the expected value of that.
+
+34
+00:01:12,840 --> 00:01:16,320
+And this is a way where you can easily
+
+35
+00:01:16,320 --> 00:01:20,120
+build in both risk aversion and risk preferences
+
+36
+00:01:20,120 --> 00:01:21,840
+we're going to see.
+
+37
+00:01:21,840 --> 00:01:24,320
+The procedure for expected utility theory.
+
+38
+00:01:24,320 --> 00:01:28,600
+Step one, you assign numerical waste outcomes via
+
+39
+00:01:28,600 --> 00:01:31,680
+an expected utility function.
+
+40
+00:01:31,680 --> 00:01:35,760
+Then linearly weight outcomes by the probability.
+
+41
+00:01:35,760 --> 00:01:37,440
+So it's a linear weight.
+
+42
+00:01:37,440 --> 00:01:38,440
+What else can you do?
+
+43
+00:01:38,440 --> 00:01:40,360
+In principle, you could go and weight everything
+
+44
+00:01:40,360 --> 00:01:42,680
+by the square of the probability.
+
+45
+00:01:42,680 --> 00:01:44,400
+Well, the square root of the probability.
+
+46
+00:01:44,400 --> 00:01:48,240
+These are all logically possible ways of doing it, right?
+
+47
+00:01:48,240 --> 00:01:51,200
+Still, you say, yeah, I just go and do
+
+48
+00:01:51,200 --> 00:01:53,560
+whatever has the highest value of the square
+
+49
+00:01:53,560 --> 00:01:55,360
+of the probability times utility function.
+
+50
+00:01:55,360 --> 00:01:58,360
+But that's not how expected utility theory works.
+
+51
+00:01:58,360 --> 00:02:00,440
+And then you just choose whatever gamble
+
+52
+00:02:00,440 --> 00:02:05,160
+has the highest linearly weighted expected outcome.
+
+53
+00:02:05,160 --> 00:02:07,040
+So like I said, if we have this function,
+
+54
+00:02:07,040 --> 00:02:09,760
+and you've got either a 50% chance of $10,000,
+
+55
+00:02:09,760 --> 00:02:12,880
+a 50% chance of zero, or 2,000 with certainty,
+
+56
+00:02:12,880 --> 00:02:18,000
+all that we do is go and do 0.5 times the square root of 10,000
+
+57
+00:02:18,000 --> 00:02:20,200
+plus 0.5 times the square root of zero,
+
+58
+00:02:20,200 --> 00:02:25,720
+and compare that to the 1 times the square root of 2,000.
+
+59
+00:02:25,720 --> 00:02:28,480
+And why 1 times the square root of 2,000?
+
+60
+00:02:28,480 --> 00:02:32,880
+Because the probability of that thing happening is 1.
+
+61
+00:02:35,400 --> 00:02:37,200
+Now, you might remember back when
+
+62
+00:02:37,200 --> 00:02:39,360
+you were learning basic utility theory,
+
+63
+00:02:39,360 --> 00:02:43,840
+and you heard that basic utility theory
+
+64
+00:02:43,840 --> 00:02:46,680
+is invariant up to any monotonic transformation.
+
+65
+00:02:46,680 --> 00:02:50,320
+So what that means is that for any regular utility function,
+
+66
+00:02:50,320 --> 00:02:52,440
+you're always going to have to square it.
+
+67
+00:02:52,440 --> 00:02:53,200
+You would cube it.
+
+68
+00:02:53,200 --> 00:02:54,480
+You would take the square root.
+
+69
+00:02:54,480 --> 00:02:57,760
+And it gives you exactly the same answer regardless.
+
+70
+00:02:57,760 --> 00:03:00,640
+Remember when you start off with a Cobb-Douglas function,
+
+71
+00:03:00,640 --> 00:03:02,680
+and then you take the log of it, and then it
+
+72
+00:03:02,680 --> 00:03:06,160
+turns into this other thing that looks very different?
+
+73
+00:03:06,160 --> 00:03:09,800
+And that's perfectly fine, because the log function
+
+74
+00:03:09,800 --> 00:03:11,400
+is monotonic.
+
+75
+00:03:11,400 --> 00:03:13,600
+Whatever number was higher before you logged it
+
+76
+00:03:13,600 --> 00:03:16,760
+is still higher after you logged it.
+
+77
+00:03:16,760 --> 00:03:18,200
+Number six?
+
+78
+00:03:18,200 --> 00:03:19,160
+Vaguely?
+
+79
+00:03:19,160 --> 00:03:19,840
+Vaguely?
+
+80
+00:03:19,840 --> 00:03:20,480
+All right.
+
+81
+00:03:20,480 --> 00:03:22,560
+Now, expected utility theory is not like that.
+
+82
+00:03:22,560 --> 00:03:24,280
+Expected utility theory, if you square it
+
+83
+00:03:24,280 --> 00:03:26,800
+or take the square root, it changes the answer,
+
+84
+00:03:26,800 --> 00:03:28,720
+which means that with expected utility theory,
+
+85
+00:03:28,720 --> 00:03:31,440
+there's extra information contained within that utility
+
+86
+00:03:31,440 --> 00:03:33,680
+function.
+
+87
+00:03:33,680 --> 00:03:35,960
+And all that you're allowed to do
+
+88
+00:03:35,960 --> 00:03:37,460
+to expect utility functions, you're
+
+89
+00:03:37,460 --> 00:03:39,480
+allowed to multiply them by a constant,
+
+90
+00:03:39,480 --> 00:03:42,240
+and you're allowed to add a constant.
+
+91
+00:03:42,240 --> 00:03:44,360
+Those are perfectly fine.
+
+92
+00:03:44,360 --> 00:03:46,000
+And there is a technical term.
+
+93
+00:03:46,000 --> 00:03:48,160
+This is called an affine transformation.
+
+94
+00:03:48,160 --> 00:03:49,720
+But don't worry about it.
+
+95
+00:03:49,720 --> 00:03:53,560
+The main thing to know is that expected utility functions
+
+96
+00:03:53,560 --> 00:03:56,280
+have extra information packed into them.
+
+97
+00:03:56,280 --> 00:03:58,360
+And so you're not mathematically allowed
+
+98
+00:03:58,360 --> 00:04:00,120
+to just square them or take the square root
+
+99
+00:04:00,120 --> 00:04:01,780
+and assume the answer will be the same.
+
+100
+00:04:01,780 --> 00:04:03,480
+In fact, that assumption would be wrong.
+
+101
+00:04:06,480 --> 00:04:08,080
+Now, so there are some implications
+
+102
+00:04:08,080 --> 00:04:12,220
+of expected utility theory that seem
+
+103
+00:04:12,220 --> 00:04:15,560
+pretty obvious and trivial, given the axioms.
+
+104
+00:04:15,560 --> 00:04:18,400
+And yet, if you remember what human beings are actually
+
+105
+00:04:18,400 --> 00:04:23,600
+like, and remember those creatures, human beings,
+
+106
+00:04:23,600 --> 00:04:26,640
+you may still feel like one after all this economics.
+
+107
+00:04:26,640 --> 00:04:27,520
+Or maybe you don't.
+
+108
+00:04:27,520 --> 00:04:29,600
+Maybe you now feel like you are superior
+
+109
+00:04:29,600 --> 00:04:31,120
+to regular human beings.
+
+110
+00:04:31,120 --> 00:04:33,560
+But either way, important to remember
+
+111
+00:04:33,560 --> 00:04:35,760
+that it's supposed to be a theory about them.
+
+112
+00:04:35,760 --> 00:04:37,920
+So if you remember these things, you'll
+
+113
+00:04:37,920 --> 00:04:41,080
+realize that these are actually problems.
+
+114
+00:04:41,080 --> 00:04:45,680
+So one implication is the compounding one,
+
+115
+00:04:45,680 --> 00:04:48,600
+which says that you'll be indifferent between a 50%
+
+116
+00:04:48,600 --> 00:04:50,600
+chance of a 50% chance of something
+
+117
+00:04:50,600 --> 00:04:53,360
+and a 25% chance of something.
+
+118
+00:04:53,360 --> 00:04:56,280
+And you say, well, everyone is like that, aren't they?
+
+119
+00:04:56,280 --> 00:04:56,880
+No.
+
+120
+00:04:56,880 --> 00:04:58,800
+Have you ever talked to a toddler?
+
+121
+00:04:58,800 --> 00:05:00,640
+Toddlers will sometimes, they won't
+
+122
+00:05:00,640 --> 00:05:03,600
+want to go and roll all the dice at once.
+
+123
+00:05:03,600 --> 00:05:06,400
+They'll want to first roll one, and then they, OK,
+
+124
+00:05:06,400 --> 00:05:07,800
+now I'm halfway there.
+
+125
+00:05:07,800 --> 00:05:10,520
+And then they want to roll the other one.
+
+126
+00:05:10,520 --> 00:05:12,200
+And you're like, what's the difference?
+
+127
+00:05:12,200 --> 00:05:13,700
+And they're like, well, I can't stand
+
+128
+00:05:13,700 --> 00:05:16,000
+to have it all determined at once.
+
+129
+00:05:16,000 --> 00:05:17,480
+It's too stressful.
+
+130
+00:05:17,480 --> 00:05:19,000
+You're like, it doesn't matter.
+
+131
+00:05:19,000 --> 00:05:21,800
+It's 25% either way.
+
+132
+00:05:21,800 --> 00:05:23,440
+I don't need to hear that.
+
+133
+00:05:23,440 --> 00:05:26,680
+Just give me, I'm going to roll one die at a time.
+
+134
+00:05:26,680 --> 00:05:29,600
+That's the only way I feel safe doing this.
+
+135
+00:05:29,600 --> 00:05:32,040
+I mean, it just seems like only kids would do this.
+
+136
+00:05:32,040 --> 00:05:33,920
+I've seen adults do the same way about it.
+
+137
+00:05:33,920 --> 00:05:35,460
+So if you think about this, if you're
+
+138
+00:05:35,460 --> 00:05:37,400
+at a casino in Las Vegas, can you
+
+139
+00:05:37,400 --> 00:05:40,680
+imagine someone flipping the cards over one at a time
+
+140
+00:05:40,680 --> 00:05:43,000
+instead of all at once?
+
+141
+00:05:43,000 --> 00:05:45,680
+That is a violation of compounding.
+
+142
+00:05:45,680 --> 00:05:48,200
+That's one where somehow they get
+
+143
+00:05:48,200 --> 00:05:53,080
+a weird sense of insurance out of this metaphysically
+
+144
+00:05:53,080 --> 00:05:55,600
+nonsensical procedure.
+
+145
+00:05:55,600 --> 00:05:57,400
+And but here's the thing.
+
+146
+00:05:57,400 --> 00:06:00,440
+If human beings act in a metaphysically nonsensical way,
+
+147
+00:06:00,440 --> 00:06:03,520
+then the model has got to account for that.
+
+148
+00:06:03,520 --> 00:06:07,060
+It's got to, yeah, well, the world can't have a contradiction,
+
+149
+00:06:07,060 --> 00:06:09,280
+but a person can contradict himself.
+
+150
+00:06:09,280 --> 00:06:11,400
+Perfectly fine.
+
+151
+00:06:11,400 --> 00:06:15,280
+Puzzle, like a human being being contradicted.
+
+152
+00:06:15,280 --> 00:06:16,640
+Now another implication.
+
+153
+00:06:16,640 --> 00:06:20,880
+This is one that is very important in the real world.
+
+154
+00:06:20,880 --> 00:06:22,960
+If you're selling insurance or if you
+
+155
+00:06:22,960 --> 00:06:28,800
+are trying to fear monger the population into voting for you,
+
+156
+00:06:28,800 --> 00:06:31,960
+there's the linear probabilities.
+
+157
+00:06:31,960 --> 00:06:36,880
+So with expected utility theory, a 1% chance of something
+
+158
+00:06:36,880 --> 00:06:40,960
+is just a little bit less, if it's a bad outcome.
+
+159
+00:06:40,960 --> 00:06:44,000
+Say a 1% chance of a bad outcome is a little bit worse
+
+160
+00:06:44,000 --> 00:06:47,840
+than a 2%, which is in turn just a little bit better.
+
+161
+00:06:47,840 --> 00:06:51,280
+And then in turn, so wait, hold on, this is a bad outcome.
+
+162
+00:06:51,280 --> 00:06:55,120
+So a 2% chance of a bad outcome is just a little bit worse
+
+163
+00:06:55,120 --> 00:07:00,800
+than a 1%, which in turn is a little bit worse.
+
+164
+00:07:00,800 --> 00:07:02,480
+OK, so bad outcome.
+
+165
+00:07:02,480 --> 00:07:07,080
+So 2%, this is worse, a little bit worse,
+
+166
+00:07:07,080 --> 00:07:08,640
+and then this is best.
+
+167
+00:07:08,640 --> 00:07:09,560
+But here's the thing.
+
+168
+00:07:09,560 --> 00:07:11,440
+So with expected utility theory, this is linear.
+
+169
+00:07:11,440 --> 00:07:14,440
+So moving from here to here should psychologically
+
+170
+00:07:14,440 --> 00:07:16,280
+be the same as moving from there to there.
+
+171
+00:07:16,280 --> 00:07:20,320
+Going from 2% to 1% is exactly the same as a move from 1%
+
+172
+00:07:20,320 --> 00:07:21,720
+to 0%.
+
+173
+00:07:21,720 --> 00:07:24,240
+And yet, if you are selling any kind of insurance product
+
+174
+00:07:24,240 --> 00:07:26,680
+to people, it is standard to try to say,
+
+175
+00:07:26,680 --> 00:07:29,160
+you are guaranteed this cannot happen anymore,
+
+176
+00:07:29,160 --> 00:07:31,240
+so you're going to stop worrying about it.
+
+177
+00:07:31,240 --> 00:07:33,400
+And that seems a lot more rhetorically persuasive
+
+178
+00:07:33,400 --> 00:07:36,360
+to people than saying, you know that 2% risk you face?
+
+179
+00:07:36,360 --> 00:07:38,480
+After this, we'll only get 1% risk.
+
+180
+00:07:38,480 --> 00:07:40,160
+But you're telling me there's a chance.
+
+181
+00:07:40,160 --> 00:07:40,720
+Yes.
+
+182
+00:07:40,720 --> 00:07:42,600
+Yeah, yeah, as long as there's a chance.
+
+183
+00:07:42,600 --> 00:07:43,640
+You're telling me there's a chance.
+
+184
+00:07:43,640 --> 00:07:45,320
+Now, but think about it a little bit more.
+
+185
+00:07:45,320 --> 00:07:46,320
+You say, but wait a second, that's
+
+186
+00:07:46,320 --> 00:07:48,600
+wrong because there's a chance the insurance company goes
+
+187
+00:07:48,600 --> 00:07:49,960
+bankrupt and doesn't pay me.
+
+188
+00:07:49,960 --> 00:07:51,720
+There's a chance that they rule that it doesn't really
+
+189
+00:07:51,720 --> 00:07:54,200
+count as the thing that I would think it would count as.
+
+190
+00:07:54,200 --> 00:07:55,720
+And so again, I don't get paid.
+
+191
+00:07:55,720 --> 00:07:59,000
+So you haven't really given me assurance, like a certainty
+
+192
+00:07:59,000 --> 00:08:00,160
+at all.
+
+193
+00:08:00,160 --> 00:08:01,700
+But if you are selling the insurance,
+
+194
+00:08:01,700 --> 00:08:03,080
+don't bring up that stuff.
+
+195
+00:08:03,080 --> 00:08:05,480
+Instead, just bring up, there'll be no chance.
+
+196
+00:08:05,480 --> 00:08:07,480
+You're totally safe.
+
+197
+00:08:07,480 --> 00:08:09,760
+Totally safe.
+
+198
+00:08:09,760 --> 00:08:12,440
+And again, if you are going and trying
+
+199
+00:08:12,440 --> 00:08:16,920
+to beer monger with a group of voters, what do you do?
+
+200
+00:08:16,920 --> 00:08:19,680
+You just say, look, we don't want the smoking gun
+
+201
+00:08:19,680 --> 00:08:21,680
+to be a mushroom cloud.
+
+202
+00:08:21,680 --> 00:08:23,640
+What probability here?
+
+203
+00:08:23,640 --> 00:08:26,520
+Look, you just don't want that to happen at all.
+
+204
+00:08:26,520 --> 00:08:28,200
+And this will vote for us, and it's zero.
+
+205
+00:08:28,200 --> 00:08:29,800
+So everything's fine here.
+
+206
+00:08:29,800 --> 00:08:31,680
+Now, you could question the empirics and say,
+
+207
+00:08:31,680 --> 00:08:32,760
+it's not really zero.
+
+208
+00:08:32,760 --> 00:08:34,320
+In any case, just the movement, like,
+
+209
+00:08:34,320 --> 00:08:36,200
+why is it so important to move it to zero
+
+210
+00:08:36,200 --> 00:08:38,680
+rather than one in a trillion?
+
+211
+00:08:38,680 --> 00:08:40,760
+It's almost the same thing, right?
+
+212
+00:08:40,760 --> 00:08:43,040
+You could live a million years, and you'll probably never
+
+213
+00:08:43,040 --> 00:08:45,360
+see a one in a trillion probability occur.
+
+214
+00:08:45,360 --> 00:08:49,480
+So why is zero so much discreetly better than one
+
+215
+00:08:49,480 --> 00:08:51,040
+in a trillion for people?
+
+216
+00:08:51,040 --> 00:08:52,440
+And yet, psychologically, it seems
+
+217
+00:08:52,440 --> 00:08:53,560
+that people are this way.
+
+218
+00:08:56,760 --> 00:08:59,440
+And even for seemingly pretty trivial things,
+
+219
+00:08:59,440 --> 00:09:02,560
+there's no chance you'll miss lunch if you do this.
+
+220
+00:09:02,560 --> 00:09:04,400
+How bad is that?
+
+221
+00:09:04,400 --> 00:09:05,760
+I've missed lunches before.
+
+222
+00:09:05,760 --> 00:09:07,240
+I survived.
+
+223
+00:09:07,240 --> 00:09:10,520
+Sometimes I barely even noticed until a few hours later.
+
+224
+00:09:10,520 --> 00:09:13,920
+But nevertheless, this putting great weight
+
+225
+00:09:13,920 --> 00:09:18,080
+upon certainties or zeros and treating those
+
+226
+00:09:18,080 --> 00:09:20,600
+as being different in kind from movements
+
+227
+00:09:20,600 --> 00:09:26,400
+within the one non-zero, non-one probability of another,
+
+228
+00:09:26,400 --> 00:09:28,400
+so the speculative theory says that won't happen.
+
+229
+00:09:28,400 --> 00:09:30,480
+And yet, it seems like in the real world,
+
+230
+00:09:30,480 --> 00:09:33,840
+people do think this way a lot.
+
+231
+00:09:33,840 --> 00:09:35,320
+All right.
+
+232
+00:09:35,320 --> 00:09:37,960
+So now this is saying that you value $1,000 100 times as much
+
+233
+00:09:37,960 --> 00:09:38,720
+as 10.
+
+234
+00:09:38,720 --> 00:09:40,880
+It's the probabilities that matter linearly.
+
+235
+00:09:40,880 --> 00:09:43,440
+So the rewards totally can matter non-linearly,
+
+236
+00:09:43,440 --> 00:09:45,280
+but not the probabilities.
+
+237
+00:09:45,280 --> 00:09:51,080
+And that's what the inverse of the equation is.
+
+238
+00:09:51,080 --> 00:09:51,580
+All right.
+
+239
+00:09:51,580 --> 00:09:53,560
+So any questions?
+
+240
+00:09:53,560 --> 00:09:56,060
+Questions?
+
+241
+00:09:56,060 --> 00:09:57,040
+All right.
+
+242
+00:09:57,040 --> 00:09:59,320
+So let's now do rational interpretations
+
+243
+00:09:59,320 --> 00:10:00,880
+in a river of generality.
+
+244
+00:10:00,880 --> 00:10:01,960
+Symmetric information.
+
+245
+00:10:01,960 --> 00:10:03,920
+Many of these models you may have heard before,
+
+246
+00:10:03,920 --> 00:10:05,640
+but usually they are not grouped together
+
+247
+00:10:05,640 --> 00:10:06,840
+as symmetric information.
+
+248
+00:10:06,840 --> 00:10:08,720
+It's common to group all the asymmetric information
+
+249
+00:10:08,720 --> 00:10:10,960
+together, but not the symmetric information together.
+
+250
+00:10:10,960 --> 00:10:14,040
+But it's worth thinking about it as,
+
+251
+00:10:14,040 --> 00:10:15,720
+that's why I do cluster them, that there
+
+252
+00:10:15,720 --> 00:10:19,120
+is a whole area of different models of information
+
+253
+00:10:19,120 --> 00:10:20,880
+where it is symmetric, where everyone is
+
+254
+00:10:20,880 --> 00:10:24,800
+in the same boat of ignorance.
+
+255
+00:10:24,800 --> 00:10:28,280
+Now, back in week one, seven weeks ago,
+
+256
+00:10:28,280 --> 00:10:30,440
+I believe that it's been that long.
+
+257
+00:10:30,440 --> 00:10:32,400
+All right, we went over two different versions
+
+258
+00:10:32,400 --> 00:10:33,400
+of probability.
+
+259
+00:10:33,400 --> 00:10:35,960
+And what are those?
+
+260
+00:10:35,960 --> 00:10:37,200
+Objective and subjective.
+
+261
+00:10:37,200 --> 00:10:38,360
+That's right.
+
+262
+00:10:38,360 --> 00:10:40,760
+All right, and subjective is much more generally applicable
+
+263
+00:10:40,760 --> 00:10:42,280
+than objective.
+
+264
+00:10:42,280 --> 00:10:44,320
+Subjective, you can have a subjective probability
+
+265
+00:10:44,320 --> 00:10:45,120
+about anything.
+
+266
+00:10:45,120 --> 00:10:48,520
+Things that are unique, things that have never occurred,
+
+267
+00:10:48,520 --> 00:10:50,880
+you can have subjective probabilities for those.
+
+268
+00:10:50,880 --> 00:10:52,640
+Objective probability, on the other hand,
+
+269
+00:10:52,640 --> 00:10:54,200
+is based upon observed frequency.
+
+270
+00:10:54,200 --> 00:10:55,560
+So it's never happened.
+
+271
+00:10:55,560 --> 00:10:59,560
+Then all you can say is 0 out of 0 times as it occurred.
+
+272
+00:10:59,560 --> 00:11:01,720
+All right, so undefined.
+
+273
+00:11:01,720 --> 00:11:04,920
+Now, the problem, as we said, is that subjective probabilities
+
+274
+00:11:04,920 --> 00:11:08,840
+have no necessary connection to the real world at all.
+
+275
+00:11:08,840 --> 00:11:11,440
+And this seems weird, because it does
+
+276
+00:11:11,440 --> 00:11:13,680
+look like there's some connection between the way
+
+277
+00:11:13,680 --> 00:11:16,080
+the world really is and what people think.
+
+278
+00:11:16,080 --> 00:11:18,880
+Like, normally, if an extra country is formed,
+
+279
+00:11:18,880 --> 00:11:22,120
+then people start believing that country exists.
+
+280
+00:11:22,120 --> 00:11:24,320
+Or if there is mass hunger in the street,
+
+281
+00:11:24,320 --> 00:11:26,720
+people switch their view that there is now
+
+282
+00:11:26,720 --> 00:11:29,920
+mass hunger in the street to some extent.
+
+283
+00:11:29,920 --> 00:11:32,360
+All right, so what can we do about this?
+
+284
+00:11:32,360 --> 00:11:34,400
+Well, the leading theoretical effort
+
+285
+00:11:34,400 --> 00:11:37,360
+to link objective and subjective probabilities
+
+286
+00:11:37,360 --> 00:11:41,560
+is called rational expectations, or just RE for short.
+
+287
+00:11:41,560 --> 00:11:44,000
+There are two different ways that rational expectations
+
+288
+00:11:44,000 --> 00:11:46,320
+generally is explained.
+
+289
+00:11:46,320 --> 00:11:48,280
+There is the one that is simplest
+
+290
+00:11:48,280 --> 00:11:51,160
+and is most commonly actually used for empirics.
+
+291
+00:11:51,160 --> 00:11:54,200
+And this just says that you've got rational expectations
+
+292
+00:11:54,200 --> 00:11:58,240
+if your errors have a mean of 0 and are uncorrelated
+
+293
+00:11:58,240 --> 00:11:59,760
+with available information.
+
+294
+00:11:59,760 --> 00:12:02,320
+So again, a standard characterization
+
+295
+00:12:02,320 --> 00:12:05,040
+of rational expectations is that your errors are distributed
+
+296
+00:12:05,040 --> 00:12:08,480
+normally with a mean of 0 and constant variance.
+
+297
+00:12:08,480 --> 00:12:13,440
+Then those errors are uncorrelated with each other.
+
+298
+00:12:13,440 --> 00:12:16,960
+Now, there is a little bit of weaseling here,
+
+299
+00:12:16,960 --> 00:12:18,400
+because we say it was uncorrelated
+
+300
+00:12:18,400 --> 00:12:21,360
+with available information, with what counts as available.
+
+301
+00:12:21,360 --> 00:12:22,920
+But when you're doing empirical work,
+
+302
+00:12:22,920 --> 00:12:25,560
+you normally say, well, it was in the Wall Street Journal
+
+303
+00:12:25,560 --> 00:12:28,440
+yesterday that it's available.
+
+304
+00:12:28,440 --> 00:12:30,040
+Why that?
+
+305
+00:12:30,040 --> 00:12:33,000
+That's normally the way that it's done in practice.
+
+306
+00:12:33,000 --> 00:12:37,400
+Now, there's a deeper version, which is primarily
+
+307
+00:12:37,400 --> 00:12:39,400
+used just by theorists, because you can't really
+
+308
+00:12:39,400 --> 00:12:41,200
+do much with it in the real world.
+
+309
+00:12:41,200 --> 00:12:44,720
+But this version just says that you have rational expectations
+
+310
+00:12:44,720 --> 00:12:47,240
+if your subjective probability distribution matches
+
+311
+00:12:47,240 --> 00:12:51,000
+the objective probability distribution in the real world.
+
+312
+00:12:51,000 --> 00:12:52,540
+This is really hard to actually test,
+
+313
+00:12:52,540 --> 00:12:56,520
+but you can do it in a model very cleanly.
+
+314
+00:12:56,520 --> 00:13:00,560
+So basically, if you see a rational expectations model,
+
+315
+00:13:00,560 --> 00:13:03,120
+the normal approach to doing rational expectations
+
+316
+00:13:03,120 --> 00:13:06,400
+is you solve for the equilibrium where
+
+317
+00:13:06,400 --> 00:13:08,240
+the belief distribution exactly matches
+
+318
+00:13:08,240 --> 00:13:09,720
+the distribution of events.
+
+319
+00:13:09,720 --> 00:13:11,520
+And it all works out perfectly if you've
+
+320
+00:13:11,520 --> 00:13:12,600
+done the model correctly.
+
+321
+00:13:12,600 --> 00:13:17,960
+All right, now, a standard way of modeling
+
+322
+00:13:17,960 --> 00:13:21,120
+is this, just to say that if rationalization is true,
+
+323
+00:13:21,120 --> 00:13:23,400
+then everyone has unbiased beliefs.
+
+324
+00:13:23,400 --> 00:13:25,840
+So their mean error is zero.
+
+325
+00:13:25,840 --> 00:13:29,520
+And then what does it mean to have imperfect information
+
+326
+00:13:29,520 --> 00:13:32,640
+or error in a world of rational expectations?
+
+327
+00:13:32,640 --> 00:13:34,320
+There is a caricature that just says
+
+328
+00:13:34,320 --> 00:13:35,800
+people who believe in rational expectations
+
+329
+00:13:35,800 --> 00:13:37,040
+think error doesn't exist and everyone
+
+330
+00:13:37,040 --> 00:13:38,280
+has perfect information.
+
+331
+00:13:38,280 --> 00:13:39,960
+That's totally wrong.
+
+332
+00:13:39,960 --> 00:13:42,720
+So wipe that thought from your consciousness
+
+333
+00:13:42,720 --> 00:13:45,640
+because it's utterly in error.
+
+334
+00:13:45,640 --> 00:13:47,640
+What rational expectation says is, sure,
+
+335
+00:13:47,640 --> 00:13:49,160
+there could be tons of error.
+
+336
+00:13:49,160 --> 00:13:51,840
+But the error has to look a certain way.
+
+337
+00:13:51,840 --> 00:13:57,400
+Namely, if this is the actual truth, T star,
+
+338
+00:13:57,400 --> 00:14:02,400
+then the distribution of beliefs has to have a mean of zero.
+
+339
+00:14:02,400 --> 00:14:06,360
+So on S. So you're equally likely to be above or below
+
+340
+00:14:06,360 --> 00:14:09,160
+the actual true value.
+
+341
+00:14:09,160 --> 00:14:11,800
+I didn't even notice that over there.
+
+342
+00:14:11,800 --> 00:14:14,080
+So basically, it says that even though people
+
+343
+00:14:14,080 --> 00:14:17,040
+may have really big errors, and nonetheless,
+
+344
+00:14:17,040 --> 00:14:20,360
+their average belief is true.
+
+345
+00:14:20,360 --> 00:14:22,320
+Now, for one individual, this isn't that helpful
+
+346
+00:14:22,320 --> 00:14:25,600
+because for any given question, you just get one realization.
+
+347
+00:14:25,600 --> 00:14:28,960
+And then, well, I don't know, maybe I'm really wrong.
+
+348
+00:14:28,960 --> 00:14:32,680
+But I could just as easily be really high or really low.
+
+349
+00:14:32,680 --> 00:14:34,440
+So in a rational expectations world,
+
+350
+00:14:34,440 --> 00:14:36,840
+what does it mean to say that one person is well-informed
+
+351
+00:14:36,840 --> 00:14:38,360
+and one is poorly informed?
+
+352
+00:14:38,360 --> 00:14:41,400
+Well, a well-informed person is a small error
+
+353
+00:14:41,400 --> 00:14:43,000
+around the true mean.
+
+354
+00:14:43,000 --> 00:14:46,480
+That's a well-informed person.
+
+355
+00:14:46,480 --> 00:14:49,720
+And on the other hand, a poorly informed person
+
+356
+00:14:49,720 --> 00:14:51,920
+has a big distribution around the mean.
+
+357
+00:14:51,920 --> 00:14:55,120
+So this is a poorly informed person.
+
+358
+00:14:55,120 --> 00:14:57,400
+However, on average, their views are the same.
+
+359
+00:14:57,400 --> 00:15:00,120
+It's just a difference of the spread.
+
+360
+00:15:00,120 --> 00:15:03,080
+So just by the definition of variance,
+
+361
+00:15:03,080 --> 00:15:06,040
+you can see that a poorly informed person on average
+
+362
+00:15:06,040 --> 00:15:10,920
+is much farther from the truth than a well-informed person.
+
+363
+00:15:10,920 --> 00:15:13,720
+And of course, a perfectly informed person has no error.
+
+364
+00:15:13,720 --> 00:15:15,440
+And then their belief distribution
+
+365
+00:15:15,440 --> 00:15:19,760
+just is a straight line overlapping the truth.
+
+366
+00:15:19,760 --> 00:15:22,720
+So that's what rational explanation says.
+
+367
+00:15:22,720 --> 00:15:25,480
+Again, it's not claiming that people are omniscient
+
+368
+00:15:25,480 --> 00:15:27,720
+or anything like that.
+
+369
+00:15:27,720 --> 00:15:31,120
+It's just saying that there is a very specific structure
+
+370
+00:15:31,120 --> 00:15:36,120
+to how error works, which is that no matter how oblivious you
+
+371
+00:15:36,120 --> 00:15:38,600
+are, still, on average, you're right.
+
+372
+00:15:38,600 --> 00:15:40,880
+And the difference between the well-informed and poorly
+
+373
+00:15:40,880 --> 00:15:44,880
+informed is just how far the scatter around the truth is.
+
+374
+00:15:48,280 --> 00:15:50,240
+And furthermore, of course, rational explanation
+
+375
+00:15:50,240 --> 00:15:53,080
+does not assume that information or cognition is free.
+
+376
+00:15:53,080 --> 00:15:55,160
+In fact, if it were free, you'd expect
+
+377
+00:15:55,160 --> 00:15:58,520
+that there'd be no error, right?
+
+378
+00:15:58,520 --> 00:16:00,360
+And essentially, if you were to go and raise
+
+379
+00:16:00,360 --> 00:16:02,000
+the price of information, you'd expect
+
+380
+00:16:02,000 --> 00:16:04,400
+that this would increase the error.
+
+381
+00:16:04,400 --> 00:16:06,000
+So it's a pretty simple story.
+
+382
+00:16:06,000 --> 00:16:08,120
+The greater the price of information
+
+383
+00:16:08,120 --> 00:16:10,960
+is, the less effort you're going to put into acquiring more
+
+384
+00:16:10,960 --> 00:16:12,840
+and reducing the error, and then the greater
+
+385
+00:16:12,840 --> 00:16:14,520
+the expected spread.
+
+386
+00:16:14,520 --> 00:16:16,480
+On the other hand, when information gets cheap,
+
+387
+00:16:16,480 --> 00:16:19,520
+then you'd expect that beliefs will squeeze in
+
+388
+00:16:19,520 --> 00:16:22,680
+towards the center.
+
+389
+00:16:22,680 --> 00:16:26,640
+And you can apply this idea to any number of possibilities.
+
+390
+00:16:26,640 --> 00:16:28,560
+Like it would be for attending graduate school.
+
+391
+00:16:28,560 --> 00:16:32,360
+So no one knows for sure how well they'll do.
+
+392
+00:16:32,360 --> 00:16:36,080
+But if rational expectations hold, then on average,
+
+393
+00:16:36,080 --> 00:16:37,680
+you do know the truth.
+
+394
+00:16:37,680 --> 00:16:39,320
+On average, you know the truth.
+
+395
+00:16:39,320 --> 00:16:41,320
+And you also know what completion
+
+396
+00:16:41,320 --> 00:16:42,560
+will do for you, and so on.
+
+397
+00:16:42,560 --> 00:16:43,060
+Yes?
+
+398
+00:16:43,060 --> 00:16:46,400
+So if information isn't free, and different people
+
+399
+00:16:46,400 --> 00:16:48,400
+have different information, then are we just
+
+400
+00:16:48,400 --> 00:16:51,160
+saying that people are on average well-informed,
+
+401
+00:16:51,160 --> 00:16:53,520
+or on average poorly informed?
+
+402
+00:16:53,520 --> 00:16:56,400
+Well, here's the thing, is that for any one belief,
+
+403
+00:16:56,400 --> 00:16:58,640
+every individual only gets to really well to die once.
+
+404
+00:17:02,160 --> 00:17:03,000
+So here's the thing.
+
+405
+00:17:03,000 --> 00:17:04,560
+For one individual, it's super hard
+
+406
+00:17:04,560 --> 00:17:07,040
+to find out whether they satisfy the rational expectation
+
+407
+00:17:07,040 --> 00:17:07,600
+assumption.
+
+408
+00:17:07,600 --> 00:17:10,240
+Just like if you only have one observation,
+
+409
+00:17:10,240 --> 00:17:12,200
+how do you statistically test anything?
+
+410
+00:17:12,200 --> 00:17:14,800
+So in practice, if you wanted to test rational expectations,
+
+411
+00:17:14,800 --> 00:17:17,240
+you would wind up going and getting a big group of people
+
+412
+00:17:17,240 --> 00:17:19,880
+and seeing whether the average belief winds up
+
+413
+00:17:19,880 --> 00:17:22,200
+being zero, which is an implication
+
+414
+00:17:22,200 --> 00:17:23,280
+of rational expectations.
+
+415
+00:17:23,280 --> 00:17:24,960
+But there is another possibility.
+
+416
+00:17:24,960 --> 00:17:26,960
+It could just be that everyone's bias is biased,
+
+417
+00:17:26,960 --> 00:17:28,440
+but there's different biases.
+
+418
+00:17:28,440 --> 00:17:30,240
+But then how do you prevent, I guess,
+
+419
+00:17:30,240 --> 00:17:32,520
+skew from appearing as the cost of permissions
+
+420
+00:17:32,520 --> 00:17:34,960
+that increase or decrease?
+
+421
+00:17:34,960 --> 00:17:37,080
+So the answer, how do we prevent skew?
+
+422
+00:17:37,080 --> 00:17:38,240
+We assume it away.
+
+423
+00:17:38,240 --> 00:17:40,520
+That's what it does.
+
+424
+00:17:40,520 --> 00:17:43,320
+Again, you might go, so now people that are really into it
+
+425
+00:17:43,320 --> 00:17:47,480
+say, well, why would we ever think there would be any skew?
+
+426
+00:17:47,480 --> 00:17:49,080
+And so, you don't have an answer?
+
+427
+00:17:49,080 --> 00:17:51,240
+All right, well, we don't have to worry about it.
+
+428
+00:17:51,240 --> 00:17:52,400
+Of course, when you think about it a bit more,
+
+429
+00:17:52,400 --> 00:17:53,400
+there's lots of reasons.
+
+430
+00:17:53,400 --> 00:17:56,760
+What if the truth is bounded by zero?
+
+431
+00:17:56,760 --> 00:17:59,440
+How many hamburgers did we eat yesterday?
+
+432
+00:17:59,440 --> 00:18:02,200
+It can't actually be a normal distribution
+
+433
+00:18:02,200 --> 00:18:04,720
+because there's a minimum of zero hamburgers.
+
+434
+00:18:04,720 --> 00:18:06,800
+You can't eat negative hamburgers.
+
+435
+00:18:06,800 --> 00:18:09,000
+So there's a problem there.
+
+436
+00:18:09,000 --> 00:18:11,440
+And the actual amount of effort, intellectual effort
+
+437
+00:18:11,440 --> 00:18:12,840
+that's spent on things like that,
+
+438
+00:18:12,840 --> 00:18:14,200
+throwing it out when you're zero,
+
+439
+00:18:14,200 --> 00:18:17,560
+that's a pretty obvious issue.
+
+440
+00:18:17,560 --> 00:18:19,180
+Or you could do it for renting a movie.
+
+441
+00:18:19,180 --> 00:18:22,360
+Or actually now, since no one rents movies,
+
+442
+00:18:22,360 --> 00:18:24,800
+you do it for Netflix ratings.
+
+443
+00:18:24,800 --> 00:18:29,960
+So on average, are Netflix ratings accurate for you?
+
+444
+00:18:29,960 --> 00:18:31,640
+And there, of course, if one individual
+
+445
+00:18:31,640 --> 00:18:33,120
+had to give a bunch of observations for yourself,
+
+446
+00:18:33,120 --> 00:18:34,520
+you can determine, are they accurate for me,
+
+447
+00:18:34,520 --> 00:18:35,840
+on average, at least?
+
+448
+00:18:35,840 --> 00:18:37,320
+Or you can do a bigger one and see,
+
+449
+00:18:37,320 --> 00:18:39,880
+are they accurate for people overall?
+
+450
+00:18:39,880 --> 00:18:42,720
+Or something else you could do is
+
+451
+00:18:42,720 --> 00:18:44,840
+you could go and do a bunch of guesses
+
+452
+00:18:44,840 --> 00:18:46,420
+on many different issues, and then you
+
+453
+00:18:46,420 --> 00:18:48,520
+could test yourself for actualizations.
+
+454
+00:18:48,520 --> 00:18:50,240
+You can't do it just for one observation
+
+455
+00:18:50,240 --> 00:18:53,080
+because then how do you know that it wasn't just random error?
+
+456
+00:18:53,080 --> 00:18:54,600
+But if you do a lot.
+
+457
+00:18:54,600 --> 00:18:56,240
+In fact, this would be a useful thing
+
+458
+00:18:56,240 --> 00:18:57,720
+to know about yourself, right?
+
+459
+00:18:57,720 --> 00:19:00,720
+How accurate am I, really?
+
+460
+00:19:00,720 --> 00:19:03,640
+And there is the crummy way of determining your own accuracy,
+
+461
+00:19:03,640 --> 00:19:06,360
+which is to wait for things to happen and then self-assess.
+
+462
+00:19:06,360 --> 00:19:06,960
+Was I right?
+
+463
+00:19:06,960 --> 00:19:10,200
+Oh, yeah, totally, totally, always so right.
+
+464
+00:19:10,200 --> 00:19:13,280
+So Philip Tetlock calls this self-scoring.
+
+465
+00:19:13,280 --> 00:19:15,280
+And it's corrupt, and you shouldn't do it.
+
+466
+00:19:15,280 --> 00:19:16,600
+It's nice to do it.
+
+467
+00:19:16,600 --> 00:19:19,240
+People that do this all the time and don't
+
+468
+00:19:19,240 --> 00:19:21,960
+seem to have any interest in coming up with some other thing,
+
+469
+00:19:21,960 --> 00:19:24,040
+there's many alternatives to self-scoring.
+
+470
+00:19:24,040 --> 00:19:25,600
+One of them is just to state what you
+
+471
+00:19:25,600 --> 00:19:27,200
+and your prediction clearly in advance
+
+472
+00:19:27,200 --> 00:19:29,040
+and then come back later.
+
+473
+00:19:29,040 --> 00:19:31,560
+So then at least you don't wait for things to happen and go,
+
+474
+00:19:31,560 --> 00:19:32,960
+ah, just as I foresee.
+
+475
+00:19:36,600 --> 00:19:39,680
+You say, well, why do people do self-scoring if it's so crummy?
+
+476
+00:19:39,680 --> 00:19:42,960
+Well, it's very easy to do well with self-scoring.
+
+477
+00:19:42,960 --> 00:19:47,080
+In fact, I don't know anyone whose self-score is that.
+
+478
+00:19:47,080 --> 00:19:49,720
+There must be someone out there who's said, oh, my god,
+
+479
+00:19:49,720 --> 00:19:52,520
+I'm so terrible.
+
+480
+00:19:52,520 --> 00:19:55,840
+And then even with making your predictions in advance,
+
+481
+00:19:55,840 --> 00:19:58,240
+there's a problem that you can go and pick
+
+482
+00:19:58,240 --> 00:20:18,400
+a bunch of really easy questions.
+
+

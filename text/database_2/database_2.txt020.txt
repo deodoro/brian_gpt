@@ -1,0 +1,20 @@
+4.True, False, and Explain: The outcome of the game is more efficient if costs are sunk.
+ 
+ True. That's the only game where you get enter, enter and price falls to MC.[11][12] The outcome enter, enter doesn't occur when costs are NOT sunk. 
+ 
+Under monopoly, total surplus is (Pm+ CSmon) with probability 1. -  So when is contestability welfare-dominated by simple monopoly? -  When the expected surplus under contestability is less than (Pm + CSmon):
+ 
+ - (-2a + CSmax) + 2 (Pm+ CSmon) <  - (Pm+ CSmon)
+ 
+Thus, suppose that Pm=a. -  Then contestability is welfare-dominated if:
+ 
+.25* (-2a + CSmax) + .25* (a + CSmon) < (a + CSmon)
+ 
+which reduces to:
+ 
+a > CSmax  - - -  3*CSmon
+ 
+i.e., monopoly welfare dominates if the fixed costs exceeds the consumer surplus under competition minus three times the consumer surplus under monopoly.
+
+
+ 

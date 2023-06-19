@@ -1,0 +1,1717 @@
+1
+00:00:00,000 --> 00:00:00,500
+All right.
+
+2
+00:00:06,500 --> 00:00:07,000
+All right.
+
+3
+00:00:07,000 --> 00:00:12,580
+So last topic on behavioral economics part two,
+
+4
+00:00:12,580 --> 00:00:14,000
+behavioral economics and rationality.
+
+5
+00:00:15,180 --> 00:00:15,680
+All right.
+
+6
+00:00:15,680 --> 00:00:17,340
+So I think I started on this a little bit,
+
+7
+00:00:17,340 --> 00:00:21,120
+but I'm giving this feel so many times all at once together.
+
+8
+00:00:21,620 --> 00:00:24,300
+Anyways, so as you may have noticed,
+
+9
+00:00:24,300 --> 00:00:25,460
+when you took an economics class,
+
+10
+00:00:25,460 --> 00:00:28,140
+it is likely that a professor tried to fix you.
+
+11
+00:00:28,140 --> 00:00:29,140
+All right.
+
+12
+00:00:29,140 --> 00:00:32,140
+So you showed up thinking some things about economics,
+
+13
+00:00:32,140 --> 00:00:34,140
+and then you had a professor who said,
+
+14
+00:00:34,140 --> 00:00:37,140
+you are a receptacle for economic garbage,
+
+15
+00:00:37,140 --> 00:00:39,140
+and the garbage must be taken out,
+
+16
+00:00:39,140 --> 00:00:41,140
+and you must be refilled with the light.
+
+17
+00:00:41,140 --> 00:00:42,140
+All right.
+
+18
+00:00:42,140 --> 00:00:46,140
+So at least that's kind of what happened to me,
+
+19
+00:00:46,140 --> 00:00:48,140
+and those were always the classes that I liked the most
+
+20
+00:00:48,140 --> 00:00:49,140
+and the books that I liked the most,
+
+21
+00:00:49,140 --> 00:00:50,140
+the ones that said, you know,
+
+22
+00:00:50,140 --> 00:00:52,140
+all the stuff that you were taught to believe
+
+23
+00:00:52,140 --> 00:00:54,140
+for your entire childhood,
+
+24
+00:00:54,140 --> 00:00:55,140
+and when they listed, I said, yes,
+
+25
+00:00:55,140 --> 00:00:57,140
+I was taught all of those things.
+
+26
+00:00:57,140 --> 00:00:59,140
+Well, most of them are completely wrong,
+
+27
+00:00:59,140 --> 00:01:01,140
+or at least they are grotesque half-truths,
+
+28
+00:01:01,140 --> 00:01:03,140
+which must be amplified or augmented
+
+29
+00:01:03,140 --> 00:01:05,140
+in order to really understand what's going on,
+
+30
+00:01:05,140 --> 00:01:07,140
+and when I would listen to those arguments,
+
+31
+00:01:07,140 --> 00:01:09,140
+I would have this great sense of betrayal
+
+32
+00:01:09,140 --> 00:01:11,140
+that all of the adults of my life
+
+33
+00:01:11,140 --> 00:01:12,140
+had been withholding the truth,
+
+34
+00:01:12,140 --> 00:01:13,140
+had been preaching stuff
+
+35
+00:01:13,140 --> 00:01:15,140
+when they didn't know what they were talking about,
+
+36
+00:01:15,140 --> 00:01:17,140
+and also a sense of salvation.
+
+37
+00:01:17,140 --> 00:01:19,140
+Now I no longer am one of these people
+
+38
+00:01:19,140 --> 00:01:22,140
+from whom I came who believed nonsense.
+
+39
+00:01:22,140 --> 00:01:24,140
+Now I can be part of the special people
+
+40
+00:01:24,140 --> 00:01:25,140
+who believe good stuff,
+
+41
+00:01:25,140 --> 00:01:27,140
+and I will go forth into the world,
+
+42
+00:01:27,140 --> 00:01:29,140
+and I will preach the good word.
+
+43
+00:01:29,140 --> 00:01:30,140
+I'll settle on it.
+
+44
+00:01:30,140 --> 00:01:33,140
+This does not sound familiar at all to you.
+
+45
+00:01:33,140 --> 00:01:36,140
+Well, it's about time it did.
+
+46
+00:01:36,140 --> 00:01:39,140
+Anyway, so it is very common
+
+47
+00:01:39,140 --> 00:01:40,140
+in introductory econ classes
+
+48
+00:01:40,140 --> 00:01:44,140
+to try to correct the preexisting
+
+49
+00:01:44,140 --> 00:01:45,140
+systematically biased beliefs
+
+50
+00:01:45,140 --> 00:01:47,140
+about economics that students begin with,
+
+51
+00:01:47,140 --> 00:01:48,140
+the most famous one being
+
+52
+00:01:48,140 --> 00:01:50,140
+a course in international trade.
+
+53
+00:01:50,140 --> 00:01:52,140
+Normally, when economists teach international trade,
+
+54
+00:01:52,140 --> 00:01:54,140
+we go over to comparative advantage
+
+55
+00:01:54,140 --> 00:01:55,140
+and expect students to go,
+
+56
+00:01:55,140 --> 00:01:59,140
+oh my God, I've been so wrong my whole life.
+
+57
+00:01:59,140 --> 00:02:01,140
+And there's a good reason for that,
+
+58
+00:02:01,140 --> 00:02:02,140
+which is that comparative advantage
+
+59
+00:02:02,140 --> 00:02:06,140
+undermines almost the entire popular view
+
+60
+00:02:06,140 --> 00:02:07,140
+about international trade.
+
+61
+00:02:07,140 --> 00:02:09,140
+It really does.
+
+62
+00:02:09,140 --> 00:02:14,140
+And of course, this is not a new thing.
+
+63
+00:02:14,140 --> 00:02:16,140
+If you go back through the history of economics,
+
+64
+00:02:16,140 --> 00:02:17,140
+it is very common for economists
+
+65
+00:02:17,140 --> 00:02:19,140
+to spend time complaining about
+
+66
+00:02:19,140 --> 00:02:21,140
+the ridiculous things the public believes about economics.
+
+67
+00:02:21,140 --> 00:02:24,140
+So, Frederick Bastiat is the flag bearer
+
+68
+00:02:24,140 --> 00:02:26,140
+with his book Economic Sophisms,
+
+69
+00:02:26,140 --> 00:02:27,140
+which is all about, every chapter,
+
+70
+00:02:27,140 --> 00:02:28,140
+here's another ridiculous thing
+
+71
+00:02:28,140 --> 00:02:30,140
+most people think about economics.
+
+72
+00:02:30,140 --> 00:02:31,140
+Here's why it's totally wrong.
+
+73
+00:02:31,140 --> 00:02:33,140
+All right, never believe that again.
+
+74
+00:02:33,140 --> 00:02:35,140
+Next chapter, another ridiculous thing
+
+75
+00:02:35,140 --> 00:02:36,140
+people believe about economics,
+
+76
+00:02:36,140 --> 00:02:37,140
+also totally wrong.
+
+77
+00:02:37,140 --> 00:02:39,140
+Every chapter goes that way.
+
+78
+00:02:39,140 --> 00:02:41,140
+And Bastiat actually has a whole political economy
+
+79
+00:02:41,140 --> 00:02:44,140
+where he says, what's wrong with the world
+
+80
+00:02:44,140 --> 00:02:46,140
+is that the stuff that I'm teaching you
+
+81
+00:02:46,140 --> 00:02:48,140
+is known to hardly anybody,
+
+82
+00:02:48,140 --> 00:02:51,140
+and therefore policy is based upon error.
+
+83
+00:02:51,140 --> 00:02:52,140
+And not just random error,
+
+84
+00:02:52,140 --> 00:02:55,140
+but a very particular kind of shared error.
+
+85
+00:02:55,140 --> 00:02:57,140
+And if we could just go and wipe out the error,
+
+86
+00:02:57,140 --> 00:02:59,140
+we could make the world fantastic.
+
+87
+00:02:59,140 --> 00:03:01,140
+That's all it takes.
+
+88
+00:03:01,140 --> 00:03:03,140
+It is changing what everybody thinks.
+
+89
+00:03:03,140 --> 00:03:05,140
+That's all it is.
+
+90
+00:03:05,140 --> 00:03:06,140
+All right, so anyway,
+
+91
+00:03:06,140 --> 00:03:07,140
+many famous historical economists
+
+92
+00:03:07,140 --> 00:03:08,140
+operate from the same perspective.
+
+93
+00:03:08,140 --> 00:03:09,140
+You can read Adam Smith,
+
+94
+00:03:09,140 --> 00:03:10,140
+so this is before there's any kind of
+
+95
+00:03:10,140 --> 00:03:12,140
+public opinion research,
+
+96
+00:03:12,140 --> 00:03:13,140
+but Smith seems very convinced
+
+97
+00:03:13,140 --> 00:03:16,140
+that most people have populist views
+
+98
+00:03:16,140 --> 00:03:19,140
+about economics, which Smith tries to refute.
+
+99
+00:03:19,140 --> 00:03:20,140
+You can see this in, say,
+
+100
+00:03:20,140 --> 00:03:22,140
+Eugene von Babur or Frank Knight
+
+101
+00:03:22,140 --> 00:03:24,140
+or Milton Friedman or Paul Samuelson
+
+102
+00:03:24,140 --> 00:03:26,140
+or Paul Krugman from the 90s, right?
+
+103
+00:03:26,140 --> 00:03:27,140
+Or David Hume, right?
+
+104
+00:03:27,140 --> 00:03:29,140
+Paul Krugman in the 90s says,
+
+105
+00:03:29,140 --> 00:03:31,140
+the lessons that people need to learn
+
+106
+00:03:31,140 --> 00:03:32,140
+about international trade
+
+107
+00:03:32,140 --> 00:03:34,140
+aren't any of the fancy stuff I've been doing.
+
+108
+00:03:34,140 --> 00:03:37,140
+They need to learn the basics of Hume and Ricardo.
+
+109
+00:03:37,140 --> 00:03:39,140
+That's what he said.
+
+110
+00:03:39,140 --> 00:03:41,140
+All right, so anyway,
+
+111
+00:03:41,140 --> 00:03:42,140
+now, but what's weird
+
+112
+00:03:42,140 --> 00:03:43,140
+is that when you go and read
+
+113
+00:03:43,140 --> 00:03:45,140
+research papers on modern economics,
+
+114
+00:03:45,140 --> 00:03:47,140
+they normally assume that everybody
+
+115
+00:03:47,140 --> 00:03:50,140
+has rational expectations about economics.
+
+116
+00:03:50,140 --> 00:03:52,140
+So even though as teachers
+
+117
+00:03:52,140 --> 00:03:54,140
+we assume that our students are screwed up,
+
+118
+00:03:54,140 --> 00:03:56,140
+when we try to analyze the world,
+
+119
+00:03:56,140 --> 00:03:57,140
+we assume that people
+
+120
+00:03:57,140 --> 00:03:58,140
+who never even had the benefits
+
+121
+00:03:58,140 --> 00:04:01,140
+of our teachings are already okay.
+
+122
+00:04:01,140 --> 00:04:04,140
+They're already fine, at least on average.
+
+123
+00:04:04,140 --> 00:04:05,140
+So in other words,
+
+124
+00:04:05,140 --> 00:04:07,140
+when we go and model, for example,
+
+125
+00:04:07,140 --> 00:04:09,140
+public opinion about international trade,
+
+126
+00:04:09,140 --> 00:04:10,140
+we usually make the standard
+
+127
+00:04:10,140 --> 00:04:12,140
+rational expectations assumption,
+
+128
+00:04:12,140 --> 00:04:14,140
+which is that errors are going to be
+
+129
+00:04:14,140 --> 00:04:16,140
+normally or at least will be normally distributed,
+
+130
+00:04:16,140 --> 00:04:18,140
+and there will be a mean of zero
+
+131
+00:04:18,140 --> 00:04:21,140
+and a standard deviation of sigma squared.
+
+132
+00:04:21,140 --> 00:04:22,140
+I'm gonna say that.
+
+133
+00:04:22,140 --> 00:04:24,140
+So the error term will just be a normal,
+
+134
+00:04:24,140 --> 00:04:26,140
+normally distributed variable with zero means.
+
+135
+00:04:26,140 --> 00:04:28,140
+So on average, people's beliefs about trade
+
+136
+00:04:28,140 --> 00:04:30,140
+are neither overly pessimistic
+
+137
+00:04:30,140 --> 00:04:32,140
+nor overly optimistic.
+
+138
+00:04:32,140 --> 00:04:34,140
+And then people try to figure out
+
+139
+00:04:34,140 --> 00:04:35,140
+why we have protectionism
+
+140
+00:04:35,140 --> 00:04:38,140
+if people have accurate views about trade.
+
+141
+00:04:38,140 --> 00:04:40,140
+So of course, one answer would be
+
+142
+00:04:40,140 --> 00:04:42,140
+maybe economists are really wrong about trade
+
+143
+00:04:42,140 --> 00:04:43,140
+and trade is actually bad.
+
+144
+00:04:43,140 --> 00:04:45,140
+And people who've never seen the subject
+
+145
+00:04:45,140 --> 00:04:47,140
+somehow have figured it out.
+
+146
+00:04:47,140 --> 00:04:50,140
+Who's better than the experts?
+
+147
+00:04:50,140 --> 00:04:53,140
+So anyway, I have a series of empirical papers
+
+148
+00:04:53,140 --> 00:04:56,140
+that essentially try to test that assumption.
+
+149
+00:04:56,140 --> 00:04:58,140
+So I think I talked about it earlier in the semester,
+
+150
+00:04:58,140 --> 00:05:00,140
+but I'll talk about it now in more detail
+
+151
+00:05:00,140 --> 00:05:03,140
+since we have the right framework to think about it.
+
+152
+00:05:03,140 --> 00:05:05,140
+So the data set is the Survey of Americans
+
+153
+00:05:05,140 --> 00:05:09,140
+and Economists on the Economy, SAEE for short.
+
+154
+00:05:09,140 --> 00:05:11,140
+The idea of the data set is that
+
+155
+00:05:11,140 --> 00:05:13,140
+they ask exactly the same questions
+
+156
+00:05:13,140 --> 00:05:16,140
+to the general American public, randomly sampled,
+
+157
+00:05:16,140 --> 00:05:21,140
+and to PhD economists specializing in domestic policy.
+
+158
+00:05:21,140 --> 00:05:23,140
+So not going and talking to pure theorists
+
+159
+00:05:23,140 --> 00:05:24,140
+who don't know any facts,
+
+160
+00:05:24,140 --> 00:05:27,140
+but talking to actual domestic policy specialists.
+
+161
+00:05:27,140 --> 00:05:31,140
+Now, if we believe this rationalistic approach,
+
+162
+00:05:31,140 --> 00:05:32,140
+as I said before,
+
+163
+00:05:32,140 --> 00:05:36,140
+then if this is the true belief, P star,
+
+164
+00:05:36,140 --> 00:05:39,140
+then the difference between experts and laymen
+
+165
+00:05:39,140 --> 00:05:41,140
+should be something like this.
+
+166
+00:05:41,140 --> 00:05:44,140
+The laymen should have a belief distribution like that,
+
+167
+00:05:44,140 --> 00:05:48,140
+and the experts should have a belief distribution like that.
+
+168
+00:05:48,140 --> 00:05:51,140
+But the mean of the two views should both be the same,
+
+169
+00:05:51,140 --> 00:05:54,140
+and namely the mean should be the actual truth,
+
+170
+00:05:54,140 --> 00:05:57,140
+the actual truth, what's really going on.
+
+171
+00:06:00,140 --> 00:06:02,140
+And then what the rationalistic assumption says,
+
+172
+00:06:02,140 --> 00:06:04,140
+in other words, is that if we go and test
+
+173
+00:06:04,140 --> 00:06:07,140
+the coefficient on the econ variable,
+
+174
+00:06:07,140 --> 00:06:10,140
+so the coefficient on an econ will be zero.
+
+175
+00:06:10,140 --> 00:06:12,140
+It will be zero.
+
+176
+00:06:12,140 --> 00:06:13,140
+So the, let's see,
+
+177
+00:06:13,140 --> 00:06:15,140
+let's do it like beta sub econ,
+
+178
+00:06:15,140 --> 00:06:18,140
+the beta in front of the econ dummy variable.
+
+179
+00:06:18,140 --> 00:06:20,140
+So you have a dummy variable,
+
+180
+00:06:20,140 --> 00:06:25,140
+which is equal to one if you're an economist,
+
+181
+00:06:25,140 --> 00:06:28,140
+and zero if you're not.
+
+182
+00:06:28,140 --> 00:06:30,140
+And then we can go and put that dummy variable
+
+183
+00:06:30,140 --> 00:06:33,140
+into regression and see, on average,
+
+184
+00:06:33,140 --> 00:06:36,140
+do economists and the public actually agree.
+
+185
+00:06:36,140 --> 00:06:37,140
+Now for this to really work,
+
+186
+00:06:37,140 --> 00:06:39,140
+you need to have questions that are descriptive.
+
+187
+00:06:39,140 --> 00:06:42,140
+So rational explanations is not usually seen
+
+188
+00:06:42,140 --> 00:06:45,140
+as a theory about what ought to be or what's good,
+
+189
+00:06:45,140 --> 00:06:48,140
+but rather a theory about what actually is the case.
+
+190
+00:06:48,140 --> 00:06:50,140
+Although, of course, for many questions,
+
+191
+00:06:50,140 --> 00:06:53,140
+it's a little bit, you have to think about
+
+192
+00:06:53,140 --> 00:06:54,140
+what the right meaning is.
+
+193
+00:06:54,140 --> 00:06:55,140
+For example, someone said,
+
+194
+00:06:55,140 --> 00:06:58,140
+is penicillin good for bacterial infections?
+
+195
+00:06:58,140 --> 00:07:02,140
+Is it reasonable to think of that as a normative claim?
+
+196
+00:07:02,140 --> 00:07:05,140
+Right, normally we take that as a descriptive claim,
+
+197
+00:07:05,140 --> 00:07:08,140
+saying penicillin cures bacterial infections.
+
+198
+00:07:08,140 --> 00:07:13,140
+It's not saying, I just feel that when someone has bacteria,
+
+199
+00:07:13,140 --> 00:07:15,140
+it is good to give them penicillin.
+
+200
+00:07:15,140 --> 00:07:16,140
+Why? I don't know.
+
+201
+00:07:16,140 --> 00:07:17,140
+It just is. It seems that way.
+
+202
+00:07:17,140 --> 00:07:19,140
+Right? The whole idea is that you're saying
+
+203
+00:07:19,140 --> 00:07:21,140
+it is good for a purpose,
+
+204
+00:07:21,140 --> 00:07:23,140
+and certainly you can empirically investigate
+
+205
+00:07:23,140 --> 00:07:25,140
+whether something is good for a purpose.
+
+206
+00:07:25,140 --> 00:07:27,140
+Though, if you wanted to say,
+
+207
+00:07:27,140 --> 00:07:30,140
+is it good to go and be nice to people,
+
+208
+00:07:30,140 --> 00:07:33,140
+then, well, that would normally be
+
+209
+00:07:33,140 --> 00:07:37,140
+a purely normative question about the goodness of niceness.
+
+210
+00:07:37,140 --> 00:07:41,140
+Common view is that it is good to be nice to people.
+
+211
+00:07:41,140 --> 00:07:43,140
+Right? Anyway.
+
+212
+00:07:43,140 --> 00:07:45,140
+Now, as I think I told you before,
+
+213
+00:07:45,140 --> 00:07:47,140
+there is a question, maybe we need to add
+
+214
+00:07:47,140 --> 00:07:48,140
+some control variables here
+
+215
+00:07:48,140 --> 00:07:51,140
+before we actually accept the results of the test,
+
+216
+00:07:51,140 --> 00:07:54,140
+because there are many people who think
+
+217
+00:07:54,140 --> 00:07:56,140
+that economists are actually wrong.
+
+218
+00:07:56,140 --> 00:07:58,140
+Economists are actually mistaken,
+
+219
+00:07:58,140 --> 00:08:00,140
+and maybe the public is right.
+
+220
+00:08:00,140 --> 00:08:03,140
+This is sort of the subtext of 2016.
+
+221
+00:08:03,140 --> 00:08:05,140
+All of these out-of-touch elites
+
+222
+00:08:05,140 --> 00:08:07,140
+didn't understand what regular people knew,
+
+223
+00:08:07,140 --> 00:08:09,140
+and then regular people voted for what they knew,
+
+224
+00:08:09,140 --> 00:08:11,140
+and now the experts are there going like,
+
+225
+00:08:11,140 --> 00:08:13,140
+what happened? I don't understand.
+
+226
+00:08:13,140 --> 00:08:15,140
+A common view of the world.
+
+227
+00:08:15,140 --> 00:08:18,140
+A view that almost no one wants to articulate is,
+
+228
+00:08:18,140 --> 00:08:21,140
+well, maybe what's going on is that the experts are well aware
+
+229
+00:08:21,140 --> 00:08:23,140
+the public doesn't know what it's doing,
+
+230
+00:08:23,140 --> 00:08:25,140
+and in particular, the public is systematically biased,
+
+231
+00:08:25,140 --> 00:08:28,140
+and what happened in 2016 is the effort
+
+232
+00:08:28,140 --> 00:08:30,140
+to keep them from actually harming things
+
+233
+00:08:30,140 --> 00:08:34,140
+was reduced, and so the harm broke loose.
+
+234
+00:08:34,140 --> 00:08:36,140
+So maybe that's the real story.
+
+235
+00:08:36,140 --> 00:08:38,140
+Of course, in a democracy, it's very unpopular to say,
+
+236
+00:08:38,140 --> 00:08:40,140
+well, here's the real story.
+
+237
+00:08:40,140 --> 00:08:42,140
+There's a 1% cognitive elite that understands the world,
+
+238
+00:08:42,140 --> 00:08:46,140
+99% of the benighted masses
+
+239
+00:08:46,140 --> 00:08:48,140
+who just need to shut up and take my class
+
+240
+00:08:48,140 --> 00:08:49,140
+and learn what's going on.
+
+241
+00:08:49,140 --> 00:08:50,140
+It's not unpopular.
+
+242
+00:08:50,140 --> 00:08:52,140
+Certainly no politician wants to say something like this.
+
+243
+00:08:52,140 --> 00:08:54,140
+No politician wants to say,
+
+244
+00:08:54,140 --> 00:08:56,140
+well, I know my views are out of touch,
+
+245
+00:08:56,140 --> 00:08:58,140
+but they're still true.
+
+246
+00:08:58,140 --> 00:09:00,140
+So truth is lying.
+
+247
+00:09:00,140 --> 00:09:03,140
+And if you don't know some better way of selling
+
+248
+00:09:03,140 --> 00:09:05,140
+what's true to these people,
+
+249
+00:09:05,140 --> 00:09:07,140
+who haven't been able to figure it out yet, I'm open,
+
+250
+00:09:07,140 --> 00:09:09,140
+but what, that I should listen to them?
+
+251
+00:09:09,140 --> 00:09:11,140
+What do they know?
+
+252
+00:09:11,140 --> 00:09:16,140
+Anyways, of course, that could be that the populist view is right,
+
+253
+00:09:16,140 --> 00:09:19,140
+but at least there is a possibility, of course,
+
+254
+00:09:19,140 --> 00:09:22,140
+that a simple story of the experts are right,
+
+255
+00:09:22,140 --> 00:09:25,140
+the laymen are wrong, and if the laymen really think that they're right,
+
+256
+00:09:25,140 --> 00:09:27,140
+that's just even worse.
+
+257
+00:09:27,140 --> 00:09:29,140
+Also possible.
+
+258
+00:09:29,140 --> 00:09:30,140
+Alright.
+
+259
+00:09:30,140 --> 00:09:33,140
+So anyway, there are two main stories about why it is
+
+260
+00:09:33,140 --> 00:09:36,140
+that economists in particular should not be trusted.
+
+261
+00:09:36,140 --> 00:09:41,140
+The two main versions are, first of all, self-serving bias,
+
+262
+00:09:41,140 --> 00:09:44,140
+which says that economists are biased by their own self-interest,
+
+263
+00:09:44,140 --> 00:09:46,140
+so maybe they are rich,
+
+264
+00:09:46,140 --> 00:09:48,140
+or have a lot of job security,
+
+265
+00:09:48,140 --> 00:09:51,140
+and they imagine that whatever is good for them is good for the economy,
+
+266
+00:09:51,140 --> 00:09:55,140
+when in fact it's just good for people like economists.
+
+267
+00:09:55,140 --> 00:09:58,140
+And then another story is ideological bias.
+
+268
+00:09:58,140 --> 00:10:04,140
+This just says that economics is a place where radical free marketeers
+
+269
+00:10:04,140 --> 00:10:06,140
+hang out and talk to each other,
+
+270
+00:10:06,140 --> 00:10:10,140
+reinforce each other, scaring off anyone who disagrees.
+
+271
+00:10:10,140 --> 00:10:14,140
+And so of course economists have these horrific pro-free market views,
+
+272
+00:10:14,140 --> 00:10:18,140
+because if you didn't agree with them, who would want to enter the field?
+
+273
+00:10:18,140 --> 00:10:20,140
+Also a possibility.
+
+274
+00:10:20,140 --> 00:10:21,140
+Alright.
+
+275
+00:10:21,140 --> 00:10:25,140
+So, now, as I think I mentioned before,
+
+276
+00:10:25,140 --> 00:10:27,140
+when you actually go and do the test,
+
+277
+00:10:27,140 --> 00:10:29,140
+when you go and put these control variables in,
+
+278
+00:10:29,140 --> 00:10:32,140
+so here we want to do something like estimate,
+
+279
+00:10:32,140 --> 00:10:38,140
+belief is a function of a constant plus a vector of controls,
+
+280
+00:10:38,140 --> 00:10:43,140
+plus then beta times C condemnable variable.
+
+281
+00:10:43,140 --> 00:10:46,140
+So when you go and put in all these control variables,
+
+282
+00:10:46,140 --> 00:10:51,140
+the general result is that the coefficient on economists barely changes.
+
+283
+00:10:51,140 --> 00:10:55,140
+So if you put in a whole bunch of self-interested variables,
+
+284
+00:10:55,140 --> 00:11:00,140
+then the absolute value of that coefficient falls by about 18% on average.
+
+285
+00:11:00,140 --> 00:11:05,140
+So there's over 80% remains after you control for income,
+
+286
+00:11:05,140 --> 00:11:08,140
+job security, past income growth, future income growth,
+
+287
+00:11:08,140 --> 00:11:10,140
+because you expect a future income growth,
+
+288
+00:11:10,140 --> 00:11:13,140
+race, gender, age, age squared, so we put all those measures in,
+
+289
+00:11:13,140 --> 00:11:19,140
+and still we see very large gaps in beliefs between economists and the public.
+
+290
+00:11:19,140 --> 00:11:21,140
+Then if you try the ideological bias story,
+
+291
+00:11:21,140 --> 00:11:26,140
+where we put in, say, a measure of your party,
+
+292
+00:11:26,140 --> 00:11:28,140
+measure of your conservatism,
+
+293
+00:11:28,140 --> 00:11:32,140
+the usual view is that economists are far-right fanatics,
+
+294
+00:11:32,140 --> 00:11:34,140
+put those things in, and actually,
+
+295
+00:11:34,140 --> 00:11:37,140
+the coefficient in front of income gets a little bit bigger,
+
+296
+00:11:37,140 --> 00:11:39,140
+because the premise is just false.
+
+297
+00:11:39,140 --> 00:11:44,140
+It is totally untrue to say the typical economist is a conservative Republican.
+
+298
+00:11:44,140 --> 00:11:47,140
+It's actually a liberal to moderate Democrat.
+
+299
+00:11:47,140 --> 00:11:52,140
+So, I mean, actually, Paul Krugman is not that far from the typical economist.
+
+300
+00:11:52,140 --> 00:11:55,140
+Maybe Paul Krugman of the 90s, let's say, that Paul Krugman.
+
+301
+00:11:55,140 --> 00:11:58,140
+He's a very typical economist.
+
+302
+00:11:58,140 --> 00:12:00,140
+And then you're wondering, like, how could that possibly be?
+
+303
+00:12:00,140 --> 00:12:04,140
+Like, doesn't everybody know that economists are super right-wing?
+
+304
+00:12:04,140 --> 00:12:08,140
+Well, you can go over to Dan Klein and get a good answer for this.
+
+305
+00:12:08,140 --> 00:12:12,140
+Dan Klein has done more work on the political views of professors
+
+306
+00:12:12,140 --> 00:12:14,140
+than maybe anyone else in the world.
+
+307
+00:12:14,140 --> 00:12:19,140
+And the punchline is that for economists, within academic economics,
+
+308
+00:12:19,140 --> 00:12:23,140
+there are about two or three Democrats for a Republican.
+
+309
+00:12:23,140 --> 00:12:26,140
+You say, well, hey, that sounds not right-wing at all.
+
+310
+00:12:26,140 --> 00:12:30,140
+But that is a larger number of Republicans,
+
+311
+00:12:30,140 --> 00:12:34,140
+a larger Republican sphere than any other social science or humanity now,
+
+312
+00:12:34,140 --> 00:12:36,140
+and by a lot.
+
+313
+00:12:36,140 --> 00:12:39,140
+So in a field like sociology or anthropology,
+
+314
+00:12:39,140 --> 00:12:43,140
+it would be more like 30 or 40 Democrats for every Republican.
+
+315
+00:12:43,140 --> 00:12:47,140
+So there is a reason why sociologists would think of economists as very right-wing.
+
+316
+00:12:47,140 --> 00:12:53,140
+Namely, wow, you only have double or triple the normal ratio,
+
+317
+00:12:53,140 --> 00:12:57,140
+the normal number of Democrats, unlike a normal field like ours,
+
+318
+00:12:57,140 --> 00:13:00,140
+which has 30 or 40 times as many.
+
+319
+00:13:00,140 --> 00:13:05,140
+So relatively speaking, economics is actually a right-wing field.
+
+320
+00:13:05,140 --> 00:13:08,140
+But compared to the general American public,
+
+321
+00:13:08,140 --> 00:13:14,140
+it is still actually heavily Democratic and left-leaning.
+
+322
+00:13:14,140 --> 00:13:16,140
+Now in terms of regression, what that means is that
+
+323
+00:13:16,140 --> 00:13:19,140
+since normally left-leaning people would not actually believe
+
+324
+00:13:19,140 --> 00:13:24,140
+that supply and demand explains the movement of the price of gasoline,
+
+325
+00:13:24,140 --> 00:13:28,140
+if even liberal Democrats believe what it does,
+
+326
+00:13:28,140 --> 00:13:32,140
+if even liberal Democrats reject the liberal view on supply and demand
+
+327
+00:13:32,140 --> 00:13:39,140
+in the gasoline market, this means what about the true effect of economics training?
+
+328
+00:13:39,140 --> 00:13:44,140
+So people who demographically would reject a view hold it anyway.
+
+329
+00:13:44,140 --> 00:13:49,140
+What does that mean about the size of Ada?
+
+330
+00:13:49,140 --> 00:13:55,140
+If you have a bunch of guys who really like watching romantic comedies,
+
+331
+00:13:55,140 --> 00:14:00,140
+so what does that say about how different they are from typical guys,
+
+332
+00:14:00,140 --> 00:14:03,140
+typical people who are in their demographic?
+
+333
+00:14:03,140 --> 00:14:04,140
+More different.
+
+334
+00:14:04,140 --> 00:14:06,140
+Yeah, they're more different. There's a bigger effect.
+
+335
+00:14:06,140 --> 00:14:12,140
+So you can imagine that, let's see, and what would be a good example.
+
+336
+00:14:12,140 --> 00:14:18,140
+Imagine that being randomly shown My Little Pony when you're five years old,
+
+337
+00:14:18,140 --> 00:14:22,140
+when you're 25, so if you do this to boys,
+
+338
+00:14:22,140 --> 00:14:25,140
+and when they're 25 they really like romantic comedies.
+
+339
+00:14:25,140 --> 00:14:27,140
+You say, wow, given that they're boys,
+
+340
+00:14:27,140 --> 00:14:29,140
+this is even a bigger effect than you would think
+
+341
+00:14:29,140 --> 00:14:32,140
+because demographically you expect them to not like romantic comedies,
+
+342
+00:14:32,140 --> 00:14:34,140
+but you gave them the statement when they're five
+
+343
+00:14:34,140 --> 00:14:38,140
+and they are not only more in favor of romantic comedies on average,
+
+344
+00:14:38,140 --> 00:14:42,140
+they're way more in favor of them than typical guys.
+
+345
+00:14:42,140 --> 00:14:44,140
+Same thing here.
+
+346
+00:14:44,140 --> 00:14:48,140
+So when you see the liberal Democrat economists and pro-market views,
+
+347
+00:14:48,140 --> 00:14:52,140
+that's really weird for liberal Democrats, which is what they are,
+
+348
+00:14:52,140 --> 00:14:57,140
+which means that the effect of economic training is actually even larger than it appears
+
+349
+00:14:57,140 --> 00:15:02,140
+because they are normally inclined to disbelieve such things.
+
+350
+00:15:02,140 --> 00:15:06,140
+Now, the main cluster of errors that I talked about,
+
+351
+00:15:06,140 --> 00:15:08,140
+let's see, and I didn't get to this last class, did I?
+
+352
+00:15:08,140 --> 00:15:13,140
+Okay, so I just did it for public choice, so I'm having deja vu here.
+
+353
+00:15:13,140 --> 00:15:15,140
+This is the opposite of deja vu, right?
+
+354
+00:15:15,140 --> 00:15:17,140
+Remembering things that didn't happen.
+
+355
+00:15:17,140 --> 00:15:19,140
+Okay, all right.
+
+356
+00:15:19,140 --> 00:15:22,140
+So anyway, or actually, where is that deja vu? I can't remember.
+
+357
+00:15:22,140 --> 00:15:29,140
+Anyway, so in my book, The Myth of the Rational Voter, I try to come up with some general clusters of error,
+
+358
+00:15:29,140 --> 00:15:34,140
+which I see in the data, which also economists have been complaining about for a very long time.
+
+359
+00:15:34,140 --> 00:15:36,140
+So I talk about anti-market bias,
+
+360
+00:15:36,140 --> 00:15:42,140
+general tendency of non-economists to underestimate the social benefits of the market mechanism.
+
+361
+00:15:42,140 --> 00:15:46,140
+Of course, this doesn't mean that economists see no harm in markets, far from it,
+
+362
+00:15:46,140 --> 00:15:52,140
+but the heuristic that economists are applying is almost the opposite of a normal person.
+
+363
+00:15:52,140 --> 00:15:54,140
+A normal person looks at a market and says,
+
+364
+00:15:54,140 --> 00:15:57,140
+someone getting rich off of this is so bad.
+
+365
+00:15:57,140 --> 00:16:01,140
+For even very liberal economists, if they want to say that markets aren't working,
+
+366
+00:16:01,140 --> 00:16:04,140
+do they say people are getting rich?
+
+367
+00:16:04,140 --> 00:16:07,140
+No, they say there isn't any way to get rich.
+
+368
+00:16:07,140 --> 00:16:09,140
+There isn't any way to get rich by solving global warming.
+
+369
+00:16:09,140 --> 00:16:12,140
+There isn't any way to get rich by reducing discrimination.
+
+370
+00:16:12,140 --> 00:16:18,140
+There isn't any way to get rich by coming up with new scientific theories or doing basic research.
+
+371
+00:16:18,140 --> 00:16:24,140
+So the way that economists look at market failure is almost the opposite of a normal person's.
+
+372
+00:16:24,140 --> 00:16:27,140
+Economists are thinking, even if they are very left-wing,
+
+373
+00:16:27,140 --> 00:16:31,140
+well, if there's a way to make money solving a problem, the problem will get solved.
+
+374
+00:16:31,140 --> 00:16:38,140
+We need to focus on the problems that you can't go and solve, that you can't get rich by solving.
+
+375
+00:16:38,140 --> 00:16:43,140
+So, of course, with anti-market bias, if this is indeed real,
+
+376
+00:16:43,140 --> 00:16:46,140
+what are the obvious policy effects of anti-market bias?
+
+377
+00:16:46,140 --> 00:16:49,140
+People think markets are much worse than they really are.
+
+378
+00:16:49,140 --> 00:16:54,140
+Then, when you ask people their opinions about policy, they will say,
+
+379
+00:16:54,140 --> 00:16:59,140
+don't use markets, no, markets are bad, people are trying to rip us off.
+
+380
+00:16:59,140 --> 00:17:01,140
+I've done many applications.
+
+381
+00:17:01,140 --> 00:17:05,140
+Two of my favorite ones, one very controversial, but still,
+
+382
+00:17:05,140 --> 00:17:10,140
+I'd say the case is so strong and so overwhelming, is the free market of human kidneys.
+
+383
+00:17:10,140 --> 00:17:14,140
+So almost everyone has a kidney you don't need.
+
+384
+00:17:14,140 --> 00:17:16,140
+There's a whole bunch of people who really need that kidney,
+
+385
+00:17:16,140 --> 00:17:20,140
+and yet there is right now a price control fixing the price of those kidneys at zero.
+
+386
+00:17:20,140 --> 00:17:24,140
+So the kidneys stay in the bodies of people that do not need them
+
+387
+00:17:24,140 --> 00:17:28,140
+and are not given to the people, or are not received by the people who do need them.
+
+388
+00:17:28,140 --> 00:17:31,140
+This is illegal to go and sell a kidney to someone.
+
+389
+00:17:31,140 --> 00:17:37,140
+When people try to defend this, the arguments are so tortured, so odd.
+
+390
+00:17:37,140 --> 00:17:41,140
+It's like, well, but if there were a free market, then poor people would go and sell kidneys.
+
+391
+00:17:41,140 --> 00:17:47,140
+So sick people would get healthy, poor people would get rich, it's got to be stopped.
+
+392
+00:17:47,140 --> 00:17:49,140
+Why?
+
+393
+00:17:49,140 --> 00:17:52,140
+Poor people would sell their kidneys for no good reason.
+
+394
+00:17:52,140 --> 00:17:55,140
+You don't think that your kids are hungry is a good reason to sell kidneys?
+
+395
+00:17:55,140 --> 00:17:58,140
+Not like a great reason, but a better reason is to sell a kidney.
+
+396
+00:17:58,140 --> 00:18:02,140
+I don't need it, it will save a life, and my kids are hungry.
+
+397
+00:18:02,140 --> 00:18:04,140
+So clear to me.
+
+398
+00:18:04,140 --> 00:18:10,140
+Right now, once I actually was at a dinner with a table of all Marxist economists.
+
+399
+00:18:10,140 --> 00:18:14,140
+Right there was the Marxist professor, and then there were all the Marxist graduate students.
+
+400
+00:18:14,140 --> 00:18:16,140
+This is actually the new school for social research.
+
+401
+00:18:16,140 --> 00:18:21,140
+It is a department that has a six-foot poster of Karl Marx in the common room.
+
+402
+00:18:21,140 --> 00:18:25,140
+Not just one weird professor has the poster in his office.
+
+403
+00:18:25,140 --> 00:18:28,140
+Right there by the coffee, Karl Coffee and Karl Marx.
+
+404
+00:18:28,140 --> 00:18:29,140
+Right there.
+
+405
+00:18:29,140 --> 00:18:32,140
+So anyway, so what's the lifetime opportunity?
+
+406
+00:18:32,140 --> 00:18:34,140
+Just had to ask a bunch of questions.
+
+407
+00:18:34,140 --> 00:18:37,140
+So, all right, well, what do you guys think about free market human kidneys?
+
+408
+00:18:37,140 --> 00:18:41,140
+And the students are like, well, you see the argument, but I'm worried about the poor.
+
+409
+00:18:41,140 --> 00:18:43,140
+And the professor said, no, no, we've got to do this.
+
+410
+00:18:43,140 --> 00:18:45,140
+It will save 10,000 lives a year.
+
+411
+00:18:45,140 --> 00:18:49,140
+That's the range of perspective among Marxist economists.
+
+412
+00:18:49,140 --> 00:18:56,140
+Which is way more pro-market human kidneys than, say, my dad, a conservative Republican.
+
+413
+00:18:56,140 --> 00:18:58,140
+Way more pro than almost any normal economist.
+
+414
+00:18:58,140 --> 00:19:03,140
+This is a case where the economics training overpowers the Marxism by a lot.
+
+415
+00:19:03,140 --> 00:19:09,140
+To favor a market that almost no normal person in the country favors.
+
+416
+00:19:09,140 --> 00:19:10,140
+Wow.
+
+417
+00:19:10,140 --> 00:19:18,140
+So the power of economic reasoning is enough to stamp out this general hostility.
+
+418
+00:19:18,140 --> 00:19:23,140
+All right, now a much more mundane example, whenever I am driving in rush hour traffic,
+
+419
+00:19:23,140 --> 00:19:28,140
+I'm always thinking, look, here's a problem every economist in the entire country knows how to solve.
+
+420
+00:19:28,140 --> 00:19:31,140
+It is so simple, so basic.
+
+421
+00:19:31,140 --> 00:19:36,140
+All right, and of course it has raised the price of being on the road during peak times.
+
+422
+00:19:36,140 --> 00:19:38,140
+Right?
+
+423
+00:19:38,140 --> 00:19:40,140
+It's like, well, then I get to pay for the road twice.
+
+424
+00:19:40,140 --> 00:19:42,140
+You're still paying twice.
+
+425
+00:19:42,140 --> 00:19:51,140
+Right now you are paying an hourly wage of, it could be 20, 30, or 40 dollars in time.
+
+426
+00:19:51,140 --> 00:19:52,140
+Right?
+
+427
+00:19:52,140 --> 00:19:55,140
+If you believe the happiness research that commuting is the most miserable thing people do,
+
+428
+00:19:55,140 --> 00:19:58,140
+you should actually value it at more than your hourly wage.
+
+429
+00:19:58,140 --> 00:20:13,140
+Thanks, man.
+
+

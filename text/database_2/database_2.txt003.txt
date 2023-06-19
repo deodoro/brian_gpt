@@ -1,0 +1,17 @@
+2. True, False, and Explain: In a pure coordination game, repeated play strictly increases the number of NE.
+
+
+
+Left
+Right
+Left
+(3,3)
+(0,0)
+Right
+(0,0)
+(5,5)
+
+False. There's still going to be the same regardless -- two PSNE & one MSNE. No matter how many times you repeat the game, you're still going to have the same outcomes.  
+
+
+

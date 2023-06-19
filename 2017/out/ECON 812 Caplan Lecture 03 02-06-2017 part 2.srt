@@ -1,0 +1,1873 @@
+1
+00:00:00,000 --> 00:00:04,760
+Fisher Black, Fisher Black, yes, so best known
+
+2
+00:00:04,760 --> 00:00:06,780
+for the Black-Scholes theorem and they're like in,
+
+3
+00:00:06,780 --> 00:00:08,800
+like in financial markets and there's calculators
+
+4
+00:00:08,800 --> 00:00:10,680
+where you actually have the Black-Scholes function.
+
+5
+00:00:11,120 --> 00:00:13,040
+But, you know, Fisher Black has a book called Exploring General
+
+6
+00:00:13,040 --> 00:00:16,440
+Equilibrium, which is an, what's followed,
+
+7
+00:00:16,440 --> 00:00:18,320
+what's often called it's a very interesting book.
+
+8
+00:00:18,320 --> 00:00:22,500
+Because here you get to see someone who's clearly brilliant
+
+9
+00:00:22,840 --> 00:00:25,900
+try to force the entire world into a model
+
+10
+00:00:25,900 --> 00:00:31,160
+that he plainly loves on purely aesthetic grounds and then just
+
+11
+00:00:31,160 --> 00:00:33,140
+try to explain everything using this model.
+
+12
+00:00:33,140 --> 00:00:36,000
+So you get to see a great mind at work trying
+
+13
+00:00:36,000 --> 00:00:38,200
+to force a complex reality into a model
+
+14
+00:00:38,200 --> 00:00:40,620
+that to almost everyone else it doesn't fit.
+
+15
+00:00:41,100 --> 00:00:43,500
+But he's got a whole book, he's trying to tell you it does.
+
+16
+00:00:44,740 --> 00:00:46,820
+So Tyler's a fan of this book.
+
+17
+00:00:46,820 --> 00:00:49,420
+Ben Bernanke wrote a very positive review of the book.
+
+18
+00:00:49,780 --> 00:00:52,120
+Just, you know, like, you know, there's always a subtext
+
+19
+00:00:52,120 --> 00:00:53,980
+of this guy is crazy but he's a genius.
+
+20
+00:00:53,980 --> 00:00:57,420
+So that makes me want to read, you know, like,
+
+21
+00:00:57,420 --> 00:00:59,540
+if you're the kind of person that's crazy and wrong
+
+22
+00:00:59,540 --> 00:01:01,040
+but the author's a genius.
+
+23
+00:01:01,780 --> 00:01:04,440
+All right, does that make you want to read it?
+
+24
+00:01:05,400 --> 00:01:07,660
+Maybe. But anyway, so just to let you,
+
+25
+00:01:07,660 --> 00:01:09,740
+but he's the only person that I know does this
+
+26
+00:01:09,740 --> 00:01:13,000
+and he actually does try to use general equilibrium
+
+27
+00:01:13,000 --> 00:01:15,160
+to explain all the complexity of the world.
+
+28
+00:01:15,680 --> 00:01:17,120
+And, you know, like very energetically.
+
+29
+00:01:17,340 --> 00:01:21,720
+Right, but anyway, almost everybody else in economics
+
+30
+00:01:21,720 --> 00:01:24,060
+in the world finds general equilibrium unsatisfying.
+
+31
+00:01:24,500 --> 00:01:26,200
+Because again, the real world it seems
+
+32
+00:01:26,200 --> 00:01:28,620
+like we very often stand somewhere
+
+33
+00:01:28,620 --> 00:01:33,000
+in between the one actor on an island by himself,
+
+34
+00:01:33,000 --> 00:01:34,880
+the only strategic person in the universe,
+
+35
+00:01:34,880 --> 00:01:36,260
+or like in the world that matters.
+
+36
+00:01:36,640 --> 00:01:39,960
+And one where there's so many strategic actors that no one,
+
+37
+00:01:39,960 --> 00:01:42,760
+no one has to take into account the effect of a strategy
+
+38
+00:01:42,760 --> 00:01:43,840
+on anyone else's behavior.
+
+39
+00:01:44,900 --> 00:01:48,480
+Right, so there is the simple Robinson Crusoe model
+
+40
+00:01:48,480 --> 00:01:50,480
+where it's like one person on an island maximizing.
+
+41
+00:01:50,480 --> 00:01:53,400
+He never worries that the fish are going to come up with a,
+
+42
+00:01:53,400 --> 00:01:55,860
+with a plot to kill him so that they save themselves.
+
+43
+00:01:56,380 --> 00:01:57,100
+So there's that.
+
+44
+00:01:57,100 --> 00:01:59,240
+And that's the case where you don't worry about strategy.
+
+45
+00:01:59,640 --> 00:02:01,980
+And we also don't worry about strategy in general equilibrium
+
+46
+00:02:02,420 --> 00:02:06,100
+because even though everyone is, is carefully strategizing,
+
+47
+00:02:06,100 --> 00:02:08,660
+everyone knows, you know, to deal with the world,
+
+48
+00:02:08,880 --> 00:02:11,140
+everyone knows the world will not strategize back.
+
+49
+00:02:12,040 --> 00:02:14,540
+Because you're such a small person, it's not going
+
+50
+00:02:14,540 --> 00:02:15,460
+to change what the world does.
+
+51
+00:02:16,320 --> 00:02:18,120
+All right, so at these two extremes,
+
+52
+00:02:18,120 --> 00:02:21,800
+we can ignore the complexity of strategy where you have
+
+53
+00:02:21,800 --> 00:02:23,160
+to worry what if I do that,
+
+54
+00:02:23,160 --> 00:02:24,680
+that might change other people's behavior,
+
+55
+00:02:24,680 --> 00:02:26,720
+which then will change what I have to do,
+
+56
+00:02:26,720 --> 00:02:27,880
+which will then change what they have to do.
+
+57
+00:02:28,920 --> 00:02:32,400
+Okay. All right, so anyway, in the real world, it often seems
+
+58
+00:02:32,400 --> 00:02:34,940
+like people are in a very different situation,
+
+59
+00:02:34,940 --> 00:02:36,740
+and they're in some intermediate situation.
+
+60
+00:02:37,480 --> 00:02:40,320
+Like you are interviewing for a job.
+
+61
+00:02:41,000 --> 00:02:43,560
+Now are you, so like do you, so this is a case
+
+62
+00:02:43,560 --> 00:02:45,300
+where there's other people, and you know
+
+63
+00:02:45,300 --> 00:02:46,720
+that they are thinking strategically
+
+64
+00:02:46,720 --> 00:02:49,400
+about whether to hire you, but you're also thinking
+
+65
+00:02:49,400 --> 00:02:51,100
+strategically about how to get hired.
+
+66
+00:02:51,780 --> 00:02:53,920
+And if you go and change your strategy,
+
+67
+00:02:53,920 --> 00:02:55,680
+they might actually change their strategy.
+
+68
+00:02:57,160 --> 00:02:59,040
+But then you might need to change your strategy.
+
+69
+00:02:59,680 --> 00:03:02,580
+And so on, making the world very hard to understand.
+
+70
+00:03:03,480 --> 00:03:06,860
+And furthermore, it's also true that even when you start
+
+71
+00:03:06,860 --> 00:03:08,540
+out in a situation where it seems
+
+72
+00:03:08,540 --> 00:03:11,260
+like you have an infinity of options,
+
+73
+00:03:11,740 --> 00:03:13,740
+often after you make some choices,
+
+74
+00:03:13,740 --> 00:03:15,560
+you have removed almost all your options.
+
+75
+00:03:15,560 --> 00:03:16,820
+And then you are back
+
+76
+00:03:16,820 --> 00:03:18,460
+in a strategically complex situation.
+
+77
+00:03:19,200 --> 00:03:22,020
+All right, so here a good example is the mating market.
+
+78
+00:03:22,560 --> 00:03:25,700
+So if you are totally single, then how many people are there
+
+79
+00:03:25,700 --> 00:03:26,800
+that you might wind up with?
+
+80
+00:03:27,700 --> 00:03:29,080
+Millions of people.
+
+81
+00:03:29,600 --> 00:03:33,380
+So I have never actually examined a dating app,
+
+82
+00:03:33,380 --> 00:03:34,620
+but I have heard tell of them.
+
+83
+00:03:34,620 --> 00:03:36,240
+All right, so and I've heard, you know,
+
+84
+00:03:36,240 --> 00:03:38,760
+so there's just this vast number of people
+
+85
+00:03:38,760 --> 00:03:39,880
+that you might be with.
+
+86
+00:03:39,880 --> 00:03:42,340
+All right, so there's all these possibilities.
+
+87
+00:03:42,340 --> 00:03:44,500
+It's this incredibly, incredible market.
+
+88
+00:03:44,500 --> 00:03:48,640
+And if there's any one person, like I don't like his left tooth.
+
+89
+00:03:48,640 --> 00:03:51,040
+All right, so to swipe, would you swipe left or right,
+
+90
+00:03:51,040 --> 00:03:53,580
+which is the swiping where you eliminate this person
+
+91
+00:03:53,580 --> 00:03:54,160
+for a tooth?
+
+92
+00:03:54,160 --> 00:03:57,220
+All right, so swipe the person left, wrong tooth,
+
+93
+00:03:57,220 --> 00:03:58,060
+and you're gone.
+
+94
+00:03:58,520 --> 00:04:00,820
+All right, so here's a case where you could just,
+
+95
+00:04:00,820 --> 00:04:02,520
+and you're not worried.
+
+96
+00:04:02,860 --> 00:04:03,980
+Well, if I start doing that,
+
+97
+00:04:03,980 --> 00:04:06,060
+people might start judging me more harshly too.
+
+98
+00:04:06,780 --> 00:04:08,900
+Right, so you're not worried about any of this stuff.
+
+99
+00:04:08,900 --> 00:04:10,940
+So instead, you're just going, saying,
+
+100
+00:04:10,940 --> 00:04:11,980
+it's this vast market.
+
+101
+00:04:11,980 --> 00:04:14,860
+There's plenty of fish in the sea, and I'm going to find
+
+102
+00:04:14,860 --> 00:04:16,200
+out what works for me.
+
+103
+00:04:16,200 --> 00:04:17,540
+All right, now, of course,
+
+104
+00:04:17,540 --> 00:04:20,040
+you do have to consider what your market value is.
+
+105
+00:04:20,040 --> 00:04:22,640
+All right, so your market value determines what you're able
+
+106
+00:04:22,640 --> 00:04:22,940
+to get.
+
+107
+00:04:22,940 --> 00:04:27,400
+All right, but in any case, this is the way that things start.
+
+108
+00:04:27,400 --> 00:04:31,100
+But once you actually meet some people, and you're with them
+
+109
+00:04:31,100 --> 00:04:33,060
+for some years, and possibly get married,
+
+110
+00:04:33,060 --> 00:04:35,700
+or have some kids with them, then things become very
+
+111
+00:04:35,700 --> 00:04:36,180
+different.
+
+112
+00:04:36,180 --> 00:04:38,140
+Then it's not like, well, you have one flaw.
+
+113
+00:04:38,140 --> 00:04:40,300
+I'm just going to replace you with a person who's a,
+
+114
+00:04:40,300 --> 00:04:44,220
+identical in every way, except they don't have that flaw.
+
+115
+00:04:45,780 --> 00:04:47,780
+Right, and in fact, you may say,
+
+116
+00:04:47,780 --> 00:04:49,860
+I'm a person with super high mate value.
+
+117
+00:04:50,180 --> 00:04:52,220
+Why am I with a person with such low mate value?
+
+118
+00:04:52,860 --> 00:04:53,860
+Right, and the answer is, well,
+
+119
+00:04:53,860 --> 00:04:55,180
+but you have kids with this person.
+
+120
+00:04:55,620 --> 00:04:59,060
+So even the fact that your mate value is now really high means
+
+121
+00:04:59,060 --> 00:05:01,220
+that you would have to go and abandon your kids in order
+
+122
+00:05:01,220 --> 00:05:03,180
+to go and get your fair market value.
+
+123
+00:05:03,180 --> 00:05:04,940
+And a lot of people say, in that case,
+
+124
+00:05:04,940 --> 00:05:06,900
+I guess I'll just be underpaid for the rest of my life.
+
+125
+00:05:07,680 --> 00:05:08,700
+I will just endure this.
+
+126
+00:05:08,700 --> 00:05:11,140
+Right, and the other person may then,
+
+127
+00:05:11,140 --> 00:05:14,900
+may strategically respond and say, well, you know,
+
+128
+00:05:14,900 --> 00:05:16,340
+this guy's not going to leave me just
+
+129
+00:05:16,340 --> 00:05:18,820
+because I've lost all my teeth.
+
+130
+00:05:18,820 --> 00:05:22,580
+So why do I need to bother brushing anymore?
+
+131
+00:05:22,580 --> 00:05:24,660
+Like, I can just let my teeth rot now.
+
+132
+00:05:25,140 --> 00:05:28,220
+And you say, but what about my market value?
+
+133
+00:05:28,460 --> 00:05:31,620
+Right, we're no longer in that situation where we started,
+
+134
+00:05:31,620 --> 00:05:34,180
+where we had this near infinite number of options.
+
+135
+00:05:34,700 --> 00:05:37,900
+Now we're down to one option where you have,
+
+136
+00:05:37,900 --> 00:05:39,700
+or the one option where you can keep your kids,
+
+137
+00:05:39,700 --> 00:05:41,660
+and then you have all these other options,
+
+138
+00:05:41,660 --> 00:05:43,580
+but they're way worse in one way.
+
+139
+00:05:43,900 --> 00:05:48,100
+And that might actually lead to a very, to a situation
+
+140
+00:05:48,100 --> 00:05:50,300
+that seems almost incomprehensible.
+
+141
+00:05:50,820 --> 00:05:52,540
+Like, if you could go back in time and say,
+
+142
+00:05:52,540 --> 00:05:54,380
+this will be your end up, how could I have ended up there?
+
+143
+00:05:54,380 --> 00:05:57,460
+Well, you will go and get attached to this person
+
+144
+00:05:57,460 --> 00:06:00,020
+or this situation, and then it will be really hard to go
+
+145
+00:06:00,180 --> 00:06:01,380
+and back out, and it's not going
+
+146
+00:06:01,380 --> 00:06:03,140
+to be like perfect competition at all anymore.
+
+147
+00:06:03,480 --> 00:06:05,740
+It's going to be bilateral monopoly all the way.
+
+148
+00:06:05,740 --> 00:06:07,860
+And it might be bilateral monopoly
+
+149
+00:06:07,860 --> 00:06:10,300
+where one person is really mean and doesn't care
+
+150
+00:06:10,300 --> 00:06:13,100
+about other people, and the other person is really nice
+
+151
+00:06:13,100 --> 00:06:16,660
+and does, and then the nice person may suffer greatly.
+
+152
+00:06:17,540 --> 00:06:19,420
+All right, so this is a situation
+
+153
+00:06:19,420 --> 00:06:20,900
+that any person might end up in.
+
+154
+00:06:21,300 --> 00:06:23,140
+Right, and of course, this could work on a job, too,
+
+155
+00:06:23,140 --> 00:06:24,780
+generally not as extreme on a job.
+
+156
+00:06:24,780 --> 00:06:28,940
+But it could very well be that you go and move to North Dakota
+
+157
+00:06:28,940 --> 00:06:30,820
+to take advantage of the great opportunities
+
+158
+00:06:30,820 --> 00:06:31,980
+in the oil industry there.
+
+159
+00:06:32,420 --> 00:06:34,820
+And then once you move there, you find, well,
+
+160
+00:06:34,820 --> 00:06:38,220
+I'm in a town where there's one employer,
+
+161
+00:06:38,220 --> 00:06:39,660
+and it was a great deal at first,
+
+162
+00:06:40,100 --> 00:06:41,460
+but now things aren't going so well.
+
+163
+00:06:42,400 --> 00:06:45,580
+And it won't be that you say, well, things are 1% worse,
+
+164
+00:06:45,580 --> 00:06:47,220
+so I'm just going to go back to where I was.
+
+165
+00:06:47,620 --> 00:06:49,900
+Instead, given that you've taken all the trouble to move
+
+166
+00:06:49,900 --> 00:06:52,020
+to North Dakota, you probably will settle
+
+167
+00:06:52,020 --> 00:06:53,240
+for a considerably worse deal
+
+168
+00:06:53,240 --> 00:06:54,420
+than what you originally were expecting.
+
+169
+00:06:55,460 --> 00:06:58,060
+Right, or one of my favorite questions,
+
+170
+00:06:58,060 --> 00:06:59,700
+why don't I ask it right now, right?
+
+171
+00:06:59,700 --> 00:07:01,300
+So how many people here have a job of some kind?
+
+172
+00:07:02,260 --> 00:07:03,700
+All right, how many people were in a job
+
+173
+00:07:03,700 --> 00:07:05,980
+where there was one person that is known to,
+
+174
+00:07:05,980 --> 00:07:07,500
+or that is mutually agreed to,
+
+175
+00:07:07,500 --> 00:07:09,220
+generally agreed to be incompetent?
+
+176
+00:07:11,340 --> 00:07:13,980
+Yes, so, you know, fewer hands than normal.
+
+177
+00:07:13,980 --> 00:07:16,620
+Usually, I, actually, usually I get about 90%
+
+178
+00:07:16,620 --> 00:07:20,940
+of employed people agree there is a consensually agreed upon
+
+179
+00:07:20,940 --> 00:07:22,180
+incompetent person at the firm.
+
+180
+00:07:22,700 --> 00:07:24,740
+So then, would this person have been hired
+
+181
+00:07:24,740 --> 00:07:27,260
+if people knew what the person was like in advance?
+
+182
+00:07:27,940 --> 00:07:30,540
+No way. Then why are they still there?
+
+183
+00:07:30,540 --> 00:07:34,140
+Because of this. Because after they hire them,
+
+184
+00:07:34,140 --> 00:07:36,980
+you find out about the person, you've gone and poured the
+
+185
+00:07:36,980 --> 00:07:40,100
+training into them, and also after they've made some friends
+
+186
+00:07:40,100 --> 00:07:41,820
+there, and people feel sorry for them,
+
+187
+00:07:42,220 --> 00:07:44,380
+then it's no longer the same as it was
+
+188
+00:07:44,380 --> 00:07:47,860
+when you had this vast possible realm
+
+189
+00:07:48,100 --> 00:07:49,140
+of all the people you might hire.
+
+190
+00:07:49,140 --> 00:07:51,420
+Instead, it's like, well, we've got a person who's
+
+191
+00:07:51,420 --> 00:07:53,940
+like in the 30th percentile of what we were hoping for,
+
+192
+00:07:54,500 --> 00:07:56,620
+but we wouldn't really fire the person unless it were
+
+193
+00:07:56,620 --> 00:08:01,260
+at say the 20th, 15th percentile.
+
+194
+00:08:01,740 --> 00:08:01,980
+Yes?
+
+195
+00:08:02,420 --> 00:08:04,500
+So if you expect you can reasonably do better,
+
+196
+00:08:04,500 --> 00:08:06,940
+in what way is that a sub-cost fallacy kind of thing?
+
+197
+00:08:07,340 --> 00:08:10,500
+Ah, well, the key thing is, so, again, it's, let's see,
+
+198
+00:08:10,500 --> 00:08:11,740
+what's the right way of putting it?
+
+199
+00:08:12,220 --> 00:08:15,020
+So, you know, so classic sub-cost fallacy is refusing
+
+200
+00:08:15,020 --> 00:08:16,780
+to walk out of a movie that you hate.
+
+201
+00:08:17,500 --> 00:08:18,580
+That's a sub-cost fallacy.
+
+202
+00:08:18,900 --> 00:08:21,580
+It's not a sub-cost fallacy to walk out of a movie
+
+203
+00:08:21,580 --> 00:08:24,860
+that you would pay $2 to see if you already paid $10.
+
+204
+00:08:24,860 --> 00:08:26,700
+Because, well, like, do you get your money back
+
+205
+00:08:26,700 --> 00:08:27,220
+if you walk out?
+
+206
+00:08:27,220 --> 00:08:29,060
+No. So you're getting, so you find
+
+207
+00:08:29,060 --> 00:08:30,540
+out the movie's way worse than you thought,
+
+208
+00:08:30,540 --> 00:08:32,620
+but as long as you're getting some surplus out of it,
+
+209
+00:08:32,940 --> 00:08:36,340
+after a conditional upon having paid the $10, then you'll stay
+
+210
+00:08:36,340 --> 00:08:37,860
+as long as you get anything greater than zero.
+
+211
+00:08:38,420 --> 00:08:40,900
+So similarly, if you've already gone and paid the training costs,
+
+212
+00:08:41,220 --> 00:08:43,660
+you're not going to go and fire the person because you wish
+
+213
+00:08:43,660 --> 00:08:46,260
+that you hadn't wasted, spent the training costs.
+
+214
+00:08:46,620 --> 00:08:50,660
+You'll only go and replace them if the improvement,
+
+215
+00:08:51,020 --> 00:08:53,180
+in addition to paying the training costs a second time,
+
+216
+00:08:53,180 --> 00:08:56,540
+justifies getting rid of the person, which is fairly straight.
+
+217
+00:08:57,140 --> 00:08:58,340
+Right? And then, of course, on top of it,
+
+218
+00:08:58,340 --> 00:09:01,660
+there's also the name the puppy phenomenon, where once you get
+
+219
+00:09:01,660 --> 00:09:03,220
+to know the person, you feel sorry for them
+
+220
+00:09:03,220 --> 00:09:06,740
+when you fire them, which might be that the boss feels sorry,
+
+221
+00:09:06,740 --> 00:09:08,420
+might be the other workers feel sorry.
+
+222
+00:09:08,980 --> 00:09:11,380
+There is the great George Clooney movie, Up in the Air,
+
+223
+00:09:11,380 --> 00:09:13,420
+where he's a professional firing consultant.
+
+224
+00:09:14,260 --> 00:09:15,460
+And what does he do?
+
+225
+00:09:15,460 --> 00:09:17,740
+He fires people so the boss doesn't have to fire them.
+
+226
+00:09:18,660 --> 00:09:21,460
+Now, anyone can fire a person.
+
+227
+00:09:21,460 --> 00:09:26,580
+It's just opening your mouth and saying you are fired.
+
+228
+00:09:27,260 --> 00:09:29,580
+But it's a very unpleasant thing to do.
+
+229
+00:09:29,580 --> 00:09:32,540
+And so in the movie, George Clooney actually is paid to fly
+
+230
+00:09:32,540 --> 00:09:34,020
+in around the country and do it.
+
+231
+00:09:34,540 --> 00:09:35,420
+I did some research.
+
+232
+00:09:35,420 --> 00:09:38,060
+So there is not, there isn't literally anyone
+
+233
+00:09:38,060 --> 00:09:39,940
+that has been found who has George Clooney's job.
+
+234
+00:09:40,860 --> 00:09:43,740
+So there's no such thing as someone, as far as anyone can find,
+
+235
+00:09:44,060 --> 00:09:45,420
+who only fires people.
+
+236
+00:09:46,180 --> 00:09:48,940
+There's a more general occupation where you do
+
+237
+00:09:48,940 --> 00:09:50,180
+that plus other things.
+
+238
+00:09:50,180 --> 00:09:53,620
+But it's not, but there's no one who just fires people all day,
+
+239
+00:09:53,620 --> 00:09:55,500
+every day, and they fly around the world firing people.
+
+240
+00:09:56,420 --> 00:09:59,660
+Yes. You know, they're consultants, and they may be
+
+241
+00:09:59,660 --> 00:10:01,180
+like human capital consultants or whatever.
+
+242
+00:10:01,180 --> 00:10:02,940
+And one of the things they do is help you fire people.
+
+243
+00:10:03,420 --> 00:10:05,420
+But they would also give you other advice, too.
+
+244
+00:10:06,060 --> 00:10:08,060
+Yes, my wife was once at a law firm
+
+245
+00:10:08,060 --> 00:10:10,580
+where there was one partner who brought in much less money
+
+246
+00:10:10,580 --> 00:10:11,420
+than anybody else.
+
+247
+00:10:12,100 --> 00:10:14,220
+And a condition of him remaining a partner was that he had
+
+248
+00:10:14,220 --> 00:10:16,380
+to do all the unpleasant things that the other partners didn't
+
+249
+00:10:16,380 --> 00:10:17,820
+want to, including firing people.
+
+250
+00:10:17,820 --> 00:10:21,140
+So he was the guy who had to personally fire people,
+
+251
+00:10:21,500 --> 00:10:25,580
+which was considered enough that they would keep treating him
+
+252
+00:10:25,580 --> 00:10:27,780
+because he got to be a partner even though he wasn't bringing
+
+253
+00:10:27,780 --> 00:10:29,140
+in nearly as much money as other people.
+
+254
+00:10:29,140 --> 00:10:32,300
+So, well, he might have been allowed to earn the money
+
+255
+00:10:32,300 --> 00:10:34,220
+that someone who was bringing in a million dollars
+
+256
+00:10:34,220 --> 00:10:35,380
+for a business would earn.
+
+257
+00:10:35,660 --> 00:10:37,660
+So he was, so no one would have to feel mean.
+
+258
+00:10:37,660 --> 00:10:38,460
+All right.
+
+259
+00:10:38,460 --> 00:10:42,620
+So that's another case where it starts off,
+
+260
+00:10:42,620 --> 00:10:44,340
+before you actually hire a person,
+
+261
+00:10:44,340 --> 00:10:46,420
+where there's so many different people you might hire,
+
+262
+00:10:46,420 --> 00:10:50,180
+but once the market proceeds, then the universe shrinks.
+
+263
+00:10:50,660 --> 00:10:53,260
+And then there is, again, a lot of room for strategy.
+
+264
+00:10:53,940 --> 00:10:57,260
+And, of course, also room for psychology, as this is suggesting.
+
+265
+00:10:57,260 --> 00:11:00,020
+Whereas in general equilibrium,
+
+266
+00:11:00,020 --> 00:11:01,540
+there's not much room for psychology.
+
+267
+00:11:01,540 --> 00:11:03,020
+Again, you don't have to sit around worrying.
+
+268
+00:11:03,300 --> 00:11:04,860
+But how will they feel if I do this?
+
+269
+00:11:05,580 --> 00:11:07,980
+Like, how will the corn workers feel if they know
+
+270
+00:11:07,980 --> 00:11:10,100
+that I didn't buy this can of corn for fear
+
+271
+00:11:10,100 --> 00:11:10,820
+of raising the price?
+
+272
+00:11:10,820 --> 00:11:11,580
+Will they resent me?
+
+273
+00:11:12,180 --> 00:11:15,220
+Right? In general equilibrium, they have no idea who you are
+
+274
+00:11:15,220 --> 00:11:17,260
+or what you've done, so they can't resent you.
+
+275
+00:11:17,940 --> 00:11:20,580
+They can resent the general nature of customers.
+
+276
+00:11:21,340 --> 00:11:23,420
+Right? So if you remember the movie Clerks,
+
+277
+00:11:23,420 --> 00:11:24,780
+where the video clerk says,
+
+278
+00:11:24,780 --> 00:11:26,460
+this job will be great if it works for the customers.
+
+279
+00:11:26,460 --> 00:11:28,260
+So in general equilibrium,
+
+280
+00:11:28,260 --> 00:11:30,620
+the clerks can resent customers in general,
+
+281
+00:11:31,020 --> 00:11:32,540
+but they won't resent you personally.
+
+282
+00:11:33,100 --> 00:11:34,940
+Because they don't know, they don't even,
+
+283
+00:11:34,940 --> 00:11:36,740
+they don't even, aren't even aware you're alive.
+
+284
+00:11:37,020 --> 00:11:38,180
+They can say, I don't like that job,
+
+285
+00:11:38,180 --> 00:11:39,540
+because dealing with the public is bad.
+
+286
+00:11:39,540 --> 00:11:42,460
+But you cannot personally convince someone
+
+287
+00:11:42,460 --> 00:11:44,100
+that they want to quit by being in charge of them.
+
+288
+00:11:44,100 --> 00:11:45,260
+In general equilibrium.
+
+289
+00:11:45,260 --> 00:11:45,780
+All right.
+
+290
+00:11:46,260 --> 00:11:47,980
+Anyway, so what game theory tries
+
+291
+00:11:47,980 --> 00:11:51,380
+to do is analyze situations where strategy does matter,
+
+292
+00:11:51,380 --> 00:11:55,940
+where we're somewhere in between the extreme poles of one man
+
+293
+00:11:55,940 --> 00:11:59,260
+versus nature, and one person versus,
+
+294
+00:11:59,260 --> 00:12:01,740
+or an anonymous person versus the entirety of society.
+
+295
+00:12:03,180 --> 00:12:05,020
+Okay. All right.
+
+296
+00:12:05,380 --> 00:12:07,300
+So, now game theory generally ends
+
+297
+00:12:07,300 --> 00:12:09,460
+up with much less precise answers
+
+298
+00:12:09,460 --> 00:12:10,300
+than general equilibrium.
+
+299
+00:12:10,780 --> 00:12:14,060
+General equilibrium is noted for giving very precise answers
+
+300
+00:12:14,060 --> 00:12:20,380
+but if you think the answers are completely wrong,
+
+301
+00:12:20,380 --> 00:12:21,940
+the precision is no longer so good.
+
+302
+00:12:22,740 --> 00:12:25,300
+Right. There's a line that Richard Thaler repeats a lot.
+
+303
+00:12:25,300 --> 00:12:26,940
+I don't know whether he started it.
+
+304
+00:12:26,940 --> 00:12:30,140
+It's a line of I would rather be vaguely right than clearly wrong.
+
+305
+00:12:30,820 --> 00:12:33,180
+So I'd rather write a book saying game theory can kind
+
+306
+00:12:33,180 --> 00:12:36,020
+of illuminate a bunch of situations to some degree,
+
+307
+00:12:36,340 --> 00:12:39,060
+which is true, rather than write Fisher Black's book saying
+
+308
+00:12:39,060 --> 00:12:41,100
+general equilibrium theory predicts everything perfectly.
+
+309
+00:12:41,100 --> 00:12:43,860
+And it's like, well, it predicts everything precisely,
+
+310
+00:12:44,540 --> 00:12:47,820
+but the very precision lets us know that it's wrong, it seems.
+
+311
+00:12:49,820 --> 00:12:50,100
+All right.
+
+312
+00:12:50,620 --> 00:12:53,140
+So how many people here have done at least some game theory
+
+313
+00:12:53,140 --> 00:12:53,660
+at some point?
+
+314
+00:12:53,820 --> 00:12:57,660
+Okay. So a lot of this will be review, but I've known people
+
+315
+00:12:57,660 --> 00:13:00,220
+to mess this up long after they've seen it a bunch of times.
+
+316
+00:13:00,220 --> 00:13:03,500
+So let's go over the review again.
+
+317
+00:13:05,060 --> 00:13:06,620
+Okay. All right.
+
+318
+00:13:06,620 --> 00:13:12,620
+So the standard consumer theory still provides the building
+
+319
+00:13:12,620 --> 00:13:13,540
+blocks for game theory.
+
+320
+00:13:14,180 --> 00:13:18,700
+So we still have utility functions in game theory.
+
+321
+00:13:18,700 --> 00:13:20,660
+So we still have utility functions.
+
+322
+00:13:21,300 --> 00:13:25,060
+There is one change in the packaging,
+
+323
+00:13:25,460 --> 00:13:27,100
+which is that in game theory people often talk
+
+324
+00:13:27,100 --> 00:13:30,620
+about payoffs instead of utility.
+
+325
+00:13:30,780 --> 00:13:33,980
+But payoffs is just another word for utility,
+
+326
+00:13:33,980 --> 00:13:35,780
+so there's nothing new here.
+
+327
+00:13:35,780 --> 00:13:37,100
+It's just other than a new word.
+
+328
+00:13:37,620 --> 00:13:37,780
+All right.
+
+329
+00:13:37,780 --> 00:13:39,460
+So the concept is the same.
+
+330
+00:13:39,460 --> 00:13:42,100
+So just like with utility, the whole idea of utility is
+
+331
+00:13:42,100 --> 00:13:44,700
+that x is a higher utility than y, and you have choices,
+
+332
+00:13:44,700 --> 00:13:45,740
+but you can do either.
+
+333
+00:13:45,740 --> 00:13:47,340
+You do the thing with higher utility.
+
+334
+00:13:47,660 --> 00:13:51,060
+So payoffs, by definition, if something is a higher payoff
+
+335
+00:13:51,060 --> 00:13:52,780
+than another thing, it means that you do the thing
+
+336
+00:13:52,780 --> 00:13:54,420
+that is a higher payoff rather
+
+337
+00:13:54,420 --> 00:13:55,500
+than the thing that is a lower payoff.
+
+338
+00:13:56,900 --> 00:13:58,100
+Okay. All right.
+
+339
+00:13:58,580 --> 00:14:02,860
+Now, there's just a little aside in case you know more about,
+
+340
+00:14:02,860 --> 00:14:06,100
+you know, know something about expected utility theory.
+
+341
+00:14:06,100 --> 00:14:07,700
+If you don't, don't worry about it.
+
+342
+00:14:07,700 --> 00:14:10,060
+We'll talk about it in the lecture after the midterm.
+
+343
+00:14:10,580 --> 00:14:15,660
+But just in case you were curious, in game theory,
+
+344
+00:14:15,660 --> 00:14:17,340
+we usually use the term utilities
+
+345
+00:14:17,340 --> 00:14:20,740
+as von Neumann-Morgenstern utilities.
+
+346
+00:14:21,300 --> 00:14:23,020
+Right. Von Neumann-Morgenstern.
+
+347
+00:14:23,380 --> 00:14:26,020
+If you've seen Dr. Strangelove, the guy who played Dr.
+
+348
+00:14:26,020 --> 00:14:27,620
+Strangelove is based on von Neumann.
+
+349
+00:14:28,260 --> 00:14:28,620
+All right.
+
+350
+00:14:28,740 --> 00:14:32,300
+So in any case, I'm like a super genius German
+
+351
+00:14:32,300 --> 00:14:34,860
+with possibly homicidal tendencies,
+
+352
+00:14:35,300 --> 00:14:40,020
+but a great strategist, but perhaps lacking in decency.
+
+353
+00:14:40,140 --> 00:14:45,140
+But anyway, so there's a particular version
+
+354
+00:14:45,140 --> 00:14:48,740
+of utility theory, which is called von Neumann-Morgenstern
+
+355
+00:14:48,740 --> 00:14:49,580
+utility theory.
+
+356
+00:14:50,020 --> 00:14:54,300
+And the utilities in game theory are generally interpreted
+
+357
+00:14:54,300 --> 00:14:58,740
+as these special utilities in order to avoid all questions
+
+358
+00:14:58,740 --> 00:14:59,340
+of risk aversion.
+
+359
+00:14:59,340 --> 00:15:03,500
+If this completely confuses you or seems weird,
+
+360
+00:15:03,860 --> 00:15:04,700
+don't worry about it.
+
+361
+00:15:05,220 --> 00:15:06,540
+We will talk about it in week eight.
+
+362
+00:15:07,940 --> 00:15:10,460
+But anyway, so at any point I'm lecturing, you're saying, wait,
+
+363
+00:15:10,460 --> 00:15:11,660
+why is it you get to go
+
+364
+00:15:11,660 --> 00:15:14,340
+and just have people maximize average utilities?
+
+365
+00:15:14,340 --> 00:15:15,820
+Don't we need to worry about risk aversion?
+
+366
+00:15:16,220 --> 00:15:18,300
+The short answer is no, this is actually okay,
+
+367
+00:15:18,660 --> 00:15:20,780
+because we are making an assumption
+
+368
+00:15:20,780 --> 00:15:23,540
+that will be explained later about why,
+
+369
+00:15:23,540 --> 00:15:25,100
+which allows us to do that.
+
+370
+00:15:25,380 --> 00:15:26,820
+So anyway, don't worry about that.
+
+371
+00:15:26,820 --> 00:15:30,180
+Okay, all right, now there's a game that's going
+
+372
+00:15:30,180 --> 00:15:32,220
+to be represented in two distinct ways.
+
+373
+00:15:32,820 --> 00:15:37,900
+These two ways are known as extensive form and normal form.
+
+374
+00:15:41,020 --> 00:15:44,220
+So what extensive forms do is they display every possible
+
+375
+00:15:44,420 --> 00:15:45,820
+course of game events turn by turn.
+
+376
+00:15:46,820 --> 00:15:48,980
+All right, so when you're showing the extensive form,
+
+377
+00:15:49,700 --> 00:15:52,060
+like this, extensive form,
+
+378
+00:15:52,060 --> 00:15:56,700
+then you will show a initial decision,
+
+379
+00:15:56,700 --> 00:15:57,620
+oh this is where we start,
+
+380
+00:15:57,620 --> 00:15:59,060
+so that symbolizes our starting point.
+
+381
+00:15:59,500 --> 00:16:01,740
+And then that actor might have three choices,
+
+382
+00:16:02,420 --> 00:16:04,020
+and then another actor gets to act.
+
+383
+00:16:04,540 --> 00:16:07,940
+And that might have, this might lead to two choices
+
+384
+00:16:08,460 --> 00:16:10,540
+in this part of the tree, three choices here,
+
+385
+00:16:10,540 --> 00:16:12,100
+maybe only one choice over here.
+
+386
+00:16:12,100 --> 00:16:14,820
+And then that could go and branch out to other things.
+
+387
+00:16:14,820 --> 00:16:18,300
+And it could go on, so on.
+
+388
+00:16:18,300 --> 00:16:24,020
+And then eventually it always terminates in some final result,
+
+389
+00:16:24,020 --> 00:16:25,540
+and then we write down payoffs.
+
+390
+00:16:26,100 --> 00:16:29,620
+And the way payoffs work is they are always ordered sequentially.
+
+391
+00:16:30,100 --> 00:16:33,740
+So if this were a four-player game,
+
+392
+00:16:34,100 --> 00:16:37,060
+this would mean that player one gets three, player two gets seven,
+
+393
+00:16:37,060 --> 00:16:40,700
+player, wait, player one gets three, two gets seven,
+
+394
+00:16:40,700 --> 00:16:43,020
+three gets ten, player four gets a payoff of 13.
+
+395
+00:16:43,940 --> 00:16:45,860
+All right, so at the end of each node,
+
+396
+00:16:45,860 --> 00:16:49,180
+there will generally be parentheses with a series of numbers in it.
+
+397
+00:16:49,540 --> 00:16:53,220
+And each number in order corresponds to the payoff that each player gets.
+
+398
+00:16:53,220 --> 00:16:54,860
+So player one, player two, player three,
+
+399
+00:16:54,860 --> 00:16:56,940
+player four, all the way up to player n.
+
+400
+00:16:58,780 --> 00:17:01,140
+In practice, economists almost always look at games
+
+401
+00:17:01,140 --> 00:17:04,500
+with only two players, which simplifies things a lot.
+
+402
+00:17:05,420 --> 00:17:07,500
+Once in a while, I guess I've seen a three-player game.
+
+403
+00:17:07,500 --> 00:17:09,620
+I'm not sure I've ever seen a four-player game.
+
+404
+00:17:11,180 --> 00:17:13,540
+I guess I've seen like infinite number of player games.
+
+405
+00:17:13,540 --> 00:17:17,100
+So yeah, one, two, three, and then infinity is the other case that we do.
+
+406
+00:17:17,860 --> 00:17:21,060
+All right, if you were applying game theory to a real-world problem,
+
+407
+00:17:21,060 --> 00:17:23,940
+of course, you would want to think about it a bit more deeply than that.
+
+408
+00:17:24,380 --> 00:17:27,020
+And say, well, I can't think of anything like, sure,
+
+409
+00:17:27,020 --> 00:17:28,820
+there's way more than three players involved,
+
+410
+00:17:28,820 --> 00:17:31,340
+but I've only worked out models of three players,
+
+411
+00:17:31,340 --> 00:17:34,220
+so let's assume away all those other people.
+
+412
+00:17:37,100 --> 00:17:39,420
+So by the way, so I'm going to mention this again,
+
+413
+00:17:39,420 --> 00:17:41,420
+but now just seems like a good time.
+
+414
+00:17:41,420 --> 00:17:45,860
+So when we get to the exams, there will be two kinds of questions.
+
+415
+00:17:46,300 --> 00:17:47,740
+There will be one kind of question that says,
+
+416
+00:17:47,740 --> 00:17:49,260
+in a certain model, what happens?
+
+417
+00:17:50,660 --> 00:17:53,420
+When a question is like that, do you need to discuss the outside world
+
+418
+00:17:53,420 --> 00:17:54,540
+in order to answer the question?
+
+419
+00:17:54,980 --> 00:17:57,540
+No. Should you discuss the outside world in order to answer the question?
+
+420
+00:17:57,540 --> 00:17:59,180
+No. If it asks what happens in a model,
+
+421
+00:17:59,500 --> 00:18:02,900
+then you just work through logically what happens in that model,
+
+422
+00:18:02,900 --> 00:18:03,900
+and that's the end.
+
+423
+00:18:04,300 --> 00:18:06,660
+And in general, you don't need to say anything else.
+
+424
+00:18:06,660 --> 00:18:10,380
+If it doesn't say discuss whether the model is realistic, you don't do it.
+
+425
+00:18:10,380 --> 00:18:13,940
+On the other hand, I also often have a question that says,
+
+426
+00:18:13,940 --> 00:18:16,860
+in the real world, when you have a question like that,
+
+427
+00:18:16,860 --> 00:18:19,060
+is it okay to just go and say, well, in general equilibrium,
+
+428
+00:18:19,060 --> 00:18:20,300
+this is how it works, the end?
+
+429
+00:18:21,380 --> 00:18:23,420
+No. Not unless you actually say,
+
+430
+00:18:23,420 --> 00:18:25,740
+generally, it fits the real world in this particular case.
+
+431
+00:18:26,740 --> 00:18:28,060
+So this is one of the ways,
+
+432
+00:18:28,060 --> 00:18:30,780
+so whenever you hear about people learning to think like economists,
+
+433
+00:18:30,780 --> 00:18:32,940
+one of the scary things to me is,
+
+434
+00:18:32,940 --> 00:18:35,060
+in the process of learning to think like an economist,
+
+435
+00:18:35,060 --> 00:18:38,780
+many students will actually stop talking about the world at all,
+
+436
+00:18:38,780 --> 00:18:40,820
+and then even when you ask them about the real world,
+
+437
+00:18:40,820 --> 00:18:43,780
+they'll say, well, here's a model that is somehow related,
+
+438
+00:18:43,780 --> 00:18:46,020
+and I'm just going to tell you what happens to that model,
+
+439
+00:18:46,020 --> 00:18:48,420
+and since what I say does happen in the model,
+
+440
+00:18:48,420 --> 00:18:49,620
+I've answered the question,
+
+441
+00:18:49,620 --> 00:18:51,820
+even though the question didn't ask about the model at all.
+
+442
+00:18:51,820 --> 00:18:54,780
+So anyway, I will remind you about this when we do the exams,
+
+443
+00:18:54,780 --> 00:19:00,020
+but I have been disturbed at this one bad side effect of learning economics,
+
+444
+00:19:00,020 --> 00:19:03,100
+which is forgetting that it is ultimately supposed to be about
+
+445
+00:19:03,100 --> 00:19:04,500
+understanding the real world.
+
+446
+00:19:04,500 --> 00:19:07,500
+At least you're not supposed to lose your ability to think like an economist.
+
+447
+00:19:07,500 --> 00:19:10,220
+You're not supposed to lose your ability to understand the real world.
+
+448
+00:19:10,220 --> 00:19:12,540
+So you're supposed to enhance that ability,
+
+449
+00:19:12,540 --> 00:19:16,660
+not to just change the subject into models.
+
+450
+00:19:16,940 --> 00:19:20,500
+It's useful to understand the models to see whether they want to
+
+451
+00:19:20,500 --> 00:19:23,060
+understand the logic to know whether they do fit the real world,
+
+452
+00:19:23,060 --> 00:19:26,860
+but that's not the same thing as understanding the real world.
+
+453
+00:19:26,860 --> 00:19:28,460
+Anyway, all right.
+
+454
+00:19:28,460 --> 00:19:31,020
+So this is an extensive form here,
+
+455
+00:19:31,020 --> 00:19:34,900
+and as I said, so they show every possible thing that might logically happen,
+
+456
+00:19:34,900 --> 00:19:40,420
+turn by turn, and we see how things branch out from every possibility.
+
+457
+00:19:40,420 --> 00:19:43,860
+For this reason, these are often also called decision trees.
+
+458
+00:19:43,860 --> 00:19:45,860
+Notice it's like an upside down tree.
+
+459
+00:19:45,860 --> 00:19:47,260
+So really to look like a tree,
+
+460
+00:19:47,260 --> 00:19:50,380
+we flip it around so that would be the roots of the tree,
+
+461
+00:19:50,380 --> 00:19:53,780
+and then the trees will only branch out that way.
+
+462
+00:19:53,780 --> 00:19:56,540
+You know what trees look like.
+
+463
+00:19:56,540 --> 00:19:58,900
+There are some weird trees that aren't like that.
+
+464
+00:19:58,900 --> 00:20:04,900
+Still, I love them so much that I'm going to throw them in here and say,
+
+465
+00:20:04,900 --> 00:20:09,260
+You have a unique ability to manipulate what's going on today.
+
+466
+00:20:09,260 --> 00:20:10,980
+I really want to learn theיל there's a particular world that is
+
+467
+00:20:10,980 --> 00:20:14,740
+different than what we Alabama is,
+
+468
+00:20:14,740 --> 00:20:17,260
+where you can do many things and change many things.
+
+

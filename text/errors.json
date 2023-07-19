@@ -50,4 +50,101 @@
         "answer": "The U.S. political system allowed the subprime crisis to happen due to moral hazard, which was supported by government policy, unsustainable lending, and borrowing practices, leading to the risk being passed onto the general public.",
         "explanation": "Using a moral hazard argument, we can understand that government policy contributed to the subprime crisis by supporting unsustainable lending and borrowing practices. This allowed banks to take risks with sub-optimal borrowers and buyers to purchase houses they couldn't truly afford. Additionally, agencies like Fannie Mae and Freddie Mac were willing to buy all mortgage loans, removing the risk from lenders. When the consequences of these actions manifested as defaults, the government shifted the risk to the public through taxes and inflation. Another possible explanation is irrational rationality, where the high cost of understanding the bubble led to systemic bias, with the American Dream being a contributing factor."
     }
-]
+    {
+        "enunciate": "There are two kinds of workers, good and bad.  Both types are equally numerous.  Good workers are worth $100k to me; bad workers are worth $25k to me.  It costs both kinds of workers $5k to finish school.  I can tell if a worker finished school, but cannot observe their quality directly.  Workers earn 40% of their value to me if they choose to be self-employed.  Finally, assume that if a worker fails to go to school, I automatically conclude that he is bad. True, False, and Explain: Everyone goes to school and earns the same wage.",
+        "answer": "False",
+        "explanation": "We can offer bad workers $40k to induce them not to get a degree, and pay those with a degree $45k to only attract good workers. In this situation, our profit per good worker is $55k and loss per bad worker is $15k. If we were to offer degree holders $45k and pay anything less than $40k to non-degree holders, then everyone would get a degree and we would lose $20k per bad worker. Therefore, it is in our interest to offer non-degree holders $40k to reduce our losses from bad workers.",
+        "addr": "2006f.1.05"
+    },
+    {
+        "enunciate": "There are two kinds of workers, good and bad.  Both types are equally numerous.  Good workers are worth $100k to me; bad workers are worth $25k to me.  It costs both kinds of workers $5k to finish school.  I can tell if a worker finished school, but cannot observe their quality directly.  Workers earn 40% of their value to me if they choose to be self-employed.  Finally, assume that if a worker fails to go to school, I automatically conclude that he is bad. True, False, and Explain: Only bad workers will go to school, and will earn a net wage (wages minus schooling costs) of $20k.",
+        "answer": "False",
+        "explanation": "We would be best off just offering a wage of $20k to all workers. If we try to create a differential wage for educated workers, then we will lose more money on the bad workers than we gain from the good workers."
+        "addr": "2006f.1.06"
+    },
+    {
+        "enunciate": "Consider a risk-neutral farmer with the cost function TC=q^0.5. The market price is 3 with p=0.5, and 0 with p=0.5. True, False, and Explain: If the farmer has RE, he sets q=1/3.",
+        "answer": "False",
+        "explanation": "The given cost function is TC=q^0.5. In a risk-neutral situation with rational expectations (RE), the farmer sets his quantity produced based on the expected price for the product. The expected price (E(Px)) equals 1.5, since the price is 3 with p=0.5 and 0 with p=0.5. The marginal cost (MC) is 0.5/q^0.5. To find the optimal quantity (q*) with RE, we set E(Px) equal to MC. Therefore, q*.5 = 0.5/1.5 or q* = (0.5/1.5)^2, which is not equal to 1/3.",
+        "addr": "2007f.1.05"
+    },
+    {
+        "enunciate": "Consider a risk-neutral farmer with the cost function TC=q^0.5. The market price is 3 with p=0.5, and 0 with p=0.5. If the farmer's beliefs do not satisfy RE (he thinks the price=3 with p=0.2), his profits fall by 50%.",
+        "answer": "True",
+        "explanation": "If the farmer's beliefs do not satisfy RE, he would set the expected price (E(Px)) at 0.6 (0.2 * 3). We can calculate the optimal quantity (q*) without RE as q*=(0.5/0.6)^2. Comparing the profits in both situations, we can see that when the farmer does not have RE, his profits decrease by 50%.",
+        "addr": "2007f.1.05"
+    },
+    ,
+    {
+        "enunciate": "Name the two strongest empirical findings the optimist could cite in support of the statement 'Behavioral economics actually makes me more optimistic about the efficiency of the economy.'",
+        "answer": "1. People usually exhibit rational behavior when making economic decisions, which leads to efficient outcomes. 2. People have a tendency to be overconfident, which can drive innovation and economic growth.",
+        "explanation": "The optimist's case is that behavioral economics emphasizes the importance of rational decision-making for efficient economic outcomes. People generally exhibit rational behavior in economic situations, which leads to efficient markets. Furthermore, the tendency towards overconfidence in people can encourage them to take risks, innovate, and ultimately contribute to economic growth.",
+        "addr": "2012f.2.01"
+    },
+    {
+        "enunciate": "Explain a large belief gap between economists and the public on two questions from the Survey of Americans and Economists on the Economy, based on Kahneman's chapter on 'Answering an Easier Question' (Thinking, Fast and Slow).",
+        "answer": "The belief gap between economists and the public may be due to individuals substituting complex questions with easier ones, resulting in different perspectives on the economy. 'Answering an Easier Question' is a heuristic that people use to make judgments on difficult or complex questions.",
+        "explanation": "The large belief gap between economists and the public on two questions from the Survey of Americans and Economists on the Economy can be explained by Kahneman's chapter on 'Answering an Easier Question' from his book Thinking, Fast and Slow. In this chapter, Kahneman discusses a cognitive heuristic known as 'substituting', where people tend to answer a difficult or complex question by replacing it with a simpler, more manageable one. This process often leads to differing perspectives, which may explain the belief gap between economists, who have more specialized knowledge of the economy, and the general public, who rely on more intuitive judgments. The substitution heuristic allows individuals to make judgments and decisions in a more efficient manner; however, it may also result in beliefs that deviate from expert opinions.",
+        "addr": "2012f.2.02"
+    },
+    {
+        "enunciate": "Is there a simple way to mitigate this moral hazard problem? True or False?",
+        "answer": "True",
+        "explanation": "One potential way to mitigate this moral hazard problem could be through contractual punishments between voters and politicians. By establishing contracts that impose high punishments on politicians who act against the interests of their constituents, a stronger incentive is created for politicians to prioritize constituent interests over their own.",
+        "addr": "2013f.1.06"
+    },
+    {
+        "enunciate": "In the modern U.S., what is the most efficient way for the federal government to spend an extra billion dollars? What is the maximally utilitarian way for the federal government to spend this sum? (In both cases, assume that tax cuts are not an option).",
+        "answer": "The most efficient way is to maximize Kaldor-Hicks efficiency by having individuals bid for how they would like the money to be spent. The maximally utilitarian way is to either redistribute the billion dollars to the poorest with a higher marginal utility or to spend it all on a project that one individual gains nearly infinite utility from.",
+        "explanation": "Under Kaldor-Hicks efficiency, the government could maximize the dollar value of social resources by allowing individuals to bid for the allocation of the extra billion dollars. This would ensure that the money goes towards the most highly valued use. With a utilitarian approach, the aim is to maximize total happiness or pleasure in society. This could be achieved by redistributing the funds to those who are poorest and have a higher marginal utility per dollar, or by spending the entire sum on a project that provides immense utility to a single individual.",
+        "addr": "2013f.2"
+    },
+    {
+        "enunciate": "When you claim that X is the most efficient way for the federal government to spend an extra billion dollars, you should point to a large externality you propose to fix and argue that the supply response will be substantial. Why are answers of the form 'Distribute the money equally to everyone' considered weak?",
+        "answer": "Answers of this form are considered weak because all lump-sum transfers are neutral with respect to Kaldor-Hicks efficiency.",
+        "explanation": "Distributing money equally to everyone does not target specific externalities or create substantial supply responses. It is considered a weak argument because lump-sum transfers do not affect overall Kaldor-Hicks efficiency, which measures the potential for welfare gains.",
+        "addr": "2013f.2"
+    },
+    {
+        "enunciate": "What is the maximally utilitarian way for the federal government to spend an extra billion dollars?",
+        "answer": "Investments in neglected R&D, subsidize child bearing for economic growth, pay off third world dictators, and send medicine and vaccinations to the third world.",
+        "explanation": "Some suggested utilitarian ways to spend an extra billion dollars include investing in neglected research and development, subsidizing child bearing to stimulate economic growth and innovation, paying off third world dictators to leave their countries, and providing medicine and vaccinations to impoverished countries.",
+        "addr": "2013f.2"
+    },
+    {
+        "enunciate": "Some people argue that nominal wage rigidity is individually rational because many people (especially home-owners) have large nominally-denominated debt. Is this a sound argument? Why or why not?",
+        "answer": "This argument may hold if we are discussing downward wage rigidity, but not if we are discussing nominal wage increases.",
+        "explanation": "The theory of nominal wage rigidity deals with how the labor market responds to changes or lack thereof in wages, not specifically with nominally-denominated debt. If there is downward wage rigidity, a fall in nominal wages would result in the price level falling to keep the real wage constant. This could increase the real debt burden for people with nominally-denominated debt, like home-owners. However, if we consider nominal wage increases, which will raise the price level and potentially inflate debt away, the argument would not be sound, as home-owners may support nominal wage increases to reduce their real debt burden.",
+        "addr": "2013f.2"
+    },
+    {
+        "enunciate": "Paul Krugman recently accused anti-Keynesians of being \"knaves and fools.\" What would Kahneman say about this accusation? Use Thinking, Fast and Slow to craft a thoughtful reply.",
+        "answer": "The halo effect, availability bias, and confirmation bias may all contribute to Krugman's accusation.",
+        "explanation": "Kahneman might suggest that Krugman's accusation could be influenced by the halo effect, availability bias, and confirmation bias. The halo effect occurs when people create a unified view of a person or entity based on one negative aspect, such as a mistaken opinion on economics, leading to the perception of someone being a fool or knave. Availability bias may also play a role if Krugman can easily recall examples of anti-Keynesians behaving foolishly or knavishly, causing him to evaluate them as such. Although experts are less likely to be affected by ease of retrieval, those in positions of power, like Krugman, are more likely to be influenced by this bias. Additionally, confirmation bias might affect Krugman, as he is more likely to seek out information confirming his pre-existing beliefs and resist updating his views.",
+        "addr": "2013f.2"
+    },
+    {
+        "enunciate": "An agent faces two choices: (1) A utility of 10 for sure; (2) A utility of 0 with 50% probability and a utility of 20 with 50% probability. True, False, and Explain: If the agent is indifferent between (1) and (2), then in terms of Expected Utility Theory, he must be risk-neutral.",
+        "answer": "False",
+        "explanation": "Expected Utility Theory focuses on the utility derived from wealth and other consumer goods, with agents aiming to maximize that utility. In this case, the given utility values already account for the agent's risk-aversion level. Therefore, regardless of the agent's risk-aversion, they are indifferent between choices (1) and (2).",
+        "addr": "2014f.1.03"
+    },
+    {
+        "enunciate": "Use the signaling model of education to explain the sheepskin effect. Precisely specify why, in the real world, discrete educational achievement is so much more informative to employers than continuous educational achievement.",
+        "answer": "The sheepskin effect describes the fact that the vast majority of the returns to education are achieved upon completing the final year and graduating. In the real world, discrete educational achievement is more important than continuous educational achievement because schools do not impart many skills and the human capital effects of education are quite small. Discrete educational achievement is more informative because it sends the signal (the diploma) that an individual can bear the full costs of their schooling, providing employers with more information about their 'type' and enhancing their employment prospects.",
+        "explanation": "The sheepskin effect is in line with the signaling model, suggesting that education predominantly serves as a signal to potential employers about an individual's ability to complete school and endure costs that others may not be able to handle. This reveals their 'type' or abilities to employers. Discrete educational achievements, such as obtaining a degree, carry more weight than continuous achievements because they indicate that a person has fully committed to their education and successfully completed it. This provides valuable information to employers about the individual's commitment, perseverance, and ability to handle challenges. In the real world, employers tend to value degrees and graduation over simply attending courses since it is a stronger signal of a person's capabilities.",
+        "addr": "2014f.2.2"
+    },
+    {
+        "enunciate": "The nominal wage rigidity model blames unemployment on nominal wages' failure to swiftly fall to market-clearing levels. Can this model also explain the fact that high-ability workers are less likely to lose their jobs during recessions?",
+        "answer": "No",
+        "explanation": "The nominal wage rigidity model does not directly explain why high-ability workers are less likely to lose their jobs during recessions. It focuses on the failure of nominal wages to adjust quickly, affecting all types of workers.",
+        "addr": "2014f.2.3"
+    },
+    {
+        "enunciate": "If not, how can you modify the nominal rigidity model to explain why recessions hit low-ability workers harder?",
+        "answer": "Modify the model by introducing heterogeneity in worker abilities and firm preferences",
+        "explanation": "To modify the nominal rigidity model, we can introduce heterogeneity in worker abilities and firm preferences for high-ability workers. This would result in firms retaining high-ability workers during recessions, as they are more valuable and productive, while low-ability workers face a higher risk of job loss.",
+        "addr": "2014f.2.3"
+    },
+    ]

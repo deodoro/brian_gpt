@@ -1,8 +1,0 @@
-2.  True, False, and Explain:  The general equilibr ium interest rate will be less 
-than 3 %. 
- 
-TRUE.  Normalizing the utility function for the Type B’s, then applying the standard two -good GE 
-result, yields: 
- .  This implies an interest rate of -67%, which is 
-definitely less than 3%.  
- 

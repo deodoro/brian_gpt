@@ -1,4 +1,0 @@
-1.0225c1=.85
-c1 = .831, which is greater than 4/7[17]
- 
-

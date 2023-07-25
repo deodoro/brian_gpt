@@ -1,6 +1,0 @@
-5. Suppose foregone earnings are the sole cost of education, and people live forever. Without school, workers earn $10,000 per year; every year of school completed boosts earnings by 10%. 
- 
-True, False, and Explain: Without externalities, the social rate of return to education is 10%.
-
-False. The question says nothing about the nature of the relationship between school year completion and the increase in earnings. If the value of education is at least partially as a signal, an extremely low bar,  the social rate of return will be lower rate of return. The larger amount of earnings explained by the signal of education rather than human capital gains, the lower the social rate of return. In the real world, an accurate accounting of costs and benefits often leads to estimates of a negative rate of social return for education. 
-

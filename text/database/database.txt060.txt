@@ -1,9 +1,0 @@
-5.  True, False, and Explain:   Played simultaneously, this  game has two 
-SGPPSNE.  Played sequentially (with Player 1 moving first), this  game has 
-two PSNE, but only one is SGP.  
- 
-TRUE.  The simultaneous game only has one subgame, so both (L, L) and (R,R) are SGPNE.  
-The sequential gam e still has two PSNE: Player 1 will play L if he believes Player 2 will play L, and 
-R if he believes Player 2 will play R.  However, once Player 1 plays L, Player 2 would definitely 
-want to play L too, so by backw ards induction, only (L,L) is SGP.  
- 

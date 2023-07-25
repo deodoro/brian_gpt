@@ -1,8 +1,0 @@
-6.  True, False, and Explain : If the game is infinitely repeated, the equilibrium 
-(Don't Cheat, Buy) may be sustainable even if a>5.  
-
-TRUE.  If a>5, it never pays to Investigate.  But the customer can still find out about the store's 
-honesty by buying without investigating and seeing  what happens.  He could then induce honest 
-behavior with trigger strategies, for example.  Trigger strategies would work as long as 3/(1 -)5, 
-where  is the store's discount factor.  
- 

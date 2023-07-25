@@ -1,8 +1,0 @@
-5. Suppose workers are paid nominally rigid efficiency wages. 
- 
-True, False, and Explain:  Employee shirking will be procyclical  -  i.e., higher during good economic times, lower during bad economic times.
-
-UPGRADE THIS ANSWER AFTER WE HAVE LEARNED THIS IN CLASS
-
-This appears to be true.  Wage rigidity implies that it will be less costly to fire a given worker and hire a new worker than to lower a worker's wage if that worker's productivity falls. This is likely to be particularly true in a recession when there are more unemployed workers seeking jobs. Moreover, during a recession a worker who is fired for shirking will find it more difficult to find a job, because fewer firms will be hiring. The fired worker will also be unable to compete on price, because this will signal a lower quality worker to employers assuming the nominally rigid efficiency wages result from asymmetric information. All of this suggests that during recessions the expected cost to an employee of shirking is higher than during good economic times. Employee shirking will therefore be procyclical.
-

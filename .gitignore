@@ -1,6 +1,12 @@
 **/*.mp3
-.env
+.env*
 .ipynb_checkpoints
 .DS_Store
 .vscode
-orig
+out
+cache*
+db/store
+inputs
+output
+env
+backup

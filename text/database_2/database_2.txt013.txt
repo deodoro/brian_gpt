@@ -1,9 +1,0 @@
-1.Governments sometimes give away services, such as health care, without charge. Assuming there is no rationing, use a supply-and-demand diagram to show the deadweight costs of this policy relative to the competitive equilibrium. Explain your diagram, and discuss the implications for moral hazard in insurance.
-
-No rationing and no price constitutes universal healthcare. Moral hazard in insurance increases because people abstain from buying health care and act riskier because they don't face any costs to receiving health care. 
-
-
-
-I think this supports how we drew the DWL for this question
-https://msu.edu/course/ec/201/brown/pim/pdffiles98/crop_sub.pdf
-

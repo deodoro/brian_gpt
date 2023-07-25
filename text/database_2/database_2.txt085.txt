@@ -1,8 +1,0 @@
-6. More educated workers normally have lower unemployment rates than less educated workers.
- 
-True, False, and Explain: The efficiency wage model can explain this pattern.
- 
- False. 
-
-True, the efficiency wage can explain the pattern. It is not too heroic an assumption to imagine that monitoring costs of white-collar salaried workers are lower than those of monitoring blue collar workers who are paid by the hour.  More educated workers are more likely to be paid based on their observable output rather than less observable input. In this situation there is no reason to pay an efficiency wage, which is paid to overcome high monitoring costs. When efficiency wages are paid by all firms results in effective wage floor leaving some workers unemployed(so that firms can give credible threats to employees caught shirking). In this situation, the presence of efficiency wages in the less educated labor market and the lack of efficiency wages in the more educated labor market explains the pattern of unemployment rates.
-

@@ -1,5 +1,0 @@
-2.*) |~ ( 8.*3.8.*3.) (~ *) |~ ( ) ( *) | () ( *) | () | (
-reliable CKPreliable P reliable CKP reliableP reliable CKPreliableP reliable CKPCK reliableP
-
- 
-We do not know P(CK|~reliable).  But 

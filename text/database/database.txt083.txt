@@ -1,9 +1,0 @@
-2.  True, False, and Explain:   If a state of affairs is Pareto efficient, then 
-deadweight costs must  be zero.  
- 
-FALSE.  If a state of affairs is K -H efficient, then deadweight costs must be zero.  But Pareto 
-efficiency does not imply K -H efficiency; in fact, most Pareto efficient situations are not K-H 
-efficient.  Monopoly is a classic example: There are deadweight costs, but there is no feasible way 
-to get rid of the deadweight costs without makin g the monopolist worse off.  
- 
- 

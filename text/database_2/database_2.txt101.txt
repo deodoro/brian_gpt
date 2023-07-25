@@ -1,7 +1,0 @@
-1. True, False, and Explain:  A lump-sum tax is theoretically the most efficient way to raise a given amount of government revenue, but it is impractical in the real world.
-
-This is a Landsburg question, I believe.
-
-True. Taxation is theft. A lump-sum tax (or head tax) incurs no deadweight costs relative to  other methods of taxation because individuals cannot avoid the tax and will therefore not expend resources to do so (page 74, Why Taxes are bad, Armchair economist.)
-.
-It is impractical in the real world because of widespread equity concerns (it is more obviously regressive). 

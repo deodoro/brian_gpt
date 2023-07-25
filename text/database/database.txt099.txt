@@ -1,8 +1,0 @@
-5.  True, False, and Explain:  Kreps’  monopolist engages in “limit pricing.”  
- 
-FALSE.  The notes explain that “limit pricing” is when the lowest -cost firm sets its price just below 
-the costs of the second -lowest -cost firm.  In Kreps’ example, in contrast, firms have equal costs.  
-What Kreps’ monopolist is trying to do is take advanta ge of its first -mover advantage  to make 
-output so high that an entrant would be unable to cover its costs.  
- 
- 

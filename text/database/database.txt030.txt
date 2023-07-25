@@ -1,9 +1,0 @@
-3. True, False, and Explain:  If everyone has lexicographic preferences for x 
-over y, the conclusion of the First Welfare Theorem holds even though its 
-assumptions do not.  
- 
-TRUE.  With lexicographic preferences, no equilibrium price vector exists, since if p y>0 everyone 
-will want to sell all they have, and if p y=0, everyone will want an infinite amount.  However, any  12 
-distribution of resources will be Pareto efficient, because r eallocating y or x between people 
-always leaves one person better off and another person worse off.  
- 

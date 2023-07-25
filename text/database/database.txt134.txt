@@ -1,8 +1,0 @@
-5.  True, False, and Explain:   With zero costs of production, Kreps (A Course 
-in Microeconomic Theory ) shows that consumer s are better off in a 
-Stackelberg equilibrium than a Cournot equilibrium.  
- 
-TRUE.  Kreps shows that under Cournot, total output equals 2(A -k)/3, while under Stackelberg, 
-total output equals 3(A -k)/4.  With zero costs of production, k=0, so Cournot output eq uals 2A/3, 
-while Stackelberg output equals 3A/4.     47 
- 

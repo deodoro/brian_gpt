@@ -1,6 +1,0 @@
-4.  "Economic theory predicts that you are not enjoying this book as much as you thought you would." (Landsburg, The Armchair Economist)
- 
-True, False, and Explain:  As Landsburg shows, neoclassical economics is not only consistent with, but implies, violation of the rational expectations assumption.
-
-False. The theory of a winner's curse relies on an assumption of rational expectations. Landsburg is describing a winner's curse here--your mean expectation regarding the quality of the book may be correct, but there is still a variance about the mean. One can be disappointed and have rational expectations: it is just the case that when you select a book you deem to be the best, there is more room for you to be disappointed. Rational expectations does not preclude imperfect information, rather it precludes systematic bias (your errors must be randomly distributed and average out to the mean.) 
-

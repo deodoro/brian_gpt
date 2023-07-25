@@ -1,4 +1,0 @@
-1. True, False, and Explain: "Buy one, get one free" deals are normally Kaldor-Hicks inefficient.
-
-Aren't voluntary trades a Kaldor-Hicks improvement? Is the idea that since we aren't buying an infinitely continuous amount, we aren't optimizing?  
- 

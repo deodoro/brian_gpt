@@ -1,8 +1,0 @@
-10. More educated workers tend to enjoy their work more. 
- 
-True, False, and Explain: This tends to bias standard estimates of the return to education downwards.
-
-True?
-If we measure returns to education in terms of wages, we will miss differences in compensation in terms of working conditions.  An estimate of the difference in compensation received by trash collectors vs. college professors will underestimate the difference, due to compensating differentials. 
-
-

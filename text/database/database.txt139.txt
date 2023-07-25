@@ -1,9 +1,0 @@
-1.  True, False, and Explain:  As population increases, finding real -world 
-Pareto improvements becomes more difficult.   
- 
-TRUE .  A change is only a Pareto improvement if absolutely no one  is better off.  As population 
-grows, you increase the chance of hurting at least one person, especially since you increase the 
-chance of the existence of  a person with misanthropic or otherwise “weird” preferences.  
-Furthermore, as population increases, the cost of identifying and compensating 100% of all losers 
-goes up.  
- 

@@ -1,6 +1,0 @@
-4.  "No one really has preferences for fair or vindictive behavior. When people act Ôfairly' or Ôvindictively,' they're just signaling."  
- 
-True, False, and Explain:  This claim is not theoretically consistent with the signaling model.
-
-False. Signaling theory says that people will incur non-productive cost in order to send a signal that gives them an advantage in the market by indicating what "type" they are over those who will not and/or cannot incur the costs necessary to send that signal.  Acting fairly or vindictively requires that someone incur costs that do not directly lead to benefit, assuming people do not have preferences for fair or vindictive behavior. When someone acts fairly or vindictively, they hope to gain from that behavior in future interactions--if you think I am of the "fair" type, you will be more likely to deal with me, and if I am of the "vindictive" type, you will be less likely to cross me. While the signaling model does not imply that people are signaling when they act fairly or vindictively, it is compatible with the signaling model for these behaviors to be entirely signaling.
-

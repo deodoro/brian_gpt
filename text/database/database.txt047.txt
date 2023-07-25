@@ -1,8 +1,0 @@
-8.  True, False, and Explain:   According to Kreps , game theory rules out the 
-possibility that "cheap -talk" can affect games' outcomes.  
- 
-FALSE.  While Kreps says that "[I]t is typical in the analysis of non -cooperative games to omit 
-such communication from formal models," he immediately adds that "This d oesn't mean that 
-these possibilities won't affect the outcome of games; they do so in some important ways in 
-various situations."  Most o bviously: in Coordination games with Pareto -inferior equilibria.  
- 

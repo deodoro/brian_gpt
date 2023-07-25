@@ -1,6 +1,0 @@
-1. In a world with no externalities, suppose the government imposes a lump sum tax and uses it to fund an hourly work subsidy.
- 
-True, False, and Explain: The deadweight cost of this tax-and-subsidy policy is zero.
- 
-
-

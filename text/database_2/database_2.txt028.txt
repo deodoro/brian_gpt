@@ -1,8 +1,0 @@
-12. True, False, and Explain: Caplan ("Rational Irrationality and the Microfoundations of Political Failure") argues that asymmetric information leads rational voters to vote for policies that encourage rent-seeking.
-
-False. Caplan cites Breton & Winsrobe (1982) who argues that when asymmetric info gets worse, public demand for action goes down, not up. 
-Think of a market for lemons; the problem with asymmetric information is that it deters exchange, not that it incentivizes it. 
-Caplan grants Wittman's argument that given competition among  political actors (such as competitive elections), rational expectations by voters, and political institutions that reduce transaction costs will lead to political "markets" being efficient. Where he differs from Wittman is that instead of concluding democracy is efficient, Caplan argues that voters do not have rational expectations. 
-
-Analytical questions:
-

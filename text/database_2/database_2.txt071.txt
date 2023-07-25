@@ -1,6 +1,0 @@
-1. Consider the general equilibrium intertemporal model.
- 
-True, False, and Explain: A fall in interest rates definitely indicates that expected income growth has declined.
-
-False. This could mean an increase in beta: you have a lower time preference. It is not necessarily due to expected interest rate growth.
-

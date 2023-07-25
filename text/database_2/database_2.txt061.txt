@@ -1,8 +1,0 @@
-1. True, False, and Explain: Prices in betting markets are determined by agents' preferences and endowments, not objective probabilities. However, if some people have more accurate beliefs than others, then over time, prices become more and more likely to reflect objective probabilities.
-
-True. The people in the know will make it rain by buying underpriced bets until the odds reflect the objective probability.
- 
-True. Prices are largely driven by subjective probabilities, but there are significant incentives to update your subjective probabilities and reveal your information to the market for arbitrage. Thus, prices will move closer and closer to objective probabilities. (Alex's direct quote: why not?)
-
-
-

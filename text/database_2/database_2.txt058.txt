@@ -1,8 +1,0 @@
-7. "[L]oss aversion says that the value function abruptly changes slope at the reference level, so that people dislike even small-scale risk."
-
-"While people are likely to be risk averse over gains, they are often risk-loving over losses." (both quotes from Rabin, "Psychology and Economics")
-
-True, False, and Explain: These two statements are inconsistent.
-
- False. 
- Ok. Why tho?[19] Because QED. Spaghetti!

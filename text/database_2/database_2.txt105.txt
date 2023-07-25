@@ -1,8 +1,0 @@
-5.  Suppose the Russian government suddenly decides to privatize its oil fields.
- 
-True, False, and Explain:  If Russian voters suffer from debt aversion, we should expect their government's spending to increase. 
-
-True, with caveats. Privatization in Russia has normally failed because the government sells industries to special interests, instead of those who will pay the most. If you assume they sell the industries to those who are willing to pay the most, and the future stream of payments from the industries are capitalized into the selling price, then we could expect this to occur. The Russian government, with this new revenue, can increase its spending without taking on more debt, and therefore without  angering debt-averse Russian voters who might otherwise prevent spending increases (assuming the government is responsive to voters, a la Wittman.)
-
-Caplan seemed to think this was an adequate answer.
-

@@ -1,8 +1,0 @@
-2. Suppose the demand curve for a contestable monopoly crosses the AC curve at three points.
- 
-True, False, and Explain:  There is a unique equilibrium.
- *Similar question 2005 Midterm
-True[29].  Under contestable monopoly, P=AC, but only the higher quantity/lower price intersection is an equilibrium. At the higher intersection, even a monopolist that DID NOT face potential competition would want to cut price somewhat to earn additional profits. If you do face potential competition, you would have to cut your price all the way down to the lowest intersection of demand and AC to prevent entry.
-
-
-

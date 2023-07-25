@@ -1,8 +1,0 @@
-2. Suppose that two players play the following three games in order: Ultimatum game, Coordination game, Prisoners' Dilemma.
- 
-True, False, and Explain: Standard game theory predicts that this game will completely "unravel."
- 
-True. "Unraveling" means players play each stage of the game as if it were not repeated. In the last stage, the PD game, the outcome will be defect, defect no matter what. 
-
-
-

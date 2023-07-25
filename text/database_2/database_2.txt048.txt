@@ -1,6 +1,0 @@
-6. Suppose I can find out a worker's true type by paying $15k.
-
-True, False, and Explain: I will never pay this fee, because my expected gross profit per worker is only 50%*($100k-$75k)=12.5k.
-
-False. If I can make ~$25k per good worker and pay $15k to figure out whether she is good, I net $10k. If I find out he's a bad worker, I lose $8,750 ($6,250-$15k). Thus, the expected gross profit from paying the fee is .5($1,250)=$625.
-

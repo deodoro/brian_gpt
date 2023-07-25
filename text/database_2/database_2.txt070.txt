@@ -1,6 +1,0 @@
-9. True, False, and Explain: If the efficient markets hypothesis is correct, then the marginal private cost of irrational investing can easily be zero.
-
-True. Under the efficient markets hypothesis, asset prices changes should be completely unpredictable--asset prices should follow a random walk. If this is true, then there is no payoff to rational investing--if you indulge your own irrational preferences, you are likely to do as well as anyone else. A more viable strategy would be to purchase index funds and hedge against variance. 
- 
- 2008 FINAL EXAM
-

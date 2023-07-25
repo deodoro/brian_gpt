@@ -1,6 +1,0 @@
-5. True, False, and Explain: Everyone goes to school and earns the same wage.
- 
- False? *Week 9 notes, IV A
-False. We can offer bad workers $40k to induce them to not get a degree, and pay those with a degree $45k to only attract good workers. In this situation, our profit per good worker is $55k and loss per bad worker is $15k. If we were to offer degree holders $45k and pay anything less than $40 to non-degree holders, then everyone would get a degree and we would lose $20k per bad worker. Therefore, it is in our interest to offer non-degree holders $40k to reduce our losses from bad workers.
- 
- 

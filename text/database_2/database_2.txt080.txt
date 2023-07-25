@@ -1,6 +1,0 @@
-1. True, False, and Explain: In a general equilibrium framework, fiscal stimulus can't work, because the funding for the stimulus package has to come from somewhere.
- 
- False.
- [24]The 2009 Caplan exam that Kaitlyn shared answered "False" and received six points. The reason she gave was the 2nd Welfare Theorem. I can't really discern her argument exactly.
-
- 

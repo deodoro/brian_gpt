@@ -1,6 +1,0 @@
-1.) In the real world, what would happen if a restaurant adopted Landsburg's system for splitting checks? (The Armchair Economist)
-
-Landsburg (p. 31-32) says that everyone should pay the whole bill. If a restaurant were to implement this system, then the restaurant would start pay customers to come in (whether through bribes, coupons, etc), up to the point where the excess profits they would earn are being exhausted. Ultimately, people would still end bearing the full costs of what they purchased, as they are no longer able to free ride and push the costs onto other diners when the bill is split.
-
-However, in the real world, if a restaurant, say restaurant A, were to implement this system, it would likely go out of business. Assuming that no other restaurant implements Landsburg's system, fewer people would go to restaurant A because they can free ride on the rest of the dinner party at restaurant B, where they split the check evenly between the group. Additionally, some people may prefer to split checks rather than deal with a new convoluted system. In the real world with the advent of computers, splitting checks has become much easier, so the assumption in Landsburg's story that the check cannot be split is unlikely to hold.
-

@@ -1,6 +1,0 @@
-11. True, False, and Explain: The "liquidity constraints" and "debt aversion" explanations for observed departures from consumption smoothing are empirically indistinguishable.
-
-False. You can vary the amount of collateral and see how much people actually borrow -- econ grad student vs. tenure econ professor. Can more objectively tell if someone is liquidity constrained or not and compare. *Week 13 notes
- 
-If liquidity constraints were the only issue, then we would see individuals with higher expected future incomes maxing out their credit (or approaching it), but we don't (or at least not very often). Additionally, we would see more retirees taking advantage of reverse mortgages; "debt aversion" cannot explain their hesitancy to avail themselves of this option since they wouldn't incur any debt by doing so. Thus, there are instances where we can distinguish between liquidity constraints and debt aversion.
-

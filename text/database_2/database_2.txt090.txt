@@ -1,9 +1,0 @@
-2. Suppose you have two potential producers in a contestable industry with SUNK costs.  TC=10+Q.  If only one firm enters, it sets a monopoly price given the demand curve Q=10-2P.  If two firms enter, they compete price down to MC.
- 
-True, False, and Explain: In the MSNE, each firm's probability of entry is .2.
- 
- False. Both firms will never want to enter the industry because in both outcomes where output occurs, (monopoly & competitives), the firms will lose profits consistently unless demand increases or costs decrease. In such a carse, (out,out) is socially optimal because the use of inputs would be better served somewhere else. 
-
- 
-
-

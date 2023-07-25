@@ -1,7 +1,0 @@
-6. True, False, and Explain: Landsburg argues that cosmetic surgery is socially wasteful signaling.
-
-The answer to this is in Chapter 17 (Courtship and Collusion) in Landsburg's Armchair Economist (pages 221-222.) 
-
-False
-Landsburg specifically discusses breast implants. If the value of a breast size increase is not absolute breast size but relative breast size, then women will find themselves in an arms race in which they engage in socially wasteful spending in order to better attract partners. In this case, taxing or prohibiting the breast implants could lead to efficiency improvements, just like taxing education could if education's private returns come in the form of signaling rather than improving human capital.  However, Landsburg notes that it is likely not entirely this, because there are benefits to onlookers, possible benefits to women unrelated to attracting men by increasing their relative position, and so on[21].  Also, what Landsburg is discussing is an instance of a socially wasteful positional good, but not necessarily signaling. Signaling involves doing something costly that indicates what type you are in an instance of asymmetric information. Breast implants are not indicating what type you are, but instead are positioning you as having larger breasts than your competitors in the mating market, thereby appealing to the preferences of men who prefer women with "the largest breasts in the room" (Landsburg's phrase).
-

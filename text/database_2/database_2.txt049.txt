@@ -1,8 +1,0 @@
-7. Some economists argue that the perceived unfairness of nominal wage cuts would decline in a less inflationary environment.
- 
-True, False, and Explain: According to Rabin ("Psychology and Economics"), there is no experimental evidence that perceptions of fairness respond to changes in market conditions.
- 
- False. Rabin provides the efficiency wage experiment hypothesis that workers who receive a higher than market clearing wages respond with effort beyond even what the wages would suggest. Thus, the perception of fairness to respond to changes in market conditions; however, this was not the case when wages were random
-
-
-

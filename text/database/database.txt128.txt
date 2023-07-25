@@ -1,8 +1,0 @@
-1.  Let “CK”=”the results of the Card -Krueger minimum wage study.”  Suppose 
-the p(econometrics is reliable)=.8, p(CK|econometrics is reliable)=.3, and 
-p(~CK|econometrics is reliable) =.7.  
-  
-True, False, and Expla in: P(econometrics is reliable|CK)>70%.  
- 
-FALSE.  Using Bayes’ Rule:  
- 

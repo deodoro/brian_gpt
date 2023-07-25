@@ -1,6 +1,0 @@
-2. Consider a two-period world.  Agents have U=.  In period one, everyone has a chance to buy or sell insurance for consumption in period 2.  In period 2, each person receives an endowment of 0 with p=.5 and 4 with p=.5 (each person makes an independent draw from the probability distribution).  There are no transactions costs.
- 
-True, False, and Explain:  In general equilibrium, the price of insurance is actuarially fair.[27]
-
-What Caplan said: False, because the sellers of insurance are risk-averse. Normally we have risk-averse people buying from risk-neutral firms. Because everyone is identical the price of insurance has to get so high that everyone would self-insure.
-

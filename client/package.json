@@ -8,7 +8,7 @@
     "watch": "parcel watch src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jose Deodoro",
+  "author": "Jose Deodoro <deodoro.filho@gmail.com>",
   "license": "MIT",
   "browserslist": [
     "last 1 Chrome version"

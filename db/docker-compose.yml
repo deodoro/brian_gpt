@@ -1,0 +1,13 @@
+services:
+  pgvector:
+    container_name: pgvector
+    image: ankane/pgvector:latest
+    restart: always
+    environment:
+      POSTGRES_DB: langchain
+      POSTGRES_USER: pguser
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./store/pgvector:/var/lib/postgresql/data

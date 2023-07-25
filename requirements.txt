@@ -5,3 +5,6 @@ langchain
 pydub
 unstructured
 tiktoken
+PDFtoText
+ebooklib
+BeautifulSoup4

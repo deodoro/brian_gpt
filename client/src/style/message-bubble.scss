@@ -1,0 +1,82 @@
+.message {
+    padding: 0 4em 0 6em;
+    padding-top: 0.8em;
+    padding-bottom: 0.5em;
+    margin-right: 1em;
+    width: 100%;
+    position: relative;
+    text-align: left;
+    background-color: --background-color;
+    align-self: flex-start;
+}
+
+.message.system,
+.message.system .buttons-container>button {    align-self: flex-start;
+    color: var(--message-text-color);
+}
+
+.message.system.temperature-1, .message.system.temperature-1 .buttons-container > button  {
+    color: var(--message-text-temperature-1);
+}
+
+.message.system.temperature-2, .message.system.temperature-2 .buttons-container > button  {
+    color: var(--message-text-temperature-2);
+}
+
+.message.disclaimer {
+    color: var(--message-text-disclaimer);
+}
+
+.message.user, .message.user .buttons-container > button {
+    color: var(--message-text-user);
+}
+
+.buttons-container.show {
+    opacity: 1;
+}
+
+.buttons-container {
+    transition: opacity 1s;
+    opacity: 0;
+    height: 0;
+    position: absolute;
+    left: 5.8em;
+    top: 0;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    border-radius: 0.5em;
+    width: 51em;
+    border-top: 1px solid #f0f0f0;
+    pointer-events: none;
+    padding-top: 0.2em;
+}
+
+.buttons-container button {
+    pointer-events: all;
+    font-size: 30px !important;
+    line-height: .85em;
+    height: 0.8em;
+    width: 0.8em;
+    margin-right: 1px;
+}
+
+.buttons-container button:hover {
+    background-color: #cccccc;
+}
+
+.buttons-container .icon {
+    height: 1em !important;
+    width: 1em !important;
+    color: #6e625930 !important;
+    pointer-events: none;
+}
+
+.buttons-container button:hover .icon {
+    color: #f0f0f0 !important;
+}
+
+.tooltip {
+    font-size: 1.5em !important;
+}

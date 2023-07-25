@@ -1,0 +1,29 @@
+.button-bar {
+    transition: opacity 0.5s, max-height 0.5s;
+    display: flex;
+    opacity: 0;
+    // max-height: 0;
+    max-height: 7em;
+    overflow: hidden;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    pointer-events: none;
+}
+
+.button-bar.show {
+    transition: opacity 0.5s, max-height 0.5s;
+    opacity: 1;
+    max-height: 7em;
+    pointer-events: auto;
+}
+
+.label {
+    width: 7em;
+    color: #6e6259 !important;
+    line-height: 1.4em !important;
+}
+
+.icon-001 { background-image: url("../img/icon-001.png"); }
+.icon-002 { background-image: url("../img/icon-002.png"); }
+.icon-003 { background-image: url("../img/icon-005.png"); }

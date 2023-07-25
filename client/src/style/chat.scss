@@ -1,0 +1,79 @@
+@import 'variables.scss';
+
+.chat {
+    font-size: 1.2em;
+    display: flex;
+    flex-direction: column;
+    width: 65em;
+    padding: 3em 1em 5em 1em;
+    border-radius: 1em 1em;
+    margin: 0 auto;
+    background-color: #fcfcfc;
+    height: 100%;
+}
+
+.user-input {
+    font-size: 1.4em;
+    line-height: 1.3em;
+    background-color: transparent;
+    padding: 0 3.2em;
+    margin: 1em;
+    resize: none;
+    border: none;
+    outline: none;
+    flex-grow: 0;
+    height: 100% !important;
+    font-family: var(--body-font) !important;
+}
+
+.hourglass {
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .submit-button {
+    color: #909090 !important;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 1em 5em !important;
+  }
+
+.inner-text {
+    font-weight: 400;
+    font-size: 1.4em;
+    line-height: 1.6em;
+    font-family: var(--body-font) !important;
+}
+
+.notice {
+  transition: opacity 1s ease-out;
+  opacity: 0;
+  position: absolute;
+  top: 2em;
+  left: 50%;
+  min-width: 10em;
+  text-align: center;
+  transform: translateX(-50%);
+  background-color: #333333;
+  border-radius: 0.5em;
+  color: #fcfcfc;
+  padding: 1em;
+  display: inline-block;
+}
+
+.notice.show {
+  opacity: .8;
+  transition: unset;
+}

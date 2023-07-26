@@ -2,7 +2,6 @@ import React, { useRef, useState, useEffect, useImperativeHandle, forwardRef } f
 import { Typography, Button, Box, CircularProgress, Tooltip } from '@mui/material';
 import TextareaAutosize from "react-textarea-autosize";
 import MessageBubble from "./message-bubble";
-import ButtonBar from "./button-bar";
 import ReactMarkdown from 'react-markdown';
 import useStore from "./store";
 import uuid4 from "uuid";

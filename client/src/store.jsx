@@ -16,7 +16,7 @@ const useStore = create((set) => ({
     messages: [],
     setMessages: (messages) => set({ messages: messages }),
     appendMessage: (message) => set({ messages: [...useStore.getState().messages, message] }),
-    TESTING: false,
+    TESTING: true,
     resetMessages: (_init) => {
         console.log("once more")
         if (_init) {

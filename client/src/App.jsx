@@ -42,13 +42,13 @@ export default function App() {
             </Typography>
             {/* <div className='user-info'></div> */}
           </Box>
-          <Box sx={{ flexGrow: 1 }}>
+          <Box sx={{ flexGrow: 1 }} className="chat-container">
             <Chat />
           </Box>
         </Box>
-        <div>
+        {/* <div>
           <div className="backgroundDiv">&nbsp;</div>
-        </div>
+        </div> */}
     </ThemeProvider>
   );
 }

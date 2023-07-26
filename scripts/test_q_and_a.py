@@ -43,7 +43,7 @@ def perform(text, temperature, chain, sources, retrieval_k, model, method):
         db = PGVector(
             embedding_function=embeddings,
             connection_string=connection_string,
-            collection_name=collection
+            collection_name=collection + "_1500",
         )
         retrievers.append(db.as_retriever(search_kwargs={"k": retrieval_k}))
 

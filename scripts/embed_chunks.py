@@ -13,22 +13,15 @@ dotenv.load_dotenv()
 
 OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 
-def format_response(enunciate, answer, explanation):
-  if answer and explanation:
-    if answer.upper() == "TRUE":
-      return enunciate + "\n\nTrue. " + explanation
-    elif answer.upper() == "FALSE":
-      return enunciate + "\n\nFalse. " + explanation
-    else:
-      return enunciate + "\n\n" + answer + ". " + explanation
-  elif answer:
-    return enunciate + "\n\n" + answer
-  elif explanation:
-    return enunciate + "\n\n" + explanation
-  else:
-    return None
+def write_to_file(out_filename, docs):
+  t = time.time()
+  if os.path.exists(out_filename) and os.path.getsize(out_filename) > 0:
+    shutil.move(out_filename, out_filename + ".bak")
+  with open(out_filename, 'wt') as f:
+    f.write(json.dumps(docs, indent=2))
+  print(f"\nwritten in {(time.time() - t):.2f}")
 
-if __name__ == '__main__':
+def main():
   tm = time.time()
   file = sys.argv[1]
   (filename, ext) = os.path.splitext(os.path.basename(file))
@@ -49,6 +42,7 @@ if __name__ == '__main__':
   embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
 
   c = len(docs)
+  b = 0
   for item in data:
     c += 1
     print("Loading doc [{0}/{1}]".format(c, len(all_data)), end="\r")
@@ -63,10 +57,15 @@ if __name__ == '__main__':
       print("Error embedding document: " + str(e))
       docs.append({**item, "embedding": None})
 
-    if os.path.exists(out_filename):
-      shutil.move(out_filename, out_filename + ".bak")
-    with open(out_filename, 'wt') as f:
-        f.write(json.dumps(docs, indent=2))
+    b += 1
+    if b % 50 == 0:
+      write_to_file(out_filename, docs)
+
+  if b % 30 != 0:
+    write_to_file(out_filename, docs)
 
   print("Done loading documents")
   print(f"Ellapsed: {time.time() - tm:.2f} secs")
+
+if __name__ == '__main__':
+  main()

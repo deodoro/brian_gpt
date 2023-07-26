@@ -33,24 +33,24 @@ create table questions (
 );
 
 alter table questions add constraint unique_enunciate unique (enunciate);
-
-create table sources (
-    id serial primary key,
-    title varchar(255) not null,
-    author varchar(255),
-    type varchar(255),
-    ref varchar(255)
-);
-
-create table pages (
-    id serial primary key,
-    text text not null,
-    page_number integer not null,
-    embedding vector(1536) not null,
-    source_id integer not null,
-    foreign key (source_id) references sources(id)
-);
 """
+# create table sources (
+#     id serial primary key,
+#     title varchar(255) not null,
+#     author varchar(255),
+#     type varchar(255),
+#     ref varchar(255)
+# );
+
+# create table pages (
+#     id serial primary key,
+#     text text not null,
+#     page_number integer not null,
+#     embedding vector(1536) not null,
+#     source_id integer not null,
+#     foreign key (source_id) references sources(id)
+# );
+# """
 
 with psycopg.connect(pg_string) as conn:
     conn.execute(table_sql)

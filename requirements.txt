@@ -8,3 +8,5 @@ tiktoken
 PDFtoText
 ebooklib
 BeautifulSoup4
+psycopg2
+pgvector

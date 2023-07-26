@@ -5,16 +5,17 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    background-color: #fcfcfc;
     height: 100%;
+    padding-top: 0;
+    border-top: 1px solid #cccccc;
 }
 
 .user-input {
     font-size: 1.4em;
     line-height: 1.3em;
     background-color: transparent;
-    padding: 0 3.2em;
-    margin: 1em;
+    padding-top: 0.8em;
+    padding-bottom: 0.5em;
     resize: none;
     border: none;
     outline: none;

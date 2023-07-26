@@ -287,8 +287,8 @@ const Chat = React.forwardRef((props, ref) => {
                 <CircularProgress size={"1em"} />
             </Box>
           </>}
+          <div style={{marginTop: "5em"}} ref={messagesEndRef}></div>
     </Box>
-    <div ref={messagesEndRef} />
     <Notice / >
     </>
   );

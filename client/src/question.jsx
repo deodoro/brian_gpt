@@ -14,7 +14,7 @@ const QuestionView = () => {
                 <div className="question-data">
                     <div className="question-id">{questionData["exam"]} exam, year {questionData["year"]}, part {questionData["part"]}, number {questionData["number"]}</div>
                     <div className="question-enunciate">{questionData["enunciate"]}</div>
-                    <div className={`question-answer ${answerSheet ? 'show' : 'hide'}`}>{questionData["combined"]}</div>
+                    <div className={`question-answer ${answerSheet ? 'show' : 'hide'}`}>{[questionData["answer"], questionData["explanation"]].join(",")}</div>
                 </div>
                 <div>
                 <Button className="answer">

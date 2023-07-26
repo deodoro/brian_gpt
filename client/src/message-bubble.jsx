@@ -22,8 +22,6 @@ function MessageBubble(props) {
         >
         { props.buttonBar &&
         (<Box
-                onMouseEnter={(e) => {props.setHovered(true); e.stopPropagation(); }}
-                onMouseLeave={(e) => {props.setHovered(false); e.stopPropagation();}}
             className={`buttons-container ${props.role} ${props.isHovered ? "show" : ""}`}>
             {(props.role === 'system') || (props.role === 'user') ? (
             <>
@@ -39,20 +37,6 @@ function MessageBubble(props) {
                             <span className="icon"><ResetIcon /></span>
                         </IconButton>
                     </Tooltip>}
-
-                { props.role === 'system' &&
-                    <>
-                        <Tooltip title={<span className="tooltip">Good response</span>} placement="top">
-                            <IconButton  size="small" onClick={() => props.setNotice("Thank you for your feedback")}>
-                                <span className="icon"><ThumbsUpIcon /></span>
-                            </IconButton>
-                        </Tooltip>
-                        <Tooltip title={<span className="tooltip">Needs improvement</span>} placement="top">
-                            <IconButton  size="small" onClick={() => props.setNotice("Thank you for your feedback")}>
-                                <span className="icon"><ThumbsDownIcon /></span>
-                            </IconButton>
-                        </Tooltip>
-                    </>}
             </>)
         : null}
         </Box>

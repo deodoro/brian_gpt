@@ -9,8 +9,6 @@ import uuid4 from "uuid";
 import "./style/chat.scss";
 import Notice from "./notice"
 
-const TESTING = false;
-
 function usePrevious(value) {
   const ref = useRef();
   useEffect(() => {
@@ -25,7 +23,6 @@ const Chat = React.forwardRef((props, ref) => {
   const [isHovered, setIsHovered] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
 
-  const [isInMenuHovered, setIsInMenuHovered] = useState(false);
   const [text, setText] = useState("");
   const [timeoutId, setTimeoutId] = useState(-1);
   const [interrupted, setInterrupted] = useState(false);
@@ -34,7 +31,6 @@ const Chat = React.forwardRef((props, ref) => {
   const abortController = useRef(null);
   const submitButtonRef = useRef(null);
   const chatFont = "'Bitter', serif";
-  const PrevIsInMenuHovered = usePrevious(isInMenuHovered);
 
   const setNotice = useStore(state => state.setNotice);
   const temperature = useStore(state => state.temperature);
@@ -46,40 +42,18 @@ const Chat = React.forwardRef((props, ref) => {
   const messages = useStore(state => state.messages);
   const setMessages = useStore(state => state.setMessages);
   const appendMessage = useStore(state => state.appendMessage);
+  const resetChat = useStore(state => state.resetMessages);
+  const TESTING = useStore(state => state.TESTING);
 
   useEffect(() => {
     genChatId();
   }, [genChatId]);
 
-  const hovered = (value, location) => {
-    setIsHovered(value);
-  };
-
-  const menu_hovered = (value, location) => {
-    setIsInMenuHovered(value);
-  };
-
-  const createHoverTimeout = () => {
-    if (timeoutId !== -1) {
-      clearTimeout(timeoutId);
-    }
-    const _t = setTimeout(() => { hovered(false, 1); }, 2000);
-    setTimeoutId(_t);
-  }
-
-  // Clears timer for hover
-  const resetHoverTimeout = () => {
-    if (timeoutId !== -1) {
-      clearTimeout(timeoutId);
-      setTimeoutId(-1);
-    }
-  }
-
   // On submit, add message and clear output
   const handleSubmit = () => {
     if (text.trim()) {
-      hovered(false, 2);
-      newMessage(text, 'user')
+      setIsHovered(false);
+      appendMessage({ content: text, role: 'user' })
       setText("");
     }
   };
@@ -90,7 +64,7 @@ const Chat = React.forwardRef((props, ref) => {
       event.preventDefault();
       handleSubmit();
     }
-    hovered(false, 3);
+    setIsHovered(false);
   };
 
   // Global initialization, installs body event listeners
@@ -99,21 +73,8 @@ const Chat = React.forwardRef((props, ref) => {
     resetChat(isInit);
     document.documentElement.style.setProperty('--body-font', chatFont);
 
-    const handleMouseEnter = () => {
-      if (Date.now() - lastOpened > 5000) {
-        lastOpened = Date.now();
-        hovered(true, 4);
-      }
-    };
-
-    const handleMouseLeave = () => {
-      lastOpened = 0;
-    };
-    document.body.addEventListener('mousemove', handleMouseEnter);
-    document.body.addEventListener('mouseleave', handleMouseLeave);
-
     setFocusInput();
-    hovered(false, 5);
+    setIsHovered(false);
     if (TESTING) {
       // Disables boot for testing
       setIsLoading(false);
@@ -126,10 +87,6 @@ const Chat = React.forwardRef((props, ref) => {
       setTimeout(() => initialAnimation(), 200);
     }
 
-    return () => {
-      document.body.removeEventListener('mousemove', handleMouseEnter);
-      document.body.removeEventListener('mouseleave', handleMouseEnter);
-    };
   }, []);
 
   const initialAnimation = () => {
@@ -171,29 +128,6 @@ const Chat = React.forwardRef((props, ref) => {
       f(parts);
     }, 500);
   };
-
-  // When hover begins, sets a timer to unset it in 2 seconds
-  useEffect(() => {
-    if (!isInit) {
-      resetHoverTimeout();
-      if (isHovered) {
-        createHoverTimeout();
-      }
-    }
-    else
-      hovered(false, 6);
-  }, [isHovered]);
-
-  useEffect((prevValue) => {
-    if (isInMenuHovered) {
-      hovered(true, 7);
-      resetHoverTimeout();
-    }
-    else
-      if (PrevIsInMenuHovered) {
-        createHoverTimeout();
-      }
-  }, [isInMenuHovered]);
 
   // After loading, sets focus to the textarea
   useEffect(() => {
@@ -273,38 +207,13 @@ const Chat = React.forwardRef((props, ref) => {
     scrollToBottom();
   }, [messages, text]);
 
-  // Adds a new message to the messages array
-  const newMessage = async (text, role) => {
-    appendMessage({ content: text, role: role })
-  };
-
   // Sets focus to textarea
   const setFocusInput = (text) => {
-    if (text)
-      setText(text);
+    if (text) setText(text);
     if (textareaRef.current) {
       textareaRef.current.focus();
     }
   }
-
-  // Resets the chat
-  const resetChat = (_init) => {
-    if (_init) {
-      setMessages([]);
-    }
-    else {
-      if (TESTING)
-        setMessages([
-          {"content": WELCOME_MESSAGE, "role" : "system"},
-          {"content": WELCOME_MESSAGE, "role" : "user"},
-          {"content": WELCOME_MESSAGE, "role" : "system"},
-        ]);
-      else
-        setMessages([
-          {"content": WELCOME_MESSAGE, "role" : "system"},
-        ]);
-    }
-  };
 
   // Loads chat into the window
   const loadChat = (chat) => {
@@ -313,9 +222,9 @@ const Chat = React.forwardRef((props, ref) => {
   }
 
   // Clears messages up to the given index
-  const resetMessages = (index, submit=false) => {
+  const resetMessagesTo = (index) => {
     let text = null;
-    if (!submit && messages[index].role === 'user') {
+    if (messages[index].role === 'user') {
       text = messages[index].content;
       index--;
     }
@@ -329,28 +238,15 @@ const Chat = React.forwardRef((props, ref) => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   };
 
-  // Handles menu shortcuts
-  const handleMenuShortcut = (e, index) => {
-    switch(index) {
-      case 0: stopFetching(); break;
-      case 1:
-        if (messages.length > 1)
-          resetMessages(messages.length - 2, submit=true);
-        break;
-      case 2: resetChat(isInit); break;
-    }
-    e.stopPropagation();
-  };
-
   const handleBackgroundClick = (e) => {
-    menu_hovered(false, 8);
-    hovered(false, 9);
+    setIsHovered(false);
   };
 
   return (
     <>
     <Box className="chat"
-        onMouseLeave={() => hovered(false)}
+        onMouseEnter={() => setIsHovered(true)}
+        onMouseLeave={() => setIsHovered(false)}
         onClick={handleBackgroundClick}>
 
         {messages.map(({ content, role, temperature }, index) =>
@@ -359,11 +255,10 @@ const Chat = React.forwardRef((props, ref) => {
                 role={role}
                 temperature={temperature}
                 isHovered={isHovered}
-                setHovered={(v) => menu_hovered(v, 467)}
                 buttonBar={index > 0}
                 setNotice={setNotice}
                 resetDisabled={index === messages.length - 1}
-                resetMessages={() => resetMessages(index)} />)}
+                resetMessages={() => resetMessagesTo(index)} />)}
 
         {!isLoading &&
             (<>
@@ -390,15 +285,13 @@ const Chat = React.forwardRef((props, ref) => {
 
         {isLoading &&
           <>
-            <Box className={`message system temperature-0`} sx={{ marginTop: 0, paddingTop: 0 }}>
+            <Box className={`message system temperature-0`}>
                 <ReactMarkdown className="inner-text" children={incoming} />
             </Box>
             <Box display="flex" justifyContent="center" mt={2} className="hourglass">
                 <CircularProgress size={"1em"} />
             </Box>
           </>}
-
-        <ButtonBar isHovered={isHovered} setHovered={(v) => menu_hovered(v, 402)} handleClick={handleMenuShortcut} />
     </Box>
     <div ref={messagesEndRef} />
     <Notice / >

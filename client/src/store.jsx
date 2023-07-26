@@ -1,5 +1,7 @@
-import create from 'zustand';
+import {create} from 'zustand';
 import { v4 as uuidv4 } from 'uuid';
+
+const WELCOME_MESSAGE = "Hi, I am a chatbot with access to lectures and reading materials. I can help you explore themes in microeconomics.";
 
 const useStore = create((set) => ({
     chatId: null,
@@ -16,23 +18,20 @@ const useStore = create((set) => ({
     appendMessage: (message) => set({ messages: [...useStore.getState().messages, message] }),
     TESTING: true,
     resetMessages: (_init) => {
-        set(state => {
-            if (_init) {
-                setMessages([]);
-              }
-              else {
-                if (state.TESTING)
-                  setMessages([
+        console.log("once more")
+        if (_init) {
+            console.log("here");
+            set({messages: []});
+        }
+        else {
+            set(state => state.TESTING ? {messages: [
+                {"content": WELCOME_MESSAGE, "role" : "system"},
+                {"content": WELCOME_MESSAGE, "role" : "user"},
+                {"content": WELCOME_MESSAGE, "role" : "system"},
+            ]} : {messages: [
                     {"content": WELCOME_MESSAGE, "role" : "system"},
-                    {"content": WELCOME_MESSAGE, "role" : "user"},
-                    {"content": WELCOME_MESSAGE, "role" : "system"},
-                  ]);
-                else
-                  setMessages([
-                    {"content": WELCOME_MESSAGE, "role" : "system"},
-                  ]);
-              }
-        })
+            ]});
+        }
       }
 }));
 

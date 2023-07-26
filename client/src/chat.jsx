@@ -26,7 +26,6 @@ const Chat = React.forwardRef((props, ref) => {
   const [text, setText] = useState("");
   const [timeoutId, setTimeoutId] = useState(-1);
   const [interrupted, setInterrupted] = useState(false);
-  const [isInit, setIsInit] = useState(true);
   const textareaRef = useRef(null);
   const abortController = useRef(null);
   const submitButtonRef = useRef(null);
@@ -70,7 +69,7 @@ const Chat = React.forwardRef((props, ref) => {
   // Global initialization, installs body event listeners
   useEffect(() => {
     let lastOpened = 0;
-    resetChat(isInit);
+    resetChat(true);
     document.documentElement.style.setProperty('--body-font', chatFont);
 
     setFocusInput();
@@ -78,7 +77,6 @@ const Chat = React.forwardRef((props, ref) => {
     if (TESTING) {
       // Disables boot for testing
       setIsLoading(false);
-      setIsInit(false);
       resetChat(false);
     }
     else {
@@ -93,7 +91,6 @@ const Chat = React.forwardRef((props, ref) => {
     const welcome = WELCOME_MESSAGE;
     animate (welcome, () => {
       setIncoming("");
-      setIsInit(false);
       resetChat(false);
       setIsLoading(false);
       setFocusInput();

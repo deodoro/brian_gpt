@@ -4,7 +4,10 @@ import TextareaAutosize from "react-textarea-autosize";
 import MessageBubble from "./message-bubble";
 import ButtonBar from "./button-bar";
 import ReactMarkdown from 'react-markdown';
+import useStore from "./store";
+import uuid4 from "uuid";
 import "./style/chat.scss";
+import Notice from "./notice"
 
 const TESTING = false;
 
@@ -19,35 +22,40 @@ function usePrevious(value) {
 const Chat = React.forwardRef((props, ref) => {
   const WELCOME_MESSAGE = "Hi, I am a chatbot with access to lectures and reading materials. I can help you explore themes in microeconomics.";
   const messagesEndRef = useRef(null);
-  const [messages, setMessages] = useState([]);
-  const [chatId, setChatId] = useState(-1);
-  const [temperature, setTemperature] = useState(0);
   const [isHovered, setIsHovered] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
-  const [incoming, setIncoming] = useState("\u258C");
+
   const [isInMenuHovered, setIsInMenuHovered] = useState(false);
   const [text, setText] = useState("");
-  const [notice, setNotice] = useState(null);
-  const [noticeShow, setNoticeShow] = useState(false);
   const [timeoutId, setTimeoutId] = useState(-1);
   const [interrupted, setInterrupted] = useState(false);
   const [isInit, setIsInit] = useState(true);
-  const [dir, setDir] = useState('up'); // ['up', 'down'
-  const fileInputRef = useRef(null);
-  const DISCLAIMER_INTERVAL = 240;  // In seconds
   const textareaRef = useRef(null);
   const abortController = useRef(null);
   const submitButtonRef = useRef(null);
   const chatFont = "'Bitter', serif";
   const PrevIsInMenuHovered = usePrevious(isInMenuHovered);
 
+  const setNotice = useStore(state => state.setNotice);
+  const temperature = useStore(state => state.temperature);
+  const chatId = useStore(state => state.chatId);
+  const setChatId = useStore(state => state.setChatId);
+  const genChatId = useStore(state => state.genChatId);
+  const incoming = useStore(state => state.incoming);
+  const setIncoming = useStore(state => state.setIncoming);
+  const messages = useStore(state => state.messages);
+  const setMessages = useStore(state => state.setMessages);
+  const appendMessage = useStore(state => state.appendMessage);
+
+  useEffect(() => {
+    genChatId();
+  }, [genChatId]);
+
   const hovered = (value, location) => {
-    // console.log(`location: ${location} value: ${value}`);
     setIsHovered(value);
   };
 
   const menu_hovered = (value, location) => {
-    // console.log(`menu location: ${location} value: ${value}`);
     setIsInMenuHovered(value);
   };
 
@@ -88,7 +96,7 @@ const Chat = React.forwardRef((props, ref) => {
   // Global initialization, installs body event listeners
   useEffect(() => {
     let lastOpened = 0;
-    resetChat();
+    resetChat(isInit);
     document.documentElement.style.setProperty('--body-font', chatFont);
 
     const handleMouseEnter = () => {
@@ -123,15 +131,6 @@ const Chat = React.forwardRef((props, ref) => {
       document.body.removeEventListener('mouseleave', handleMouseEnter);
     };
   }, []);
-
-  useEffect(() => {
-    if (notice) {
-      setNoticeShow(true);
-      setTimeout(() => {
-        setNoticeShow(false);
-      }, 2500);
-    }
-  }, [notice]);
 
   const initialAnimation = () => {
     const welcome = WELCOME_MESSAGE;
@@ -242,20 +241,11 @@ const Chat = React.forwardRef((props, ref) => {
             if (done) { break; }
 
             let chunk_str = decoder.decode(chunk);
-            let doneIndex = chunk_str.indexOf('**DONE**\n\n');
+            let doneIndex = chunk_str.indexOf('\n\n**DONE**');
 
             if (doneIndex !== -1) {
-                // Update the chatId state if it is -1 (i.e., has not been set yet)
                 let doneChunk = chunk_str.substring(doneIndex, chunk_str.length);
                 const json_str = doneChunk.replace('**DONE**\n\n', '');
-                if (chatId === -1) {
-                  try {
-                    setChatId(parseInt(JSON.parse(json_str).chatId));
-                  }
-                  catch(e) {
-                    console.error(e);
-                  }
-                }
                 chunk_str = chunk_str.substring(0, doneIndex);
             }
             incoming_content += chunk_str;
@@ -263,11 +253,7 @@ const Chat = React.forwardRef((props, ref) => {
             scrollToBottom();
         }
         clearTimeout(processTimeout);
-
-        setMessages(prevMessages => [
-          ...prevMessages,
-          { content: incoming_content, role: "system", temperature }
-        ]);
+        appendMessage({ content: incoming_content, role: "system", temperature });
         setIsLoading(false);
       }
 
@@ -285,17 +271,11 @@ const Chat = React.forwardRef((props, ref) => {
 
   useEffect(() => {
     scrollToBottom();
-  }, [messages, text, dir]);
+  }, [messages, text]);
 
   // Adds a new message to the messages array
   const newMessage = async (text, role) => {
-    setMessages((prevMessages) => {
-      const newMessages = [
-        ...prevMessages,
-        { content: text, role: role },
-      ];
-      return newMessages;
-    });
+    appendMessage({ content: text, role: role })
   };
 
   // Sets focus to textarea
@@ -308,7 +288,7 @@ const Chat = React.forwardRef((props, ref) => {
   }
 
   // Resets the chat
-  const resetChat = (_init = isInit) => {
+  const resetChat = (_init) => {
     if (_init) {
       setMessages([]);
     }
@@ -323,18 +303,12 @@ const Chat = React.forwardRef((props, ref) => {
         setMessages([
           {"content": WELCOME_MESSAGE, "role" : "system"},
         ]);
-    setFocusInput();
     }
   };
 
-  // Updates temperature
-  const updateTemp = (value) => {
-    setTemperature(parseInt(value));
-  }
-
   // Loads chat into the window
   const loadChat = (chat) => {
-    setChatId(chat.id);
+    genChatId();
     setMessages([{"content": WELCOME_MESSAGE, "role" : "system"}, ...chat.messages]);
   }
 
@@ -345,61 +319,14 @@ const Chat = React.forwardRef((props, ref) => {
       text = messages[index].content;
       index--;
     }
-    setMessages((prevMessages) => prevMessages.slice(0, index + 1));
+    setMessages(messages.slice(0, index + 1));
     setFocusInput(text ?? "");
   };
 
   // Scrolls screen to bottom
   const scrollToBottom = () => {
     textareaRef.current?.focus();
-    if (dir === 'down') {
-      messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
-    }
-    else {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-  };
-
-  const summarizeFile = () => {
-    fileInputRef.current.click();
-  };
-
-  const handleFileChange = async (event) => {
-    const file = event.target.files[0];
-    let formData = new FormData();
-    formData.append('file', file);
-
-    setIncoming("Please wait while I read the document...\u258C")
-    setIsLoading(true);
-    scrollToBottom();
-
-    const response = await fetch('/api/summarize', {
-      method: 'POST',
-      body: formData,
-    });
-
-    const data = await response.json();
-
-    if (data.text) {
-      animate (data.text, () => {
-        setIncoming("");
-        setMessages((prevMessages) => [
-          ...prevMessages,
-          { role: 'system', content: data.text }
-        ]);
-        setIsLoading(false);
-        setFocusInput();
-      });
-    }
-    else {
-      setIncoming("");
-      setMessages((prevMessages) => [
-        ...prevMessages,
-        { role: 'system', content: "Sorry, I could not summarize the document" }  // assuming the response contains a 'summary' field
-      ]);
-      setIsLoading(false);
-      setFocusInput();
-    }
+    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   };
 
   // Handles menu shortcuts
@@ -410,26 +337,14 @@ const Chat = React.forwardRef((props, ref) => {
         if (messages.length > 1)
           resetMessages(messages.length - 2, submit=true);
         break;
-      case 2:
-        setDir((_dir) => _dir === 'up' ? 'down' : 'up');
-        break;
-      case 4:
-        summarizeFile();
-        break;
+      case 2: resetChat(isInit); break;
     }
     e.stopPropagation();
   };
 
-  // Declaring exported functions
-  useImperativeHandle(ref, () => ({
-    newMessage, resetChat, loadChat, updateTemp, setFocusInput
-  }));
-
   const handleBackgroundClick = (e) => {
     menu_hovered(false, 8);
     hovered(false, 9);
-    setFocusInput();
-    e.stopPropagation();
   };
 
   return (
@@ -438,7 +353,7 @@ const Chat = React.forwardRef((props, ref) => {
         onMouseLeave={() => hovered(false)}
         onClick={handleBackgroundClick}>
 
-        {dir === 'up' ? null : messages.map(({ content, role, temperature }, index) =>
+        {messages.map(({ content, role, temperature }, index) =>
             <MessageBubble key={index}
                 content={content}
                 role={role}
@@ -453,14 +368,14 @@ const Chat = React.forwardRef((props, ref) => {
         {!isLoading &&
             (<>
                 <TextareaAutosize
-                className="user-input"
-                placeholder="Type here..."
-                value={text}
-                onChange={(e) => setText(e.target.value)}
-                onKeyDown={handleKeyDown}
-                ref={textareaRef}
-                style={{fontFamily: chatFont}}
-                rows={1}
+                  className="user-input"
+                  placeholder="Type here..."
+                  value={text}
+                  onChange={(e) => setText(e.target.value)}
+                  onKeyDown={handleKeyDown}
+                  ref={textareaRef}
+                  style={{fontFamily: chatFont}}
+                  rows={1}
                 />
 
                 <Box className="submit" style={{textAlign: 'center'}} ref={submitButtonRef}>
@@ -473,53 +388,20 @@ const Chat = React.forwardRef((props, ref) => {
             </>)
         }
 
-        {dir === 'up' && isLoading ?
-            <>
+        {isLoading &&
+          <>
             <Box className={`message system temperature-0`} sx={{ marginTop: 0, paddingTop: 0 }}>
                 <ReactMarkdown className="inner-text" children={incoming} />
             </Box>
             <Box display="flex" justifyContent="center" mt={2} className="hourglass">
                 <CircularProgress size={"1em"} />
             </Box>
-            </> : null}
+          </>}
 
         <ButtonBar isHovered={isHovered} setHovered={(v) => menu_hovered(v, 402)} handleClick={handleMenuShortcut} />
-
-        {dir === 'down' && isLoading ?
-            <>
-            <Box className={`message system temperature-0`} sx={{ marginTop: 0, paddingTop: 0 }}>
-                <ReactMarkdown className="inner-text" children={incoming} />
-            </Box>
-            <Box display="flex" justifyContent="center" mt={2} className="hourglass">
-                <CircularProgress size={"1em"} />
-            </Box>
-            </> : null}
-
-        {dir === 'up' ? messages.slice(0).reverse().map(({ content, role, temperature }, index) =>
-            <MessageBubble key={index}
-                content={content}
-                role={role}
-                temperature={temperature}
-                isHovered={isHovered}
-                setHovered={(v) => menu_hovered(v, 452)}
-                setNotice={setNotice}
-                buttonBar={index < messages.length -1}
-                resetDisabled={index === 0}
-                resetMessages={() => resetMessages(index)} />) : null }
-
-        <div ref={messagesEndRef} />
-        <input
-            type="file"
-            ref={fileInputRef}
-            style={{ display: 'none' }}
-            onChange={handleFileChange}
-        />
     </Box>
-    <Box className={`notice ${noticeShow ? "show": ""}`}>
-        <Typography variant="h5" className="noticeText">
-            <span>{notice}</span>
-        </Typography>
-    </Box>
+    <div ref={messagesEndRef} />
+    <Notice / >
     </>
   );
 });

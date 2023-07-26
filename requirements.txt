@@ -10,3 +10,6 @@ ebooklib
 BeautifulSoup4
 psycopg2
 pgvector
+spacy
+python-dotenv
+ipython

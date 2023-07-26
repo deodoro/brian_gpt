@@ -1,7 +1,6 @@
 const { Configuration, OpenAIApi } = require("openai");
 
 require('dotenv').config();
-console.log(process.env.OPENAI_API_KEY);
 
 async function streamToBuffer(readableStream) {
     return new Promise((resolve, reject) => {
@@ -31,7 +30,7 @@ chat_handler = async (req, res) => {
         const response = await this.openAiApi.createChatCompletion({
             model: "gpt-3.5-turbo-16k",
             messages: [
-                {role: "system", content: "You are a helpful assistant."},
+                {role: "system", content: "You are a PHD student, teacher assistant for microeconomics."},
                 ...chat.map(i => ({role: i.role, content: i.content}))
             ],
             temperature: temperature,

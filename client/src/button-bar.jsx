@@ -3,9 +3,9 @@ import ShortcutButton from './ShortcutButton';
 import "./style/button-bar.scss";
 
 function ButtonBar(props) {
-    const captions = ["Regenerate last reply",
-                      "Begin New Chat",
-                      "Chat Direction"];
+    const captions = ["Stop generation",
+                      "Regenerate last reply",
+                      "Reset Chat"];
 
     return (<Box className={`button-bar  ${props.isHovered ? "show" : ""}`}
                 onMouseEnter={() => props.setHovered(true)}

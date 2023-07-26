@@ -1,6 +1,7 @@
 const express = require('express');
 const { chat_handler } = require('./chat_handler');
 const { extract_handler, summarize_handler } = require('./content_handler');
+const db_handlers = require('./db_handler');
 const morgan = require('morgan');
 const path = require('path');
 const multer = require('multer');
@@ -23,6 +24,7 @@ app.use((req, res, next) => {
     }
 });
 
+app.use('/api', db_handlers);
 app.post('/api/chat', bodyParser.json(), chat_handler);
 app.get('/api/extract', bodyParser.json(), extract_handler);
 app.post('/api/summarize', upload.single('file'), summarize_handler);

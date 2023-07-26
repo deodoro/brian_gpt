@@ -85,9 +85,13 @@ a:hover {
   }
 }
 
+.navigator-container {
+  width: 65em;
+  margin: 0 auto;
+}
+
 .chat-container {
   width: 65em;
-  // padding: 3em 1em 5em 1em;
   padding: 0;
   margin: 0 auto;
 }
@@ -96,4 +100,9 @@ a:hover {
   .chat-container {
     width: 100%;
   }
+
+  .navigator-container {
+    width: 100%;
+  }
+  
 }

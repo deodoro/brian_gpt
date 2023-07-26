@@ -1,0 +1,22 @@
+
+.question-data {
+    padding: 0.5em;
+    margin-top: 2em;
+    font: Bitter;
+    font-size: 1.5em;
+}
+
+.question-id {
+    display: inline-block;
+    font-size: 0.8em;
+    color: #d0d0d0;
+}
+
+.question-answer {
+    color: #78290F;
+    margin-top: 1em;
+}
+
+.question-answer.hide {
+    display: none;
+}

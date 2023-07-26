@@ -1,6 +1,7 @@
 import React from "react";
 import Box from '@mui/material/Box';
 import Chat from './chat';
+import Navigator from './navigator';
 import Typography from '@mui/material/Typography';
 import { ThemeProvider } from "@emotion/react";
 import { createTheme } from "@mui/material";
@@ -41,6 +42,9 @@ export default function App() {
               Micro-economics chatterbox
             </Typography>
             {/* <div className='user-info'></div> */}
+          </Box>
+          <Box sx={{ flexGrow: 0 }} className="navigator-container">
+            <Navigator />
           </Box>
           <Box sx={{ flexGrow: 1 }} className="chat-container">
             <Chat />

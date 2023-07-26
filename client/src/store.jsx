@@ -16,11 +16,9 @@ const useStore = create((set) => ({
     messages: [],
     setMessages: (messages) => set({ messages: messages }),
     appendMessage: (message) => set({ messages: [...useStore.getState().messages, message] }),
-    TESTING: true,
+    TESTING: false,
     resetMessages: (_init) => {
-        console.log("once more")
         if (_init) {
-            console.log("here");
             set({messages: []});
         }
         else {
@@ -32,7 +30,9 @@ const useStore = create((set) => ({
                     {"content": WELCOME_MESSAGE, "role" : "system"},
             ]});
         }
-      }
+      },
+    questionData: null,
+    setQuestionData: (question) => set({questionData: question}),
 }));
 
 export default useStore;

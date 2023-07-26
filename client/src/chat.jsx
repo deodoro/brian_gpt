@@ -27,7 +27,6 @@ const Chat = React.forwardRef((props, ref) => {
   const [interrupted, setInterrupted] = useState(false);
   const textareaRef = useRef(null);
   const abortController = useRef(null);
-  const submitButtonRef = useRef(null);
   const chatFont = "'Bitter', serif";
 
   const setNotice = useStore(state => state.setNotice);
@@ -269,10 +268,10 @@ const Chat = React.forwardRef((props, ref) => {
                   rows={1}
                 />
 
-                <Box className="submit" style={{textAlign: 'center'}} ref={submitButtonRef}>
+                <Box className="submit" style={{textAlign: 'center'}}>
                     <Button
-                    className="submit-button"
-                    onClick={handleSubmit}>
+                      className="submit-button"
+                      onClick={handleSubmit}>
                         Submit
                     </Button>
                 </Box>

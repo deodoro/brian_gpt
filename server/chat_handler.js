@@ -1,6 +1,7 @@
-const { Configuration, OpenAIApi } = require("openai");
+import { Configuration, OpenAIApi } from "openai";
+import dotenv from 'dotenv';
 
-require('dotenv').config();
+dotenv.config();
 
 async function streamToBuffer(readableStream) {
     return new Promise((resolve, reject) => {
@@ -15,7 +16,7 @@ async function streamToBuffer(readableStream) {
     });
 }
 
-chat_handler = async (req, res) => {
+const chat_handler = async (req, res) => {
     try {
         let chat = req.body.chat.filter(i => ["system", "user"].includes(i.role));
         let chatId = req.body.chatId;
@@ -79,4 +80,4 @@ chat_handler = async (req, res) => {
     }
 };
 
-module.exports = { chat_handler };
+export { chat_handler };

@@ -8,7 +8,7 @@
         "build:react": "cd client && npm install && npm run build",
         "copy": "ncp client/dist server/public",
         "build": "npm run build:react && npm run copy",
-        "dev": "concurrently \"npm run start --prefix server\" \"npm run client\"",
+        "dev": "concurrently \"npm run dev --prefix server\" \"npm run client\"",
         "start": "npm start --prefix server",
         "clean": "rimraf client/dist server/public client/.parcel-cache node_modules client/node_modules server/node_modules",
         "postinstall": "npm install --prefix client && npm install --prefix server"

@@ -13,3 +13,5 @@ pgvector
 spacy
 python-dotenv
 ipython
+redis
+tornado

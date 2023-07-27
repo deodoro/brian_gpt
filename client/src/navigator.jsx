@@ -46,8 +46,10 @@ const Navigator = () => {
       }
     };
 
-    fetchExams();
-    fetchQuestions();
+    if (selectedYear) {
+      fetchExams();
+      fetchQuestions();
+    }
   }, [selectedYear]);
 
   useEffect(() => {
@@ -60,7 +62,9 @@ const Navigator = () => {
       }
     };
 
-    fetchQuestions();
+    if (selectedYear && selectedExam) {
+      fetchQuestions();
+    }
   }, [selectedExam]);
 
   useEffect(() => {
@@ -73,7 +77,8 @@ const Navigator = () => {
       }
     };
 
-    fetchQuestion();
+    if (selectedQuestion)
+      fetchQuestion();
   }, [selectedQuestion]);
 
   return (

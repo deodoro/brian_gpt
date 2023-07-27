@@ -1,11 +1,14 @@
-const { Configuration, OpenAIApi } = require("openai");
-const { loadSummarizationChain } = require("langchain/chains");
-const { RecursiveCharacterTextSplitter } = require("langchain/text_splitter");
-const axios = require('axios');
-const pdfParse = require('pdf-parse');
-const mammoth = require('mammoth');
+import { Configuration, OpenAIApi } from "openai";
+import { loadSummarizationChain } from "langchain/chains";
+import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
+import axios from 'axios';
+import pkg from 'pdf-parse';
+import mammoth from 'mammoth';
+import dotenv from 'dotenv';
 
-require('dotenv').config();
+const {pdfParse} = pkg;
+
+dotenv.config();
 
 const extract_contents = async (url) => {
     try {
@@ -159,4 +162,4 @@ const summarize_handler = async (req, res) => {
     res.send(JSON.stringify({text: summary}));
 };
 
-module.exports = {extract_handler, summarize_handler, run_langchain};
+export {extract_handler, summarize_handler, run_langchain};

@@ -16,7 +16,6 @@ from langchain.retrievers.merger_retriever import MergerRetriever
 from langchain.callbacks.base import BaseCallbackHandler, AsyncCallbackHandler
 from langchain.memory import ConversationBufferMemory
 from langchain.schema import Document
-from tornado.ioloop import IOLoop
 
 class CustomCallbackHandler(BaseCallbackHandler):
     def __init__(self, request_handler=None):
@@ -25,13 +24,10 @@ class CustomCallbackHandler(BaseCallbackHandler):
 
     def on_llm_new_token(self, token, **kwargs):
         if self.request_handler:
-            print("({0})token: {1}".format(self.i, token))
-            self.i += 1
-            IOLoop.current().add_callback(self.write_and_flush, token)
-
-    def write_and_flush(self, token):
-        self.request_handler.write(token)
-        self.request_handler.flush()
+            print(token, end="")
+            sys.stdout.flush()
+            self.request_handler.write(token)
+            self.request_handler.flush()
 
     # def on_llm_end(self, outputs, **kwargs):
     #     if self.request_handler:

@@ -63,7 +63,6 @@ class ChatHandler(CorsHandler):
                     content += piece
                     self.write(piece)
                     self.flush()
-                    time.sleep(0.5)
 
             new_item = {"role": "assistant", "content": content}
 

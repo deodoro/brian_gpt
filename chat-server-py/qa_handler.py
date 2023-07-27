@@ -4,6 +4,7 @@ import sys
 import dotenv
 import os
 import json
+import time
 from langchain.llms import OpenAI
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores.pgvector import PGVector, DistanceStrategy
@@ -12,20 +13,25 @@ from langchain.chat_models import ChatOpenAI
 from langchain.retrievers.document_compressors.chain_extract import LLMChainExtractor
 from langchain.chains import RetrievalQA, ConversationalRetrievalChain
 from langchain.retrievers.merger_retriever import MergerRetriever
-from langchain.callbacks.base import BaseCallbackHandler
+from langchain.callbacks.base import BaseCallbackHandler, AsyncCallbackHandler
 from langchain.memory import ConversationBufferMemory
 from langchain.schema import Document
+from tornado.ioloop import IOLoop
 
 class CustomCallbackHandler(BaseCallbackHandler):
     def __init__(self, request_handler=None):
         self.request_handler = request_handler
+        self.i = 0
 
     def on_llm_new_token(self, token, **kwargs):
         if self.request_handler:
-            print(token, end="")
-            sys.stdout.flush()
-            self.request_handler.write(token)
-            self.request_handler.flush()
+            print("({0})token: {1}".format(self.i, token))
+            self.i += 1
+            IOLoop.current().add_callback(self.write_and_flush, token)
+
+    def write_and_flush(self, token):
+        self.request_handler.write(token)
+        self.request_handler.flush()
 
     # def on_llm_end(self, outputs, **kwargs):
     #     if self.request_handler:
@@ -109,7 +115,7 @@ class DocumentEncoder(json.JSONEncoder):
         return super().default(obj)
 
 class QAHandler(RequestHandler):
-    async def post(self):
+    def post(self):
         # Parse JSON from request body
         data = tornado.escape.json_decode(self.request.body)
 

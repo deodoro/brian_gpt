@@ -7,6 +7,7 @@ import json
 import re
 import uuid
 import datetime
+import time
 
 class CorsHandler(tornado.web.RequestHandler):
     def set_default_headers(self):
@@ -29,7 +30,8 @@ class ChatHandler(CorsHandler):
     def post(self):
         try:
             chat = json.loads(self.request.body)
-            chat_id = chat[0]["chatId"] if len(chat) > 0 else uuid.uuid4()
+            chat_id = chat["chatId"]
+            print(chat)
             # temperature is normalized to 0-1.5
             # 2 is too hot, gpt35 breaks
             # temperature = req_body["temperature"] * 3 / 4
@@ -44,11 +46,9 @@ class ChatHandler(CorsHandler):
             openai.api_key = os.getenv("OPENAI_API_KEY")
             chatgpt_model_name = "gpt-3.5-turbo-16k"
 
-            role_mapping = {"human": "user", "ai": "assistant", "system": "system"}
-            converted = [{"role": role_mapping[i["fromRole"]], "content": i["body"]["content"]} for i in chat]
             response = openai.ChatCompletion.create(
-                engine=chatgpt_model_name,
-                messages=converted,
+                model=chatgpt_model_name,
+                messages=chat['chat'],
                 temperature=temperature,
                 stream = True
             )
@@ -63,13 +63,9 @@ class ChatHandler(CorsHandler):
                     content += piece
                     self.write(piece)
                     self.flush()
+                    time.sleep(0.5)
 
-            new_item = {"from": "system",
-                        "fromRole": "ai",
-                        "id": str(uuid.uuid4()),
-                        "chatId": chat_id,
-                        "body": {"contentType": "html", "content": content},
-                        "createdDateTime": datetime.datetime.now().isoformat()}
+            new_item = {"role": "assistant", "content": content}
 
             self.write("**DONE**\n\n");
             self.write(json.dumps(new_item))

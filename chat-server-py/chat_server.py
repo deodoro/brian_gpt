@@ -7,8 +7,9 @@ import os
 import sys
 import datetime
 import re
-import chathandler
+from chat_handler import ChatHandler
 from db_handler import *
+from qa_handler import QAHandler
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -43,7 +44,7 @@ if __name__ == '__main__':
         # Associating URI handers
         cache = {}
         urls = [
-            (r'/api/chat', chathandler.ChatHandler),
+            (r'/api/chat', ChatHandler),
             (r'/api/years/?', YearsHandler),
             (r'/api/exams/(.*)', ExamsHandler),
             (r'/api/parts/(.*)/(.*)', PartsHandler),
@@ -52,11 +53,12 @@ if __name__ == '__main__':
             (r'/api/questions/([^/]+)/([^/]+)$', QuestionsByExamHandler),
             (r'/api/questions/([^/]+)/([^/]+)/([^/]+)/([^/]+)$', QuestionsHandler),
             (r'/api/question/(.*)', QuestionHandler),
+            (r'/api/qa', QAHandler),
         ]
 
         # Tornado initialization
         webServerPort = os.getenv('PORT') or 7071
-        application = tornado.web.Application(urls, debug=False)
+        application = tornado.web.Application(urls, debug=True)
         application.listen(webServerPort)
 
         # Startup

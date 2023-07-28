@@ -31,7 +31,6 @@ class ChatHandler(CorsHandler):
         try:
             chat = json.loads(self.request.body)
             chat_id = chat["chatId"]
-            print(chat)
             # temperature is normalized to 0-1.5
             # 2 is too hot, gpt35 breaks
             # temperature = req_body["temperature"] * 3 / 4
@@ -48,7 +47,7 @@ class ChatHandler(CorsHandler):
 
             response = openai.ChatCompletion.create(
                 model=chatgpt_model_name,
-                messages=chat['chat'],
+                messages=[{"role": i["role"], "content": i["content"]} for i in chat['chat']],
                 temperature=temperature,
                 stream = True
             )

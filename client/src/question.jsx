@@ -22,7 +22,6 @@ const QuestionView = () => {
 
   const handleComputeAnswer = () => {
     setShowForm(true);
-    // Compute answer logic goes here
   };
 
   const cancelForm = () => {
@@ -31,9 +30,33 @@ const QuestionView = () => {
   const setIncoming = useStore((state) => state.setIncoming);
   const appendMessage = useStore((state) => state.appendMessage);
   const questionData = useStore((store) => store.questionData);
+  const text = useStore(state => state.text);
+  const setText = useStore(state => state.setText);
   const [answerSheet, showAnswerSheet] = useState(false);
+  const setNotice = useStore(state => state.setNotice);
 
-  const HandleComputeAnswer = async () => {
+  const handleVerifyAnswer = async () => {
+    if (text.trim()) {
+      appendMessage({
+        role: "user",
+        content: "Verify if my answer for this question is correct. If not, please provide the correct answer and explain where I went wrong.\n\n" +
+          "question: " + questionData["enunciate"] + "\n\n" +
+          "answer sheet: " + questionData["answer"] + "." + questionData["explanation"] + "\n\n" +
+          "my answer: " + text,
+        send: true,
+      });
+      setText("");
+    }
+    else {
+      setNotice("Please type an answer before clicking");
+    }
+  }
+
+  const FetchComputeAnswer = async () => {
+    appendMessage({
+      content: questionData["enunciate"],
+      role: "user"
+    });
     setIncoming("\u258C");
     const response = await fetch("/api/qa", {
       method: "POST",
@@ -108,20 +131,14 @@ const QuestionView = () => {
           </div>
           <div>
             <Box>
-              <Button className="answer" onClick={handleComputeAnswer}>
-                Compute Answer
-              </Button>
-              <Button className="show">Verify my answer</Button>
-              <Button
-                className="show"
-                onClick={() => showAnswerSheet(!answerSheet)}
-              >
+              <Button className="answer" onClick={handleComputeAnswer}>Compute Answer</Button>
+              <Button className="show" onClick={handleVerifyAnswer}>Verify my answer</Button>
+              <Button className="show" onClick={() => showAnswerSheet(!answerSheet)}>
                 {answerSheet ? "Hide answer sheet" : "Show answer sheet"}
               </Button>
-              <Button className="show">Lookup Sources</Button>
             </Box>
 
-            {showForm && 
+            {showForm &&
             <Box className='parameter-form'>
                 <form>
                     <FormControl component="fieldset">
@@ -134,7 +151,7 @@ const QuestionView = () => {
                                 <TextField label="#Sources" name="k" value={params.k} onChange={handleChange} />
                             </Grid>
                             <Grid item xs={12} sm={6} md={6}>
-                                <FormControl fullWidth>
+                                <FormControl fullWidth className="select">
                                     <FormLabel>Chain</FormLabel>
                                     <Select name="chain" value={params.chain} onChange={handleChange}>
                                     <MenuItem value="stuff">stuff</MenuItem>
@@ -145,7 +162,7 @@ const QuestionView = () => {
                                 </FormControl>
                             </Grid>
                             <Grid item xs={12} sm={6} md={6}>
-                                <FormControl fullWidth>
+                                <FormControl fullWidth className="select">
                                     <FormLabel>Model</FormLabel>
                                     <Select name="model" value={params.model} onChange={handleChange}>
                                     <MenuItem value="gpt-3.5-turbo-16k">gpt-3.5-turbo-16k</MenuItem>
@@ -154,7 +171,7 @@ const QuestionView = () => {
                                 </FormControl>
                             </Grid>
                             <Grid item xs={12} sm={6} md={6}>
-                                <FormControl fullWidth>
+                                <FormControl fullWidth className="select">
                                     <FormLabel>Embedding size</FormLabel>
                                     <Select name="model" value={params.embedding_size} onChange={handleChange}>
                                     <MenuItem value="350">350</MenuItem>
@@ -179,7 +196,7 @@ const QuestionView = () => {
                         </Grid>
                     </FormControl>
                     <Box className='footer'>
-                        <Button type="submit" variant="contained" color="primary" onClick={async (e) => {e.preventDefault(); setShowForm(false); await HandleComputeAnswer();}}>Submit</Button>
+                        <Button type="submit" variant="contained" color="primary" onClick={async (e) => {e.preventDefault(); setShowForm(false); await FetchComputeAnswer();}}>Submit</Button>
                         <Button type="button" variant="contained" color="secondary" onClick={cancelForm}>
                             Cancel
                         </Button>

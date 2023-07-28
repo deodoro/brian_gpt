@@ -1,4 +1,13 @@
+version: '3'
 services:
+  q_and_a:
+    container_name: q_and_a
+    image: q_and_a
+    ports:
+      - "8080:8080"
+    depends_on:
+      - pgvector
+
   pgvector:
     container_name: pgvector
     image: ankane/pgvector:latest
@@ -11,3 +20,4 @@ services:
       - "5432:5432"
     volumes:
       - ./store/pgvector:/var/lib/postgresql/data
+

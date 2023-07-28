@@ -99,3 +99,6 @@ venv/
 wheels/
 yarn-debug.log*
 yarn-error.log*
+docker/*.py
+docker/dist/*
+docker/env

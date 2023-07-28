@@ -17,17 +17,18 @@ function usePrevious(value) {
 }
 
 const Chat = React.forwardRef((props, ref) => {
-  const WELCOME_MESSAGE = "Hi, I am a chatbot with access to lectures and reading materials. I can help you explore themes in microeconomics.";
+  const WELCOME_MESSAGE = "Hi, I am a chatbot with access to lectures and reading materials. I can help you explore themes in microeconomics. You can chat with me directly, or you can explore the question database on the top. \n\nPlease note this is experimental work, I am not responsible for any errors in the answers.";
   const messagesEndRef = useRef(null);
   const [isHovered, setIsHovered] = useState(false);
 
-  const [text, setText] = useState("");
   const [timeoutId, setTimeoutId] = useState(-1);
   const [interrupted, setInterrupted] = useState(false);
   const textareaRef = useRef(null);
   const abortController = useRef(null);
   const chatFont = "'Bitter', serif";
 
+  const text = useStore(state => state.text);
+  const setText = useStore(state => state.setText);
   const setNotice = useStore(state => state.setNotice);
   const temperature = useStore(state => state.temperature);
   const chatId = useStore(state => state.chatId);
@@ -49,7 +50,7 @@ const Chat = React.forwardRef((props, ref) => {
   const handleSubmit = () => {
     if (text.trim()) {
       setIsHovered(false);
-      appendMessage({ content: text, role: 'user' })
+      appendMessage({ content: text, role: 'user', send: true, temperature: temperature })
       setText("");
     }
   };
@@ -177,7 +178,6 @@ const Chat = React.forwardRef((props, ref) => {
             }
         }
         clearTimeout(processTimeout);
-
         appendMessage({ content: incoming_content, role: "system", temperature});
         setIncoming("");
       }
@@ -185,7 +185,7 @@ const Chat = React.forwardRef((props, ref) => {
       processResponse();
     };
 
-    if (messages.length > 0 && messages[messages.length - 1].role === "user") {
+    if (messages.length > 0 && messages[messages.length - 1].role === "user" && messages[messages.length - 1].send) {
       fetchChat();
     }
 

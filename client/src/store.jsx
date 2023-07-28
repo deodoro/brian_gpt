@@ -1,7 +1,7 @@
 import {create} from 'zustand';
 import { v4 as uuidv4 } from 'uuid';
 
-const WELCOME_MESSAGE = "Hi, I am a chatbot with access to lectures and reading materials. I can help you explore themes in microeconomics.";
+const WELCOME_MESSAGE = "Hi, I am a chatbot with access to lectures and reading materials. I can help you explore themes in microeconomics. You can chat with me directly, or you can explore the question database on the top. \n\nPlease note this is experimental work, the author and owner of this website does not hold himself responsible for any errors in the answers.";
 
 const useStore = create((set) => ({
     chatId: null,
@@ -9,6 +9,8 @@ const useStore = create((set) => ({
     setChatId: (chatId) => set({ chatId: chatId }),
     temperature: 0,
     setTemperature: (temperature) => set({ temperature: temperature }),
+    text: "",
+    setText: (text) => set({ text: text }),
     notice: "",
     setNotice: (notice) => set({ notice: notice }),
     incoming : "\u258C",

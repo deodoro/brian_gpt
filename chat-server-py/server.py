@@ -54,11 +54,13 @@ if __name__ == '__main__':
             (r'/api/questions/([^/]+)/([^/]+)/([^/]+)/([^/]+)$', QuestionsHandler),
             (r'/api/question/(.*)', QuestionHandler),
             (r'/api/qa', QAHandler),
+            (r"/()", tornado.web.StaticFileHandler, {"path": '/var/www', "default_filename": "index.html"}),
+            (r"/(.*)", tornado.web.StaticFileHandler, {"path": '/var/www'}),
         ]
 
         # Tornado initialization
         webServerPort = os.getenv('PORT') or 7071
-        application = tornado.web.Application(urls, debug=True)
+        application = tornado.web.Application(urls, debug=False)
         application.listen(webServerPort)
 
         # Startup

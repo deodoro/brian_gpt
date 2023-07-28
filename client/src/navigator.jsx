@@ -14,11 +14,12 @@ const Navigator = () => {
   const [selectedQuestion, setSelectedQuestion] = useState(null);
   const questionData = useStore(store => store.questionData);
   const setQuestionData = useStore(store => store.setQuestionData);
+  const apiUrl = process.env.API_URL || '/api';
 
   useEffect(() => {
     const fetchYears = async () => {
       try {
-        const response = await axios.get('/api/years');
+        const response = await axios.get(`${apiUrl}/years`);
         setYears(response.data);
       } catch (error) {
         console.error('Failed to fetch years', error);
@@ -30,7 +31,7 @@ const Navigator = () => {
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
-        const response = await axios.get(`/api/questions/${selectedYear}`);
+        const response = await axios.get(`${apiUrl}/questions/${selectedYear}`);
         setQuestions(response.data);
       } catch (error) {
         console.error('Failed to fetch questions', error);
@@ -39,7 +40,7 @@ const Navigator = () => {
 
     const fetchExams = async () => {
       try {
-        const response = await axios.get(`/api/exams/${selectedYear}`);
+        const response = await axios.get(`${apiUrl}/exams/${selectedYear}`);
         setExams(response.data);
       } catch (error) {
         console.error('Failed to fetch years', error);
@@ -55,7 +56,7 @@ const Navigator = () => {
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
-        const response = await axios.get(`/api/questions/${selectedYear}/${selectedExam}`);
+        const response = await axios.get(`${apiUrl}/questions/${selectedYear}/${selectedExam}`);
         setQuestions(response.data);
       } catch (error) {
         console.error('Failed to fetch questions', error);
@@ -70,7 +71,7 @@ const Navigator = () => {
   useEffect(() => {
     const fetchQuestion = async () => {
       try {
-        const response = await axios.get(`/api/question/${selectedQuestion}`);
+        const response = await axios.get(`${apiUrl}/question/${selectedQuestion}`);
         setQuestionData(response.data);
       } catch (error) {
         console.error('Failed to fetch questions', error);

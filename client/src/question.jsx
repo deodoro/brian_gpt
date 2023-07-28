@@ -53,12 +53,14 @@ const QuestionView = () => {
   }
 
   const FetchComputeAnswer = async () => {
+    const apiUrl = process.env.API_URL || '/api';
     appendMessage({
       content: questionData["enunciate"],
       role: "user"
     });
     setIncoming("\u258C");
-    const response = await fetch("/api/qa", {
+
+    const response = await fetch(`${apiUrl}/qa`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

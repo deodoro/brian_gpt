@@ -17,7 +17,6 @@ function usePrevious(value) {
 }
 
 const Chat = React.forwardRef((props, ref) => {
-  const WELCOME_MESSAGE = "Hi, I am a chatbot with access to lectures and reading materials. I can help you explore themes in microeconomics. You can chat with me directly, or you can explore the question database on the top. \n\nPlease note this is experimental work, I am not responsible for any errors in the answers.";
   const messagesEndRef = useRef(null);
   const [isHovered, setIsHovered] = useState(false);
 
@@ -41,6 +40,7 @@ const Chat = React.forwardRef((props, ref) => {
   const appendMessage = useStore(state => state.appendMessage);
   const resetChat = useStore(state => state.resetMessages);
   const TESTING = useStore(state => state.TESTING);
+  const WELCOME_MESSAGE = useStore(state => state.WELCOME_MESSAGE);
 
   useEffect(() => {
     genChatId();
@@ -135,9 +135,11 @@ const Chat = React.forwardRef((props, ref) => {
     const signal = abortController.signal;
 
     const fetchChat = async () => {
+      const apiUrl = process.env.API_URL || '/api';
+
       setIncoming("\u258C")
       scrollToBottom();
-      const response = await fetch("/api/chat", {
+      const response = await fetch(`${apiUrl}/chat`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

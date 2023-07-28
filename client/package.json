@@ -1,6 +1,5 @@
 {
   "name": "brian-gpt-client",
-  "version": "0.99",
   "description": "Brian-GPT client interface",
   "scripts": {
     "start": "parcel serve -p8080 src/index.html",

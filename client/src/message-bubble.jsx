@@ -51,7 +51,13 @@ function MessageBubble(props) {
                         </Box>)}
                 </Box>}
             {props.thought && <ReactMarkdown className="thought" children={props.thought} />}
-            <ReactMarkdown className="inner-text" children={props.content} />
+            {props.params &&
+                <Box className="params">
+                    <Box className="params">
+                        {JSON.stringify(props.params)}
+                    </Box>
+                </Box>}
+            {props.content && <ReactMarkdown className="inner-text" children={props.content} />}
         </Box>
     );
 }

@@ -10,6 +10,12 @@
     border-top: 1px solid #cccccc;
 }
 
+@media print {
+  .user-input, .submit {
+    display: none;
+  }
+}
+
 .user-input {
     font-size: 1.4em;
     line-height: 1.3em;

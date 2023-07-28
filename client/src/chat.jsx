@@ -242,7 +242,7 @@ const Chat = React.forwardRef((props, ref) => {
         onMouseLeave={() => setIsHovered(false)}
         onClick={handleBackgroundClick}>
 
-        {messages.map(({ content, role, temperature, thought, source_documents }, index) =>
+        {messages.map(({ content, role, temperature, thought, source_documents, params }, index) =>
             <MessageBubble key={index}
                 content={content}
                 role={role}
@@ -251,6 +251,7 @@ const Chat = React.forwardRef((props, ref) => {
                 buttonBar={index > 0}
                 setNotice={setNotice}
                 thought={thought}
+                params={params}
                 source_documents={source_documents}
                 resetDisabled={index === messages.length - 1}
                 resetMessages={() => resetMessagesTo(index)} />)}

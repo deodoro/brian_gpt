@@ -108,3 +108,9 @@ a:hover {
   }
   
 }
+
+@media print {
+  .navigator-container {
+      display: none;
+  }
+}

@@ -92,8 +92,13 @@ const QuestionView = () => {
           doneIndex = chunk_str.indexOf("\n\n**DONE**");
           if (doneIndex !== -1) {
             let doneChunk = chunk_str.substring(doneIndex, chunk_str.length);
-            jsonPayload = JSON.parse(doneChunk.replace("\n\n**DONE**\n\n", ""));
-            chunk_str = chunk_str.substring(0, doneIndex);
+            try {
+              jsonPayload = JSON.parse(doneChunk.replace("\n\n**DONE**\n\n", ""));
+              chunk_str = chunk_str.substring(0, doneIndex);
+            }
+            catch (e) {
+              console.error(`Error parsing JSON: ${e}\n$${doneChunk}`);
+            }
           }
           else {
             jsonPayload += chunk_str;
@@ -103,13 +108,19 @@ const QuestionView = () => {
         }
       }
       setIncoming("");
-      const thought = incoming_content.slice(0,incoming_content.length - jsonPayload["result"].length);
+      let thought = null;
+      let content = incoming_content;
+      if (jsonPayload && jsonPayload["result"]) {
+        content = jsonPayload["result"];
+        thought = incoming_content.slice(0,incoming_content.length - content.length);
+      }
       appendMessage({
-        content: jsonPayload["result"],
+        content: content,
         role: "system",
         temperature: 0,
         thought: thought,
-        source_documents: jsonPayload["source_documents"]
+        source_documents: jsonPayload["source_documents"],
+        params: params,
       });
     }
     processResponse();
@@ -175,7 +186,7 @@ const QuestionView = () => {
                             <Grid item xs={12} sm={6} md={6}>
                                 <FormControl fullWidth className="select">
                                     <FormLabel>Embedding size</FormLabel>
-                                    <Select name="model" value={params.embedding_size} onChange={handleChange}>
+                                    <Select name="embedding_size" value={params.embedding_size} onChange={handleChange}>
                                     <MenuItem value="350">350</MenuItem>
                                     <MenuItem value="750">750</MenuItem>
                                     <MenuItem value="1500">1500</MenuItem>
@@ -186,7 +197,7 @@ const QuestionView = () => {
                             <Grid item xs={12} sm={6} md={3}>
                                 <FormControlLabel
                                     control={<Checkbox name="sources" checked={params.sources} onChange={(e) => handleChange({ target: { name: e.target.name, value: e.target.checked } })} />}
-                                    label="Debug"
+                                    label="Retrieve sources"
                                 />
                             </Grid>
                             <Grid item xs={12} sm={6} md={3}>

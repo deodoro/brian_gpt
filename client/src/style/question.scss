@@ -1,8 +1,6 @@
 
 .question-data {
     padding: 0.5em;
-    margin-top: 2em;
-    font: Bitter;
     font-size: 1.5em;
 }
 
@@ -19,4 +17,13 @@
 
 .question-answer.hide {
     display: none;
+}
+
+.parameter-form {
+    margin-top: 1em;
+
+    legend {
+        margin-bottom: 1em;
+    }
+
 }

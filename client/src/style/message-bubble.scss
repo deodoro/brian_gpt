@@ -39,7 +39,6 @@
     opacity: 0;
     height: 0;
     position: absolute;
-    left: 5.8em;
     top: -0.7em;
     position: absolute;
     display: flex;
@@ -78,4 +77,39 @@
 
 .tooltip {
     font-size: 1.5em !important;
+}
+
+.inner-text {
+    font-weight: 400;
+    font-size: 1.4em;
+    line-height: 1.6em;
+    font-family: var(--body-font) !important;
+}
+
+.thought {
+  font-size: 1em;
+  line-height: 1.2em;
+  font-weight: 300;
+}
+
+.source-documents {
+  line-height: 1.2em;
+  font-weight: 300;
+  font-size: 1.1em;
+
+  .source-document {
+      margin-bottom: 1em;
+
+      .content {
+          display: inline;
+          margin-top: 1em;
+      }
+    
+      .metadata {
+        display: inline;
+        opacity: 0.5;
+        font-size: 0.9em;
+      }
+  }
+
 }

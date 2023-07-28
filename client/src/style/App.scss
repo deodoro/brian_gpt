@@ -14,6 +14,7 @@ html, body, #root {
   width: 100%;
   margin: 0em;
   font-size: 10px;
+  font-family: Nunito, sans-serif;
 }
 
 a {
@@ -86,18 +87,18 @@ a:hover {
 }
 
 .navigator-container {
-  width: 65em;
   margin: 0 auto;
+  width: 65vw;
   margin-bottom: 5em;
 }
 
 .chat-container {
-  width: 65em;
+  width: 65vw;
   padding: 0;
   margin: 0 auto;
 }
 
-@media screen and (max-width: 42em) {
+@media screen and (max-width: 40em) {
   .chat-container {
     width: 100%;
   }

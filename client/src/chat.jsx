@@ -20,7 +20,6 @@ const Chat = React.forwardRef((props, ref) => {
   const WELCOME_MESSAGE = "Hi, I am a chatbot with access to lectures and reading materials. I can help you explore themes in microeconomics.";
   const messagesEndRef = useRef(null);
   const [isHovered, setIsHovered] = useState(false);
-  const [isLoading, setIsLoading] = useState(false);
 
   const [text, setText] = useState("");
   const [timeoutId, setTimeoutId] = useState(-1);
@@ -74,12 +73,10 @@ const Chat = React.forwardRef((props, ref) => {
     setIsHovered(false);
     if (TESTING) {
       // Disables boot for testing
-      setIsLoading(false);
       resetChat(false);
     }
     else {
       // Normal boot sequence
-      setIsLoading(true);
       setTimeout(() => initialAnimation(), 200);
     }
 
@@ -90,7 +87,6 @@ const Chat = React.forwardRef((props, ref) => {
     animate (welcome, () => {
       setIncoming("");
       resetChat(false);
-      setIsLoading(false);
       setFocusInput();
     });
   };
@@ -124,12 +120,6 @@ const Chat = React.forwardRef((props, ref) => {
     }, 500);
   };
 
-  // After loading, sets focus to the textarea
-  useEffect(() => {
-    if (!isLoading)
-      setFocusInput();
-  }, [isLoading]);
-
   const stopFetching = () => {
     if (abortController.current) {
       abortController.current.abort();
@@ -145,7 +135,6 @@ const Chat = React.forwardRef((props, ref) => {
 
     const fetchChat = async () => {
       setIncoming("\u258C")
-      setIsLoading(true);
       scrollToBottom();
       const response = await fetch("/api/chat", {
         method: 'POST',
@@ -164,26 +153,33 @@ const Chat = React.forwardRef((props, ref) => {
       setInterrupted(false);
       async function processResponse() {
         let reader = response.body.getReader();
+        let doneIndex = -1;
+        let json_payload = '';
 
         while (!interrupted) {
             const { done, value: chunk } = await reader.read();
             if (done) { break; }
 
             let chunk_str = decoder.decode(chunk);
-            let doneIndex = chunk_str.indexOf('\n\n**DONE**');
-
-            if (doneIndex !== -1) {
+            if (doneIndex == -1) {
+              doneIndex = chunk_str.indexOf('\n\n**DONE**');
+              if (doneIndex !== -1) {
                 let doneChunk = chunk_str.substring(doneIndex, chunk_str.length);
-                const json_str = doneChunk.replace('**DONE**\n\n', '');
+                json_payload = doneChunk.replace('\n\n**DONE**\n\n', '');
                 chunk_str = chunk_str.substring(0, doneIndex);
+              }
+              incoming_content += chunk_str;
+              setIncoming(incoming_content + "\u258C");
+              scrollToBottom();
             }
-            incoming_content += chunk_str;
-            setIncoming(incoming_content + "\u258C");
-            scrollToBottom();
+            else {
+              json_payload += chunk_str;
+            }
         }
         clearTimeout(processTimeout);
-        appendMessage({ content: incoming_content, role: "system", temperature });
-        setIsLoading(false);
+
+        appendMessage({ content: incoming_content, role: "system", temperature});
+        setIncoming("");
       }
 
       processResponse();
@@ -200,7 +196,7 @@ const Chat = React.forwardRef((props, ref) => {
 
   useEffect(() => {
     scrollToBottom();
-  }, [messages, text]);
+  }, [messages, text, incoming]);
 
   // Sets focus to textarea
   const setFocusInput = (text) => {
@@ -244,7 +240,7 @@ const Chat = React.forwardRef((props, ref) => {
         onMouseLeave={() => setIsHovered(false)}
         onClick={handleBackgroundClick}>
 
-        {messages.map(({ content, role, temperature }, index) =>
+        {messages.map(({ content, role, temperature, thought, source_documents }, index) =>
             <MessageBubble key={index}
                 content={content}
                 role={role}
@@ -252,10 +248,12 @@ const Chat = React.forwardRef((props, ref) => {
                 isHovered={isHovered}
                 buttonBar={index > 0}
                 setNotice={setNotice}
+                thought={thought}
+                source_documents={source_documents}
                 resetDisabled={index === messages.length - 1}
                 resetMessages={() => resetMessagesTo(index)} />)}
 
-        {!isLoading &&
+        {(incoming === "") &&
             (<>
                 <TextareaAutosize
                   className="user-input"
@@ -278,7 +276,7 @@ const Chat = React.forwardRef((props, ref) => {
             </>)
         }
 
-        {isLoading &&
+        {(incoming !== "") &&
           <>
             <Box className={`message system temperature-0`}>
                 <ReactMarkdown className="inner-text" children={incoming} />

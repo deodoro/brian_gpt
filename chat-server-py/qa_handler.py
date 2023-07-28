@@ -16,6 +16,18 @@ from langchain.retrievers.merger_retriever import MergerRetriever
 from langchain.callbacks.base import BaseCallbackHandler, AsyncCallbackHandler
 from langchain.memory import ConversationBufferMemory
 from langchain.schema import Document
+from langchain.prompts import PromptTemplate
+
+import logging
+logger = logging.getLogger('server')
+
+# stuff_prompt_template = """You speak only in rhymes. You are Economics PhD student, the microeconomics teacher assistant. You are trying to help students to study exam questions. For each answer, expand concepts and demonstrate your knowledge. Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer. Output markup in HTML.
+stuff_prompt_template = """You speak only in rhymes. You are Economics PhD. Use the following pieces of context to answer the question at the end. Output should be HTML.
+
+{context}
+
+Question: {question}
+Helpful Answer:"""
 
 class CustomCallbackHandler(BaseCallbackHandler):
     def __init__(self, request_handler=None):
@@ -24,8 +36,6 @@ class CustomCallbackHandler(BaseCallbackHandler):
 
     def on_llm_new_token(self, token, **kwargs):
         if self.request_handler:
-            print(token, end="")
-            sys.stdout.flush()
             self.request_handler.write(token)
             self.request_handler.flush()
 
@@ -34,9 +44,8 @@ class CustomCallbackHandler(BaseCallbackHandler):
     #         print("\n\n")
     #         self.request_handler.finish()
 
-def perform(request_handler, query, temperature, chain, sources, retrieval_k, model, method = 'retrieval'):
-
-    print(f"Running with temperature={temperature} chain={chain} sources={sources} retrieval_k={retrieval_k} model={model} method={method}")
+def perform(request_handler, query, temperature, chain, sources, retrieval_k, model, verbose, embedding_size = 350, method = 'retrieval'):
+    logger.info(f"Running with temperature={temperature} chain={chain} sources={sources} retrieval_k={retrieval_k} model={model} method={method}")
 
     dotenv.load_dotenv()
     connection_string = f"postgresql://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_DATABASE')}"
@@ -54,7 +63,7 @@ def perform(request_handler, query, temperature, chain, sources, retrieval_k, mo
         db = PGVector(
             embedding_function=embeddings,
             connection_string=connection_string,
-            collection_name=collection + "_350",
+            collection_name=f"{collection}_{embedding_size}",
         )
         retrievers.append(db.as_retriever(search_kwargs={"k": retrieval_k}))
 
@@ -70,34 +79,28 @@ def perform(request_handler, query, temperature, chain, sources, retrieval_k, mo
         raise ValueError(f"Unknown method: {method}")
 
     input = {}
+    memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
     if method == 'conversation':
-        memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
         qa_chain = ConversationalRetrievalChain.from_llm(
             llm,
             retriever=retriever,
-            verbose=True,
+            verbose=verbose,
             memory=memory,
         )
         # chat_history = []
         # input["chat_history"] = chat_history
         input["question"] = query
     else:
-        memory = None
-        if sources:
-            qa_chain = RetrievalQA.from_chain_type(
-                llm=llm,
-                chain_type=chain,
-                retriever=retriever,
-                return_source_documents=True,
-                verbose=False,
-            )
-        else:
-            qa_chain = RetrievalQA.from_chain_type(
-                llm=llm,
-                chain_type=chain,
-                retriever=retriever,
-                verbose=False,
-            )
+        PROMPT = PromptTemplate(
+            template=stuff_prompt_template, input_variables=["context", "question"]
+        )
+        qa_chain = RetrievalQA.from_chain_type(
+            llm=llm,
+            chain_type=chain,
+            retriever=retriever,
+            return_source_documents=sources,
+            verbose=verbose
+        )
         input["query"] = query
 
     retval = qa_chain(input)
@@ -107,7 +110,7 @@ def perform(request_handler, query, temperature, chain, sources, retrieval_k, mo
 class DocumentEncoder(json.JSONEncoder):
     def default(self, obj):
         if isinstance(obj, Document):
-            return {'page_content': obj.page_content, 'metadata': obj.metadata} 
+            return {'page_content': obj.page_content, 'metadata': obj.metadata}
         return super().default(obj)
 
 class QAHandler(RequestHandler):
@@ -122,10 +125,11 @@ class QAHandler(RequestHandler):
         sources = data.get('sources')
         k = data.get('k')
         model = data.get('model')
-
+        verbose = data.get('verbose')
+        embedding_size = data.get('embedding_size')
         # Call the perform function
         self.set_header("Content-Type", "text/event-stream;charset=utf-8")
         self.set_header("Cache-Control", "no-cache")
         self.set_status(200)
-        result = perform(self, query, temperature, chain, sources, k, model)
-        self.write("\n\n**DONE\n\n" + json.dumps(result, cls=DocumentEncoder))
+        result = perform(self, query, temperature, chain, sources, k, model, verbose, embedding_size)
+        self.write("\n\n**DONE**\n\n" + json.dumps(result, cls=DocumentEncoder))

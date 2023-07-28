@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Box } from '@mui/material';
 import axios from 'axios';
 import useStore from './store';
 import QuestionView from './question'
@@ -23,7 +24,6 @@ const Navigator = () => {
         console.error('Failed to fetch years', error);
       }
     };
-
     fetchYears();
   }, []); // An empty dependency array ensures this effect runs only once on component mount.
 
@@ -82,24 +82,28 @@ const Navigator = () => {
   }, [selectedQuestion]);
 
   return (
-    <div className='navigator'>
-      {years.map((year, index) => (
-        <div key={index} onClick={() => {setSelectedYear(year); setSelectedExam(null); setSelectedQuestion(null);}} className={`year ${year == selectedYear ? 'selected' : ''}`}>
-          {year}
-        </div>
-      ))}
-      {exams.map((exam, index) => (
-        <div key={index} onClick={() => {setSelectedExam(exam); setSelectedQuestion(null);}} className={`exam ${exam == selectedExam ? 'selected' : ''}`}>
-          {exam}
-        </div>
-      ))}
-      {questions.map((question, index) => (
-        <div key={index}  className={`question ${question["id"] == selectedQuestion ? 'selected' : ''}`} onClick={() => setSelectedQuestion(question["id"])}>
-          <div className="question-var">{question["addr"]}</div>
-        </div>
-      ))}
-      <QuestionView />
-    </div>
+    <Box className='navigator'>
+      <Box className='buttons'>
+        {years.map((year, index) => (
+          <div key={index} onClick={() => {setSelectedYear(year); setSelectedExam(null); setSelectedQuestion(null);}} className={`year ${year == selectedYear ? 'selected' : ''}`}>
+            {year}
+          </div>
+        ))}
+        {exams.map((exam, index) => (
+          <div key={index} onClick={() => {setSelectedExam(exam); setSelectedQuestion(null);}} className={`exam ${exam == selectedExam ? 'selected' : ''}`}>
+            {exam}
+          </div>
+        ))}
+        {questions.map((question, index) => (
+          <div key={index}  className={`question ${question["id"] == selectedQuestion ? 'selected' : ''}`} onClick={() => setSelectedQuestion(question["id"])}>
+            <div className="question-var">{question["addr"]}</div>
+          </div>
+        ))}
+      </Box>
+      <Box className='view'>
+        <QuestionView />
+      </Box>
+    </Box>
   );
 };
 

@@ -17,32 +17,42 @@ function MessageBubble(props) {
     };
 
     return (
-    <Box
-        className={`message ${props.role} temperature-${props.temperature ?? 0} ${props.isHovered ? "with-menu" : ""}`}
-        >
-        { props.buttonBar &&
-        (<Box
-            className={`buttons-container ${props.role} ${props.isHovered ? "show" : ""}`}>
-            {(props.role === 'system') || (props.role === 'user') ? (
-            <>
-                <Tooltip title={<span className="tooltip">Copy to clipboard</span>} placement="top">
-                    <IconButton  size="small" onClick={() => {copyMessage(props.content); props.setNotice("Text copied to clipboard");}}>
-                        <span className="icon"><CopyIcon /></span>
-                    </IconButton>
-                </Tooltip>
-
-                { !props.resetDisabled &&
-                    <Tooltip title={<span className="tooltip">Reset to this message</span>} placement="top">
-                        <IconButton size="small" onClick={() => {props.resetMessages(); props.setNotice("Conversation rewinded to an earlier point");}} disabled={props.resetDisabled}>
-                            <span className="icon"><ResetIcon /></span>
+        <Box
+            className={`message ${props.role} temperature-${props.temperature ?? 0} ${props.isHovered ? "with-menu" : ""}`}
+            >
+            { props.buttonBar &&
+            (<Box
+                className={`buttons-container ${props.role} ${props.isHovered ? "show" : ""}`}>
+                {(props.role === 'system') || (props.role === 'user') ? (
+                <>
+                    <Tooltip title={<span className="tooltip">Copy to clipboard</span>} placement="top">
+                        <IconButton  size="small" onClick={() => {copyMessage(props.content); props.setNotice("Text copied to clipboard");}}>
+                            <span className="icon"><CopyIcon /></span>
                         </IconButton>
-                    </Tooltip>}
-            </>)
-        : null}
+                    </Tooltip>
+
+                    { !props.resetDisabled &&
+                        <Tooltip title={<span className="tooltip">Reset to this message</span>} placement="top">
+                            <IconButton size="small" onClick={() => {props.resetMessages(); props.setNotice("Conversation rewinded to an earlier point");}} disabled={props.resetDisabled}>
+                                <span className="icon"><ResetIcon /></span>
+                            </IconButton>
+                        </Tooltip>}
+                </>)
+            : null}
+            </Box>
+            )}
+            {props.source_documents && 
+                <Box className="source-documents">
+                    <h3>Source documents</h3>
+                    {props.source_documents.map((doc, index) =>
+                        <Box key={index} className="source-document">
+                            <div className="content">{doc["page_content"]}</div>
+                            <div className="metadata">{JSON.stringify(doc["metadata"])}</div>
+                        </Box>)}
+                </Box>}
+            {props.thought && <ReactMarkdown className="thought" children={props.thought} />}
+            <ReactMarkdown className="inner-text" children={props.content} />
         </Box>
-        )}
-        <ReactMarkdown className="inner-text" children={props.content} />
-    </Box>
     );
 }
 

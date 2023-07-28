@@ -9,18 +9,18 @@ import './style/App.scss';
 
 const theme = createTheme({
   typography: {
-    fontFamily: '"Numoto", sans-serif',
+    fontFamily: '"Nunito", sans-serif',
   },
   palette: {
     default: {
       main: '#ff0000', // Unselected radio color
     },
-    primary: {
-      main: '#407ec9', // Unselected radio color
-    },
-    secondary: {
-      main: '#407ec9', // Selected radio color
-    },
+    // primary: {
+    //   main: '#407ec9', // Unselected radio color
+    // },
+    // secondary: {
+    //   // main: '#407ec9', // Selected radio color
+    // },
   },
 });
 

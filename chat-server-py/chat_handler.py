@@ -66,12 +66,12 @@ class ChatHandler(CorsHandler):
 
             new_item = {"role": "assistant", "content": content}
 
-            self.write("**DONE**\n\n");
+            self.write("\n\n**DONE**\n\n");
             self.write(json.dumps(new_item))
 
             # Create a new ShareFileClient instance for the chat history file
-            if chat_id:
-                save_chat_history(chat_id, json.dumps({"id": chat_id, "messages": chat + [new_item]}))
+            # if chat_id:
+            #     save_chat_history(chat_id, json.dumps({"id": chat_id, "messages": chat + [new_item]}))
 
         except Exception as e:
             logging.error(e)

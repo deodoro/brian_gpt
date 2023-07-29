@@ -9,6 +9,9 @@ import uuid
 import datetime
 import time
 
+server_log = logging.getLogger('server')
+chat_log = logging.getLogger('chat')
+
 class CorsHandler(tornado.web.RequestHandler):
     def set_default_headers(self):
         self.set_header("Access-Control-Allow-Origin", "*")
@@ -36,7 +39,7 @@ class ChatHandler(CorsHandler):
             # temperature = req_body["temperature"] * 3 / 4
             temperature = 0.1
         except ValueError:
-            logging.error("Invalid JSON data")
+            server_log.error("Invalid JSON data")
             self.set_status(400)
             self.write("Invalid chat data")
             return
@@ -44,6 +47,7 @@ class ChatHandler(CorsHandler):
         try:
             openai.api_key = os.getenv("OPENAI_API_KEY")
             chatgpt_model_name = "gpt-3.5-turbo-16k"
+            chat_log.info(f"Q='{chat['chat'][-1]['content']}'")
 
             response = openai.ChatCompletion.create(
                 model=chatgpt_model_name,
@@ -73,6 +77,6 @@ class ChatHandler(CorsHandler):
             #     save_chat_history(chat_id, json.dumps({"id": chat_id, "messages": chat + [new_item]}))
 
         except Exception as e:
-            logging.error(e)
+            server_log.error(e)
             self.set_status(500)
             self.write("Internal error")

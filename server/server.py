@@ -14,16 +14,41 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Boilerplate logger setup
 log_format = '%(asctime)s %(levelname)s:%(name)s:%(message)s'
 date_format = '%Y-%m-%d %H:%M:%S'
-logging.basicConfig(filename='server.log', level=logging.INFO,format=log_format, datefmt=date_format)
-logger = logging.getLogger('server')
+
+# Create server logger
+server_logger = logging.getLogger('server')
+server_logger.setLevel(logging.INFO)
+
+# Create chat logger
+chat_logger = logging.getLogger('chat')
+chat_logger.setLevel(logging.INFO)
+
+# Create console handler with a higher log level
 ch = logging.StreamHandler(sys.stdout)
 ch.setLevel(logging.INFO)
-formatter = logging.Formatter(log_format)
-ch.setFormatter(formatter)
-logging.getLogger('').addHandler(ch)
+ch.setFormatter(logging.Formatter(log_format, datefmt=date_format))
+
+# Add console handler to both loggers
+server_logger.addHandler(ch)
+chat_logger.addHandler(ch)
+
+# Create file handler which logs even debug messages
+fh = logging.FileHandler('/var/log/app/server.log')
+fh.setLevel(logging.INFO)
+fh.setFormatter(logging.Formatter(log_format, datefmt=date_format))
+server_logger.addHandler(fh)  # Add file handler to server logger
+
+# Create another file handler for the 'chats.log' file
+fh2 = logging.FileHandler('/var/log/app/chats.log')
+fh2.setLevel(logging.INFO)
+fh2.setFormatter(logging.Formatter(log_format, datefmt=date_format))
+chat_logger.addHandler(fh2)  # Add file handler to chat logger
+
+# Use the loggers
+server_logger.info('regular call')
+chat_logger.info('a chat message')
 
 # class LogHandler(tornado.web.RequestHandler):
 #     def get(self):
@@ -39,7 +64,7 @@ logging.getLogger('').addHandler(ch)
 # API server boot
 if __name__ == '__main__':
     try:
-        logger.info('Webserver boot')
+        server_logger.info('Webserver boot')
 
         # Associating URI handers
         cache = {}
@@ -64,7 +89,7 @@ if __name__ == '__main__':
         application.listen(webServerPort)
 
         # Startup
-        logger.info('Webserver is listening to port %s' % webServerPort)
+        server_logger.info('Webserver is listening to port %s' % webServerPort)
         tornado.ioloop.IOLoop.instance().start()
 
     except Exception as e:

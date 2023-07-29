@@ -19,7 +19,9 @@ from langchain.schema import Document
 from langchain.prompts import PromptTemplate
 
 import logging
-logger = logging.getLogger('server')
+
+server_logger = logging.getLogger('server')
+chat_logger = logging.getLogger('chat')
 
 # stuff_prompt_template = """You speak only in rhymes. You are Economics PhD student, the microeconomics teacher assistant. You are trying to help students to study exam questions. For each answer, expand concepts and demonstrate your knowledge. Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer. Output markup in HTML.
 stuff_prompt_template = """You speak only in rhymes. You are Economics PhD. Use the following pieces of context to answer the question at the end. Output should be HTML.
@@ -45,66 +47,70 @@ class CustomCallbackHandler(BaseCallbackHandler):
     #         self.request_handler.finish()
 
 def perform(request_handler, query, temperature, chain, sources, retrieval_k, model, verbose, embedding_size = 350, method = 'retrieval'):
-    logger.info(f"Running with temperature={temperature} chain={chain} sources={sources} retrieval_k={retrieval_k} model={model} method={method}")
-
-    dotenv.load_dotenv()
-    connection_string = f"postgresql://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_DATABASE')}"
-
-    if (os.path.exists("cache.json")):
-        with open("cache.json", "r") as f:
-            cache = json.load(f)
-    else:
-        cache = {}
-
-    embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
-
-    retrievers = []
-    for collection in ['paper', 'book', 'blog', 'lecture', 'notes']:
-        db = PGVector(
-            embedding_function=embeddings,
-            connection_string=connection_string,
-            collection_name=f"{collection}_{embedding_size}",
-        )
-        retrievers.append(db.as_retriever(search_kwargs={"k": retrieval_k}))
-
-    base_retriever = MergerRetriever(retrievers=retrievers)
-    llm = ChatOpenAI(temperature = temperature, model = model, callbacks=[CustomCallbackHandler(request_handler)], streaming=True)
-
-    if method == 'compressed':
-        base_compressor = LLMChainExtractor.from_llm(llm)
-        retriever = ContextualCompressionRetriever(base_compressor=base_compressor, base_retriever=base_retriever)
-    elif method == 'retrieval' or method == 'conversation':
-        retriever = base_retriever
-    else:
-        raise ValueError(f"Unknown method: {method}")
-
-    input = {}
-    memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
-    if method == 'conversation':
-        qa_chain = ConversationalRetrievalChain.from_llm(
-            llm,
-            retriever=retriever,
-            verbose=verbose,
-            memory=memory,
-        )
-        # chat_history = []
-        # input["chat_history"] = chat_history
-        input["question"] = query
-    else:
-        PROMPT = PromptTemplate(
-            template=stuff_prompt_template, input_variables=["context", "question"]
-        )
-        qa_chain = RetrievalQA.from_chain_type(
-            llm=llm,
-            chain_type=chain,
-            retriever=retriever,
-            return_source_documents=sources,
-            verbose=verbose
-        )
-        input["query"] = query
-
-    retval = qa_chain(input)
-    return retval
+    try:
+        server_logger.info(f"Running with temperature={temperature} chain={chain} sources={sources} retrieval_k={retrieval_k} model={model} method={method}")
+        chat_logger.info(f"c[{chain}].Q='{query}'")
+    
+        dotenv.load_dotenv()
+        connection_string = f"postgresql://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_DATABASE')}"
+    
+        if (os.path.exists("cache.json")):
+            with open("cache.json", "r") as f:
+                cache = json.load(f)
+        else:
+            cache = {}
+    
+        embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
+    
+        retrievers = []
+        for collection in ['paper', 'book', 'blog', 'lecture', 'notes']:
+            db = PGVector(
+                embedding_function=embeddings,
+                connection_string=connection_string,
+                collection_name=f"{collection}_{embedding_size}",
+            )
+            retrievers.append(db.as_retriever(search_kwargs={"k": retrieval_k}))
+    
+        base_retriever = MergerRetriever(retrievers=retrievers)
+        llm = ChatOpenAI(temperature = temperature, model = model, callbacks=[CustomCallbackHandler(request_handler)], streaming=True)
+    
+        if method == 'compressed':
+            base_compressor = LLMChainExtractor.from_llm(llm)
+            retriever = ContextualCompressionRetriever(base_compressor=base_compressor, base_retriever=base_retriever)
+        elif method == 'retrieval' or method == 'conversation':
+            retriever = base_retriever
+        else:
+            raise ValueError(f"Unknown method: {method}")
+    
+        input = {}
+        memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
+        if method == 'conversation':
+            qa_chain = ConversationalRetrievalChain.from_llm(
+                llm,
+                retriever=retriever,
+                verbose=verbose,
+                memory=memory,
+            )
+            # chat_history = []
+            # input["chat_history"] = chat_history
+            input["question"] = query
+        else:
+            PROMPT = PromptTemplate(
+                template=stuff_prompt_template, input_variables=["context", "question"]
+            )
+            qa_chain = RetrievalQA.from_chain_type(
+                llm=llm,
+                chain_type=chain,
+                retriever=retriever,
+                return_source_documents=sources,
+                verbose=verbose
+            )
+            input["query"] = query
+    
+        retval = qa_chain(input)
+        return retval
+    except e as Exception:
+        server_logger.error(e)
 
 
 class DocumentEncoder(json.JSONEncoder):

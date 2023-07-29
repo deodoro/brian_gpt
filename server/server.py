@@ -46,10 +46,6 @@ fh2.setLevel(logging.INFO)
 fh2.setFormatter(logging.Formatter(log_format, datefmt=date_format))
 chat_logger.addHandler(fh2)  # Add file handler to chat logger
 
-# Use the loggers
-server_logger.info('regular call')
-chat_logger.info('a chat message')
-
 # class LogHandler(tornado.web.RequestHandler):
 #     def get(self):
 #         start = self.get_argument('start', None)

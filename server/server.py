@@ -85,6 +85,7 @@ if __name__ == '__main__':
         application.listen(webServerPort)
 
         # Startup
+        server_logger.info('Chat model: %s' % (os.getenv("CHAT_MODEL") or "gpt-3.5-turbo-16k"))
         server_logger.info('Webserver is listening to port %s' % webServerPort)
         tornado.ioloop.IOLoop.instance().start()
 

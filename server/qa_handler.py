@@ -24,12 +24,36 @@ server_logger = logging.getLogger('server')
 chat_logger = logging.getLogger('chat')
 
 # stuff_prompt_template = """You speak only in rhymes. You are Economics PhD student, the microeconomics teacher assistant. You are trying to help students to study exam questions. For each answer, expand concepts and demonstrate your knowledge. Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer. Output markup in HTML.
-stuff_prompt_template = """You speak only in rhymes. You are Economics PhD. Use the following pieces of context to answer the question at the end. Output should be HTML.
+stuff_prompt_template = """You are student in the Economics PhD, assistant for microeonomics.
 
-{context}
+Use only this information: {context}
+
+Answer considering only the reference material: {question}
+
+Lecture with examples and explain concepts of microeconomics related to your final answer.
+"""
+
+map_reduce_question_template = """You are student in the Economics PhD, assistant for microeonomics. Use the following portion of a long document to see if any of the text is relevant to answer the question.
+When input text is relevant, lecture about the relation between question and input. Otherwise reply "No comment".
+
+Document: {context}
 
 Question: {question}
-Helpful Answer:"""
+
+Comment:
+"""
+
+map_reduce_combine_template = """You are student in the Economics PhD, assistant for microeonomics.
+Given the following extracted parts of a long document and a question, create a final answer.
+Lecture, give examples and present and explain concepts of microeconomics contained in your final answer.
+
+SOURCES:
+
+QUESTION: {question}
+
+{summaries}
+
+FINAL ANSWER:"""
 
 class CustomCallbackHandler(BaseCallbackHandler):
     def __init__(self, request_handler=None):
@@ -50,18 +74,18 @@ def perform(request_handler, query, temperature, chain, sources, retrieval_k, mo
     try:
         server_logger.info(f"Running with temperature={temperature} chain={chain} sources={sources} retrieval_k={retrieval_k} model={model} method={method}")
         chat_logger.info(f"c[{chain}].Q='{query}'")
-    
+
         dotenv.load_dotenv()
         connection_string = f"postgresql://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_DATABASE')}"
-    
+
         if (os.path.exists("cache.json")):
             with open("cache.json", "r") as f:
                 cache = json.load(f)
         else:
             cache = {}
-    
+
         embeddings = OpenAIEmbeddings(model="text-embedding-ada-002")
-    
+
         retrievers = []
         for collection in ['paper', 'book', 'blog', 'lecture', 'notes']:
             db = PGVector(
@@ -70,10 +94,10 @@ def perform(request_handler, query, temperature, chain, sources, retrieval_k, mo
                 collection_name=f"{collection}_{embedding_size}",
             )
             retrievers.append(db.as_retriever(search_kwargs={"k": retrieval_k}))
-    
+
         base_retriever = MergerRetriever(retrievers=retrievers)
         llm = ChatOpenAI(temperature = temperature, model = model, callbacks=[CustomCallbackHandler(request_handler)], streaming=True)
-    
+
         if method == 'compressed':
             base_compressor = LLMChainExtractor.from_llm(llm)
             retriever = ContextualCompressionRetriever(base_compressor=base_compressor, base_retriever=base_retriever)
@@ -81,7 +105,7 @@ def perform(request_handler, query, temperature, chain, sources, retrieval_k, mo
             retriever = base_retriever
         else:
             raise ValueError(f"Unknown method: {method}")
-    
+
         input = {}
         memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
         if method == 'conversation':
@@ -95,21 +119,33 @@ def perform(request_handler, query, temperature, chain, sources, retrieval_k, mo
             # input["chat_history"] = chat_history
             input["question"] = query
         else:
-            PROMPT = PromptTemplate(
-                template=stuff_prompt_template, input_variables=["context", "question"]
-            )
+            if chain == "stuff":
+                chain_type_kwargs = {"prompt": PromptTemplate(
+                    template=stuff_prompt_template, input_variables=["context", "question"]
+                )}
+            elif chain == "map_reduce":
+                chain_type_kwargs = {"question_prompt": PromptTemplate(
+                    template=map_reduce_question_template, input_variables=["context", "question"]
+                ), "combine_prompt": PromptTemplate(
+                    template=map_reduce_combine_template, input_variables=["summaries", "question"]
+                )}
+            else:
+                chain_type_kwargs = {}
+
+            print(chain_type_kwargs)
             qa_chain = RetrievalQA.from_chain_type(
                 llm=llm,
                 chain_type=chain,
                 retriever=retriever,
                 return_source_documents=sources,
-                verbose=verbose
+                verbose=verbose,
+                chain_type_kwargs=chain_type_kwargs,
             )
             input["query"] = query
-    
+
         retval = qa_chain(input)
         return retval
-    except e as Exception:
+    except Exception as e:
         server_logger.error(e)
 
 

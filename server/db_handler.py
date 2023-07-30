@@ -55,7 +55,6 @@ class QuestionsByYearHandler(BaseHandler):
 class QuestionsByExamHandler(BaseHandler):
     async def get(self, year, exam):
         async with pool.acquire() as connection:
-            print(f"year={year}, exam={exam}")
             result = await connection.fetch('SELECT addr, id FROM questions WHERE year = $1 AND exam = $2 ORDER BY part, number', year, exam)
             self.write(tornado.escape.json_encode([dict(row) for row in result]))
 

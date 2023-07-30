@@ -52,8 +52,27 @@ const QuestionView = () => {
     }
   }
 
+  const handleCompareAnswers = async () => {
+    const cached = JSON.parse(localStorage.getItem(`answer_${questionData["addr"].trim()}`));
+    if (cached && (Date.now() - new Date(cached.timestamp) < 24 * 60 * 60 * 1000)) {
+      appendMessage({
+        role: "user",
+        content: "Compare answers provided by answer key and by GPT. Analyze how they differ. Discuss microeconomics concepts related to your final answer.\n\n" +
+          "question: " + questionData["enunciate"] + "\n\n" +
+          "answer key: " + questionData["answer"] + "." + questionData["explanation"] + "\n\n" +
+          "GPT answer: " + cached["content"] + "\n\nFinal answer:",
+        send: true,
+      });
+    }
+    else {
+      setNotice("Please COMPUTE ANSWER before analyzing");
+    }
+  };
+
   const FetchComputeAnswer = async () => {
     const apiUrl = process.env.API_URL || '/api';
+    const localStorageKey = `answer_${questionData["addr"].trim()}`;
+
     appendMessage({
       content: questionData["enunciate"],
       role: "user"
@@ -122,6 +141,7 @@ const QuestionView = () => {
         source_documents: jsonPayload["source_documents"],
         params: params,
       });
+      localStorage.setItem(localStorageKey, JSON.stringify({content: content, timestamp: new Date().toISOString()}));
     }
     processResponse();
   };
@@ -145,10 +165,11 @@ const QuestionView = () => {
           <div>
             <Box>
               <Button className="answer" onClick={handleComputeAnswer}>Compute Answer</Button>
-              <Button className="show" onClick={handleVerifyAnswer}>Verify my answer</Button>
+              <Button className="verify" onClick={handleVerifyAnswer}>Verify my answer</Button>
               <Button className="show" onClick={() => showAnswerSheet(!answerSheet)}>
-                {answerSheet ? "Hide answer sheet" : "Show answer sheet"}
+                {answerSheet ? "Hide answer key" : "Show answer key"}
               </Button>
+              <Button className="show" onClick={handleCompareAnswers}>Analyze answer key</Button>
             </Box>
 
             {showForm &&

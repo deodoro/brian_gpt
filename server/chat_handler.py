@@ -46,7 +46,7 @@ class ChatHandler(CorsHandler):
 
         try:
             openai.api_key = os.getenv("OPENAI_API_KEY")
-            chatgpt_model_name = "gpt-3.5-turbo-16k"
+            chatgpt_model_name = os.getenv("CHAT_MODEL") or "gpt-3.5-turbo-16k"
             chat_log.info(f"Q='{chat['chat'][-1]['content']}'")
 
             response = openai.ChatCompletion.create(

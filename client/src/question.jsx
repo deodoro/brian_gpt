@@ -57,10 +57,9 @@ const QuestionView = () => {
     if (cached && (Date.now() - new Date(cached.timestamp) < 24 * 60 * 60 * 1000)) {
       appendMessage({
         role: "user",
-        content: "Compare answers provided by answer key and by GPT. Analyze how they differ. Discuss microeconomics concepts related to your final answer.\n\n" +
-          "question: " + questionData["enunciate"] + "\n\n" +
-          "answer key: " + questionData["answer"] + "." + questionData["explanation"] + "\n\n" +
-          "GPT answer: " + cached["content"] + "\n\nFinal answer:",
+        content: "Analyze and discuss this answer. Expand and discuss related microeconomics concepts. Assume the answer key is always the correct answer.\n\n" +
+        "question=\n" + questionData["enunciate"] + "\n\n" +
+        "answer key=\n" + questionData["answer"] + "." + questionData["explanation"] + "\n\n",
         send: true,
       });
     }

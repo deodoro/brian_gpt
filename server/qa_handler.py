@@ -132,7 +132,6 @@ def perform(request_handler, query, temperature, chain, sources, retrieval_k, mo
             else:
                 chain_type_kwargs = {}
 
-            print(chain_type_kwargs)
             qa_chain = RetrievalQA.from_chain_type(
                 llm=llm,
                 chain_type=chain,

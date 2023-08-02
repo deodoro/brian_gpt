@@ -59,6 +59,7 @@ const QuestionView = () => {
         role: "user",
         content: "Analyze and discuss this answer. Expand and discuss related microeconomics concepts. Assume the answer key is always the correct answer.\n\n" +
         "question=\n" + questionData["enunciate"] + "\n\n" +
+        "answer=\n" + cached["content"] + "\n\n" +
         "answer key=\n" + questionData["answer"] + "." + questionData["explanation"] + "\n\n",
         send: true,
       });
@@ -89,7 +90,6 @@ const QuestionView = () => {
       }),
     });
 
-    let completeResponse = "";
     const decoder = new TextDecoder("utf-8");
 
     let incoming_content = "";
@@ -98,6 +98,7 @@ const QuestionView = () => {
       let doneIndex = -1;
       let jsonPayload = "";
 
+      // eslint-disable-next-line no-constant-condition
       while (true) {
         const { done, value: chunk } = await reader.read();
         if (done) {

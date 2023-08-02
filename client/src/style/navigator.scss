@@ -49,7 +49,7 @@
     background-color: #1C3144;
 }
 
-.question.selected {
+.question.selected, .custom.selected {
     background-color: #FFCB00;
 }
 
@@ -59,6 +59,19 @@
     padding: 0.4em 1em 0.2em;
     font-size: 0.9em;
     background-color: #909090;
+    border-radius: 0.4em;
+    color: #ffffff;
+    font-weight: 500;
+    text-align: center;
+    cursor: pointer;
+}
+
+.custom {
+    display: inline-block;
+    margin: 0.5em;
+    padding: 0.4em 1em 0.2em;
+    font-size: 0.9em;
+    background-color: #b920fa;
     border-radius: 0.4em;
     color: #ffffff;
     font-weight: 500;

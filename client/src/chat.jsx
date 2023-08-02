@@ -1,26 +1,17 @@
-import React, { useRef, useState, useEffect, useImperativeHandle, forwardRef } from "react";
-import { Typography, Button, Box, CircularProgress, Tooltip } from '@mui/material';
+import React, { useRef, useState, useEffect } from "react";
+import { Button, Box, CircularProgress } from '@mui/material';
 import TextareaAutosize from "react-textarea-autosize";
 import MessageBubble from "./message-bubble";
 import ReactMarkdown from 'react-markdown';
 import useStore from "./store";
-import uuid4 from "uuid";
 import "./style/chat.scss";
 import Notice from "./notice"
 
-function usePrevious(value) {
-  const ref = useRef();
-  useEffect(() => {
-    ref.current = value; //assign the value of ref to the argument
-  },[value]); //this code will run when the value of 'value' changes
-  return ref.current; //in the end, return the current ref value.
-}
-
-const Chat = React.forwardRef((props, ref) => {
+// eslint-disable-next-line react/display-name
+const Chat = React.forwardRef(() => {
   const messagesEndRef = useRef(null);
   const [isHovered, setIsHovered] = useState(false);
 
-  const [timeoutId, setTimeoutId] = useState(-1);
   const [interrupted, setInterrupted] = useState(false);
   const textareaRef = useRef(null);
   const abortController = useRef(null);
@@ -31,7 +22,6 @@ const Chat = React.forwardRef((props, ref) => {
   const setNotice = useStore(state => state.setNotice);
   const temperature = useStore(state => state.temperature);
   const chatId = useStore(state => state.chatId);
-  const setChatId = useStore(state => state.setChatId);
   const genChatId = useStore(state => state.genChatId);
   const incoming = useStore(state => state.incoming);
   const setIncoming = useStore(state => state.setIncoming);
@@ -66,7 +56,6 @@ const Chat = React.forwardRef((props, ref) => {
 
   // Global initialization, installs body event listeners
   useEffect(() => {
-    let lastOpened = 0;
     resetChat(true);
     document.documentElement.style.setProperty('--body-font', chatFont);
 
@@ -121,13 +110,6 @@ const Chat = React.forwardRef((props, ref) => {
     }, 500);
   };
 
-  const stopFetching = () => {
-    if (abortController.current) {
-      abortController.current.abort();
-    }
-    setInterrupted(true);
-  };
-
   // On Change for messages and temperature
   // Send a POST request to the API and animates streaming response
   useEffect(() => {
@@ -148,7 +130,6 @@ const Chat = React.forwardRef((props, ref) => {
         signal: signal
       });
 
-      let completeResponse = "";
       const decoder = new TextDecoder('utf-8');
       const processTimeout = setTimeout(() => { console.warn("Interrupted receiving process due to timeout"); setInterrupted(true);}, 90000);
 
@@ -157,7 +138,6 @@ const Chat = React.forwardRef((props, ref) => {
       async function processResponse() {
         let reader = response.body.getReader();
         let doneIndex = -1;
-        let json_payload = '';
 
         while (!interrupted) {
             const { done, value: chunk } = await reader.read();
@@ -168,15 +148,12 @@ const Chat = React.forwardRef((props, ref) => {
               doneIndex = chunk_str.indexOf('\n\n**DONE**');
               if (doneIndex !== -1) {
                 let doneChunk = chunk_str.substring(doneIndex, chunk_str.length);
-                json_payload = doneChunk.replace('\n\n**DONE**\n\n', '');
+                doneChunk.replace('\n\n**DONE**\n\n', '');
                 chunk_str = chunk_str.substring(0, doneIndex);
               }
               incoming_content += chunk_str;
               setIncoming(incoming_content + "\u258C");
               scrollToBottom();
-            }
-            else {
-              json_payload += chunk_str;
             }
         }
         clearTimeout(processTimeout);
@@ -208,12 +185,6 @@ const Chat = React.forwardRef((props, ref) => {
     }
   }
 
-  // Loads chat into the window
-  const loadChat = (chat) => {
-    genChatId();
-    setMessages([{"content": WELCOME_MESSAGE, "role" : "system"}, ...chat.messages]);
-  }
-
   // Clears messages up to the given index
   const resetMessagesTo = (index) => {
     let text = null;
@@ -231,7 +202,7 @@ const Chat = React.forwardRef((props, ref) => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   };
 
-  const handleBackgroundClick = (e) => {
+  const handleBackgroundClick = () => {
     setIsHovered(false);
   };
 
@@ -282,7 +253,9 @@ const Chat = React.forwardRef((props, ref) => {
         {(incoming !== "") &&
           <>
             <Box className={`message system temperature-0`}>
-                <ReactMarkdown className="inner-text" children={incoming} />
+                <ReactMarkdown className="inner-text">
+                  {incoming}
+                </ReactMarkdown>
             </Box>
             <Box display="flex" justifyContent="center" mt={2} className="hourglass">
                 <CircularProgress size={"1em"} />

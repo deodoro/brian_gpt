@@ -1,3 +1,4 @@
+import sys
 import os
 import json
 import argparse
@@ -19,10 +20,11 @@ if __name__ == '__main__':
     text_splitter = SpacyTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
 
     docs = []
-    for file in glob('inputs/*.json'):
+    for file in glob('inputs/sources/*.json'):
         if file != 'inputs/question_db.json':
             filename = os.path.basename(file)
             print("Loading file: " + file, end="")
+            sys.stdout.flush()
             data = json.load(open(file, 'r'))
             metadatas = []
 
@@ -40,6 +42,6 @@ if __name__ == '__main__':
                 docs += text_splitter.create_documents([i["content"] for i in item["pages"]], metadatas)
             print("\r Split file: " + file)
 
-    output_filename = f'output/chunked_{chunk_size}.json'
+    output_filename = f'output/sources/chunked_{chunk_size}.json'
     with open(output_filename, 'wt') as f:
-        json.dump([{"page_content": remove_single_word_lines(d.page_content), "metadata": d.metadata} for d in docs], f, indent=2)
+        json.dump([{"page_content": remove_single_word_lines(d.page_content), "metadata": d.metadata} for d in docs], f, indent=1)

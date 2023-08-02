@@ -86,6 +86,24 @@ a:hover {
   }
 }
 
+body {
+  scrollbar-width: thin;
+  scrollbar-color: var(--chat-list-scrollbar-primary) var(--chat-list-scrollbar-secondary);
+}
+
+body::-webkit-scrollbar {
+  width: 4px;
+}
+
+body::-webkit-scrollbar-track {
+  background: var(--chat-list-scrollbar-secondary);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: var(--chat-list-scrollbar-primary);
+  border-radius: 4px;
+}
+
 .navigator-container {
   margin: 0 auto;
   width: 65vw;

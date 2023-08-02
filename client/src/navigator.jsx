@@ -3,6 +3,7 @@ import { Box } from '@mui/material';
 import axios from 'axios';
 import useStore from './store';
 import QuestionView from './question'
+import CustomQueryView from './custom_query'
 import './style/navigator.scss'
 
 const Navigator = () => {
@@ -12,7 +13,6 @@ const Navigator = () => {
   const [selectedYear, setSelectedYear] = useState(null);
   const [selectedExam, setSelectedExam] = useState(null);
   const [selectedQuestion, setSelectedQuestion] = useState(null);
-  const questionData = useStore(store => store.questionData);
   const setQuestionData = useStore(store => store.setQuestionData);
   const apiUrl = process.env.API_URL || '/api';
 
@@ -100,9 +100,13 @@ const Navigator = () => {
             <div className="question-var">{question["addr"]}</div>
           </div>
         ))}
+        <div key={99999}  className={`custom ${"custom" == selectedQuestion ? 'selected' : ''}`} onClick={() => setSelectedQuestion('custom')}>
+          <div className="question-var">Custom</div>
+        </div>
       </Box>
       <Box className='view'>
-        <QuestionView />
+        {selectedQuestion == "custom" && <CustomQueryView />}
+        {selectedQuestion != "custom" && <QuestionView />}
       </Box>
     </Box>
   );

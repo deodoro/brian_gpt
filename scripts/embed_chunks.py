@@ -26,7 +26,7 @@ def main():
   file = sys.argv[1]
   (filename, ext) = os.path.splitext(os.path.basename(file))
   print("Loading file: " + file)
-  out_filename = f"output/{filename}.1{ext}"
+  out_filename = f"output/sources/{filename}.1{ext}"
   all_data = json.load(open(file, 'r'))
   if os.path.exists(out_filename):
     print("Loading partial: " + out_filename)

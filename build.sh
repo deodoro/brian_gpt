@@ -1,5 +1,8 @@
 echo "Cleaning up"
-rm -rf build/*.py build/requirements.txt build/dist
+mkdir -p build
+rm -rf build/*
+cp docker/Dockerfile build
+cp docker/env build
 echo "Copying server files"
 cp server/*.py server/requirements.txt build
 echo "Building client"

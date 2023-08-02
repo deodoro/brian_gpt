@@ -32,6 +32,13 @@ create table questions (
   embedding_combined vector(1536)
 );
 
+create table qualifiers (
+    year char(4),
+    q char(5),
+    question varchar(1024),
+    unique(year, q)
+);
+
 alter table questions add constraint unique_enunciate unique (enunciate);
 """
 # create table sources (

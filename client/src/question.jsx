@@ -70,7 +70,7 @@ const QuestionView = () => {
   };
 
   const FetchComputeAnswer = async () => {
-    const apiUrl = process.env.API_URL || '/api';
+    const apiUrl = process.env.REACT_APP_API_URL || '/api';
     const localStorageKey = `answer_${questionData["addr"].trim()}`;
 
     appendMessage({

@@ -102,3 +102,4 @@ yarn-error.log*
 docker/*.py
 docker/dist/*
 docker/env
+restart.sh

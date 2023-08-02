@@ -14,7 +14,7 @@ const Navigator = () => {
   const [selectedExam, setSelectedExam] = useState(null);
   const [selectedQuestion, setSelectedQuestion] = useState(null);
   const setQuestionData = useStore(store => store.setQuestionData);
-  const apiUrl = process.env.API_URL || '/api';
+  const apiUrl = process.env.REACT_APP_API_URL || '/api';
 
   useEffect(() => {
     const fetchYears = async () => {

@@ -117,7 +117,7 @@ const Chat = React.forwardRef(() => {
     const signal = abortController.signal;
 
     const fetchChat = async () => {
-      const apiUrl = process.env.API_URL || '/api';
+      const apiUrl = process.env.REACT_APP_API_URL || '/api';
 
       setIncoming("\u258C")
       scrollToBottom();

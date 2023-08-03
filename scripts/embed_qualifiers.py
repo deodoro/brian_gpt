@@ -30,20 +30,16 @@ if __name__ == '__main__':
     for item in data:
         print("Loading documents... [{0}/{1}]".format(c, len(data)), end="\r")
         c += 1
-        answer = item["answer"].replace('[ChatGPT]', '').strip()
-        explanation = item["explanation"].replace('[ChatGPT]', '').strip()
-        u = { "enunciate": item["enunciate"], \
-            "answer": answer, \
-            "explanation": explanation, \
-            "combined" : format_response(item["enunciate"], answer, explanation),
-            "embedding_enunciate": get_embeddings(item["enunciate"]),\
-            "embedding_answer": get_embeddings(answer),\
-            "embedding_explanation": get_embeddings(explanation),\
-            "embedding_combined": get_embeddings(format_response(item["enunciate"], answer, explanation))}
+        u = { "y": item["y"], \
+              "q": item["q"], \
+              "t": item["t"], \
+              "n": item["n"], \
+              "q": get_embeddings(item["q"])
+        }
         docs.append(u)
-        with open('output/questions_embedded.json', 'wt') as f:
+        with open('output/qualifiers_embedded.json', 'wt') as f:
             f.write(json.dumps(docs, indent=2))
-    print("Done loading documents")
+    print("Done loading qualifiers")
 
 if __name__ == '__main__1':
     # test embeddings

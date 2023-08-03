@@ -32,14 +32,18 @@ create table questions (
   embedding_combined vector(1536)
 );
 
-create table qualifiers (
-    year char(4),
-    q char(5),
-    question varchar(1024),
-    unique(year, q)
-);
-
 alter table questions add constraint unique_enunciate unique (enunciate);
+
+drop table if exists qualifiers;
+
+create table qualifiers (
+    y char(8),
+    n char(5),
+    q varchar(1024),
+    t varchar(255),
+    e vector(1536),
+    unique(y, n)
+);
 """
 # create table sources (
 #     id serial primary key,

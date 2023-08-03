@@ -10,6 +10,7 @@ import re
 from chat_handler import ChatHandler
 from db_handler import *
 from qa_handler import QAHandler
+from search_handler import SearchHandler
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -75,6 +76,7 @@ if __name__ == '__main__':
             (r'/api/questions/([^/]+)/([^/]+)/([^/]+)/([^/]+)$', QuestionsHandler),
             (r'/api/question/(.*)', QuestionHandler),
             (r'/api/qa', QAHandler),
+            (r'/api/search', SearchHandler),
             (r"/()", tornado.web.StaticFileHandler, {"path": '/var/www', "default_filename": "index.html"}),
             (r"/(.*)", tornado.web.StaticFileHandler, {"path": '/var/www'}),
         ]

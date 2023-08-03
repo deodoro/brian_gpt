@@ -164,12 +164,12 @@ const QuestionView = () => {
           </div>
           <div>
             <Box>
-              <Button className="answer" onClick={handleComputeAnswer}>Compute Answer</Button>
-              <Button className="verify" onClick={handleVerifyAnswer}>Verify my answer</Button>
-              <Button className="show" onClick={() => showAnswerSheet(!answerSheet)}>
+              <Button variant="contained" className="answer" color="info" onClick={handleComputeAnswer}>Compute Answer</Button>
+              <Button variant="contained" className="verify" color="success" onClick={handleVerifyAnswer}>Verify my answer</Button>
+              <Button variant="contained" className="show" color="secondary" onClick={() => showAnswerSheet(!answerSheet)}>
                 {answerSheet ? "Hide answer key" : "Show answer key"}
               </Button>
-              <Button className="show" onClick={handleCompareAnswers}>Analyze answer key</Button>
+              <Button variant="contained" className="show" color="warning" onClick={handleCompareAnswers}>Analyze answer key</Button>
             </Box>
 
             {showForm &&

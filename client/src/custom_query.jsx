@@ -13,6 +13,7 @@ const CustomQueryView = () => {
     k: 5,
     model: "gpt-3.5-turbo-16k",
     embedding_size: "350",
+    ref_type: "all",
   });
 
   const handleChange = (e) => {
@@ -119,16 +120,43 @@ const CustomQueryView = () => {
     processResponse();
   };
 
-  const handleSubmit = async () => {
-
-  }
-
   // On keydown, if enter is pressed, submit the message
   const handleKeyDown = (event) => {
     if (event.key === 'Enter' && !event.shiftKey) {
       event.preventDefault();
-      handleSubmit();
+      FetchComputeAnswer();
     }
+  };
+
+  const handleSearch = async () => {
+    const apiUrl = process.env.REACT_APP_API_URL || '/api';
+    console.log("here");
+
+    appendMessage({
+      content: `Search references for "${query}"`,
+      role: "user"
+    });
+    setIncoming("\u258C");
+
+    const response = await fetch(`${apiUrl}/search`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        ...params,
+        query: query,
+      }),
+    });
+
+    const docs = await response.json();
+    setIncoming("");
+    appendMessage({
+      content: "Search results",
+      role: "system",
+      source_documents: docs,
+      params: params,
+    });
   };
 
   return (
@@ -188,6 +216,18 @@ const CustomQueryView = () => {
                                 </Select>
                             </FormControl>
                         </Grid>
+                        <Grid item xs={12} sm={6} md={6}>
+                            <FormControl fullWidth className="select">
+                                <FormLabel>Reference types (*search)</FormLabel>
+                                <Select name="ref_type" value={params.ref_type} onChange={handleChange}>
+                                <MenuItem value="all">all</MenuItem>
+                                <MenuItem value="book">book</MenuItem>
+                                <MenuItem value="paper">paper</MenuItem>
+                                <MenuItem value="lecture">lecture</MenuItem>
+                                <MenuItem value="blog">blog</MenuItem>
+                                </Select>
+                            </FormControl>
+                        </Grid>
                         <Grid item xs={12} sm={6} md={3}>
                             <FormControlLabel
                                 control={<Checkbox name="sources" checked={params.sources} onChange={(e) => handleChange({ target: { name: e.target.name, value: e.target.checked } })} />}
@@ -204,7 +244,8 @@ const CustomQueryView = () => {
                 </FormControl>
                 <Box className='footer'>
                     <Button type="submit" variant="contained" color="primary" onClick={async (e) => {e.preventDefault(); await FetchComputeAnswer();}}>Compute Answer</Button>
-                    <Button className="verify" onClick={handleVerifyAnswer}>Verify my answer</Button>
+                    <Button className="verify" variant="contained" color="secondary" onClick={handleVerifyAnswer}>Verify my answer</Button>
+                    <Button className="search" variant="contained" color="warning" onClick={handleSearch}>Search references</Button>
                 </Box>
             </form>
         </Box>

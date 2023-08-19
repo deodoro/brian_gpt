@@ -11,7 +11,6 @@ import secrets
 from chat_handler import ChatHandler
 from db_handler import *
 from qa_handler import QAHandler
-from auth_handler import AuthHandler
 from search_handler import SearchHandler
 from dotenv import load_dotenv
 
@@ -68,14 +67,13 @@ if __name__ == '__main__':
             (r'/api/question/(.*)', QuestionHandler),
             (r'/api/qa', QAHandler),
             (r'/api/search', SearchHandler),
-            (r'/api/auth', AuthHandler),
             (r"/()", tornado.web.StaticFileHandler, {"path": '/var/www', "default_filename": "index.html"}),
             (r"/(.*)", tornado.web.StaticFileHandler, {"path": '/var/www'}),
         ]
 
         # Tornado initialization
         webServerPort = os.getenv('PORT') or 7071
-        application = tornado.web.Application(urls, cookie_secret=secrets.token_hex(32), debug=True)
+        application = tornado.web.Application(urls, debug=True)
         application.listen(webServerPort)
 
         # Startup

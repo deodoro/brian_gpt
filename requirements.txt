@@ -15,5 +15,3 @@ python-dotenv
 ipython
 redis
 tornado
-pyjwt
-

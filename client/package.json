@@ -14,8 +14,6 @@
     "last 1 Chrome version"
   ],
   "dependencies": {
-    "@azure/msal-browser": "^3.0.2",
-    "@azure/msal-react": "^2.0.2",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.10.4",
     "@mui/icons-material": "^5.11.16",
@@ -29,7 +27,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-markdown": "^8.0.7",
-    "react-simple-oauth2-login": "^0.5.4",
     "react-textarea-autosize": "^8.5.0",
     "uuid": "^9.0.0",
     "zustand": "^4.3.9"

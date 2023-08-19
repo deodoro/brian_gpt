@@ -6,7 +6,6 @@ import ReactMarkdown from 'react-markdown';
 import useStore from "./store";
 import "./style/chat.scss";
 import Notice from "./notice"
-import MsalUtils from "./msal-utils";
 
 // eslint-disable-next-line react/display-name
 const Chat = React.forwardRef(() => {
@@ -125,13 +124,11 @@ const Chat = React.forwardRef(() => {
       const response = await fetch(`${apiUrl}/chat`, {
         method: 'POST',
         headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${await MsalUtils.getAccessToken()}`
+          'Content-Type': 'application/json'
         },
         body: JSON.stringify({chatId, chat: messages.slice(1), temperature}),
         signal: signal
       });
-      console.dir(`Bearer ${await MsalUtils.getAccessToken()}`)
 
       const decoder = new TextDecoder('utf-8');
       const processTimeout = setTimeout(() => { console.warn("Interrupted receiving process due to timeout"); setInterrupted(true);}, 90000);

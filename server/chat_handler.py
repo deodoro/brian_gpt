@@ -8,7 +8,6 @@ import re
 import uuid
 import datetime
 import time
-import jwt
 
 server_log = logging.getLogger('server')
 chat_log = logging.getLogger('chat')
@@ -30,36 +29,6 @@ def save_chat_history(chat_id, chat):
 class ChatHandler(CorsHandler):
     def initialize(self):
         pass
-
-    async def fetch_jwks(self, jwks_uri):
-        http_client = tornado.httpclient.AsyncHTTPClient()
-        response = await http_client.fetch(jwks_uri)
-        jwks = json.loads(response.body)
-        return {
-            key["kid"]: jwt.algorithms.RSAAlgorithm.from_jwk(json.dumps(key))
-            for key in jwks["keys"]
-        }
-
-    async def prepare(self):
-        token = self.request.headers.get("Authorization")
-        if not token or not token.startswith("Bearer "):
-            self.set_status(401)
-            self.finish("Missing or invalid token")
-            return
-
-        token = token.split(" ")[1]
-
-        jwks_uri = "https://login.microsoftonline.com/common/discovery/keys"
-        jwks = await self.fetch_jwks(jwks_uri)
-
-        kid = jwt.get_unverified_header(token)["kid"]
-
-        try:
-            jwt.decode(token, jwks[kid], algorithms=['RS256'], audience=os.getenv("OAUTH_CLIENT_ID"), issuer="https://sts.windows.net/296985c5-7b22-48c1-bac3-748b5b82de20/")
-        except Exception as e:
-            self.set_status(401)
-            self.finish(f"Invalid token: {str(e)}")
-            return
 
     def post(self):
         try:

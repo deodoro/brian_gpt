@@ -7,6 +7,7 @@ import os
 import sys
 import datetime
 import re
+import secrets
 from chat_handler import ChatHandler
 from db_handler import *
 from qa_handler import QAHandler
@@ -74,7 +75,7 @@ if __name__ == '__main__':
 
         # Tornado initialization
         webServerPort = os.getenv('PORT') or 7071
-        application = tornado.web.Application(urls, debug=False)
+        application = tornado.web.Application(urls, cookie_secret=secrets.token_hex(32), debug=True)
         application.listen(webServerPort)
 
         # Startup

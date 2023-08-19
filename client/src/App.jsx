@@ -1,12 +1,13 @@
-import React from "react";
+import {React, useEffect} from "react";
 import Box from '@mui/material/Box';
 import Chat from './chat';
 import Navigator from './navigator';
 import Typography from '@mui/material/Typography';
+import { useMsal, MsalProvider } from "@azure/msal-react";
 import { ThemeProvider } from "@emotion/react";
 import { createTheme } from "@mui/material";
+import MsalUtils from "./msal-utils";
 import './style/App.scss';
-import OAuth2Login from 'react-simple-oauth2-login';
 
 const theme = createTheme({
   typography: {
@@ -19,24 +20,55 @@ const theme = createTheme({
   },
 });
 
-// const authConfig = {
-//   scope: ["openid", "profile", "email"],
-//   authorizeUrl: process.env.OAUTH_AUTHORIZATION_URI,
-//   clientID:  process.env.OAUTH_CLIENT_ID,
-//   redirectUri: process.env.OAUTH_REDIRECT_URI,
-// };
+const LogoffButton = () => {
+  const { instance, accounts } = useMsal();
+
+  if (accounts.length === 0) {
+      return null; // Don't show the button if not logged in
+  }
+
+  const handleLogout = () => {
+      instance.logout(); // This will clear the cache and logout the user
+  };
+
+  return <button onClick={handleLogout}>Log out</button>;
+}
 
 export default function App() {
+  MsalUtils.instance.initialize();
+  return (
+    <MsalProvider instance={MsalUtils.instance}>
+      <AppContent />
+    </MsalProvider>
+  )
+}
 
-  // React.useEffect(() => {
-  //   if (!token) {
-  //     getToken();
-  //   }
-  // }, [token, getToken]);
+function AppContent() {
+  const { instance, accounts } = useMsal();
 
-  // if (!token) {
-  //   return <div>Redirecting to Microsoft for authentication...</div>;
-  // }
+  const doLogin = async () => {
+      if (accounts.length === 0) {
+          try {
+              const response = await instance.loginPopup({
+                  scopes: ["openid", "profile", "email"]
+              });
+              console.dir(`token=${response.accessToken}`);
+          } catch (error) {
+              console.log("Login failed:", error);
+          }
+      } else {
+          const account = accounts[0];
+          const response = await instance.acquireTokenSilent({
+              account,
+              scopes: ["openid", "profile", "email"]
+          });
+          console.dir(`token=${response.accessToken}`);
+      }
+  };
+
+  useEffect(() => {
+      doLogin();
+  }, []);
 
   return (
     <ThemeProvider theme={theme}>
@@ -47,22 +79,11 @@ export default function App() {
           height: '100vh'
         }}
       >
-        <OAuth2Login
-          responseType="code"
-          scope="openid profile email"
-          authorizationUrl={process.env.REACT_APP_OAUTH_AUTHORIZATION_URI}
-          clientId={process.env.REACT_APP_OAUTH_CLIENT_ID}
-          redirectUri={process.env.REACT_APP_OAUTH_REDIRECT_URI}
-          onSuccess={(o) => console.dir(o)}
-          onFailure={() => console.log('failure')}
-          className='login-button'
-        />,
         <Box className="header">
-          {/* <img src="" alt="Logo" className="logo" /> */}
           <Typography variant="h4" component="h1" gutterBottom className="title">
             Micro-economics chatterbox
           </Typography>
-          {/* <div className='user-info'></div> */}
+          <LogoffButton />
         </Box>
         <Box sx={{ flexGrow: 0 }} className="navigator-container">
           <Navigator />

@@ -10,6 +10,7 @@ import re
 from chat_handler import ChatHandler
 from db_handler import *
 from qa_handler import QAHandler
+from auth_handler import AuthHandler
 from search_handler import SearchHandler
 from dotenv import load_dotenv
 
@@ -47,17 +48,6 @@ fh2.setLevel(logging.INFO)
 fh2.setFormatter(logging.Formatter(log_format, datefmt=date_format))
 chat_logger.addHandler(fh2)  # Add file handler to chat logger
 
-# class LogHandler(tornado.web.RequestHandler):
-#     def get(self):
-#         start = self.get_argument('start', None)
-#         end = self.get_argument('end', None)
-#         if re.match(r"[0-9]{4}-[0-9]{2}-[0-9]{2}", start) and re.match(r"[0-9]{4}-[0-9]{2}-[0-9]{2}", end):
-#             self.set_header('Content-Type', 'application/json')
-#             self.write(services.log(start, end))
-#             self.set_status(200)
-#         else:
-#             self.set_status(400)
-
 # API server boot
 if __name__ == '__main__':
     try:
@@ -77,6 +67,7 @@ if __name__ == '__main__':
             (r'/api/question/(.*)', QuestionHandler),
             (r'/api/qa', QAHandler),
             (r'/api/search', SearchHandler),
+            (r'/api/auth', AuthHandler),
             (r"/()", tornado.web.StaticFileHandler, {"path": '/var/www', "default_filename": "index.html"}),
             (r"/(.*)", tornado.web.StaticFileHandler, {"path": '/var/www'}),
         ]

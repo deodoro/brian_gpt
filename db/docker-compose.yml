@@ -16,8 +16,9 @@ services:
       POSTGRES_DB: langchain
       POSTGRES_USER: pguser
       POSTGRES_PASSWORD: password
+      PGOPTIONS: maintenance_work_mem=512MB
     ports:
       - "5432:5432"
     volumes:
       - ./store/pgvector:/var/lib/postgresql/data
-
+      - ./postgresql.conf:/etc/postgresql/postgresql.conf

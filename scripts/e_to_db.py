@@ -21,7 +21,8 @@ if __name__ == '__main__':
 
     # execute your SQL statement
     cur.execute("CREATE EXTENSION IF NOT EXISTS vector;")
-    print("Extension 'vector' created (if not existed)")
+    cur.execute("drop table IF EXISTS langchain_pg_collection;")
+    cur.execute("drop table IF EXISTS langchain_pg_embedding;")
 
     # close the cursor and connection
     cur.close()

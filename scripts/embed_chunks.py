@@ -19,14 +19,12 @@ def write_to_file(out_filename, docs):
     shutil.move(out_filename, out_filename + ".bak")
   with open(out_filename, 'wt') as f:
     f.write(json.dumps(docs, indent=2))
-  print(f"\nwritten in {(time.time() - t):.2f}")
+  print(" " * 25 + f" - written in {(time.time() - t):.2f}", end='\r')
 
-def main():
-  tm = time.time()
-  file = sys.argv[1]
+def do_it(file):
   (filename, ext) = os.path.splitext(os.path.basename(file))
   print("Loading file: " + file)
-  out_filename = f"output/sources/{filename}.1{ext}"
+  out_filename = f"output/{filename}.1{ext}"
   all_data = json.load(open(file, 'r'))
   if os.path.exists(out_filename):
     print("Loading partial: " + out_filename)
@@ -58,14 +56,19 @@ def main():
       docs.append({**item, "embedding": None})
 
     b += 1
-    if b % 50 == 0:
+    if b % 500 == 0:
       write_to_file(out_filename, docs)
 
-  if b % 30 != 0:
+  if b % 500 != 0:
     write_to_file(out_filename, docs)
-
   print("Done loading documents")
-  print(f"Ellapsed: {time.time() - tm:.2f} secs")
+
+def main():
+  #for c in ["3000", "1500", "750", "350"]:
+  for c in ["350"]:
+    tm = time.time()
+    do_it(f"output/chunked_{c}.json")
+    print(f"Ellapsed: {time.time() - tm:.2f} secs")
 
 if __name__ == '__main__':
   main()

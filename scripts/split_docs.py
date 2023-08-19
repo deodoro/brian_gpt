@@ -16,8 +16,8 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     chunk_size = args.chunk_size
-    chunk_overlap = int(chunk_size * 0.10)  # 10% of chunk_size
-    text_splitter = SpacyTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
+    # chunk_overlap = int(chunk_size * 0.10)  # 10% of chunk_size
+    text_splitter = SpacyTextSplitter(chunk_size=chunk_size, chunk_overlap=0)
 
     docs = []
     for file in glob('inputs/*.json'):
